@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Governor of California",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:58Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "As the state's chief executive officer, oversees most state departments and agencies, and appoints judges."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Proposes new laws, approves or vetoes legislation, and submits the annual state budget to the Legislature."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Mobilizes and directs state resources during emergencies."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/governor-candidate-statements.htm"
+  }
+}

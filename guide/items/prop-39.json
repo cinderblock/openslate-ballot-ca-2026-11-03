@@ -1,0 +1,864 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:01Z",
+  "about": {
+    "by": "Put on the Ballot by Petition Signatures",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Invalidates mail ballots that do not have last four digits of designated government-issued identification number written on envelope. Prohibits in-person voting without presenting government-issued identification. ",
+          {
+            "strong": [
+              "Fiscal Impact:"
+            ]
+          },
+          " Costs of between tens of millions of dollars and low hundreds of millions of dollars each year to implement new voting requirements. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " The Transparency Foundation; Latino American Political Assn; Howard Jarvis Taxpayers Assn; CA Women’s Leadership Assn ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " ACLU California Action; Common Cause; League of Women Voters of California"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/39/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: Voters would be required to present additional identifying information to elections officials each time they vote."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/39/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: A voter’s identity would continue to be established with the voter’s signature."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/39/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 39",
+      "file": "pdf/prop-39-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop39-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Prohibits voting by mail unless voter designates a government-issued identification number for their voter registration."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Invalidates mail ballots if envelope does not include last four digits of a government-issued identification number matching the number designated in the voter’s registration (e.g., if voter designates Social Security number for registration, but provides driver’s license number on envelope, their ballot would not count)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Prohibits voting in person without presenting government-issued identification."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Requires elections officials to annually report percentage of each county’s voters whose citizenship status they have verified."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "State and local government costs of between tens of millions of dollars and low hundreds of millions of dollars each year to implement new voting requirements. Costs depend on future decisions by the Legislature, state departments, local governments, and voters."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/39/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Elections Administration."
+                ]
+              }
+            ]
+          },
+          " County elections officials administer most elections in California. As part of this work, they print and mail ballots and other voting materials to registered voters. Some state agencies also have workload related to voting. For example, the Secretary of State oversees elections across the state and prepares and mails the state ",
+          {
+            "em": [
+              "Voter Information Guide"
+            ]
+          },
+          "."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "United States Citizenship Required to Vote in Federal, State, and Almost All Local Elections"
+                ]
+              }
+            ]
+          },
+          " A person must be a U.S. citizen to vote in any state or federal election. A noncitizen who votes in a state or federal election can be fined and/or sentenced to prison. A person must be a U.S. citizen to vote in the vast majority of local elections. (San Francisco and Oakland have a special process for people who are not U.S. citizens to vote only in school board elections if they are the parent, guardian, or legally recognized caregiver of a student in the school district.)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Voter Registration."
+                ]
+              }
+            ]
+          },
+          " In order to vote, people first must register with elections officials. People register to vote in the county where they live. To be eligible to register, a person must be a U.S. citizen, live in California, be at least 18 years old, not currently be in prison, and not be found unable to vote by a court. A person who makes a false statement when attempting to register to vote in California, such as by falsely stating that they are a U.S. citizen, is guilty of the crime of perjury. People can register online through the Secretary of State’s website, by mail, in person at a county elections office, or through the California Department of Motor Vehicles. A voter’s identity is established through the registration process by using their driver’s license number, state identification number, or last four digits of their Social Security number. Voters who do not provide this identifying information through the registration process may be asked to present identification the first time they vote."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Voter Rolls Maintenance."
+                ]
+              }
+            ]
+          },
+          " A voter roll is a list of people who are registered to vote. Elections officials are required to keep the voter rolls up to date by removing people who are no longer eligible to vote from the list. For example, elections officials receive regular updates from other government entities to identify people who have died or are in prison."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Voting."
+                ]
+              }
+            ]
+          },
+          " All registered voters in California receive a vote by mail (VBM) ballot. Voters can mail their ballot, drop it off at a ballot drop-off location, or vote in person at a voting location. In the November 2024 Presidential Election, about 16 million people voted in California. About 13 million voted using a VBM ballot, and about 3 million voted in person."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Voter Identification."
+                ]
+              }
+            ]
+          },
+          " Voters identify themselves when they vote in California. If they vote in person, they typically identify themselves by signing a list of registered voters before voting. If they vote by mail, they identify themselves by signing the envelope of their ballot. Elections officials verify signatures for VBM ballots before counting them. Elections officials generally do not verify signatures from in-person voters before counting the ballots."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "California State Auditor’s Office (State Auditor)."
+                ]
+              }
+            ]
+          },
+          " The State Auditor is an independent and nonpartisan office in state government. It reviews how well the state and local governments use money and run their programs. These reviews include performance audits to see if the government is following the law and working efficiently. The State Auditor may give recommendations to help improve government operations and efficiency. Some audits happen regularly, while others are done only once."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Requires State and Local Elections Officials to Verify U.S. Citizenship Status of Registered Voters."
+                ]
+              }
+            ]
+          },
+          " Proposition 39 requires state and local elections officials to make “best efforts” using government data to verify that voters on the rolls are U.S. citizens. Proposition 39 requires elections officials to report every year the percentage of registered voters in each county whose citizenship status has been verified."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Requires Voters to Select Government- Issued Identification for Voting by Mail."
+                ]
+              }
+            ]
+          },
+          " Proposition 39 requires new and existing voters to select a government-issued identification in their voter registration to vote by mail."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Requires Voters to Provide Additional Identifying Information to Vote."
+                ]
+              }
+            ]
+          },
+          " Proposition 39 requires voters to provide additional identifying information each time they cast a ballot in any election in California. Elections officials would be required to verify voters’ identities before counting their ballots. The identification requirement would depend on whether a voter casts their ballot in person or by mail:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "In-Person Voting."
+                      ]
+                    }
+                  ]
+                },
+                " When voting in person, Proposition 39 requires voters to present government-issued identification for identity verification."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Voting by Mail."
+                      ]
+                    }
+                  ]
+                },
+                " When voting by mail, Proposition 39 requires voters to provide the last four digits of their selected government-issued identification number on the ballot envelope. Elections officials would verify that the identification numbers provided on the ballot envelope match the voter’s registration information."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Creates New State-Issued Voter Identification Card."
+                ]
+              }
+            ]
+          },
+          " Proposition 39 requires the state to provide a voter identification card at no cost to voters who request one. The voter identification card could be used as the government-issued identification that verifies a voter’s identity when voting."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Requires State Auditor to Audit State and County Election Compliance Regularly."
+                ]
+              }
+            ]
+          },
+          " In every odd-numbered year, Proposition 39 requires the State Auditor to report how well the state and each county comply with the measure and make recommendations for improvement."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Requires Legislative Action for Full Implementation."
+                ]
+              }
+            ]
+          },
+          " Proposition 39 requires the Legislature to pass additional laws to implement the measure. The Legislature would need to clarify several details that are not defined in the proposition, like which forms of identification could be used and what steps would be considered best efforts to verify the citizenship status of registered voters."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "State and Local Costs Depend on Future Decisions."
+                ]
+              }
+            ]
+          },
+          " Proposition 39 would increase state and local government costs each year by ",
+          {
+            "strong": [
+              "tens of millions of dollars to low hundreds of millions of dollars"
+            ]
+          },
+          ". These costs represent less than one-quarter of 1 percent (0.25 percent) of the state’s total General Fund budget. (The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons.) The exact cost would depend on future choices made by the Legislature, state departments, local governments, and voters. For example, the costs could vary depending on decisions around the design and requirements of the voter identification card and the number of cards requested. There also could be some amount of savings. These savings would be due to fewer people registered to vote—for example, due to the removal of ineligible voters or eligible voters lacking government-issued identification. These savings likely would not exceed the costs of the measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/39/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "VOTER ID: A BIPARTISAN WAY TO INCREASE TRUST IN OUR ELECTIONS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Democratic, Independent, and Republican voters all agree on one thing: Voter ID is a common-sense reform to increase trust and participation in our elections. That’s why almost half the signatures to put Prop. 39 on the ballot came from Democratic and Independent voters and polls show widespread super-majority support across all political parties for Voter ID."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 39 KEEPS VOTING ACCESSIBLE AND GUARANTEES A FREE VOTER ID"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 39 keeps mail ballots, extended polling hours and all other conveniences in place for voting accessibility."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Voters can use a variety of easily-obtained government IDs to vote—and this measure even guarantees every voter a FREE Voter ID if they want one."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California currently uses a slow process to check signatures on mail ballots that not only delays election results but also puts your vote at risk of not being counted if your signature is flagged as not matching. Many voters say they cannot always remember how they signed their name years ago when they first registered to vote. In the last election, more than 100,000 ballots were rejected due to signature mismatches—and more than 200,000 voters endured hassles just to get their vote to count."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "VOTER ID INCREASES PARTICIPATION"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Voter ID does not suppress voting—in fact it increases voter participation. Every state with Voter ID laws and free identification for eligible voters that cannot afford or access identification, has seen an increase in voting. Suppression and lower turnout happen when voters do not have trust and confidence in the integrity of the process. Voter ID gives all voters a reason to trust that their vote will matter."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 39 INCLUDES AUDITS AND CITIZENSHIP VERIFICATION"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 39 holds election officials accountable for keeping California’s voter lists accurate and updated. Election officials will also be required to check voter rolls to ensure only citizens are registered. Prop. 39 requires an independent audit be conducted every two years to give the public the confidence they deserve in the way our elections are conducted."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "YES ON PROP. 39: FOR A NON-PARTISAN SOLUTION TO VOTER ID"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Politicians and partisan organizations who oppose Prop. 39 are desperately trying to inject toxic partisanship into this debate. That’s because they benefit from unfounded election conspiracy theories and rapidly declining trust in our elections."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In contrast, supporters of Prop. 39 include solid majorities of Democratic, Republican and Independent voters and a diverse coalition including Latino American Political Association, California Women’s Leadership Association, Howard Jarvis Taxpayers Association, the Transparency Foundation, and trusted voting rights organizations. Vote YES on Prop. 39 to create a national model for implementing Voter ID in a bipartisan way."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Margit Whitlock",
+          "title": "Democratic Coalition Chair",
+          "organization": "Californians for Voter ID"
+        },
+        {
+          "name": "Tafa Jefferson",
+          "title": "Republican Coalition Chair",
+          "organization": "Californians for Voter ID"
+        },
+        {
+          "name": "Joe Green",
+          "title": "Independent Coalition Chair",
+          "organization": "Californians for Voter ID"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "NO on PROP. 39—Stop Trump from rigging our elections. ",
+            {
+              "em": [
+                "Don’t believe the lies."
+              ]
+            },
+            " Prop. 39 MAKES VOTING HARDER, MORE EXPENSIVE, AND LESS SAFE for Californians."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 39 IS FUNDED BY MAGA RIGHTWING BILLIONAIRES. Follow the money. MAGA billionaires have spent millions spreading election lies. Republican operatives have pushed this voter suppression agenda for years. They want Trump to have unlimited power so they get more tax breaks for the rich while cutting funding to healthcare and schools for the rest of us."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California election officials already verify voters. Prop. 39 just ADDS EXTRA HURDLES for citizens. THE FACTS DON’T LIE. When Texas tried this, they threw out ",
+            {
+              "em": [
+                "12 times more mail ballots"
+              ]
+            },
+            " than California."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 39 creates new threats of identity theft. No citizen should have to choose between their privacy and their right to vote."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The nonpartisan Legislative Analyst’s Office found that Prop. 39 could COST HUNDREDS OF MILLIONS EACH YEAR—read it for yourself. MAGA extremists want to use your taxpayer dollars to buy Trump an expensive gift: blocking eligible voters and giving the Big Lie a win in California. We won’t fall for it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 39 TRIES TO DISTRACT US from how Trump and his billionaire friends have failed Americans. Hospitals are closing. Fire victims are still waiting for help. Groceries and housing costs are more expensive than ever. Now they want to use Prop. 39 to control our elections and avoid accountability."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO KINGS. NO LIES. NO PROP. 39."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Alex Padilla",
+          "title": "U.S. Senator for California"
+        },
+        {
+          "name": "Catherine Kennedy",
+          "title": "President",
+          "organization": "California Nurses Association"
+        },
+        {
+          "name": "Adam Weinberger",
+          "title": "President",
+          "organization": "California School Employees Association"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "VOTE NO."
+              ]
+            },
+            " Donald Trump lies about elections and uses those lies to grab power."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "STOP TRUMP’S POWER GRAB. Trump wants revenge on California—he has delayed LA wildfire relief, undone laws to keep our air and water clean, and constantly attacked our immigrant friends and neighbors. Now he wants to undo our freedoms and democracy with Prop. 39. Trump’s cronies want to rig California elections so they can seize and keep control of Congress and the White House. Trump will do whatever it takes to tear apart our right to vote, dodge accountability, and hold onto authoritarian power."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "CALIFORNIANS WON’T FALL FOR IT. We have a chance to fight back and stop Trump by voting NO on Prop. 39. Don’t let California become the next state where politicians pick which voters count."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "WASTES HUNDREDS OF MILLIONS OF DOLLARS."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Trump and his accomplices want California to spend ",
+            {
+              "em": [
+                "hundreds of millions of dollars"
+              ]
+            },
+            " to chase their election lies and conspiracy theories. Californians are struggling, and Trump wants YOU to pay for his conspiracies."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PUTS YOUR IDENTITY AT RISK. Prop. 39 will make every vote by mail voter include their personal details on their return envelope—making voters easy targets for identity theft. Voters would have to choose between voting and protecting their privacy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "BLOCKS CITIZENS FROM VOTING. Prop. 39 adds new hurdles—voters would have to include a personal ID number on their ballot envelope that has to exactly match state records. Get one digit wrong, and a valid ballot could get thrown out. If you don’t take extra steps to tell officials which ID you want to use for voting—you may not get a mail ballot at all. And if the address on your ID is not up to date or your name is misspelled—your vote might be rejected."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PUSHES OUT VOTERS. “Free” state IDs aren’t free: voters still pay for transportation, time off work, and costs like childcare or getting required documents. Seniors, students, low-income workers, voters of color, and the millions of women who changed their names at marriage are hit hardest. These unfair barriers help politicians choose their voters instead of the other way around."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "TRUMP LIES TO GRAB POWER. DON’T LET THOSE LIES TAKE AWAY YOUR VOTE."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROTECT YOUR VOICE. PROTECT YOUR VOTE. VOTE NO."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Learn more at ",
+            {
+              "em": [
+                "CAforVotingRights.org"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "David Trujillo",
+          "title": "Executive Director",
+          "organization": "ACLU California Action"
+        },
+        {
+          "name": "Darius Kemp",
+          "title": "California State Director",
+          "organization": "Common Cause"
+        },
+        {
+          "name": "Lorrel Plimier",
+          "title": "Co-President",
+          "organization": "League of Women Voters of California"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 39 IS BIPARTISAN—NOT ABOUT DONALD TRUMP OR GAVIN NEWSOM"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 39 gives California a bipartisan solution for election security. While politicians in D.C. fight over partisan control of elections, Californians can adopt our own solution: Voter ID. Opponents will claim this measure is about Donald Trump or Gavin Newsom. It isn’t. Prop. 39 is a California solution to growing mistrust in our elections. Democrats, Republicans, and Nonpartisans encourage you to reject the big-money partisan allegations and vote yes on Prop. 39 to encourage voter participation and protect our elections."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 39 IMPROVES ELECTION MANAGEMENT"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 39 improves the accuracy of our voter lists and requires independent audits to strengthen election management."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "VOTER ID INCREASES TRUST IN ELECTIONS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "States with voter ID laws have not seen decreases in voter participation. When voters trust elections, participation increases."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "YES ON PROP. 39"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Opponents will claim this is about national politics or that Voter ID suppresses voters. Don’t be fooled. Prop. 39 is supported by Democrats, Republicans, and Nonpartisans, as well as men, women, young, and old—Californians across many communities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If you believe California should strengthen trust in elections while keeping voting accessible for eligible voters, vote YES on Prop. 39 for a clean, bipartisan California solution."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Johnathan Hale",
+          "title": "Executive Director",
+          "organization": "The Transparency Foundation"
+        },
+        {
+          "name": "Cynthia Kaui",
+          "title": "Executive Director",
+          "organization": "California Women’s Leadership Association"
+        },
+        {
+          "name": "Ed Cervantes",
+          "title": "President",
+          "organization": "Latino American Political Association"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

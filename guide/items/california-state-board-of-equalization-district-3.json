@@ -1,0 +1,83 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Board of Equalization, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Serves on the Board of Equalization, the state's elected tax commission, which:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses the property of regulated railroads and specific public utilities, and assesses and collects the private railroad car tax."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Oversees the assessment practices of the state's 58 county assessors."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses and collects the alcoholic beverage tax, and jointly administers the tax on insurers."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Mike Gipson",
+      "photo": {
+        "file": "img/candidates/california-state-board-of-equalization-district-3/mike-gipson.jpg",
+        "alt": "Mike Gipson",
+        "source": "https://voterguide.sos.ca.gov/img/boe/gipson.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Mike Gipson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Assemblymember Mike Gipson is a proven leader with decades of experience fighting for working Californians. He is running for the Board of Equalization to fight for fairness, transparency, and accountability in our tax system. Mike will fight to close tax loopholes that wealthy insiders and powerful corporations exploit to avoid paying their fair share. Born and raised in Los Angeles, Mike has dedicated his life to public service. He has worked for service employee and public educator unions, as a local city councilmember, as a police officer, and is currently a member of the California Assembly. As Assemblymember, Mike has championed groundbreaking laws including protecting funding for expanded access to healthcare, education, and childcare, and investments in mental healthcare services, expanded resources for our firefighters, keeping ICE out of our schools, and a fairer tax system. Previously serving as Chief of Staff to the former Board of Equalization Chairman, Mike currently serves as Chair of the Assembly Revenue and Taxation Committee, which oversees the Board of Equalization. On the BOE, Gipson will bring in the funds needed to support quality healthcare, strong schools, safer communities, and vital social services that sustain families and communities across our state. He knows that the middle class is being taxed too much, while the wealthy elites and insiders need to pay their fair share. Endorsed by nurses, construction workers, police, firefighters, classroom teachers and Democrats. By November 3rd, vote Mike Gipson for the Board of Equalization! Visit ",
+              {
+                "em": [
+                  "mikegipson.net"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "X: https://x.com/mgipson2014",
+        "Facebook: https://www.facebook.com/MikeGipson4BOE"
+      ]
+    }
+  ]
+}

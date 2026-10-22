@@ -1,0 +1,689 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:02Z",
+  "about": {
+    "by": "Put on the Ballot by Petition Signatures",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Prohibits any new state tax (1) imposed on the ownership of personal property (all things people own other than real estate), or (2) that applies retroactively based on taxpayer’s past activities. Nullifies taxes enacted after January 1, 2026 that conflict with this measure. ",
+          {
+            "strong": [
+              "Fiscal Impact:"
+            ]
+          },
+          " Possibility that tax revenues will not go up as much in the future. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " CA Professional Firefighters; State Building & Construction Trades Council of CA; AMVETS Department of CA ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " US Senator Bernie Sanders; SEIU United Healthcare Workers West"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/42/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: The state could not establish new taxes on the ownership of financial assets or other personal property."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/42/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: The state would continue to have the option to establish new taxes on the ownership of financial assets or other personal property."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/42/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 42",
+      "file": "pdf/prop-42-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop42-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Prohibits new state taxes on personal property, including business interests, intellectual property, and financial assets (including assets in retirement and investment accounts)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Prohibits new state taxes that apply retroactively based on the taxpayer’s conduct, activities, or a status that occurred before the new tax’s effective date."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Applies to new taxes that are enacted or take effect on or after January 1, 2026."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "States that other voter-approved measures appearing on the same ballot are void if they conflict with this measure and this measure receives more affirmative votes."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Possibility that tax revenues will not go up as much in the future."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/42/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Certain Personal Property Is Taxed in California."
+                ]
+              }
+            ]
+          },
+          " Both the state and local governments tax the ownership of certain personal property. These taxes are based on the property’s value. Personal property is all the things that people own other than real estate. One example of these kinds of taxes is the vehicle license fee that car and truck owners pay to the Department of Motor Vehicles each year. Another example is the property taxes owners of business equipment pay to the county each year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Ownership of Financial Assets Is Not Taxed."
+                ]
+              }
+            ]
+          },
+          " The ownership of many types of personal property is not taxed. One major example is financial assets like stocks and investment accounts. Although the state does tax income people make from their financial assets, there is no tax for simply owning those assets."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Prohibits New Taxes on Financial Assets or Other Personal Property."
+                ]
+              }
+            ]
+          },
+          " Under Proposition 42, new taxes on the ownership of financial assets or other personal property would not be allowed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Limits Retroactive Taxes."
+                ]
+              }
+            ]
+          },
+          " Proposition 42 limits the situations that a ballot measure or the Legislature can raise any tax retroactively. A retroactive tax is one that applies to things that happened in the past. An example is a tax on money someone earned two years ago."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Possibility That Tax Revenues Will Be Lower in the Future."
+                ]
+              }
+            ]
+          },
+          " Proposition 42 restricts the options the state has to raise taxes in the future. This could make it somewhat harder for the state to raise taxes. This could reduce future tax revenues. When and by how much future revenues would be reduced is unclear."
+        ]
+      },
+      {
+        "type": "img",
+        "file": "img/prop-42/prop-42-fig-1.jpg",
+        "alt": "Potential Interactions With Other Propositions. If Proposition 42 receives more “yes” votes than Proposition 40 on this same ballot, then Proposition 40 could be stopped from becoming law even if it gets yes votes from a majority of voters. This is because the courts could find that Proposition 42 conflicts with Proposition 40."
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/42/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROP. 42: PROTECT YOUR RETIREMENT AND LIFE SAVINGS FROM STATE TAXES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California is now the third most expensive state to retire in the nation. Every year, higher costs and taxes make it harder to save. An April 2026 survey found 73% of Californians know someone who has had to delay retirement for financial reasons."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "CALIFORNIA CONSTITUTION CURRENTLY ALLOWS DOUBLE TAXATION"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yet, California’s Constitution currently allows the Legislature to tax the value of our personal property like retirement funds and savings accounts, even though residents already pay income tax on that money when they earn it. This means politicians can tax the same money twice: once when you earn it, and again when it is sitting in your retirement funds or savings accounts. That’s double taxation!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In the last few years alone, the Legislature and special interests have introduced six separate proposals that would tax retirement and savings accounts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Taxes and cost of living are already too high in California—we need protections against taxes on our personal property and retirement savings."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 42 PROHIBITS TAXES ON RETIREMENT AND SAVINGS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 amends the state Constitution to protect Californians from this double taxation by special interests and politicians. Specifically, the measure:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "• Prohibits new taxes on personal property, such as retirement funds, pensions and savings accounts; • Prohibits retroactive taxes; and • Prohibits all new taxes on retirement and savings this year and in the future."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 42 PROTECTS ALL FORMS OF RETIREMENT FUNDS AND SAVINGS FROM NEW TAXES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Roughly 80% of Californians report having some form of retirement fund or savings, including young workers just beginning to save; teachers, firefighters and police officers with pensions; and retirees who depend on their savings for financial security."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure protects all forms of personal property from new taxes, including 401ks, pensions, IRAs and personal savings."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“Prop. 42 protects Californians’ savings and retirement. Whether it’s a union member’s hard-earned pension or a small business owner’s IRA, new taxes on retirement shouldn’t stand between people and the security they’ve planned for.”"
+              ]
+            },
+            "—Chris Hannan, President, State Building and Construction Trades Council of California representing hundreds of thousands of union construction trades workers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 42 PROHIBITS UNFAIR RETROACTIVE TAXES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The state should not be able to pass new taxes that apply retroactively to money that taxpayers earned in the past. Prop. 42 requires any new taxes to apply only after voters have approved them."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“It’s a question of fairness and common sense. People plan their retirement for years—they deserve stable, predictable rules that don’t change after years of saving and planning. Prop. 42 provides that certainty.”"
+              ]
+            },
+            "—Sean Morgan, licensed financial advisor"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 is supported by a broad coalition of seniors, veterans, small business owners, blue-collar workers, retirees, including groups like the California Professional Firefighters and Disabled American Veterans, Dept. of California."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Californians are already struggling with high costs of living and high taxes. Many work their entire lives to achieve some measure of retirement security. It should be illegal for politicians and special interests to tax our retirement and savings."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "You earned and saved it. Now we need to protect it. Please join us in voting Yes on 42. ",
+            {
+              "em": [
+                "YesonProp42.org"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Michael Hedges",
+          "title": "President",
+          "organization": "California Small Business Association"
+        },
+        {
+          "name": "Shelley Huff",
+          "title": "Commander",
+          "organization": "AMVETS, Department of California"
+        },
+        {
+          "name": "Jennifer Yoder",
+          "title": "Board Member",
+          "organization": "California Senior Alliance"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "THIS IS ANOTHER BILLIONAIRE-FUNDED TRICK"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don’t be fooled—Prop. 42 is not really about protecting your retirement savings from new taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It’s a redundant, expensive trick to allow approximately 200 billionaires to keep avoiding paying their own taxes while YOU get stuck with the bill."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 42 WOULD CANCEL OUT THE BILLIONAIRE TAX"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 is a billionaire-funded scheme designed specifically to undo the California Billionaire Tax, Prop. 40."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 was put on the ballot because billionaires don’t want to pay their fair share. They’d rather millions of working people lose healthcare than pay a modest, one-time tax on their extreme wealth."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "WHO’S BEHIND THIS? SOME OF DONALD TRUMP’S DONORS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The billionaires behind this don’t care about protecting your retirement savings. They’re protecting themselves. They’ve been getting out of paying their own taxes for years through loopholes and tax breaks."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This sham initiative was created to trick voters like you into making a billionaire tax impossible to enforce. That’s why you must vote NO."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 40 WOULD ONLY TAX BILLIONAIRES’ $2 TRILLION IN WEALTH"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The billionaires behind Prop. 42 have spread lies about the California Billionaire Tax (Prop. 40), trying to trick voters into thinking that their retirement and savings are at risk."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don’t buy the fear-mongering. The California Billionaires Tax ONLY applies to billionaires. It’s about making billionaires finally pay their fair share so we’re not stuck with shuttered hospitals and skyrocketing healthcare costs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Prop. 42."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Suzanne Jimenez",
+          "title": "Chief of Staff",
+          "organization": "SEIU-United Healthcare Workers West"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "VOTE NO ON PROP. 42. This is a billionaire-funded initiative designed specifically to undo the California Billionaire Tax, Prop. 40."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 42 WOULD CANCEL OUT THE BILLIONAIRE TAX"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 was put on the ballot for one reason—because billionaires don’t want to pay their fair share. This initiative was created to trick voters like you into making a billionaire tax impossible to enforce. That’s why you must vote NO."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don’t fall for the billionaires’ lies. Prop. 42 isn’t about preventing new taxes on personal property. It’s about preventing one specific tax that billionaires want to avoid, because they’d rather millions of working people lose healthcare than pay a modest, one-time tax on their extreme wealth."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 42 WAS FUNDED BY BILLIONAIRES WHO WANT YOU TO PAY MORE FOR HEALTHCARE"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "One of Prop. 42’s main funders is Google founder and Trump donor Sergey Brin, whose wealth has DOUBLED to nearly $300 billion since Trump’s election. Now he’s spent over $57 million to fund sham measures like Prop. 42 that attempt to cancel out a billionaire tax. U.S. Senator Bernie Sanders called this arrogant move by Brin “unacceptable.”"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Donald Trump took money out of working peoples’ pockets and gave it to billionaires like Brin through massive tax breaks. Now, the billionaires backing Prop. 42 want YOU to pay more for your healthcare."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "VOTE NO ON PROP. 42 IF YOU SUPPORT THE BILLIONAIRE TAX"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We have a chance to make billionaires pay their fair share to keep hospitals open and healthcare affordable for California’s working families. Vote NO on Prop. 42."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Suzanne Jimenez",
+          "title": "Chief of Staff",
+          "organization": "SEIU-United Healthcare Workers West"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "WHO SUPPORTS PROP. 42"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 is supported by hundreds of thousands of seniors, veterans, firefighters, blue-collar workers, public-safety officers and working families because it protects the retirement and savings of ALL Californians from new taxes. Who opposes 42? One organization that wants to tax retirement accounts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "WHY WE NEED PROP. 42"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sacramento politicians and special interests have repeatedly tried to pass taxes on retirement and personal savings accounts in recent years. They’ve relied on a loophole in California’s Constitution that allows government to tax our income when we earn it, and AGAIN when it is simply sitting in our savings and retirement accounts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "CALIFORNIA IS EXPENSIVE ENOUGH WITHOUT DOUBLE TAXATION"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 prohibits this double taxation by PROHIBITING ALL NEW TAXES ON RETIREMENT AND SAVINGS ACCOUNTS and other personal property, whether proposed by legislation or ballot measure, including proposals on this year’s ballot and in the future."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It is a comprehensive constitutional protection against politicians or special interests trying to tax our retirement funds and savings accounts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "WHO BENEFITS FROM PROP. 42"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 protects the retirement and savings for all Californians—young workers just beginning to save; teachers, firefighters and police officers with pensions; retirees and veterans who depend on their savings for financial security."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "You saved it. You deserve to keep it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 42 asks a simple question: should California politicians have the power to tax your personal property, including retirement and savings accounts?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If you think your retirement and savings should be protected from taxes, vote Yes on 42."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Darrell Roberts",
+          "title": "President",
+          "organization": "California Professional Firefighters"
+        },
+        {
+          "name": "Chris Hannan",
+          "title": "President",
+          "organization": "State Building and Construction Trades Council of California"
+        },
+        {
+          "name": "Brian R. Marvel",
+          "title": "President",
+          "organization": "Peace Officers Research Association of California"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

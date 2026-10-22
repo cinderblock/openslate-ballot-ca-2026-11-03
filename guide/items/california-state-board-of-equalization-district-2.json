@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Board of Equalization, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Serves on the Board of Equalization, the state's elected tax commission, which:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses the property of regulated railroads and specific public utilities, and assesses and collects the private railroad car tax."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Oversees the assessment practices of the state's 58 county assessors."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses and collects the alcoholic beverage tax, and jointly administers the tax on insurers."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Sally J. Lieber",
+      "photo": {
+        "file": "img/candidates/california-state-board-of-equalization-district-2/sally-j-lieber.jpg",
+        "alt": "Sally J. Lieber",
+        "source": "https://voterguide.sos.ca.gov/img/boe/lieber.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Sally J. Lieber",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve as your representative and as Chair of the State Board of Equalization, California’s elected property tax oversight board. On the Board, I have worked to expand access to property tax relief, including tax credits for Veterans and low-income families, increased public information on Proposition 19, and advanced consumer protections for homeowners’ insurance. I have fought for affordable housing, supported identity theft protections for property owners, and worked to ensure that the Board is efficient, accountable and transparent. I do not accept contributions from corporate PACs and will always insist that wealthy interests pay what they owe. As a member of the Board, I have taken an oath to uphold the Constitutions of the United States and California, including Proposition13. Over the next four years, I will continue to work for accurate and equitable property tax assessments, expanded taxpayer assistance, and policies that support housing affordability, rapid disaster recovery, and economic stability for working families. Before election to the Board, I served in local, regional, and state government. In the California State Assembly, I authored legislation to raise the statewide minimum wage, protect our coast and the San Francisco Bay, expand renewable energy, increase CalGrant scholarships, and worked to preserve free community college access statewide. I am endorsed by Teachers, Nurses and Firefighters statewide, by the California Democratic Party, Planned Parenthood California, the Sierra Club California, and over forty congressional, state executive and legislative leaders. I am thankful for the support of more than 1.3 million voters in the primary election. I respectfully ask for your vote. www.sallylieber.org"
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "333 W. San Carlos St., Suite 600",
+        "San Jose, CA 95110",
+        "Tel: (650) 597-2587",
+        "E-mail: vote@sallylieber.org",
+        "Facebook: https://www.facebook.com/CAvoteSally"
+      ]
+    },
+    {
+      "choice": "John Pimentel",
+      "photo": {
+        "file": "img/candidates/california-state-board-of-equalization-district-2/john-pimentel.jpg",
+        "alt": "John Pimentel",
+        "source": "https://voterguide.sos.ca.gov/img/boe/pimentel.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "John Pimentel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m not interested in politics as usual. I’ll reform the Board of Equalization so it works fairly and without corruption. The Board is supposed to ensure consistency and transparency on >$100 billion in property tax assessments. However, it fails to stop corruption and rubber-stamps sweetheart tax breaks for utilities. Career politicians have let us down. Let’s do better. My career is based on common sense problem solving and getting results. My companies built over $1 billion in sustainability and energy projects creating good jobs while lowering energy costs. As California’s Deputy Secretary for Transportation, I used incentive-based contracts to accelerate delivery on critical highway projects, and consolidated two law enforcement agencies creating savings and improving public safety. As Community College Trustee, I spearheaded Free College—boosting enrollment by making higher education more affordable. I uncovered fraud, fixed it, then instituted reforms to increase transparency and recover lost funds. I’ll bring this energy and experience to BOE. I’ll fight to end sales tax on restaurant and delivered food that everyday people rely upon in their busy lives. I’ll fight to end loopholes so billionaires and corporations pay their taxes. I’m endorsed by respected leaders including: Treasurer Fiona Ma, current/former Congressmembers Sam Liccardo, Kevin Mullin, Anna Eshoo and Tom Campbell. San Jose Mayor Matt Mahan and dozens of existing/retired state legislators. My priorities: Tax fairness. Government and corporate accountability. No sales tax on food. I’d be honored to earn your vote. ",
+              {
+                "em": [
+                  "www.JohnPimentel.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "20 Park Road, Suite E",
+        "Burlingame, CA 94010",
+        "Tel: (650) 210-6916",
+        "E-mail: john@johnpimentel.com",
+        "Facebook: https://facebook.com/JohnPimentelCA",
+        "Instagram: https://instagram.com/johnpimentelforcalifornia"
+      ]
+    }
+  ]
+}

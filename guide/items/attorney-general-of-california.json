@@ -1,0 +1,78 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Attorney General of California",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "As the state's chief law officer, ensures that state laws are enforced and investigates fraudulent or illegal activities."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Heads the Department of Justice, which provides state government legal services and represents the state in civil and criminal court cases."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Oversees law enforcement agencies, including county district attorneys and sheriffs."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/attorney-general-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Michael E. Gates",
+      "photo": {
+        "file": "img/candidates/attorney-general-of-california/michael-e-gates.jpg",
+        "alt": "Michael E. Gates",
+        "source": "https://voterguide.sos.ca.gov/img/attorney-general/gates.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Michael E. Gates",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "We need a new Attorney General. According to FBI data, California ranks 6th highest in the nation for violent crime. Every Californian deserves to feel safe—in their neighborhoods, at school, walking to the store. Too many families don’t feel that way today. Fentanyl is taking our kids. Retail theft is closing the stores we count on. Nearly half of all homeless Americans live in California. And crime always hits working families hardest. I am a husband of 30 years and father of five. I have spent my career trying cases in courtrooms, not politics, as a trial attorney and prosecutor. I enforced Civil Rights at the U.S. Department of Justice and am admitted to practice before the U.S. Supreme Court. As a City Attorney, I built a local prosecution program that cut crime by double digits in its first year and made Huntington Beach one of California’s safest cities. I brought residents, leaders, and law enforcement together, and I will do the same as your Attorney General. Californians voted for Prop. 36 overwhelmingly to restore accountability for repeat theft and drug offenses. I will fully enforce it and will prosecute the traffickers poisoning our communities, protect victims, help people off the streets and into treatment, and make sure your tax dollars are spent honestly and effectively. Safe streets and equal justice belong to every community, whatever your zip code or last name. Public safety is not a partisan issue, and I will never treat it like one. ",
+              {
+                "em": [
+                  "www.Gates4AG.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/attorney-general-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State’s office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "E-mail: info@gates4ag.com",
+        "X: @MichaelGatesESQ",
+        "Facebook: @GatesforAG"
+      ]
+    }
+  ]
+}

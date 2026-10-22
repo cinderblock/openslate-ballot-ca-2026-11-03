@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Court of Appeal, Second District — Retain Justice Mark Hanasono",
+    "kind": "measure",
+    "jurisdiction": "us/ca/coa-2",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:03Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Associate Justice, Division 3, California Court of Appeal, Second District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Holds its regular sessions in Los Angeles (Divisions 1, 2, 3, 4, 5, 7, and 8) and Ventura (Division 6)."
+        ]
+      }
+    ],
+    "source": "https://appellate.courts.ca.gov/district-courts/2dca/bio/mark-k-hanasono"
+  }
+}

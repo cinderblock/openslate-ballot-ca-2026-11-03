@@ -1,0 +1,829 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:00Z",
+  "about": {
+    "by": "Put on the Ballot by the Legislature",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Under current law, voters elect replacement candidates at the same time as the recall election. This measure instead fills recall vacancies by subsequent special election or appointment. ",
+          {
+            "strong": [
+              "Fiscal Impact:"
+            ]
+          },
+          " Net fiscal effect unknown. In the event of a recall, savings or costs of millions of dollars to administer the election depending on the office recalled. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " None submitted ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/5/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: Recall elections would no longer include a question about who should fill the vacancy. Instead, vacancies typically would be filled through special elections or appointments, depending on the office and timing."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/5/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: Voters would continue to be asked who should fill the vacancy as part of recall elections."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/5/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 5",
+      "file": "pdf/prop-5-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop5-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Under current law, voters decide at the same election whether (1) to recall a state officer, and (2) who will replace that officer if recalled."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Under this measure:"
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "if the Governor is recalled, the Lieutenant Governor becomes Governor for the remainder of the term or until a successor is elected;"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "for all other recalled officers, the office will remain vacant until filled by a subsequent special election or appointment as specified in existing law; and"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "a recalled officer may be a candidate in a special election to fill the office."
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Net fiscal effect unknown. Possible state and local government savings or costs of millions of dollars to administer recall elections. These costs or savings would be rare, and depend on the office recalled and how often recalls occur."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FINAL VOTES CAST BY THE LEGISLATURE ON SCA 1 (PROPOSITION 5)\n(CHAPTER 204, STATUTES OF 2024)"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "Senate:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 32"
+              ]
+            },
+            {
+              "text": [
+                "Noes 8"
+              ]
+            }
+          ],
+          [
+            {
+              "header": true,
+              "text": [
+                "Assembly:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 59"
+              ]
+            },
+            {
+              "text": [
+                "Noes 17"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/5/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Election of State Officials."
+                ]
+              }
+            ]
+          },
+          " The State Constitution establishes legislative, executive, and judicial state offices. Some state officials represent parts of the state, known as districts. Other state officials, like the Governor or Attorney General, represent the entire state. Voters elect people to represent them in state offices for set terms. For example, a state Assembly Member is elected to a two-year term and the Governor is elected to a four-year term. To run for a state office, candidates must submit specific nomination documents before the election. State law sets when this “nomination period” occurs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Recall of State Officials."
+                ]
+              }
+            ]
+          },
+          " The State Constitution allows voters to remove state officials from office before their term ends through a recall. A recall is an election in which voters are asked whether to remove an official from office. To qualify a recall for the ballot, supporters of the recall must collect a certain number of signatures from the official’s district (or statewide for statewide offices). Since 1913, 11 state recall efforts have qualified for the ballot (nine legislators and two Governors) and six have resulted in an official’s removal from office (five legislators and one Governor)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Two Questions in Recall Elections."
+                ]
+              }
+            ]
+          },
+          " In a recall election, voters are asked two questions: (1) whether the official should be removed from office and (2) who should replace the official if removed from office. The number of candidates appearing in the second question varies. For example, there were 135 candidates in the 2003 Governor recall election and 46 candidates in the 2021 Governor recall election. If a state official is recalled, the person who receives the most votes in the second question assumes the office."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Vacant State Offices."
+                ]
+              }
+            ]
+          },
+          " State officials may leave office before the end of their term for reasons other than a recall. For example, they may die or resign. When this happens, the office becomes vacant. The process to fill a vacant office varies by office. Typically, a vacant seat in the Assembly or Senate is filled through a special election called by the Governor. The Lieutenant Governor serves as Governor when there is a vacancy in the office of the Governor. Vacancies in other executive offices (for example, the Lieutenant Governor or Attorney General) and the Supreme Court and Courts of Appeal are filled by appointments by the Governor."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Frequency of Elections."
+                ]
+              }
+            ]
+          },
+          " Statewide elections in California are scheduled every two years. In scheduled election years, a primary election is held in either March or June, depending on the year, and a general election is held in November. In addition to scheduled elections, the state and local governments may call special elections to address specific issues. For example, the Governor may call a special election to fill a vacant Assembly seat."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Elections Administration in California."
+                ]
+              }
+            ]
+          },
+          " County elections officials administer most elections in California. As part of this work, they print and mail ballots and other voting materials to registered voters. Some state agencies also have election-related workload. For example, the Secretary of State oversees elections across the state and prepares and mails the state ",
+          {
+            "em": [
+              "Voter Information Guide"
+            ]
+          },
+          "."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Paying for State Recall Elections."
+                ]
+              }
+            ]
+          },
+          " State law requires the California Department of Finance to work with state and local elections officials to estimate the cost of a recall election for a state office. The department is required to send the estimate to the Legislature. The Legislature reviews the estimate and may provide funding for the election. Any remaining costs are paid by the Secretary of State’s and counties’ budgets."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As described below, Proposition 5 changes the recall process to make it like the existing process for filling vacant state offices, except for the process to recall the Governor."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Removes Second Question From Recall Elections."
+                ]
+              }
+            ]
+          },
+          " Proposition 5 removes the second question—who should replace a recalled official—from a recall election. This means, in future recall elections, voters would only decide whether to remove an elected official from a state office, not who would replace the official."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Specifies Steps for Filling Vacant Offices."
+                ]
+              }
+            ]
+          },
+          " If a state official is recalled, Proposition 5 makes the office of the recalled official vacant. Except for the office of the Governor, Proposition 5 uses the existing process for filling vacancies to fill the office. In the case of an office in the state Senate or Assembly, this means that a replacement typically would be elected through a separate special election. The Governor would choose who would fill a vacancy in any other office (other than office of the Governor)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Creates Separate Process for Filling the Office of the Governor."
+                ]
+              }
+            ]
+          },
+          " The process for filling the office of the Governor depends on when the recall occurs. If the Governor is recalled before the close of the nomination period for the next statewide election during the first two years of the term, Proposition 5 says that the Lieutenant Governor serves as Governor until voters elect a new Governor at a future statewide election. If the Governor is recalled later in the term, the Lieutenant Governor serves as Governor for the rest of the term."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Fiscal Effects Depend on Frequency of Recalls and the Offices Recalled."
+                ]
+              }
+            ]
+          },
+          " Whether there would be costs or savings compared with today depends on the frequency of future recalls and the offices recalled. A recall of a statewide office (for example, Lieutenant Governor) would affect state elections officials and local elections officials in all 58 counties. A recall of a district-based office (for example, a state Senator or Assembly Member) would only affect state elections officials and local elections officials in those districts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Potential Costs."
+                ]
+              }
+            ]
+          },
+          " Proposition 5 could result in higher costs associated with future recall elections if a special election is necessary to fill the vacant office after a recall. For example, a legislative office made vacant after a recall typically would be filled through a special election. If that special election could not be consolidated with a scheduled election, elections officials would need to run a standalone special election. The cost to state and local elections officials to administer such a special election could be millions of dollars per election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Potential Savings."
+                ]
+              }
+            ]
+          },
+          " Proposition 5 could result in lower costs by removing the second question from the ballot. These savings would occur when a Governor is recalled in the latter part of the term and for other offices where vacancies are filled by appointment. There would be savings because ballots and voting materials would no longer include information about replacement candidates. The amount of savings would depend on how many candidates there would have been on the ballot if the second question remained but could be millions of dollars per election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Net Effect Depends on Circumstances of Future Recall Efforts."
+                ]
+              }
+            ]
+          },
+          " The net fiscal effect is unknown because it depends on future recall elections. Proposition 5 could lead to ",
+          {
+            "strong": [
+              "savings or costs potentially in the range of millions of dollars"
+            ]
+          },
+          " to administer recall elections. How these savings or costs would be shared by state and county governments would depend on future decisions by the Legislature. This net fiscal effect represents less than one-tenth of 1 percent (0.1 percent) of the state’s total General Fund budget. (The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons.)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/5/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "California’s recall process should protect our democracy by allowing for the removal of an elected official who is corrupt or abusing their power. It should never be used as a tactic to ‘redo’ an election as a political or partisan scheme. Proposition 5 will restore the recall to its original purpose by making it fair, democratic, and accountable to the will of the majority."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Under current law, a statewide recall ballot asks voters two questions in sequence:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "(1) Should the official be recalled? (2) If so, who should replace them?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "By being connected, these two questions create a dangerous loophole. An elected official can be removed by a narrow majority. Then, a candidate listed in question #2 can win the office with far less than 50% of the votes cast in the election. This encourages political actors to target officials they couldn’t defeat in a regular election and to install replacements who lack broad public support."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We saw this play out in the 2021 gubernatorial recall. Voters rejected it decisively. The recall lost by nearly the same number of votes that the Governor won the regular election with. But California taxpayers were forced to spend more than $200 million on an election whose outcome simply reconfirmed what voters had already decided. Nearly 70% of California likely voters called the effort a waste of taxpayer money. And had the recall succeeded, the leading replacement candidate would have taken office with support from only about 28% of all recall voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 5 makes a single, commonsense change: ",
+            {
+              "em": [
+                "it removes the second question from the recall ballot"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Under Prop. 5, in a state-level recall, voters would decide one very simple and important question: whether an officeholder should be removed. If a majority votes yes, that office becomes vacant and is filled under existing vacancy rules. If a Governor is recalled, the Lieutenant Governor would become Governor and if the recall occurs early enough, voters would elect a replacement at the next statewide election; other statewide officers would be filled by appointment under existing rules; legislative seats by special election. No shortcuts, no loopholes, and no replacement candidate winning office without majority voter support."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In most states with recalls, vacancies are already filled by succession or a separate election, not a same-day replacement contest."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "By eliminating the second question, Proposition 5 removes the incentive and ability to weaponize recalls as a shortcut for partisan advantage. Recalls could not be gamed to overturn the results of regular elections or install candidates who couldn’t win under normal conditions."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The framers of our recall process intended to safeguard voters against corrupt and unaccountable officials, not to provide a weapon for political operators to undo election results they don’t like. Proposition 5 preserves the recall as a tool for accountability while preventing it from being used to sidestep regular elections and majority rule."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Vote YES on Proposition 5"
+              ]
+            },
+            " to protect majority rule, defend taxpayers, and restore California’s recall process back to the voters it was designed to serve."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Lorrel Plimier",
+          "title": "Co-President",
+          "organization": "League of Women Voters of California"
+        },
+        {
+          "name": "Darius L. Kemp",
+          "title": "MPA, Executive Director",
+          "organization": "California Common Cause"
+        },
+        {
+          "name": "Dan Schnur",
+          "title": "Former Chair",
+          "organization": "California Fair Political Practices Commission"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/5/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Disregard the mental gymnastics the other side is doing here to tie us in knots and try to make sense of the truly nonsensical."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "They say Proposition 5 “protects democracy.” It does the opposite—it erodes one of the fundamental elements of our recall process: to choose who replaces the recalled politician."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That’s not protecting democracy—that’s protecting political elites."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "They call California’s system a “dangerous loophole.” It’s worked for 100 years, ousting politicians who abuse their office and replacing them with whoever the voters decide will do better."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 5 would create a loophole, not close one. The other side is gaslighting you. They think you won’t notice. Don’t be fooled."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If it ain’t broke, don’t fix it. Our recall process is only ‘broke’ for those who find themselves on the business end of it, like Proposition 5’s author did when he raised taxes after breaking campaign promises."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Now, he wants to burn it down on his way out the door—making future recalls less effective and keeping politicians like him less accountable."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If you traded in your car, would you want to know what you were getting in return—or would you be happy to sign it away and let the salesman stick you in a jalopy of their choosing after you’ve already committed? That’s what Proposition 5 asks you to do."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our recall system will continue to work just fine, if we don’t let political elites with sour grapes tinker with it to their benefit."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO!"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Brian W. Jones",
+          "title": "Senate Minority Leader"
+        },
+        {
+          "name": "Joe Patterson",
+          "title": "Assemblymember"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/5/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Proposition 5 will take away your voice and erode your ability to remove and replace failed or corrupt politicians from office."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California politicians already have too much power. Proposition 5 gives them even more—and it does it by taking power away from you, the voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For over 100 years, California’s recall process has given us the ability to remove elected officials who abuse their office, break promises or fail to do the job they were elected to do. And, when that happens, the current process allows you—not politicians—to choose who replaces them."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 5 changes that system forever and takes power away from the people."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Today, a recall election asks two simple questions: Should the elected official be removed from office? If so, who should replace them? That means Californians can remove a failed politician and immediately choose someone new to take their place."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 5 keeps the first part but eliminates your ability to vote for a replacement."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Instead, Sacramento political insiders would decide what happens next. In many cases, politicians themselves—not voters—would choose who fills the vacancy, essentially allowing them to appoint another one of their friends or political allies to replace the one you just ousted."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In other cases, rather than an immediate replacement, the seat would sit vacant until another costly election—funded by you, the taxpayer—was scheduled months later. And here’s the kicker; that failed politician you just ran out the door for failure or corruption, they'd be allowed to run in that next election to regain control of the seat they just lost."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In either case, your vote matters less, and the political establishment gains more control."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Californians deserve the right to remove an elected official—and to choose who comes next. Proposition 5 takes away half of that right, and that’s wrong."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Supporters claim this measure improves democracy. It doesn’t. Democracy means voters—not Sacramento politicians—get to choose their leaders, when to give them the boot and who to replace them with. Proposition 5 undermines that fundamental concept."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Ask yourself: if you vote to remove a governor or another statewide elected official, shouldn’t you also decide who replaces them?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The answer is clear."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It’s also worth wondering why this measure is on the ballot in the first place. Why fix a system that isn’t broken and has been working just fine for over a century?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Well, the author of this proposal himself was recalled by California voters when he voted to raise gas taxes after promising not to. Instead of respecting the will of the people, he now wants to rewrite the rules and protect politicians like him from any meaningful accountability. California’s recall belongs to the people—not politicians. Protect your voice. Protect your vote. Protect your right to hold elected officials accountable."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Proposition 5."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Brian W. Jones",
+          "title": "Senate Minority Leader"
+        },
+        {
+          "name": "Joe Patterson",
+          "title": "Assemblymember"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/5/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Don’t be misled. Proposition 5 preserves your power to recall an official by majority vote while closing the loophole that allows a replacement candidate to take office with a small fraction of the vote."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Under current law, voters decide whether to remove an official by majority vote, but the replacement can win with far less than a majority. In 2021, a replacement candidate could have become Governor with support from 28% of recall voters. That is not majority rule."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Opponents want you to believe Proposition 5 takes away your right to choose. It does not. The real question is whether someone should become Governor with support from only a small fraction of California voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 5 preserves the recall while separating the decision to remove an officeholder from the decision about who should serve next. If a Governor is recalled, the Lieutenant Governor—elected statewide by California voters—provides continuity of government until voters choose the next Governor through a regular election. Voters will still choose their elected officials. But candidates seeking statewide office should earn that office in a regular election based on their qualifications, record, and plans for California, not use a recall as a shortcut to power."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A recall should decide whether an officeholder remains in office. Choosing who governs should happen in a regular election, where candidates earn the support of California voters. Proposition 5 protects the recall, respects majority rule, and ensures candidates run on their own merits. Vote YES on Proposition 5."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Lorrel Plimier",
+          "title": "Co-President",
+          "organization": "League of Women Voters of California"
+        },
+        {
+          "name": "Darius L. Kemp",
+          "title": "MPA, Executive Director",
+          "organization": "California Common Cause"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/5/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

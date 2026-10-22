@@ -1,0 +1,71 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:03Z",
+  "about": {
+    "by": "Kelli M. Evans",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Kelli M. Evans, "
+            ]
+          },
+          "Associate Justice, Supreme Court of California"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Bar Admission:"
+            ]
+          },
+          " 1994"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Education:"
+            ]
+          },
+          " University of California Davis School of Law, J.D., 1994; Stanford University, B.A., 1991."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Professional Legal Background:"
+            ]
+          },
+          " Chief Deputy Legal Affairs Secretary, Office of Governor Gavin Newsom (2019–2021); Special Assistant Attorney General, California Department of Justice (2017–2019); Senior Director, Administration of Justice, State Bar of California (2014–2017); Federal Court Monitor, U.S. District Court, Northern District of California (2003–2010) & U.S. District Court, Northern District of Ohio (2015–2017); Attorney, Relman & Associates (2001–2004); Senior Trial Attorney, U.S. Department of Justice Civil Rights Division (1998–2001); Staff Attorney & Associate Director, ACLU of Northern California (1995–1998 & 2010–2013); Assistant Public Defender, Sacramento County (1995); Ruth Chance Litigation Fellow, Equal Rights Advocates (1994–1995)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Judicial Background:"
+            ]
+          },
+          " Associate Justice, Supreme Court of California, 2023–present; Judge, Alameda County Superior Court, 2021–2022."
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/justices/supreme-court-justices/index.htm"
+  }
+}

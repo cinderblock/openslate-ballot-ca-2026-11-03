@@ -1,0 +1,113 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Board of Equalization, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Serves on the Board of Equalization, the state's elected tax commission, which:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses the property of regulated railroads and specific public utilities, and assesses and collects the private railroad car tax."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Oversees the assessment practices of the state's 58 county assessors."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses and collects the alcoholic beverage tax, and jointly administers the tax on insurers."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Nelson Esparza",
+      "photo": {
+        "file": "img/candidates/california-state-board-of-equalization-district-1/nelson-esparza.jpg",
+        "alt": "Nelson Esparza",
+        "source": "https://voterguide.sos.ca.gov/img/boe/esparza.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Nelson Esparza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Nelson Esparza is a dedicated public servant and proven champion for California’s working families and small business owners. Raised in California’s Central Valley, Nelson’s life and career have been shaped by a deep commitment to opportunity, fairness, and economic prosperity for all. Nelson is running for the State Board of Equalization to ensure a fair tax system for all Californians. Nelson will fight to close tax loopholes and crack down on tax evaders so that our local governments can continue to invest in public safety, infrastructure, education, healthcare, and economic development. As a long-time educator and economist, Nelson will bring real-world financial expertise to California’s state tax board. On the Fresno City Council, he serves as Chair of the Finance & Audit Committee, where he deals with complex financial issues every day. Additionally, he has secured hundreds of millions in investment for our communities. Nelson will oppose new taxes on middle class and working class families as well as small businesses that are already struggling to make ends meet. He’ll fight for more transparency in our tax system, and for fair impartial property tax assessments. Nelson is supported by local law enforcement, teachers, nurses, construction workers, and leaders at the local, state, and federal levels across California—because they know that he has the experience and the drive to protect our tax dollars and our public services. By November 3rd, Vote Nelson Esparza for State Board of Equalization. Learn more at ",
+              {
+                "em": [
+                  "nelsonesparza.com"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "E-mail: nelson@nelsonesparza.com",
+        "Facebook: facebook.com/esparzanelson",
+        "Instagram: instagram.com/esparzaforBOE"
+      ]
+    },
+    {
+      "choice": "Shannon Grove",
+      "photo": {
+        "file": "img/candidates/california-state-board-of-equalization-district-1/shannon-grove.jpg",
+        "alt": "Shannon Grove",
+        "source": "https://voterguide.sos.ca.gov/img/boe/grove.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Shannon Grove",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running to protect the American Dream for you. I didn’t grow up with a lot. I was born in rural Kern County, enlisted in the U.S. Army, came home, and built a small business from nothing. But what I am most proud of is that through my small business, I helped thousands of Californians start their careers with good-paying jobs. That has been my life’s work. I had the opportunity to live the American Dream, so I keep fighting for others to live theirs. In the California Legislature, I fought for the family trying to buy their first home. The small business owner drowning in red tape and taxes. And the children whose dreams were taken away from them because dangerous sex offenders weren’t being held accountable for their actions. It never mattered what political party you belonged to. What mattered was getting things done. Now, I am asking to be your watchdog on the Board of Equalization. To be your tax fighter. To make sure the government doesn’t overtax your home, your business, or your property. To defend taxpayer protections like Proposition 13 that keep people in their homes. And most importantly, to support economic growth that puts the American Dream within reach for every Californian. Whether you live in the North State, Sacramento, the Central Valley, or the High Desert, your dreams are worth fighting for. I’ve spent my life proving that. I hope you give me the chance to keep proving it, for you."
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "Tel: (916) 498-9223",
+        "E-mail: ShannonGroveCA@gmail.com",
+        "Website: ShannonGroveCA.com",
+        "Facebook: facebook.com/ShannonGroveForCA"
+      ]
+    }
+  ]
+}

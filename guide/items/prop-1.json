@@ -1,0 +1,710 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "by": "Put on the Ballot by the Legislature",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Authorizes $11.25 billion in state general obligation bonds for housing affordability programs, including multifamily rental housing, mortgages for veterans, supportive housing, preservation of existing affordable housing, and downpayment assistance. ",
+          {
+            "strong": [
+              "Fiscal Impact"
+            ]
+          },
+          ": Increased state cost of $500 million to $600 million annually for about 25 years to repay the housing bond. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " US Vets; CA Federation of Teachers; Self-Help for the Elderly; Habitat for Humanity CA; CA Alliance of Child & Family Services ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/1/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: The state could borrow $11.25 billion to support veterans and affordable housing."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/1/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: The state could not borrow $11.25 billion to support veterans and affordable housing."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/1/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 1",
+      "file": "pdf/prop-1-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop1-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Authorizes $11.25 billion in state general obligation bonds for housing affordability programs, including for California veterans, and to finance housing development projects seeking federal tax credits."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Allocates funds:"
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "$5.1 billion to build and rehabilitate multifamily rental housing;"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "$2.1 billion to acquire, rehabilitate, or preserve affordable housing units, and provide supportive housing for those experiencing homelessness;"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "$1.25 billion for state-funded mortgages for California veterans;"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "$1.1 billion for homeownership and downpayment assistance;"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "$1 billion for farmworker, tribal, and student housing;"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "$500 million for housing infrastructure; and"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "p",
+                    "text": [
+                      "$200 million to support local housing programs."
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST’S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Increased state cost of $500 million to $600 million annually for about 25 years to repay the housing bond."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "img",
+        "file": "img/prop-1/prop-1-state-bond-cost-estimate.jpg",
+        "alt": "State Bond Cost Estimate"
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FINAL VOTES CAST BY THE LEGISLATURE ON SB 417 (PROPOSITION 1)\n(CHAPTER 16, STATUTES OF 2026)"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "Senate:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 29"
+              ]
+            },
+            {
+              "text": [
+                "Noes 2"
+              ]
+            }
+          ],
+          [
+            {
+              "header": true,
+              "text": [
+                "Assembly:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 61"
+              ]
+            },
+            {
+              "text": [
+                "Noes 7"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/1/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Public Sector Funds Some Home Building."
+                ]
+              }
+            ]
+          },
+          " In most years, about 100,000 houses and apartments are built in California. Most of these housing units are built entirely with private dollars. Some, however, receive financial help from federal, state, or local governments. In the case of housing funded by the state, the state government generally provides local governments, nonprofit organizations, and private developers with grants or low-cost loans to fund a portion of the housing units’ construction costs. Typically, housing built with these funds must be sold or rented to Californians with low incomes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Bonds Are a Common Way for the State to Fund Home Building and Homeownership Programs."
+                ]
+              }
+            ]
+          },
+          " Over the past few decades, the state has used general obligation bonds to fund various housing programs. Bonds are a way the state borrows money to cover the up-front costs of a development and then repays the money plus interest over time. The last statewide general obligation bond for affordable housing was approved by voters in 2024, providing $2 billion to provide housing for veterans and other people with mental health or substance use challenges who are facing homelessness."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Home Loan Program for Veterans."
+                ]
+              }
+            ]
+          },
+          " The state’s veterans home loan program provides home loans to eligible veterans, including veterans who may not otherwise qualify for a home loan. Under the program, the state sells general obligation bonds to investors and uses the funds to provide loans to veterans to purchase homes. Participating veterans repay the cost of the bonds through their payments on their home loan. The last statewide general obligation bond for veterans home loans was approved by voters in 2018, which provided $1 billion for the program."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "New General Obligation Bond for Housing."
+                ]
+              }
+            ]
+          },
+          " Proposition 1 allows the state to sell $11.25 billion in general obligation bonds for housing purposes. This amount consists of (1) a $10 billion bond for a variety of state housing programs that would be repaid by the General Fund and (2) a $1.25 billion bond that would be repaid by veterans’ payments on their home loans. (The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons. For more information on the state’s General Fund-supported bonds, please see “Overview of State Bond Debt” later in this guide.)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "State Housing Programs."
+                ]
+              }
+            ]
+          },
+          " Proposition 1 provides bond funding for various types of housing programs, which are summarized in Figure 1. The funds would be allocated over a number of years. The major categories of housing programs supported by the bond are:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Affordable Multifamily Housing Programs."
+                      ]
+                    }
+                  ]
+                },
+                " Proposition 1 provides $7.2 billion to acquire, build, or renovate rental housing, such as apartment buildings. These programs generally provide local governments and private developers with low-interest loans to fund part of the project cost. In exchange, projects generally must reserve units for low-income households for a period of 55 years. Some of this funding would be used for supportive housing, which provides on-site service (such as mental health and substance use counseling) to certain residents."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Homeownership Programs."
+                      ]
+                    }
+                  ]
+                },
+                " Proposition 1 provides $1.1 billion to support homeownership for low- and moderate-income households. Some of the funds would be used to provide homebuying assistance for first-time homebuyers through loans that generally do not have to be paid back until the home is sold or paid off. Other funds would be provided to nonprofit organizations and other entities for activities such as acquiring land to build homes for eligible low-income homebuyers and repairing existing homes owned by low-income households."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Infrastructure Programs."
+                      ]
+                    }
+                  ]
+                },
+                " Proposition 1 provides $500 million for a variety of infrastructure projects to support affordable housing developments, such as water, sewage, parks, and transportation improvements."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Farmworker Housing Program."
+                      ]
+                    }
+                  ]
+                },
+                " Proposition 1 provides $450 million in loans and grants to build or renovate housing for farmworkers. Program funds could be used for both rental and owner-occupied housing."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Higher Education Student Housing Programs."
+                      ]
+                    }
+                  ]
+                },
+                " Proposition 1 provides $350 million, split evenly between the University of California and California State University, for affordable student housing."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Tribal Housing Program."
+                      ]
+                    }
+                  ]
+                },
+                " Proposition 1 provides $200 million in grants to tribes. Funds could be used for various housing-related purposes, including construction and repair of rental and owner-occupied housing."
+              ]
+            },
+            {
+              "type": "img",
+              "file": "img/prop-1/prop-1-fig-1.jpg",
+              "alt": "Proposed Uses of Bonds Funds"
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Local Pilot Programs."
+                      ]
+                    }
+                  ]
+                },
+                " Proposition 1 provides $200 million that would be available to cities, counties, and certain other entities for pilot projects aimed at developing housing at reduced costs."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Veterans Housing Program."
+                ]
+              }
+            ]
+          },
+          " Proposition 1 also provides $1.25 billion for home loan assistance to veterans. Veterans generally use these loans to purchase single-family residences, condominiums, farms, and mobile homes."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Increased State Cost to Repay the $10 Billion Bond for Housing Programs."
+                ]
+              }
+            ]
+          },
+          " The state General Fund cost to repay the bond would be ",
+          {
+            "strong": [
+              "$500 million to $600 million annually for about 25 years"
+            ]
+          },
+          ". The estimated annual cost would be about one-quarter of 1 percent (0.25 percent) of the state’s total General Fund budget. Since the state has to pay interest on the money it borrows, the total cost of the bond would be about 15 percent more (after adjusting for inflation) than if the state paid up front with money it already has."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "No Direct State Cost for Veterans Housing Program."
+                ]
+              }
+            ]
+          },
+          " Veterans participating in the home loan program would make monthly payments to the state, allowing the state to repay the bonds. These payments have always covered the amount owed on the bonds, meaning the program has always operated at no direct cost to the state."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Administrative Costs."
+                ]
+              }
+            ]
+          },
+          " A number of state entities would experience increased costs to administer the various housing programs. A portion of the bond funds would cover these costs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Impact of Funds."
+                ]
+              }
+            ]
+          },
+          " Much of the funding from Proposition 1 would be used together with other government monies to provide housing assistance. The bond funds would provide subsidies for up to 40,000 multifamily rental units, as well as about 2,500 units for farmworkers and about 1,200 beds for university students. The funds also would help up to 40,000 households, including about 2,100 veterans, with homeownership by providing homebuyer assistance and supporting the production and repair of homes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/ measure-contributions/2026- ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee’s top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/1/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROP. 1: AFFORDABLE HOMES FOR VETERANS, SENIORS, PEOPLE WITH DISABILITIES AND WORKING FAMILIES—WITHOUT RAISING TAXES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "All Californians deserve a safe and affordable place to call home, but California has a housing shortage that is driving the nation’s worst housing affordability crisis. More than half of renters spend over 30% of their income on rent and only 22% of households can afford a median-priced home, yet only 1% of California’s state budget goes to housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 1 gives Californians the opportunity to:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 1 HONORS OUR VETERANS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Dedicates $1.25 billion solely to veterans’ housing and homeownership opportunities through the existing CalVet Home Loan Program, which has already helped almost a million veterans and their families."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“California has one of the largest populations of homeless veterans in the nation. After their service, our veterans deserve a place to call home. Prop. 1 delivers on that promise.”—Michael Blecker, President, CA Association of Veteran Service Agencies"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 1 BUILDS HOMES LOW- AND MIDDLE-INCOME FAMILIES CAN AFFORD"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 1 jumpstarts the construction of tens of thousands of shovel-ready affordable homes across California, quickly turning stalled construction into move-in ready homes. The teacher in your child’s classroom, the firefighter who protects your neighborhood, first-time homebuyers, low- and middle-income Californians, and the nurse at your local hospital can no longer afford to live in most California communities. Prop. 1 builds more homes working people can actually afford."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO NEW TAXES—STRICT ACCOUNTABILITY AND TRANSPARENCY"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 1 doesn’t raise taxes and every dollar comes with strict accountability and public reporting. Voters will be able to see exactly how many homes get built, where, and at what cost. Prop. 1 unlocks federal matching funds, bringing tax dollars we send to Washington back home to California."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 1 HELPS SENIORS, VETERANS & OUR MOST VULNERABLE"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 1 creates and preserves housing to help those who are one crisis away from homelessness stay off the streets, low-income seniors on fixed incomes, survivors of domestic violence and their families, veterans, at risk and foster youth, and people with disabilities who all deserve safe and stable homes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 1 INVESTS IN COMMUNITIES & ESSENTIAL WORKERS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Quality, affordable housing is the foundation of thriving communities. Prop. 1 strengthens that foundation by helping essential workers—from firefighters and teachers to nurses—afford to live in the communities they serve. Working families and essential workers across California are being priced out and left behind. Prop. 1 enables the construction of affordable housing for these essential workers who dedicate their lives to our communities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROP. 1: SUPPORTED BY VETERANS, SENIORS, TEACHERS, FIREFIGHTERS, AND AFFORDABLE HOUSING ADVOCATES including Habitat for Humanity California, California Alliance for Retired Americans, Housing California, California Housing Consortium, California Alliance of Child and Family Services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "VOTE YES ON PROP. 1, Veterans and Affordable Housing Bond, to honor those veterans who served; provide safe and stable housing to California’s most vulnerable; guarantee strict fiscal accountability with no new taxes; and build the affordable homes all Californians deserve."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "YesOnProp1CA.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Anni Chung",
+          "title": "President",
+          "organization": "Self-Help for the Elderly"
+        },
+        {
+          "name": "Jeffery Freitas",
+          "title": "President",
+          "organization": "California Federation of Teachers"
+        },
+        {
+          "name": "John H. Ing",
+          "title": "Chief Financial Officer",
+          "organization": "US Vets"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/1/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

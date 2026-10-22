@@ -1,0 +1,800 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:01Z",
+  "about": {
+    "by": "Put on the Ballot by Petition Signatures",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Authorizes $8.4 billion in general obligation bonds for immunology and immunotherapy research, half to a single University of California-affiliated nonprofit medical research institute, half to research grants. ",
+          {
+            "strong": [
+              "Fiscal Impact:"
+            ]
+          },
+          " Increased state cost of $500 million to $600 million annually for about 20 years to repay the research bond, with some or all of the cost offset if the funded research generates revenue. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Michael J. Fox Foundation; Alzheimer’s Los Angeles; Kidney Cancer Assoc; American Nurses Assoc\\CA ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Robert M Kaplan Ph.D."
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/38/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: The state could borrow $8.4 billion to support medical research in immunology and immunotherapy conducted by California research institutes and universities."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/38/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: The state could not borrow $8.4 billion to support medical research in immunology and immunotherapy conducted by California research institutes and universities."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/38/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 38",
+      "file": "pdf/prop-38-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop38-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Authorizes $8.4 billion in state general obligation bonds for immunology and immunotherapy research (technologies that use body’s immune system to treat disease), with half dedicated to cancer, heart disease, and Alzheimer’s disease."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Allocates funds equally between (1) a single University of California-affiliated nonprofit medical research institute, and (2) research grants for public or nonprofit universities and institutions."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Requires funding recipients to sell technology and drugs derived from research in California for 20% below national average price."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Appropriates money from General Fund to repay bonds; General Fund receives 10% of licensing royalties until bonds are repaid."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Increased state cost of $500 million to $600 million annually for about 20 years to repay the medical research bond. The state could recover part or all of this cost in subsequent decades if the funded research leads to discoveries that generate revenue."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "img",
+        "file": "img/prop-38/prop-38-state-bond-cost-estimate.jpg",
+        "alt": "State Bond Cost Estimate"
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/38/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Medical Research and Development (R&D) Is a Multi- Stage Process."
+                ]
+              }
+            ]
+          },
+          " The first stage of this process is basic research, which focuses on discovering new knowledge about how the human body works. The next stage is applied and clinical research, which aims to develop and test treatments for specific diseases. Universities do most of the basic research, while companies do most of the applied and clinical research. The third R&D stage is to have regulators review new treatments to make sure they are safe and effective. If a new treatment is approved, then it may be used on patients. Most R&D projects do not make it through all of these stages."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Medical R&D Is Funded in Various Ways."
+                ]
+              }
+            ]
+          },
+          " Funding for medical R&D in the United States totaled about $300 billion in 2023. Companies and government agencies (such as the National Institutes of Health) are the major funding sources for R&D nationally and in California. Beyond these funding sources, California voters have approved two ballot measures— Proposition 71 (2004) and Proposition 14 (2020)— giving the state authority to issue general obligation bonds to fund specified medical research. Combined, the two measures allowed the state to issue $8.5 billion in bonds for stem cell research. Bonds are a way for the state to borrow money, then repay it with interest over time. A general obligation bond is typically repaid from the state General Fund. (The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons.) For more information about bonds, see “Overview of State Bond Debt” later in this guide."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "New Bond for Specified Medical Research."
+                ]
+              }
+            ]
+          },
+          " Proposition 38 allows the state to issue an $8.4 billion general obligation bond for research in immunology and immunotherapy. Immunology is the study of the body’s immune system and how it protects the body from abnormal cells and other causes of disease. Immunotherapy develops treatments that help the immune system fight diseases more effectively. The measure requires that at least $4.2 billion of the bond funds be used for immunology research on cancer, heart disease, and Alzheimer’s disease. No more than 2 percent of total bond funds may be used for state administrative costs. Payments on the bond would come from the state General Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Supports a Research Institute."
+                ]
+              }
+            ]
+          },
+          " About half of the bond funds would go to a research institute specializing in immunology and immunotherapy. The California Department of Public Health (CDPH) would select the institute. The selected institute must meet several criteria, including criteria related to its size, funding, and collaboration with a University of California (UC) campus. The institute would use the bond funds for research. Each year, the institute must issue a public report on its activities and have an independent financial audit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Supports Research Grants."
+                ]
+              }
+            ]
+          },
+          " A council would give out the other half of bond funds as competitive research grants focused on immunology and immunotherapy. The council would consist of representatives from 7 UC campuses and 10 to 15 other universities and nonprofit research institutions in California. The council would set research priorities and select grant recipients from among its member organizations. Similar to the institute, the council would have public reporting and audit requirements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Requires 10 Percent of Revenue From Discoveries First Be Used to Repay the State."
+                ]
+              }
+            ]
+          },
+          " Proposition 38 requires that the institute, in consultation with CDPH, try to generate the most revenue possible from the funded research. (Research, for example, could lead to the development of a new medical treatment.) Ten percent of any revenue generated must be given to the state. This revenue must first go into the state General Fund until it repays the cost of the research bond (the amount borrowed plus the interest). Any additional revenue would be used for future immunology and immunotherapy research."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Has Two Other Notable Provisions."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Requires Purchases From California Suppliers."
+                      ]
+                    }
+                  ]
+                },
+                " Grant recipients must buy at least half of their goods and services from California suppliers when reasonably possible."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    {
+                      "em": [
+                        "Requires California Patient Discount."
+                      ]
+                    }
+                  ]
+                },
+                " Any treatment developed through funded research and sold in California must generally be offered at a 20 percent discount."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Increased State Cost of $500 Million to $600 Million Annually for About 20 Years to Repay the Bond."
+                ]
+              }
+            ]
+          },
+          " The state General Fund cost to repay the bond would be ",
+          {
+            "strong": [
+              "$500 million to $600 million annually for about 20 years"
+            ]
+          },
+          ". The annual cost would be about one-quarter of 1 percent (0.25 percent) of the state’s total General Fund budget. Since the state has to pay interest on the money it borrows, the total cost of the bond would be about 10 percent more (after adjusting for inflation) than if the state paid up-front with money it already has."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Potential State Revenue From Research Discoveries."
+                ]
+              }
+            ]
+          },
+          " The state could receive revenue from research funded by Proposition 38. The amount of revenue is uncertain but could be significant. It would depend on how many research projects lead to marketable treatments and how much money any given treatment generates. The timing of these revenues and how long it would take to offset the state’s bond cost is also uncertain, but could take decades."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Potential Indirect Fiscal Effects."
+                ]
+              }
+            ]
+          },
+          " Proposition 38 likely would have some indirect fiscal effects, particularly on costs for state health programs (such as Medi-Cal, which pays for health care for low-income Californians). For example, if the funded research leads to new medical treatments, the average cost of patient care could either increase or decrease. As a result, the overall effect on program costs is uncertain."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/38/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "PATIENT ADVOCATES, DOCTORS, NURSES AND MEDICAL RESEARCHERS URGE YES ON PROP. 38"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Leading patient advocates including the Alzheimer’s Association, Michael J. Fox Foundation, American Nurses Association\\ California, ALS Association, National Multiple Sclerosis Society and Prostate Cancer Foundation all urge YES on PROP. 38 because it could save your life and the life of someone you love."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“I was just weeks away from losing my life when a breakthrough immunotherapy gave me a second chance. Vote YES on PROP. 38 because every family facing a devastating diagnosis deserves this same hope.”"
+              ]
+            },
+            "\n—Laurie Adami, Cancer Survivor and Patient Advocate, Los Angeles"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROP. 38—TO CURE AND PREVENT DISEASES THROUGH LIFE-SAVING IMMUNOLOGY RESEARCH"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 38 accelerates development of breakthrough treatments and cures for the diseases that impact nearly every family. At least half of all funds are specifically dedicated to cancer, heart disease and Alzheimer’s research."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“Immunology harnesses the body’s immune system to detect and stop diseases. Today, breakthrough immunotherapies are already curing cancers like melanoma, lung cancer and leukemia. Promising research is underway to prevent diseases including Parkinson’s, heart disease, diabetes and more.”"
+              ]
+            },
+            "\n—Mark Davis, Ph.D., Member of the National Academy of Sciences and the National Academy of Medicine"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“One in nine people over 65 are living with Alzheimer’s, but there are currently no effective cures. YES on PROP. 38 provides real promise to find treatments and cures for the millions of patients and their families living with Alzheimer’s and dementia.”"
+              ]
+            },
+            "\n—Susan Disney Lord, Board Chair of Alzheimer’s Los Angeles"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "HELPS OFFSET FEDERAL FUNDING CUTS TO MEDICAL RESEARCH"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Massive federal funding cuts and uncertainty are disrupting vitally needed medical research at nonprofit research institutes and universities, delaying progress toward life-saving cures."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 38 creates a stable source of funding for breakthrough immunology research. All funds are dedicated exclusively to California-based nonprofit universities and research institutes— helping California lead the nation in medical innovation, fostering collaboration among top scientists and universities, and creating tens of thousands of good-paying jobs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“Immunotherapy is transforming the future of cancer care. PROP. 38 will help accelerate life-saving cures while strengthening California’s role as a global leader in medical innovation.”"
+              ]
+            },
+            "\n—Gina Carithers, President and CEO, Prostate Cancer Foundation"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "LOWERS HEALTHCARE COSTS FOR CALIFORNIANS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Any cure or immunotherapy developed through PROP. 38 must be provided to California patients at a 20% DISCOUNT. Preventing and curing the most pressing diseases will also reduce long-term healthcare expenses and save the state and families tens of billions of dollars in avoided medical expenses."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "STRONG ACCOUNTABILITY & TAXPAYER PROTECTIONS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 38 is designed to pay for itself WITH NO NET COST TO THE STATE OR TAXPAYERS. Ten percent of revenue from the licensing of successful immunotherapies must be returned to California to offset the costs of the bond, including interest."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 38 also includes strict accountability requirements, including:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROP. 38: SUPPORTED BY DOCTORS, NURSES AND PATIENT ADVOCATES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "• ALS Association • Alzheimer’s Association • American Nurses Association\\California • Blood Cancer United • California Colorectal Cancer Coalition • Liver Coalition • Michael J. Fox Foundation • National Multiple Sclerosis Society • Parkinson Association of Northern California ... and many more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES on PROP. 38 could save your life and someone you love. Please, vote Yes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "www.YesOn38.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Susan Disney Lord",
+          "title": "Board Chair",
+          "organization": "Alzheimer’s Los Angeles"
+        },
+        {
+          "name": "Eugene P. Brandon",
+          "title": "Ph.D., Board of Trustees",
+          "organization": "ALS Association"
+        },
+        {
+          "name": "Dr. Brian Shuch",
+          "title": "M.D., Board of Directors Member",
+          "organization": "Kidney Cancer Association"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/38/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "California should continue supporting biomedical research. Everyone hopes for new treatments for heart disease, cancer, Alzheimer’s disease, and other serious illnesses. I do too. But Proposition 38 is the wrong way to achieve that goal."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The claim that Proposition 38 will pay for itself is speculative. Audits, public disclosure, and limits on administrative costs promote accountability, but they cannot guarantee that research investments will generate enough economic returns to offset billions of dollars in bond repayments."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California faces a continuing structural budget deficit."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 38 would require approximately $8.4 billion in bond repayments. According to the nonpartisan Legislative Analyst’s Office, taxpayers would be committed to roughly $500 million in annual debt payments for the next 25 years. That long-term obligation would further reduce the state’s fiscal flexibility to respond to changing priorities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Meanwhile, recent actions by the Trump administration have placed funding for essential California public health programs at risk, including disease surveillance, emergency preparedness, HIV prevention, vaccination infrastructure, laboratory capacity, and community prevention. These challenges extend well beyond biomedical research."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If California chooses to replace declining federal support, elected officials should be able to consider all health priorities together. Proposition 38 instead earmarks billions of borrowed dollars for one scientific field, regardless of future needs or discoveries. Research priorities should be guided through the normal budget process—not by ballot measures that lock taxpayers into decades of debt. Vote No on Proposition 38."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Robert M Kaplan",
+          "title": "Ph.D."
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/38/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "California recognizes that continued investment in science is essential. But this proposition is not the best way to achieve that goal."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The measure would authorize approximately $8.4 billion in state borrowing to support immunology and immunotherapy research through a new University of California institute. Although the objective is appealing, the financing and policy framework are flawed."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "First, the proposition continues the use of ballot initiatives to direct research funding toward selected topics. California has already created separate funding programs for stem cell research and precision medicine. This measure would add another highly focused program. Research priorities should be established through scientific review and public health planning—not by election campaigns. Cancer, Alzheimer’s disease, and heart disease deserve attention, but so do mental illness, kidney disease, eye diseases, and many other conditions. Ballot-box science inevitably favors the most visible topics rather than the greatest scientific opportunities or public health needs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Second, borrowing is an inappropriate way to finance scientific research. According to the Legislative Analyst’s Office, the bonds authorized by this measure would obligate taxpayers to $500 million in annual debt payments for about 25 years. Bonds are commonly used for highways, schools, and other long-lived infrastructure with predictable benefits. Scientific research is different. Discoveries often require decades before they improve patient care, and many promising lines of investigation never produce marketable treatments."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Third, the proposition assumes that successful discoveries will generate revenues to offset state costs. In reality, universities rarely commercialize new therapies on their own. Publicly funded research lays the scientific foundation, but private companies typically invest the far greater resources required for product development, clinical testing, manufacturing, and regulatory approval. The public benefits are real, but they generally do not flow back to the state treasury."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Finally, the proposition requires certain therapies developed with state support to be sold in California at discounted prices. While this may sound attractive, it could incentivize companies to prioritize selling these products in other states where the prices are not controlled."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California should continue to support biomedical research. But research funding should be strategic, flexible, and fiscally responsible. Decisions about scientific priorities should be based on expert evaluation of emerging scientific opportunities and public health needs, not on a series of expensive ballot measures financed through long-term debt."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California has better options. For example, Senator Scott Wiener has proposed creating a state-funded research agency modeled on the National Institutes of Health and the National Science Foundation. Rather than directing resources to specific areas of science, such an institution could establish priorities through expert scientific review and adapt its investments as new opportunities emerge. Although the legislation has not advanced, it received support from the University of California, the United Auto Workers, and the Union of American Physicians and Dentists. Similar legislation is likely to be considered in the future."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A “No” vote does not reject science. It rejects an inefficient financing mechanism and a fragmented approach to setting research priorities. California can and should support medical research through more coordinated, sustainable policies."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Robert M Kaplan",
+          "title": "Ph.D."
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/38/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROP. 38 IS VITALLY NEEDED FOR LIFE-SAVING IMMUNOLOGY MEDICAL RESEARCH"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Today, breakthrough immunotherapies are already curing cancers like melanoma, lung cancer and leukemia. Promising research is underway to cure and prevent diseases including Alzheimer’s, heart disease, Parkinson’s, ALS and more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "MASSIVE FEDERAL FUNDING CUTS ARE THREATENING PROGRESS TOWARD LIFE-SAVING CURES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES on 38 will ensure California universities and nonprofit research institutions can continue vitally needed immunology research to cure and prevent the most debilitating diseases."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“Immunology saved my life—I now live cancer-free, and it could save millions of other lives too.”"
+              ]
+            },
+            "\n—Andrew Dale, Immunotherapy Patient and Cancer Survivor"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES ON 38 IS DESIGNED TO PAY FOR ITSELF—WITH NO COST TO TAXPAYERS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Ten percent (10%) of revenue from licensing immunotherapies must be returned to California to offset bond costs. These requirements are locked into this measure."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES ON 38 MANDATES STRONG ACCOUNTABILITY & TRANSPARENCY"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES ON 38 LOWERS HEALTHCARE COSTS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Immunotherapies developed through Prop. 38 must be provided to California patients at 20% discount. Preventing and curing diseases will also save families and the state billions of dollars in long-term healthcare expenses."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "DOCTORS, NURSES AND PATIENT ADVOCATES URGE YES ON 38"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "• Alzheimer’s Association • American Nurses Association\\ California • ALS Association • Kidney Cancer Association • Melanoma Research Alliance • National Multiple Sclerosis Society • The Michael J. Fox Foundation for Parkinson’s Research ... and many more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Support Life-Saving Cures. Please Vote YES on 38."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "www.YESon38.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Andrew Dale",
+          "title": "Cancer Survivor",
+          "organization": "Santa Monica"
+        },
+        {
+          "name": "Anne M. Holloway",
+          "title": "Board Member",
+          "organization": "The Michael J. Fox Foundation for Parkinson’s Research"
+        },
+        {
+          "name": "Chris Tarver",
+          "title": "R.N., President",
+          "organization": "American Nurses Association\\California"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/38/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Insurance Commissioner",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Heads the Department of Insurance, which enforces California insurance laws and adopts regulations to implement the laws."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Licenses, regulates, and examines insurance companies."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Answers public questions and complaints about the insurance industry."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Ben Allen",
+      "photo": {
+        "file": "img/candidates/california-insurance-commissioner/ben-allen.jpg",
+        "alt": "Ben Allen",
+        "source": "https://voterguide.sos.ca.gov/img/insurance/allen.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Ben Allen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m running for Insurance Commissioner to reform our broken insurance system, lower costs, and protect consumers. I’m not taking any insurance company money because my loyalty is to you. In the State Senate, I’ve fought for consumers and working Californians. I’ve passed laws holding polluters accountable and investing in wildfire prevention, water infrastructure, and resilience, while meeting our clean energy goals and protecting our water, coast, and ocean. After a disaster, Californians deserve fast and fair treatment when they’re trying to rebuild. That’s why I authored laws requiring insurers to increase upfront payments for claims, creating low-interest loans for home improvements that reduce fire risk, and helping homeowners keep their coverage when they fix hazards on their property. When fires ravaged my district, I helped hundreds of constituents who lost everything rebuild their homes and lives, holding insurance companies accountable to pay what they owed. As Insurance Commissioner, I’ll increase competition to bring down costs, protect consumers who are unfairly dropped, make insurers accountable and the process transparent, and expedite rebuilding. Instead of creating an untested large-scale system that puts the state and you the taxpayer on the hook, I believe in a proven, practical path that adds insurance options and lowers rates, without gambling our state’s finances. I’m honored to have the support of the Consumer Federation of California, California Professional Firefighters, Planned Parenthood, California Federation of Teachers, the Sierra Club, Senators Adam Schiff and Alex Padilla, and a broad coalition of Republican, Independent, and Democratic leaders from across the state. I hope to earn your support, too. ",
+              {
+                "em": [
+                  "BenAllenCA.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State’s office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "1700 Tribute Rd., Suite 201",
+        "Sacramento, CA 95815",
+        "Tel: (805) 410-3854",
+        "E-mail: info@benallenca.com",
+        "Instagram: @benallenca",
+        "X: @BenAllenCA"
+      ]
+    },
+    {
+      "choice": "Jane Kim",
+      "photo": {
+        "file": "img/candidates/california-insurance-commissioner/jane-kim.jpg",
+        "alt": "Jane Kim",
+        "source": "https://voterguide.sos.ca.gov/img/insurance/kim.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Jane Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "The Insurance Commissioner should be working for you to lower prices, not working for the industry to increase profits. That’s why I will never take a dime from insurance companies. California deserves a watchdog for consumers, not a lapdog for corporations, and I’m the only candidate refusing money from corporate PACs. Right now, insurance companies raise our rates, cancel our coverage, and deny our claims while they rake in record profits—using ",
+              {
+                "em": [
+                  "our"
+                ]
+              },
+              " money. I’ll hold them accountable to make insurance more affordable and available and make sure our money works for us. I’ll make claims fast and fair, cap excessive profits, and crack down on illegal price-fixing. I’ll ensure our premiums are invested into making our communities safer through a public Disaster Insurance for All program. And I’ll fight for guaranteed healthcare for every California child. I’m not running to manage a broken system, I’m running to fix it. I’m a civil rights attorney and consumer advocate, and I know how to take on big challenges and win. As an elected San Francisco Supervisor, I won ",
+              {
+                "em": [
+                  "universal tuition-free community college"
+                ]
+              },
+              ", California’s ",
+              {
+                "em": [
+                  "first $15 minimum wage"
+                ]
+              },
+              ", and ",
+              {
+                "em": [
+                  "record amounts of affordable housing"
+                ]
+              },
+              ". I’m proudly supported by United States Senator Bernie Sanders, Lt. Governor Eleni Kounalakis, Controller Malia Cohen, Dolores Huerta, California Teachers Association, California Nurses Association, and many more because they know I’ll fight for ",
+              {
+                "em": [
+                  "you"
+                ]
+              },
+              ". It’s time for an insurance system that works for ",
+              {
+                "em": [
+                  "all"
+                ]
+              },
+              " working families, and I would be honored to earn your vote. ",
+              {
+                "em": [
+                  "www.JaneKim.org"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State’s office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "371 Lakeport Blvd. #391",
+        "Lakeport, CA 95453",
+        "E-mail: info@janekim.org",
+        "Instagram: @janekim",
+        "Facebook: https://www.facebook.com/JaneKimCA"
+      ]
+    }
+  ]
+}

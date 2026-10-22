@@ -1,0 +1,33 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Court of Appeal, Third District — Retain Justice Lauri Damrell",
+    "kind": "measure",
+    "jurisdiction": "us/ca/coa-3",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:03Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Associate Justice, California Court of Appeal, Third District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(No biographical information available.)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Holds its regular sessions in Sacramento."
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/justices/courts-of-appeal/district3.htm"
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:01Z",
+  "about": {
+    "by": "Put on the Ballot by Petition Signatures",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Imposes 5% tax on certain taxpayers with assets over $1 billion; revenue primarily for health care. Exempts revenues from constitutional requirements for school funding and spending limit. ",
+          {
+            "strong": [
+              "Fiscal Impact:"
+            ]
+          },
+          " Temporary revenue increase of tens of billions of dollars spread over several years from wealth tax on billionaires. Possible ongoing decrease of less than $1 billion per year in income tax revenue from billionaires. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " US Senator Bernie Sanders; SEIU United Healthcare Workers West ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " California Primary Care Association; California School Boards Association; California Taxpayers Association"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/40/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: The state would collect a one-time tax from billionaires equal to 5 percent of their wealth."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/40/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: The state would ",
+            {
+              "em": [
+                "not"
+              ]
+            },
+            " collect a one-time tax from billionaires equal to 5 percent of their wealth."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/40/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 40",
+      "file": "pdf/prop-40-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop40-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Imposes one-time tax of up to 5% on certain taxpayers with covered assets valued over $1 billion; covered assets include businesses, securities, art, collectibles, and intellectual property, but exclude real property and some pensions and retirement accounts."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Allocates 90% of these tax revenues for health care, 10% for food assistance or education-related programs; prohibits using revenues to replace existing funding for these purposes."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Exempts such tax revenues from constitutional requirements for school funding, budget reserves, and state spending limit."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Temporary state revenue increase from a new wealth tax on billionaires. These wealth tax revenues probably would add up to tens of billions of dollars spread over several years."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Possible ongoing decrease of less than $1 billion per year in state income tax revenue collected from billionaires."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/40/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "California Is Home to Many Billionaires."
+                ]
+              }
+            ]
+          },
+          " Several of the wealthiest people in the world live in California. Wealth is the value of all the things a person owns. Wealth is different from income, which is how much a person earns in a set period of time, like one year. A person’s wealth typically is measured by their net worth. A person’s net worth is the value of all the things they own, like stocks, businesses, or other investments, minus their debts. California is home to a few hundred people with net worth over $1 billion, often called billionaires. Many of these billionaires gained their wealth as executives or investors in California technology companies."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Health Care Is a Major Category of State Spending."
+                ]
+              }
+            ]
+          },
+          " The state and federal government spend over $200 billion per year on state health care programs. Most state health care spending is for Medi-Cal, the state’s health insurance program for low-income people. State spending also supports public health programs, mental health care, and drug and alcohol treatment."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Establishes One-Time Wealth Tax on Billionaires."
+                ]
+              }
+            ]
+          },
+          " Under Proposition 40, billionaires who were residents of California on January 1, 2026 would have to pay a one-time state tax equal to 5 percent of their net worth. The tax would be due in 2027. Taxpayers would have the option to spread the payments over five years but would have to pay more to do so. Real estate, pensions, and retirement accounts generally would be excluded from the tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Most of the Money Must Be Spent on Health Care."
+                ]
+              }
+            ]
+          },
+          " The state would decide how and when to spend the money from the wealth tax, but it would have to be spent on certain types of services. Ninety percent of the money would have to be spent on health care services for the public. The rest would have to be spent on education, food assistance, and administration of the wealth tax. Existing rules in the State Constitution that limit spending and require the state to spend a certain amount on schools and community colleges would not apply to this money."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Temporary State Revenue Increase From Wealth Tax."
+                ]
+              }
+            ]
+          },
+          " The state probably would collect tens of billions of dollars from the wealth tax. This temporary increase in state tax collections would be spread across several years. Exactly when and how much the state would collect is very hard to predict for many reasons. For example, it is hard to know what actions billionaires would take to reduce the amount of tax they pay. Also, much of the wealth is based on stock prices, which are always changing."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Possible Ongoing Decrease in State Income Tax Revenues."
+                ]
+              }
+            ]
+          },
+          " California billionaires, like all those earning money in the state, currently pay state taxes on their annual income. Billionaires may respond to a new wealth tax in ways that reduce their income tax payments. For example, some billionaires may decide to leave California. The income taxes they currently pay to the state also would go away. These responses probably would reduce state revenues by less than $1 billion per year. This could mean less money for the state’s General Fund, which is the account that pays for most public services, including education, health care, and prisons."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "State Costs to Administer the Wealth Tax."
+                ]
+              }
+            ]
+          },
+          " The state would have costs to determine how much wealth tax is owed and to collect tax payments. These costs could be tens of millions of dollars per year for several years. These costs would be paid from the new wealth tax revenues."
+        ]
+      },
+      {
+        "type": "img",
+        "file": "img/prop-40/prop-40-fig-1.jpg",
+        "alt": "Proposition 40 Figure 1. Potential Interactions With Other Propositions: If Proposition 41 or 42 on this same ballot receive more yes votes than Proposition 40, then Propostion 40 could be stopped from becoming law even if it gets yes votes from a majority of voters. This is because the courts could find that Proposition 41 or 42 conflict with 40."
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/40/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROP. 40 TO TAX BILLIONAIRES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Trump’s “Big, Ugly Bill” slashed funding for healthcare in California to pay for more billionaire tax breaks, eliminating coverage for over a million Californians and doubling health insurance premiums for millions more. Vote YES on Prop. 40 to make billionaires finally pay their fair share in taxes and stop sticking the middle class with the bill."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FUND HEALTHCARE, NOT BILLIONAIRE TAX BREAKS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 makes approximately 200 California billionaires pay a modest, one-time tax on their global wealth to keep local hospitals and ERs open and healthcare affordable for millions of Californians."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It will raise about $100 billion to replace the funding Trump and his billionaire donors took from working people to line their pockets. The funds will go to life-saving medical care for seniors, veterans, and families. It will allow millions of Californians to keep their health insurance and not see their premiums skyrocket. It will prevent mass teacher layoffs in our public schools and keep children fed through food assistance programs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "BILLIONAIRES SHOULD PAY THEIR FAIR SHARE"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "You pay your taxes out of every paycheck, but billionaires pay much lower rates than working families. They insist on paying less, even as they get bigger and bigger tax breaks."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 enacts a one-time tax paid ONLY by Californians worth more than $1 billion, a small group of people who together hold $2 trillion in wealth—most of which will never be taxed due to loopholes that favor the ultra-wealthy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Billionaires amassed their extreme wealth on the backs of the middle class, and we have a chance to make them pay their fair share so WE aren’t stuck paying more for healthcare."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "BERNIE SANDERS SUPPORTS PROP. 40"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "U.S. Senator Bernie Sanders strongly supports voting YES on Prop. 40, even if some politicians in Sacramento are protecting billionaires over working people."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“The idea that [billionaires] are saying it’s ok for children to die, for people not to get the healthcare they need, that they’re going to punish the people of California—it’s outrageous.”\n—U.S. Senator Bernie Sanders."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "DON’T BELIEVE THE BILLIONAIRES’ LIES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A small group of morally bankrupt billionaires is spreading lies about Prop. 40, because they want working people to foot the bill for their tax breaks."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Google founder and Trump donor Sergey Brin’s wealth has DOUBLED to nearly $300 billion since Trump’s election. Now he’s spent over $57 million to oppose Prop. 40. He’d rather millions of Californians lose healthcare than pay his fair share in taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Billionaires like Brin have bought and paid for some corrupt politicians and organizational leaders to also oppose Prop. 40—but actual teachers, Planned Parenthood workers, nurses, and union members support it. Those opposing Prop. 40 have not put forth any viable solution to replacing the funding Trump took from us."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Of course these billionaires and their puppets don’t want a billionaire tax, but you should—because someone has to pay, and working people are already paying enough for healthcare."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "SAVE LIVES. TAX BILLIONAIRES."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Suzanne Jimenez",
+          "title": "Chief of Staff",
+          "organization": "SEIU-United Healthcare Workers West"
+        },
+        {
+          "name": "Victoria Barron",
+          "title": "Patient Access Specialist",
+          "organization": "Planned Parenthood of Pacific Southwest"
+        },
+        {
+          "name": "Denise Robb",
+          "title": "Ph.D., Member of American Federation of Teachers",
+          "organization": "Local 1521, Los Angeles College Faculty Guild"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "CALIFORNIA’S EDUCATION, HEALTHCARE, PUBLIC SAFETY, LABOR AND BUSINESS LEADERS ALL OPPOSE PROP. 40’s FLAWED TAX SCHEME"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 is a flawed tax scheme that will damage our state while taxpayers pay the price."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Here’s why a broad coalition of California teachers, doctors, clinics, hospitals, firefighters, taxpayers, blue-collar labor unions, businesses, Democrats and Republicans oppose 40:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "There’s more: the French economists and the lone group behind Prop. 40 knew the money from their flawed one-time tax would run out, so they included a loophole that lets the Legislature expand the tax without a vote of the people."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 has no accountability or oversight, and no safeguards to ensure the money is spent as intended."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California needs stable, accountable revenue to fund our schools, healthcare and public safety—NOT PROP. 40."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Get the facts and vote no on Prop. 40."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "April O’Connor",
+          "title": "Teacher",
+          "organization": "California Teachers Association"
+        },
+        {
+          "name": "Rob Gutierrez",
+          "title": "President",
+          "organization": "California Taxpayers Association (CalTax)"
+        },
+        {
+          "name": "Chris Hannan",
+          "title": "President",
+          "organization": "State Building and Construction Trades Council of California"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "No on 40—FLAWED WEALTH TAX “EXPERIMENT” HURTS ALL CALIFORNIANS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 is a poorly designed tax scheme that will damage our economy and cost our state budget billions of dollars—without doing anything to lower healthcare costs for Californians."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure is a one-time tax that only provides temporary funds. When the money runs out, the politicians will be back with yet another tax."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 40 WILL COST CALIFORNIA $25 BILLION IN LOST REVENUE FOR HEALTHCARE, EDUCATION"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A study by Stanford University economists found the tax will cost California $25 billion as the tax drives companies and wealthy residents out-of-state."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "These residents create new businesses, drive our economic growth and already pay nearly half the income taxes that fund state programs. If they leave, it will create a huge hole in our budget, threatening core services like education, healthcare and public safety or forcing other taxpayers to make up the difference."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California’s DOCTORS, HOSPITALS AND CLINICS OPPOSE PROP. 40 because the lost funding will endanger patients’ access to healthcare. “Prop. 40 doesn’t help the need for stable healthcare funding."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 makes it worse.”—Jodi Hicks, President and CEO, Planned Parenthood Affiliates of California"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 40 IS WRITTEN TO GIVE POLITICIANS NEW POWER TO EXPAND THE TAX"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 isn’t just a “billionaire tax.” The special interests behind the measure wrote it to give the State Legislature power to amend the measure—without voter approval."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Independent legal analysis found Prop. 40 opens the door to expanding the tax to the assets of ALL Californians—to your savings, home equity and even retirement funds. ",
+            {
+              "em": [
+                "www.ReadltForYourself.org"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 40 TAXES RETIREMENT ACCOUNTS FOR THE FIRST TIME"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 would be the first in California history to tax retirement accounts—a dangerous precedent. If it passes, it will inevitably be expanded to tax more Californians’ retirement savings."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 40 IS A RECIPE FOR MORE WASTEFUL SPENDING"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "State government spending is up 79% since 2019, without delivering better results on key issues like crime, housing and homelessness. But Prop. 40 includes no accountability, transparency or oversight provisions to ensure funds are spent as intended."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Instead, Prop. 40: • Exempts itself from voter-approved constitutional protections for schools, shortchanging classrooms over $3 billion annually. www.ProtectCaliforniaSchools.org • Exempts itself from the voter-approved state spending limit, including its requirement that excess revenues get returned to taxpayers. • Includes no safeguards to prevent billions from going directly to health insurance companies and CEOs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "AUTHORS ADMIT THE ONE-TIME TAX IS AN EXPERIMENT"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The French economists who co-authored Prop. 40 have unsuccessfully proposed wealth taxes in France and the European Union that were rejected due to economic concerns. They call Prop. 40 “an experiment” that may backfire but say “California is the ideal place to test their idea.”"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We shouldn’t risk California’s future on a costly economic experiment. ",
+            {
+              "em": [
+                "www.WhoWroteProp40.org"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 40 IS OPPOSED BY LABOR AND BUSINESS, DEMOCRATS AND REPUBLICANS, TEACHERS AND FIREFIGHTERS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 40 is opposed by Governor Gavin Newsom, the Democratic and Republican candidates for governor, and the following organizations: California Teachers Association, Planned Parenthood Affiliates of California, California Children’s Hospital Association, State Building and Construction Trades Council of California, California Conference of Carpenters, California Professional Firefighters, California Asian Pacific Chamber of Commerce, California Council for Affordable Housing, California Taxpayers Association, California Chamber of Commerce, California Hispanic Chambers of Commerce"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join us and vote no on this flawed tax scheme."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Visit ",
+            {
+              "em": [
+                "www.VoteNoOn40.org"
+              ]
+            },
+            " for more information."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "René Bravo",
+          "title": "M.D., President",
+          "organization": "California Medical Association"
+        },
+        {
+          "name": "Francisco Silva",
+          "title": "CEO",
+          "organization": "California Primary Care Association"
+        },
+        {
+          "name": "Dr. Debra Schade",
+          "title": "President",
+          "organization": "California School Boards Association"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "LET’S CHECK THE FACTS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "1. Prop. 40 is a BILLIONAIRE tax. It cannot be applied to anyone else—working people already pay more than their fair share."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "2. Prop. 40 will GENERATE $100 billion to replace the healthcare funding Trump cut to fund billionaire tax breaks."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "3. Billionaires pay MUCH LOWER TAX RATES compared to what working families pay out of every paycheck. DON’T LISTEN TO BILLIONAIRE LIES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The billionaires who helped Trump pass the “Big, Beautiful Bill” have spent millions to trick you into voting against a billionaire tax."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don’t be fooled. The endorsements and studies from the billionaires are hiding the truth—they’re pushing a Trump agenda that protects billionaires and hurts everyday taxpayers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "ACTUAL DOCTORS, NURSES, TEACHERS, AND WORKERS SUPPORT PROP. 40"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "While some organizational leaders and lobbyists have sided with billionaires, the working people they’re supposed to represent are standing behind Prop. 40 and urging you to vote YES. Supporters include:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California Nurses Association, Representative Ro Khanna, Doctors with the Committee of Interns and Residents, SEIU, California League of United Latin American Citizens (LULAC), Clergy and Laity United for Economic Justice (CLUE)"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "OPPONENTS OF PROP. 40 HAVE NO PLAN TO SAVE YOUR HEALTHCARE"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The billionaires and their puppets have not put forth ANY viable solution to replacing the healthcare funding Trump took from us. They’d rather the middle class get stuck with shuttered hospitals and skyrocketing healthcare costs than pay their fair share."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES on Prop. 40."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Suzanne Jimenez",
+          "title": "Chief of Staff",
+          "organization": "SEIU-United Healthcare Workers West"
+        },
+        {
+          "name": "Victoria Barron",
+          "title": "Patient Access Specialist",
+          "organization": "Planned Parenthood of Pacific Southwest"
+        },
+        {
+          "name": "Denise Robb",
+          "title": "Ph.D., Member of American Federation of Teachers",
+          "organization": "Local 1521, Los Angeles College Faculty Guild"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

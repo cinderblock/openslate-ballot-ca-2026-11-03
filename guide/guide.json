@@ -1,0 +1,19 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca",
+    "title": "California Official Voter Information Guide: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Secretary of State",
+      "uri": "https://www.sos.ca.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-22T08:03:04Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/"
+    ]
+  }
+}

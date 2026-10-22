@@ -1,0 +1,489 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:01Z",
+  "about": {
+    "by": "Put on the Ballot by Petition Signatures",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Authorizes $25 billion in bonds to offer eligible buyers fixed-rate mortgages for up to 17% of purchase price of a newly constructed home priced below about $1.5 million. Borrowers must be California residents, occupy the home, meet income limits, and pay at least 3% down. Bonds repaid by mortgage payments, not State. ",
+          {
+            "strong": [
+              "Fiscal Impact:"
+            ]
+          },
+          " No direct state or local costs. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " United Nurses Associations of California; California Conference of Carpenters; California State Treasurer Fiona Ma ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/37/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: The state would create a new homebuying assistance program. The state could sell up to $25 billion in revenue bonds to fund the program. Bonds would be paid back by homeowners’ payments on their home loans."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/37/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: The state would not be required to create a new homebuying assistance program."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/37/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 37",
+      "file": "pdf/prop-37-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop37-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Authorizes up to $25 billion in bonds to offer eligible buyers fixed-rate mortgages for up to 17% of the purchase price of a “qualified new home” (new construction or first sale of converted nonresidential property, priced below about $1 million–$1.5 million, depending on county, adjusted annually)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Borrowers must be California residents for one year, occupy the home, earn less than twice the area’s median income, and pay at least 3% down."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Requires that bonds be repaid by homeowners’ mortgage payments, not the State."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "No direct state or local costs."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/37/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "State Revenue Bonds."
+                ]
+              }
+            ]
+          },
+          " Bonds are a way that governments borrow money, most commonly for public projects such as schools or bridges. The state sells bonds to investors to receive up-front funding for these projects. Over time, investors are repaid with interest. The state sells two main types of bonds: general obligation bonds and revenue bonds. The state usually repays general obligation bonds using the state General Fund. (The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons.) In contrast, revenue bonds are repaid using revenue from fees or other payments by the users of the project (such as from bridge tolls)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Some People Seek Down Payment Assistance."
+                ]
+              }
+            ]
+          },
+          " When purchasing a home, most people pay some of the cost up front—typically 3 percent to 20 percent of the home price. The up-front payment is known as a down payment. If people cannot afford the down payment, there are different government programs available to provide down payment assistance to eligible homebuyers. To cover the remaining cost of the home, homebuyers get a loan, called a mortgage. Homebuyers then pay off the mortgage by making monthly payments that include interest."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "California Housing Finance Agency (CalHFA)."
+                ]
+              }
+            ]
+          },
+          " CalHFA is a state entity that administers programs designed to help low- and moderate-income Californians afford housing. CalHFA has a few programs that provide down payment assistance to homebuyers. The down payment assistance programs are loans that must be repaid under certain terms and conditions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Construction Defect Law."
+                ]
+              }
+            ]
+          },
+          " To try to prevent construction defects, state law sets minimum standards that builders must follow for new residential construction. Current law also establishes a process that homeowners and housing builders must follow before a homeowner is able to sue a builder for alleged violations of those minimum standards. For example, the homeowner must provide notice to the builder that includes certain information concerning a claim of construction defect."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Revenue Bond to Pay for a New Down Payment Assistance Program."
+                ]
+              }
+            ]
+          },
+          " Proposition 37 allows CalHFA to sell up to $25 billion in revenue bonds. CalHFA would use the bond funds to create a down payment assistance program called the “middle-class homeownership loan.” Each loan would cover up to 17 percent of the home price. (Homebuyers would need to provide a down payment of at least 3 percent of the home price.) Homeowners’ monthly payments on their loan would be designed to repay the bonds over time and cover the program’s administrative costs. CalHFA also would be required to keep interest costs for homebuyers as low as possible. CalHFA would decide how much of the bonds to issue (up to $25 billion) and over what time period."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Buyers and Homes Must Meet Certain Requirements."
+                ]
+              }
+            ]
+          },
+          " To participate in a middleclass homeownership loan, people and homes would need to meet certain requirements. For example, an applicant would need to be a resident of the state and have a household income no more than double the typical income level in their area. For a home to be eligible for purchase through the program, among other requirements, the buyer would need to be the first purchaser of the home and the price could not exceed certain limits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Housing Developer Options."
+                ]
+              }
+            ]
+          },
+          " Under Proposition 37, all developers could build homes eligible for purchase under the program. Developers also could choose to participate in a “qualified builder option.” Developers that chose this option would be required to meet higher labor standards, such as using workers with a certain type of training for certain types of housing projects. In exchange, developers would be subject to different construction defect rules, which generally aim to provide more flexibility to developers."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "No Direct State or Local Costs."
+                ]
+              }
+            ]
+          },
+          " Because Proposition 37 uses the payments from homebuyers to repay bond investors, it would not result in direct state or local costs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Other Potential Effects."
+                ]
+              }
+            ]
+          },
+          " A number of factors, which are unknown at this time, could affect Proposition 37’s scope and impact. These include (1) the extent to which investors want to buy the bond, (2) how much the loans available under this proposed program cost homebuyers compared with other down payment assistance options, and (3) whether the program results in increased home construction and homebuying."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/37/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "VOTE YES ON PROPOSITION 37: the California Middle- Class Homeownership & Family Home Construction Act. Proposition 37 creates affordable homeownership opportunities for working and middle-class Californians and encourages new home construction—with ZERO COST TO TAXPAYERS."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California has the second-worst homeownership rate in the nation; rising costs push homeownership further out of reach every year."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "With the statewide median home price now exceeding $930,000, a traditional 20% down payment can require saving over $186,000 just to get in the door. Teachers, nurses, veterans, and firefighters work hard and pay their bills. They can afford monthly mortgage payments but are locked out of homeownership in the communities where they live and work because down payment requirements are too high."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 37 gives working and middle-class Californians a fair shot at homeownership."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "KEEPING HOMEOWNERSHIP WITHIN REACH."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 37 is a practical solution. It makes consumer-friendly, low-interest downpayment assistance loans available to qualified California residents for purchasing a newly built home, with no cost to taxpayers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This is not a handout. Homebuyers must qualify for a mortgage, meet income requirements, pay at least 3% down, occupy the home as their primary residence, make monthly payments, and fully repay their loans."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 37 is designed for renters, first-time homebuyers, and working families who earn too much to qualify for renter assistance programs, but not enough to save the massive down payment required to buy a home."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "“Proposition 37 will boost homeownership without burdening taxpayers. As a state revenue bond, downpayment assistance loans are funded by private bond investors and repaid by home borrowers, not taxpayers.”"
+              ]
+            },
+            "—Malia Cohen, California State Controller"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "BUILDS MORE HOMES, CREATES GOOD JOBS."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California hasn’t built enough homes to keep up with demand. By helping qualified buyers purchase newly built homes, Prop. 37 will help accelerate construction, creating thousands of good-paying jobs and generating economic investment."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Expanding the housing supply helps workers and families to stay in California, build equity, raise their children, and live in the communities where they work."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "ZERO COST TO TAXPAYERS."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Taxpayer advocates and California’s Legislative Analyst agree: Proposition 37 has no cost to taxpayers. Loans are funded by private bond investors and repaid by home borrowers—not taxpayers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "STRICT ACCOUNTABILITY AND CONSUMER PROTECTIONS."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 37 includes fiscal accountability and transparency requirements, construction accountability standards, and annual audits detailing the status of loans made and the fund’s financial condition."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Consumer benefits include below-market, fixed-rate loans, protections from unfair lending practices, strict limits on lender fees, and no penalty for early repayment."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "BROAD, BIPARTISAN SUPPORT"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 37 is supported by Democrats & Republicans, labor and businesses, construction workers, taxpayer and housing advocates, veterans, the California Teachers Association, and United Nurses Association of California."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For generations, homeownership provided stability, security, and a path to the middle class. But today, that path is simply out of reach for too many Californians. Proposition 37 is a practical solution that tackles one of the biggest barriers to homeownership, without burdening taxpayers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES to expand middle-class homeownership, build more homes, create good jobs, and give working Californians a fair chance to live, work, raise a family, and stay in California."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "VoteYeson37.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Danny Curtin",
+          "title": "Director",
+          "organization": "California Conference of Carpenters"
+        },
+        {
+          "name": "Fiona Ma",
+          "title": "Boardmember",
+          "organization": "California Housing Finance Agency (CalHFA)"
+        },
+        {
+          "name": "David West",
+          "title": "Chair",
+          "organization": "California State Commanders Veterans Council"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/37/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

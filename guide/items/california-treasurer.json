@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Treasurer",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "As the state’s banker, manages the state’s investments, and administers the sale of state bonds and notes."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Serves on several commissions, most of which are related to the marketing of bonds."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Pays out state funds when spent by the Controller and other state agencies."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Jennifer Hawks",
+      "photo": {
+        "file": "img/candidates/california-treasurer/jennifer-hawks.jpg",
+        "alt": "Jennifer Hawks",
+        "source": "https://voterguide.sos.ca.gov/img/treasurer/hawks1.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Jennifer Hawks",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m running for California State Treasurer because taxpayers deserve someone who will protect every dollar as if it were their own, and help bring much-needed change to Sacramento. I’m not a career politician. I’m a business professional who has spent my career managing budgets, improving operations, and demanding accountability. Just as importantly, I’m not part of the Sacramento political establishment, and I never will be. My loyalty is to California taxpayers, not political insiders or special interests. I believe lasting change in Sacramento begins with transparency, accountability, and putting taxpayers first. The Treasurer cannot rewrite the state budget or create new laws, but the office can demand transparency, strengthen oversight, and shine a light on how taxpayer dollars are managed. As Treasurer, I will ask the tough questions others won’t, insist on measurable results, and work to expose waste, fraud, and mismanagement wherever they exist. I will advocate for responsible investing, greater accountability, and honest stewardship of the public’s money. California needs a financial watchdog, not another politician. By bringing private-sector leadership and independent oversight to the Treasurer’s Office, I will work every day to bring meaningful change to Sacramento, restore trust in how our state manages its finances, and always put taxpayers first. It’s your money. You deserve to know where it goes, how it’s spent, and whether it’s working for California."
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "P.O. Box 61415",
+        "Palo Alto, CA 94306",
+        "E-mail: info@hawksforus.com",
+        "hawksforus.com",
+        "X: @VoteHawks"
+      ]
+    },
+    {
+      "choice": "Eleni Kounalakis",
+      "photo": {
+        "file": "img/candidates/california-treasurer/eleni-kounalakis.jpg",
+        "alt": "Eleni Kounalakis",
+        "source": "https://voterguide.sos.ca.gov/img/treasurer/kounalakis.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Eleni Kounalakis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As the daughter of Greek immigrants, I grew up believing in the California dream. As a businesswoman, financial expert, and Lieutenant Governor, I’ve dedicated my career to keeping that dream alive for the next generation. I’m running for state Treasurer to responsibly manage California’s finances, strengthen our economy, and make smart investments that create opportunity. As Treasurer, I will build more affordable housing through public finance; invest in the financial future of children and families, defend health care and immigrant communities, and protect pensions for hard-working Californians. Before running for office I spent nearly two decades as a builder. I built housing communities and financed infrastructure projects in the private sector. As Lieutenant Governor, I’ve helped create clean-energy jobs, managed public lands, and voted to deliver more than 60,000 new college housing beds to help reduce costs for students and families. This November, California voters face a clear choice. As the only Democrat in the race, I’ll stand up to Donald Trump’s attacks on our state and protect the values that make us stronger. I’m proud to have the support of Governor Gavin Newsom, Senators Alex Padilla and Adam Schiff, Speaker Emerita Nancy Pelosi, and hundreds of thousands of teachers, firefighters, first responders, health care workers, and union members across California. EleniForCA.com"
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "2443 Fillmore Street #300",
+        "San Francisco, CA 94115",
+        "E-mail: info@eleniforca.com",
+        "X: @eleniforca",
+        "Instagram: @eleniforca"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "openslate-ballot-ca-2026-11-03",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "California's official voter guide for the November 3, 2026 general election, as a signed OpenSlate guide published to GitHub Pages.",
+  "license": "MIT",
+  "scripts": {
+    "fetch-openslate": "bun scripts/fetch-openslate.ts",
+    "scrape": "bun scripts/scrape-ca-vig.ts",
+    "check": "bun .openslate/packages/cli/src/index.ts guide check guide",
+    "build-site": "bun scripts/build-site.ts",
+    "format": "biome format --write .",
+    "lint": "biome check ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "^1.1.14",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "parse5": "^8.0.1"
+  }
+}

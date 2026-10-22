@@ -1,0 +1,124 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Board of Equalization, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Serves on the Board of Equalization, the state's elected tax commission, which:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses the property of regulated railroads and specific public utilities, and assesses and collects the private railroad car tax."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Oversees the assessment practices of the state's 58 county assessors."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Assesses and collects the alcoholic beverage tax, and jointly administers the tax on insurers."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Denis Bilodeau",
+      "photo": {
+        "file": "img/candidates/california-state-board-of-equalization-district-4/denis-bilodeau.jpg",
+        "alt": "Denis Bilodeau",
+        "source": "https://voterguide.sos.ca.gov/img/boe/bilodeau.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Denis Bilodeau",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Vote Denis Bilodeau for Board of Equalization. I’m running to lower your cost of living. Your electric bill, your gas bill, your water bill. The Board of Equalization assesses the property of California’s regulated utilities, and that assessment directly affects your utility rates. When an assessment is wrong, it shows up in your rent and your utility bills. I’m Denis Bilodeau, P.E. • Licensed Civil and Traffic Engineer. • University of California, Irvine graduate. • Taxpayer Association President. • Mayor Pro Tem, City of Orange. • President, Orange County Water District. • Chairman, National Water Research Institute. I’ve spent 25 years fighting for ratepayers. I know how a wrong assessment lands on a working family’s budget. The Board of Equalization also oversees the 58 county assessors. Your property should be assessed fairly, without inflation from errors or special interest loopholes. I signed the Howard Jarvis Taxpayers Association Pledge to Save Proposition 13 and have their endorsement. I’ll oppose the proposed car mileage tax. I’ve led a team that set affordable water rates, protected our watersheds from forever chemicals, balanced budgets every year, invested in our infrastructure, and delivered high-quality drinking water that met the highest safety standards in the country. As a City Councilmember, I’ve worked to keep our neighborhoods safe. I’ll fight so working families can afford a home again with engineering precision and fiscal discipline. An ",
+              {
+                "em": [
+                  "independent"
+                ]
+              },
+              " voice for taxpayers. I care whether things work, not who gets credit. Please vote ",
+              {
+                "em": [
+                  "Denis Bilodeau for Board of Equalization"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "P.O. Box 1871",
+        "Orange, CA 92862",
+        "Tel: (858) 633-3352",
+        "E-mail: INFO@BILODEAUFORBOE.COM",
+        "Facebook: Denis Bilodeau For Board of Equalization 2026",
+        "Instagram: BilodeauForBoardofEqualization"
+      ]
+    },
+    {
+      "choice": "Tom Umberg",
+      "photo": {
+        "file": "img/candidates/california-state-board-of-equalization-district-4/tom-umberg.jpg",
+        "alt": "Tom Umberg",
+        "source": "https://voterguide.sos.ca.gov/img/boe/umberg.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Tom Umberg",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for Board of Equalization to be your watchdog—fighting to make our tax system fair and equitable for everyday Californians while ensuring that big monied corporations pay their fair share. The Board of Equalization provides accountability for billions of dollars in property taxes, funding vital local services including schools, hospitals, libraries, parks, and emergency response. I will be your voice for tax fairness, protecting homeowners, renters, and small businesses while standing up to wealthy interests who get around the rules. My record shows that I care about working families and know how to ensure accountability at the Board. In the State Senate, I wrote the “No Kings” law to prevent Donald Trump from appearing on the California ballot again and backed legislation demanding accountability from ICE while protecting civil rights for all Californians. As a federal prosecutor and Army JAG officer, I convicted politicians and government workers of fraud, abuse and corruption, held corrupt foreign governments to account for human rights abuses, and investigated the Republican Party’s intimidation of Latino voters with poll guards on election day. Recently, I authored Proposition 4 to crack down on the influence of special interests in our elections. As a small businessman, I understand the challenges our businesses and workers face. I am proud to be supported by the California Democratic Party, U.S. Senator Adam Schiff, U.S. Senator Alex Padilla, California Professional Firefighters, Planned Parenthood Affiliates of California, and labor unions representing healthcare workers, educators, and nurses. I’d be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "P.O. Box 1630",
+        "Sunset Beach, CA 90742",
+        "Tel: (949) 679-0052",
+        "E-mail: info@tomumberg.com",
+        "Facebook: www.facebook.com/Umberg4BOE/",
+        "X: www.X.com/TomUmbergCA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Court of Appeal, First District — Retain Justice Kathleen M. Banke",
+    "kind": "measure",
+    "jurisdiction": "us/ca/coa-1",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:03Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Associate Justice, Division 1, California Court of Appeal, First District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Holds its regular sessions in San Francisco."
+        ]
+      }
+    ],
+    "source": "https://appellate.courts.ca.gov/district-courts/1dca/bio/kathleen-m-banke"
+  }
+}

@@ -1,0 +1,876 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "by": "Put on the Ballot by the Legislature",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Increases California's Rainy Day Fund, approved by voters in 2014, to provide funding for education, health care, public safety, and other essential services during economic downturns. ",
+          {
+            "strong": [
+              "Fiscal Impact"
+            ]
+          },
+          ": State budget reserves would be higher. ",
+          {
+            "strong": [
+              "Supporters"
+            ]
+          },
+          ": CA Professional Firefighters; LA Chamber of Commerce; Gavin Newsom; Xavier Becerra; Assemblymember Jesse Gabriel ",
+          {
+            "strong": [
+              "Opponents"
+            ]
+          },
+          ": None submitted"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/2/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: Rules for building state budget reserves and paying down extra state debts would change. As a result, state budget reserves would be higher. The state also would be required to make extra debt payments for longer."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/2/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: Rules for building state budget reserves and paying down extra state debts would not change."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/2/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 2",
+      "file": "pdf/prop-2-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop2-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Increases California’s Rainy Day Fund, approved by voters in 2014, to provide funding for education, health care, public safety, and other essential services during economic downturns."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Doubles the budget reserve cap from 10% to 20% of General Fund revenues, requiring savings until Fund’s balance equals 20% of General Fund."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Requires additional savings in years when tax revenues are high."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Increases budget reserves available for education, state debts, and pension obligations."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "State budget reserves would be higher."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FINAL VOTES CAST BY THE LEGISLATURE ON ACA 20 (PROPOSITION 2)\n(CHAPTER 130, STATUTES OF 2026)"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "Senate:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 29"
+              ]
+            },
+            {
+              "text": [
+                "Noes 2"
+              ]
+            }
+          ],
+          [
+            {
+              "header": true,
+              "text": [
+                "Assembly:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 59"
+              ]
+            },
+            {
+              "text": [
+                "Noes 8"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/2/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "THE STATE BUDGET"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "How Does the State Spend Its Money?"
+                ]
+              }
+            ]
+          },
+          " This year, the state plans to spend about $250 billion from the General Fund to pay for services to the public. The General Fund is the account the state uses to pay for most public services. About half of this spending is for schools, community colleges, and the state's public universities. (The State Constitution sets a minimum spending level for schools and community colleges.) About another one-third of state spending is for health and human services programs, mainly for the state's low-income health insurance program, Medi-Cal. The rest goes mostly to prisons, courts, and other state services."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "How Does the State Raise Revenue?"
+                ]
+              }
+            ]
+          },
+          " The income tax is the state's largest tax. It pays for most spending from the General Fund. Other major taxes include the corporation tax and the sales tax. Much of the income tax is paid by high-income taxpayers, whose incomes often include gains from stocks and other investments."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "State Revenues Are Unpredictable."
+                ]
+              }
+            ]
+          },
+          " State revenues go up and down a lot from year to year. This is because revenues depend on how the economy and stock market are doing. When things are going well, revenues can grow quickly. When things are going badly, like during a recession or a stock market crash, revenues can decline by tens of billions of dollars. During a bad recession or market crash, total revenue declines over a few years can equal 50 percent or more of annual General Fund revenues."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "The State Must Meet Certain Budgeting Requirements Each Year."
+                ]
+              }
+            ]
+          },
+          " The State Constitution requires the Legislature to pass a balanced budget each year. This means the state cannot adopt a budget that spends more money than is available. In addition, the State Constitution limits how much tax revenue the state can spend. This limit is called the “state appropriations limit.” Certain kinds of spending—like infrastructure—do not count toward the limit. All other spending, including money put into reserves, does count toward the limit."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "RESERVES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Reserves Allow the State to Maintain Spending When Revenues Decline."
+                ]
+              }
+            ]
+          },
+          " The state puts money into reserves when the economy is doing well. This means that money is saved instead of being spent on public programs during these periods of time. When the economy gets worse and revenues decline, the state uses reserves to help maintain spending on public programs. Reserves help the state avoid some spending cuts, tax increases, and borrowing to balance the budget. Currently, the state has about $20 billion in reserves that can be used for any public program."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "State Constitution Requires the State to Save Money in the “Rainy Day Fund.”"
+                ]
+              }
+            ]
+          },
+          " The State Constitution requires the state to deposit 0.75 percent of General Fund tax revenues in the state's main rainy day fund, which is called the Budget Stabilization Account, each year. Money in the rainy day fund can be used for any state program. In addition, the state must put more money into the rainy day fund in years when revenue from taxes on investment gains is higher than normal. During a budget emergency, the state can stop making deposits and/or take money out of the rainy day fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Savings Are No Longer Required Once the Rainy Day Fund Reaches a Certain Level."
+                ]
+              }
+            ]
+          },
+          " Once money in the rainy day fund reaches 10 percent of General Fund taxes, the state is no longer required to make additional deposits. The money that would have gone into the rainy day fund instead must be spent on infrastructure (like highways and housing)."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "DEBT"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "The State Has Different Kinds of Debts."
+                ]
+              }
+            ]
+          },
+          " The state has more than $250 billion in debts. These include debt for infrastructure and pension and retiree health benefits earned by state employees. The state also sometimes borrows money from other state funds to help pay General Fund costs. State debts are repaid over time, usually according to a schedule or plan. Each year, the state makes payments toward its debts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "State Constitution Requires the State to Make Extra Debt Payments Toward Pension and Health Benefits."
+                ]
+              }
+            ]
+          },
+          " The State Constitution requires the state to make extra debt payments above those normally made each year. The amount of these extra debt payments is the same as the amount initially deposited into the rainy day fund each year. The state may only use these extra debt payments to pay down long-term pension and retiree health care debts. Making extra payments toward these debts saves the state money in the long run."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Extra Debt Payments Optional After 2030."
+                ]
+              }
+            ]
+          },
+          " The requirement for extra debt payments ends in 2030. After that, the Legislature and the Governor could decide to deposit the money for extra debt payments into the rainy day fund instead. Or, the Legislature and the Governor could make smaller extra debt payments and put the rest of the money into the rainy day fund."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Save More in the Rainy Day Fund."
+                ]
+              }
+            ]
+          },
+          " Proposition 2 requires the state to make deposits into the rainy day fund until it reaches 20 percent of General Fund taxes (instead of 10 percent of General Fund taxes). In addition, the state would make even larger deposits in years when revenues from taxes on investment gains are very high, like when the stock market is booming."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Extend and Expand Extra Debt Payments."
+                ]
+              }
+            ]
+          },
+          " Proposition 2 also requires the state to make extra debt payments through 2040 (instead of through 2030). These debt payments would be the same as the amount initially deposited into the rainy day fund each year. In addition, the amount set aside for extra debt payments could be used for an expanded set of purposes. Specifically, these payments could be used to make required payments to schools and community colleges, repay borrowing from other state funds, and repay certain loans from the federal government."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Change How Rainy Day Fund Deposits Count Toward the State Appropriations Limit."
+                ]
+              }
+            ]
+          },
+          " Deposits into the rainy day fund would not count toward the state appropriations limit. Instead, the money would count toward the limit when it is taken out."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Change How Other Deposits Count Toward the State Appropriations Limit."
+                ]
+              }
+            ]
+          },
+          " The state has an account to set aside funds when revenues are surging. By setting these funds aside, the state can avoid overspending when revenue estimates are particularly uncertain. Under Proposition 2, deposits into this account also would not count toward the state appropriations limit. Instead, the money would count toward the limit when it is taken out. This exclusion could not be larger than 10 percent of General Fund taxes in each year."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Budget Reserves Would Be Higher."
+                ]
+              }
+            ]
+          },
+          " By continuing to require deposits into the rainy day fund until the balance reaches 20 percent of General Fund taxes, the state would save more over time. In addition, by depositing more money when revenues are surging, the state likely would save more in the rainy day fund in certain years. More reserves would make balancing the budget somewhat easier when revenues decline."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Possibly More Debt Payments."
+                ]
+              }
+            ]
+          },
+          " By requiring the state to make extra debt payments through 2040, the state might make more debt payments than it would without Proposition 2."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/2/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "VOTE YES ON PROPOSITION 2 TO PROTECT SCHOOLS, HEALTHCARE, PUBLIC SAFETY AND CALIFORNIA'S FINANCIAL FUTURE."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California's Rainy Day Fund, established by voters in 2014, was built for exactly this moment: an economy that swung our state budget from a $100 billion surplus to a $50 billion deficit in just a few years."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 2 strengthens that fund, so schools, healthcare, and public safety don't pay the price for Sacramento's boom-and-bust budgeting. Voting YES on Proposition 2 will:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "DOUBLE THE STATE'S RESERVE REQUIREMENT—from 10 to 20 percent of General Fund revenues—so California has a real cushion, not a token one, when the next downturn hits."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "STOP SACRAMENTO POLITICIANS FROM OVERSPENDING—When tax revenues spike, this measure forces politicians to budget smarter by requiring the state to bank more of that windfall instead of committing it to new ongoing spending California can't sustain."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "GUARANTEE EDUCATION FUNDING IS PROTECTED IN THE STATE CONSTITUTION, even as reserves grow."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "INCREASE FINANCIAL SECURITY—As Washington moves to cut billions in health care and food assistance funding, this measure will ensure California is better prepared to absorb those losses without slashing the programs Californians depend on."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This is not a partisan idea. Republicans and Democrats in the state Legislature and Governor Gavin Newsom support Proposition 2."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California's own nonpartisan Legislative Analyst's Office has recommended that the state should be saving significantly more than current rules require. Proposition 2 follows that advice."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please join the California Professional Firefighters, small business organizations, and former Health Secretary Xavier Becerra in supporting Proposition 2 because they see, firsthand, what happens when reserves run dry: healthcare clinics closed, schools defunded, essential services cut, and fire protection slashed."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Saving for a rainy day is what California families do. It's what California's state government should do too. Vote YES on Proposition 2—and make sure the next time the economy turns, California is ready."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Learn more at ",
+            {
+              "em": [
+                "YesOnProp2.com"
+              ]
+            },
+            "."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Darrell Roberts",
+          "title": "President",
+          "organization": "California Professional Firefighters"
+        },
+        {
+          "name": "Jesse Gabriel",
+          "title": "Chair",
+          "organization": "California State Assembly Budget Committee"
+        },
+        {
+          "name": "Maria S. Salinas",
+          "title": "CEO",
+          "organization": "Los Angeles Area Chamber of Commerce"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/2/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The supporters of Proposition 2 want you to believe this measure is about fiscal responsibility and protecting funding for education, public safety, and healthcare. Within 24 hours of introducing this measure, many of the same politicians who praised it as a way to build reserves also supported legislation to suspend more than $5 billion in required deposits into the state’s savings account. Proposition 2 asks Californians to double the size of the savings account while making it less likely that taxpayers will receive the rebates they are constitutionally owed."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 2 MAKES TAXPAYER REBATES LESS LIKELY"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "State revenues that exceed constitutional spending limits must be returned to taxpayers. Proposition 2 creates a loophole, allowing politicians to shift billions into reserve accounts that no longer count towards the spending limit, making your rebate far less likely."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 2 DOES NOT GUARANTEE ANY NEW FUNDING FOR HEALTHCARE, EDUCATION OR PUBLIC SAFETY"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Supporters claim Prop. 2 will protect education, healthcare, and public safety. Currently, it doesn’t dedicate any new dollars to any of those priorities. Sacramento politicians will continue to decide how much to spend each year, not you. Prop. 2 only allows for politicians to spend more on pet projects."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sacramento doesn’t need another budget gimmick or wasteful spending. It needs the discipline to live within the constitutional limits that voters have already approved."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Vote NO on Proposition 2."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "David Tangipa",
+          "title": "Vice Chair",
+          "organization": "Assembly Budget Committee"
+        },
+        {
+          "name": "Carl DeMaio",
+          "title": "Chairman",
+          "organization": "Reform California"
+        },
+        {
+          "name": "Steven Choi",
+          "title": "Vice Chair",
+          "organization": "Senate Elections and Constitutional Amendments Committee"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/2/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Voting NO on Prop. 2 means more money in your pocket— and less wasteful spending!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 2 CREATES A SLUSH FUND FOR SACRAMENTO POLITICIANS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In 1978 California voters overwhelmingly voted to amend the state constitution to impose a spending limit on state politicians—and the politicians have hated that spending limit ever since. Prop. 2 allows the politicians to gut the voter-imposed spending limit. What the politicians dishonestly call a “rainy day fund” is actually a SLUSH FUND! Politicians can raid this new slush fund to feed their runaway spending habits."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 2 CANCELS YOUR TAX REBATE"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California already has the highest taxes in the nation, but the state constitution requires that a tax rebate be provided to you when revenues exceed the spending limit. Prop. 2 creates loopholes and accounting gimmicks so politicians can eliminate any chance of you getting your tax rebate."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 2 ALLOWS FOR MORE WASTEFUL SPENDING"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California’s state budget has grown by 76% since 2018—and the size of state government has mushroomed by 40% even after adjusting for inflation! Do you feel like you are getting 40% more services and benefits today than you did in 2018? Of course not! In fact, many core services to citizens have been gutted. We’re spending more, but getting less."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That’s because state politicians have diverted your tax dollars to boondoggle projects and no-bid contracts that reward their campaign contributors. Of the little money spent on important programs, too much of it is being lost because of fraud and wasteful spending. By eliminating the spending limit on politicians we will see even more wasteful spending."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 2 MAKES OUR BUDGET MORE VOLATILE"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "When times are good, the state is supposed to set money aside so families and businesses are not hit with tax increases, cuts to essential services, or budget chaos during the next economic downturn. Sacramento doesn’t need a new tool to save money. It needs the discipline to follow the rules already in place and stop spending money it doesn’t have. Prop. 2 makes our budget more volatile— putting us at greater risk of a financial crisis."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "PROP. 2 IS OPPOSED BY TRUSTED BUDGET WATCHDOGS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Take a look at who is supporting Prop. 2: politicians who have repeatedly mismanaged our budget and special interests that get government contracts! Within 24 hours of putting it on the ballot, the politicians backing Prop. 2 voted to suspend more than $5 billion in required deposits into the state’s budget reserve. In contrast, opponents of Prop. 2 are government accountability and transparency watchdogs—including the Reform California and the Transparency Foundation. Californians do not need another budget gimmick dressed up as reform. We need honest budgeting, reform of wasteful spending, and a real spending limit to hold politicians accountable."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "VOTE NO ON PROP. 2."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "David Tangipa",
+          "title": "Vice Chair",
+          "organization": "Assembly Budget Committee"
+        },
+        {
+          "name": "Steven Choi",
+          "title": "Vice Chair",
+          "organization": "Senate Elections and Constitutional Amendment Committee"
+        },
+        {
+          "name": "Carl DeMaio",
+          "title": "Chairman",
+          "organization": "Reform California"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/2/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "PROPOSITION 2 PROTECTS CALIFORNIANS FROM BOOM-AND-BUST BUDGETS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Opponents say the state needs “discipline,” not a new tool. But relying on their definition of “discipline” alone gave California a $100 billion surplus followed by a $50 billion deficit—exactly the boom-and-bust cycle Proposition 2 is designed to prevent. That instability, not this measure, is what leads to layoffs, healthcare cuts, slashed services, and tax hikes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "STOPS SACRAMENTO POLITICIANS FROM OVERSPENDING—Proposition 2 does not give Sacramento any new money to spend. On the contrary, it doubles the state’s reserve requirement and forces more savings—rather than new spending—when tax revenues spike."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROTECTS SCHOOLS, PUBLIC SAFETY, AND HEALTHCARE—When the economy slows, Proposition 2 helps protect funding for schools, hospitals, health clinics, and public safety instead of placing them first in line for cuts. The theoretical “rebate” opponents refer to relies on a 50-year-old accounting gimmick that rewards spending instead of saving. Proposition 2 closes that loophole and mandates a real 20% Rainy Day Fund."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don’t be fooled by those who call themselves “watchdogs.” California’s official nonpartisan Legislative Analyst’s Office has recommended that the state expand the Rainy Day Fund to prevent boom-and-bust budget cycles. That’s why Proposition 2 is backed by the California Professional Firefighters, small business advocates, health clinics, hospitals, and education leaders—people who understand what happens when reserves run dry."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "VOTE YES ON PROPOSITION 2—",
+            {
+              "em": [
+                "www.YesonProp2.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Dr. Linda Darling-Hammond",
+          "title": "President",
+          "organization": "California State Board of Education"
+        },
+        {
+          "name": "Carmela Coyle",
+          "title": "CEO",
+          "organization": "California Hospital Association"
+        },
+        {
+          "name": "Francisco J. Silva",
+          "title": "CEO",
+          "organization": "California Primary Care Association"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/2/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

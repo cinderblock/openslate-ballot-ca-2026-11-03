@@ -1,0 +1,755 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:00Z",
+  "about": {
+    "by": "Put on the Ballot by Petition Signatures",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Makes permanent existing voter-approved tax rates for individuals earning over $371,000 (adjusted annually for inflation). Allocates tax revenues to public education. ",
+          {
+            "strong": [
+              "Fiscal Impact"
+            ]
+          },
+          ": Maintains $5 billion to $15 billion of annual state income tax revenue by making a temporary tax increase on high-income earners permanent instead of letting it expire in 2031. ",
+          {
+            "strong": [
+              "Supporters"
+            ]
+          },
+          ": California Teachers Association; CA School Nurses Organization; California State PTA; Planned Parenthood Affiliates of CA ",
+          {
+            "strong": [
+              "Opponents"
+            ]
+          },
+          ": California Taxpayers Association; Family Business Association of California; California Hispanic Chambers of Commerce"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/3/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: An income tax increase on high-income earners in place since 2012 would become permanent instead of expiring in 2031."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/3/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: An income tax increase on high-income earners in place since 2012 would expire in 2031."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/3/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 3",
+      "file": "pdf/prop-3-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop3-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Makes permanent the existing 2012 voter-approved tax rates for high-income Californians, currently set to expire in 2031."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Rates apply to income over about $371,000 for single filers, $742,000 for joint filers, and $505,000 for heads of household (2025 levels; adjusted annually for inflation)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Allocates tax revenues 89% to K–12 schools, 11% to community colleges."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Allows local school boards to decide how revenues are spent; bars use for administrative costs."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Increases General Fund revenues available for health care, budget reserves, and other programs."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Maintains $5 billion to $15 billion of annual state income tax revenue by making a temporary tax increase on high-income earners permanent instead of letting it expire in 2031."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/3/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Most State Money Comes From the Income Tax."
+                ]
+              }
+            ]
+          },
+          " The income tax is the state’s largest tax. It pays for most spending from the state’s main operating account, the General Fund. The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons. The tax applies to most types of income, such as salaries, wages, interest, and profits from the sale of stocks, property, and other investments. The income tax rate starts out low and gradually goes up for taxpayers with higher incomes. For example, a married couple pays a 1 percent tax on the first $21,000 of income, a 2 percent tax on income between $21,000 and $50,000, and a 4 percent tax on income between $50,000 and $80,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Prior Voter-Approved Tax Increases."
+                ]
+              }
+            ]
+          },
+          " Voters approved Proposition 30 in 2012 to temporarily increase income tax rates on high-income taxpayers. In 2016, voters approved Proposition 55 to extend these higher rates until 2030. The top 2 percent of California taxpayers pay these higher rates. These taxpayers pay about half of all state income taxes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "How Does the State Spend Its Money?"
+                ]
+              }
+            ]
+          },
+          " This year, the state plans to spend about $250 billion from the General Fund to pay for services to the public. About half of this spending is for schools, community colleges, and the state’s public universities. (The State Constitution sets a minimum spending level for schools and community colleges.) About another one-third of state spending is for health and human services programs, mainly for the state’s low-income health insurance program, Medi-Cal. The rest goes mostly to prisons, courts, and other state services."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition 3 makes the higher income tax rates established by Proposition 30 permanent instead of letting them expire in 2031. Figure 1 shows what income tax rates would be if this measure passes and what they would be if it is rejected."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Proposition 3 Would Bring in Between $5 Billion and $15 Billion Each Year."
+                ]
+              }
+            ]
+          },
+          " The amount of money brought in by Proposition 3 will go up and down a lot from year to year. This is because much of the revenue comes from taxing income that is closely tied to the stock market, which is always changing. In a weak year, the proposition might bring in around $5 billion in revenue to the state. In a strong year, the proposition might bring in $15 billion in revenue to the state. In most years, revenue would be in between these amounts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Funding for Education and Other Programs."
+                ]
+              }
+            ]
+          },
+          " Proposition 3 results in funding for education and other programs. Roughly 40 percent of the funding would go to schools and community colleges. The rest would go to other state programs. Part of this amount would be set aside in budget reserves the state could use to fund these programs when revenues decline."
+        ]
+      },
+      {
+        "type": "img",
+        "file": "img/prop-3/fig1-prop3.jpg"
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/3/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "PROPOSITION 3 PROTECTS OUR SCHOOLS, HEALTHCARE AND OUR COMMUNITIES WITHOUT RAISING YOUR TAXES."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 3 is NOT a new tax and does NOT raise taxes on anyone. Prop. 3 prevents millionaires and billionaires from getting a tax cut, and requires strict accountability and audits to ensure school funding gets to classrooms."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3 PREVENTS BILLIONS IN CUTS TO OUR SCHOOLS AND HEALTHCARE."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Without Prop. 3, California’s 8 million public school and community college students face billions in cuts, including teacher layoffs, overcrowded classrooms and bigger class sizes. Families could lose access to preventive healthcare and affordable prescription drugs, and the Medi-Cal coverage that millions of Californians rely on could be put at risk."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3 ONLY EXTENDS THE CURRENT TAX RATES ON THE WEALTHIEST TOP 2%."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 3 maintains the income tax rates that the wealthiest Californians have paid for the past 15 years. If those tax rates are allowed to expire, it would give millionaires and billionaires a massive tax cut at the expense of our classrooms, clinics and communities. Proposition 3 keeps the existing rates on the top 2% of incomes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "GUARANTEES THE MONEY REACHES THE CLASSROOM— NOT SACRAMENTO."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 3 includes Constitutional protections and tough accountability. It guarantees that funds from Proposition 3 go directly to local schools—the Legislature and Sacramento politicians cannot touch it, redirect it, or spend a single dollar on bureaucracy or administrative overhead. Prop. 3’s school guarantee then frees up billions that help fund Medi-Cal for children, seniors and families."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Every dollar in Prop. 3 is independently audited every year and any official who misuses the money faces prosecution and criminal penalties. Local school districts must post annual accounting online to guarantee that Californians know exactly how and where funds are spent."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3 SECURES OUR CHILDREN’S FUTURE."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For more than a decade, these revenues have helped fund critical programs California families and communities count on—from school lunches, smaller class sizes and mental health counselors to children’s healthcare and Medi-Cal. They’ve also helped stave off cuts during economic downturns by investing more in the state’s Rainy Day Fund, protecting our schools and healthcare when the economy slows. Proposition 3 keeps that progress going for the next generation."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3 IS SUPPORTED BY TEACHERS, NURSES, AND HEALTHCARE WORKERS."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yes on 3 is supported by:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The educators in our classrooms and the nurses who care for our kids all agree: Vote YES on Proposition 3. Let’s protect what matters most, without raising your taxes. Vote YES on Proposition 3."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "www.YesProp3CA.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "David Goldberg",
+          "title": "President",
+          "organization": "California Teachers Association"
+        },
+        {
+          "name": "Katie Nilsson",
+          "title": "RN, President",
+          "organization": "California School Nurses Organization"
+        },
+        {
+          "name": "Jodi Hicks",
+          "title": "President",
+          "organization": "Planned Parenthood Affiliates of California"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3—STOP PERMANENTLY HIGHER INCOME TAXES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In 2012, politicians and special interests promised Californians that their income tax increases would be TEMPORARY. Now they’re claiming that making those taxes permanent somehow ISN’T a tax increase at all. Don’t buy it. Prop. 3 locks in what would become the largest permanent state income tax increase in California history— costing taxpayers up to $15 billion every year."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3—REMIND POLITICIANS WHAT “TEMPORARY” MEANS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Temporary: lasting for a limited time only; not permanent."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California taxpayers kept their end of the bargain—paying temporary higher income taxes for 16 years. Politicians should keep theirs and stop pushing for even higher taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3—STOP WASTEFUL SPENDING"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 3 does nothing to stop the waste, fraud and reckless spending that turned a $100 billion budget surplus into a $30 billion deficit in just three years. If Sacramento had spent responsibly, they wouldn’t be asking taxpayers to make “temporary” taxes permanent."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3—DON’T MAKE CALIFORNIA EVEN MORE EXPENSIVE"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Californians have the highest cost of living and pay the highest income, sales and gas taxes in America. Making a temporary tax permanent only makes California more expensive."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3—FIX THE SPENDING PROBLEM FIRST"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California doesn’t have a tax revenue problem—it has a spending problem. California’s population grew by less than 2% in the past decade while the politicians doubled spending. Say no to permanently higher taxes. Join us to oppose higher income taxes at ",
+            {
+              "em": [
+                "VoteNoProp3.com"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Jon Coupal",
+          "title": "President",
+          "organization": "Howard Jarvis Taxpayers Association"
+        },
+        {
+          "name": "Carlos Solorzano",
+          "title": "CEO",
+          "organization": "Hispanic Chambers of Commerce of San Francisco"
+        },
+        {
+          "name": "Clint Olivier",
+          "title": "President",
+          "organization": "Central Valley Business Federation"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3—TURNS “TEMPORARY” TAXES INTO PERMANENT HIGHER INCOME TAXES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sacramento politicians make big promises to get our support for higher taxes. Then they spend our tax dollars with no accountability—losing billions to waste, fraud and overspending."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Take Prop. 3. Politicians told voters higher income taxes would be temporary—only for seven years to cover a budget deficit. Then those “temporary” taxes were extended for another 12 years with the promise to voters that the higher taxes would solve the problems the politicians created. Now the special interests and politicians want to make these higher income taxes PERMANENT."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California voters should say NO to PERMANENTLY higher income taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3—HIGHER INCOME TAXES = HIGHER COST OF LIVING"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Californians have the nation’s highest cost of living partly because we also suffer from the highest income taxes, highest sales taxes and highest gas taxes of all fifty states. The same politicians also gave us the highest gasoline prices in the nation, higher insurance costs, higher utility costs, higher food costs, and higher housing costs. Now they want to make higher income taxes permanent, while adding new taxes on your health insurance, new taxes on software—and they are even considering a “jobs” tax. Say NO to INCREASING our cost of living with higher taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3—VOTERS DESERVE REAL RESULTS, NOT BROKEN PROMISES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Waste, fraud and overspending by state government is not an excuse to raise our taxes even higher."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The politicians and special interests promised temporary income taxes were needed to avoid big cuts to government programs. Since the “temporary” increases were first passed, government spending has increased by $150 billion—a more than 2.5X increase. Over the same time period, our schools, infrastructure and public safety have gotten worse. Say NO to endless broken promises."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3—STOP WASTEFUL SPENDING"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The politicians and special interests turned a $100 billion budget surplus into a $30 billion budget deficit in just three years. They mismanaged our tax dollars so badly, they now want voters to bail them out with permanently higher taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Say NO to $100 billion wasted on a train to nowhere."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Say NO to $37 billion wasted on homeless programs that don’t work."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Say NO to $31 billion wasted on unemployment fraud."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3—FIX SACRAMENTO’S SPENDING PROBLEM BEFORE RAISING TAXES"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California doesn’t have a revenue problem. We have a spending problem. California’s population barely grew in the past 10 years, but the politicians more than doubled spending."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It’s not just state taxes that keep going up. Politicians and special interests have imposed more than 2,000 new local tax increases in just the past ten years—making it much harder for struggling Californians to make ends meet."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Californians shouldn’t support any higher taxes until we get spending under control."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "STOP WASTEFUL SPENDING."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO NEW TAXES."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO ON PROP. 3."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Robert Gutierrez",
+          "title": "President",
+          "organization": "California Taxpayers Association"
+        },
+        {
+          "name": "Robert Rivinius",
+          "title": "President",
+          "organization": "Family Business Association of California"
+        },
+        {
+          "name": "Julian Canete",
+          "title": "President",
+          "organization": "California Hispanic Chambers of Commerce"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Proposition 3 protects our schools, our healthcare and our communities—without raising your taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3 KEEPS THE TAX RATES THE TOP 2% HAVE PAID FOR THE PAST 15 YEARS AND DOES NOT RAISE YOUR TAXES."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 3 maintains the current tax rates the wealthiest 2% of Californians have been paying for 15 years, ensuring couples that earn more than $740,000 continue to pay their fair share."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "WITHOUT PROP. 3 MILLIONAIRES AND BILLIONAIRES GET A MASSIVE TAX CUT—AND THE REST OF US PAY FOR IT."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Teacher and staff layoffs, overcrowded classrooms and fewer counselors in our schools; cuts to Medi-Cal, children’s healthcare and the clinics families rely on; and less for the firefighters, emergency response and wildfire protection that keep our communities safe."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3 HAS STRICT ACCOUNTABILITY AND FUNDS EDUCATION DIRECTLY."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 3’s funding goes straight to local schools and community colleges. Sacramento politicians cannot touch it or redirect it. Not one penny may be spent on bureaucracy or administrative overhead. Every dollar is independently audited every year, districts must post their spending online, and any official who misuses the money faces prosecution and criminal penalties."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 3 PROTECTS HEALTHCARE AND FIRE PROTECTION."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "By guaranteeing funding for our classrooms, Prop. 3 ensures California can also invest in Medi-Cal and children’s healthcare, and in the firefighters and wildfire protection our communities depend on. That’s why teachers, school employees, nurses and firefighters agree: VOTE YES ON PROPOSITION 3."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "www.YesProp3CA.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Jeff Freitas",
+          "title": "President",
+          "organization": "California Federation of Teachers"
+        },
+        {
+          "name": "Darrell Roberts",
+          "title": "President",
+          "organization": "California Professional Firefighters"
+        },
+        {
+          "name": "Adam Weinberger",
+          "title": "President",
+          "organization": "California School Employees Association"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

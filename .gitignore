@@ -1,0 +1,17 @@
+# OpenSlate clone fetched on demand by scripts/workflows
+.openslate/
+
+# Build output
+dist/
+
+# Node / Bun
+node_modules/
+bun.lockb
+
+# Keys and identities: the signing key only lives in CI secrets
+*.key
+*.identity.json
+*signing*.json
+
+# The signed manifest is a CI build artifact, not committed source
+guide/guide.jws

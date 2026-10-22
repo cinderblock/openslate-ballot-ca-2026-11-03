@@ -1,0 +1,777 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:00Z",
+  "about": {
+    "by": "Put on the Ballot by the Legislature",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Repeals prohibition on state and local governments offering public funding of candidate election campaigns. Public funding programs may not use funds earmarked for education, transportation, or public safety. ",
+          {
+            "strong": [
+              "Fiscal Impact:"
+            ]
+          },
+          " Ongoing costs to the state of a few hundred thousand dollars each year for the Fair Political Practices Commission to answer questions from state and local governments about public campaign finance programs. ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " League of Women Voters of CA; California Nurses Association; Mental Health Advocacy; Social Security Works; Consumer Watchdog ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " California Taxpayers Assn; Howard Jarvis Taxpayers Assn; Family Business Assn of California; United Latinos Action"
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/4/"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on this measure means: State and local governments could create public campaign financing programs for public office candidates, subject to limits on which public funds could be used, how the public funds could be used, and who could receive them."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/4/"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote on this measure means: State and most local governments would remain unable to create public campaign finance programs for public office candidates."
+          ]
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/4/"
+    }
+  },
+  "documents": [
+    {
+      "title": "Text of Proposition 4",
+      "file": "pdf/prop-4-text.pdf",
+      "source": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop4-text-proposed-laws.pdf",
+      "mediaType": "application/pdf"
+    }
+  ],
+  "summary": {
+    "by": "Attorney General",
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Current law prohibits state and local governments from using public funds for election campaigns except in charter cities and counties."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "This measure repeals that prohibition and allows state and local governments to establish public campaign financing programs for candidates who agree to specified spending limits and meet eligibility criteria."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Prohibits public funding programs from using funds earmarked for education, transportation, or public safety."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Prohibits candidates from using public funds for legal defense costs, fines, or repayment of personal loans to campaigns."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Triples maximum fine for campaign contributions by foreign entities."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SUMMARY OF LEGISLATIVE ANALYST'S ESTIMATE OF NET STATE AND LOCAL GOVERNMENT FISCAL IMPACT:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Ongoing costs to the state of a few hundred thousand dollars each year for the Fair Political Practices Commission to answer questions from state and local governments about public campaign finance programs."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FINAL VOTES CAST BY THE LEGISLATURE ON SB 42 (PROPOSITION 4)\n(CHAPTER 245, STATUTES OF 2025)"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "Senate:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 29"
+              ]
+            },
+            {
+              "text": [
+                "Noes 8"
+              ]
+            }
+          ],
+          [
+            {
+              "header": true,
+              "text": [
+                "Assembly:"
+              ]
+            },
+            {
+              "text": [
+                "Ayes 59"
+              ]
+            },
+            {
+              "text": [
+                "Noes 20"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/4/title-summary.htm"
+  },
+  "analysis": {
+    "by": "Legislative Analyst",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "BACKGROUND"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "The Political Reform Act."
+                ]
+              }
+            ]
+          },
+          " Many people, groups, and businesses spend money to support or oppose candidates for public office and ballot measures. California's Political Reform Act sets rules for how money can be used in politics and requires public reporting of political spending. These rules apply to state and local candidates, ballot measures, and other public officials, but not to federal candidates or officials. (Federal law establishes campaign finance and reporting requirements for federal offices.) The Political Reform Act has been updated by voters over the years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Ban on Public Funds to Pay for Campaigns."
+                ]
+              }
+            ]
+          },
+          " The Political Reform Act bans the use of public funds for political candidates' campaigns. This ban applies to most elected offices at the state level and local level. (This ban does not apply to city office elections in certain charter cities. Los Angeles, San Francisco, Long Beach, Oakland, and Berkeley are current examples of charter cities that provide public funds to certain campaigns.)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Entities That Oversee Campaign Finance Laws."
+                ]
+              }
+            ]
+          },
+          " California's campaign finance laws are administered by the Fair Political Practices Commission and the California Secretary of State. State law requires people and groups to report how much money they give, receive, and spend on political campaigns. This information is available to the public on the Secretary of State's website. The Fair Political Practices Commission enforces and interprets the Political Reform Act. The Fair Political Practices Commission reviews the finance reports and can fine candidates and donors who break the law. The Fair Political Practices Commission issues guidance based on its interpretation of the Political Reform Act."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "PROPOSAL"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Lifts Ban on Use of Public Funds to Pay for Candidates' Campaigns."
+                ]
+              }
+            ]
+          },
+          " Proposition 4 lifts the ban on using public funds for political candidates' campaigns. Removing the ban allows state and local governments to create public campaign financing programs in the future if they wish. Proposition 4 does not create a public campaign finance system for the state or local governments directly."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Sets Rules for Future State and Local Public Campaign Finance Programs."
+                ]
+              }
+            ]
+          },
+          " Proposition 4 sets broad rules for future state and local public campaign finance programs but leaves many key design decisions to future state and local decision makers. Proposition 4 limits which public funds can be used for campaigns, who can receive the funds, and how the funds can be spent in any future public campaign finance program. For example, money meant for education, transportation, or public safety cannot be used for campaigns. Candidates can only receive public funds if they show broad-based support in their district and agree to spending limits and other program rules. Public funds cannot be used for legal defense fees or fines, or to repay a candidate's personal campaign loan. State and local governments can design and implement their own programs within the broad rules set by Proposition 4."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Fair Political Practices Commission Would Issue Guidance on Public Campaign Finance Programs."
+                ]
+              }
+            ]
+          },
+          " Proposition 4 specifies that the Fair Political Practices Commission is not required to administer or enforce local public campaign finance programs. Rather, state and local government officials could ask the Fair Political Practices Commission for guidance on how to create public campaign finance programs consistent with Proposition 4."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FISCAL EFFECTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Costs of Possible Public Campaign Finance Programs Depend on Future Decisions."
+                ]
+              }
+            ]
+          },
+          " Proposition 4 does not create a public campaign finance program. However, it allows state and local governments to create such programs in the future. The cost of these programs could be significant for governments that choose to create them. The total cost would depend on which governments created such programs and how those programs were designed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              {
+                "em": [
+                  "Minor State Costs to Support State and Local Governments Considering Public Campaign Finance Programs."
+                ]
+              }
+            ]
+          },
+          " If voters approve Proposition 4, state and local government officials likely would ask the Fair Political Practices Commission for guidance on creating public campaign finance programs under the Political Reform Act. This likely would require the Fair Political Practices Commission to hire more legal staff to help answer these questions. As a result, state costs would be a few hundred thousand dollars each year. This amount is much less than one-tenth of 1 percent (0.1 percent) of the state's total General Fund budget. (The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons.)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "sos.ca.gov/campaign-lobbying/cal-access-resources/measure-contributions/2026-ballot-measure-contribution-totals"
+                ]
+              },
+              " for a list of committees primarily formed to support or oppose this measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Visit ",
+              {
+                "em": [
+                  "fppc.ca.gov/transparency/top-contributors.html"
+                ]
+              },
+              " to access the committee's top 10 contributors."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/propositions/4/analysis.htm"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "YES ON PROPOSITION 4, THE CALIFORNIA FAIR ELECTIONS ACT: ELECTIONS SHOULD BE WON, NOT BOUGHT"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The amount of money in California elections is outrageous; it's distorting our democracy. Since 2020, more than $1 billion has been spent on California state candidate races alone. This massive spending gives special interests greater access and influence while drowning out the voices of ordinary Californians."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 HELPS QUALIFIED CANDIDATES COMPETE"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Running for office today often requires either personal wealth or access to wealthy donors. Deep pockets have become an unofficial requirement to run for office, leaving too many qualified candidates behind."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 CHANGES THE WAY WE FINANCE ELECTION CAMPAIGNS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Programs like small-dollar donation matching help candidates compete without relying on wealthy donors. However, most California communities are banned from using these tools, allowing the influence of big money to grow."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 lifts that ban, giving voters and local governments the option to adopt public financing with strict safeguards so qualified candidates—regardless of their income—can compete against candidates who are backed by wealthy interests."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 BUILDS ON A PROVEN MODEL"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We know this reform works because it's working in other states. Thousands of candidates from different backgrounds have been elected in fourteen states and 26 localities using similar systems. They are new people with good ideas from all walks of life. Because they don't rely on wealthy donors, they can speak their mind and work for the people, not the special interests."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 GIVES LOCAL COMMUNITIES A CHOICE"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 does not create a public financing program. It simply gives local governments the option to adopt one if they choose."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If a community does, the cost is as little as $1 per resident each year—a small investment to help counter the billions spent influencing California's elections."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 PROTECTS TAXPAYERS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Taxpayer Safeguards:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 CRACKS DOWN ON ILLEGAL FOREIGN MONEY"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 triples the maximum fines for illegal foreign campaign contributions and expenditures, strengthening penalties for those who attempt to interfere in California's elections."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 IS SUPPORTED BY LEADERS ACROSS CALIFORNIA"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 is backed by a broad coalition including League of Women Voters of California, California Nurses Association, Mental Health Advocacy Services, Social Security Works, California Clean Money Campaign, California Common Cause, California National Organization for Women, Californians for Disability Rights, Consumer Watchdog, Courage California, Democracy for America, Indivisible California: Statestrong, La Defensa, Money Out Voters In, Voters Right to Know, and many others."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 GIVES CALIFORNIANS THE OPPORTUNITY TO RECLAIM THEIR ELECTIONS and ensure they reflect the values of the people, not just the wealthiest donors."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "YES ON 4—Restore power to voters, not wealthy donors"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Lorrel Plimier",
+          "title": "Co-President",
+          "organization": "League of Women Voters of California"
+        },
+        {
+          "name": "Catherine Kennedy",
+          "title": "President",
+          "organization": "California Nurses Association"
+        },
+        {
+          "name": "Tom Umberg",
+          "title": "California State Senator"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Here is what the politicians supporting Proposition 4 do not tell you:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 REPEALS the voter-approved law that PROHIBITS candidates from using taxpayer money to run for office."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 has NO LIMIT on the number of candidates who can get taxpayer money. In the election last June, more than 60 candidates ran for Governor. Proposition 4 would allow thousands of candidates to get taxpayer money!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 has NO LIMIT on how much taxpayer money a candidate can get. Proposition 4 opens the door to taxpayer-funded campaigns but provides no limits on how much taxpayer money a candidate can get and NO LIMIT on spending. It will lead to more negative ads, more junk mail, and more annoying text messages."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 does NOT PROHIBIT SPECIAL INTEREST MONEY in campaigns. Proposition 4 ALLOWS candidates to get taxpayer money AND to get special interest money! Where exactly is the money going to come from to fund thousands of political campaigns? Proposition 4 does not say. But you know the answer. It is coming from YOU, the taxpayers! Less money for schools, less money for public safety, less money for healthcare. More money for politicians."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 is a BLANK CHECK. It is based on false promises and failed solutions."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 does NOT protect taxpayers. That is why Proposition 4 is opposed by California's leading taxpayer organizations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 does NOT provide for “fair elections.” That is why Proposition 4 is opposed by former Commissioners of the Fair Political Practices Commission."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO ON PROPOSITION 4."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Robert Gutierrez",
+          "title": "President",
+          "organization": "California Taxpayers Association"
+        },
+        {
+          "name": "Jon Coupal",
+          "title": "President",
+          "organization": "Howard Jarvis Taxpayers Association"
+        },
+        {
+          "name": "Dan Schnur",
+          "title": "Former Chair",
+          "organization": "Fair Political Practices Commission"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Why did Sacramento politicians put Proposition 4 on the ballot? They want access to YOUR TAXPAYER MONEY to fund THEIR OWN CAMPAIGNS."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 repeals a voter approved law that PROHIBITS these politicians from using public taxpayer funds for their own campaigns. That's right, Proposition 4 allows politicians to use your taxpayer money to fund their campaigns."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 has NO LIMIT on the number of candidates who can get taxpayer money and NO LIMIT on how much money they can get! Proposition 4 is a BLANK CHECK. There isn't even a limit on how much they can spend on their campaigns! More negative ads. More junk mail. More annoying text messages. More, more, more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 is so poorly written, it could allow every state or local “candidate” to get public funding. They don't even have to actually qualify for the ballot to get taxpayer money. Proposition 4 allows for public funding of thousands of state and local candidates. It even allows for public financing of candidates for county political party committees."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In just the last primary election, there were more than 60 candidates for Governor. Do you want YOUR TAXPAYER MONEY going to support more of their negative campaign ads and junk mail?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 has NO LIMIT on how much taxpayer money a candidate can receive. It says it requires “strict criteria” to receive taxpayer funds but provides NO DETAILS on what the criteria are! Read the fine print:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“‘Strict criteria' means the requirement set by statute, ordinance, or charter that candidates must meet to receive public funds.”"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But there is no current statute, ordinance or charter setting any criteria. Guess who will be setting the criteria? The same politicians who want to get your taxpayer money!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Some good government groups support public financing of campaigns because they want to get special interest money out of politics. BUT PROPOSITION 4 DOES NOT GET RID OF SPECIAL INTEREST MONEY! Under Proposition 4, candidates can raise money from special interests AND get public funding too."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition 4 is the worst kind of public financing scheme. It provides no specifics. It leaves all the details to be worked out by the same politicians who want to get access to public funds."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It is a blank check. But worse than that, Proposition 4 allows special-interest funding of political campaigns."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please join California's leading taxpayer protection organizations, including the California Taxpayers Association, the Howard Jarvis Taxpayers Association, the Family Business Association of California, United Latinos Action, as well as former members of California's Fair Political Practices Commission, who all oppose Proposition 4."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PLEASE VOTE NO ON THE POLITICIANS' BLANK CHECK PROPOSITION. VOTE NO ON PROP. 4."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Dan Schnur",
+          "title": "Former Chair",
+          "organization": "Fair Political Practices Commission"
+        },
+        {
+          "name": "Colleen McAndrews",
+          "title": "Former Commissioner",
+          "organization": "Fair Political Practices Commission"
+        },
+        {
+          "name": "Julian Canete",
+          "title": "President",
+          "organization": "California Hispanic Chambers of Commerce"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "DON'T BE MISLED BY SPECIAL INTERESTS WHO WANT TO KEEP BUYING ELECTIONS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California is the ONLY state that bans public funding of campaigns. Communities in all 49 other states have the right to adopt public financing to allow qualified candidates to compete against wealthy donors. California doesn't. Prop. 4 simply removes that ban and gives local voters the same choice everyone else has, while instituting strict taxpayer safeguards."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 GIVES POWER BACK TO LOCAL COMMUNITIES AND EMPOWERS VOTERS, NOT DONORS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop. 4 doesn't spend a single taxpayer dollar or institute public financing anywhere. It simply removes the ban to give every city, county, and the state the right to adopt public funding if local voters want it. The details are appropriately left to each community. But any system MUST require candidates to abide by spending limits and demonstrate broad-based support in their district to qualify."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PROP. 4 MAKES ELECTED OFFICIALS ACCOUNTABLE TO VOTERS, NOT DONORS"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Corporate special interests oppose Prop. 4 because public financing allows candidates to run and win without relying on them—threatening their grip on California elections."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Thousands of candidates from different backgrounds have been elected across the country using public financing, for a tiny cost. Because they don't rely on wealthy donors, they can speak their minds and work for the people, not special interests."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "DON'T BE FOOLED BY CORPORATE SPECIAL INTERESTS HIDING BEHIND NICE-SOUNDING NAMES."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "VOTE YES ON 4 to let local voters and communities reclaim their elections so they're won, not bought."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Carmen Balber",
+          "title": "Executive Director",
+          "organization": "Consumer Watchdog"
+        },
+        {
+          "name": "Camerina Davidson",
+          "title": "President",
+          "organization": "California National Organization for Women"
+        },
+        {
+          "name": "Darius Kemp",
+          "title": "Executive Director",
+          "organization": "California Common Cause"
+        }
+      ],
+      "source": "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm",
+      "disclaimer": "Arguments printed on this page are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Controller",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "As the state's chief fiscal officer, serves as the state's accountant and bookkeeper of all public funds."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Administers the state payroll system and unclaimed property laws and conducts audits and reviews of state operations."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Serves on the Board of Equalization, the Board of Control, and other boards and commissions."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Malia M. Cohen",
+      "photo": {
+        "file": "img/candidates/california-controller/malia-m-cohen.jpg",
+        "alt": "Malia M. Cohen",
+        "source": "https://voterguide.sos.ca.gov/img/controller/cohen.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Malia M. Cohen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As California State Controller, Malia Cohen serves as the state’s chief fiscal officer, safeguarding the finances of the world’s fourth-largest economy. She is running for re-election to ensure taxpayer dollars are managed with transparency, accountability, and fairness. A lifelong Californian, Malia understands firsthand the promise of our state and the urgency of protecting it for future generations. A working mom and dedicated public servant, she believes budgets are moral documents that should reflect our shared values and invest in people, not special interests. As Controller, Malia has strengthened fiscal transparency by expanding public access to financial and payroll data, giving Californians a clear view of how public dollars are spent. She has released timely monthly cash reports to help keep California fiscally strong during economic uncertainty, reunited all 58 counties with millions in unclaimed property, and honored local governments for excellence in accurate financial reporting. She has also advanced the long overdue modernization of California’s payroll system to better serve public workers statewide. At a time when trust in government matters more than ever, Malia Cohen is committed to protecting California’s financial future and making the California Dream real for every community. Join teachers, nurses, firefighters, Planned Parenthood Affiliates of California, healthcare workers, operating engineers, plumbers, pipefitters, electrical workers, and working folks across California in supporting Malia Cohen for Controller. Learn more at: ",
+              {
+                "em": [
+                  "MaliaCohenForCA.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "Instagram: https://www.instagram.com/malia.cohen",
+        "Facebook: https://www.facebook.com/MaliaCohen"
+      ]
+    },
+    {
+      "choice": "Herb W Morgan",
+      "photo": {
+        "file": "img/candidates/california-controller/herb-w-morgan.jpg",
+        "alt": "Herb W Morgan",
+        "source": "https://voterguide.sos.ca.gov/img/controller/morgan.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Herb W Morgan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "The State Controller does not set policy. The Controller is tasked with ensuring efficiency in state government through pre-audits and approval of expenditures, followed by rigorous post-audits that verify performance and proper use of funds. I will deliver for the people by placing all expenditures in an easy-to-use online database with transaction-level detail and near real-time reporting, so every Californian can see exactly how public funds are used. This transparency builds trust and directs resources more effectively to classrooms, communities, and essential programs. ",
+              {
+                "em": [
+                  "www.herbmorgan.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "P.O. Box 730",
+        "Hilmar, CA 95324",
+        "E-mail: info@herbmorgan.com",
+        "X: @herb4controller",
+        "Instagram: @herb4controller"
+      ]
+    }
+  ]
+}

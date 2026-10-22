@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Court of Appeal, Sixth District — Retain Justice Charles E. Wilson II",
+    "kind": "measure",
+    "jurisdiction": "us/ca/coa-6",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:04Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Associate Justice, California Court of Appeal, Sixth District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Holds its regular sessions in San Jose."
+        ]
+      }
+    ],
+    "source": "https://appellate.courts.ca.gov/district-courts/6dca/bio/charles-e-wilson"
+  }
+}

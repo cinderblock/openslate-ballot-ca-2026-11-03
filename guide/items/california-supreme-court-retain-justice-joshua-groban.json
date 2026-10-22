@@ -1,0 +1,71 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Supreme Court — Retain Justice Joshua Groban",
+    "kind": "measure",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:03:03Z",
+  "about": {
+    "by": "Joshua P. Groban",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Joshua P. Groban, "
+            ]
+          },
+          " Associate Justice, Supreme Court of California"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Bar Admission:"
+            ]
+          },
+          " December 1998"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Education:"
+            ]
+          },
+          " Harvard Law School, J.D., 1998; Stanford University, A.B., 1995."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Professional Legal Background:"
+            ]
+          },
+          " Law Clerk to Judge William C. Conner, Southern District of New York, 1998–1999; Attorney, Paul, Weiss, Rifkind, Wharton & Garrison LLP, 1999–2005; Attorney, Munger, Tolles & Olson LLP, 2005–2010; Senior Advisor to Governor Jerry Brown, 2011–2018; Lecturer, UCLA School of Law, 2014–2018."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Judicial Background:"
+            ]
+          },
+          " Associate Justice, Supreme Court of California, 2018–present."
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/justices/supreme-court-justices/index.htm"
+  }
+}

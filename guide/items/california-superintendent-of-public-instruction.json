@@ -1,0 +1,123 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California Superintendent of Public Instruction",
+    "kind": "race",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-22T08:02:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "(Nonpartisan Office)"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Serves as the state’s independently elected nonpartisan voice for the public interest in the governance of the state’s educational systems."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Represents the public interest through advocacy with the Legislature and the Governor on areas of high public concern and recommendations for addressing identified challenges."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Serves as a voting member of governing boards of the state’s transitional kindergarten through higher education systems."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm"
+  },
+  "candidates": [
+    {
+      "choice": "Richard Barrera",
+      "photo": {
+        "file": "img/candidates/california-superintendent-of-public-instruction/richard-barrera.jpg",
+        "alt": "Richard Barrera",
+        "source": "https://voterguide.sos.ca.gov/img/spi/barrera.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Richard Barrera",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Democrat Richard Barrera led the reform effort that transformed San Diego Unified from a district in crisis to one that is First in Reading and Math among the nation’s largest urban districts. As State Superintendent, Barrera will roll up his sleeves and work with the same energy and zeal to bring those reforms to every school in California. Barrera fought to protect students from the heartless Trump administration: keeping ICE out of schools, standing up for LGBTQ students, and ensuring kids are vaccinated against measles and other diseases. He will protect California from Trump/MAGA attacks on public education. An 18-year veteran of the San Diego Unified School Board (and current President), Barrera brought parents, educators and the community together to cut waste/bureaucracy and invest in students and the classroom. The result: Math and Reading levels soared to national highs on the “Nation’s Report Card” and San Diego Unified topped California’s urban districts in Graduation Rates and College/Career Readiness. Barrera led four successful campaigns to repair 60-year-old schools, upgrade technology, and improve school safety with electronic door locks, single points-of-entry and updated emergency communication for neighborhood and charter schools. A UC San Diego graduate with a Masters from Harvard, Barrera earned endorsements from those most responsible for student success: 700,000+ classroom teachers, nurses, counselors, principals and staff represented by the California Teachers Association, California Federation of Teachers, United Administrators of Southern California and California School Employees Association. He is endorsed by Planned Parenthood, California Professional Firefighters, School Police Officers, and the California Democratic Party. “I am proud of what our students have achieved in San Diego and look forward to improving student success across California.” ",
+              {
+                "em": [
+                  "BarreraforEdu.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "5445 Madison Avenue",
+        "Sacramento, CA 95841",
+        "Tel: (916) 348-9100 x200",
+        "E-mail: barreraforedu@gmail.com",
+        "TikTok: Richard.barrera01",
+        "Instagram: richardbarrera2026"
+      ]
+    },
+    {
+      "choice": "Sonja Shaw",
+      "photo": {
+        "file": "img/candidates/california-superintendent-of-public-instruction/sonja-shaw.jpg",
+        "alt": "Sonja Shaw",
+        "source": "https://voterguide.sos.ca.gov/img/spi/shaw.jpg",
+        "credit": "Submitted by the candidate to the California Secretary of State"
+      },
+      "statement": {
+        "by": "Sonja Shaw",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "California’s public schools are failing our children. Fewer than half can read or write at grade level. Girls’ fairness is under attack, with female athletes losing medals and scholarships. Many even change in their cars before practice because they feel unsafe in locker rooms. This is unacceptable. As a mother of two daughters, I was elected President of the Chino Valley Unified School Board because parents demanded change. We delivered. When I took office, our district faced the same problems seen across California: poor grades, declining test scores, political distractions in classrooms, and girls losing fairness and privacy. We chose a different path. We refocused on reading, writing, and math. Protected girls’ sports and private spaces. Cut bureaucracy. Directed resources back into classrooms. Student outcomes improved, and independent research recognized our district as a model for post-COVID academic recovery. That success didn’t come from Sacramento mandates. It came from parents standing up for common sense. As State Superintendent, I will bring that same leadership statewide as an advocate for students and families, standing up to politicians and special interests to protect the office’s independence as voters intended. My plan is simple: restore high academic standards in reading, writing, and math; protect Title IX, ensuring fairness and safety for girls; cut wasteful bureaucracy; and demand fiscal transparency to ensure money reaches classrooms where it belongs, supporting our students and our great teachers. We’ve proven the blueprint works locally. Let’s link arms to deliver for every child. Learn more at ",
+              {
+                "em": [
+                  "ShawForCA.com"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+        "disclaimer": "The views and opinions expressed by the candidates are their own and do not represent the views and opinions of the Secretary of State's office. The order of the statements was determined by randomized drawing. Statements on this page were supplied by the candidates and have not been checked for accuracy by any official agency. Each statement was voluntarily submitted and paid for by the candidate. Candidates who did not submit statements could otherwise be qualified to appear on the ballot."
+      },
+      "contact": [
+        "6939 Schaefer Avenue, Suite D #119",
+        "Chino, CA 91710",
+        "Tel: (949) 495-1310",
+        "E-mail: info@shawforca.com",
+        "X: @realSonjaShaw",
+        "Instagram: @SonjaShaw2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+name: verify
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Fetch OpenSlate at pinned ref
+        run: |
+          set -euo pipefail
+          ref=$(cat .openslate-version)
+          git clone --quiet https://github.com/cinderblock/openslate.git .openslate
+          git -C .openslate checkout --quiet "$ref"
+
+      - name: Install OpenSlate deps
+        working-directory: .openslate
+        run: bun install --frozen-lockfile
+
+      - name: Check every guide item and the files it names
+        run: bun .openslate/packages/cli/src/index.ts guide check guide
