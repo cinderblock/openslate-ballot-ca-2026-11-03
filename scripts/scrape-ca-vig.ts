@@ -13,7 +13,6 @@
 
 import { existsSync, mkdirSync, readdirSync, rmSync, statSync } from "node:fs";
 import { dirname, join, relative, sep } from "node:path";
-import { type DefaultTreeAdapterMap, parse } from "parse5";
 
 import {
   type BallotRace,
@@ -30,9 +29,24 @@ import {
   now,
   slug,
 } from "./lib/guide-common";
-
-type Node = DefaultTreeAdapterMap["node"];
-type Element = DefaultTreeAdapterMap["element"];
+import {
+  type BlockContext,
+  type Element,
+  type Node,
+  attr,
+  blocks,
+  children,
+  clean,
+  find,
+  findAll,
+  hasClass,
+  inlines,
+  isElement,
+  parseDocument,
+  plain,
+  textOf,
+  trimRuns,
+} from "./lib/html-blocks";
 
 const BASE = "https://voterguide.sos.ca.gov";
 const BALLOT_SOURCE = ballotSourceUrl("ca-secretary-of-state");
@@ -64,7 +78,7 @@ async function page(path: string): Promise<{ doc: Element; url: string; retrieve
     evidenceIndex[url] = entry;
   }
   const html = await Bun.file(join(EVIDENCE, entry.file)).text();
-  return { doc: parse(html) as unknown as Element, url, retrieved_at: entry.retrieved_at };
+  return { doc: parseDocument(html), url, retrieved_at: entry.retrieved_at };
 }
 
 /** Files the guide will publish (relative to guide/) → the URL each was mirrored from. */
@@ -85,95 +99,14 @@ async function downloadMirrors(): Promise<void> {
   }
 }
 
-// ---------------------------------------------------------------- tree helpers
+// ---------------------------------------------------------------- page helpers
 
-function isElement(node: Node): node is Element {
-  return "tagName" in node;
-}
-function attr(el: Element, name: string): string | undefined {
-  return el.attrs.find((a) => a.name === name)?.value;
-}
-function classes(el: Element): string[] {
-  return (attr(el, "class") ?? "").split(/[\s;]+/).filter(Boolean);
-}
-function hasClass(el: Element, name: string): boolean {
-  return classes(el).includes(name);
-}
-function children(el: Element): Element[] {
-  return el.childNodes.filter(isElement);
-}
-function findAll(el: Element, test: (e: Element) => boolean): Element[] {
-  const out: Element[] = [];
-  const walk = (e: Element) => {
-    for (const child of children(e)) {
-      if (test(child)) out.push(child);
-      walk(child);
-    }
-  };
-  walk(el);
-  return out;
-}
-function find(el: Element, test: (e: Element) => boolean): Element | undefined {
-  return findAll(el, test)[0];
-}
-function textOf(node: Node): string {
-  if (node.nodeName === "#text") return (node as DefaultTreeAdapterMap["textNode"]).value;
-  if (!isElement(node)) return "";
-  if (node.tagName === "br") return "\n";
-  return node.childNodes.map(textOf).join("");
-}
-function clean(text: string): string {
-  return text.replace(/[ \t\r\n ]+/g, " ").trim();
-}
 function mainCont(doc: Element): Element {
   const main = find(doc, (e) => attr(e, "id") === "mainCont");
   if (!main) throw new Error("page has no #mainCont");
   return main;
 }
 
-// ---------------------------------------------------------------- HTML → guide blocks
-
-const INLINE_PASSTHROUGH = new Set([
-  "a",
-  "span",
-  "sup",
-  "sub",
-  "u",
-  "font",
-  "abbr",
-  "small",
-  "big",
-  "label",
-]);
-const BLOCK_CONTAINERS = new Set([
-  "div",
-  "section",
-  "center",
-  "blockquote",
-  "article",
-  "main",
-  "aside",
-  "dl",
-  "dt",
-  "dd",
-  "header",
-  "footer",
-  "tbody",
-  "thead",
-]);
-const SKIP_TAGS = new Set([
-  "hr",
-  "script",
-  "style",
-  "nav",
-  "form",
-  "select",
-  "option",
-  "noscript",
-  "iframe",
-  "input",
-  "button",
-]);
 const SKIP_CLASSES = [
   "bckToTp",
   "propTitle",
@@ -184,153 +117,16 @@ const SKIP_CLASSES = [
   "summaryHeadings",
 ];
 
-function inlines(nodes: Node[]): Inline[] {
-  const out: Inline[] = [];
-  for (const node of nodes) {
-    if (node.nodeName === "#text") {
-      out.push((node as DefaultTreeAdapterMap["textNode"]).value.replace(/[ \t\r\n ]+/g, " "));
-    } else if (isElement(node)) {
-      const tag = node.tagName;
-      if (tag === "br") out.push("\n");
-      else if (tag === "em" || tag === "i") out.push({ em: inlines(node.childNodes) });
-      else if (tag === "strong" || tag === "b") out.push({ strong: inlines(node.childNodes) });
-      else if (INLINE_PASSTHROUGH.has(tag)) out.push(...inlines(node.childNodes));
-    }
-  }
-  return tidy(out);
-}
-
-/** Merge adjacent strings, drop empties, and keep spacing sane around line breaks. */
-function tidy(runs: Inline[]): Inline[] {
-  const out: Inline[] = [];
-  for (const run of runs) {
-    if (typeof run === "string") {
-      const last = out.at(-1);
-      if (typeof last === "string")
-        out[out.length - 1] = (last + run).replace(/ ?\n ?/g, "\n").replace(/ {2,}/g, " ");
-      else out.push(run.replace(/ ?\n ?/g, "\n"));
-    } else {
-      const inner = "em" in run ? run.em : run.strong;
-      if (inner.length === 0 || inner.every((r) => typeof r === "string" && r.trim() === "")) {
-        if (inner.some((r) => typeof r === "string" && r.length > 0)) out.push(" ");
-        continue;
-      }
-      out.push(run);
-    }
-  }
-  return out.filter((r) => typeof r !== "string" || r.length > 0);
-}
-
-/** Trim leading and trailing whitespace off a run of inlines, descending into emphasis. */
-function trimRuns(runs: Inline[]): Inline[] {
-  const edge = (list: Inline[], start: boolean): Inline[] => {
-    if (list.length === 0) return list;
-    const index = start ? 0 : list.length - 1;
-    const run = list[index] as Inline;
-    let next: Inline | undefined;
-    if (typeof run === "string") {
-      const trimmed = start ? run.replace(/^[\s]+/, "") : run.replace(/[\s]+$/, "");
-      next = trimmed.length > 0 ? trimmed : undefined;
-    } else {
-      const inner = edge("em" in run ? run.em : run.strong, start);
-      next = inner.length > 0 ? ("em" in run ? { em: inner } : { strong: inner }) : undefined;
-    }
-    const copy = [...list];
-    if (next === undefined) {
-      copy.splice(index, 1);
-      return edge(copy, start);
-    }
-    copy[index] = next;
-    return copy;
+/** How the state guide's pages want their passages read: its chrome skipped, images mirrored. */
+function context(imageDir: string, baseUrl: string): BlockContext {
+  return {
+    skipClasses: SKIP_CLASSES,
+    image: (src) => {
+      if (/arrow-up|no-photo/.test(src)) return undefined;
+      const url = new URL(src, baseUrl).href;
+      return mirror(url, `${imageDir}/${new URL(url).pathname.split("/").pop()}`);
+    },
   };
-  return edge(edge(runs, true), false);
-}
-
-function plain(runs: Inline[]): string {
-  return runs.map((r) => (typeof r === "string" ? r : plain("em" in r ? r.em : r.strong))).join("");
-}
-
-interface BlockContext {
-  /** Directory under guide/ for images found in this passage. */
-  imageDir: string;
-  baseUrl: string;
-}
-
-function blocks(nodes: Node[], ctx: BlockContext): Block[] {
-  const out: Block[] = [];
-  let loose: Node[] = [];
-  const flush = () => {
-    const text = trimRuns(inlines(loose));
-    if (plain(text).trim()) out.push({ type: "p", text });
-    loose = [];
-  };
-  for (const node of nodes) {
-    if (!isElement(node)) {
-      loose.push(node);
-      continue;
-    }
-    const tag = node.tagName;
-    if (
-      INLINE_PASSTHROUGH.has(tag) &&
-      !find(node, (e) => e.tagName === "img" || e.tagName === "p")
-    ) {
-      loose.push(node);
-      continue;
-    }
-    if (["em", "i", "strong", "b", "br"].includes(tag)) {
-      loose.push(node);
-      continue;
-    }
-    flush();
-    if (
-      SKIP_TAGS.has(tag) ||
-      SKIP_CLASSES.some((c) => hasClass(node, c)) ||
-      attr(node, "id") === "crmbs"
-    )
-      continue;
-    if (tag === "p") {
-      const text = trimRuns(inlines(node.childNodes));
-      if (plain(text).trim()) out.push({ type: "p", text });
-      out.push(
-        ...blocks(
-          children(node).filter((c) => c.tagName === "img"),
-          ctx,
-        ),
-      );
-    } else if (/^h[1-6]$/.test(tag)) {
-      const level = tag === "h1" || tag === "h2" ? 2 : tag === "h3" ? 3 : 4;
-      const text = trimRuns(inlines(node.childNodes));
-      if (plain(text).trim()) out.push({ type: "h", level, text });
-    } else if (tag === "ul" || tag === "ol") {
-      const items = children(node)
-        .filter((li) => li.tagName === "li")
-        .map((li) => blocks(li.childNodes, ctx))
-        .filter((item) => item.length > 0);
-      if (items.length > 0) out.push({ type: tag, items });
-    } else if (tag === "table") {
-      const rows = findAll(node, (e) => e.tagName === "tr").map((tr) =>
-        children(tr)
-          .filter((c) => c.tagName === "td" || c.tagName === "th")
-          .map((c) => ({
-            ...(c.tagName === "th" ? { header: true } : {}),
-            text: trimRuns(inlines(c.childNodes)),
-          })),
-      );
-      const caption = find(node, (e) => e.tagName === "caption");
-      out.push({ type: "table", ...(caption ? { caption: clean(textOf(caption)) } : {}), rows });
-    } else if (tag === "img") {
-      const src = attr(node, "src");
-      if (!src || /arrow-up|no-photo/.test(src)) continue;
-      const url = new URL(src, ctx.baseUrl).href;
-      const file = mirror(url, `${ctx.imageDir}/${new URL(url).pathname.split("/").pop()}`);
-      const alt = attr(node, "alt");
-      out.push({ type: "img", file, ...(alt ? { alt } : {}) });
-    } else if (BLOCK_CONTAINERS.has(tag) || INLINE_PASSTHROUGH.has(tag)) {
-      out.push(...blocks(node.childNodes, ctx));
-    }
-  }
-  flush();
-  return out;
 }
 
 // ---------------------------------------------------------------- the ballot source's subjects
@@ -393,7 +189,7 @@ async function scrapeStatements(file: string, titlePattern: string): Promise<voi
   const office = find(intro, (e) => e.tagName === "h2" && /office/i.test(textOf(e)));
   const aboutBlocks: Block[] = [
     ...(office ? [{ type: "p" as const, text: [clean(textOf(office))] }] : []),
-    ...blocks(description, { imageDir: "img/offices", baseUrl: url }),
+    ...blocks(description, context("img/offices", url)),
   ];
 
   // Candidates in page order; a district heading switches the race (Board of Equalization).
@@ -452,7 +248,7 @@ async function scrapeStatements(file: string, titlePattern: string): Promise<voi
     const contactP =
       paragraphs.length > 1 && last && find(last, (e) => e.tagName === "br") ? last : undefined;
     const statementPs = paragraphs.filter((p) => p !== contactP);
-    const statementBlocks = blocks(statementPs, { imageDir: "img/candidates", baseUrl: url });
+    const statementBlocks = blocks(statementPs, context("img/candidates", url));
     if (
       statementBlocks.length > 0 &&
       !/^no candidate statement\.?$/i.test(clean(statementPs.map(textOf).join(" ")))
@@ -528,7 +324,7 @@ async function scrapeProposition(n: string): Promise<void> {
     if (summaryP) {
       item.about = {
         ...(by ? { by: clean(textOf(by)) } : {}),
-        blocks: blocks([summaryP], { imageDir, baseUrl: url }),
+        blocks: blocks([summaryP], context(imageDir, url)),
         source: url,
       };
     }
@@ -570,7 +366,7 @@ async function scrapeProposition(n: string): Promise<void> {
   {
     const { doc, url, retrieved_at } = await page(`/propositions/${n}/title-summary.htm`);
     const item = itemFor(r, retrieved_at);
-    const content = blocks(mainCont(doc).childNodes, { imageDir, baseUrl: url });
+    const content = blocks(mainCont(doc).childNodes, context(imageDir, url));
     item.summary = { by: "Attorney General", blocks: content, source: url };
   }
 
@@ -578,7 +374,7 @@ async function scrapeProposition(n: string): Promise<void> {
   {
     const { doc, url, retrieved_at } = await page(`/propositions/${n}/analysis.htm`);
     const item = itemFor(r, retrieved_at);
-    const content = blocks(mainCont(doc).childNodes, { imageDir, baseUrl: url }).filter(
+    const content = blocks(mainCont(doc).childNodes, context(imageDir, url)).filter(
       (b) =>
         !(b.type === "h" && /^ANALYSIS BY THE LEGISLATIVE ANALYST$/i.test(plain(b.text).trim())),
     );
@@ -605,7 +401,7 @@ async function scrapeProposition(n: string): Promise<void> {
           out.push({
             side: section.side,
             rebuttal: section.rebuttal,
-            blocks: blocks(body, { imageDir, baseUrl: url }),
+            blocks: blocks(body, context(imageDir, url)),
             signers: signerP ? signers(signerP) : [],
             source: url,
             ...(disclaimer ? { disclaimer } : {}),
@@ -685,7 +481,7 @@ async function scrapeSupremeCourt(): Promise<void> {
     const item = itemFor(r, retrieved_at);
     item.about = {
       by: name,
-      blocks: blocks(group, { imageDir: "img/justices", baseUrl: url }),
+      blocks: blocks(group, context("img/justices", url)),
       source: url,
     };
   }
@@ -720,7 +516,7 @@ async function scrapeCourtOfAppeal(district: number): Promise<void> {
         blocks: [
           { type: "p", text: [line] },
           ...(note ? [{ type: "p" as const, text: [clean(textOf(note))] }] : []),
-          ...(sessions ? blocks([sessions], { imageDir: "img/justices", baseUrl: url }) : []),
+          ...(sessions ? blocks([sessions], context("img/justices", url)) : []),
         ],
         source: (a && attr(a, "href")) || url,
       };
