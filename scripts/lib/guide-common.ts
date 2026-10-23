@@ -164,7 +164,14 @@ export function matchChoice(name: string, choices: string[]): string | undefined
   if (loose.length === 1) return loose[0];
   const last = parts(want).at(-1);
   const byLast = choices.filter((c) => parts(normName(c)).at(-1) === last);
-  return byLast.length === 1 ? byLast[0] : undefined;
+  if (byLast.length === 1) return byLast[0];
+  // A surname printed in two words ("MATTHEW MC KELL" for "Matthew C. McKell").
+  const joined = parts(want).slice(-2).join("");
+  const byJoined = choices.filter((c) => parts(normName(c)).at(-1) === joined);
+  if (byJoined.length === 1) return byJoined[0];
+  // Credentials after a comma ("MARY GWIN, PH. D.", "KATHLEEN COATES HEDBERG, PE, MPH").
+  const comma = name.indexOf(",");
+  return comma > 0 ? matchChoice(name.slice(0, comma), choices) : undefined;
 }
 
 export function slug(text: string): string {
