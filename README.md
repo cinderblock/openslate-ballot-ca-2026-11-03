@@ -9,6 +9,7 @@ each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
 | California **Official Voter Information Guide** (Secretary of State) | `guide/` | `/guide.jws` |
 | **San Francisco** Voter Information Pamphlet (Department of Elections) | `county/sf/` | `/county/sf/guide.jws` |
 | **Los Angeles County** candidate statements and local measures (Registrar-Recorder/County Clerk) | `county/la/` | `/county/la/guide.jws` |
+| **Orange County** candidate statements and local measures (Registrar of Voters) | `county/oc/` | `/county/oc/guide.jws` |
 
 Each is its own signed manifest, because each is a different authority's
 publication; this repo's one key signs them all.
@@ -79,6 +80,24 @@ responses are cached in `.cache/`; the English text of each, with its URL,
 retrieval time and the SHA-256 of what LA sent, is kept under
 `evidence/county/la/`.
 
+## Orange County
+
+- **Candidate statements** for US House, State Senate and State Assembly
+  districts in the county, the Board of Supervisors, and every city, school,
+  college, water and special district: one small PDF per candidate, linked from
+  OC's candidate filing log. OC prints no candidate photos.
+- **Local measures** (A–O): one PDF each, read for the question, what a Yes and
+  a No vote mean, the impartial analysis (with who signed it), and the
+  arguments and rebuttals (with their signers). The full text is linked by
+  page in the measure's PDF: its tables and amendment markup don't survive
+  text extraction.
+
+Which race each contest is, and where each statement lives, come from the OC
+ballot source in the endorsements catalog (its `contest-subjects.json` and the
+filing log saved in its evidence). OC's measure pages set their two columns
+close together (about 8 pt apart), so `scripts/lib/pdf-layout.ts` also splits
+a line at a narrower gap when the gap straddles the middle of the page.
+
 ## Not endorsements
 
 This is **reference material, not endorsements.** Candidate statements and
@@ -121,6 +140,7 @@ bun run scrape               # rebuild guide/ from the evidence cache
 bun run scrape -- --refresh  # fetch every page and file again
 bun run scrape:sf            # rebuild county/sf/ (fetches the pamphlet once)
 bun run scrape:la            # rebuild county/la/ (paced; about half an hour uncached)
+bun run scrape:oc            # rebuild county/oc/ (about 380 PDFs, a few minutes uncached)
 bun run check                # validate every guide's items and the files they name
 ```
 
