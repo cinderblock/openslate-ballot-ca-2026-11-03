@@ -310,6 +310,8 @@ function toLines(runs: (Run & { y: number })[], page: number, width: number): Li
     };
     for (const run of row) {
       const prev = current[current.length - 1];
+      // The same text drawn twice in one place (a heavier look, or a layout mistake) reads once.
+      if (prev && prev.text === run.text && Math.abs(prev.x - run.x) < 1) continue;
       const gapStart = prev ? prev.x + prev.width : 0;
       const gap = run.x - gapStart;
       const acrossMiddle = gapStart <= mid + 2 && run.x >= mid - 2;
