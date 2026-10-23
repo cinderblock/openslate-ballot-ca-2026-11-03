@@ -8,6 +8,7 @@ each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
 | --- | --- | --- |
 | California **Official Voter Information Guide** (Secretary of State) | `guide/` | `/guide.jws` |
 | **San Francisco** Voter Information Pamphlet (Department of Elections) | `county/sf/` | `/county/sf/guide.jws` |
+| **Los Angeles County** candidate statements and local measures (Registrar-Recorder/County Clerk) | `county/la/` | `/county/la/guide.jws` |
 
 Each is its own signed manifest, because each is a different authority's
 publication; this repo's one key signs them all.
@@ -53,6 +54,31 @@ original. `scripts/lib/pdf-layout.ts` reads the PDF with pdf.js into lines in
 reading order (two columns, full-width headings between), with each run's font,
 size and weight.
 
+## Los Angeles County
+
+LA publishes its material as data, so nothing is read from a PDF:
+
+- **Candidate statements** for US House, State Senate and State Assembly
+  districts in the county, and every local office (Sheriff, Superior Court,
+  City of LA, every city, school, college, water and library district), from
+  LA's candidate statements API (`apps.lavote.gov/statements-api`). LA prints
+  no candidate photos. Statewide offices and justices are left to the state
+  guide.
+- **Local measures**: the question, the impartial analysis and the full text,
+  from LA's interactive sample ballot data (`isb.lavote.gov/parsed`). The full
+  text is kept as text (blocks), not mirrored as an HTML file.
+
+Which race or measure each LA contest is comes from the LA ballot source in
+the endorsements catalog (`orgs/la-county-registrar/<election>/contest-subjects.json`),
+so the guide files everything under the races the app already shows.
+
+LA's servers sit behind a bot wall that blocks bursts (about 700 quick
+requests got this scraper a challenge page). `scripts/scrape-la.ts` goes one
+request at a time with a pause and stops at the first challenge page. Raw
+responses are cached in `.cache/`; the English text of each, with its URL,
+retrieval time and the SHA-256 of what LA sent, is kept under
+`evidence/county/la/`.
+
 ## Not endorsements
 
 This is **reference material, not endorsements.** Candidate statements and
@@ -94,6 +120,7 @@ bun run fetch-openslate      # clones OpenSlate at .openslate-version into .open
 bun run scrape               # rebuild guide/ from the evidence cache
 bun run scrape -- --refresh  # fetch every page and file again
 bun run scrape:sf            # rebuild county/sf/ (fetches the pamphlet once)
+bun run scrape:la            # rebuild county/la/ (paced; about half an hour uncached)
 bun run check                # validate every guide's items and the files they name
 ```
 

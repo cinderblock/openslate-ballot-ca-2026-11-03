@@ -63,6 +63,7 @@ export interface Item {
   summary?: Passage;
   analysis?: Passage;
   arguments?: Argument[];
+  fullText?: Passage;
   documents?: GuideDocument[];
 }
 
@@ -97,9 +98,14 @@ export interface BallotRace {
   choices: string[];
 }
 
-/** Races (by title) from a ballot source's positions.json in the public endorsements catalog. */
+/**
+ * Races (by title) from a ballot source's positions.json in the public endorsements catalog, or
+ * from a local copy (a path), e.g. a ballot source not yet published.
+ */
 export async function loadRaces(url: string): Promise<Map<string, BallotRace>> {
-  const source = (await (await fetchOk(url)).json()) as {
+  const source = (
+    /^https?:/.test(url) ? await (await fetchOk(url)).json() : await Bun.file(url).json()
+  ) as {
     positions: { subject: Subject; choice?: string }[];
   };
   const races = new Map<string, BallotRace>();
@@ -118,13 +124,17 @@ export function ballotSourceUrl(org: string): string {
 }
 
 export function normName(name: string): string {
-  return name
-    .normalize("NFKD")
-    .replace(/\p{M}/gu, "")
-    .toLowerCase()
-    .replace(/[.,"“”]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
+  return (
+    name
+      .normalize("NFKD")
+      .replace(/\p{M}/gu, "")
+      .toLowerCase()
+      .replace(/[.,"“”]/g, "")
+      // "Bove-LaMonica" and "Bove LaMonica" are one name.
+      .replace(/-/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+  );
 }
 
 const SUFFIX = /^(jr|sr|ii|iii|iv)$/;

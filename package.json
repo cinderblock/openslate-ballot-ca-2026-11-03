@@ -9,6 +9,7 @@
     "fetch-openslate": "bun scripts/fetch-openslate.ts",
     "scrape": "bun scripts/scrape-ca-vig.ts",
     "scrape:sf": "bun scripts/scrape-sf-vip.ts",
+    "scrape:la": "bun scripts/scrape-la.ts",
     "check": "bun scripts/check-all.ts",
     "build-site": "bun scripts/build-site.ts",
     "format": "biome format --write .",
