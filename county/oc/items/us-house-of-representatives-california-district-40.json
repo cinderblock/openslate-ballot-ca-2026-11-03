@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 40",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-40",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:38Z",
+  "candidates": [
+    {
+      "choice": "Ken Calvert",
+      "statement": {
+        "by": "Ken Calvert",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "U.S. Representative"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is an honor to represent our region in the U.S. House of Representatives. I have a proven record of fighting for you and delivering results for southern California. I was honored to receive the most votes in the June Primary Election in this district and I am eager to earn your support once again."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Representative for Orange County and southern California, I have helped secure several billion dollars in federal funding for critical Orange County transportation, flood control, and water supply projects. I am honored to be endorsed by many Orange County leaders, including Orange County Supervisor Don Wagner and Rancho Santa Margarita Mayor Tony Beall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Congress, I am leading efforts to lower costs for American families, including lowering energy and gasoline prices by increasing energy supplies here in California. I am also spearheading the crackdown on fraud by introducing the Zero Tolerance for Fraudsters Act, which will impose mandatory minimum prison sentences for convicted fraudsters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Your family’s safety is one of my highest priorities. I have consistently supported a strong border, our law enforcement officers, and tough on crime policies. I have earned the endorsement of local law enforcement organizations, sheriffs, and district attorneys."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I strongly believe we should improve the integrity of our elections by making Voter ID mandatory. That is why I have been a leader on Prop 39, the California Voter ID initiative."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a congressman with a proven and effective record of delivering for Orange County, I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ken Calvert\nU.S. Representative"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "CalvertforCongress.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1135-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Young Kim",
+      "statement": {
+        "by": "Young Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "United States Representative, 40th District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I first ran for Congress because, like you, I believed our country was heading in the wrong direction. Career politicians put special interests and personal gain ahead of hardworking families. We deserve better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Congress, I've broken through the gridlock to deliver real results for families facing skyrocketing inflation, rising costs, and increased crime."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lowering Costs, Cutting Taxes: Inflation has driven up the cost of gas, groceries, and everyday necessities. I supported the largest tax cut in American history, fought to increase the SALT deduction making life more affordable, and helped return more than $33 million owed to hardworking taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Keeping our Families Safe: I will always back law enforcement and fight to keep dangerous criminals off our streets. That’s why I’m endorsed by the Association of Orange County Deputy Sheriffs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Holding Congress Accountable: Too many career politicians have used public office for personal gain instead of public service. I’m the only candidate in this race who supports term limits and has championed legislation to ban Members of Congress from trading stocks. I’ll hold career politicians, both Democrat and Republican, accountable to the American people."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have a strong record of being an independent voice, and am ranked among the most bipartisan and effective members of Congress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That’s why nearly 100 local, county, and state elected officials and education leaders have endorsed my campaign. I would be honored to earn your vote so I can continue fighting to lower costs, keep families safe, and restore the American Dream. www.YoungKimForCongress.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1135-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

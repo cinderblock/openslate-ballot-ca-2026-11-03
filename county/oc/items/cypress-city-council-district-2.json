@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cypress City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/cypress",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:15Z",
+  "candidates": [
+    {
+      "choice": "Bonnie Peat",
+      "statement": {
+        "by": "Bonnie Peat",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Council Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cypress is a wonderful place to live because we have leaders who are invested in our community. As your council member, everything I do is for the progress of Cypress with no hidden agendas, no self-gain, just Cypress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For generations, my family has proudly called Cypress home. Through my volunteer work within the city, I remain deeply committed to supporting Cypress families and local businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On City Council, I delivered results for our community and will continue to do so. I have supported funding for our police and emergency services, voted to approve the redevelopment of Arnold Cypress Park, fought for further transparency for all council meetings, and stood proudly with youth sports and family programs that bring us together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If re-elected, I will continue delivering results for Cypress by investing in public safety resources and equipment, expanding practical and affordable solutions within our city, making fiscally responsible and transparent decisions, keeping taxes low, supporting local businesses, and remaining responsive to the needs of our community. My door will always be open because Cypress is strongest when every resident has a voice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote. For more information, visit www.bonniepeatforcypress.com."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5042-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Helen Le",
+      "statement": {
+        "by": "Helen Le",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I made Cypress my home as a young parent, drawn to its quality schools and economic opportunities available to our family. As a 25-year resident, I want to keep Cypress a city where every family can thrive and build a strong foundation for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m the daughter of Korean immigrants – my mother a nurse and my father a Vietnam War veteran – who taught me the values of hard work, personal responsibility, and service. I graduated from UCLA with a Mathematics degree and spent ten years in financial and wealth management services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a proud parent of Cypress school graduates, my daughter is an aerospace engineer and my son attends Cypress College. I’ve supported Cypress youth sports as Team Parent/Manager and brought parents, students, and teachers together to form Cambridge Virtual Academy PTSA to foster student leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a longtime homeowners association leader, I advocate for my neighbors through fiscal responsibility and sustainable community reinvestment – ensuring every dollar delivers real value. As your Councilmember, I will bring a fresh perspective, transparency, accountability, and collaborative leadership to strengthen neighborhood safety, support our local economy, address cost-of-living pressures, and ensure access to quality city services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote. Learn more at HelenLeforCypress.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5042-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

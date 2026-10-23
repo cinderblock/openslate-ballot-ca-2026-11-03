@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Anaheim City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/anaheim",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:05Z",
+  "candidates": [
+    {
+      "choice": "Carlos Leon",
+      "statement": {
+        "by": "Carlos Leon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Anaheim City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "West Anaheim is home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in these neighborhoods, attended Maxwell Elementary, Dale Junior High, and Magnolia High School, and served as an altar server at St. Justin Martyr Church. I’m the proud son of immigrants. I know how hard my parents worked to achieve the American dream."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Now, I have the privilege of representing the same neighborhoods where I was raised on the Anaheim City Council. Over the past 4 years, I have worked tirelessly to address long-standing issues, tackle community concerns head on and ensure that city hall is delivering results for hardworking taxpayers, like you and me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we are addressing homelessness, strengthening public safety, securing our parks and public spaces, protecting our neighborhoods, creating good-paying jobs, and working every day to improve quality of life across District 2."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We live here. We pay taxes. We deserve the best. I will continue listening to your voice. I want the best for our neighborhoods and our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join our Anaheim Firefighters, first responders, small businesses, community leaders, and neighbors across District 2 to re-elect Mayor Pro Tem Carlos Leon for Anaheim City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to continue working for you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: www.votecarlosleon.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5005-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

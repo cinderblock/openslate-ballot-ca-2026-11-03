@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Juan Capistrano City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-juan-capistrano",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:13Z",
+  "candidates": [
+    {
+      "choice": "Erin Beyer",
+      "statement": {
+        "by": "Erin Beyer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Operations Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have proudly called San Juan Capistrano home for nearly 30 years and I raised my three children here. Professionally, I have been a Realtor for more than 40 years, a Certified Real Estate Appraiser since 2002, and currently manage a local business."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Giving back to our community has always been a priority. I have volunteered extensively with the PTA, serving at several schools, including as a Legislative Representative and on the school opening committee for San Juan Hills High School. My community service also includes President of my Homeowner’s Association, member of the Board of Directors for Capistrano Animal Rescue, a regular columnist for The Capistrano Dispatch, appointee to the City's Transportation Commission, Coffee Chat co-host for 16 years, and the City's 50th Anniversary Committee in 2011."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2023, I was honored to be named San Juan Capistrano's Woman of the Year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will work to protect our unique heritage, preserve our open spaces, support local businesses, enhance public safety, and maintain the exceptional quality of life. I know the history of our town and how important it is to protect what makes San Juan Capistrano such a special place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.erinbeyer.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5214-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jeff Moore",
+      "statement": {
+        "by": "Jeff Moore",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "City of San Juan Capistrano Planning Commission Chairperson"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife, Jenny, and I chose San Juan Capistrano because of its family values, rich history, equestrian heritage, and small-town character. Today, with our four grandchildren and two horses, we are deeply invested in preserving the quality of life that makes our community a special place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, I have held leadership positions in the private, public, and nonprofit sectors. For over 35 years, I built a career in business leadership at a Fortune 500 commercial real estate services company. Today, as Chair of the San Juan Capistrano Planning Commission, former board member of the Shea Center, San Juan Little League umpire, and member of El Viaje de Portolá, I continue serving our community with integrity and dedication."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilman, I promise to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Promote responsible planning that addresses traffic, parking, and thoughtful growth while preserving our small-town character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Support law enforcement, fire protection, emergency preparedness, and safe, responsible e-bike use."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protect our historic downtown, equestrian heritage, open spaces, neighborhoods, and local businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bring proven leadership, fiscal responsibility, and a commitment to listening to residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to keep San Juan Capistrano strong, safe, and true to its unique heritage."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.jeffmoore4sanjuan.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5214-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

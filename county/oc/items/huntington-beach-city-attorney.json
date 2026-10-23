@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Huntington Beach City Attorney",
+    "kind": "race",
+    "jurisdiction": "us/ca/huntington-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:32Z",
+  "candidates": [
+    {
+      "choice": "Mike Vigliotta",
+      "statement": {
+        "by": "Mike Vigliotta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Huntington Beach City Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Attorney, I am dedicated to preserving the quality of life that makes Huntington Beach such a special community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professional Experience: 26 years of City Attorney practice with 18 years in the Huntington Beach City Attorney’s Office. In February 2025, City Council unanimously appointed me to serve as Huntington Beach’s new City Attorney."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public Safety: My top priority is keeping Huntington Beach safe. I work closely with our Police Department to support the highest level of public safety. We prosecute quality of life crimes, such as illegal camping which jeopardize the peace and security of our neighborhoods. Endorsed by the Huntington Beach Police Officers Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Financial: I’m dedicated to saving taxpayer dollars by avoiding litigation and advising the Mayor and City Council to prevent unnecessary spending and ensure that our city tax dollars are used for community services like fire, police, parks and beaches."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Finally, I vigorously defend the City’s local control over issues such as elections and housing development, which impact the character of Huntington Beach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On a personal note, I’m an avid surfer and Huntington Beach resident since 1998 and am dedicated to our City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote and continue serving the people of our community.\nwww.Vig4HB.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5095-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

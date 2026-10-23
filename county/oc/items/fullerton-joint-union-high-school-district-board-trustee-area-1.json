@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fullerton Joint Union High School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:38Z",
+  "candidates": [
+    {
+      "choice": "Regina Cuadra",
+      "statement": {
+        "by": "Regina Cuadra",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Elementary Special Education teacher in La Habra, a longtime PTA leader, and most importantly, a parent of children who have spent their entire educational journey in our public schools, I am deeply rooted in this district. I share similar hopes, concerns, and aspirations as many parents in our community and will bring this unique blend of professional expertise and personal investment to the board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our schools deserve leadership that understands the daily realities of our district from every angle: in the classroom, at the PTA meeting, and around the family dinner table."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher, I work daily to ensure all students receive the tailored support, dignity, and high-quality education they deserve. My commitment to our schools led me to serve in the PTA, where I steered successful grant-writing initiatives that brought vital new funding and resources to our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I know what makes our schools great, and where we can improve because I live it every day as both an educator and a parent. I earned my BA, MA and credential at California State University, Fullerton. I respectfully ask for your support to bring a practical, compassionate, and deeply invested voice to our School Board."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3233-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Matthew Matias",
+      "statement": {
+        "by": "Matthew Matias",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Financial Planning Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was raised in Orange County from age three and I'm proudly raising my family in La Habra. As a husband, father, and financial planning consultant, I believe every student deserves an education that builds knowledge, confidence, character, and practical skills for adulthood."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I work in wealth management, helping individuals and families make informed decisions about financial planning, retirement, investments, and long-term goals. I hold two associate degrees from Rio Hondo College and am completing a Bachelor of Science in Business Administration at the University of Arizona in August 2026."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience in finance, real estate, housing, healthcare, compliance, customer service, and small business has taught me to listen carefully, solve problems thoughtfully, manage resources responsibly, and remain accountable for results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our schools should provide strong academics, safe and supportive learning environments, financial literacy, critical thinking, and meaningful pathways to college, career technical education, skilled trades, military service, business, and entrepreneurship."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your trustee, I will listen to parents, students, educators, and community members while keeping student achievement, fiscal responsibility, and transparency at the center of every decision. It would be an honor to serve Trustee Area 1 and help prepare every student for a successful, independent future."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3233-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

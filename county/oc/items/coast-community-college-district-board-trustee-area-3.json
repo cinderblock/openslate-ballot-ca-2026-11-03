@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Coast Community College District Board, Trustee Area 3 (Short Term)",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:32Z",
+  "candidates": [
+    {
+      "choice": "Kim Carr",
+      "statement": {
+        "by": "Kim Carr",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Appointed Trustee, Coast Community College District Governing Board"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Trustee for Coast Community College District, Area 3, it is an honor and a privilege to serve you. I am a lifelong West Orange County resident and former Mayor of Huntington Beach who understands and cares deeply about our community’s educational needs. Golden West College, Orange Coast College, and Coastline College are among California’s finest community colleges, and strengthening and protecting these esteemed higher-education institutions are my priorities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to ensuring our community colleges provide an affordable, accessible, and relevant education that meets current and future workforce demands. I will expand our dual-enrollment programs, giving high school students a jump on their college degrees. I will increase our career technical education and apprenticeship programs, providing graduates with training and opportunities for well-paying jobs. Additionally, I'll grow Golden West College's Encore program, providing lifelong learning opportunities for older adults in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every dollar in our budget is critical, and I have a track record of managing taxpayers’ money responsibly and transparently. I will keep the budget balanced, build cash reserves, advocate for state funding, and uphold our Fiscal Stability Plan. Aligning spending with revenue will keep our colleges top-ranked year after year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am grateful to be your Trustee for Area 3 and humbly ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3044-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Conrad Mazeika",
+      "statement": {
+        "by": "Conrad Mazeika",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Nonprofit Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Coast Community College District Trustee to ensure our community colleges prepare students for the opportunities of tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned my degree in History from DePauw University and have built a career helping people and organizations succeed through financial planning, business development, real estate, and civic leadership. As President of the Baltic American Freedom League, I have worked with community leaders, educators, and elected officials to advocate for freedom, education, and strong partnerships."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our community colleges are critical to our region’s future. As Trustee, I will champion a Tech Renaissance in Huntington Beach by expanding partnerships with local employers, strengthening career pathways, and preparing students for high-demand fields including artificial intelligence, cybersecurity, advanced manufacturing, healthcare, and skilled trades."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe in responsible stewardship of taxpayer resources, accountability, innovation, and ensuring students have access to affordable education that leads to meaningful careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a stronger connection between education and opportunity, empowering students, supporting local businesses, and keeping our community at the forefront of innovation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3044-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

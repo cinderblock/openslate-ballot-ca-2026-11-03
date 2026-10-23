@@ -1,0 +1,20 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/orange-county",
+    "title": "Orange County: candidate statements and local measures, November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Orange County Registrar of Voters",
+      "uri": "https://ocvote.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T16:40:50Z",
+    "sources": [
+      "https://ocvote.gov/candidates/candidate-filing-log-with-statements",
+      "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    ]
+  }
+}

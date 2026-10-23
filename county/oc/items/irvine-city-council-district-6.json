@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Irvine City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/irvine",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:38Z",
+  "candidates": [
+    {
+      "choice": "Scotty Hong",
+      "statement": {
+        "by": "Scotty Hong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "City of Irvine Sustainability Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our district elects its own Councilmember for the first time, I ask for your vote. I'm running a grassroots campaign to ensure that our district — which includes UCI and the Jamboree/MacArthur Corridor — has a strong advocate at Irvine City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned my undergraduate degree from Harvard University and a Master of Public Administration from Cornell University. I currently serve as an Irvine Sustainability Commissioner and as Chief Policy Advisor to the Mayor, helping to shape our City's policies on public safety, transportation, sustainability, housing, and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Expand the free Irvine Connect shuttle bus system throughout our district, connecting UCI and our residential communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Reduce traffic and improve lighting, sidewalks, and walking trails."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Increase neighborhood policing and strengthen fire and emergency services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Support affordable housing for working families, professionals, and students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lower electricity costs by withdrawing from the Orange County Power Authority, which charges Irvine residents the county's highest rates and relies primarily on fossil fuels. Instead, I'll expand rooftop solar and battery storage programs; plant another 100,000 trees; and speed the transition to greener transportation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your support, we can build an even brighter future for our district and all Irvine residents!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you,\nScotty Hong\nScottyHong.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5107-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kathleen Treseder",
+      "statement": {
+        "by": "Kathleen Treseder",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Councilmember, City of Irvine/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Kathleen Treseder. I am a scientist, not a politician. As a professor at University of California, Irvine, I work every day to find facts and uncover truth, to find solutions and push for progress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the last four years, I have been honored to serve as your City Councilmember. I have brought the same approach I bring to my lab and my classroom to City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have pushed for reforms to clean up City Government, including balancing our budget and banishing corrupt lobbyists. I believe Irvine will work better for everyone when everyone can be sure their voice and the needs of their neighborhoods are heard. When Live Nation wanted a sweetheart deal to profit off public spaces, I stopped the corporate giveaway."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked to expand access to green spaces and parks. As a mom and a climate scientist, I know how important protecting our outdoor spaces are to our health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for re-election because there is more work to do. We must strengthen our businesses while protecting our workers. We must solve the affordable housing crisis to ensure every family can prosper. And we must never stop fighting for our progressive values that keep us strong."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5107-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

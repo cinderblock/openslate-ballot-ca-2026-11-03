@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Placentia City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/placentia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:08Z",
+  "candidates": [
+    {
+      "choice": "Chad Wanke",
+      "statement": {
+        "by": "Chad Wanke",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the Placentia Mayor, I am proud to have lived in Placentia for over 31 years. My wife Leonie and I could not have chosen a better city to be raising our four children in."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a three-time Mayor and current 4th District Councilmember, I have worked successfully to bring dramatic improvements to Placentia and the 4th District including:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A balanced 2026 budget based on my proposed amendments Repaving miles of arterial roads and neighborhoods who hadn’t had repairs for decades\nAdded 10 new police officers\nA new playground and amenities at Parque De Arroyo Verde A new bridge on Golden Avenue"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The recent improvements have helped set Placentia on the right track, but there is still more to be done. If you re-elect me as your City Councilmember, my focus will be to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ensure that the people of Placentia are the focus of the city government\nKeep us safe by continuing to support our Police and Firefighters Continue rebuilding our roads and infrastructure\nFight for continued balanced budgets that benefit Placentia residents, not the bureaucracy"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please join my supporters and vote to re-elect Chad Wanke for Placentia City Council 4th District. Call me anytime at 714-606-1973."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5193-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "James Burandt",
+      "statement": {
+        "by": "James Burandt",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Public Service Professional"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "James Burandt is a Marine Corps veteran, Management Analyst, and public servant with a Master of Public Administration and experience across local, county, and federal government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have spent my career learning how different levels of government can work better for the people they serve. My background includes legislative and policy work in Congress in Washington, D.C., local government experience here in Orange County, and my current work as a Management Analyst for the County of Los Angeles."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Here in Placentia, I serve as Chair of the City’s Veterans Advisory Committee, where I’ve worked to strengthen outreach, improve communication, and increase visibility for veterans in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I would focus on fiscal responsibility and transparency, emergency preparedness, improving city services through the better use of data, and making sure residents receive value for every tax dollar."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe public service should be practical, accessible, and focused on results. I want Placentia to remain a safe, financially responsible community where residents feel heard and city government earns their trust. Placentia is our home, and I would be honored to bring my experience, energy, and commitment to the City Council."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5193-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

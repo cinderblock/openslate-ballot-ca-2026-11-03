@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Costa Mesa City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/costa-mesa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:11Z",
+  "candidates": [
+    {
+      "choice": "Kelly Brown",
+      "statement": {
+        "by": "Kelly Brown",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Communications Director/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe in the potential of Costa Mesa for all of us: families, single folk, seniors, small business owners, and creatives. I’m a mom driven by local community needs, not politics, to face problems head on. As Chair of Costa Mesa’s Parks Commission, I have a track record of working collaboratively to solve problems and increase public engagement including:\nPrioritizing westside park funding\nEnhancing outreach for senior transportation needs Expanding community gardens citywide\nLeading the creation of our city’s first values framework for park investments"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On Council I’ll continue to be a proactive leader who: Ensures responsible city budgets\nImproves transparency and community engagement, including on issues like Flock\nAdvocates for balanced development\nEnhances street safety through bike paths, walkability, and street calming\nIncreases access to parks, gardens, and nature\nSupports working families struggling with high costs of living"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My husband, daughter, two dogs, and I love living on Costa Mesa’s Westside. And with 25 years of experience working in the public sector at all levels of government, including 5 years as a Parks Commissioner, I’m ready to serve you on Day 1. I’m endorsed by Councilwoman Arlis Reynolds and Parks Commissioners Liz Dorn-Parker, Cristian Garcia-Arcos, Brandice Leger, and Shayanne Wright. Let’s Connect! Visit: kellyforcostamesa.com or @kellyforcostamesa."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5038-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steve Smith",
+      "statement": {
+        "by": "Steve Smith",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Technology Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for City Council to change business as usual and refocus City Hall on you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I'm a technology consultant focused on cloud computing. Personally, I'm a Costa Mesa enthusiast, resident, advocate, renter and member of your Animal Services Committee. I've spent my career solving complex problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running on the Five Commitments for District 5:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protect Fairview Park for families, preserve Glider flying, “Concerts in the Park” and the recreational uses that define it. Fairview Park is for you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Staff it. Fund it. Equip it. Let’s focus on our police and public safety in Costa Mesa."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fix our finances: smart cuts, smarter growth, and a real plan to close the deficit — without new taxes or shortchanging our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let's end the standoff between City Hall and local business. Red tape shouldn't outlast a good idea — and it shouldn't empty our storefronts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A transparent city council – one that shows its work, holds open meetings, listens and answers to you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Costa Mesa deserves experienced, accountable leadership that cares about you and our city. I'd be honored to earn your vote and put these Commitments into action.\nLet’s Talk:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "(949)500-3751\nSteve@Steve4CostaMesa.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "steve4costamesa.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5038-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

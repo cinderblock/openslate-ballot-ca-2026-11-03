@@ -1,0 +1,154 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 72",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-72",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:28Z",
+  "candidates": [
+    {
+      "choice": "Chris Kluwe",
+      "statement": {
+        "by": "Chris Kluwe",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Businessman/Coach/Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "AGE: 44"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Are you fed up with politicians unwilling to fight for you? I am."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve had enough of politicians who put extreme ideology or corporate special interests ahead of people. I’ve had enough of Sacramento gridlock preventing us from addressing the cost of living and the solutions California needs. And I’ve had enough of corruption in government, especially when our tax money is used to enrich political donors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need leaders willing to stand up for people, even when it costs them personally. I’ve done that my entire life. In the NFL, I spoke out for marriage equality when it wasn’t popular, and it cost me my career. I fought book bans in Huntington Beach’s libraries, faced personal attacks, and we won. I’d do it again in a heartbeat because standing up for what’s right matters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not a politician. Raised in Seal Beach in a middle-class family, I attended public schools and earned an athletic scholarship to UCLA. Now, as a small businessman and youth coach raising two kids in Huntington Beach with my wife, I’m concerned the American dream is out of reach for too many working families in California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the Assembly, I’ll be independent and focused on lowering costs, ensuring education is fully funded so every child can succeed, making healthcare affordable, protecting our freedoms, tackling homelessness, and stopping politicians from profiting from their positions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proudly backed by nurses, teachers, and blue-collar workers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll fight for you. I’d be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "KluweOC.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1360-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gracey Van Der Mark",
+      "statement": {
+        "by": "Gracey Van Der Mark",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Councilwoman/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "AGE: 52"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My life story is proof that the American Dream still exists. I grew up in rough neighborhoods, experienced homelessness and have been a survivor of domestic violence. I overcame those challenges to become a small-business owner, City Councilmember, and the first Latina Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I delivered results. My city is one of the few in Orange County where homelessness has declined in recent years, our streets are safer, and our city is consistently recognized as one of California's best-run communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Families are being torn apart and fleeing California because life has become unaffordable. I’ve raised my children locally and sent them to public schools and that’s when I realized we need to hold politicians accountable to do better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For too long, Sacramento has been dominated by one-party rule and the political class like Gavin Newsom, who put ideology over the people they represent. California needs reform. I will work every day to deliver common-sense solutions. That is why I’m proudly endorsed by Reform California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m endorsed by the Howard Jarvis Taxpayers Association PAC because I will fight to eliminate the fraud, waste, and abuse of your tax dollars while working to lower the cost of living on hardworking families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Keeping our communities safe is my top priority. That’s why I’m endorsed by Orange County Sheriff Don Barnes, the Association of Orange County Deputy Sheriffs, and the Huntington Beach Police Officers' Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a business owner, wife, and mother. It would be an honor to earn your vote. Learn more at www.GraceyForAssembly.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1360-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

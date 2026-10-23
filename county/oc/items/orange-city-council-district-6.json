@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Orange City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:06Z",
+  "candidates": [
+    {
+      "choice": "Brendon Moeller",
+      "statement": {
+        "by": "Brendon Moeller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Small Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a third-generation resident of Orange. I was a Captain in the United States Army, serving our country on three combat deployments in the Middle East and East Africa. I graduated from Orange Unified School District schools, the United States Military Academy at West Point, and the University of Southern California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, I continue my service here in my hometown of Orange as Chair of the Santiago Creek Commission and a Member of the Orange County Transportation Authority Citizens Advisory Committee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you elect me to represent our community on the Orange City Council, I will:\nStrengthen funding for Orange firefighters and police Grow Orange’s economy by attracting new businesses and retaining existing businesses\nEnsuring complete accountability with our taxpayer dollars Improve efficiency and reduce waste\nProtect the character of our neighborhoods and Orange's quality of life\nPreserve our open space and local waterways"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not a politician. Orange and the Army gave me my values and work ethic, which I’ll bring to the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have earned the endorsements of our City of Orange leaders for\nCity Council:\nOrange City Firefighters\nMayor Dan Slater\nFormer Mayor Carolyn Cavecche\nOur retiring District 6 Councilmember John Gyllenhammer\nMajority of the Orange City Council"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to have your vote. moellerfororange.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5187-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

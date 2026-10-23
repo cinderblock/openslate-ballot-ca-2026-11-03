@@ -1,0 +1,530 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Huntington Beach City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/huntington-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:32Z",
+  "candidates": [
+    {
+      "choice": "Pat Burns",
+      "statement": {
+        "by": "Pat Burns",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired Policeman/Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a 33 year resident of Huntington Beach, I believe the City Council should serve the residents and businesses with integrity, transparency and fiscal responsibility to improve the quality of life. Community service always comes first and never self-service. Supported by residents, business owners, public safety officers, I am committed to serving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am currently on the Huntington Beach City Council and was the previous mayor. I am a retired Long Beach Police Lieutenant where I served for 30 years. I worked Patrol, flew the helicopter, was an academy instructor, an undercover Narcotics Investigator, Sergeant and Lieutenant. During my career I volunteered as coach and referee for AYSO Soccer, St. Bonaventure School Board and Finance Committee. I also served the City of Huntington Beach on the Citizen Participation Advisory Board and Community and Library Service Commission. I currently serve on the Long Beach City Employees Federal Credit Union Board of Directors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would like to stay another 4 years on the City Council and serve the citizens and businesses of Huntington Beach focused on Public Safety, fiscal responsibility, local control and to preserve our beach community and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This is our community and my home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love this city and care for its future."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Andrew Gruel",
+      "statement": {
+        "by": "Andrew Gruel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Huntington Beach City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Appointed City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Huntington Beach City Council has been the honor of my life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I are raising our four children here while owning and operating a local restaurant. Before public service, I built businesses, created jobs, balanced budgets, and learned that every dollar matters. That's the perspective I bring to City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since joining the City Council, I've fought to protect taxpayers, support our police and first responders, defend local control, preserve our beaches, parks, and neighborhoods, and keep Huntington Beach safe, financially responsible, and accountable to the people who live here. I am honored to have earned the endorsement of the Huntington Beach Police Officers' Association for my commitment to public safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe government should live within its means, be transparent with every tax dollar, and focus on delivering the essential services residents deserve while protecting the character of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to lead with integrity, common sense, and an unwavering commitment to putting Huntington Beach first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue serving our community."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-4.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Casey McKeon",
+      "statement": {
+        "by": "Casey McKeon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor of Huntington Beach/Businessowner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a 3rd generation Huntington Beach resident, small business owner and current Mayor of Huntington Beach, I passionately love this City. I am extremely proud that we fulfilled our campaign promises when I was elected in 2022."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We continue to fight for local control against unjust and unfair High Density housing mandates to protect Huntington Beach from predatory developers to ensure our City remains a suburban beach community that protects our open spaces."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During the last four years, we have achieved the greatest homeless reduction numbers in our City’s history! We were the number one city in Orange County this year for homelessness reduction, and I will continue to prioritize tackling this challenging issue."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During the last four years, Crime is down 27% across all categories. I am supported by Police and Fire and will ensure Public Safety is a priority in Huntington Beach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our Streamline Program cut the red tape at City hall and increased permits issued by over 23% in the first year. Huntington Beach won first place this year out of fourteen other government agencies for our Streamline program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully request your vote for re-election to Huntington Beach City Council to secure our future."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-9.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Taryn Palumbo",
+      "statement": {
+        "by": "Taryn Palumbo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Executive Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe the future of Huntington Beach matters now more than ever."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Raised in this community, I’m a parent, attorney, and commonsense problem solver. As the Executive Director of a nonprofit organization, I have spent my career bringing people together to get things done, helping connect people and businesses to secure the funding they need in order to improve lives and make a difference for families across Orange County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I know I’m not alone in saying enough is enough. As your City\nCouncilmember, I will work tirelessly to focus on the everyday issues that matter most:\nProtect our libraries and public spaces,\nInvest in infrastructure upgrades and street repairs,\nEnd the waste of taxpayer dollars in endless lawsuits, Restore Huntington Beach’s reputation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our future is worth fighting for, and I want my children to experience the same pride in our city that I did growing up. I would be honored to earn your vote to bring the change we need in Huntington Beach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Taryn4HB.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-11.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Rosalind \"Roz\" Price",
+      "statement": {
+        "by": "Rosalind \"Roz\" Price",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Operations Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Huntington Beach has been my home for over 40 years. I am honored to serve as a City of Huntington Beach Community & Library Services Commissioner, working to enhance the quality of life for our residents while preserving the character that makes our city special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 25 years, I have led organizations through executive-level operations, budgeting, project management, and strategic planning. My unique combination of executive-level leadership, official City service as a Community & Library Services Commissioner, and decades of hands-on volunteer work throughout Huntington Beach has prepared me to lead with experience, integrity, and accountability. I have proudly served local families, veterans, active-duty military, seniors, youth, churches, and nonprofit organizations because I believe strong communities are built through acts of service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council to protect public safety, support local businesses, maintain our beaches, parks, libraries, and neighborhoods, and ensure taxpayer dollars are managed responsibly. I believe in transparent government, fiscal responsibility, and listening to residents before making important decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment is simple: to listen, lead with integrity, and work every day to strengthen Huntington Beach for today's families and future generations. It would be my honor to serve as your City Council Member."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-6.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Erin Spivey",
+      "statement": {
+        "by": "Erin Spivey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired Librarian"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Born and raised in Huntington Beach, I attended local schools and played local sports. In high school, I volunteered at Oak View Library and my first job was at the Central Library coffee cart. I love this city so much that I’m raising my family here. Today, my kids enjoy the same beaches and play sports on the same fields."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I spent 15 years of public service in schools and libraries. I worked on government budgets, oversaw dozens of employees, worked with contractors and volunteers. I built programs from the ground up that engaged thousands of residents and still exist today."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Now I want to get Huntington Beach back to being Surf City. In a time of growing deficits, cuts to public safety, and losing lawsuits, I will instead focus on local improvements, bringing new and old businesses back to Huntington Beach, and bettering our local government. I will repair our tattered reputation and invite the community to come back together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It's time for change. It’s time to get our amazing City back on track. It’s time to rebuild the community I grew up with: a small town in a big city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ErinforHB.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-10.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Brian Thienes",
+      "statement": {
+        "by": "Brian Thienes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Huntington Beach has been my home for 38 years. My family and I built our lives here while I spent 40 years building a successful civil engineering and land surveying company, managing complex infrastructure projects across Southern California, meeting payrolls, and delivering on time and on budget. That real-world experience is exactly what I’ll bring to City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "State policies threaten Huntington Beach’s community character by forcing high-density development into our neighborhoods. When a massive six-story project threatened our community, I organized my neighbors and forced the developer to shrink it. Today I serve on the Huntington Beach Planning Commission, standing up for our neighborhoods. On the City Council, I’ll keep fighting overdevelopment and Sacramento overreach, because decisions about Huntington Beach should be made here, by the people who live here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll oppose new taxes, balance the budget, fully fund our police and fire, support real solutions to homelessness, and partner with our local schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not a career politician. I’m a small business owner, husband, father, and your neighbor who will fight against new taxes, support safe neighborhoods, oppose overdevelopment, and ensure local decisions are made locally."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote for Huntington Beach City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Brian4HB.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brian@Brian4HB.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-7.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Amory Hanson",
+      "statement": {
+        "by": "Amory Hanson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Historic Resources Boardman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been honored to have a front row seat to municipal politics in Huntington Beach for 12 years. I truly believe that I can bring a unique historic perspective. When elected, I will work to create a Huntington Beach performing arts center, to provide a space for Huntington Beach’s many performing arts societies. I will work to create a Huntington Beach historical museum to highlight the great history of Huntington Beach. I will ask for a study session to review and revise Huntington Beach’s park naming ordinance to allow more individuals to be honored at Huntington Beach’s many parks. I will allow the full 3 minutes at city council meetings when I am Mayor and work to codify this as an ordinance. Most importantly, I will continue to support our environment and the fight against high density development. I encourage a vote for Mr. Amory Hanson, a historic choice, for Huntington Beach City Council. to learn more go to amoryhanson2026.blogspot.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ben Davis",
+      "statement": {
+        "by": "Ben Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Civil Rights Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've spent my life showing up for people. First, I helped manufacture medicines, including a groundbreaking cancer vaccine. I later earned my JD/MBA, and I’ve spent the past several years fighting for civil rights and housing — work that gave me practical experience with systems needed in our local government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When I’m on City Council, I will manage public funds responsibly, invest in the infrastructure and core services our community relies on, and represent all of our residents. I'll bring a practical, community-first approach to housing that actually works for the people who live here. I'm committed to careful, transparent budgeting and to being a steady voice for safety and good governance — because this city's name should shine the way we all know is possible."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since moving to Huntington Beach with my wife, Jill, nearly 20 years ago, I have come to regard this city's future as inseparable from my own. I've spent 30 years working on difficult problems because they needed doing. I’m ready to do the same here and make real change for Huntington Beach. I humbly ask for your vote for City Council by November 3rd."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Brenda Glim",
+      "statement": {
+        "by": "Brenda Glim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Woman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brenda has proudly called Huntington Beach home for 37 years. She raised her family here and is now helping raise her grandchildren. She is committed to keeping Huntington Beach safe, strong, and full of opportunity for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brenda began her career with the General Accountability Office and the United States Air Force, where she developed a strong respect for accountability and public service. She later worked at McDonnell Douglas on advanced space technology and managed multi-million-dollar projects for companies including Experian and IBM, overseeing budgets, timelines, and results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 22 years, Brenda has been an active member of the Rotary Club of Huntington Beach, serving as President, Secretary, Treasurer, Assistant District Governor, and currently Membership Chair. Her Rotary service reflects her long-standing commitment to community, leadership, and collaboration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brenda is running for City Council to focus on practical priorities: maintaining infrastructure, protecting public services, respecting taxpayers, and restoring trust in local government.\nHB First. Politics Last."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brenda Glim"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-5.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Brian Burley",
+      "statement": {
+        "by": "Brian Burley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Trustee, Huntington Beach City School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need leaders who will fight for Huntington Beach values. That’s why I'm running for Huntington Beach City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am concerned with how our city relies on valuable reserve funds to cover budget deficits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Huntington Beach Trustee, I have a proven conservative record of balancing budgets, building reserves and protecting your tax dollars. I will bring that fiscal experience to City Hall to get our city's finances in order before it's too late."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to preserving the values that make our community one of the best places to live, work and raise a family. Serving as your Huntington Beach Trustee, I've worked to strengthen school safety because protecting our children is one of government's most important responsibilities. I'll bring that same commitment to supporting law enforcement and first responders to maintain Huntington Beach's public safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll fight to preserve Huntington Beach's family-first values and keep local government focused on the needs of Huntington Beach residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I don't just promise to fight for Huntington Beach. I have already proven it as your Huntington Beach Trustee and I am just getting started."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Brian Burley for Huntington Beach City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Read more at Burley4HB.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5092-8.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

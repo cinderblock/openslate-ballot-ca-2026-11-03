@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Anaheim Union High School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:37:57Z",
+  "candidates": [
+    {
+      "choice": "Annemarie Randle-Trejo",
+      "statement": {
+        "by": "Annemarie Randle-Trejo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member Anaheim Union High School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 30 years, I have dedicated my life to serving our students, families, and community. As a Behavior Interventionist with the Anaheim Elementary School District, employed since 1995 and an elected Anaheim Union High School District Trustee since 2012, my commitment has always been ensuring every student has the opportunity to discover their strengths and succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience and steady leadership matter, especially during uncertain times. As a three-time Board President, I helped to guide our district through unprecedented challenges—including the COVID-19 pandemic, fears impacting our immigrant families and community—while keeping our focus clear: protecting rights, elevating student voice, engaging families, and ensuring every student feels safe, valued, and supported."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my tenure, we have transformed our schools by modernizing classrooms, facilities, athletic fields; restored historic Cook Auditorium & championed environmental sustainability through Katella’s DROPS water project."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We expanded innovative pathways in Cybersecurity, Magnolia Agriscience, Esports, and Visual and Performing Arts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Beyond the classroom, our signature AIME program provides year-round mentorships–including paid, and career preparation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring proven leadership, deep institutional knowledge, and a commitment to collaborative governance. I respectfully ask for your continued trust and support as we build a future where every Anaheim student thrives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3224-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Roberto Garcia",
+      "statement": {
+        "by": "Roberto Garcia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Engineer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a AUHSD graduate. I was born and raised in Orange County, and I'm a licensed Professional Engineer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an engineer, I check projects closely. I make sure every dollar gets real results. I've brought that same careful approach to Anaheim Union. Since October 2025, I've gone to board meetings, reviewed budgets, and asked hard questions in public. That work helped uncover an $8 million reporting error. It also raised serious questions about a $270,000 technology contract that no one had checked closely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm also a youth mentor. I support students in sports, STEM, and career planning. I go to Anaheim Union community events and I speak up for youth mental health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your trustee, I will put student and staff safety first. I will hold every dollar accountable for real results. I will support programs that help students build strong careers. I will make sure families and community members have a voice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our community deserves a board it can trust. I will treat this seat as a real responsibility, not just a formality. It would be an honor to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Email: hello@garcia4auhsd.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Website: garcia4auhsd.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3224-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

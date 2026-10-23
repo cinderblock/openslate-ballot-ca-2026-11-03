@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lake Forest City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/lake-forest",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:54Z",
+  "candidates": [
+    {
+      "choice": "Shari Rhodes",
+      "statement": {
+        "by": "Shari Rhodes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Lake Forest Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love Lake Forest, which I made my home 16 years ago. I want to make Lake Forest an even better place to live, so my children will be able to buy their own homes to raise their families here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During the challenging times of 2020, I launched two businesses in Lake Forest, which are thriving today."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not a politician, and I have never run for elected office. I’m a concerned citizen and business owner passionate about giving back to my community, as I did when I served as the PTA President at my children’s schools and the women’s ministries administrator at our church."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you elect me to represent our community on the Lake Forest City Council, I will fight to:\nProvide our firefighters and Sheriff’s deputies with what they need to keep Lake Forest safe\nDevelop an anonymous tipline to report gang activity Ensure Lake Forest maintains a responsible, balanced budget Enhance our Lake Forest parks and community activities Grow our economy and lower the cost of living to help young families and senior citizens afford their own homes in Lake Forest"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by:\nLake Forest Mayor Robert Pequeno\nLake Forest Councilmember Scott Voigts\nFormer Lake Forest Mayor Dwight Robinson"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5138-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Amy Stevens",
+      "statement": {
+        "by": "Amy Stevens",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mother/Communications Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lake Forest is where my family’s life happens. It’s school drop-off, neighborhood walks, community events, beautiful parks, and people we love and rely on. I’m running for City Council because decisions made at City Hall shape our everyday moments."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hi, I’m Amy! A Lake Forest mom, communications professional, former La Madera PTA president, and CERT-trained through the city’s Community Emergency Response Team program. Serving in our local schools and community has shown me how much can be accomplished when people feel heard and have a meaningful role in solving problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That same approach has guided my work for 20+ years. I have helped public agencies and community organizations navigate difficult issues, communicate during emergencies, and bring people with different perspectives together to find practical solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a councilmember, my priorities will include safer streets and e-bike education, stronger emergency preparedness, well-maintained open spaces, thoughtful planning that respects neighborhoods and infrastructure, and attracting quality businesses to vacant storefronts so residents have more local options and the city strengthens its tax base."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will show up throughout the community, listen carefully, and make choices with District 4 residents in mind. I would be honored to have your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5138-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

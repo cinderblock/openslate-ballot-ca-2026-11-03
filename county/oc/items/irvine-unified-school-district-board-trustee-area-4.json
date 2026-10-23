@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Irvine Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:46Z",
+  "candidates": [
+    {
+      "choice": "Jeff Kim",
+      "statement": {
+        "by": "Jeff Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Irvine Unified School District, Trustee Area 4"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your current school board president, I am honored to serve our community and work hard to keep Irvine Unified School District one of the most respected and best school districts in the nation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My five children attend or recently graduated from IUSD Schools. We are a proud IUSD Family. I am running for re-election because of my commitment for our next generation – that they have opportunities to discover their passion so that they can do good with it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over 20 years in education, I have served as a teacher, instructional coach, administrator, and as teacher educator at Cal State University Fullerton and Vanguard University. I received my teaching credential from the University of California Irvine, my educational doctorate from the University of Southern California, and I am a National Board Certified Teacher."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your board member, I’ll:\nEncourage belonging and the well-being of our students in positive and safe learning environments\nSupport the high academic achievement of our students by learning 21st Century Skills in state-of-the-art schools Strengthen university, school and community partnerships Retain and attract top teachers\nPractice responsible stewardship of taxpayer dollars"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to be endorsed by current and former IUSD Trustees: Lauren Brooks\nCyril Yu\nKatie McEwen\nIra Glasky (Ret.)\nPaul Bokota (Ret.)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote for Jeff Kim for Irvine Unified School District Governing Board Member. For more information, visit, votedrjeffkim.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3134-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jane Wood",
+      "statement": {
+        "by": "Jane Wood",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Teacher/Businesswoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the candidate who understands Irvine Schools through experience. I engage with our students, employees, and parents every day.\nI’ve been a PTA board member for 12 years, advocating for all kids and families in our community. I was President for two years at Woodbury Elementary and am in my third year as President at Portola High. I’m on the board of Irvine’s Council of PTAs serving all of IUSD’s 38,000 students. As an educational leader, I have a proven record of implementing successful initiatives, cutting bureaucracy, and balancing budgets.\nAs a credentialed teacher, I’ve taught Pre-Kindergarten to High School, Special Education, and Adults. I have direct knowledge of how closed-door boardroom decisions affect our classrooms. We share priorities: safe schools, world-class education and student-centered resources. We need transparency, accountability, and fiscal responsibility for our community. We need engaged leaders, not ceremonial speakers.\nAs your trustee, I will work to reduce class size, retain great teachers, maintain educational excellence, and keep our students safe, especially our most vulnerable.\nI am honored to be chosen by Irvine Teachers Association and trusted community leaders. I hope to be your choice and your advocate for Irvine schools."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3134-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

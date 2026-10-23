@@ -1,0 +1,132 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 47",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-47",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:41Z",
+  "candidates": [
+    {
+      "choice": "Jenny Rae Le Roux",
+      "statement": {
+        "by": "Jenny Rae Le Roux",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Entrepreneur/Investor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "AGE: 46"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m Jenny Rae Le Roux - a business owner, mom, and government watchdog running for Congress because career politicians have broken California - spending too much, delivering too little, and serving special interests first. I’m not a politician. I’m an outsider fighting to restore accountability to Congress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "California was once a beacon of freedom and opportunity. Today, families are crushed by inflation, unaffordable housing, high gas prices, rising taxes, failing schools, and crumbling infrastructure. While hardworking Californians struggle, politicians keep spending more with little to show for it. Billions have been wasted on failed homelessness programs and over-budget projects that never deliver. Orange County deserves leaders who solve problems, keep promises, and respect taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a government watchdog, I lead a fraud task force that has exposed over $2 billion in government waste and abuse. Every day, I work to cut bureaucracy, increase transparency, and protect taxpayers. That’s the passion I’ll bring to Congress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a business leader, I’ve built startups into global companies by eliminating waste, reducing costs, and demanding results. Government should be run with the same efficiency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a mom with children in public school, I’m invested in building a future where families can afford to live, work, and thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Congress doesn’t need another career politician. It needs leaders with real-world experience who know how to fix broken systems. I’ll fight for safe communities, secure borders, excellent schools, a stronger economy, and a government that works for us. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1185-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dave Min",
+      "statement": {
+        "by": "Dave Min",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "United States Representative/Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Why have superPACs spent over $4.5 million opposing Dave Min?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Maybe it’s because Congressman Dave Min refuses to take corporate PAC donations and has spent his career fighting corruption and working to expand economic opportunity. Dave began his career prosecuting Wall Street fraud at the U.S. Securities and Exchange Commission. He later taught at UC Irvine School of Law and testified six times before Congress on issues related to financial fairness and stopping fraud."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Or perhaps it’s that since joining Congress in January 2025, Dave’s led the efforts to stand up to the Trump administration’s unprecedented attacks on our democracy and the rule of law, while fighting to lower costs. Dave opposed Congressional Republicans' efforts to raise healthcare costs and has repeatedly voted against ICE funding, called for criminal investigations into ICE misconduct and opposed ICE’s efforts to open an office in Irvine."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It could be because Dave has been a relentless force against corruption in our government. Dave chairs the Anti-Corruption Task Force and sponsored legislation to end stock trading by members of Congress and White House officials. As part of the House Oversight Committee, Dave helped force the release of the Epstein files."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dave is backed by dozens of local Orange County leaders you trust. Police officers and firefighters have endorsed Dave because of his strong pro-safety record. He's also endorsed by Planned Parenthood and Sierra Club and teachers, nurses, and healthcare workers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dave and his wife are raising their three kids here in the OC and working every day to make sure every child gets to grow up with the same opportunities and freedoms he had."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dave Min\ndavemin.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1185-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

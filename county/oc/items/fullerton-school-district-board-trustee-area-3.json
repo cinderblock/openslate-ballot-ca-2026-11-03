@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fullerton School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:40Z",
+  "candidates": [
+    {
+      "choice": "Jordan Abushawish",
+      "statement": {
+        "by": "Jordan Abushawish",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Healthcare Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jordan Abushawish is the father of two Fullerton School District students and lives one block from their school. He understands how difficult it can be for families to balance work and household responsibilities, stay informed, access school resources, and advocate for their children. For three years, he has served on the Rolling Hills School Site Council, working with parents, teachers, and administrators to support students and improve communication."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jordan Abushawish is a parent and healthcare advocate running for School Board Trustee Area 3 to bring a parent’s voice and practical leadership to the Fullerton School Board. Jordan loves serving his community, from volunteering at community backpack and local food distribution events."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our School Boardmember, Jordan Abushawish will strengthen campus safety, expand behavioral health support, improve communication, and ensure every family understands the resources available to help their children succeed. He will work to reduce absenteeism, improve student achievement, and support teachers and school employees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a career in public policy and healthcare, Jordan has the experience to bring people together, manage issues, and make responsible decisions for students and families. Jordan Abushawish will listen to parents, support educators, protect our public schools, and help Fullerton remain a leader in educational excellence."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at jordanforfullerton.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jordan Abushawish"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3305-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Amy Choi-Won",
+      "statement": {
+        "by": "Amy Choi-Won",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Foundation Boardmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For nearly two decades, I have proudly served the Fullerton School District community as a parent, volunteer, advocate, and neighbor. My commitment to public education is both personal and professional because I believe every child deserves the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned my Ph.D. in Chemistry from UC San Diego and have dedicated my career to helping students prepare for bright futures. As a chemistry professor, small business owner, and Partner Engagement Specialist with the North Orange County Regional Occupational Program, I have connected students with meaningful career pathways and strengthened partnerships between education, business, and our community. I also serve on the boards of several Fullerton nonprofit organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will focus on strengthening academic fundamentals, expanding STEM and career education, preparing students for an AI-driven future, supporting and retaining exceptional teachers, improving communication with families, and ensuring responsible stewardship of taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every child deserves access to an excellent education regardless of their ZIP code or background. Strong public schools create stronger families, a stronger workforce, and a stronger Fullerton."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your trust and your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "VoteAmyChoiWon.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3305-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

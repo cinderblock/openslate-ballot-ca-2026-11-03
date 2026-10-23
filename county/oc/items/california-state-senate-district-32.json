@@ -1,0 +1,68 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Senate, District 32",
+    "kind": "race",
+    "jurisdiction": "us/ca/sd-32",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:29Z",
+  "candidates": [
+    {
+      "choice": "Kelly Seyarto",
+      "statement": {
+        "by": "Kelly Seyarto",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "State Senator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "AGE: 66"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "California has always been a place of opportunity, but today too many families are struggling with the high cost of living, rising taxes, and an increasingly difficult environment for businesses, both small and large. The checks and balances that have been the hallmark of our government have been eroded by one-party, supermajority rule in the California Legislature."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Now, after years of record spending, Californians are still waiting for the results they were promised. We need to improve housing affordability, keep our communities safe, make vast improvements in our infrastructure, and ensure that every student has the tools to succeed after high school. We can build a more affordable, safer, and more prosperous California by setting clear priorities, spending taxpayer dollars responsibly, and demanding accountability from our state government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have passed legislation supporting military families, college students, seniors, crime victims, and homeowners. My proposal to exempt military retirement and survivor benefits from state income tax was included in the state budget. I have also authored laws that strengthen public safety and consumer protections, improve government transparency, and protect homeowners from property fraud."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring 35 years of service as a firefighter, 13 years as a local elected official, and the perspective of someone who understands the challenges facing working families. My wife is a small business owner, and together we raised our family right here in this community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to once again earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1210-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

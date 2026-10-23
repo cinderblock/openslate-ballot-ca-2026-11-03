@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Irvine Ranch Water District Board, Division 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:44Z",
+  "candidates": [
+    {
+      "choice": "Peer A. Swan",
+      "statement": {
+        "by": "Peer A. Swan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Director, Irvine Ranch Water District, Area 5"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Director of the Irvine Ranch Water District for 46 years, I have played a large role in making the District a nationally recognized leader. We pioneered the use of recycled water, promoted conservation, funded a program to replace worn-out plant and equipment, fully funded retirement, and built a large emergency groundwater storage facility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "IRWD has gone from 95% dependency on expensive imported water to where more than 85% of our water is local, more reliable and less costly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have achieved this high level of service and reliability while maintaining rates that are by far the lowest in the County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I spearheaded the creation of the San Joaquin Wildlife Sanctuary where urban runoff is naturally treated, while providing needed habitat and accessible public open space."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Founding Director and Chairman for four years of the National Water Research Institute we funded research to improve water quality."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You have my continued commitment to keep the District an innovative leader dedicated to quality service that is low priced, environmentally sensitive, and consistent with the high standards of the community we live in."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please Re-elect Peer Swan"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/6168-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jeffrey Harlan",
+      "statement": {
+        "by": "Jeffrey Harlan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Attorney/Planning Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After 45 years of the same, we need new leadership for Division 5. I bring not only the experience and expertise, but also a fresh perspective to guide the Irvine Ranch Water District through this critical time."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 20 years, I have been a dedicated Orange County public servant and community volunteer. As the first City Councilmember representing Eastside Costa Mesa, I helped create and renovate neighborhood parks, deliver new bike lanes, upgrade streets and alleys, and expand police and fire services. With my leadership, our Council delivered balanced budgets every year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a land use attorney and Chair of the Planning Commission, I have committed my 30-year career to working with governments to improve communities and protect our environment. I understand all aspects of responsible development, including preserving our water supply, conserving natural resources and open space, and investing in our infrastructure."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I graduated from the University of Pennsylvania,\nand earned a law degree focusing on environmental law from Vermont Law School."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Director, I will ensure our precious resources are protected so you can enjoy a safe, reliable, and affordable water supply."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I appreciate your consideration and hope to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Harlan4water.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/6168-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

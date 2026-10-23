@@ -1,0 +1,68 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Laguna Hills City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/laguna-hills",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:47Z",
+  "candidates": [
+    {
+      "choice": "Harry Huggins",
+      "statement": {
+        "by": "Harry Huggins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Laguna Hills Non-profit President"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Currently serve on the City of Laguna Hills Parks & Recreation Commission, Vice Chair and President, Laguna Terrace Beautification Team (LTBT) nonprofit.\nGraduate of CSULB, County resident 56 years, 30 years in Laguna Hills.\nExtensive public service/employment throughout various municipalities in Orange County including: Coastal Greenbelt Authority; former Board Member, Laguna Greenbelt; County of Orange, Public Facilities and Resources Department, Administrative Assistant, Cities of Irvine & Garden Grove. Also, represented employees of the Orange County Employees Association, PAC. Most recently, as noted above, organized non-profit (LTBT) to educate residents in a campaign to improve City open space, roadways and front yards through use of drought tolerant plantings. Our volunteer recruitment brought improvements to walls that needed painting, weed removal & various plant installations. LTBT has held Plein Air Painting competitions and organized park concerts to raise community awareness."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Council Member I would strive to:\nProtect and preserve our open spaces and natural beauty\nSupport responsible growth and smart development\nImprove public safety and city services\nEnhance parks, trails, and community amenities Strengthen local businesses and the economy\nListen to residents and bring our community together"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be grateful for your support and vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5117-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Laura Thies",
+      "statement": {
+        "by": "Laura Thies",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Laguna Hills has been our family’s home for 28 years. Our neighborhood, lovingly know as the “neighborhood behind the DMV and Polly’s” is a tight knit and supportive community. I would be proud to represent District 1 while serving all residents of Laguna Hills. I am an Orange County native with my BS in Mathematics with a cognate in Philosophy from CSULB. My husband and I began growing our family of 5 children while growing a business. Some of my past and current volunteer work includes, serving San Joaquin Elementary as member of the PTA Board, helping at the Laguna Food Pantry, team parent for Hawk softball, and working as a Catechist at our Church. I will work hard to help implement solutions for the common good of our city and all residents."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5117-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

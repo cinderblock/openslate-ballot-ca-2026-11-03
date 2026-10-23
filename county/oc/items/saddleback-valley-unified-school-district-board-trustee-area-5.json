@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Saddleback Valley Unified School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:19Z",
+  "candidates": [
+    {
+      "choice": "Edgar Montes",
+      "statement": {
+        "by": "Edgar Montes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Educator/Counselor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Dr. Edgar Montes, School Board candidate for Saddleback Valley USD. I'm running because I believe every child deserves an outstanding education, every family deserves to be heard, and every decision should begin with one simple question: What is in the best interest of our students?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a first-generation college graduate, I know firsthand how a high-quality public education can change the trajectory of a family's future. That experience inspired me to dedicate my career to serving students, families, and educators."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My academic journey, including earning a Doctorate in Education from USC, has prepared me to thoughtfully analyze complex issues and make informed decisions. For more than 23 years, I have worked in education as a school counselor, administrator, nonprofit executive, and education leader."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud parent of two SVUSD students, I have a personal stake in fostering an educational environment where every student can flourish academically, socially, and emotionally."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We are grateful for the teachers, counselors, administrators, classified staff, coaches, parents, and volunteers who invest so much in helping our children—and every student—thrive. I believe strong schools are built through trust, respect, and thoughtful leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to serve the SVUSD community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.DrEdgarMontes.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3195-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kris Spowart",
+      "statement": {
+        "by": "Kris Spowart",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe strong public schools change lives. They prepare students for the future, strengthen our community, and are made possible by outstanding teachers, engaged families, and students who are supported to reach their full potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up attending Saddleback Valley USD schools, and my husband and I chose to raise our children here. For the past 16 years, I have served our district as a parent volunteer, PTA leader, Community Advisory Committee Chair, and Special Education Advocacy Chair, working alongside teachers, administrators, staff, families, and students to support student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the parent of a son who received special education services from preschool through graduation, I was once told he might never earn a high school diploma. This year, he graduated. That journey reinforced my belief that when students are surrounded by dedicated educators, high expectations, and meaningful collaboration between schools and families, they can achieve more than anyone imagined."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Saddleback Valley Unified School District to build on our district’s strong foundation and ensure our schools continue to prepare future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your trustee, I will listen, ask thoughtful and sometimes difficult questions, bring people together, and keep students at the center of every decision."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3195-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

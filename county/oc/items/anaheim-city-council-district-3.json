@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Anaheim City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/anaheim",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:06Z",
+  "candidates": [
+    {
+      "choice": "Natalie Rubalcava",
+      "statement": {
+        "by": "Natalie Rubalcava",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Anaheim City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s been my honor to serve on the Anaheim City Council since 2022. In this role, I’ve made it a priority to listen to residents and protect the things that make our city such a special and unique place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the City Council, I’ve fought to:\nProtect neighborhoods by ensuring first responders have the resources they need.\nTackle the root causes of homelessness by addressing housing and mental health.\nImplement a first-time homebuyers program for Anaheim residents.\nCreate good-paying jobs by helping local businesses and attracting new investments.\nSecure our fair share of city funding to maintain our streets, sidewalks, and parks.\nEnsure fiscal responsibility, transparency, and responsiveness at City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a small business owner, mom, longtime community leader, and fourth-generation Anaheim resident. I’m a proud graduate of Lincoln Elementary, Sycamore Junior High, and Anaheim High School. I earned my bachelor’s degree from California State University, Fullerton and law degree from University of La Verne College of Law."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud to have the support of Anaheim firefighters, police officers, city employees, and small business owners."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you have any questions or ideas, feel free to contact me directly at (714) 349-5602."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote and continue working for you on the Anaheim City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With gratitude,\nNatalie Rubalcava\nwww.NatalieRubalcava.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5006-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Elia Rentaría García",
+      "statement": {
+        "by": "Elia Rentaría García",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Nonprofit Development Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Anaheim is my home. For more than two decades, I have served survivors of family violence, families, seniors, young people, and community partners. That work taught me that public service should be compassionate, accessible, and focused on results residents can see."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Councilmember, I will listen, communicate honestly, and follow through. My priority is to focus on safer neighborhoods, stable housing, stronger city services, and opportunity for families at every stage of life. I will improve reliable transportation to make programs for seniors and residents more accessible. Support responsible funding for police and fire. I am committed to strengthening mental health response, improving safety and street lighting, and ensuring responsive code enforcement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I plan to help local entrepreneurs access permits, training, and financing so they can build thriving businesses and create local jobs. By strengthening partnerships with schools, libraries, employers, and community organizations, we can expand after-school programs, improve parks, and create more internships, trade opportunities, and pathways to local careers. City information and services must also be accessible to residents in both English and Spanish."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Residents deserve clear budgets, honest communication and real follow-through. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5006-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lowell Joint School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:50Z",
+  "candidates": [
+    {
+      "choice": "Karen Shaw",
+      "statement": {
+        "by": "Karen Shaw",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Lowell Joint School District, Trustee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud member of the Lowell Joint School District Board of Trustees since 2018, it has been a privilege to serve our students, families, educators, and community. As a former teacher, mother of Lowell graduates, and grandmother of students in our district, I bring both professional experience and a lifelong commitment to public education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my tenure, I have helped oversee the successful implementation of Measures LL and P, ensuring these voter-approved investments provide safe, modern, and engaging learning environments for our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities remain clear: maintaining fiscal responsibility, attracting and retaining outstanding teachers and staff, supporting student achievement and well-being, and ensuring every school is a safe, inclusive, and inspiring place to learn. I am committed to transparent leadership, open communication, and strong partnerships with parents, educators, students, and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lowell Joint has a proud tradition of excellence. I respectfully ask for your vote so I may continue serving our community with integrity, accessibility, and an unwavering commitment to every student's success."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3335-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

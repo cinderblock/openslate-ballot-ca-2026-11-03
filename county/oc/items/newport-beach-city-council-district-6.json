@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Newport Beach City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/newport-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:03Z",
+  "candidates": [
+    {
+      "choice": "Lauren Kleiman",
+      "statement": {
+        "by": "Lauren Kleiman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor/Businesswoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your Mayor has been an honor and a privilege. I have worked tirelessly over my first four years, demanding accountability, fighting for quality of life and public safety for the residents of our beautiful city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My efforts to overhaul the city’s approach to homelessness have resulted in our unsheltered Point in Time Count dropping from 96 to 8, and cutting taxpayer spending."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Crime has fallen 12.7%, with burglaries down 16%. I have championed new technology, more resources and wraparound support for the men and women who dedicate their lives to keeping our city safe, and am proud to have earned the endorsement of the Newport Beach Firefighters Association and the Newport Beach Police Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Some of my other successful initiatives include expansion of the Safety Enhancement Zone, doubling the NBPD Horseback Mounted Unit, banning of Kratom, nitrous oxide, and adoption of new smoke shop regulations, calling for dedicated officers for Corona del Mar and Fashion Island, and auditing the State, resulting in the closure of over a dozen Sober Living homes citywide."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the Mayor who brought you “3rd Thursdays\" and the mural program, I respectfully ask for your vote so that I can build on the progress I have made, for your family and mine."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ElectLaurenKleiman.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5176-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Andrew Paul Gerken",
+      "statement": {
+        "by": "Andrew Paul Gerken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired Surgeon"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been privileged to live in Newport Beach since my father moved Pacific Life to the city in 1972."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe we deserve a city council that reflects our long-established values. These include protecting our parks and open space, a limit on high rise development and respect for the people’s right to vote on key issues, such as development."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I oppose the costly plan to put the police station/jail in the park. when there are better, less expensive alternatives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I oppose the plan to redevelop the current police station into a 300 ft. apartment tower."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support public safety and I understand the way to provide more public safety resources is to not overspend on buildings."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a fiscal conservative, I believe we should treat each tax dollar as if it were our own. I will rein in excess spending, and I will say No to new taxes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I attended Corona del Mar High, Harvard University and UCI Medical School. For twenty years, I was the CDM Football team doctor and was the Hoag Orthopedic Department Chair. I serve on the Library Foundation board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work for you for a better Newport."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Gerkenfornewport.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5176-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

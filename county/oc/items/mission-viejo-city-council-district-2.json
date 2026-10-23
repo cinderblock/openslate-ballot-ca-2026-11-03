@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mission Viejo City Council, District 2 (Short Term)",
+    "kind": "race",
+    "jurisdiction": "us/ca/mission-viejo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:57Z",
+  "candidates": [
+    {
+      "choice": "Saga Conroy",
+      "statement": {
+        "by": "Saga Conroy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Outreach Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love Mission Viejo. I lived under oppressive communist rule during my childhood and immigrated to the United States to pursue freedom. I earned my citizenship and settled in this beautiful city with my husband and our two children. I am committed to giving back to the community that made my American Dream possible."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I currently serve on the Mission Viejo Community Services Commission and work as Community Outreach Director for Orange County Supervisor Don Wagner. As a commissioner, I foster events that contribute to our local economy and oversee the upkeep of our parks and facilities. In my role with the county, I have gained years of firsthand experience in municipal budgeting and local government operations. I have a proven record of solving problems and working collaboratively to deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Keep Mission Viejo safe by fully funding our law enforcement and firefighters.\nMaintain fiscal responsibility through prudent budgeting, without raising taxes.\nProtect open spaces and maintain our parks and trails for all residents to enjoy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to have the endorsements of Supervisor Don Wagner, outgoing Mission Viejo Mayor Pro Tem Brian Goodell, former Mayor Trish Kelley, and Orange County Board of Education Trustee Lisa Sparks, Ph.D. To preserve our quality of life and safeguard our future, I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at www.SagaConroy.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5162-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Peter Molinari",
+      "statement": {
+        "by": "Peter Molinari",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Born and raised in Orange County, I have spent nearly twenty years building my life, career, and family as a Mission Viejo resident and homeowner, raising my daughter and supporting local schools and community organizations. These experiences have given me a strong understanding of the values and priorities that make Mission Viejo a special place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Currently serving on the Mission Viejo Planning and Transportation Commission, I have dedicated virtually six years to evaluating land use, transportation, and development issues. As Chairman and Vice Chairman, I have worked with residents, city staff, and public safety professionals to protect neighborhood character and enhance quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring more than two decades of private sector leadership experience in educational publishing, marketing, and entertainment. This background strengthened my skills in strategic planning, fiscal responsibility, and problem solving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Commissioner, I have worked with the Sheriff's Department and city engineers on traffic safety priorities, including school area improvements and speeding concerns. I supported rebuilding Fire Station 24, preserving parks and open space, opposing proposed rezoning of the Garden Center Plaza property, and attracting new businesses to strengthen city revenues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Committed to leadership focused on integrity, accountability, public safety, and responsible growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "949-391-7268\nmolinari4mv.com\nmolinari4missionviejo@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5162-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

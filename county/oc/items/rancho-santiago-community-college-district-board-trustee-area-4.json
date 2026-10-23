@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rancho Santiago Community College District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:16Z",
+  "candidates": [
+    {
+      "choice": "Daisy Tong",
+      "statement": {
+        "by": "Daisy Tong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Rancho Santiago Community College District Governing Board Member, Trustee Area 4"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve as your Trustee for the past four years, including the privilege of serving as President of the Board. I believe education transforms lives by expanding opportunities, increasing earning potential, and strengthening our entire community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my term, our district maintained a strong financial position, increased reserves, expanded enrollment, strengthened dual enrollment and adult education, and grew nationally recognized apprenticeship programs. From the beginning, I have been committed to helping our young students successfully transfer to four-year universities while also creating more opportunities for working adults to return to college, earn certificates, degrees, and build better careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under our leadership, Rancho Santiago Community College District expanded one of California’s largest selections of bachelor’s degree programs, opened Santa Ana College’s new Health Sciences Building, secured more than $29 million in new state funding through enrollment growth, and brought in millions of federal grants to expand educational opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe public service begins with listening. I maintain an open-door policy and welcome your questions, ideas, and concerns at daisyxtong@gmail.com. I respectfully ask for your vote for Daisy Tong to continue building on this success by keeping student success our top priority while remaining a responsible steward of taxpayer dollars."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3053-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Beatriz Mendoza",
+      "statement": {
+        "by": "Beatriz Mendoza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Businesswoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2017, I proudly served as a member of the Rancho Santiago Community College District, Measure E Citizens’ Bond Oversight Committee. As a former student of a community college, I understand firsthand the importance of having access to the best resources, a great learning environment, and infrastructure that leads to student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a former City of Santa Ana Planning Commissioner and also served on the 7th Santa Ana General Plan Advisory Group, where we reviewed the City’s General Master Plan to help improve our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While in college, I was the District Student Council Representative for the Coast Community College District and was the Associated Student Representative on the President’s Cabinet and Academic Senate. After obtaining my A.A., I transferred to UCLA and graduated with a degree in Political Science."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former staff member for a congressional office, I co-chaired the Higher Education Advisory Board, where Chancellors, Deans, and college Presidents participated in a dialogue to improve higher education for all students. Currently, my oldest son attends Santa Ana College, my daughter is at UC Santa Cruz, and my youngest son is at Segerstrom High School, where I am a member of the School Site Council."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3053-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

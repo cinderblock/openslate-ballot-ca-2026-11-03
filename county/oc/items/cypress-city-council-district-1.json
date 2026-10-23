@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cypress City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/cypress",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:14Z",
+  "candidates": [
+    {
+      "choice": "David Burke",
+      "statement": {
+        "by": "David Burke",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Cypress City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cypress is a great place to live, and you deserve leaders who get the big things right, but don't let the small things slide."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your representative, I supported investments in police personnel and technology to keep Cypress safe. As mayor, I presided over a budget that resulted in a $3 million surplus."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under my leadership, we have also delivered more responsive, transparent government. We significantly increased free bulky item pickups for residents. We passed laws to protect our elections from dark money. And we restored civility to our council after years of turmoil and lawsuits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In District 1, I have worked to improve neighborhoods with street and traffic safety enhancements, and stronger penalties for illegal dumping."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "But together we can do even more, including streamlined city services, improving park playgrounds, smart infrastructure upgrades, and bringing new dining, retail, and entertainment options to our city. I am running to continue to serve as your voice as we build a brighter future for Cypress!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by current and former mayors, council members, school board members, community leaders, and our Orange County Professional Firefighters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please contact me at:\nwww.davidburkeforcypress.com\n562-746-5147\ndavid@davidburkeforcypress.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5041-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Anne Mallari",
+      "statement": {
+        "by": "Anne Mallari",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Non-Profit CEO"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former Mayor and City Council member, Non-Profit CEO, and proud 32-year Cypress resident, I have dedicated my career to serving our community through fiscal responsibility, collaboration, and practical problem-solving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Council member, I worked to keep Cypress one of the safest cities in Orange County, invested in our streets and infrastructure, supported local businesses, and ensured residents had a voice at City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, Cypress faces important decisions about the future of the racecourse property, economic development along Lincoln Avenue, funding for public safety, and protecting the quality of life that makes Cypress special. District 1 deserves leadership that respectfully listens, responds, builds consensus and serves the needs of the residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I chose to raise my family in Cypress because neighbors care for one another. That same spirit guides my work every day as I help local families remain safely housed and nourished, and it will continue to guide my service on the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will protect the character of our neighborhood as zoning decisions arrive, support our police and first responders, strengthen our local economy, and safeguard every taxpayer dollar."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote. To learn more, please visit anneforcypress.com."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5041-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

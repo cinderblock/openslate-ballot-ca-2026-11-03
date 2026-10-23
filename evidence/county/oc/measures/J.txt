@@ -1,0 +1,305 @@
+p1 City of Orange, City of Orange Hotel Guest Tax
+p1 Modification Measure
+p1 Shall the measure updating the City of Orange’s existing Transient Occupancy Tax, a tax on persons occupying hotel
+p1 rooms by increasing the tax rate from 10% to 14% for hotels with 11 or more rooms and applying the tax to online and
+p1 other travel companies, generating approximately $3,000,000 annually for general City purposes including police, fire
+p1 and emergency response, parks, and street and infrastructure maintenance, until ended by voters, be adopted?
+p1 What your vote means
+p1 YES
+p1 A “Yes” vote on Measure J authorizes the City to amend
+p1 the Transient Occupancy Tax by increasing the tax rate
+p1 from 10 percent to 14 percent for hotels with eleven (11)
+p1 or more accommodations, applying the tax online and
+p1 other travel companies, and updating the tax to apply to
+p1 the full amount charged to hotel guests, as provided in
+p1 the ordinance.
+p1 For and against
+p1 FOR
+p1 Dan Slater
+p1 Mayor of Orange
+p1 Sean deMetropolis
+p1 Orange City Firefighters
+p1 Tom Kisela
+p1 Orange Police Chief (ret.)
+p1 Garrett Smith
+p1 Orange City Treasurer
+p1 NO
+p1 A “No” vote on Measure J does not authorize those
+p1 changes to the City’s Transient Occupancy Tax.
+p1 AGAINST
+p1 No argument against this measure was submitted.
+p2 Full Text of Measure J
+p2 City of Orange
+p2 [PROPOSED] ORDINANCE NO. 09-26
+p2 AN ORDINANCE OF THE PEOPLE OF THE CITY OF ORANGE AMENDING CHAPTER 5.16 OF THE ORANGE
+p2 MUNICIPAL CODE TO UPDATE THE UNIFORM TRANSIENT OCCUPANCY TAX INCLUDING INCREASING THE
+p2 TRANSIENT OCCUPANCY TAX PERCENTAGE
+p2 WHEREAS, the City of Orange wishes to amend and update Chapter 5.16 of the Orange Municipal Code as it relates to the City’s Uniform
+p2 Transient Occupancy Tax including increasing the Transient Occupancy Tax to be imposed from 10% to 14% as specified.
+p2 NOW, THEREFORE, THE PEOPLE OF THE CITY OF ORANGE DO HEREBY ORDAIN AS FOLLOWS:
+p2 SECTION I:
+p2 Chapter 5.16 of the Orange Municipal Code is hereby amended in its entirety to read as follows:
+p2 5.16.000. Title
+p2 The ordinance codified in this chapter shall be known as the Transient Occupancy Tax Ordinance of the City of Orange.
+p2 5.16.010 Administrative Regulations
+p2 Unless specifically provided for in the Orange Municipal Code, the City Manager or their designee may adopt reasonable administrative regulations to
+p2 further define processes and administration of this Chapter.
+p2 5.16.020. Definitions
+p2 For purposes of this chapter, the following words, terms, phrases, and the derivations and variants thereof, shall have the meanings given herein:
+p2 “Accommodation(s)” means any room or other space in a hotel used for lodging or sleeping purposes, as well as other items or services provided to
+p2 a transient as part of or accompanying the room or space upon which rent is charged pursuant to this chapter.
+p2 “Accommodations Intermediary” means any person, corporation, entity, trust or partnership (other than an accommodations supplier) that directly
+p2 or indirectly (i) facilitates the rental and/or facilitates payment processing of accommodation(s) in a hotel, and (ii) charges, collects or receives rent
+p2 in connection with such rental, which may include, without limitation, a facilitation fee. “Accommodations intermediary” includes, without limitation,
+p2 a travel or booking agent, a room seller or reseller, an on-line room seller or reseller, and an on-line travel agent or company of any type or nature
+p2 whatsoever, but does not include employees of an accommodations intermediary or accommodations supplier.
+p2 “Accommodations Supplier” means any person, corporation, entity, trust or partnership which operates or provides accommodations in a hotel,
+p2 whether in the capacity of owner, proprietor, lessee, sublessee, managing agent, mortgagee in possession, debtor in possession, licensee or any other
+p2 capacity, other than as an employee of an accommodations intermediary or accommodations supplier. “Accommodations supplier” does not mean an
+p2 accommodations intermediary.
+p2 “Orange” or “City” means the City of Orange.
+p2 “Discount Room Charge” means the total consideration charged by an accommodations supplier to an accommodations intermediary, or an affiliate
+p2 thereof, for furnishing accommodation(s) in a hotel.
+p2 “Facilitation Fee”means the total consideration charged by an accommodations intermediary to a transient for accommodation(s), minus the discount
+p2 room charge, if any, provided that the facilitation fee shall not be less than $0.
+p2 “Fiscal Year” means the period commencing July 1 of one calendar year through June 30 of the immediately subsequent calendar year.
+p2 “Occupancy” means the use or possession, or the right to the use or possession, of any room or rooms or other living space, or portion thereof, in any
+p2 hotel for dwelling, lodging or sleeping purposes.
+p2 “Hotel”means any structure or portion thereof, which is occupied by persons for lodging or sleeping purposes for periods of less than thirty consecutive
+p2 days including, without limitation, any hotel, bachelor hotel, motel, lodging house, rooming house, bed and breakfast inn, short-term rental, apartment
+p2 house, dormitory, vacation ownership resort, public or private club, mobilehome or house trailer at a fixed location, or other similar structure or portion
+p2 thereof, and any space, lot, area or site in any trailer court, camp, park, or lot which is occupied or intended or designed for occupancy by a tent, trailer,
+p2 recreational vehicle, mobilehome, motorhome, or other similar conveyance, where such structure, space, lot, area or site is occupied by persons for
+p2 lodging or sleeping purposes for periods of less than thirty consecutive days.
+p2 “Operator” means an accommodations supplier or accommodations intermediary. For purposes of the notice and appeal provisions of this chapter
+p2 only, “operator” shall also include any managing employee or employee of an accommodations supplier or accommodations intermediary.
+p2 “Qualifying Rental Agreement” means and is limited to a written contract signed by both the landlord and tenant, legally enforceable by either party,
+p2 for a rental period of not less than thirty consecutive days. “Qualifying Rental Agreement” shall expressly exclude: (1) any agreement regardless of
+p2 length of the rental term which is terminated for any reason by either party or by mutual consent prior to the thirtieth consecutive day of the tenancy,
+p2 or (2) any agreement regardless of the length of the rental term which is for occupancy of lodging or sleeping space which is not the legal residence or
+p2 principal dwelling place of the occupant, or (3) any agreement which would be unlawful or constitute a violation of law.
+p2 “Rent” means the total consideration charged by an operator for accommodation(s) in a hotel, without any deduction therefrom whatsoever, including
+p2 without limitation the discount room charge and/or facilitation fee, if any, as well as any (1) transaction fees, service fees, booking fees, processing
+p2 fees, retail markups, commissions, cancellation fees, California Tourism Marketing Assessments, unrefunded advance reservation or other rental
+p3 deposits, (2) separate charges levied for items or services which are part of or accompany such accommodations including, but not limited to, charges
+p3 for overnight parking, furniture, fixtures, appliances, linens, towels, spa or fitness center usage or access, resort usage or access (commonly referred
+p3 to as resort or destination fees), internet access, housekeeping or room cleaning, pet occupancy or pet-related cleaning, additional guests/transients,
+p3 and/or partial days or early or late arrival or departure, (3) consideration or value received by an operator from an award or reward program, including
+p3 the redemption of award/reward points, incentives or bonuses, or (4) charges reasonably attributable to any of the foregoing taxable items that are
+p3 part of a special package that includes accommodation(s).
+p3 “Special Package and Special Package Rate” means room accommodations and beverage services or room accommodations and at least one other
+p3 benefit having an ascertainable fair market value offered for one fixed charge.
+p3 “Short-term Rental” means a residential dwelling or a portion thereof that is rented by an operator to another person or group of persons for
+p3 occupancy, dwelling, lodging or sleeping purposes for a period of less than thirty (30) consecutive calendar days. For purposes of this definition,
+p3 residential dwelling means a building, or portion thereof, designed exclusively for residential purposes, including single-family and multiple-family
+p3 dwellings.
+p3 “Tax” means the amounts imposed pursuant to Section 5.16.030 of this chapter.
+p3 “Tax Administrator” means the City Manager or their designee.
+p3 “Transient” means any person who exercises occupancy, or is entitled to occupancy, of any room, space, lot, area or site in any hotel by reason of
+p3 concession, permit, right of access, license or other agreement whether written or oral. Any such person shall be deemed to be a transient until the
+p3 thirtieth consecutive day (counting partial days as full days) of such occupancy or right of occupancy, and the tax imposed by this Chapter shall be due
+p3 upon all rent collected or accruing prior to said thirtieth consecutive day unless the occupancy is pursuant to a Qualifying Rental Agreement.
+p3 5.16.030. Tax Imposed
+p3 For the privilege of occupancy of space in any hotel with 11 accommodations or more, each transient is subject to and shall pay a tax in the amount
+p3 of 14% of the rent.
+p3 For the privilege of occupancy of space in any hotel with 10 accommodations or fewer, each transient is subject to and shall pay a tax in the amount
+p3 of 10% of the rent.
+p3 Accommodations intermediaries and accommodations suppliers shall be jointly and severally liable for collection and remittance of taxes imposed by
+p3 this Chapter.
+p3 5.16.040. Exemptions.
+p3 No tax shall be imposed upon any person as to whom, or any occupancy as to which, it is beyond the power of Orange to impose the tax.
+p3 5.16.050. Operator’s Duties.
+p3 Each operator shall collect the tax imposed by this chapter to the same extent and at the same time as the rent is collected from every other transient.
+p3 The amount of tax shall be separately stated from the amount of the rent charged, and each transient shall receive a receipt for payment from the
+p3 operator. No operator of a hotel shall advertise or state in any manner, whether directly or indirectly, that the tax or any part thereof will be assumed
+p3 or absorbed by the operator, or that it will not be added to the rent, or that, if added, any part will be refunded except in the manner provided in this
+p3 chapter.
+p3 5.16.060. Registration.
+p3 Within 30 days after the effective date of the ordinance codified in this chapter, or within 30 days after commencing business, whichever is later,
+p3 each operator of any hotel renting occupancy to transients shall register the hotel with the Tax Administrator and obtain from him or her a “Transient
+p3 Occupancy Registration Certificate” to be at all times posted in a conspicuous place on the premises. Said certificate shall, among other things, state
+p3 the following:
+p3 A.
+p3 The name of the operator;
+p3 B.
+p3 The address of the hotel;
+p3 C.
+p3 The date upon which the certificate was issued;
+p3 D.
+p3 “This Transient Occupancy Registration Certificate signifies that the person named on the face hereof has fulfilled the requirements of the
+p3 Transient Occupancy Tax Ordinance by registering with the Tax Administrator for the purpose of collecting from transients the Transient
+p3 Occupancy Tax and remitting said tax to the Tax Administrator. This certificate does not authorize any person to conduct any unlawful business
+p3 or to conduct any lawful business in any unlawful manner, nor to operate a hotel without strictly complying with all local applicable laws,
+p3 including but not limited to, those requiring a permit from any board, commission, department or office of this City. This certificate does not
+p3 constitute a permit.”
+p3 5.16.070 Reporting and Remitting.
+p3 Each operator shall, on or before the last day of the month following the close of each calendar quarter, or at the close of any shorter reporting period
+p3 which may be established by the Tax Administrator, make a return to the Tax Administrator, on forms provided by them, of the total rents charged and
+p3 received and the amount of tax collected for transient occupancies. At the time the return is filed, the full amount of the tax collected shall be remitted
+p3 to the Tax Administrator. The Tax Administrator may establish shorter reporting periods for any certificate holder if they deem it necessary in order
+p3 to insure collection of the tax, and they may require further information in the return. Returns and payments are due immediately upon cessation of
+p3 business for any reason. All taxes collected by operators pursuant to this chapter shall be held in trust for the account of the City until payment thereof
+p3 is made to the Tax Administrator.
+p4 5.16.080. Penalties and Interest.
+p4 A.
+p4 Original Delinquency. Any operator who fails to remit any tax imposed by this chapter within the time required shall pay a penalty of 10% of the
+p4 amount of the tax in addition to the amount of the tax.
+p4 Continued Delinquency. Any operator who fails to remit any delinquent remittance on or before a period of 30 days following the date on which
+p4 B.
+p4 the remittance first became delinquent shall pay a second delinquency penalty of 10% of the amount of the tax in addition to the amount of
+p4 the tax and the 10% penalty first imposed.
+p4 C.
+p4 Fraud. If the Tax Administrator determines that the nonpayment of any remittance due under this chapter is due to fraud, a penalty of 25% of
+p4 the amount of the tax shall be added thereto in addition to the penalties stated in subsections A and B of this section.
+p4 D.
+p4 Interest. In addition to the penalties imposed, any operator who fails to remit any tax imposed by this chapter shall pay interest at the rate of
+p4 one-half of one percent per month or fraction thereof on the amount of the tax, exclusive of penalties, from the date on which the remittance
+p4 first became delinquent, until paid.
+p4 E.
+p4 Penalties Merged with Tax. Every penalty imposed and such interest as accrues under the provisions of this section shall become a part of the
+p4 tax herein required to be paid.
+p4 5.16.090. Failure to Collect and Report Tax—Determination of Tax by Tax Administrator.
+p4 If any operator fails or refuses to collect the tax and to make, within the time provided in this chapter, any report and remittance of the tax or any portion
+p4 thereof required by this chapter, the Tax Administrator shall proceed in such manner as he or she may deem best to obtain facts and information on
+p4 which to base his or her estimate of the tax due. As soon as the Tax Administrator shall procure such facts and information as he or she is able to obtain
+p4 upon which to base the assessment of any tax imposed by this chapter and payable by any operator who has failed or refused to collect the same and
+p4 to make such report and remittance, he or she shall proceed to determine and assess against such operator the tax, interest and penalties provided
+p4 for by this chapter. In case such determination is made, the Tax Administrator shall give a notice of the amount so assessed by serving it personally
+p4 or by depositing it in the United States mail, postage prepaid, addressed to the operator so assessed at his or her last known place of address. Such
+p4 operator may within 10 days after the serving or mailing of such notice make application in writing to the Tax Administrator for a hearing on the amount
+p4 assessed. If application by the operator for a hearing is not made within the time prescribed, the tax, interest and penalties, if any, determined by the
+p4 Tax Administrator shall become final and conclusive and immediately due and payable. If such application is made, the Tax Administrator shall give
+p4 not less than five days’ written notice in the manner prescribed herein to the operator to show cause at a time and place fixed in the notice why the
+p4 amount specified therein should not be fixed for such tax, interest and penalties. At such hearing, the operator may appear and offer evidence why
+p4 such specified tax, interest and penalties should not be so fixed. After such hearing, the Tax Administrator shall determine the proper tax to be remitted
+p4 and shall thereafter give written notice to the person in the manner prescribed herein of such determination and the amount of such tax, interest and
+p4 penalties. The amount determined to be due shall be payable after 15 days unless an appeal is taken as provided in Section 5.16.100.
+p4 5.16.100. Appeal—Hearing.
+p4 Any operator aggrieved by any decision of the Tax Administrator with respect to the amount of such tax, interest and penalties, if any, may appeal to
+p4 the Council by filing a notice of appeal with the City Clerk within 15 days of the serving or mailing of the determination of tax due. The Council shall
+p4 fix a time and place for hearing such appeal, and the City Clerk shall give notice in writing to such operator, at his or her last known place of address.
+p4 The findings of the Council shall be final and conclusive and shall be served upon the appellant in the manner prescribed above for service of notice
+p4 of hearing. Any amount found to be due shall be immediately due and payable upon the service of notice.
+p4 5.16.110. Operator to Keep Records.
+p4 It shall be the duty of every operator liable for the collection and payment to the City of any tax imposed by this chapter to keep and preserve, for a
+p4 period of three years, all records as may be necessary to determine the amount of such tax as he or she may have been liable for the collection of and
+p4 payment to the City, which records the Tax Administrator shall have the right to inspect at all reasonable times.
+p4 5.16.120. Refunds.
+p4 A.
+p4 Whenever the amount of any tax, interest or penalty has been overpaid or paid more than once or has been erroneously or illegally collected or
+p4 received by the City under this chapter, it may be refunded as provided in subsections B and C of this section provided a claim in writing therefor,
+p4 stating under penalty of perjury the specific grounds upon which the claim is founded, is filed with the Tax Administrator within three years of
+p4 the day of payment. The claim shall be on forms furnished by the Tax Administrator.
+p4 B.
+p4 An operator may claim a refund or take as credit against taxes collected and remitted the amount overpaid, paid more than once or erroneously
+p4 or illegally collected or received when it is established in a manner prescribed by the Tax Administrator that the person from whom the tax
+p4 has been collected was not a transient; provided, however, that neither a refund nor a credit shall be allowed unless the amount of the tax so
+p4 collected has either been refunded to the transient or credited to rent subsequently payable by the transient to the operator.
+p4 C.
+p4 A transient may obtain a refund of taxes overpaid or paid more than once or erroneously or illegally collected or received by the City by filing a
+p4 claim in the manner provided in subsection A of this section, but only when the tax was paid by the transient directly to the Tax Administrator,
+p4 or when the transient having paid the tax to the operator, establishes to the satisfaction of the Tax Administrator that the transient has been
+p4 unable to obtain a refund from the operator who collected the tax.
+p4 D.
+p4 No refund shall be paid under the provisions of this section unless the claimant establishes his or her right thereto by written records showing
+p4 entitlement thereto.
+p4 5.16.130. Actions to Collect.
+p4 Any tax required to be paid by any transient under the provisions of this chapter shall be deemed a debt owed by the transient to the City. Any such tax
+p5 collected by an operator which has not been paid to the City shall be deemed a debt owed by the operator to the City. Any person owing money to the
+p5 City under the provisions of this chapter shall be liable to an action brought in the name of the City for the recovery of such amount.
+p5 5.16.140. Funds Deposited into Special Fund.
+p5 The tax collected by the City, imposed under Section 5.16.030, shall be deposited into the general fund. Funds expended for advertising and promotional
+p5 purposes shall be paid or transferred from the general fund.
+p5 SECTION II:
+p5 It is the intent of the people that the provisions of this Ordinance are severable and that if any section, subdivision, paragraph, sentence, clause
+p5 or phrase of this Ordinance is for any reason held to be invalid or unconstitutional, such decision shall not affect the validity of the remaining portions
+p5 of this Ordinance. The City Council hereby declares that it would have passed this Ordinance, and each section, subdivision, paragraph, sentence,
+p5 clause and phrase thereof, irrespective of the fact that any one (or more) section, subdivision, paragraph, sentence, clause or phrase had been declared
+p5 invalid or unconstitutional.
+p5 SECTION III:
+p5 The adoption of this Ordinance is exempt from the California Environmental Quality Act (CEQA), Public Resources Code section 21000 et seq.
+p5 and California Code of Regulations, title 14, section 15000 et seq. (CEQA Guidelines). The transient occupancy tax increase this Ordinance adopts is a
+p5 government funding mechanism that does not “involve any commitment to any specific project which may result in a potentially significant physical
+p5 impact on the environment,” and thus it is not a project under CEQA Guidelines section 15378(b)(4).
+p5 SECTION IV:
+p5 Pursuant to California Elections Code Section 9222, this ordinance shall take effect only if approved by a majority of the eligible voters of the
+p5 City of Orange voting at a General Municipal Election to be held on November 3, 2026. It shall be deemed adopted when the City Council has certified
+p5 the results of that election by resolution and shall take effect ten (10) days thereafter.
+p5 SECTION V:
+p5 The City Council is authorized to further amend the provisions of Chapter 5.16 adopted by this Ordinance without approval by the City’s voters,
+p5 unless such an amendment would increase any of the taxes imposed by this Ordinance pursuant to California Government Code Section 53750(h).
+p5 SECTION VI:
+p5 The Mayor and City Clerk are hereby authorized to attest to the adoption of this Ordinance by the People voting thereon on November 3, 2026,
+p5 by signing where indicated below.
+p5 Impartial Analysis
+p5 City of Orange
+p5 Measure J
+p5 The City Council of the City of Orange is submitting Measure J to the voters for consideration at the November 3, 2026 General Municipal Election. If
+p5 approved by a majority of the voters, Measure J would amend Chapter 5.16 of the Orange Municipal Code to update the City’s Transient Occupancy Tax
+p5 (“TOT”), commonly referred to as the hotel guest tax. The TOT is imposed on the occupancy of hotel accommodations and is paid by hotel guests rather
+p5 than by hotel operators. The ordinance would continue to require operators to collect and remit the tax to the City.
+p5 The measure would increase the TOT rate from 10 percent to 14 percent for hotels with eleven (11) or more accommodations. Hotels with ten (10) or
+p5 fewer accommodations would continue to be subject to the existing 10 percent tax rate.
+p5 The ordinance would also update the City’s TOT definitions and apply the tax to the full amount charged to guests for accommodations, including
+p5 amounts collected by accommodations intermediaries such as online travel or booking companies, as provided in the ordinance.
+p5 Revenue generated by the measure would continue to be deposited into the City’s General Fund and may be used for any lawful municipal purpose. The
+p5 ordinance does not dedicate revenues to any specific purpose or program. Revenues may be used for City services, including public safety, emergency
+p5 response, street and infrastructure maintenance, parks, libraries, and other municipal services.
+p5 The City estimates that the measure would generate approximately $3 million annually, although actual revenues will depend on hotel occupancy,
+p5 room rates, and related taxable charges.
+p5 A “Yes” vote on Measure J authorizes the City to amend the Transient Occupancy Tax by increasing the tax rate from 10 percent to 14 percent for
+p5 hotels with eleven (11) or more accommodations, applying the tax online and other travel companies, and updating the tax to apply to the full amount
+p5 charged to hotel guests, as provided in the ordinance.
+p5 A “No” vote on Measure J does not authorize those changes to the City’s Transient Occupancy Tax.
+p5 Nathalie Adourian
+p5 City Attorney
+p6 Argument in Favor of Measure J
+p6 REBUILD ORANGE: STRONGER FINANCES. SAFER NEIGHBORHOODS.
+p6 A BETTER FUTURE.
+p6 Measure J is a simple idea: hotel guests should pay their fair share of taxes
+p6 for City of Orange services because Orange residents should not bear the
+p6 entire cost of serving hotel guests.
+p6 Every day, visitors staying in Orange hotels rely on our police officers,
+p6 firefighters, streets, parks, and other public services. Measure J simply
+p6 asks visitors to contribute more toward the community they enjoy.
+p6 Our major neighbors – Anaheim, Garden Grove, Santa Ana, and Tustin –
+p6 all charge higher hotel taxes than we do. Even increasing to 14%, Orange
+p6 will remain competitive with neighboring cities that already charge equal
+p6 or higher hotel tax rates.
+p6 Orange’s hotel tax was last updated in 1993. Measure J modernizes
+p6 outdated tax rules and updates the tax for larger hotels. Measure J ensures
+p6 all hotel guests are treated equally: travelers shouldn’t be exempt
+p6 from hotel tax just for booking their rooms through online travel
+p6 companies, like Expedia and Priceline, simply because that technology
+p6 didn’t exist in 1993.
+p6 Vote Yes on Protect fast, reliable 911 emergency response
+p6 Measure J
+p6 Recruit and retain highly trained police officers,
+p6 to help:
+p6 firefighters, paramedics, and other essential employees
+p6 Repair aging streets, sidewalks, parks, playgrounds,
+p6 storm drains, and critical infrastructure
+p6 Keep neighborhoods, parks, and public spaces clean,
+p6 safe, and well maintained
+p6 Reduce homelessness and protect Orange's quality of life
+p6 Strengthen Orange's long-term financial future
+p6 Taxpayer money belongs to the people of Orange. Every dollar generated
+p6 by Measure J:
+p6 • Stays in Orange
+p6 • Supports local priorities
+p6 • Cannot be taken by Sacramento
+p6 Measure J will help Rebuild Orange: strengthening local services,
+p6 protecting our quality of life, and making Orange the best place in
+p6 California to raise a family.
+p6 Residents are investing in Orange’s future. It’s only fair that visitors help
+p6 support the community they enjoy.
+p6 Vote YES on Measure J.
+p6 s/ Dan Slater
+p6 Mayor of Orange
+p6 s/ Sean deMetropolis
+p6 Orange City Firefighters
+p6 s/ Tom Kisela
+p6 Orange Police Chief (ret.)
+p6 s/ Garrett Smith
+p6 Orange City Treasurer
+p6 No argument against this measure was submitted.

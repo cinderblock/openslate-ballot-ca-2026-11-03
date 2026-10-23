@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cypress City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/cypress",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:16Z",
+  "candidates": [
+    {
+      "choice": "Rachel Strong Carnahan",
+      "statement": {
+        "by": "Rachel Strong Carnahan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Appointed Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cypress isn’t just where I live-it’s home. I grew up in a very different Cypress, but while our city has grown, what makes it special hasn’t changed: strong families, opportunity, and community pride."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I attended local schools, played youth sports, and earned a degree in History and Business from Loyola Marymount. My career included consulting for a Fortune 5 financial firm and in education before I followed my passion and built a thriving dance studio. For 18 years, I’ve served Cypress families, led a dedicated team, managed a $1M + budget, and created an inclusive space for kids of all abilities—keeping people moving in the same direction, sometimes even on the beat."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve served on the Cypress Senior Commission and volunteered in classrooms for a decade. As your current City Councilmember, I’ve worked with police and fire to keep Cypress safe, coordinated emergency relief for District 5 during the chemical spill, and developed mental health resources for kids, seniors, and veterans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m focused on protecting local control, maintaining fiscal strength, and supporting smart, affordable housing solutions. I believe in investing in community space; great cities need places to gather, celebrate, and connect."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let’s keep Cypress safe, strong, and full of opportunity."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5045-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Randy Harper",
+      "statement": {
+        "by": "Randy Harper",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Emergency Manager/Firefighter"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Effective representation matters, especially on our City Council. For over 40 years, I served our communities as a firefighter, retiring as a Battalion Chief. Today I serve as an Emergency Manager for the County of Orange currently assigned to the Social Services Agency. My wife and I raised our family in District 5 for almost 30 years. We chose Cypress for simple reasons: great schools, safe streets, and a family-focused community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running because I understand how local government works and will stay Cypress focused guaranteeing that District 5 concerns are heard and addressed. I will ensure that our city returns to a financially frugal philosophy that placed us in the strong position we now enjoy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your councilman, I will make sure we build smartly, fighting major zoning changes that don't fit our neighborhoods. I will oppose plans to open Holder Street, disrupting our beloved walking path. I’ll work diligently on homeless concerns city wide, keeping our recreational areas safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When disaster hits, our best leaders rise. I've spent my career being ready for these moments: calm under pressure, focused on solutions, and always answering the call."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information, visit harperforcypress.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5045-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Orange Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:04Z",
+  "candidates": [
+    {
+      "choice": "Dan Slater",
+      "statement": {
+        "by": "Dan Slater",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Orange Mayor/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in Orange, graduating from OLu. I proudly own both my home and small business here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When you first elected me Mayor in 2022, I pledged to protect Orange taxpayers and bring common sense to city hall. Since then, I’ve poured my heart and soul into this responsibility: Orange is cleaner\nCrime down 28%\nHomelessness decreased\nIllegal street vendors eliminated\nGraffiti reduced\nTraffic flow improved\nTackling the proliferation of massage parlors and smoke shops\nAddressing poorly maintained vacant properties\n45 acres adjoining our “Central Park” (Santiago Creek) dedicated as permanent open space, with more on the way Attracting new businesses, bringing much needed sales tax revenue, helping to return Orange to financial stability"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We’ve done this even though our City budget has been reduced $37.5 million, and we’ve cut our workforce 10%."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My leadership has earned bipartisan support from our Orange City Firefighters, Congressmember Young Kim, Assemblymember Avelino Valencia, most of our City Council, and countless community leaders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will honor existing term limits: this will be the last time I seek any elected position in Orange."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let’s continue putting Orange back on a solid foundation. I respectfully request your vote for one last two-year term as Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "mayordanslater.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5181-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Arianna Barrios",
+      "statement": {
+        "by": "Arianna Barrios",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "City Councilmember, City of Orange"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Orange residents deserve leaders who will fight for them. Decades of fiscal instability and scant economic growth have sent Orange in the wrong direction. As Mayor, I want to change that."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need City government that works for everyone with new ideas, disciplined management, and strong fiscal controls to ensure our future. We need fundamental change that puts residents first and challenges the status quo."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a businessowner and recipient of Orange Chamber of Commerce’s Small Business of the Year award, I know how to balance a budget and prioritize the essentials such as Police, Fire, roads, water, sewers, and parks."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Councilmember, I’ve gotten things done:\nLowered the crime rate\nStrengthened code enforcement\nFought illegal smoke shops and massage parlors\nIntroduced strong fiscal policy"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "But we can do better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, I will:\nPrioritize City debt reduction\nStop deficit spending\nTackle homelessness with compassion and enforcement\nEnsure Chapman University pays their fair share"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My record has earned endorsements from trusted leaders: Orange County Supervisor Vincente Sarmiento, Orange City Councilmember Ana Gutierrez, former Orange Mayor Tita Smith, and Orange Unified School District Trustees Kris Erikson, Andrea Yamasaki, and Sara Pelly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, can we get Orange back on track."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Mayor.\nContact me at 714-202-7023 or info@VoteBarrios.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5181-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

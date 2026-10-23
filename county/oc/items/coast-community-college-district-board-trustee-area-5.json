@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Coast Community College District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:33Z",
+  "candidates": [
+    {
+      "choice": "Elizabeth Dorn Parker",
+      "statement": {
+        "by": "Elizabeth Dorn Parker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member Coast Community College District, Trustee Area 5"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The district has a stellar reputation as a leading community college district in the United States. The district’s finances are in the best shape in decades. All colleges were reaffirmed accreditation for their academic excellence. Orange Coast College was awarded an additional accommodation for its outstanding programs and leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The district has expanded associate degree pathways, career technical education and certificate programs. The colleges are now providing additional opportunities for career advancement, personal empowerment and transfer opportunities to our diverse student populations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am dedicated to keeping our district focused on student success, relying on our top-quality faculty, staff and administrators to move us forward in the new AI world.\nI will continue to engage with our community and business partners to facilitate student success and maintain our institutional effectiveness and continued fiscal stability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have deep roots in Newport/Costa Mesa communities. I was raised in the district, my sons attended Newport-Mesa schools, I volunteer as a commissioner with the city, and I have been in leadership and governance roles at the local, state, and national levels."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your elected governing board member, with your vote, I will continue the outstanding work and financial excellence on behalf of the students, the residents and taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ElizabethDornParker.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3046-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Xerxez Calilung",
+      "statement": {
+        "by": "Xerxez Calilung",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dentist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a long-time local resident, small business owner, and healthcare provider, I am dedicated to serving our community with integrity, leadership, and sound judgment. For over thirty years, I have operated a private practice, managing operations and supporting dedicated staff. My business and leadership experience gives me a practical understanding of fiscal responsibility, effective management, and the economic challenges facing our region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A vital priority for our community is addressing workforce issues. We must focus on educating local students and creating opportunities that encourage them to bring their skills back into Orange County jobs. Investing in workforce development and supporting local enterprise ensures our local economy remains vibrant, competitive, and sustainable for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In addition to my practice, I have served in leadership roles with local and state professional organizations, working collaboratively on regulatory standards and community representation. My goal is to bring a balanced, practical perspective to local governance, emphasizing transparent decision-making, responsible resource management, and strong community investment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully request your vote to serve our community and build a prosperous future together."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3046-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Habra City School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:47Z",
+  "candidates": [
+    {
+      "choice": "Bertha Manzanares",
+      "statement": {
+        "by": "Bertha Manzanares",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Social Services Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "La Habra has been my home for more than 22 years, where my husband and I proudly raised our two children. They are both graduates of the La Habra City School District and have become productive citizens in their communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I recently retired after 35 years of public service, including 25 years with the California Department of Social Services, where I served in leadership roles dedicated to protecting the health, safety, and well-being of children in both Los Angeles & Orange County. Throughout my career, I have partnered with families, educators, and community organizations to help children learn, grow, and thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your School Board Trustee, I will focus on three priorities:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strengthening academic excellence by ensuring every student builds a strong foundation in reading, writing, mathematics, and science"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Supporting parents by protecting their rights to be involved in their children's education and expanding educational opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Promoting transparency, accountability, and fiscal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring integrity, experience, and a commitment to putting students first, supporting our teachers, and preparing every child for lifelong success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Guided by Faith. Dedicated to Families. Committed to Students."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3324-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Adam Rogers",
+      "statement": {
+        "by": "Adam Rogers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, La Habra City School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Adam Rogers, an academic research director at USC, parent of two former La Habra students, and husband of a public school teacher. For eight years, I have been honored to serve on the La Habra City School Board, working to strengthen our schools and support students, families, teachers, and staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my service, I helped hire our superintendent, Dr. Carlos, supported policies that protect and welcome immigrant families, and worked collaboratively to help our educational community become stronger, more stable, and successful. I have advocated for responsible use of taxpayer dollars, high-quality programs, inclusive schools, and decisions focused on student achievement and well-being."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family has directly benefited from the dedicated personnel and programs at Washington Middle School, Sierra Vista, Ladera Palma, El Cerrito, Las Lomas, and KidZone. I have helped support programs, including the amazing International Baccalaureate programs at Imperial and Las Positas."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring 25 years of management and community service experience, a master’s degree from USC, and a bachelor’s degree from Cal State LA. I remain committed to excellence, innovation, transparency, and ensuring La Habra’s diverse students receive the opportunities and support they deserve. I would be honored to earn your vote for re-election."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3324-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Senate, District 30",
+    "kind": "race",
+    "jurisdiction": "us/ca/sd-30",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:28Z",
+  "candidates": [
+    {
+      "choice": "Bob J. Archuleta",
+      "statement": {
+        "by": "Bob J. Archuleta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "State Senator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Senator Bob Archuleta is a former Obama Presidential Appointee to the United States West Point Military Academy, an Army combat veteran and former paratrooper with the 82nd Airborne Division, who also served with the Montebello Police Department, and has valuable local governmental experience as the former Mayor and councilmember for the City of Pico Rivera."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Senator Archuleta has been able to successfully work across party lines to help secure more than $100 million in state funding for local infrastructure projects, including parks, libraries, transportation, water and public safety projects, while supporting education, veteran services, clean energy initiatives, and supporting our first responders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Senator Archuleta has been a strong fighter for veterans, seniors, working families, women, equal and fair rights for all; public safety, small businesses, while promoting economic growth, environmental responsibility and good-paying local jobs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Senator Archuleta believes the government should be accountable, responsive, and transparent to the public, while focusing on practical solutions that improve the quality of life for the residents and tax-payers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Senator Archuleta’s steadfast leadership and commitment to the public have earned him the trust of thousands of residents, community and regional leaders, organizations, and local law enforcement and first responder associations throughout the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Senator Archuleta respectfully asks for your vote and support so he can continue working to keep neighborhoods safe, strengthen the local economy, and protect the quality of life for all families across the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "SenatorArchuleta2026@gmail.com\nBob J. Archuleta"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1200-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

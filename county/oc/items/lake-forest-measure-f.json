@@ -1,0 +1,143 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lake Forest — Measure F (Lake Forest Election Reform and Voter Choice Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/lake-forest",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:45Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure limiting city council members to two consecutive terms in office with a mandatory four-year out of office period before being eligible to serve for another two consecutive terms in office, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ocvote.gov/sites/default/files/2026-09/F-LFOR%20-%20LAYOUT%20(1).pdf#page=1"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “Yes” vote on Measure F will approve the Measure and prohibit City Council Members or the Mayor from serving more than two four-year terms without a four more consecutive years break in service."
+          ]
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/F-LFOR%20-%20LAYOUT%20(1).pdf#page=1"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “No” vote on Measure F will not approve the Measure and will prohibit the City Council members or Mayor from serving more than two four-year terms."
+          ]
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/F-LFOR%20-%20LAYOUT%20(1).pdf#page=1"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Matthew E. Richardson, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Lake Forest Municipal Code Section 2.04.080 currently prohibits any person from serving as a Lake Forest City Council Member or Mayor for more than two four-year terms. The City’s current term limits have been in place since the passage of Measure S in 2018."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure F amends Section 2.04.080 to prohibit any person from serving more than two four-year terms on the Lake Forest City Council unless he or she does not hold office for four or more consecutive years immediately following the conclusion of each consecutive two terms of office. After the required four-year break, a person may again serve up to two four-year terms. Each full City Council term is four years. Measure F was placed on the ballot by the Lake Forest City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If Measure F is approved, the new four-year break between consecutive four-year terms would apply to all new or re-elected City Council Members beginning with the 2026 election. Adoption of Measure F would not increase the number of consecutive terms available to current City Council Members, as the current two term limit established by Section 2.04.080 of the Lake Forest Municipal Code will continue to apply. Once a City Council Member has served two full four-year terms on the City Council, the two-term limit will apply and he or she would no longer be eligible to serve on the City Council without a four or more consecutive years break in service. A “Yes” vote on Measure F will approve the Measure and prohibit City Council Members or the Mayor from serving more than two four-year terms without a four more consecutive years break in service."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “No” vote on Measure F will not approve the Measure and will prohibit the City Council members or Mayor from serving more than two four-year terms."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure F requires simple majority approval of the voters to pass."
+        ]
+      }
+    ],
+    "source": "https://ocvote.gov/sites/default/files/2026-09/F-LFOR%20-%20LAYOUT%20(1).pdf#page=2",
+    "disclaimer": "The above statement is an impartial analysis of Measure F. If you desire a copy of the measure, please call the elections official’s office at (949) 461-3423 and a copy will be mailed at no cost to you."
+  },
+  "arguments": [
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Measure F. Defend the EXISTING term limits."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In 2018, an overwhelming 83% of Lake Forest voters delivered a mandate: we passed a measure to establish strict lifetime term limits of two four-year terms for Lake Forest City Council Members."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Now, to cling to power and continue to get their City pay, Councilmembers Scott Voigts and Mark Tettemer, who are set to be termed out this year, have placed a deceptive new measure on the ballot. Their goal is to replace the existing term limits with the new Measure F. They’re trying to trick you by framing their new measure as “introducing” term limits."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Councilmembers Voigts and Tettemer have each already served a total of 16 years on the City Council: 8 Years before we had Term Limits and 8 years after Term Limits passed in 2018."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Their new measure, if passed, will replace the current term limits and allow them to serve two additional terms, take a break, and then come back for another two terms. If their new measure passes, these two politicians will end up controlling Lake Forest politics and its hundreds of millions of dollars for 32 out of 36 years. That isn’t a limit -- that’s a career, and, in their case, a lucrative one."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Defend the EXISTING true term limits. Vote NO on Measure F."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "James (Jim) Gardner",
+          "title": "Former Lake Forest Mayor and City Councilmember"
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/F-LFOR%20-%20LAYOUT%20(1).pdf#page=3"
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure F",
+      "source": "https://ocvote.gov/sites/default/files/2026-09/F-LFOR%20-%20LAYOUT%20(1).pdf",
+      "mediaType": "application/pdf",
+      "page": 2,
+      "sha256": "b209bcb819b8a14618a1924d29380827297863116a79adc3441b898dc65fd97c"
+    }
+  ]
+}

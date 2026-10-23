@@ -1,0 +1,40 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Silverado-Modjeska Recreation and Park District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:22Z",
+  "candidates": [
+    {
+      "choice": "Mark Levy",
+      "statement": {
+        "by": "Mark Levy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired Sheriff Lieutenant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I sat on the SMRPD Board for 10 years in the late 90’s and early 2,000’s. I am interested in returning to the board as a Director to help the district to secure a more dependable revenue source; so that the district can remain viable and continue to provide parks and recreation services to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/6081-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

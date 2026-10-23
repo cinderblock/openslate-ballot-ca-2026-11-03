@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Palma City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/la-palma",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:42Z",
+  "candidates": [
+    {
+      "choice": "Jonathan Dinwiddie",
+      "statement": {
+        "by": "Jonathan Dinwiddie",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "La Palma has been a part of me for my entire life, and I humbly ask for your support as I strive to give back to the community that has given me so much opportunity. From attending Luther Elementary, Walker Jr. High, and Kennedy to now supporting my community by volunteering and wanting to do more, I love this city and call it home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "La Palma is a beautifully diverse city filled with culture, strong family values, and a sense of pride that can only be found in such a quaint city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your next City Council Member, I commit to each and every one of you that I will strive to sustain your quality of life, support our local small businesses, ensure our community remains one of the safest communities in America, and keep our city government efficient and transparent!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5144-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mary Paningsoro",
+      "statement": {
+        "by": "Mary Paningsoro",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a proud La Palma resident of 32 years. My husband Michael and I have 3 children, Cody, Cheyenne, and Dillon. All were educated here in La Palma schools. Supporting the youth of La Palma has been volunteer role for over 25 years. I have held leadership roles during 16 years of being involved in the Parent Teacher Student Organization and Parent Teacher Association. I served as a Board Member for 8 years on the John F. Kennedy Scholarship Foundation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve also been committed to serving our city. My dedication to public service includes 6 years on the La Palma Pageant Committee and presently a Community Activities & Beautification Committee Member for 4 years. I’ve supported community traditions such as the La Palma Parade, The Festival of Nations, Concert’s in the Park and many others. These experiences have strengthened my commitment to want to give back and help future generations thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On City Council I would strive to maintain infrastructure, safeguard our city’s fiscal health assuring our taxpayers money is spent wisely and fight to keep our city and schools safe! As a longtime resident, parent, volunteer and community advocate, I’d be honored to continue serving the residents of La Palma as a La Palma City Council Member."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5144-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

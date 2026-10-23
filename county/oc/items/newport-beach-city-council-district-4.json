@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Newport Beach City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/newport-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:02Z",
+  "candidates": [
+    {
+      "choice": "Robyn Grant",
+      "statement": {
+        "by": "Robyn Grant",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Newport Beach Council Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leading starts with listening. It has been an honor to serve on the Newport Beach City Council since 2022. For four years I have remained transparent and responsive. The best solutions come from working together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience as an attorney and business owner, along with almost 20 years of community service including on the City Finance Committee, Civil Service Board, Library Board, and Arts Commission, has prepared me to serve on the City Council with integrity, sound judgment, and a commitment to results, not politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety is my highest priority. I have supported game changing policing policies like drones as first responders and canine units, worked on a small City Council committee which accomplished a 90% reduction in homelessness, and spearheaded a resident funded initiative establishing the Newport Beach Animal Shelter."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I prioritize maintaining a balanced City budget with annual surpluses and a AAA credit rating, protecting our parks, harbor, and beaches, and guaranteeing reliable drinking and firefighting water capabilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Looking ahead, I will continue to fiercely advocate for transparent government, responsible fiscal stewardship, and protecting our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to receive your vote for re-election so that, together, we continue building a Newport Beach that is safe, financially strong, and an exceptional place to live."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5174-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

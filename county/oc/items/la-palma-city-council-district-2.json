@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Palma City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/la-palma",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:41Z",
+  "candidates": [
+    {
+      "choice": "Andrew Kim",
+      "statement": {
+        "by": "Andrew Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Public Safety Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service has been the focus of my career. I have served our community for more than 14 years with the La Palma Police Department, including over five years as a La Palma Police Officer. Today, I serve as a local government manager for a nearby city and have experience working with communities throughout Orange, Riverside, and Los Angeles Counties."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My grandparents and father immigrated from Korea with very little and chose La Palma to build a life, opening the city's first Korean market. Growing up in La Palma and attending its schools, I am proud to call this community home. I also earned a Ph.D. in Public Administration, researching strategies to improve public sector employee recruitment and retention."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a husband and father raising my young family in La Palma, I am committed to preserving the safe neighborhoods, strong sense of community, and quality of life that make our city special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will provide honest, accountable, and responsive leadership. My priorities include public safety, supporting local businesses, enhancing parks and neighborhoods, responsible fiscal stewardship, and preserving La Palma's small-town character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote. AndrewKimForLaPalma.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5142-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nitesh Patel",
+      "statement": {
+        "by": "Nitesh Patel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Council Member, City of La Palma"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been a privilege and an honor to serve and represent you on the La Palma City Council for the past eight years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been fortunate to call La Palma my home for nearly 25 years. My wife and I have raised our two daughters, who are products of La Palma schools. I’ve also believed in giving back to our community by volunteering with the La Palma Community Foundation, sponsoring scholarships for graduating seniors at Kennedy High, and providing meals to our elderly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for reelection for the City Council because I want to continue to help our City by:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Advocating for the La Palma Police Department to continue keeping our families safe,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Being a voice for our residents to deliver on the needs of our community,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Model responsible fiscal stewardship,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And maintaining La Palma’s status as one of the best places to live by investing in our infrastructure and afterschool recreation programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have always done what is best for La Palma. We’ve made tremendous progress, and I am optimistic about the future of La Palma. With your support, I look forward to continuing to give back and serve you and our City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ourlapalma.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5142-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

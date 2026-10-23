@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Buena Park City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/buena-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:09Z",
+  "candidates": [
+    {
+      "choice": "Carlos Franco",
+      "statement": {
+        "by": "Carlos Franco",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Buena Park Councilmember/Businessowner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Buena Park is more than where we live—it's our home. It shaped who I am, and serving our community has been the greatest honor of my life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I've worked to bring people together while delivering meaningful results. I helped champion Coyote Park, transforming underused land into a unique gathering place where families can connect and children can play. I have hosted community town halls, strengthened partnerships with local schools, nonprofits, and businesses, and expanded youth leadership opportunities through the Buena Park High School Interact Club because investing in young people is investing in Buena Park's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe leadership begins with listening. Whether advocating for responsible spending, improving neighborhood infrastructure, supporting local businesses, or helping residents navigate City Hall, my focus has always been practical solutions that strengthen our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is still important work ahead. Together, we can build safer neighborhoods, a stronger local economy, preserve Buena Park's unique character, and create opportunities for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote for re-election and continue serving with integrity, transparency, and building community through service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "votecarlosfranco.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5024-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Yong Choi",
+      "statement": {
+        "by": "Yong Choi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Construction Businessowner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For many years, Buena Park has been my home. I have proudly served our community as a small business owner, Taekwondo Grandmaster, pastor, former Planning Commissioner, nonprofit leader, and volunteer. My life has been guided by faith, hard work, integrity, and a commitment to serving others."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council because every family deserves safe neighborhoods, clean parks and streets, responsible financial leadership, and a city government that listens, responds, and delivers results. As an immigrant who achieved the American Dream through perseverance and determination, I understand the challenges facing working families, seniors, and small businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are strengthening public safety, supporting our police officers and first responders, helping local businesses grow, maintaining clean neighborhoods, addressing homelessness responsibly, protecting taxpayers, improving city services, and ensuring every public dollar is spent wisely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe effective leadership means bringing people together, listening respectfully, and making decisions based on what is best for Buena Park. I will work to earn your trust through honesty, accountability, and practical leadership while always putting Buena Park residents first. I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Yong \"Chuy\" Choi\nCandidate for Buena Park City Council – District 2"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5024-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

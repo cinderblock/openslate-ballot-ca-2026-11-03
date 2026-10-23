@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Westminster City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/westminster",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:25Z",
+  "candidates": [
+    {
+      "choice": "Amy Phan West",
+      "statement": {
+        "by": "Amy Phan West",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Councilwoman/Businessowner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am not a career politician. I am a wife, mother, and small business owner. I am a survivor of the Communist regime in Vietnam. My father served alongside the United States military in our common fight to preserve freedom. We made our home in Orange County over four decades ago. We love America and the values this nation’s Founding Fathers embraced—family, faith, and freedom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago I promised to fight for our city, focus on safety, balance budgets, and support small businesses. As your councilmember I delivered: fully funded police and fire, advanced west-side revitalization, and worked with state and local agencies to address homelessness while keeping the focus on neighborhood safety and local businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the next four years I will continue fighting for stronger public safety, further west-side revitalization, expanded homelessness solutions, relief from crushing regulations, and protecting residents from rising costs to keep Westminster affordable for families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Blessed to live the American dream, I remain determined to pay it forward so our children have a brighter future. I humbly ask for your vote to keep giving the west side of Westminster a strong voice at City Hall."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5272-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David Johnson",
+      "statement": {
+        "by": "David Johnson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Westminster School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will focus on restoring civility and transparency at City Hall, supporting our city staff, growing revenue without raising taxes and fees, reducing blight, improving safety, improve ethics, and bringing great restaurants and stores to Area 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As President of the Westminster School District Board, I led the restoration of professionalism, improved accountability, hired an award-winning superintendent, and led the development of the district's first long-term strategic plan. As an Eagle Scout myself, I am bringing Scouting to every WSD school. Today, Westminster is recognized for strong leadership, academic progress, and known as the safest school district in Orange County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also founded the Westminster Homeless Task Force, establishing the city's Navigation Center while supporting practical solutions to reduce crime and vagrancy; but we need to do much more. I led the Adopt-A-Park program and advocated for a fully accessible park for residents with disabilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have proudly called Westminster home for more than 20 years, where my wife Holly and I raised our two children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a management consultant, former Vice Chancellor, and I have a proven record of bringing people together, solving problems, and delivering results. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5272-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

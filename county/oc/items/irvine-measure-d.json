@@ -1,0 +1,774 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Irvine — Measure D (Measure Directing the Use of Ranked Choice Voting for City Council Member and Mayoral Elections after January 1, 2028)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/irvine",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:44Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall a measure that directs, to the extent technically and financially feasible, the use of ranked choice voting for City Council Member and Mayoral Elections occurring after January 1, 2028, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=1"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “Yes” vote is in favor of adopting the measure and transitioning to RCV elections after January 1, 2028, if the specified technical and financial conditions are met."
+          ]
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=1"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “No” vote is against adopting the measure."
+          ]
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=1"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Jeffrey Melching, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The City Council of the City of Irvine has placed a measure before the voters that would amend the Irvine Municipal Code to use ranked choice voting (RCV) for City Council member and mayoral elections after January 1, 2028, if certain technical and financial conditions are satisfied."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City of Irvine (City) currently uses a plurality voting system for City Council member and mayoral elections. Under that system, voters vote for only one candidate and the person receiving the most votes wins the election even if they do not receive a majority of the votes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "In RCV elections, voters rank their choices in order of preference, such as first, second, third, and so on. If no candidate wins a majority of first-place votes, the candidate with the fewest votes is eliminated, and ballots ranking that candidate are transferred to the next-ranked continuing candidate. This process repeats until one candidate secures a majority of the votes counted in that round."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Under the proposed measure, the City would transition to RCV after January 1, 2028, once all of the following conditions are satisfied:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "The available voting equipment can feasibly accommodate RCV;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Transitioning to RCV will not prevent the consolidation of City elections with elections conducted by the County of Orange; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "The additional cost for an RCV election is not more than 0.23% of the City’s general fund budget for the fiscal year during which the proposed RCV election would be held (RCV Cost Cap). For reference, 0.23% of the City’s fiscal year 2026-2027 general fund budget of approximately $312.1 million is approximately $717,790. However, the actual RCV Cost Cap would be calculated using the general fund budget for the fiscal year in which the proposed RCV election would be held. When the above conditions are met and the City transitions to RCV, the City will continue to conduct elections by RCV at every City Council member and mayoral election unless the voters choose another voting system. The proposed measure requires that RCV ballots allow the ranking of a minimum of five candidates, that write-in candidates be permitted, and that voters receive specific instructions regarding RCV. The proposed measure also establishes procedures for tabulating votes, resolving ties, resolving voting mistakes (e.g., skipping a ranking, or giving the same ranking to more than one candidate), conducting a manual vote tally, and providing reports for public review. The proposed measure authorizes the City Clerk to change those procedures if (1) the voting equipment will not feasibly accommodate the voting procedures, or (2) the Secretary of State changes its current RCV guidelines and adopts new guidelines that can be accommodated by the voting equipment."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "A “Yes” vote is in favor of adopting the measure and transitioning to RCV elections after January 1, 2028, if the specified technical and"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "financial conditions are met."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "A “No” vote is against adopting the measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If a majority of voters vote “Yes,” then this measure will take effect ten (10) days after election results are declared by the City Council."
+        ]
+      }
+    ],
+    "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=5",
+    "disclaimer": "The above statement is an impartial analysis of the measure. If you would like to read the full text of the proposed measure, you may find it on the City’s website at cityofirvine.gov/election, or call the City Clerk at (949) 724-6205 and a copy will be sent at no cost to you."
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure D to Bring Fairer Elections to Irvine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Shouldn’t “majority rule” govern our elections? Yet in Irvine, candidates are regularly elected with less than one-third of the vote. Which means two-thirds of voters are represented by someone they don’t want. That is NOT real democracy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Ranked Choice Voting (RCV) guarantees"
+              ]
+            },
+            " that Irvine residents elect officeholders who",
+            {
+              "strong": [
+                " win majority support"
+              ]
+            },
+            ". And it’s cost-effective. THIS is what",
+            {
+              "em": [
+                " real"
+              ]
+            },
+            " democracy looks like."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Why Irvine Needs Measure D:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Guarantees Majority Support:"
+                    ]
+                  },
+                  " RCV acts as an “instant runoff.” Voters rank their favorite candidates in order of preference: 1, 2, 3, and so on. If no candidate receives over 50% of first-choice rankings, the last-place candidate is eliminated, and their votes transfer to each voter’s second choice. This continues until a candidate wins a majority."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "More Choice, More Voice:"
+                    ]
+                  },
+                  " Never again will you have to vote for the “lesser evil.” RCV allows you to vote for your favorite candidate first, knowing your vote will still count toward your backup choice if your first choice loses."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Rewards Positive, Solution-Focused Campaigns:"
+                    ]
+                  },
+                  " Because candidates often need second and third choice rankings to win, negative campaigning backfires. Instead, RCV incentivizes positive, issue-oriented campaigns that unite rather than divide the community."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Protects Taxpayers:"
+                    ]
+                  },
+                  " This measure ensures fiscal accountability with a strict safeguard: RCV will only be implemented if the cost is below 0.23% of the city’s budget. This responsibly modernizes our democracy while protecting your tax dollars."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Irvine deserves a democracy where the majority rules, candidates focus on solutions rather than negative attacks, and voters don’t have to settle for the “lesser evil.” Measure D delivers exactly that. Join dozens of cities in California and across the US using RCV.",
+            {
+              "strong": [
+                " More choice and a stronger"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "voice!"
+              ]
+            },
+            {
+              "strong": [
+                " Vote YES on D."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Learn more at",
+            {
+              "strong": [
+                " VoterChoiceIrvine.org"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Kathleen Treseder",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=6"
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "THE “SPENDING CAP” IS A SHAM."
+              ]
+            },
+            " The number moves around — it’s a percentage of the city’s massive general fund, and could eventually rise to $1.5 million, $2 million or more. We don’t know. We’re just guesstimating. And the only cost estimates come from the group pushing you to vote yes. Irvine can’t afford that kind of surprise: the city faces a $6 million deficit this year and a $47 million shortfall ahead."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "NO OTHER CITY IN ORANGE COUNTY USES THIS TODAY."
+              ]
+            },
+            " The Orange County Registrar admits in writing that it has no certified system for implementing ranked-choice voting — that’s why no infrastructure exists, and Irvine would bear the massive startup costs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "NOT BROKEN. NOT NEEDED."
+              ]
+            },
+            "Irvine has never held a runoff election. This “fix” solves a problem we don’t have."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "“DOZENS OF CITIES”? LOOK WHAT HAPPENED THERE."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Implementation problems have surfaced across the country — including in Oakland, one of the flagship cities RCV advocates point to as proof it works. In 2022, a misconfigured algorithm led Alameda County to certify the wrong winner in an Oakland school board race. The certified winner was declared the loser weeks later, once the error was corrected. New York’s 2021 mayoral primary saw the same kind of chaos, when 135,000 test ballots were mistakenly counted."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Our elections work now. Implementing this will be very"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "expensive. And it has had some serious problems in some places"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "where it has been tried."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE NO on Measure D."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "s/James Mai\nVice Mayor"
+          ]
+        }
+      ],
+      "signers": [],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=6"
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Irvine is facing a serious budget crisis. The city is projecting a structural deficit that could reach",
+            {
+              "strong": [
+                " $47 MILLION BY 2030."
+              ]
+            },
+            " Leaders are already cutting services, raiding reserve funds, and debating new fees on residents just to keep basic city operations running. Some council members are already talking about a tax increase to plug the gap."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A council majority put this experiment on the ballot with no idea what it will cost."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "NO ONE KNOWS WHAT THIS WILL COST."
+              ]
+            },
+            " The Orange County Registrar of Voters has confirmed he does not have a state-certified system capable of running a ranked-choice election. He cannot say what it would cost or how long. The city’s estimates came not from the Registrar — but from ranked-choice voting advocacy groups. Those estimates already top $750,000 — before voter education, before county system upgrades, before anything goes wrong."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "OUR ELECTIONS AREN’T BROKEN."
+              ]
+            },
+            " Cities that adopted ranked-choice voting did so to eliminate expensive runoff elections.",
+            {
+              "strong": [
+                " IRVINE DOES NOT"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "HOLD RUNOFF ELECTIONS."
+              ]
+            },
+            " We don’t have the problem this is supposed to solve."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "NO OTHER CITY IN ORANGE COUNTY DOES THIS."
+              ]
+            },
+            " Not one. Every first-adopter cost falls on Irvine taxpayers — at the worst possible moment. RCV is banned in 19 states. Why?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "RESULTS COULD BE DELAYED FOR WEEKS."
+              ]
+            },
+            " Ranked-choice voting adds multiple elimination rounds after ballots are counted. Irvine voters could wait weeks to learn who won their own city council race."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "AND THE CANDIDATE WITH THE MOST VOTES CAN STILL LOSE"
+              ]
+            },
+            " — after later rounds reshuffle the outcome. That is not more democracy. That is more confusion."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "When your city is talking about raising taxes to close a",
+            {
+              "strong": [
+                " $47 MILLION"
+              ]
+            },
+            " budget hole, this is not the time for a costly experiment nobody asked for."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE NO ON CHANGING TO RANKED CHOICE VOTING."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "James Mai",
+          "title": "Vice Mayor"
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=7"
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don’t be misled by false claims and misinformation"
+              ]
+            },
+            ". Why would Ranked Choice Voting (RCV) be",
+            {
+              "em": [
+                " used by 17 million voters"
+              ]
+            },
+            " in cities across California and the US if it was so expensive to implement? RCV will give Irvine voters",
+            {
+              "strong": [
+                " more choice, stronger local representation"
+              ]
+            },
+            ", and",
+            {
+              "strong": [
+                " true"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "majority rule"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure D because:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Exaggerated Cost Claims:"
+                    ]
+                  },
+                  " Implementation costs are minimal — no other city adopting Ranked Choice Voting has spent that much money."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Strict Cost Limits:"
+                    ]
+                  },
+                  " Measure D includes a",
+                  {
+                    "strong": [
+                      " hard spending limit"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "of 0.23% of the city budget, fully protecting taxpayers."
+                    ]
+                  },
+                  " RCV will",
+                  {
+                    "strong": [
+                      " only"
+                    ]
+                  },
+                  " be used if the cost is less than 0.23% of the budget…",
+                  {
+                    "em": [
+                      "It’s"
+                    ]
+                  },
+                  " ",
+                  {
+                    "em": [
+                      "that simple"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Sensible Timeline:"
+                    ]
+                  },
+                  " Implementation is scheduled after January 1, 2028, giving election officials",
+                  {
+                    "em": [
+                      " ample time"
+                    ]
+                  },
+                  " to certify equipment and conduct thorough voter education."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Majority Should Rule:"
+                    ]
+                  },
+                  " In Irvine, unpopular candidates can win with just a small fraction of the vote. RCV solves this problem."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "With RCV, candidates need to earn over 50% popular support"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "to win"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Instantaneous Results:"
+                    ]
+                  },
+                  " RCV will not cause additional delays; once ballots are collected, the voting equipment",
+                  {
+                    "em": [
+                      " counts in an"
+                    ]
+                  },
+                  " ",
+                  {
+                    "em": [
+                      "eyeblink"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Simple as 1-2-3:"
+                    ]
+                  },
+                  " Just rank your favorite candidates in order of preference. If your top choice is eliminated, your vote automatically counts for your next choice, making sure",
+                  {
+                    "strong": [
+                      " your vote"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "is never wasted"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Ranked Choice Voting will support a stronger, more representative local government and put power back in the hands of Irvine voters, where it belongs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE YES on Measure D."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Learn more at",
+            {
+              "strong": [
+                " VoterChoiceIrvine.org"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Kathleen Treseder",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf#page=7"
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure D",
+      "source": "https://ocvote.gov/sites/default/files/2026-09/D-IRVI%20-%20LAYOUT%20(2).pdf",
+      "mediaType": "application/pdf",
+      "page": 2,
+      "sha256": "1d0151d897b25db8914ba12611aeeaa90d9531f28237cdebbef52cde74f3264a"
+    }
+  ]
+}

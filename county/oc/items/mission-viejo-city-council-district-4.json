@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mission Viejo City Council, District 4 (Short Term)",
+    "kind": "race",
+    "jurisdiction": "us/ca/mission-viejo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:59Z",
+  "candidates": [
+    {
+      "choice": "Laura Lacko",
+      "statement": {
+        "by": "Laura Lacko",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mission Viejo is a special community because people care about their neighborhoods and are willing to show up to protect what makes our city work. As a community volunteer, I have seen what can be accomplished when residents listen to one another, work together, and put the community first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council to bring fresh eyes and a fresh perspective to City Hall. I will listen to residents and make sure community voices are heard before important decisions are made—not after.\nNeighborhoods matter. I will work to protect public safety, maintain our streets, parks, and infrastructure, support seniors who want to remain independent in the community they love, and ensure City Hall stays focused on the reliable services residents expect."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also believe taxpayers deserve responsible budgeting, clear priorities, and straightforward information about how public dollars are spent. Residents should not have to repeatedly follow up to get answers or have basic problems addressed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leadership is about more than attending meetings. It means being accessible, doing the work, following through, and showing up for the people you represent.\nI would be honored to earn your vote for Mission Viejo City Council, District 4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lackoformv.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5164-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "James Morrison",
+      "statement": {
+        "by": "James Morrison",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Human Resources Professional"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Preserving our roots. Living the mission. Preparing for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mission Viejo has always been more than a place to live, it is a community built on strong neighborhoods and families who care deeply for our city. As your candidate for City Council, I am committed to preserving the values that have made Mission Viejo one of the best places to call home while ensuring we are prepared for the opportunities and challenges of tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a husband, father, Army veteran, executive HR leader, and community volunteer, I have spent my career bringing people together, solving complex problems, and making thoughtful decisions that put people first. I believe local government works best when it listens before it leads, remains fiscally responsible, and delivers practical results for residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear: keep our neighborhoods safe, protect taxpayer dollars, maintain our parks, roads, and public spaces, and prepare Mission Viejo for the future through smart technology, economic resilience, emergency preparedness, and efficient city services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because I believe we can honor Mission Viejo's proud legacy while embracing thoughtful innovation that benefits every generation. Together, we can preserve what makes Mission Viejo special, live the mission that inspired our city, and confidently prepare for the future."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5164-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

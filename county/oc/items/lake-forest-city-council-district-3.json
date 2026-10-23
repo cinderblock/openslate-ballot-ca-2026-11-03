@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lake Forest City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/lake-forest",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:53Z",
+  "candidates": [
+    {
+      "choice": "Tom Grable",
+      "statement": {
+        "by": "Tom Grable",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Planning Commissioner/Businessowner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 27 years, Lake Forest has been the place my family proudly calls home. As a current Lake Forest Planning Commissioner, business leader and community volunteer, I want to help keep Lake Forest the kind of city we're proud to pass on to the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my 40-year career, I've brought people together to solve difficult problems, managed large budgets responsibly, and made thoughtful decisions that delivered successful results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Councilmember, I'll lead to keep our neighborhoods safe, repair and maintain our roads and parks, support our local businesses so they can thrive, and make sure our city spends wisely, lives within its means, and saves for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll listen to residents, treat everyone with respect, and make decisions based on what's best for Lake Forest—not politics or special interests."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My goal is simple: protect what makes our city special while planning carefully for the future. I respectfully ask for your vote and the opportunity to serve our community with integrity, experience and common-sense leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Tom Grable\nTomGrable4CityCouncil.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5137-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Anil D. Patel",
+      "statement": {
+        "by": "Anil D. Patel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Project Manager/Businessowner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past 18 years, Lake Forest has been my family's home, and I’m running for City Council because I believe in giving back to the community that has given us so much. My wife, Alka, and I have raised our two children here, operated a small business in our city, and have been actively involved in serving our neighbors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve on the City’s Traffic and Parking Commission, and as a Board Member of my homeowners association, where I work collaboratively with neighbors to address community concerns. I have also completed the City’s Civic Academy, and volunteer as a CERT member, a Volunteer in Parks participant, and as an Assistant Scoutmaster for a local troop."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I bring nearly 30 years of experience helping public agencies manage budgets, improve infrastructure, and deliver cost-effective solutions. I hold a degree in Building Engineering and an MBA from UCLA, combining technical expertise with sound financial management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will focus on keeping Lake Forest safe, protecting our neighborhoods, supporting local businesses, and ensuring taxpayer dollars are spent wisely. I will listen to residents, make thoughtful decisions, and always put our community first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and consideration."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5137-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

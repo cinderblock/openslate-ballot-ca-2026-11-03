@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rancho Santiago Community College District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:15Z",
+  "candidates": [
+    {
+      "choice": "John Hanna",
+      "statement": {
+        "by": "John Hanna",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Rancho Santiago Community College District, Trustee Area 2"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am John R. Hanna, and it has been an honor to serve you and our community as the Trustee for Area 2 of the Rancho Santiago Community College District. My wife, Cynthia, and our seven children have lived in Santa Ana and Orange for 37 years. I am a long-time parishioner at Holy Family Church in Orange and have volunteered thousands of hours with local youth sports and community organizations. Professionally, I have served as General Counsel for two California agencies and handled government affairs for the 12-state Western States Carpenters before my retirement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I have worked to maintain balanced budgets while building strong partnerships with local businesses. Santa Ana and Santiago Canyon colleges continue to have strong enrollment because of our dedicated educators and employees and our outstanding Career Technical Education and Apprenticeship programs, many of which allow our students to earn while they learn."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our District contributes $2.4 billion to the Orange County economy, while providing students with affordable pathways to universities and good-paying careers. I remain committed to fiscal responsibility, accountability and addressing challenges legally, responsibly, and transparently."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3051-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Garden Grove Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/garden-grove",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:22Z",
+  "candidates": [
+    {
+      "choice": "Stephanie Klopfenstein",
+      "statement": {
+        "by": "Stephanie Klopfenstein",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Garden Grove Mayor/Mom"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m one of five generations born and raised in Garden Grove. My husband and I are raising our daughter here: she’s a Garden Grove Unified School District student, just like I was. I actively volunteer in our community: Garden Grove Community Foundation, Boys & Girls Club, Children’s Hospital of Orange County, Garden Grove Neighborhood Association, and Downtown Business Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since becoming Mayor in 2024, I’ve moved Garden Grove forward: Rapid 911 response times\nFire Station 84 upgrades, new state of the art Police Station Neighborhood park security program\nLittle Saigon Business Community District promoting cultural tourism and local businesses\nFirst time homebuyer down payment assistance up to $110,000 Promote pet adoption at animal shelter\nNew playground equipment (Jardin de los Ninos Park, Haster Basin Park), restrooms (Westhaven Park)\nWoodbury Park expansion: pool, skatepark, walking trail Historic Main Street beautification\nMajor investments in repairing streets, sidewalks, and curbs Graffiti prevention/removal\nInstall/upgrade neighborhood safety lighting\nCommunity Passport program with Supervisor Janet Nguyen and Clerk-Recorder Hugh Nguyen\nReduced deficit by $61 million, improving Garden Grove’s fiscal ranking among Orange County cities by 6 places Streamline code enforcement"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you re-elect me as Mayor, I’ll continue fighting for all Garden Grove residents: ensure our police and firefighters have what they need to keep our neighborhoods safe, address homelessness with both services and enforcement, and ensure fiscal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please join the Orange County Professional Firefighters, Garden Grove Police Association, and Garden Grove Police Management Association in supporting my re-election. stephanie4gg.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5081-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Thu-Ha Nguyen",
+      "statement": {
+        "by": "Thu-Ha Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Cancer Scientist/Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thu-Ha Nguyen for Mayor of Garden Grove"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Former City Councilmember & Mayor Pro Tem - Cancer Scientist -Community Leader - Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Garden Grove is more than my hometown—it is where my family found freedom, opportunity, and the chance to build a better life. Today, I want every family to have the opportunity to live in a safe, affordable, and thriving community. As a Vietnamese refugee, I learned that resilience, hard work, and service can overcome any challenge. Those values continue to guide my commitment to our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 25 years, I have worked as a Clinical Scientist and educator, advancing genetic testing and cancer diagnostics to improve lives. As your former Councilmember and Mayor Pro Tem, I strengthened public safety, invested in parks and neighborhoods, supported local businesses, protected taxpayers, and expanded resources for seniors, families, and mental health services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My vision is to make Garden Grove the Gem of Orange County—a safer, stronger, more affordable, and more united city where businesses thrive, neighborhoods flourish, and every resident has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a Garden Grove every generation is proud to call home."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5081-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Serrano Water District Board, Division 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:21Z",
+  "candidates": [
+    {
+      "choice": "Patrick O'Hara",
+      "statement": {
+        "by": "Patrick O'Hara",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "College Vice President"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a lifelong Villa Park resident. I know our community because I’ve lived it. I want to serve with the people who call this place home first in mind."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Patrick O'Hara\nVP, CMO\nCNI College"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/6064-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

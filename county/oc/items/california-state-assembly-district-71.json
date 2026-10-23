@@ -1,0 +1,168 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 71",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-71",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:27Z",
+  "candidates": [
+    {
+      "choice": "Kate Sanchez",
+      "statement": {
+        "by": "Kate Sanchez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "California State Assemblywoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud to have served as your State Assemblywoman for the past three years — and of all we’ve accomplished."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "California families and business owners are paying more, feeling less safe, and growing weary of progressive Sacramento politicians moving further out of touch with the real world. That’s why we need a strong, proven, conservative leader that will stand firm and deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have successfully authored legislation to improve your safety and quality of life, including bills to: make sex trafficking a serious felony, make any AI-generated child pornography a felony, and to ensure crime victims are notified before the criminal who harmed them is considered for parole."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a bold leader bringing conservative common-sense solutions to California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Assemblywoman, I’ll continue to support policies that: prohibit spraying dangerous pesticides in our neighborhoods, oppose illegal immigration, lower taxes, reduce the high cost of living, increase wildfire preparedness and availability of affordable homeowner insurance; eliminate fraud and wasteful government spending, and prohibit the early release of felons."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m honored to have earned an “A” rating from the Howard Jarvis Taxpayers Association. I’ve never voted to raise your taxes (and never will) - and I’ll always defend Proposition 13."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a mother, I’ll protect parental rights and fight to keep males out of female sports and private spaces."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud to be endorsed by the California Republican Party and respected law enforcement leaders, including Sheriff Don Barnes and Sheriff Chad Bianco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote and continued support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.SanchezForAssembly.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1350-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "JJ Galvez",
+      "statement": {
+        "by": "JJ Galvez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Appointed Director, Silverado-Modjeska"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "AGE: 35"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Recreation and Park District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You deserve a government that works."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Housing, insurance, food, childcare, gas, and electricity outpace wages. I see it in South Orange County, and my family feels it too."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm an immigrant who came here on a student visa, paid my way through college, and proudly became a US citizen to pursue the American Dream—the promise that hard work builds a good life. But the cost of living is putting that dream out of reach for too many."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My career is in business—not government—13 years building tech companies and meeting payroll. I serve as unpaid Treasurer of the Silverado-Modjeska Recreation and Park District, where I balanced our budget after a 30% cut while preserving core services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Sacramento, I will work to lower costs for building, insuring, and fire-hardening homes, bring down rents so our youth can afford to live where they grew up, make AI data centers (not families) pay for their energy demands, win our share of road funding, strengthen schools and public safety, and back entrepreneurs and small businesses that create jobs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I accept no corporate PAC money. My votes will serve you, not private interests. I pledge to be an independent, data-driven, solutions-focused decision maker."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running to give back and represent you and your family. You're my boss. I keep time open for constituents at www.JJGalvez.com/meeting"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let's stop the chaos of division. I am grateful to be endorsed by Democrats and Republicans. I will fight for you whether or not you vote for me."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1350-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

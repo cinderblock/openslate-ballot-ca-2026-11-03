@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Irvine Unified School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:45Z",
+  "candidates": [
+    {
+      "choice": "Katie McEwen",
+      "statement": {
+        "by": "Katie McEwen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Irvine Unified School District, Trustee Area 2"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Irvine Unified School District Board Member, I am proud to have spent the past four years working to keep IUSD among California’s highest-performing school districts while supporting the success and well-being of every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my service, including a year as Board President, I helped lead the search and hiring of our Superintendent, strengthened student mental health supports, expanded career and technical education opportunities, and advocated for fair school funding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities:\nFully fund Irvine schools;\nSupport student academic excellence and mental health services;\nAttract and retain outstanding teachers, administrators and classified employees; and\nMaintain safe and supportive schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a 22-year Irvine resident, Stanford graduate, credentialed teacher, substitute teacher, PTA leader, and parent of three Irvine public school graduates, I bring valuable firsthand experience to the Board. As the parent of a child who received special education services in IUSD, I understand the importance of ensuring every student has the support needed to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to be endorsed by current and former IUSD Trustees: Lauren Brooks\nCyril Yu\nJeff Kim\nConnie Stone\nSharon Wallin (Ret.)\nPaul Bakota (Ret.)\nand by the Irvine Teachers Association (ITA)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3132-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ron Scolesdang",
+      "statement": {
+        "by": "Ron Scolesdang",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Businessowner/Youth Coach"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a father, youth coach, Irvine Public Works & Sustainability Commissioner, business owner, and nonprofit leader, I have dedicated more than 20 years to serving young people and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Irvine Unified School District Board because every student deserves a safe learning environment, academic excellence, and opportunities to succeed in school and in life. I will advocate for strong core academics, greater parent engagement, responsible fiscal stewardship, and transparent decision-making."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe schools should prepare students not only for college, but also for careers and life by supporting financial literacy, career exploration, leadership, and practical life skills. Every taxpayer dollar should be spent wisely, prioritizing classrooms, teachers, and student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work collaboratively with parents, educators, and the community to preserve IUSD's tradition of excellence while ensuring every decision puts students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can continue building schools that prepare the next generation with the knowledge, character, and confidence to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Respectfully submitted,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ron Scolesdang"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3132-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

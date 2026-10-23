@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 73",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-73",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:24Z",
+  "candidates": [
+    {
+      "choice": "Cottie Petrie-Norris",
+      "statement": {
+        "by": "Cottie Petrie-Norris",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "California State Assemblymember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "AGE: 50"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is my honor to represent Costa Mesa, Irvine, and Tustin in the State Assembly. As your representative, I’ve done my best to listen to the residents of our district and work with leaders of both parties to find commonsense solutions to the problems facing California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the State Assembly, I’m fighting to:\nLower utility costs and ensure a stable power grid. Encourage innovation and entrepreneurship to create jobs. Build housing and lower barriers to home ownership. Keep neighborhoods safe and ensure fast 911 response times. Reduce homelessness with a focus on mental health. Responsibly manage our state budget and prevent tax increases."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My leadership has been recognized with awards from a number of organizations, including CalAsian Chamber of Commerce, Orange County United Way, Orange County Taxpayers Association, Planned Parenthood Affiliates of California, and Sierra Club California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Prior to my election to the State Assembly, I had a 20-year career in finance and technology. I helped build businesses and lead teams at Fortune 500 corporations, small companies, and start-ups. I’m a graduate of Yale University, where I double majored in Economics and English. My husband, Colin, and I are the proud parents of two sons and a rescue dog."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My campaign has been endorsed by local firefighters, teachers, police officers, nurses, and small business owners."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you have any questions, or ideas you would like to share, please don’t hesitate to contact me at Info@VoteCottie.com. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cottie Petrie-Norris\nwww.Cottie.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1370-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

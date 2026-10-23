@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mission Viejo City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/mission-viejo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:58Z",
+  "candidates": [
+    {
+      "choice": "Cynthia Vasquez",
+      "statement": {
+        "by": "Cynthia Vasquez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mission Viejo City Council Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As long-time residents, my family and I are proud to call Mission Viejo home. I’m honored to serve on the City Council and seek re-election."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my term, I've used my business and MBA background to put residents first by protecting taxpayer dollars, improving transparency, and making thoughtful decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I put our community first by:\nSupporting improvements to Sierra Recreation Center and Napoli Park\nWorking to keep taxpayer dollars from subsidizing private organizations\nAdvocating for thorough research before approving multimillion-dollar projects\nSponsoring a much-needed refuge lane at Marguerite/Sierra Expanding community events without taxpayer dollars Providing residents with better access to information about City decisions\nEncouraging safety and traffic improvements from Oso to Avery Parkways"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When re-elected, I'll continue to:\nRequire thorough review before major projects move forward\nProtect tax dollars through diligent oversight, ensuring wise spending\nKeep Oso Creek Golf Course self-sustaining\nSupport seniors, working families and individuals, local businesses, and public safety\nAdvocate for our City Library"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mission Viejo deserves transparent, accountable leadership focused on residents. I will continue working to keep Mission Viejo safe, financially responsible, and thriving. Let’s move forward together. Re-Elect Cynthia Vasquez to District 3!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "https://cynthiavasquez.com FB|IG:@cvasquez4mvcc"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5163-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bryan Zahn",
+      "statement": {
+        "by": "Bryan Zahn",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired City of Mission Viejo Supervisor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mission Viejo has been my home since I was 8 years old. As a single parent, I raised three children here, who graduated from our public schools in Mission Viejo, just like I did."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a supervisor, I delivered for Mission Viejo:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Remodeled Matt Davis Park, Crucero Park, Vista del Lago Park, M.M. O’Neil Park, Pavion Park\nWorked with Orange County Fire Authority on fire retardant material, weed abatement, and brush removal\nRegularly coordinated after hours emergency response efforts with Orange County Sheriff’s Department, Orange County Fire Authority, and water districts\nEnsured balanced multimillion dollar budgets\nHelped plan/coordinate Mission Viejo’s Veterans Day, Memorial Day, and 4th of July events, along with Pacific Symphony on the Village Green\nWorked with Julie Foudy Soccer Camp, public schools, and over 300 Eagle Scouts on sports fields, parks, and open spaces"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m passionate about my hometown of Mission Viejo. I’m active in the Mission Viejo Elks Club. I served on the Viejo Little League Board. I was named City of Mission Viejo Employee of the Year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you elect me as your Councilmember, I will:\nEnsure strong funding for our public safety\nStrengthen wildfire preparedness\nFund school resource officers and crossing guards\nHelp small businesses by reducing bureaucratic red tape\nEnhance parks, trails, and open spaces"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve earned endorsements for Council from:\nMission Viejo Mayor Wendy Bucknum and Councilmembers Brian\nGoodell, Trish Kelley, Bob Ruesch\nFormer Mission Viejo Mayors Robert Breton, Dave Leckness"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote Bryan Zahn for City Council. zahnforcitycouncil.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5163-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

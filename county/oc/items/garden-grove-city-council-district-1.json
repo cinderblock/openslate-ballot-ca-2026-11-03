@@ -1,0 +1,144 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Garden Grove City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/garden-grove",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:24Z",
+  "candidates": [
+    {
+      "choice": "Roger Flanders",
+      "statement": {
+        "by": "Roger Flanders",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Court Investigator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve lived in West Garden Grove my entire life, or at least since my parents brought me here as a baby. As small business owners, my parents taught me the value of hard work and commitment. I graduated from Pacifica High School and UC Irvine. My wife and I chose to raise our family here because we know West Garden Grove is a special place, and our children graduated from the Garden Grove Unified School District, just like I did."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I dedicated my career to protecting our city:\nGarden Grove Police Officer for 30 years\nTerrorism Liaison\nDrug Abuse Resistance Education (DARE)\nFounding officer, Special Resource Team for homeless and mentally ill people\nI’m passionate about giving back to our community. I’ve served as: Garden Grove Planning Commissioner\nGarden Grove Traffic Commissioner\nGarden Grove Neighborhood Improvement & Conservation\nCommissioner\nPresident, Pacifica High School Boosters\nCoach, Youth Baseball and Soccer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to Garden Grove has never changed, and I will continue serving with integrity and dedication."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to be endorsed by Garden Grove Mayor Stephanie Klopfenstein, Mayor Pro Tem George Brietigam, and Orange County Supervisor Janet Nguyen."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will:\nPut residents first\nPrioritize public safety to keep our neighborhoods safe\nSupport our local businesses\nProtect our special West Garden Grove quality of life\nAddress homelessness with both services and enforcement"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully request your vote for City Council."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5084-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Long Tran Nguyen",
+      "statement": {
+        "by": "Long Tran Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Urgent Care Doctor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud to call Garden Grove my hometown and West Grove my neighborhood, where my family set roots."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in Garden Grove and attended GGUSD schools from elementary through high school. Since attending medical school and completing my residency, I’ve strived to improve the quality of life for each of my patients."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My career as an urgent care doctor is based on listening to my patients and seeking solutions before symptoms worsen. Like in medicine, I believe taking a preventative approach towards our city’s issues, like our aging infrastructure and homelessness, can help prepare us for the problems of tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your District 1 representative, I will continue supporting our local economy and work to revitalize the business community in key areas like the Valley View corridor and attract more investment in the City of Garden Grove."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together with the City Council, I will work to ensure our families feel safe in their neighborhoods, our budget stays balanced, and policy decisions are fiscally responsible."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Like any parent, I want my children to grow up in a neighborhood that is safe, clean, and spacious."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join me to ensure District 1 remains a place we are proud to call home!"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5084-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "William Zylla",
+      "statement": {
+        "by": "William Zylla",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired Emergency Technician"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your consideration to represent Garden Grove City Council District 1. A resident since 2001, I bring a unique combination of healthcare experience and local government expertise to serve our community. My background includes 11 years with UCLA Health as a Clinical Care Partner and Emergency Trauma Technician, and 16 years in city government managing vital public safety, neighborhood preservation, and emergency management services. I hold a Bachelor’s Degree from UC Irvine and have completed graduate coursework in Public Administration and Conflict Resolution. If elected, my top priorities for District 1 are supporting our first responders to keep our neighborhood safe, strengthening emergency preparedness to build a resilient community, enhancing neighborhood preservation, ensuring fiscal responsibility, and boosting local business growth and supporting existing businesses. I will also hold GKN and others strictly accountable to protect our residents and mitigate future impacts. Let’s keep Garden Grove a great place to live, learn, work, and play!"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5084-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

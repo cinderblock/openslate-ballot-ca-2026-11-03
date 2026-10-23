@@ -1,0 +1,158 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Newport Beach City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/newport-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:00Z",
+  "candidates": [
+    {
+      "choice": "Joe Stapleton",
+      "statement": {
+        "by": "Joe Stapleton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Newport Beach Councilmember/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, Newport Beach's Police Officers, Firefighters, and Lifeguards, Sheriff Don Barnes, and Mayors spanning three decades endorsed me. Today, they support me again because my focus hasn't changed. It's about Keeping Newport, Newport."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since you elected me, we have:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fully funded public safety, launched a real-time crime center, deployed American-made first-responder drones, and earned our Fire Department's Class 1 rating, held by just 1% of departments nationwide."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cut unsheltered homelessness more than 90% since 2022, a record low, with tougher anti-camping laws and dedicated social services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Passed tougher e-bike rules and expanded Peninsula patrols."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Renewed our Harbor: the largest dredging in decades now underway, the West Coast's first Trash Interceptor, and the nation's first all-electric public patrol vessel."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Secured water independence. 100% local groundwater by 2028."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Delivered consistent budget surpluses, protected our AAA credit rating, and put $45 million each year toward pension debt."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After four years, promises made have become promises kept. That's a lot, as it should be. Newport Beach deserves nothing less."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "What's next? Finishing the Peninsula's new fire station and library, retiring our pension debt for good, and defending our 40-year airport curfew."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m asking for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "StapletonForNewport.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5171-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Tina Babajanians",
+      "statement": {
+        "by": "Tina Babajanians",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When City Hall stops listening, you can keep complaining or put your name on the ballot. So here I am."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a master’s degree in Speech-Language Pathology and spent 15 years as a clinician, helping people find their voice. That work taught me that being heard is a two-way street and too many Newport residents no longer feel heard by City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I never expected to own a restaurant, either. I entered the industry without a roadmap and learned to build a business, lead a team, and solve problems in real time."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Then came Spring Break and the Fourth of July and the toll they took on our neighborhoods and sense of safety. Once again, I faced a choice: stay on the sidelines or become part of the solution."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leaders make hard choices, accept responsibility, and remain present when things get uncomfortable. That’s what I’ll bring to the Newport Beach City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll protect public safety, preserve our quality of life, and ensure City Hall listens to the people it serves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m ready to listen, lead, and work for you. Let’s get to work, Newport!"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5171-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

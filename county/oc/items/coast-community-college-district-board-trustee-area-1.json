@@ -1,0 +1,138 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Coast Community College District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:31Z",
+  "candidates": [
+    {
+      "choice": "Austin Edsell",
+      "statement": {
+        "by": "Austin Edsell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Educator/Finance Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud Coast Community College District alumnus, I know firsthand how our colleges transform lives. For more than 20 years, this community has been my home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an educator, I prepare students for the future. As a Huntington Beach Finance Commissioner, I promote fiscal responsibility, accountability, and transparency. I have also hosted Career Fairs and Children's Resource Fairs connecting students, families, and job seekers with valuable opportunities and resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Expand career education, technical training, and workforce partnerships while supporting traditional four-year university pathways, ensuring every student has a roadmap to success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strengthen campus safety by working with law enforcement and first responders to improve emergency planning, preparedness, and response times."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Keep education affordable through responsible budgeting, long-term financial planning, and transparency so taxpayer dollars directly support students and classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Demand measurable improvements in graduation, university transfer, and employment rates so every program delivers results and opportunities for students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by Orange County Supervisor Janet Nguyen, Assemblymember Diane Dixon, State Senator Tony Strickland, Huntington Beach Mayor Casey McKeon, Seal Beach Mayor Lisa Landau, Garden Grove Mayor Stephanie Klopfenstein, and Orange County Board of Education Trustee Mari Barke."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3042-4.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Joe Kalmick",
+      "statement": {
+        "by": "Joe Kalmick",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "City of Seal Beach City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As I complete my 8 years of service as a Councilmember for the City of Seal Beach, and as a board member for various agencies in Orange County, I still have the desire to continue in public service. I believe that the Coast Colleges Board of Trustees would be a great fit for the skills that I have developed. Working with my Council colleagues, we have produced a multiyear balanced budget, and our financial position remains strong. And as Vice Chair of the Orange County Fire Authority, I have had experience managing a $600M budget. In addition, working closely with Staff and the various labor groups, negotiations have yielded satisfactory results for all concerned. Therefore, I am confident that I can be a positive influence on the Board of Trustees in maintaining positive communications between faculty, staff and the Chancellor’s Office."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe that education is the cornerstone of a strong society. The Community College system provides a quality education for virtually everyone. The Coast Community Colleges are a shining example of the benefits that they provide."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have a B.A. in Psychology from UCLA and owned a small business in Seal Beach for 40 years. I am now retired."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3042-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ashton Kauwe",
+      "statement": {
+        "by": "Ashton Kauwe",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Office Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Ashton Kauwe, and I am running to be a Coast Community College District Trustee because as a graduate of Golden West College, I believe that our community colleges can be more than just a stepping stone to other institutions. I want to expand the District’s technical and trade offerings so that our community colleges can be the hub to train and certify the next generation of welders, electricians, and other trade workers that will be needed as our world continues to change and reshoring is prioritized. There are currently hundreds of thousands of job openings for the trades that can result in six-figure salaries with a little time and work, but there are not enough people to fill them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe that the District can be at the forefront of training the next generation of high-paying trade workers. We need to expand our offerings and work with our high schools to show students the opportunities before them. I still believe it is important for the District to be able to help advance students who are looking to move on to higher education, but I also believe we have the opportunity to become so much more."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3042-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

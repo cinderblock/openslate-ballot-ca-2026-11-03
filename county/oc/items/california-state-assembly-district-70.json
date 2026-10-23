@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 70",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-70",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:26Z",
+  "candidates": [
+    {
+      "choice": "Tri Ta",
+      "statement": {
+        "by": "Tri Ta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "California Assemblyman/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My American Dream began when my family immigrated from Saigon in search of freedom. The adjustment wasn’t easy, but through hard work, I became the first in my family to graduate from college."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2012, I was honored to become the first Vietnamese-American elected mayor. As Mayor, I focused on the basics—public safety, fixing roads, and improving quality of life—and delivered real results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, I ran for Assembly to help more families achieve a middle-class life, prioritize public safety, and give back to the country that gave me so much."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Assemblyman, I have passed legislation to strengthen public safety and push back against pro-criminal policies coming out of Sacramento. When insurance companies wrongly denied care to autistic children, I authored tough legislation and overcame a Governor’s veto to protect families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have consistently stood up for taxpayers and opposed tax increases. California is already the highest-taxed state, and family budgets are stretched thin. I also authored legislation to rein in rising utility costs, fought corruption, and secured $1 million in new park funding for our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have lived in this district for over 20 years, and my wife and I are proud to have raised our daughters here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by the Howard Jarvis Taxpayers Association Pac, California Association of Highway Patrolmen, California Professional Firefighters, and California Women’s Leadership Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.tritaforassembly.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1340-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Paula Swift",
+      "statement": {
+        "by": "Paula Swift",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m Dr. Paula Swift, and I’m running for Assembly because Orange County families deserve a representative who understands what it means to stretch a paycheck, navigate a broken healthcare system, and worry about whether the next generation can afford to stay in the community they grew up in."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I know what resources our communities need, and I know what is at stake when Sacramento gets it wrong."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I put myself through school while raising my family. I earned my bachelor's degree from Azusa Pacific University and a Master’s and Doctorate in Leadership from the University of Southern California. After surviving a tragic act of domestic violence, I've dedicated my work to protecting those overlooked by a government meant to protect them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today I own a small business, have taught at a local college, and spent over two decades serving Southern California families, supporting children in foster care and fighting to improve access to mental health care and educational opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Assemblymember, I will fight to make healthcare more accessible and affordable. I will push for housing solutions that offer pathways to homeownership. I will work to expand opportunities for our students, protect our seniors’ retirement security, and increase support for the small businesses that give our communities their character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need leadership focused on lowering the cost of living and bringing accountability to our State Capitol. I have the life experience to deliver it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A future shaped by opportunity, not circumstance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote. Learn more: votepaulaswift.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1340-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

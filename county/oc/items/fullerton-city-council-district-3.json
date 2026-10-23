@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fullerton City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/fullerton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:20Z",
+  "candidates": [
+    {
+      "choice": "Shana Charles",
+      "statement": {
+        "by": "Shana Charles",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "City of Fullerton Councilmember/Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, I ran for City Council to ensure every neighborhood in Fullerton is healthy, heard, and heading in the right direction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your representative in City Hall, I led successful efforts to repave our streets and restore community events like First Night & 4th of July Fireworks."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was the driving force behind Fullerton joining the lawsuit against U.S. Immigration and Customs Enforcement's racial profiling and other illegal practices."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I secured funding for our Fire & Police Departments and helped create the Fiscal Sustainability Committee to ensure Fullerton’s financial sustainability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the only Councilmember who holds weekly office hours because I will always listen to the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for re-election to build on this progress. As your Councilmember, I will work to pave 100% of our streets, increase road safety for all, restore our parks and renew our commitment to a sustainably equitable future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to have the support of Congressmembers Lou Correa & Derek Tran, California State Senator Tom Umberg, California Assemblymembers Sharon Quirk-Silva & Avelino Valencia, Orange County Supervisors Doug Chaffee & Vicente Sarmiento, Fullerton City Councilmember Ahmad Zahra, and the hard-working families of the National Union of Healthcare Workers, United Food and Commercial Workers & Orange County Employees Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your support as well, together we can continue to improve Fullerton’s roads, parks, and finances."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Shana4Fullerton.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5073-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Daniel H. Kim",
+      "statement": {
+        "by": "Daniel H. Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Fullerton Commissioner/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family and I immigrated to the United States when I was 4 years old. We achieved the American Dream: I graduated from UCLA and Harvard, and started a successful career. I married, becoming a father of two children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This was shattered on August 14, 2015, when a falling tree killed our son in his sleep during our family Yosemite trip."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We turned this tragedy into a way to honor our son, who had planned to start a program providing musical instruments and lessons to underprivileged children: we created the Dragon Kim Foundation to fulfill his dream. We’ve grown to also provide leadership training to help students launch service programs and award college scholarships. 100% of our students go on to college."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I’m a turnaround specialist: when companies are failing, I move them back to profitability. As I learned about Fullerton’s multimillion dollar budget deficit, I knew I needed to help."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you elect me as our Councilmember, I will:\nEliminate waste, make cuts, and increase revenue to fix Fullerton’s budget crisis\nEnsure police and firefighters have what they need to protect\nFullerton neighborhoods\nRepair Fullerton’s roads after years of neglect"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I request your vote to help turn Fullerton around!"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5073-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

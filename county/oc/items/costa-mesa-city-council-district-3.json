@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Costa Mesa City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/costa-mesa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:13Z",
+  "candidates": [
+    {
+      "choice": "Daniel Morgan",
+      "statement": {
+        "by": "Daniel Morgan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Owner/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Daniel Morgan, a small-business owner, husband, and father of two daughters in our local schools. I've called Costa Mesa home for almost 20 years, and I believe local government should solve problems, spend responsibly, and deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Managing Principal of Marterra, I help local families and homeowners every day. On Costa Mesa's Finance and Pension Advisory Committee, I've advocated for responsible budgeting and long-term financial stability without asking taxpayers to pay more. I've also served as a county planning commissioner, a Big Brother, and on the board of Let's Be Kind."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running to keep Costa Mesa safe, affordable, and fiscally responsible. That means reducing property crime, strengthening community policing, streamlining permitting so businesses can open faster, and investing in the parks, streets, and infrastructure that improve everyday quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe City Hall should deliver results, solve problems, and be accountable to the people it serves. I'd be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5036-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Cara Stewart",
+      "statement": {
+        "by": "Cara Stewart",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Businessowner/Startup Adviser"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a business leader and entrepreneur, not a politician. I’ve called Costa Mesa home for a decade and have seen the progress and challenges that come with growth. I’ll put District 3 residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My background gives me a practical advantage."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former Orange County Register reporter, I told local stories and uncovered fraud, abuse and corruption."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Inside city government, I learned how good ideas move forward and where they get stuck."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small-business owner, I learned how delays, red tape, and uncertainty hit livelihoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Costa Mesa is at a crossroads. Housing for our next generation is unaffordable. I pledge to work alongside you to address our housing needs while protecting neighborhood character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will prioritize public safety in our parks and neighborhoods; pothole repairs and safer pedestrian and bicycle routes; removing graffiti and trash; and strengthening our economy by cutting red tape, speeding up permits, filling vacant storefronts, and attracting good-paying jobs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My endorsements include District 3 residents and community leaders: Orange County Supervisor Katrina Foley and Councilmember Andrea Marr."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll protect Costa Mesa’s character while building a safer, stronger future for everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "caraforcostamesa.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5036-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Ana Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:21Z",
+  "candidates": [
+    {
+      "choice": "Katelyn Brazer Aceves",
+      "statement": {
+        "by": "Katelyn Brazer Aceves",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Santa Ana Unified School District, Trustee Area 4"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As President of the Santa Ana Unified School District Board of Education and a school employee with the Orange County Department of Education who works directly with students and parents every day, I've applied my experience as an educator and proven leadership to help improve our schools. Additionally, I am the candidate officially endorsed by the Santa Ana Educators’ Association (SAEA) and the California School Employees Association (CSEA), Santa Ana Chapter 41."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my first term, SAUSD achieved academic gains across every California School Dashboard indicator for the first time."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we placed reading coaches at every elementary school, strengthened support for English Learners through new courses and targeted interventions, and increased college and career readiness by creating new internship opportunities in high-demand fields."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I led the creation of our districtwide Immigration Support Plan to help students safely attend school and families access resources, created two Student Board Member positions, and established the SAUSD Community Budget Advisory Committee to strengthen fiscal transparency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Through building no-cost community partnerships, I've increased resources to students and families without relying on district general funds. This allows more money to be invested in classroom instruction where it matters most."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under my leadership, voters overwhelmingly approved the largest K–12 school bond in Orange County in 2024, securing over $355 million to modernize aging schools and provide safe, high-quality learning environments for every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "katelynbrazer.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3205-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sylvia Iglesias",
+      "statement": {
+        "by": "Sylvia Iglesias",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Teacher/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m an Elementary Public School Teacher and Parent. Homegrown Leader, lived in Santa Ana since 1979 having immigrated from El Salvador; resided in Trustee Area-4 since 1990. My children and I are products of Santa Ana Unified School District (SAUSD). I proudly graduated from Santa Ana Valley High School, Santa Ana College and California State University-Fullerton."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With over 30 years of public service from Orange County Social Services Agency, gained experience reviewing budget, policy making, trained staff and connected residents to services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a first-generation college graduate, Parent and Teacher, I believe education is important to our families and is society’s great equalizer. I will Always:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Put Students First\nEnsure All Students are prepared for College or Workforce Spend money directly in classrooms, benefiting Students-Not Bureaucrats. Ensure Accountability and Transparency. Provide Safe and Strong Schools\nDefend Tax-payer dollars and Not increase Your Taxes Champion Parents' Rights and support Educational Options Increase College Dual-Enrollment\nSupport great teachers/staff; ensure they have resources/tools to support students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please join Parents, Community/Faith-Based Leaders, Teachers, Law Enforcement Officers and Students to elect Sylvia Iglesias for SAUSD Trustee Area-4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your vote, together, we Will Put Students First, build strong future leaders and make SAUSD Great."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit www.iglesias4sausd.com or iglesias4education@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3205-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

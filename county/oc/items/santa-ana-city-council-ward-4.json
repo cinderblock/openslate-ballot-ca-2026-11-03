@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Ana City Council, Ward 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-ana",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:16Z",
+  "candidates": [
+    {
+      "choice": "Phil Bacerra",
+      "statement": {
+        "by": "Phil Bacerra",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Santa Ana City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Phil Bacerra is a proven leader that is dedicated to building a cleaner, safer, and more prosperous Santa Ana. Guided by the values of public safety, fiscal responsibility, and opportunity for every family, Phil brings people together to deliver real results. Endorsed by the OC Professional Firefighters Local 3631, the Santa Ana Police Officers Association, and the Los Angeles/Orange Counties Building and Construction Trades Council, Phil has earned the trust of those who serve our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Councilmember, Phil Bacerra has:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strengthened laws to reduce public intoxication.\nOpened a police substation in South Santa Ana.\nShut down homeless encampments.\nSecured $4,000,000 in funding for five new traffic signals. Installed $2,500,000 in new lighting and playground equipment at Lillie King Park and George Upton All-Access Park. Implemented $3,500,000 in repairs of roofs, apparatus doors, and restrooms at our fire stations.\nStopped a proposed needle distribution program. Installed safety fencing along the Flower Street Bike Trail."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If reelected to the Santa Ana City Council, Phil Bacerra will:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Continue reducing homelessness on our streets.\nAttract investment that creates good-paying jobs for Santa Ana families.\nImprove sidewalks and streets.\nEnsure police and firefighters have the resources needed to keep our neighborhoods safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As proud Santa Ana homeowners, Phil and his wife, along with Stanley Pup, are committed to keeping Santa Ana clean, safe, and thriving for current and future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "PhilBacerra.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Phil Bacerra"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5225-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sandra De Anda",
+      "statement": {
+        "by": "Sandra De Anda",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Immigrant Rights Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was raised in Santa Ana. My father is an immigrant and longtime skilled laborer, and my mother is a third-generation Santanera. Growing up on Minnie Street, I experienced many of the same challenges our families face today. After Kennedy Elementary and Villa Fundamental, my life changed when a social worker connected me to the A Better Chance Program, which took me to Chatham Hall in Virginia and later Reed College. That taught me a lesson I still carry: talent is everywhere, but opportunity is not."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Director of Policy and Legal Strategy for an immigrant rights organization, my work happens in immigration courthouses, helping families find legal representation. It means standing beside parents afraid of losing their children, and bearing witness so no one faces the hardest day alone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Those experiences show me our residents carry many burdens, and our city government can do more to protect them. We deserve leaders who understand what families face."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have spent my life learning from this city and showing up for it. Now, I am asking for your vote to lead it, with compassion, courage, and a vision for where every resident can belong and thrive. Learn more: SandraForSantaAna.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5225-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

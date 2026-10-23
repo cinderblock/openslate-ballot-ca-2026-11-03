@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Tustin Unified School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:36Z",
+  "candidates": [
+    {
+      "choice": "Lynn Davis",
+      "statement": {
+        "by": "Lynn Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Tustin Unified School District Trustee Area 3"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education: Harvard MBA, BA Mathematics Claremont McKenna College"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a school board member, I have successfully advocated for fundamentals – quality phonics-based reading instruction, rigorous standards in math and science, practical support for classroom teachers and hands-on Career Technical Education that prepares students both for college and well-paying careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A past corporate CFO, fiscal responsibility matters. As Board President, I’ve led bond refinancings saving local taxpayers over $48 million - dollars you won't be paying! We earned an upgraded rating from Moody’s."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The independent website Niche.com ranks TUSD in the Top 4.2% of over 10,000 districts nationwide. We’ve had 17 California Distinguished School awards in the past five years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The independent Education Scorecard report from Stanford placed TUSD in the Top 20% nationwide in overall student achievement, Top 10% in Academic Growth, found students learning math faster than 90% of other districts and low-income students among the fastest improving academically. Over 70% of our graduates are prepared for four-year colleges, giving them control over their futures."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In challenging times our schools need proven leaders with vision and results. Thank you for your support over the years! Re-elect Lynn Davis to protect taxpayers, maintain safe schools and support increasing excellence in our school district."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3213-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kelly Felton",
+      "statement": {
+        "by": "Kelly Felton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Educator/Professor/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent, educator, and scientist, I am running for the Tustin Unified School District Board of Education to ensure every student receives an outstanding education in a safe, supportive, and academically focused environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My husband and I raised our two sons in public schools, and I understand firsthand the importance of strong schools and engaged families. I hold a doctorate in education and two master's degrees in science, and have spent more than 20 years teaching science at the college and high school levels."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "From cancer research labs to biotechnology classrooms, I know the value of critical thinking, evidence-based decision-making, and preparing students for success in college, careers, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Board member, I will keep students at the center of every decision, promote academic excellence, ensure fiscal responsibility and transparency, and strengthen partnerships with parents. I will support career technical education, arts, music, and athletics, plan for declining enrollment and aging schools, and protect taxpayer resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring practical leadership, put students first, and preserve the district our community is proud of. I would be honored to serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dr. Kelly Felton"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.feltonforschoolboard.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3213-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Clemente Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-clemente",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:10Z",
+  "candidates": [
+    {
+      "choice": "Victor Cabral",
+      "statement": {
+        "by": "Victor Cabral",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Councilmember/Attorney/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor and City Councilmember, I prioritized enhancing public safety by hiring additional sheriff officers and creating a Rangers program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I continue to fight to preserve our beach community, and as Mayor I helped restore 450,000 cubic yards of sand to our beaches."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I worked with the Downtown Business Association to bring in new restaurants and shops. I fought to preserve outdoor dining facilities on Del Mar and worked with the North Beach HOA to develop a vibrant Miramar Food Court complex."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I worked to bring a pickleball complex to San Clemente, add a soccer field, replace turf, and add playground equipment, and I am focused on revitalizing the San Clemente Municipal Golf Course."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a member of the Orange County Fire Authority, I helped station a helicopter in San Clemente to ensure we can respond to fires quickly, and I supported the goat grazing program to clear our hillsides of flammable brush that endangers homes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Vicechair of the San Onofre Nuclear Generating Station CEP, I worked with federal and state governments to identify suitable sites outside California to move the stored nuclear fuel. And today I am fighting to slow down the landfill expansion adversely impacting Talega."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A native of California, I earned degrees from the University of California and Harvard."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5200-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Shane Hirschman",
+      "statement": {
+        "by": "Shane Hirschman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Art Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Shane Hirschman, and I'm running for Mayor at a pivotal moment in San Clemente's history. This November, residents will elect our first directly elected mayor, giving our community a unique opportunity to shape its future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As San Clemente approaches its Centennial in 2028 and prepares to welcome the world as the host of Olympic surfing at Trestles, we have an opportunity to honor our history while protecting our iconic, pristine coastline."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running a grassroots campaign built on approachability, transparency, and public service. As your mayor, I will listen, work collaboratively, and earn the trust of every resident. My goal is to build on what makes San Clemente exceptional while finding practical, creative ways to strengthen our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Art Director and member of the Arts and Culture Committee, I have helped organize community events that bring residents together and support local businesses. Those experiences have reinforced my belief that strong communities are built through unity, creativity, and civic engagement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The best solutions don't always come from tradition; they come from listening, inclusion, and a willingness to think differently. Together, we can ensure San Clemente remains an extraordinary place to call home for generations to come."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5200-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kathy Ward",
+      "statement": {
+        "by": "Kathy Ward",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Certified Shorthand Reporter"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As San Clemente’s former two-term councilwoman and two-time mayor, my overarching goal has been to improve our town and protect our quality of life while keeping our unique village character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The vision document for San Clemente formed our General Plan for future growth. The dominant theme is that residents are focused on maintaining, rather than changing, the character of San Clemente."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Currently the General Plan is not being followed. City ordinances are admittedly not being enforced, the planning commission is purposely being bypassed, and the concerns of residents and business owners are being ignored."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will support proper procedures within our city so that decisions of the council are in full public view, providing complete public transparency and participation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your councilwoman, I led the charge to keep the toll road from ever threatening San Clemente again. We revitalized North Beach, making it a historic district; zoned vacation rentals and sober living facilities out of single-family neighborhoods, added SC Trolley, made San Clemente a non-toxic city using no harmful chemicals, and increased traffic circulation by adding arterial access points."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My leadership will be guided by the residents’ vision for San Clemente.\nOne town. One team."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "kathywardformayor@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5200-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

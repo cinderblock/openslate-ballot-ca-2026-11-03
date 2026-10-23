@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Ana City Council, Ward 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-ana",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:15Z",
+  "candidates": [
+    {
+      "choice": "Benjamin Vazquez",
+      "statement": {
+        "by": "Benjamin Vazquez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Teacher/Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m Benjamin Vazquez, and I’m asking for your vote to continue delivering results for Santa Ana families. As your City Councilmember, I’ve fought to protect rent control and just-cause eviction protections so working families can stay in their homes. I led the fight for voters to put rent stabilization into the city’s municipal code."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve worked to reduce homelessness by 15% by expanding the hours of our Quality of Life Team (QOLT) and investing in family services that help keep people housed before they become homeless. We also cleared dangerous encampments along Bristol Street while connecting people to services, making our neighborhoods safer and cleaner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve brought new investment to Ward 2 by opening a new park on Bristol and supporting a library center in Pacific Park that will serve children, for years to come. As a public school teacher, I know the challenges working families face because I live them every day. I believe in practical solutions, fiscal responsibility, and putting our community first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m committed to keeping Santa Ana affordable, safe, and a place where every family has the opportunity to succeed. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5223-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Selica Diaz",
+      "statement": {
+        "by": "Selica Diaz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Real Estate Agent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a proud wife and mother of four, Realtor, Cal State Fullerton graduate, Parks & Recreation Commissioner (2022-2026), and dedicated community leader with 30 years of service in Santa Ana. Over three decades, I have turned advocacy into action—from helping create Pacific Electric Park, securing $4 million for a new community center, organizing community resource fairs, and volunteering year-round to support families, youth, and seniors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an immigrant who came to the United States as a teenager in search of greater opportunities, I understand the hopes, sacrifices, and determination it takes to build a better future. After becoming a proud United States citizen in 1999, I dedicated myself to giving back through community service and advocating for hardworking families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are public safety, healthy neighborhoods, responsible budgeting, support for local businesses, and timely completion of city projects. I will strengthen communication and trust between residents and City Hall as your city councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring practical experience, compassion, accountability, and a proven commitment to public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Ana is our home. Together, we can build a safer, healthier, and more vibrant city. I respectfully ask for your vote and the opportunity to continue serving our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Selica Diaz\nselicadiaz.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5223-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Garden Grove City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/garden-grove",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:25Z",
+  "candidates": [
+    {
+      "choice": "Cindy Ngoc Tran",
+      "statement": {
+        "by": "Cindy Ngoc Tran",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Garden Grove Councilwoman/Engineer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Garden Grove Councilwoman, U.S. veteran, engineer, small business owner, teacher, and mother, I am proud to seek your support for re-election. I believe local government should focus on safe neighborhoods, responsible spending, supporting local businesses, and delivering results for District 3 residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my first term, I have worked to strengthen public safety by supporting our police and firefighters, helping keep our neighborhoods safe, and connecting individuals experiencing homelessness with services while protecting our community. I have supported local businesses by expanding access to grants and city resources, helped families through first-time homebuyer programs, and advocated for improvements to traffic, streets, and neighborhood infrastructure."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe strong communities are built through service. That is why I have organized neighborhood cleanups, food distributions, and community events that bring residents together. Each year, I also provide hundreds of holiday gifts, donate backpacks to local students, and award scholarships because investing in our youth strengthens Garden Grove’s future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving our community has been the greatest honor of my life. With your support, I will be honor to continue to work to keep Garden Grove safe, financially responsible, and a wonderful place to live, work, and raise a family."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5086-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Amanda Nguyen",
+      "statement": {
+        "by": "Amanda Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Senior Paralegal"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Amanda Nguyen is a career public servant. For nearly a decade, she has worked inside Orange County's criminal legal system and is currently a Senior Paralegal with the Orange County Alternate Public Defender. She holds a Master's degree in Criminal Justice and has spent her career seeing how government decisions affect real people's lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Amanda is running for City Council because Garden Grove families deserve a government that works for them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "She will fully staff our police and fire departments and keep our neighborhoods, parks, and schools safe. She will address homelessness with real accountability, connecting people in crisis to mental health, addiction, and employment services while keeping our public spaces safe for families and small business owners. And she will fight for an affordable Garden Grove, investing in Little Saigon and Main Street so our local economy works for working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "She is a lifelong resident of Little Saigon and the proud daughter of Vietnamese refugees who believes every family deserves a safe, affordable community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Amanda is proud to be endorsed by Congressman Derek Tran."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Garden Grove deserves leadership that is accountable, experienced, and focused on results. Amanda Nguyen will deliver that."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.vote4amandanguyen.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Amanda Nguyen"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5086-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Thomas Quoc Thai Nguyen",
+      "statement": {
+        "by": "Thomas Quoc Thai Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Media Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote to become the next City Council Member for District 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a media businessman with decades of experience, I have the expertise to make sound decisions. For 40 years, I have worked alongside business owners, laborers, and professionals throughout Orange County. I understand the challenges our community faces. A strong City Council focused on public safety, infrastructure, expedited home improvement permitting, and affordable housing will better serve our valued residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my life, I have committed to giving back. As your Council Member, I will ensure public participation in city government. I will prioritize business growth, job creation, practical solutions to homelessness, cultural events that showcase diversity and strengthen our vibrant community, and health and wellness programs that improve the quality of life in District 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am fully committed to accountability and transparency.I will work tirelessly to make District 3 more prosperous while restoring trust in government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Council Member, I will listen to every voice, serve every constituent, and work every day to improve District 3. I respectfully ask for the opportunity to serve and achieve these goals together. Thank you in advance for your support and your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "/s/ Thomas Quoc Thai Nguyen"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For Garden Grove City Council District 3"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5086-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

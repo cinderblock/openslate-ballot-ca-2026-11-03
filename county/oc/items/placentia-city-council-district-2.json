@@ -1,0 +1,156 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Placentia City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/placentia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:07Z",
+  "candidates": [
+    {
+      "choice": "Santosh Sabnis",
+      "statement": {
+        "by": "Santosh Sabnis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Owner/Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Placentia resident, business owner, and father, I have spent over twenty years helping organizations eliminate waste, improve operations, and make financial decisions using data and technology. I am running for City Council because City Hall should manage your hard-earned tax dollars with the same care you use at your own kitchen table."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Just like any major family investment, asking tough questions before money is spent prevents costly financial surprises down the road. Every public expenditure must meet a strict standard: What are we paying for? What value are we getting? What happens if things go wrong? Will this still benefit our community ten years from now?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "By aggressively eliminating waste, we can reinvest savings into protecting home values, helping families call Placentia home, supporting local job-creating businesses and responsible new development, investing in our city employees, maintaining safe streets and parks, strengthening public safety, and providing opportunities for our children and seniors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I built the Placentia Civic Vault, a free public tool, so you can easily understand where your tax dollars go. As a dad raising my daughters here, keeping Placentia safe, thriving, and affordable is personal. I would be honored to earn your trust and vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5191-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Julie Suchard",
+      "statement": {
+        "by": "Julie Suchard",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve lived in the city of Placentia for 26 years. I’m not a politician. I am blunt, truthful, and independent. I’m a person who rolls up their sleeves and gets things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While raising my two daughters in Placentia, I volunteered for PTA, Booster Clubs, and served as Treasurer for a local non-profit organization serving the homeless. I’ve been Project Leader for \"Love Placentia\" and helped with local school board campaigns. I’m a stalwart supporter of our public services, the Placentia Police and Fire Departments, and the small businesses that help our community thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m for fiscal responsibility and transparency. Using my expertise in accounting and public records requests, I've shed light on fiscally irresponsible actions within city management, resulting in an outside investigation and substantial changes. For this, I’ve received the thanks of many working for, and living in, Placentia."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m concerned about the financial stability of the city, and will ensure that our funds are used in a fiscally responsible and transparent way."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I won’t accept salary or benefits from the city. I'm offering my time because I love Placentia and am deeply concerned about our city’s financial solvency. Please vote for Julie Suchard for City Council."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5191-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Matt Waugh",
+      "statement": {
+        "by": "Matt Waugh",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Executive/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A Placentia resident of more than 20 years with deep roots in the community, Matt is a business executive with experience advising organizations on financial accountability, strategic planning, workforce development, and operational effectiveness. He helps organizations identify problems, design solutions, and measure success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Matt is running for City Council to bring that disciplined approach to serving Placentia. His priorities are responsible fiscal stewardship, keeping our neighborhoods safe, maintaining roads and infrastructure, and ensuring City Hall remains focused on the people it serves. As California cities face growing budget pressures, careful management of taxpayer dollars will be essential to preserve public safety, protect essential services, and invest wisely in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Matt's wife has taught economics at a local high school for nearly three decades. Together they raised two sons in Placentia, where both attended local elementary, middle, and high schools. These experiences give Matt a grounded understanding of the needs of families, students, and working residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Matt brings a collaborative, disciplined approach to City Council: listening first, making thoughtful decisions, and working to keep Placentia safe, financially sound, and a community where families and businesses can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Elect Matt Waugh, MBA — Local Leadership for Placentia."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "MattForPlacentia.org"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Matt Waugh"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5191-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

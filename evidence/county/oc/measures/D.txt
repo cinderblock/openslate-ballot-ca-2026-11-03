@@ -1,0 +1,347 @@
+p1 City of Irvine, Measure Directing the Use of Ranked
+p1 Choice Voting for City Council Member and Mayoral
+p1 Elections After January 1, 2028
+p1 Shall a measure that directs, to the extent technically and financially feasible, the use of ranked choice voting for City
+p1 Council Member and Mayoral Elections occurring after January 1, 2028, be adopted?
+p1 What your vote means
+p1 YES
+p1 A “Yes” vote is in favor of adopting the measure and
+p1 transitioning to RCV elections after January 1, 2028, if the
+p1 specified technical and financial conditions are met.
+p1 For and against
+p1 FOR
+p1 Kathleen Treseder
+p1 Councilmember
+p1 NO
+p1 A “No” vote is against adopting the measure.
+p1 AGAINST
+p1 James Mai
+p1 Vice Mayor
+p2 Full Text of Measure D
+p2 City of Irvine
+p2 AN ORDINANCE OF THE CITY OF IRVINE, CALIFORNIA, DIRECTING, TO THE EXTENT TECHNICALLY AND FINANCIALLY
+p2 FEASIBLE, THE USE OF RANKED CHOICE VOTING FOR CITY COUNCIL MEMBER AND MAYORAL ELECTIONS OCCURRING
+p2 AFTER JANUARY 1, 2028
+p2 THE PEOPLE OF THE CITY OF IRVINE DO ORDAIN AS FOLLOWS:
+p2 SECTION 1. AMENDMENT TO MUNICIPAL CODE. Title 1 (General Services), Division 2 (City Council), Chapter 6 (Ranked Choice Voting
+p2 Elections) is added to read in its entirety as follows:
+p2 CHAPTER 6. – RANKED CHOICE VOTING ELECTIONS
+p2 Sec. 1-2-601. – Definitions.
+p2 Sec. 1-2-602. – General Provisions.
+p2 Sec. 1-2-603. – Ballot.
+p2 Sec. 1-2-604. – Tabulation.
+p2 Sec. 1-2-605. – Ties.
+p2 Sec. 1-2-606. – Skipped Rankings; Multiple Rankings for One Candidate.
+p2 Sec. 1-2-607. – Elimination of Undervotes, Overvotes, and Exhausted Ballots.
+p2 Sec. 1-2-608. – Reports.
+p2 Sec. 1-2-609. – Continuing the Tally to Two Candidates.
+p2 Sec. 1-2-610. – Manual Tally.
+p2 Sec. 1-2-611. – Election Procedures if Ranked Choice Voting is Not Feasible.
+p2 Sec. 1-2-601. – Definitions.
+p2 The definitions contained in this section shall govern the construction, meaning, and application of words and phrases used in this
+p2 chapter. Words or phrases used in this chapter that are not specifically defined in this section shall be interpreted in the manner required by
+p2 Section 1-1-102.
+p2 “Choice” means an indication on a ballot of a voter’s assigned ranking of candidates (i.e., first choice, second choice, third choice, etc.)
+p2 for any single office according to the voter’s preference.
+p2 “Continuing ballot” means a ballot that counts towards a continuing candidate.
+p2 “Continuing candidate” means a candidate that has not been eliminated.
+p2 “Majority of votes” shall mean more than fifty percent (50%) of the votes cast on continuing ballots.
+p2 “Next ranked” means the highest ranked choice for a continuing candidate.
+p2 “Ranked choice voting” shall mean an election system in which voters rank the candidates for office in order of preference, and the
+p2 ballots are counted in rounds that, in the case of a single-winner election, simulate a series of runoffs until one candidate receives a majority
+p2 of votes. Also known as “instant runoff voting.”
+p2 “Round of counting” or “round” means a step in the counting process during which votes for all continuing candidates are tabulated for
+p2 the purpose of determining whether a candidate has achieved a majority of the votes cast for a particular office, and, absent a majority, which
+p2 candidate or candidates must be eliminated. During the tally of the election, preliminary results of city contests using RCV shall be released at
+p2 the same time as all other city contests have preliminary results released.
+p2 “Skipped ranking” means a ballot contains a higher ranking with no candidate indicated and contains a lower ranking with a candidate
+p2 indicated for a single office.
+p2 “Vote” means a ballot choice that is counted toward the election of a candidate. During each round of counting, each continuing ballot
+p2 contains one vote. All first choices are votes and lower ranked choices are potential runoff votes that may, in accordance with the requirements
+p2 of this chapter, be credited to and become votes for a candidate.
+p2 “Voting equipment” means all ballots and/or voting devices, vote tabulating systems and/or similar or related systems to be used in the
+p2 conduct of the City’s election, including but not limited to paper ballot systems, optical scan systems, and touchscreen systems.
+p2 Sec. 1-2-602. – General Provisions.
+p2 A. Except as specified in Section 1-2-611.A, ranked choice voting elections for single-winner city offices shall be conducted according
+p2 to the procedures in this Chapter.
+p2 B. Ranked choice voting shall commence with all city council member and mayoral elections from and after January 1, 2028.
+p2 C. Ranked Choice Voting shall not preclude the City from consolidating its municipal elections with the County.
+p2 Sec. 1-2-603. – Ballot.
+p2 A. The ranked choice voting ballot shall allow voters to rank at least five choices. The City Council may set a higher number of rankings
+p2 by resolution.
+p2 B. The ballot shall not interfere with a voter’s ability to rank a write-in candidate.
+p3 C. Instructions provided to voters shall conform substantially to the following specifications but may be modified based on ballot
+p3 design and voting equipment used:
+p3 “Vote by ranking candidates in your order of choice. You may rank as many or as few candidates as you choose. Select a different
+p3 candidate for each ranking. Select only one candidate in each ranking. Ranking more candidates will not hurt your higher ranked
+p3 candidates. Do not skip rankings. In the event you do skip a ranking, your vote will be given to your next continuing candidate.”
+p3 Sec. 1-2-604. – Tabulation.
+p3 The ballots shall be counted in rounds.
+p3 A. In the first round, every ballot shall count as a vote towards the first-choice candidate; provided, however, that if no first choice
+p3 candidate is indicated on a ballot, then that ballot shall count as a vote towards its next ranked candidate.
+p3 B. After any round, if any candidate receives a majority of votes from the continuing ballots, that candidate shall be declared the
+p3 winner.
+p3 C. If no candidate receives a majority, the candidate receiving the fewest number of votes shall be eliminated.
+p3 D. Every ballot counting towards the eliminated candidate shall be advanced to the next ranked continuing candidate. All the
+p3 continuing ballots for all continuing candidates shall be counted again in each new round.
+p3 Sec. 1-2-605. – Ties.
+p3 If two or more candidates tie for the fewest number of votes, the candidate to eliminate shall be chosen by lot.
+p3 If there are only two candidates in the final round and they are tied, the winner will be the candidate who received the higher number
+p3 of votes in round one.
+p3 Sec. 1-2-606. – Skipped Rankings; Multiple Rankings for One Candidate.
+p3 Consistent with Section 1-2-604.D, in the first or any round, if any ballot reaches a ranking with no candidate indicated, that ballot
+p3 shall immediately be advanced to the next ranking; If a voter ranks a single candidate more than once, only the highest ranking given to that
+p3 candidate is accepted, and each lower ranking for that same candidate is ignored as if it were a skipped ranking.
+p3 Sec. 1-2-607. – Elimination of Undervotes, Overvotes, and Exhausted Ballots.
+p3 For purposes of this Section and Section 1-2-608, the following definitions shall apply:
+p3 A. “Undervote” means a ballot that is blank and has no candidates indicated at any ranking.
+p3 B. “Overvote” means a ballot which indicates a vote for more than one candidate in the applicable round of voting.
+p3 C. “Exhausted” means a ballot that cannot be advanced to the next round because no further continuing candidates are ranked on the
+p3 ballot.
+p3 For each round, all ballots that qualify as undervote, overvote, or exhausted shall not count toward any candidate, nor shall such ballots be
+p3 counted in any further round.
+p3 Sec. 1-2-608. – Reports.
+p3 The following reports shall be produced for public review.
+p3 A. The “summary report” for a contest shall mean a report that lists the candidate vote totals in each round, and the cumulative
+p3 numbers of undervotes, overvotes, and exhausted ballots in each round.
+p3 B. The “ballot cast report” for a contest shall mean a report that lists, for each ballot, the candidate or candidates indicated at each
+p3 ranking, the precinct of the ballot, and whether the ballot was cast by a vote-by-mail ballot. In the report, the ballots shall be
+p3 listed in an order that does not permit the order in which they were cast in each precinct to be reconstructed.
+p3 C. The “comprehensive report” for a contest shall mean a report that lists the vote totals in the summary report by precinct. The
+p3 report shall list, for each round, the number of ballots cast in each precinct that:
+p3 1. were tallied as votes for each candidate in that round,
+p3 2. have been declared undervotes,
+p3 3. have been declared overvotes, cumulatively for all previous rounds and inclusive of the reported round of tabulation, and
+p3 4. have been declared exhausted cumulatively for all previous rounds and inclusive of the reported round of tabulation.
+p3 D. Mode and manner of release. Preliminary versions of the summary report and ballot image report shall be made available as
+p3 soon as possible after the commencement of the canvass of votes cast. The summary report, ballot image report, comprehensive
+p3 report, and preliminary versions of the summary report and ballot image report shall be made available to the public during the
+p3 canvass via the Internet and by other means. The ballot image report and preliminary versions of the ballot image report shall
+p3 be made available in a plain text electronic format. In any case, preliminary versions of these reports shall be made available to
+p3 the public prior to the commencement of the manual tally.
+p4 Sec. 1-2-609. – Continuing the Tally to Two Candidates.
+p4 If a winner is declared when there are three or more continuing candidates (including the winner), and if the vote tabulating system
+p4 allows for it, additional rounds of tallying shall occur until there are only two candidates left for reporting purposes only.
+p4 Sec. 1-2-610. – Manual Tally.
+p4 A. A preliminary version of the comprehensive report shall be made available to the public prior to the selection of precincts for
+p4 the public one percent manual tally, as provided by state law.
+p4 B. After each round of the manual tally, the second and third choice votes shall be assigned based on the candidate totals in the
+p4 summary round-by-round report for the entire contest.
+p4 Sec. 1-2-611. – Election Procedures if Ranked Choice Voting is Not Feasible.
+p4 A. If the voting equipment cannot feasibly accommodate ranked choice voting, then the City shall continue to use the plurality
+p4 voting procedures that were used prior to January 1, 2028, until such time as the voting equipment can feasibly accommodate
+p4 ranked choice voting.
+p4 B. If the voting equipment cannot feasibly accommodate all of the procedures in section 1-2-601 through 1-2-610, the City Clerk
+p4 may make changes to those procedures provided that ranked choice voting shall still be used and the smallest feasible number
+p4 of changes made until such time as the voting equipment can accommodate those procedures in their entirety.
+p4 C. If the Secretary of State changes its currently adopted Instant Runoff Voting Guidelines (“Instant Runoff Voting in Charter
+p4 Counties and Charter Cities”) for the conduct of ranked choice voting elections and the voting equipment used to conduct the
+p4 County of Orange’s elections can accommodate the changes in the State’s guidelines, the City Clerk shall have the option of
+p4 adopting those guidelines, in whole or in part, in lieu of the ranked choice voting procedures in this section.
+p4 D. Managing the Cost of RCV for Irvine
+p4 1. For purposes of this sub-section 1-2-611(D) the following definitions shall apply:
+p4 i. “Estimated Election Cost” means the City’s adopted budget for the next election that will include a single-winner city
+p4 office.
+p4 ii. “RCV Cost” means the additional cost to the city above and beyond the latest currently provided Estimated Election Cost
+p4 for the next non-ranked choice voting election that will include a single-winner city office.
+p4 iii. “RCV Cost Limit” means 0.23% of the then-current total city general fund budget for the fiscal year within which the
+p4 general election will be held.
+p4 2. The RCV Cost shall be calculated by adding (i) the average of the low and high range estimate from the Orange County
+p4 Registrar of Voters regarding the County of Orange’s additional costs that will be billed to the city for the use of ranked
+p4 choice voting at the next scheduled election that includes a single-winner city office to (ii) an estimate from the City Clerk
+p4 of the additional City costs to be incurred for the use of ranked choice voting at the next scheduled election that includes a
+p4 single-winner city office.
+p4 3. If the RCV Cost is greater than the RCV Cost Limit, then the City Council shall not transition to ranked choice voting at the
+p4 next council member and/or mayoral election. The comparison of RCV Cost to RCV Cost Limit shall occur prior to each
+p4 subsequent council member and/or mayoral election until the City transitions to ranked choice voting.
+p4 4. Once a ranked choice voting election has occurred during any election cycle in the city, ranked choice voting shall continue
+p4 to be used at every subsequent election unless the voters replace it with another system. This sub-section 1-2-611(D) only
+p4 applies to the first usage of ranked choice voting.
+p4 SECTION 2. CONSTRUCTION. To the maximum extent authorized by law, this Ordinance shall be interpreted in a manner consistent with the
+p4 right of initiative reserved to the people by the California Constitution. Without limiting the foregoing, nothing in this Ordinance is intended to diminish
+p4 or otherwise alter applicable requirements of state and federal law.
+p4 SECTION 3. INCONSISTENT PROVISIONS. Any provisions of the Irvine Municipal Code, or appendices thereto, or any other ordinances of the
+p4 City inconsistent herewith, to the extent of such inconsistencies and no further, are hereby repealed.
+p4 SECTION 4. SEVERABILITY. If any section, subsection, sentence, clause, or phrase of this Ordinance is for any reason held to be invalid or
+p4 unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this
+p4 Ordinance. The voters of the City hereby declare that they would have passed this Ordinance and each section, subsection, sentence, clause, and phrase
+p4 thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses, or phrases be declared invalid or unconstitutional.
+p4 SECTION 5. CALIFORNIA ENVIRONMENTAL QUALITY ACT DETERMINATION. The voters of the City hereby find that this Ordinance is exempt
+p4 from the California Environmental Quality Act (“CEQA”) pursuant to State CEQA Guidelines Section 15060(c)(2) and 15061(b)(3) in that the proposed
+p4 changes are not anticipated to result in a direct or reasonably foreseeable indirect physical change in the environment and it can be seen with certainty
+p4 that they will not have the potential of creating a significant effect on the environment; rather, the changes effectuated by this Ordinance merely
+p4 change the order of voting procedures for city council member and mayoral elections.
+p4 SECTION 6. FUTURE AMENDMENTS. Pursuant to article II, section 10(c) of the California Constitution, the provisions contained in this
+p4 Ordinance may be amended by a five-sevenths vote of the City Council only to the extent such amendments further or expand the intent and objectives
+p4 set forth in this Ordinance. All other amendments or any proposed repeal of the provisions contained in this Ordinance shall become effective only
+p5 when approved by the voters.
+p5 SECTION 7. EFFECTIVE DATE. This Ordinance shall go into effect ten (10) days after the date on which the election results are declared by the
+p5 City Council.
+p5 Impartial Analysis
+p5 City of Irvine
+p5 Measure D
+p5 City of Irvine
+p5 Measure Directing the Use of Ranked Choice Voting for City Council Member and
+p5 Mayoral Elections After January 1, 2028
+p5 The City Council of the City of Irvine has placed a measure before the voters that would amend the Irvine Municipal Code to use ranked choice voting
+p5 (RCV) for City Council member and mayoral elections after January 1, 2028, if certain technical and financial conditions are satisfied.
+p5 The City of Irvine (City) currently uses a plurality voting system for City Council member and mayoral elections. Under that system, voters vote for only
+p5 one candidate and the person receiving the most votes wins the election even if they do not receive a majority of the votes.
+p5 In RCV elections, voters rank their choices in order of preference, such as first, second, third, and so on. If no candidate wins a majority of first-place
+p5 votes, the candidate with the fewest votes is eliminated, and ballots ranking that candidate are transferred to the next-ranked continuing candidate.
+p5 This process repeats until one candidate secures a majority of the votes counted in that round.
+p5 Under the proposed measure, the City would transition to RCV after January 1, 2028, once all of the following conditions are satisfied:
+p5 • The available voting equipment can feasibly accommodate RCV;
+p5 • Transitioning to RCV will not prevent the consolidation of City elections with elections conducted by the County of Orange; and
+p5 • The additional cost for an RCV election is not more than 0.23% of the City’s general fund budget for the fiscal year during which the proposed
+p5 RCV election would be held (RCV Cost Cap). For reference, 0.23% of the City’s fiscal year 2026-2027 general fund budget of approximately
+p5 $312.1 million is approximately $717,790. However, the actual RCV Cost Cap would be calculated using the general fund budget for the fiscal
+p5 year in which the proposed RCV election would be held.
+p5 When the above conditions are met and the City transitions to RCV, the City will continue to conduct elections by RCV at every City Council member
+p5 and mayoral election unless the voters choose another voting system.
+p5 The proposed measure requires that RCV ballots allow the ranking of a minimum of five candidates, that write-in candidates be permitted, and that
+p5 voters receive specific instructions regarding RCV. The proposed measure also establishes procedures for tabulating votes, resolving ties, resolving
+p5 voting mistakes (e.g., skipping a ranking, or giving the same ranking to more than one candidate), conducting a manual vote tally, and providing reports
+p5 for public review. The proposed measure authorizes the City Clerk to change those procedures if (1) the voting equipment will not feasibly accommodate
+p5 the voting procedures, or (2) the Secretary of State changes its current RCV guidelines and adopts new guidelines that can be accommodated by the
+p5 voting equipment.
+p5 A “Yes” vote is in favor of adopting the measure and transitioning to RCV elections after January 1, 2028, if the specified technical and
+p5 financial conditions are met.
+p5 A “No” vote is against adopting the measure.
+p5 If a majority of voters vote “Yes,” then this measure will take effect ten (10) days after election results are declared by the City Council.
+p5 Dated: July 27, 2026
+p5 s/ Jeffrey Melching, City Attorney
+p5 The above statement is an impartial analysis of the measure. If you would like to read the full text of the proposed measure, you may find
+p5 it on the City’s website at cityofirvine.gov/election, or call the City Clerk at (949) 724-6205 and a copy will be sent at no cost to you.
+p6 Argument in Favor of Measure D
+p6 Vote YES on Measure D to Bring Fairer Elections to Irvine
+p6 Shouldn’t “majority rule” govern our elections? Yet in Irvine, candidates
+p6 are regularly elected with less than one-third of the vote. Which means
+p6 two-thirds of voters are represented by someone they don’t want. That is
+p6 NOT real democracy.
+p6 Ranked Choice Voting (RCV) guarantees that Irvine residents elect
+p6 officeholders who win majority support. And it’s cost-effective. THIS is
+p6 what real democracy looks like.
+p6 Why Irvine Needs Measure D:
+p6 • Guarantees Majority Support: RCV acts as an “instant runoff.”
+p6 Voters rank their favorite candidates in order of preference: 1, 2,
+p6 3, and so on. If no candidate receives over 50% of first-choice
+p6 rankings, the last-place candidate is eliminated, and their votes
+p6 transfer to each voter’s second choice. This continues until a
+p6 candidate wins a majority.
+p6 • More Choice, More Voice: Never again will you have to vote for
+p6 the “lesser evil.” RCV allows you to vote for your favorite candidate
+p6 first, knowing your vote will still count toward your backup choice
+p6 if your first choice loses.
+p6 • Rewards Positive, Solution-Focused Campaigns: Because
+p6 candidates often need second and third choice rankings to
+p6 win, negative campaigning backfires. Instead, RCV incentivizes
+p6 positive, issue-oriented campaigns that unite rather than divide
+p6 the community.
+p6 • Protects Taxpayers: This measure ensures fiscal accountability
+p6 with a strict safeguard: RCV will only be implemented if the cost is
+p6 below 0.23% of the city’s budget. This responsibly modernizes our
+p6 democracy while protecting your tax dollars.
+p6 Irvine deserves a democracy where the majority rules, candidates focus
+p6 on solutions rather than negative attacks, and voters don’t have to settle
+p6 for the “lesser evil.” Measure D delivers exactly that. Join dozens of cities
+p6 in California and across the US using RCV. More choice and a stronger
+p6 voice! Vote YES on D.
+p6 Learn more at VoterChoiceIrvine.org
+p6 s/ Kathleen Treseder
+p6 Councilmember
+p6 Rebuttal to Argument in Favor of Measure D
+p6 THE “SPENDING CAP” IS A SHAM. The number moves around —
+p6 it’s a percentage of the city’s massive general fund, and could eventually
+p6 rise to $1.5 million, $2 million or more. We don’t know. We’re just
+p6 guesstimating. And the only cost estimates come from the group pushing
+p6 you to vote yes. Irvine can’t afford that kind of surprise: the city faces a $6
+p6 million deficit this year and a $47 million shortfall ahead.
+p6 NO OTHER CITY IN ORANGE COUNTY USES THIS TODAY. The
+p6 Orange County Registrar admits in writing that it has no certified system
+p6 for implementing ranked-choice voting — that’s why no infrastructure
+p6 exists, and Irvine would bear the massive startup costs.
+p6 NOT BROKEN. NOT NEEDED.Irvine has never held a runoff election.
+p6 This “fix” solves a problem we don’t have.
+p6 “DOZENS OF CITIES”? LOOK WHAT HAPPENED THERE.
+p6 Implementation problems have surfaced across the country — including
+p6 in Oakland, one of the flagship cities RCV advocates point to as proof it
+p6 works. In 2022, a misconfigured algorithm led Alameda County to certify
+p6 the wrong winner in an Oakland school board race. The certified winner
+p6 was declared the loser weeks later, once the error was corrected. New
+p6 York’s 2021 mayoral primary saw the same kind of chaos, when 135,000
+p6 test ballots were mistakenly counted.
+p6 Our elections work now. Implementing this will be very
+p6 expensive. And it has had some serious problems in some places
+p6 where it has been tried.
+p6 VOTE NO on Measure D.
+p6 s/James Mai
+p6 Vice Mayor
+p7 Argument Against Measure D
+p7 Irvine is facing a serious budget crisis. The city is projecting a structural
+p7 deficit that could reach $47 MILLION BY 2030. Leaders are already
+p7 cutting services, raiding reserve funds, and debating new fees on residents
+p7 just to keep basic city operations running. Some council members are
+p7 already talking about a tax increase to plug the gap.
+p7 A council majority put this experiment on the ballot with no idea what it
+p7 will cost.
+p7 NO ONE KNOWS WHAT THIS WILL COST. The Orange County Registrar
+p7 of Voters has confirmed he does not have a state-certified system capable
+p7 of running a ranked-choice election. He cannot say what it would cost
+p7 or how long. The city’s estimates came not from the Registrar — but
+p7 from ranked-choice voting advocacy groups. Those estimates already
+p7 top $750,000 — before voter education, before county system upgrades,
+p7 before anything goes wrong.
+p7 OUR ELECTIONS AREN’T BROKEN. Cities that adopted ranked-choice
+p7 voting did so to eliminate expensive runoff elections. IRVINE DOES NOT
+p7 HOLD RUNOFF ELECTIONS. We don’t have the problem this is supposed
+p7 to solve.
+p7 NO OTHER CITY IN ORANGE COUNTY DOES THIS. Not one. Every first-
+p7 adopter cost falls on Irvine taxpayers — at the worst possible moment.
+p7 RCV is banned in 19 states. Why?
+p7 RESULTS COULD BE DELAYED FOR WEEKS. Ranked-choice voting adds
+p7 multiple elimination rounds after ballots are counted. Irvine voters could
+p7 wait weeks to learn who won their own city council race.
+p7 AND THE CANDIDATE WITH THE MOST VOTES CAN STILL LOSE —
+p7 after later rounds reshuffle the outcome. That is not more democracy.
+p7 That is more confusion.
+p7 When your city is talking about raising taxes to close a $47 MILLION
+p7 budget hole, this is not the time for a costly experiment nobody asked for.
+p7 VOTE NO ON CHANGING TO RANKED CHOICE VOTING.
+p7 s/ James Mai
+p7 Vice Mayor
+p7 Rebuttal to Argument Against Measure D
+p7 Don’t be misled by false claims and misinformation. Why would
+p7 Ranked Choice Voting (RCV) be used by 17 million voters in cities across
+p7 California and the US if it was so expensive to implement? RCV will give
+p7 Irvine voters more choice, stronger local representation, and true
+p7 majority rule.
+p7 Vote YES on Measure D because:
+p7 • Exaggerated Cost Claims: Implementation costs are minimal —
+p7 no other city adopting Ranked Choice Voting has spent that much
+p7 money.
+p7 • Strict Cost Limits: Measure D includes a hard spending limit
+p7 of 0.23% of the city budget, fully protecting taxpayers. RCV
+p7 will only be used if the cost is less than 0.23% of the budget…It’s
+p7 that simple.
+p7 • Sensible Timeline: Implementation is scheduled after
+p7 January 1, 2028, giving election officials ample time to certify
+p7 equipment and conduct thorough voter education.
+p7 • Majority Should Rule: In Irvine, unpopular candidates can win
+p7 with just a small fraction of the vote. RCV solves this problem.
+p7 With RCV, candidates need to earn over 50% popular support
+p7 to win.
+p7 • Instantaneous Results: RCV will not cause additional delays;
+p7 once ballots are collected, the voting equipment counts in an
+p7 eyeblink.
+p7 • Simple as 1-2-3: Just rank your favorite candidates in order
+p7 of preference. If your top choice is eliminated, your vote
+p7 automatically counts for your next choice, making sure your vote
+p7 is never wasted.
+p7 Ranked Choice Voting will support a stronger, more representative local
+p7 government and put power back in the hands of Irvine voters, where it
+p7 belongs.
+p7 VOTE YES on Measure D.
+p7 Learn more at VoterChoiceIrvine.org
+p7 s/ Kathleen Treseder
+p7 Councilmember

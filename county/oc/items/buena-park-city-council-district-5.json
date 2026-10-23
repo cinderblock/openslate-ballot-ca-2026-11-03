@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Buena Park City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/buena-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:10Z",
+  "candidates": [
+    {
+      "choice": "Brandon Schooner",
+      "statement": {
+        "by": "Brandon Schooner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "City of Buena Park Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Buena Park is home. It’s where I’ve seen how local government shapes daily life - our streets, parks, safety, and whether people feel heard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve as a Buena Park Commissioner, where I’ve brought forward ideas for cleaner neighborhoods, native landscaping, parks, and better use of public space. I am also a certified OCART volunteer, helping with traffic control, clerical work, and large-animal handling."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My background as a designer shapes how I approach public service. It taught me to stay curious, look at problems from more than one angle, work within real limits, and carry an idea into something useful."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud to have earned the support of Orange County Professional Firefighters, Mayor Connor Traut, Vice Mayor Lamiya Hoque, and Council Members Susan Sonne and Joyce Ahn."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Families feel the cost of living every day. I will work to keep city fees and utility costs down, support local businesses, and create good-paying jobs close to home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe good government should be practical and curious - willing to ask why we do things the way we do, and how to do them better. Safe neighborhoods, reliable services, and careful use of public money come first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.BrandonSchooner.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5027-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sharena Walker",
+      "statement": {
+        "by": "Sharena Walker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Director of Marketing"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A strong community begins with neighbors who feel connected."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 20 years, I have called Buena Park home. In serving eight years as a Commissioner, I have helped support programs and community traditions that bring neighbors together, celebrate our diversity, and enrich the quality of life that makes Buena Park a special place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I serve as Director of Marketing Communications for Joneca Company, where I've learned to think strategically, bring ideas to life, build consensus among diverse stakeholders, and manage projects with accountability and attention to detail. Just as important, my lifelong passion for the arts has taught me that creativity and innovation often reveal solutions that others overlook. I believe the strongest leadership combines practical thinking with the courage to imagine new possibilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am passionate about enhancing our quality of life, strengthening public safety and our city's emergency preparedness, and cultivating a community where people feel connected and valued."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I see serving on the City Council as an opportunity to give back to the city that has given me so much. I believe the best ideas begin with listening, and I will always lead with integrity, collaboration, and a genuine commitment to Buena Park residents."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5027-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

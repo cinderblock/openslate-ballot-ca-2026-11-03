@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Toro Water District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:36Z",
+  "candidates": [
+    {
+      "choice": "Kathryn Freshley",
+      "statement": {
+        "by": "Kathryn Freshley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Director, El Toro Water District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a Licensed Professional Engineer with graduate management education and worked in executive management, engineering and business/strategic planning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I presently serve as the President of the board of directors and have served on the board for 8+ years. With the other members of the board, we have made good progress ensuring that the district has a quality executive team and the necessary capital funding to address the water and sewer infrastructure challenges. Quality leadership provides employment stability and ensures quality services to our customers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also represent the agency on the South Orange County Wastewater Authority Board. This authority is critical to the successful processing and disposal of the solid waste processed at our treatment plant. The authority is also responsible for ensuring that any wastewater released to the ocean meets all federal and state regulations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also represent the 35 Orange County Special Districts on the Local Agency Formulation Commission (OCLAFCO). The Local Agency Formation Commission of Orange County (OC LAFCO) strives to ensure the delivery of effective and efficient public services such as water, sewer, public safety, and parks by local governments to Orange County residents."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/6161-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mike Gaskins",
+      "statement": {
+        "by": "Mike Gaskins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Director, El Toro Water District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring a unique combination of scientific expertise and extensive experience to the El Toro Water District. My background in marine biology and geology, coupled with 40+ years of experience as an educator, chemist, labor negotiator and human resource director, positions me as a highly qualified candidate for this position."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my tenure as a board member, I have dedicated myself to ensuring the district’s continued status as one of the most efficient in Orange County. I am committed to maintaining the district’s commitment to providing clean, safe drinking water, effectively treating wastewater, and producing recycled water while minimizing costs"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/6161-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

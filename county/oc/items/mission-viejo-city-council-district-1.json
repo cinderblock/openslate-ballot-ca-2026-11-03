@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mission Viejo City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/mission-viejo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:56Z",
+  "candidates": [
+    {
+      "choice": "Robert \"Bob\" Ruesch",
+      "statement": {
+        "by": "Robert \"Bob\" Ruesch",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mission Viejo Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve as your Councilman for District 1, and I wish to continue working to keep our city great and the needs of North Mission Viejo heard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My accomplishments:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor 2025, signed the agreement to host the Dutch Olympic Team in Mission Viejo, worked to bring the golf course profitable, added the Atrium meeting center, held the first Fire Insurance Townhall, reworked the city website, championed the new parking addition, completed Fire Station 24, streamlined city council meetings, rebuilt relationships with major city employers and Saddleback College, worked with the Lake Association to begin filtering the water to bring back fishing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My continuing goals:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Preserve the Mission Viejo lifestyle\nKeep Mission Viejo’s budget balanced.\nContinue working with sheriff on crime reduction and community safety.\nFight increased traffic and high-density housing.\nContinue new mosquito abatement program\nSupport development and growth of local businesses in Mission\nViejo."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Personal history:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mission Viejo Councilman and 2025 Mayor. Entrepreneur, Scout Leader, Eagle Scout advisor, and church member for 30 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be my honor to continue to serve the people of Mission Viejo as Councilman for District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "949 370-2738\nMVDistrict1@gmail.com\nBob4MVCouncil2026.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5161-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kristen Wilcox",
+      "statement": {
+        "by": "Kristen Wilcox",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Writer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety must remain a top priority. I will provide our sheriff’s department with the resources it needs while also ensuring residents have the transparency they deserve through a public police blotter and appropriate oversight of Flock license plate reader technology."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a fiscal conservative who believes taxpayer dollars should be spent carefully, responsibly, and with accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mission Viejo continues to evolve, we need thoughtful solutions. We need to carefully review state housing mandates and their effects on our city’s character, infrastructure, traffic, and parking."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up here, and like many of you, I’ve watched our city change while still holding onto the qualities that make it such a special place to live. I’m running for city council because I want to protect what we love about Mission Viejo."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "No donations. No endorsements. Beholden to none, responsive to all. I say the quiet parts out loud and make decisions that benefit you."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5161-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

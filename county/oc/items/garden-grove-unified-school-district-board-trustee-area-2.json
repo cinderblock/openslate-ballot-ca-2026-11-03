@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Garden Grove Unified School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:41Z",
+  "candidates": [
+    {
+      "choice": "Lan Quoc Nguyen",
+      "statement": {
+        "by": "Lan Quoc Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Garden Grove Unified School District, Trustee Area 2"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "GGUSD is one of the top-performing school districts for academic excellence. I’m proud to be a member of the board that focuses on student successes like laser beam."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "GGUSD was the first and only school district in Orange County recognized as the Exemplary District for its model programs. All seven high schools have been ranked America’s Best High Schools by the U.S. News and World Report. We even received the Best Communities for Music Education Award for many years in a row."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our college readiness rate has overcome and greatly exceeded the County and State from 25% in 2002 to 65% today. Our graduates are more ready to excel in college and future careers than ever."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We’ve greatly expanded our technology infrastructure and achieved a 1-to-1 computer-per-student ratio at all school sites, and invested over one billion dollars to modernize all 68 schools to meet students’ needs in the digital age. This investment has also greatly increased property values in and around GGUSD neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This trend must continue for our students and community. I humbly ask for your vote. For more information, visit www.lannguyen.org"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3124-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Charlene Cuellar",
+      "statement": {
+        "by": "Charlene Cuellar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m your neighbor, a Garden Grove Unified Council of PTA’s former president, family advocate, nurse, lifelong volunteer, and mom to three wonderful GGUSD-enrolled kids. I’m running for Garden Grove Unified School Board to be a voice for parents, students, and deliver much-needed change to the board of education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Starting in business but shifting to a nursing career, like many parents, I became more involved in my children’s education when the pandemic forced in-home learning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Elected PTA Council President, I managed budgets and brought fresh ideas. Together, we revamped libraries, funded field trips, bought classroom supplies, paid for new sports equipment and chess sets, brought families together, and strengthened parent participation across the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Parents’ voices are vital to the success of our schools. I’ll use my experience building communities to deliver change that puts our kids first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We must get back to fundamentals, rethinking kids’ relationships with screens, focusing on literacy, building social skills, and bolstering student mental health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your trustee, I’ll use my business background to protect our tax dollars, my nursing experience to ensure student safety, and my life as a parent to fight every day for the bright future our kids deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our students are worth it!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.charlenecuellar.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3124-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

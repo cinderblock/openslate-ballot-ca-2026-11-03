@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 45",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-45",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:40Z",
+  "candidates": [
+    {
+      "choice": "Derek Tran",
+      "statement": {
+        "by": "Derek Tran",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Representative/Businessowner/Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the son of refugees who fled the communist regime in Vietnam, I believe everyone deserves a shot at the American Dream and a chance to get ahead. At 18, I enlisted in the Army to give back to the country that had given my family so much. Using the G.I. bill, I worked my way through college and law school to become a workers’ rights attorney, fighting for immigrants, workers, survivors of sexual harassment, and consumers. I know what it means to fight for people when the odds are stacked against them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Orange County isn’t just where I serve, it’s home. It's where we raise our three children, who attend public school, and where my wife runs the small business we opened together, a local pharmacy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Congress, I’ve stood up to special interests and delivered real results for our community. I’ve secured resources law enforcement needs to keep our communities safe, worked to lower the price of prescription drugs, and pushed for affordable housing. I’ve also fought to protect Medicaid, and voted against the war in Iran which is raising prices by the day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "But there’s more work ahead. I’m working to ban Members of Congress, government officials, and political insiders from trading stocks. I’m fighting for lower costs and will work to protect Medicare and Social Security in Washington."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m honored to be endorsed by Fire Fighters, Orange County Deputy Sheriffs, Planned Parenthood Action, Nurses, California Teachers, and Veterans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote. www.derektranforcongress.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1165-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Chuong V. Vo",
+      "statement": {
+        "by": "Chuong V. Vo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired Police Officer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "28-Year Law Enforcement Officer. Former Mayor of Cerritos. Husband and Father."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hello, my name is Chuong Vo, and I came to America as a child refugee from Vietnam. Our country gave my family freedom and opportunity, so I dedicated my life to serving our community through local government, law enforcement, and raising my family here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, I helped keep our neighborhoods safe, maintained balanced budgets, and protected taxpayer dollars. I know how to make tough decisions, prioritize core services, and deliver results without raising taxes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our families deserve safe neighborhoods, strong schools, and a government that lives within its means. In Congress, I will put safety, affordability, and accountability first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety is government’s first responsibility. I will stand firmly with law enforcement, increase penalties for fentanyl traffickers, dismantle organized retail theft rings, and ensure officers have the training and equipment they need to keep our communities secure."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Families are struggling with rising costs caused by reckless spending in Washington. I will fight to cut wasteful spending, eliminate fraud and abuse, protect Social Security and Medicare for seniors, and restore fiscal discipline."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We are a nation of immigrants and a nation of laws. I support securing our border, enforcing our laws, and modernizing legal immigration so families and employers can follow a fair and orderly process."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work to end insider stock trading in Congress, demand transparent budgets, and hold Washington accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am ready to serve and would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Vo4Congress.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/1165-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

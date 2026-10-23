@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Clemente City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-clemente",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:12Z",
+  "candidates": [
+    {
+      "choice": "Mark Enmeier",
+      "statement": {
+        "by": "Mark Enmeier",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Teacher/Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a San Clemente resident, born and raised, and a history teacher at San Clemente High School. I now have the privilege of raising my own family in this slice of heaven. In 2022, I was elected to the San Clemente City Council. It has been my honor to serve the citizens of this great city. While in office, I have worked to bring more sand to our beaches, increase our trolley lines, reduce homelessness, and create safer roads for our e-bike community. I have also worked with partners to expand recreational amenities, such as new pickleball courts, a pump track, a minigolf course, and a goat grazing program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Going forward, I will make sure that San Clemente stays focused on local issues. This includes fire safety and mitigation, continuing sand nourishment and retention, supporting our small businesses and non-profits, keeping our kids safe on our streets, reducing our carbon footprint, and protecting our community from pesticides, landfill expansion, and battery farms. I believe that our city is at its best when we focus on what brings us together as a community in order to enhance our quality of life in this amazing place we call home."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5202-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steve Knoblock",
+      "statement": {
+        "by": "Steve Knoblock",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor Pro Tem"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please consider voting for Steve Knoblock for San Clemente City Council, District 2."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment has always been to protect San Clemente's exceptional quality of life while ensuring our police officers and firefighters have the resources they need to keep our community safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I helped secure 250,000 cubic yards of sand at the Pier and another 40,000 cubic yards at North Beach to protect and restore our beaches."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To reduce wildfire risk, I championed a pilot program using goats instead of toxic herbicides or expensive mechanical equipment to clear fire-fuel vegetation in our open-space canyons. The program's success has led to its expansion into HOA canyons and other City properties."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When Chilean burglary crews targeted our neighborhoods and illegal panga boats used our beaches for criminal activity, I worked with U.S. Customs and Border Protection to help bring ocean-facing cameras to City property in support of law enforcement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also support creating a small dog-friendly beach south of T Street, giving San Clemente's thousands of dog owners a place to enjoy the coast with their pets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve Knoblock\nSan Clemente City Council, District 2"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5202-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

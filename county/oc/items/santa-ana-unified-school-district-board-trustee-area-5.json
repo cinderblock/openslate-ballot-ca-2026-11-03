@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Ana Unified School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:20Z",
+  "candidates": [
+    {
+      "choice": "Hector Bustos",
+      "statement": {
+        "by": "Hector Bustos",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Governing Board Member, Santa Ana Unified School District, Trustee Area 5"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud product of the Santa Ana Unified School District, serving on the School Board has been the honor of my life. When I was elected four years ago, I was a recent college graduate who ran for office because I believed our schools deserved student-centered leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As School Board President, we delivered the district's strongest academic gains in over a decade, protected essential student services despite severe underfunding, strengthened college and career programs that prepare our students for the future, and partnered with UC Irvine to create a model elementary school that brings the latest research into the classroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proud to be the candidate in this race endorsed by the Santa Ana Educators Association and the California School Employees Association. These associations represent thousands of employees, including our teachers, counselors, cafeteria workers, special education professionals, and campus safety officers. Their support reflects the trust we've built and my commitment to the workers who serve our students daily."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Parents have always played a critical role in the decisions I make. Santa Ana families support my re-election because we've made responsible use of their taxpayer dollars by creating safer schools, expanding mental health support for students, and modernizing aging school facilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your support, we’ll continue building the high-performing schools our students deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.hectorbustos4sausd.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3206-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Alejandra Rodriguez",
+      "statement": {
+        "by": "Alejandra Rodriguez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mother"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Alejandra Rodriguez, running for the Santa Ana Unified School District Board of Education, Trustee Area 5, because every child deserves the opportunity to succeed, every parent deserves to be heard, and every school deserves strong, transparent leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a Santa Ana native who attended Washington Elementary, McFadden Institute of Technology, MacArthur Fundamental Intermediate, and Saddleback High School. I have children attending SAUSD schools, giving me experience as both a former student and a parent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been involved in my children’s education through the School Site Council, PBIS, the Community School Council, the PTO, and school committees. These roles have allowed me to listen to families, work with educators, and understand our schools’ needs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served as a City of Santa Ana Commissioner for Historic Resources and Parks and Recreation and as a Neighborhood Association leader."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your trustee, I will focus on improving reading, writing, and math, supporting teachers, keeping schools safe, and preparing students for college, careers, and life. I will advocate for students with disabilities and their families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Ana is my home, and our children deserve leadership that puts students first and works with families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote.\nalejandra4sausd.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3206-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

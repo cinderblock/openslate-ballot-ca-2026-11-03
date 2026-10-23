@@ -1,0 +1,150 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cypress School District Board, Trustee Area C",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:35Z",
+  "candidates": [
+    {
+      "choice": "Meghna Parikh",
+      "statement": {
+        "by": "Meghna Parikh",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Appointed Cypress School District Board Member, Trustee Area C"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a mother raising three children in Cypress, I know our schools are the heart of our community. I am committed to keeping our schools strong and ensuring every student has an opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While serving on the Cypress School Board, I provided steady leadership during a time of change. Earlier this year, I took action to help protect jobs, preserve important programs and services, and support a plan to strengthen the district's finances while keeping district decisions in local hands."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a public service attorney, I work every day to solve complex problems and protect public interest. This experience enables me to ask tough questions, understand details, build consensus, and make important decisions that put students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Looking ahead, I will advocate to expand after-school programs, support academic excellence, increase learning opportunities in STEM, arts, and music, strengthen the schools' relationships with parents, and manage taxpayer dollars responsibly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I care deeply about the future of our schools and the success of every Cypress student. I respectfully ask for your vote so we can continue working to provide the high-quality education Cypress families expect and every child deserves."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3285-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steve Blount",
+      "statement": {
+        "by": "Steve Blount",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community College Trustee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You can count on Blount to come through for you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Involvement in the Cypress School District includes, 5 years on the Trustee Board during the glory days, the golden age of the District, and before that, Vice-Chair, Advisory Committee on Uses of Surplus Property, Chair, Advisory Committee for School Reopening, Member Advisory Committee for School Facilities Construction, Member District Advisory Committee, Member Arnold School Site Council, Vice-President Arnold PTA, Chair, Arnold/Business Partnership, Member Board of Directors of Friends of Cawthon Foundation, and later after being elected to the North Orange County Community College District Board, Member, Friends of Morris Foundation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During over ten years, as a NOCCCD Trustee, Member of the Orange County Community College Legislative Task Force, Member, Audit Committee, and six years Member Board of Directors Cypress College Foundation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My professional career consisted of managerial accounting with Best Foods, my own bankruptcy consulting and forensic accounting practice, and Controller for an industry leading manufacturer and Division Controller for a very successful conglomerate. I have won both real estate and personal property appeals of Orange County assessments. I have also corrected CSD financial reports."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You can count on Blount to come through for you."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3285-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Vernon Miller",
+      "statement": {
+        "by": "Vernon Miller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Realtor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a product of this school district, I know firsthand what makes it special. I walked these campuses, made lifelong friends, and learned from teachers who shaped who I am today. Today's students deserve a board that understands this district and has a vision to help them thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running on three principles: Educate our students to the highest standard, Empower parents to be partners in their children's education, and Energize our community with renewed trust and respect for the board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district faces real challenges that require a fresh perspective. We must close a $3 million budget deficit with practical, forward thinking solutions. Recent turmoil has strained trust with our families and we must rebuild faith in our board by making decisions openly and keeping our community informed, while retaining strong school leadership because stability helps students succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm not running to bring politics into the classroom. I'm running to keep the focus on academics, responsible leadership, and preparing every student for success after graduation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This district invested in me, and now I'm ready to give back by serving the next generation of Cypress students. I'd be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3285-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

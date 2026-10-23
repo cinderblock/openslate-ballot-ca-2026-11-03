@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Alamitos City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-alamitos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:55Z",
+  "candidates": [
+    {
+      "choice": "John M. Delavigne",
+      "statement": {
+        "by": "John M. Delavigne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is John Delavigne and I am running to be your City Council representative for the 5th District. Many of you already know me through community events and the work I have been doing with the Los Alamitos Community Foundation, and I hope to bring this same love and dedication I have for our community to the City Council. We live in an amazing community, and my goal is to work with the community and City Council in a collaborative way to continue making Los Alamitos a city where people want to live, raise families, and open businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife, Jessica, and I have two children, ages 13 and 10. We have lived in the Highlands since 2019, and both children have benefitted from attending our wonderful Los Alamitos Unified schools, and participated in various sports and activities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since moving here, my family and I have felt the sense of community, and have been involved with neighborhood events, sports, school events and volunteer work. In particular, I have been on the board of the LACF since its inception, which is a non-profit organization that supports philanthropy to improve the lives of the people in Los Alamitos!"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5155-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

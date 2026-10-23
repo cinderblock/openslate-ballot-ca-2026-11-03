@@ -1,0 +1,592 @@
+p1 City of San Clemente, San Clemente Natural Hazards
+p1 Sales Tax Citizens Initiative
+p1 Shall the measure establishing two funds dedicated to protecting San Clemente from natural hazards of beach erosion
+p1 and fires and a 1% sales tax increase, providing approximately $15,000,000 annually for 10 years, requiring public
+p1 spending disclosure, independent audits, all funds used locally for specified purposes only, including sand replenishment/
+p1 nourishment/ retention, beach erosion control, maintaining/ restoring beach access/ water quality and supporting fire
+p1 protection/ prevention programs/ services, be adopted?
+p1 What your vote means
+p1 YES
+p1 A “Yes” vote is a vote in favor of the tax.
+p1 For and against
+p1 FOR
+p1 Cameron Cosgrove
+p1 Suzie Whitelaw, PhD
+p1 Tim Brown
+p1 Former Mayor San Clemente
+p1 Benjamin Severson
+p1 Charlie Fox
+p1 NO
+p1 A “No” vote is a vote against the tax.
+p1 AGAINST
+p1 Robert “Bob” Baker
+p1 Former Mayor
+p1 Kathy Ward
+p1 Former Mayor
+p1 Zhen Wu
+p1 Councilmember
+p2 Full Text of Measure M
+p2 City of San Clemente
+p2 The People of the City of San Clemente do ordain as follows:
+p2 SECTION 1. Title
+p2 This initiative measure (Initiative) shall be known and may be cited as The San Clemente Natural Hazards Protection and Resilience Act of 2026
+p2 SECTION 2. Findings
+p2 The people of the City of San Clemente find and declare the following:
+p2 WHEREAS, San Clemente’s unique geography, beach setting, and open space landscapes make it an exceptional place to live, but also expose the City
+p2 to risks from natural hazards; the core purpose of this Initiative is to fund local efforts that enhance the City’s resilience by protecting beaches and
+p2 wildfire-prone open space, and reduce risk to public safety and public infrastructure; and
+p2 WHEREAS, the people of San Clemente seek to take action to protect the City’s beaches, neighborhoods, public infrastructure and future from natural
+p2 hazards—specifically wildfires and beach erosion—by funding targeted measures that enhance resilience and mitigate the immediate and long-term
+p2 impacts of these threats; and
+p2 WHEREAS, San Clemente faces the accelerating natural hazard of beach erosion. Decades of disappearing beaches result from both natural forces
+p2 and the disruption of sand flow caused by upstream flood control structures. This ongoing hazard is intensified by powerful storms and the lack of
+p2 sand replenishment, resulting in reduced safe beach access and walkable beaches. Urgent action is required, as beach restoration and nourishment are
+p2 long-term efforts that require sustained local investment; and
+p2 WHEREAS, protecting San Clemente’s beaches delivers lasting public benefits by preserving the City’s character and reputation as a world-class
+p2 surfing community, supporting local small businesses tied to the beach economy, and maintaining open, accessible beaches for residents and visitors
+p2 alike; and
+p2 WHEREAS, our beaches are a cornerstone of San Clemente’s identity—attracting tourism, enhancing property values, and providing families with a
+p2 treasured connection to the beach and outdoor living. As rising beach erosion threatens this vital resource, preserving the beach is not only a local
+p2 public safety and economic priority; it is also a matter of international significance and civic pride—especially with Lower Trestles selected as the
+p2 surfing venue for the 2028 Olympic Games; and
+p2 WHEREAS, wide, sandy beaches serve as a natural buffer—protecting the Beach Trail, public infrastructure, and public beach access points from storm
+p2 damage; and
+p2 WHEREAS, without prompt action, San Clemente risks not only losing the protection provided by wide sandy beaches, but also diminishing its long-
+p2 term resilience and quality of life for current and future generations; and
+p2 WHEREAS, the City of San Clemente, as steward of its beaches, open spaces, and natural systems, and as guardian of public safety, has an obligation
+p2 to act in the public interest by reducing beach hazards and by protecting, preserving, and enhancing the public’s access to, use of, and enjoyment of its
+p2 beaches and tidelands for the benefit of current and future generations; and
+p2 WHEREAS, City-managed beach hazard protection programs—including sand replenishment, sand retention, and beach and ocean water quality
+p2 initiatives—are essential to fulfilling this duty by protecting public health and ensuring safe, accessible recreational spaces for swimming, surfing,
+p2 walking, and community events, all of which are core to San Clemente’s beach town identity and local small business coastal economy; and
+p2 WHEREAS, Cal Fire’s 2025 Fire Hazard Severity Zone map designates much of San Clemente east of I-5 as a Very High Fire Risk Zone, requiring urgent
+p2 action in wildfire risk reduction, flammable brush clearance, and neighborhood-level wildfire prevention; and
+p2 WHEREAS, devastating wildfires across California have destroyed lives, homes, and entire communities—underscoring the urgent public benefit of
+p2 proactive wildfire prevention, enhanced emergency preparedness, and local fire risk mitigation efforts; and
+p2 WHEREAS, San Clemente faces the accelerating natural hazard of wildfire. Thousands of acres of open space across the city are increasingly overgrown
+p2 with dense, flammable, and invasive vegetation, creating extreme fire danger near homes, neighborhoods, schools, and critical public infrastructure.
+p2 This ongoing hazard is intensified by high wind events, extended drought conditions, and the lack of sustained wildfire prevention and vegetation
+p2 management efforts; and
+p2 WHEREAS, strengthening wildfire hazard preparedness requires proactive stewardship of open spaces, including vegetation management and
+p2 ecological restoration, to reduce fire risk, improve neighborhood resilience, and protect lives, property, and our community’s future; and
+p2 WHEREAS, the City of San Clemente, as steward of its natural lands and open space, and as guardian of public safety, has an obligation to act in
+p2 the public interest by reducing wildfire hazards. This includes coordinating and implementing wildfire prevention strategies across both public and
+p2 private open space. Effective stewardship of these lands—including clearing overgrown vegetation, restoring native plants, and maintaining defensible
+p2 space—is essential to protect neighborhoods, public infrastructure, and the lives of current and future residents from the accelerating threat of
+p2 wildfire; and
+p2 WHEREAS, grant funding for natural hazards protection is uncertain, slow, and highly competitive; protecting San Clemente requires a reliable, locally
+p2 controlled source of funding that allows the City to act decisively and meet required cost-share commitments; and
+p2 WHEREAS, investing in the long-term resilience of San Clemente’s beaches and wildfire-prone areas protects lives, property, supports public health,
+p2 and ensures the community can withstand and recover from future environmental challenges; and
+p2 WHEREAS, a legally restricted fund—with clear spending rules, oversight, and public reporting—ensures transparency, protects taxpayer dollars, and
+p3 delivers direct public benefits to the community by providing financial resources to address imminent harms from natural hazards; and
+p3 WHEREAS, both residents and visitors enjoy San Clemente’s beaches and benefit from local fire protection—this measure ensures that residents and
+p3 visitors contribute fairly to preserving what makes our city special; and
+p3 WHEREAS, this measure includes a 10-year sunset clause and requires voter reapproval after eight years to extend beyond the initial 10 years,
+p3 ensuring accountability and maintaining local control for future generations; and
+p3 NOW, THEREFORE, the citizens of San Clemente, by this initiative ordinance, enact the following measure to help keep our community safe, strengthen
+p3 our resilience to natural hazards, and protect what makes San Clemente special—by restoring our beaches, reducing wildfire risk, and safeguarding
+p3 public health and safety, so that future generations can continue to enjoy the natural beauty, beach access, and quality of life that define our community.
+p3 SECTION 3. Purpose and Intent
+p3 To protect San Clemente’s beach resources and neighborhoods from natural hazards, this Initiative enacts a legally restricted, locally controlled
+p3 special one percent (1%) transactions and use tax within the City of San Clemente, to be administered by the California Department of Tax and Fee
+p3 Administration. This Initiative ensures dedicated local funding to protect San Clemente’s beaches and wildfire-prone neighborhoods from natural
+p3 hazards—specifically, beach erosion and wildfire risks—strengthening the city’s resilience for current and future generations.
+p3 Revenue from the special transactions and use tax shall be allocated equally between the following two legally restricted purposes:
+p3 1. Beach Protection – including sand replenishment, sand retention, and beach erosion control; maintenance and repairs of the Beach Trail, beach
+p3 access points, and the Pier; and beach water quality protection measures related to ocean stormwater management.
+p3 2. Fire Protection and Wildfire Preparedness – Including proactive wildfire risk reduction efforts, hazardous vegetation management, and
+p3 investments in fire emergency response capabilities to enhance public safety and community resilience.
+p3 In addition to the purposes described in this Ordinance, up to five hundred thousand dollars ($500,000) of revenue generated by this special tax may
+p3 be used to reimburse the City for the actual costs incurred in conducting the elections required to enact or extend this measure. This includes the
+p3 initial election and the renewal election referenced in Section 3.22.190 of this Ordinance. Reimbursement shall not exceed the amount invoiced by the
+p3 Orange County Registrar of Voters for the portion of election costs attributable to this initiative and shall not exceed five hundred thousand dollars
+p3 ($500,000) in the aggregate, shared equally between the Beach Protection Fund and the Fire Protection and Wildfire Preparedness Fund, and across
+p3 both elections.
+p3 SECTION 4. Addition of Chapter 3.22
+p3 The San Clemente Municipal Code is hereby amended to add Chapter 3.22 as set forth below, thereby enacting a one percent (1%) special local
+p3 transactions and use tax within the City of San Clemente, to be administered by the California Department of Tax and Fee Administration
+p3 CHAPTER 3.22: SAN CLEMENTE NATURAL HAZARDS PROECTION AND RESILIENCE SPECIAL TRANSACTIONS AND USE TAX
+p3 3.22.010 Title.
+p3 The Ordinance codified in this chapter shall be known as the “SAN CLEMENTE NATURAL HAZARDS PROTECTION AND RESILIENCE SPECIAL TRANSACTIONS
+p3 AND USE TAX.” The City of San Clemente hereinafter shall be called “City.” This Ordinance shall be applicable in the incorporated territory of the City.
+p3 3.22.020 Operative Date.
+p3 “Operative Date” means the first day of the first calendar quarter commencing more than 110 days after the adoption of this Ordinance, the date of
+p3 adoption being set forth below.
+p3 3.22.030. Purpose.
+p3 This Ordinance is adopted to achieve the following, among other purposes, and directs that the provisions hereof be interpreted to accomplish those
+p3 purposes:
+p3 A. To impose a specific purpose retail transactions and use tax, in accordance with the provisions of Part 1.6 (commencing with Section 7251) of
+p3 Division 2 of the Revenue and Taxation Code and Section 7285.91 of Part 1.7 of Division 2, which authorizes the City to adopt this tax Ordinance, which
+p3 shall be operative if approved by a simple majority vote of the electors voting on the measure vote to approve the imposition of the tax at an election
+p3 called for that purpose, consistent with the people’s constitutional right of initiative.
+p3 B. To adopt a specific purpose retail transactions and use tax ordinance that incorporates provisions identical to those of the Sales and Use Tax Law of
+p3 the State of California insofar as those provisions are not inconsistent with the requirements and limitations contained in Part 1.6 of Division 2 of the
+p3 Revenue and Taxation Code.
+p3 C. To adopt a specific purpose retail transactions and use tax ordinance that imposes a tax and provides a measure therefore that can be administered
+p3 and collected by the California Department of Tax and Fee Administration in a manner that adapts itself as fully as practicable to, and requires the least
+p3 possible deviation from, the existing statutory and administrative procedures followed by the California Department of Tax and Fee Administration in
+p3 administering and collecting the California State sales and use taxes.
+p3 D. To adopt a specific purpose retail transactions and use tax ordinance that can be administered in a manner that will be, to the greatest degree
+p3 possible, consistent with the provisions of Part 1.6 of Division 2 of the Revenue and Taxation Code, minimize the cost of collecting the transactions
+p3 and use taxes, and at the same time, minimize the burden of record keeping upon persons subject to taxation under the provisions of this Ordinance.
+p3 3.22.040 Contract with State.
+p3 Prior to the Operative Date, City shall contract with the California Department of Tax and Fee Administration to perform all functions incident to
+p3 the administration and operation of this transactions and use tax Ordinance; provided, that if the City shall not have contracted with the California
+p4 Department of Tax and Fee Administration prior to the Operative Date, it shall nevertheless so contract, and in such a case the Operative Date shall be
+p4 the first day of the first calendar quarter following the effective date of such a contract.
+p4 3.22.050 Transactions Tax Rate.
+p4 For the privilege of selling tangible personal property at retail, a tax is hereby imposed upon all retailers in the incorporated territory of the City at the
+p4 rate of one percent (1%) of the gross receipts of any retailer from the sale of all tangible personal property sold at retail in said territory on and after
+p4 the Operative Date of this Ordinance.
+p4 3.22.060 Place of Sale.
+p4 For the purposes of this Ordinance, all retail sales are consummated at the place of business of the retailer unless the tangible personal property sold
+p4 is delivered by the retailer or his agent to an out of-state destination or to a common carrier for delivery to an out-of-state destination. The gross
+p4 receipts from such sales shall include delivery charges, when such charges are subject to the State sales and use tax, regardless of the place to which
+p4 delivery is made. In the event a retailer has no permanent place of business in the State or has more than one place of business, the place or places
+p4 at which the retail sales are consummated for the purpose of a transactions tax proposed by this Ordinance shall be determined under rules and
+p4 regulations prescribed and adopted or to be prescribed and adopted by the California Department of Tax and Fee Administration or under the Revenue
+p4 and Taxation Code.
+p4 3.22.070 Use Tax Rate.
+p4 An excise tax is hereby imposed on the storage, use or other consumption in the City of tangible personal property purchased from any retailer on and
+p4 after the Operative Date of this Ordinance for storage, use or other consumption in said territory at the rate of one percent (1%) of the sales price of
+p4 the property. The sales price shall include delivery charges when such charges are subject to state sales or use tax regardless of the place to which
+p4 delivery is made.
+p4 3.22.080 Adoption of Provisions of State Law.
+p4 Except as otherwise provided in this Ordinance and except insofar as they are inconsistent with the provisions of Part 1.6 of Division 2 of the Revenue
+p4 and Taxation Code, all of the provisions of Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code are hereby adopted
+p4 and made a part of this Ordinance as though fully set forth herein.
+p4 For reference of the voters only, the full text of Part 1 of Division 2 of the Revenue and Taxation Code, as codified on July 25, 2025, is set forth as an
+p4 Appendix to the circulating petition but is not intended to be set forth in full in the Municipal Code.
+p4 3.22.090 Limitations on Adoption of State Law and Collection of Use Taxes.
+p4 In adopting the provisions of Part 1 of Division 2 of the Revenue and Taxation Code:
+p4 A. Wherever the State of California is named or referred to as the taxing agency, the name of this City shall be substituted therefor. However, the
+p4 substitution shall not be made when:
+p4 1. The word “State” is used as part of the title of the State Controller, State Treasurer, State Treasury, or the Constitution of the State of
+p4 California;
+p4 2. The result of that substitution would require action be taken by or against this City or any agency, officer, or employee thereof, rather
+p4 than by or against the California Department of Tax and Fee Administration, in performing the functions incident to the administration or
+p4 operation of this Ordinance.
+p4 3. In those sections, including but not necessarily limited to sections referring to the exterior boundaries of the State of California, where the
+p4 result of the substitution would be to:
+p4 a. Provide an exemption from this tax with respect to certain sales, storage, use or other consumption of tangible personal property that
+p4 would not otherwise be exempt from this tax while such sales, storage, use or other consumption remains subject to tax by the State
+p4 under the provisions of Part 1 of Division 2 of the Revenue and Taxation Code; or
+p4 b. Impose this tax with respect to certain sales, storage, use or other consumption of tangible personal property which would not be
+p4 subject to tax by the State under the said provision of that code.
+p4 4. In Sections 6701, 6702 (except in the last sentence thereof), 6711, 6715 (except in relation to the Code of Civil Procedure and the Civil Code),
+p4 6737, 6797 or 6828 of the Revenue and Taxation Code.
+p4 B. The word “City” shall be substituted for the word “state” in the phrase “retailer engaged in business in this state” in Section 6203 and in the
+p4 definition of that phrase in Section 6203 of the Revenue and Taxation Code.
+p4 1. “A retailer engaged in business in the City” shall also include any retailer that, in the preceding calendar year or the current calendar year,
+p4 has total combined sales of tangible personal property in this state or for delivery in the State by the retailer and all persons related to the
+p4 retailer that exceeds $500,000. For purposes of this section, a person is related to another person if both persons are related to each other
+p4 pursuant to Section 267(b) of Title 26 of the United States Code and the regulations thereunder.
+p4 3.22.100 Permit/Registration Not Required.
+p4 A. If a seller’s permit has been issued to a retailer under Section 6067 of the Revenue and Taxation Code, an additional transactor’s permit shall not
+p4 be required by this Ordinance.
+p5 3.22.110 Exemptions and Exclusions.
+p5 A. There shall be excluded from the measure of the transactions tax and the use tax the amount of any sales tax or use tax imposed by the State of
+p5 California or by any city, city and county, or county pursuant to the Bradley-Burns Uniform Local Sales and Use Tax Law or the amount of any state-
+p5 administered transactions or use tax.
+p5 B. There are exempted from the computation of the amount of transactions tax the gross receipts from:
+p5 1. Sales of tangible personal property, other than fuel or petroleum products, to operators of aircraft to be used or consumed principally
+p5 outside the county in which the sale is made and directly and exclusively in the use of such aircraft as common carriers of persons or
+p5 property under the authority of the laws of this State, the United States, or any foreign government.
+p5 2. Sales of property to be used outside the City which is shipped to a point outside the City, pursuant to the contract of sale, by delivery to
+p5 such point by the retailer or his agent, or by delivery by the retailer to a carrier for shipment to a consignee at such point. For the purposes
+p5 of this paragraph, delivery to a point outside the City shall be satisfied:
+p5 a. With respect to vehicles (other than commercial vehicles) subject to registration pursuant to Chapter 1 (commencing with
+p5 Section 4000) of Division 3 of the Vehicle Code, aircraft licensed in compliance with Section 21411 of the Public Utilities Code, and
+p5 undocumented vessels registered under Chapter 2 of Division 3.5 (commencing with Section 9840) of the Vehicle Code by registration
+p5 to an out-of-City address and by a declaration under penalty of perjury, signed by the buyer, stating that such address is, in fact, his or
+p5 her principal place of residence; and
+p5 b. With respect to commercial vehicles, by registration to a place of business out-of-City and declaration under penalty of perjury,
+p5 signed by the buyer, that the vehicle will be operated from that address.
+p5 3. The sale of tangible personal property if the seller is obligated to furnish the property for a fixed price pursuant to a contract entered into
+p5 prior to the Operative Date of this Ordinance.
+p5 4. A lease of tangible personal property which is a continuing sale of such property, for any period for which the lessor is obligated to lease the
+p5 property for an amount fixed by the lease prior to the Operative Date of this Ordinance.
+p5 5. For the purposes of subsections (3) and (4) of this section, the sale or lease of tangible personal property shall be deemed not to be obligated
+p5 pursuant to a contract or lease for any period of time for which any party to the contract or lease has the unconditional right to terminate the
+p5 contract or lease upon notice, whether or not such right is exercised.
+p5 C. There are exempted from the use tax imposed by this Ordinance, the storage, use or other consumption in this City of tangible personal property;
+p5 1. The gross receipts from the sale of which have been subject to a transactions tax under any State-administered transactions and use tax
+p5 ordinance.
+p5 2. Other than fuel or petroleum products purchased by operators of aircraft and used or consumed by such operators directly and exclusively
+p5 in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience
+p5 and necessity issued pursuant to the laws of this State, the United States, or any foreign government. This exemption is in addition to the
+p5 exemptions provided in Sections 6366 and 6366.1 of the Revenue and Taxation Code of the State of California.
+p5 3. If the purchaser is obligated to purchase the property for a fixed price pursuant to a contract entered prior to the Operative Date of this
+p5 Ordinance.
+p5 4. If the possession of, or the exercise of any right or power over, the tangible personal property arises under a lease which is a continuing
+p5 purchase of such property for any period for which the lessee is obligated to lease the property for an amount fixed by a lease prior to the
+p5 Operative Date of this Ordinance.
+p5 5. For the purposes of subsections (3) and (4) of this section, storage, use, or other consumption, or possession of, or exercise of any right or
+p5 power over, tangible personal property shall be deemed not to be obligated pursuant to a contract or lease for any period of time for which
+p5 any party to the contract or lease has the unconditional right to terminate the contract or lease upon notice, whether or not such right is
+p5 exercised.
+p5 6. Except as provided in subsection (7) of this section, a retailer engaged in business in the City shall not be required to collect use tax from
+p5 the purchaser of tangible personal property, unless the retailer ships or delivers the property into the City or participates within the City
+p5 in making the sale of the property, including, but not limited to, soliciting or receiving the order, either directly or indirectly, at a place of
+p5 business of the retailer in the City or through any representative, agent, canvasser, solicitor, subsidiary, or person in the City under the
+p5 authority of the retailer.
+p5 7. “A retailer engaged in business in the City” shall also include any retailer of any of the following: vehicles subject to registration pursuant
+p5 to Chapter 1 (commencing with Section 4000) of Division 3 of the Vehicle Code, aircraft licensed in compliance with Section 21411 of the
+p5 Public Utilities Code, or undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the Vehicle Code. That
+p5 retailer shall be required to collect use tax from any purchaser who registers or licenses the vehicle, vessel, or aircraft at an address in the
+p5 City
+p5 D. Any person subject to use tax under this Ordinance may credit against that tax any transactions tax or reimbursement for transactions tax paid to
+p5 a City imposing, or retailer liable for, a transactions tax pursuant to Part 1.6 of Division 2 of the Revenue and Taxation Code with respect to the sale to
+p5 the person of the property the storage, use or other consumptions of which is subject to the use tax.
+p6 3.22.120 Amendments of Revenue and Taxation Code.
+p6 All amendments subsequent to the effective date of this Ordinance to Part 1 of Division 2 of the Revenue and Taxation Code relating to sales and use
+p6 taxes and which are not inconsistent with Part 1.6 and Part 1.7 of Division 2 of the Revenue and Taxation Code, and all amendments to Part 1.6 and Part
+p6 1.7 of Division 2 of the Revenue and Taxation Code, shall automatically become a part of this Ordinance as codified in this chapter; provided, however,
+p6 that no such amendment shall operate so as to affect the rate of tax imposed by this Ordinance.
+p6 3.22.130 Enjoining Collection Forbidden.
+p6 No injunction or writ of mandate or other legal or equitable process shall issue in any suit, action or proceeding in any court against the State or the
+p6 City, or against any officer of the State or the City, to prevent or enjoin the collection under this Ordinance, or Part 1.6 of Division 2 of the Revenue and
+p6 Taxation Code, of any tax or any amount of tax required to be collected.
+p6 3.22.140 Amendments of Ordinance.
+p6 The following amendments to this Ordinance as codified in this chapter must be approved by the voters of the City: increasing the tax rate; revising the
+p6 methodology for calculating the tax, such that a tax increase would result; imposing the tax on transactions and uses not previously subject to the tax
+p6 (unless such amendment occurs automatically by operation of law); or terminating the tax. Amendments due to legislative changes to Part 1 of Division
+p6 2 of the Revenue and Tax Code shall not require voter approval.
+p6 3.22.150 Use of Proceeds; Expenditure Plan
+p6 To provide a public benefit and to improve San Clemente’s resilience to natural hazards by protecting its beach resources and residential neighborhoods
+p6 from natural hazards, all revenues collected pursuant to this ordinance from the one percent (1.0%) transactions and use tax shall be deposited into
+p6 two legally restricted special funds, maintained by the City of San Clemente as follows:
+p6 A. Beach Protection Fund – Fifty percent (50%) of all tax proceeds shall be deposited into a legally restricted fund dedicated exclusively to the
+p6 planning, implementation, and maintenance of beach protection and restoration efforts. Expenditures shall be limited to the enumerated purposes in
+p6 this section and other directly related activities that clearly advance the goals of natural hazard beach protection and restoration as set forth in this
+p6 Ordinance and The San Clemente Natural Hazard Protection and Resilience Act of 2026. The enumerated purposes are:
+p6 1. Sand replenishment, nourishment, and retention projects.
+p6 2. Beach erosion control measures.
+p6 3. Maintenance, repair, and improvement of the Beach Trail, public beach access points, pedestrian bridges, the Pier, and beachfront restrooms—
+p6 to ensure safe coastal access, protect critical beach infrastructure, and address damage from erosion and storm events.
+p6 4. Beach water quality protection measures related to stormwater management and filtration systems, to keep beaches clean and ocean waters
+p6 safe for swimming and surfing.
+p6 Of the funds deposited into the Beach Protection Fund, at least seventy percent (70%) of total expenditures must be used for the purposes identified
+p6 in items 1. and 2. above. In addition, up to two hundred fifty thousand dollars ($250,000) from the Beach Protection Fund may be expended to
+p6 reimburse the City for its proportional share of the actual costs incurred in conducting the elections required to enact or extend this tax, including
+p6 the initial election and the renewal election referenced in Section 3.22.190. Such reimbursement shall not exceed the portion of election costs
+p6 attributable to this initiative as invoiced by the Orange County Registrar of Voters and shall be limited to a combined total of five hundred thousand
+p6 dollars ($500,000) in the aggregate across both funds and both elections.
+p6 B. Fire Protection and Wildfire Preparedness Fund – Fifty percent (50%) of all tax proceeds shall be deposited into a legally restricted fund
+p6 dedicated exclusively to fire prevention, emergency response support, and wildfire risk reduction. Expenditures shall be limited to the enumerated
+p6 purposes in this section and other directly related activities that clearly advance the goals of wildfire protection as set forth in this Ordinance and
+p6 The San Clemente Natural Hazard Protection and Resilience Act of 2026. The enumerated purposes are:
+p6 1. Support for fire protection and emergency medical response services provided by the Orange County Fire Authority (OCFA), and/or other
+p6 fire protection services provided or contracted by the City of San Clemente, including resources to enhance wildfire readiness, emergency
+p6 response capabilities, and the firefighters, paramedics, and equipment needed to protect lives, property, and public safety in San Clemente.
+p6 2. City-administered, long-term wildfire prevention programs that include planning, risk assessments, and partnerships to reduce wildfire
+p6 hazards across San Clemente. The City shall direct and carry out these programs citywide—on both public and private lands—to remove
+p6 flammable vegetation and reduce other fire hazards. Strategies may include mechanical removal, targeted goat and sheep grazing, and
+p6 other cost-effective vegetation management techniques that can be applied across large or connected areas. Treated areas may also be
+p6 restored with native, fire-resistant plants to help prevent the regrowth of invasive species, stabilize soils, and reduce the risk of future
+p6 wildfires.
+p6 3. Citywide community outreach, education, and engagement programs focused on wildfire prevention and vegetation management across
+p6 both public and private property. This includes homeowner and neighborhood wildfire hazard risk reduction strategies, coordination with
+p6 homeowners’ associations (HOAs), neighborhood groups, and community organizations.
+p6 In addition, up to two hundred fifty thousand dollars ($250,000) from the Fire Protection and Wildfire Preparedness Fund may be expended to reimburse
+p6 the City for its proportional share of the actual costs incurred in conducting the elections required to enact or extend this tax, including the initial
+p6 election and the renewal election referenced in Section 3.22.190. Such reimbursement shall not exceed the portion of election costs attributable to
+p6 this initiative as invoiced by the Orange County Registrar of Voters and shall be limited to a combined total of five hundred thousand dollars ($500,000)
+p6 in the aggregate across both funds and both elections.
+p7 C. Legal Restriction on Use of Funds.
+p7 All revenues deposited into the funds described above shall be legally restricted and shall not be used for any other purpose, including but not limited
+p7 to transfers to the City’s General Fund or use for unrelated municipal services or expenditures. Reimbursement of the City’s expenses for conducting
+p7 the elections on this Measure is not an unrelated municipal service or expenditure. All of the above uses are deemed to be a public benefit.
+p7 These dedicated funds shall be subject to oversight, annual public reporting, and financial audits, as provided elsewhere in this Ordinance, to ensure
+p7 transparency, accountability, and alignment with the voter-approved purposes.
+p7 3.22.160 Independent Annual Audit.
+p7 The proceeds resulting from these transactions and use tax shall be subject to the same independent annual audit requirements as other City revenues.
+p7 The independent auditor’s report, which shall include an accounting of the revenues received and expenditures made from the transactions and use
+p7 tax, will be presented to the City Council and made available for public review.
+p7 3.22.170 Implementation
+p7 A. Oversight and Management
+p7 The City of San Clemente shall be solely responsible for the implementation, administration, and oversight of all programs, projects, and expenditures
+p7 funded pursuant to this ordinance. All uses of revenue collected under this measure shall comply strictly with the purposes and restrictions set forth
+p7 herein.
+p7 B. City Council Approval Required
+p7 All programs, projects, expenditures, contracts, and grant applications funded in whole or in part from the Beach Protection Fund or the Fire Protection
+p7 and Wildfire Preparedness Fund shall require approval by the San Clemente City Council at a duly noticed public meeting.
+p7 C. Operational Planning Requirement
+p7 Within twelve (12) months of the effective date of this ordinance, using moneys deposited into the funds established in section 3.22.150 A and B, the
+p7 City shall prepare and adopt operational plans for protecting and enhancing the City’s natural hazards resilience, including:
+p7 1. ABeach Protection Operational Planthat identifies project priorities, timelines, geographic targets, cost estimates, environmental permitting
+p7 requirements, and long-term goals for beach restoration and erosion control.
+p7 2. A Wildfire Protection and Preparedness Operational Plan that establishes a wildfire prevention and risk reduction program, incorporating
+p7 defensible space best practices, fire fuel load reduction targets and strategies, interagency emergency coordination protocols, and public
+p7 education objectives.
+p7 Each plan shall be reviewed and adopted by resolution of the City Council at least once every four (4) years, or more frequently as needed to reflect
+p7 emerging risks, funding availability, or new regulatory requirements. Moneys deposited into the funds established in section 3.22.150 A and B may be
+p7 utilized for the purpose of updating the plans.
+p7 D. Interdepartmental and Interagency Coordination
+p7 The City may coordinate with local, regional, state, and federal agencies, as well as with Homeowners’ Associations and community-based organizations,
+p7 to implement the goals of this ordinance and maximize the impact of the funds through partnerships and grant leveraging.
+p7 E. Administrative and Reporting Duties
+p7 City staff shall ensure timely development of required reports, budgets, audits, and public information related to this ordinance, including the
+p7 preparation of the Annual Accountability Report and submission to the designated Oversight Committee as defined in 3.22.180 Reporting Section.
+p7 3.22.180 Reporting and Oversight.
+p7 A. Annual Accountability Report
+p7 The City of San Clemente shall prepare and publish an Annual Accountability Report detailing the use of revenues generated pursuant to this ordinance
+p7 from both the Beach Protection Fund and the Fire Protection and Wildfire Preparedness Fund, to provide full transparency and maintain public trust.
+p7 This report shall be presented to the City Council in a public meeting and made available to the public via the City’s website no later than three (3)
+p7 months after the close of each fiscal year in which the tax is collected.
+p7 B. Report Contents
+p7 The Annual Accountability Report shall include, but not be limited to, the following:
+p7 1. A full accounting of tax revenues received and deposited into both dedicated funds.
+p7 2. A categorized breakdown of expenditures by project, program, or operational activity.
+p7 3. A summary of progress and outcomes aligned with the most recent Beach Protection Operational Plan and Wildfire Protection and Preparedness
+p7 Operational Plan.
+p7 4. Performance data including relevant metrics, milestones, or deliverables.
+p7 5. Identification of unspent funds with proposed future uses.
+p7 6. Recommendations for improving efficiency, effectiveness, or alignment with voter intent.
+p7 C. Oversight Committee(s) Established.
+p7 1. Financial Oversight:
+p7 The City’s Investment Advisory Committee is hereby designated as the Financial Oversight Committee for purposes of this chapter. The Committee
+p7 shall review all expenditures of funds generated by the transactions and use tax established by this ordinance and ensure that all disbursements are
+p8 consistent with the legally authorized purposes of beach protection and restoration, and wildfire protection, as defined herein.
+p8 An Annual Accountability Report shall be prepared and submitted to the Financial Oversight Committee. The Committee shall review the report,
+p8 verify that funds have been expended in accordance with this ordinance, and issue a written Statement of Compliance or Concern. This statement
+p8 shall be included in the public record and published alongside the Annual Accountability Report.
+p8 2. Operational Oversight:
+p8 In addition to financial oversight, the City may establish a separate Operational Oversight Committee to provide periodic review of project
+p8 implementation, performance outcomes, and alignment with the City’s wildfire and beach protection operational plans. The structure, responsibilities,
+p8 and reporting frequency of the Operational Oversight Committee shall be determined by resolution of the City Council.
+p8 D. Transparency and Public Access
+p8 All reports, supporting documentation, and Oversight Committee findings shall be posted on the City of San Clemente’s official website and maintained
+p8 in a publicly accessible archive for the duration of the tax’s effective period.
+p8 3.22.190 Term
+p8 If this measure is approved by voters, the sales tax increase shall take effect on the operative date, which is the day of the first calendar quarter
+p8 commencing more than 110 days after the adoption of this ordinance.
+p8 The measure shall remain in effect for a period of 10 years.
+p8 An election shall be held on the question whether the tax imposed by the Ordinance shall be renewed (“Renewal Election”) in the calendar year
+p8 beginning eight years after the Operational Date at a general municipal election. If a simple majority vote affirms the measure in the Renewal Election,
+p8 it shall be extended for one additional 10-year term.
+p8 If the measure fails to receive a simple majority at the Renewal Election, the sales tax increase shall expire at the end of the 10-year period beginning
+p8 with the Operational Date, ensuring an orderly conclusion to funded programs and projects.
+p8 3.22.200 Severability.
+p8 If any provision of this Ordinance as codified in this chapter or the application thereof to any person or circumstance is held invalid, the remainder of
+p8 the Ordinance and the application of such provision to other persons or circumstances shall not be affected thereby. Such invalidity shall not affect
+p8 other provisions or applications of the Ordinance which can be given effect without the invalid provision or application, and to this end the provisions
+p8 of this Ordinance are severable.
+p8 The People of the City of San Clemente hereby declare that they would have adopted this Ordinance as codified in this chapter irrespective of the
+p8 invalidity of any particular portion thereof and intend that the invalid portions should be severed, and the balance of the Ordinance be enforced.
+p8 Section 5. Competing Measures.
+p8 This Initiative adopts a transactions and use tax for the purpose of funding specific programs, establishing a tax amount in consideration of an
+p8 appropriate amount of new taxation to be imposed in the City of San Clemente. By voting for this Initiative, the voters expressly declare their intent
+p8 that any other City of San Clemente measure that appears on the same ballot as this Initiative and imposes new or increased taxes in San Clemente, or
+p8 otherwise conflicts with any provision of this Initiative, shall be deemed to conflict with the scheme adopted by this Initiative. Because of this conflict,
+p8 if this Initiative and any such other City of San Clemente measure receive a majority of votes by the voters voting thereon at the same election, then
+p8 the measure receiving the most votes in favor shall prevail and no provision of the other measure shall take effect.
+p8 Section 6. Interpretation and Application
+p8 This Initiative shall be broadly construed in order to achieve its purpose. It is the intent of the voters that the provisions of this Initiative be interpreted
+p8 or implemented by the City in a manner that facilitates the purposes set forth in this Initiative.
+p8 This Initiative shall be interpreted so as to be consistent with all applicable Federal and State laws, rules, and regulations. If any section, subsection,
+p8 paragraph, subparagraph, sentence, clause, phrase, part, or portion of this Initiative is held to be invalid or unconstitutional by a final judgment of a
+p8 court of competent jurisdiction, it is the will of the voters that such decision shall not affect the validity of the remaining portions of this Initiative. The
+p8 voters hereby declare that this Initiative, and each section, subsection, paragraph, subparagraph, sentence, clause, phrase, part, or portion thereof
+p8 would have been adopted or passed even if one or more sections, subsections, paragraphs, subparagraphs, sentences, clauses, phrases, parts, or
+p8 portions were declared invalid or unconstitutional. If any provision of this Initiative is held invalid as applied to any person or circumstance, such
+p8 invalidity shall not affect any application of this Initiative that can be given effect without the invalid application.
+p8 If any portion of this Initiative is held by a court of competent jurisdiction to be invalid, we, the People of the City of San Clemente, indicate our strong
+p8 desire that: (1) the City Council use its best efforts to sustain and re-enact that portion; and (2) the City Council implement this Initiative by taking all
+p8 steps possible to cure any inadequacies or deficiencies identified by the court in a manner consistent with the express intent of this Initiative, including
+p8 adopting or reenacting any such portion in a manner consistent with this Initiative, if possible.
+p8 Any singular term shall include the plural, and any plural term shall include the singular. The title and captions of the various sections in this Initiative
+p8 are for convenience and organization only and are not intended to be referred to in construing the provisions of this Initiative.
+p8 Section 7. Adoption
+p8 Pursuant to Elections Code Section 9217, this Initiative shall be considered as adopted upon the date that the vote by the electorate of the City
+p8 of San Clemente is declared by the City Council and shall become effective ten (10) days after that date.
+p9 Section 8. Implementation
+p9 This Initiative authorizes City of San Clemente officers and employees to take all steps necessary to implement this Initiative in the manner
+p9 required by law, including any applicable amendments to the laws as necessary.
+p9 Appendix
+p9 This Appendix is provided for the reference of the voters only. The provisions are not to be codified in the San Clemente Municipal Code, but rather the
+p9 Code will incorporate by reference the state law, as set forth in Revenue and Tax Code sections 7261 and 7262.
+p9 Impartial Analysis
+p9 City of San Clemente
+p9 Measure M
+p9 A petition signed by the requisite number of San Clemente voters placed Measure M on the ballot for voters to decide whether a 1% transactions
+p9 and use tax (commonly known as “sales tax”) should be added to retail sales prices (or 1 cent for an item that costs one dollar).
+p9 Because this measure legally restricts the use of revenue to specific purposes, it is a “special tax”. Half the proceeds must be deposited into
+p9 a new City “Beach Protection Fund” and expenditures must directly relate to: (1) sand replenishment, nourishment or retention projects; (2) beach
+p9 erosion control measures; (3) maintenance, repair or improvement of the Beach Trail, public beach access points, pedestrian bridges, the Pier or
+p9 beachfront restrooms; or (4) beach water quality protection measures. At least 70% of total Beach Protection Fund expenditures must be for items (1)
+p9 and (2) above. The other half of the proceeds must be deposited into a new City “Fire Protection and Wildfire Preparedness Fund” and expenditures
+p9 must directly relate to: (1) support for fire protection or emergency medical response services; (2) citywide wildfire prevention programs on public and
+p9 private lands; or (3) citywide community outreach, education and engagement programs focused on wildfire prevention and vegetation management
+p9 across public and private property.
+p9 The two dedicated funds will be subject to the same independent annual audit as other City funds. Up to $250,000 from each fund ($500,000
+p9 total) may reimburse the City for its actual costs incurred to the Orange County Registrar of Voters for conducting the elections to enact or extend this
+p9 tax. The City’s Investment Advisory Committee will serve as an Oversight Committee, reviewing expenditures of all revenue collected to determine
+p9 whether funds are properly expended. An accounting of revenues and expenditures will be presented annually to the City Council and made available
+p9 for public review. The City will be required to publish an “Annual Accountability Report” including breakdowns, summary of progress and outcomes
+p9 aligned with the required Beach Protection and Wildfire Protection and Preparedness Operational Plans, performance data, unspent funds, proposed
+p9 future uses, and recommendations for improvements.
+p9 Currently, the tax on retail sales within the City of San Clemente is 7.75%, which includes the 7.25% base tax rate and Orange County’s 0.5%
+p9 local transportation tax. Of the 7.25% base tax collected by the State, the City of San Clemente receives 1% directly. The City estimates a new 1% sales
+p9 tax would result in additional revenue of approximately $15 million annually to the City of San Clemente for 10 years and could be extended for an
+p9 additional 10 years by another majority vote in 8 years.
+p9 A “Yes” vote is a vote in favor of the tax. A “No” vote is a vote against the tax. Measure M will be approved if it receives a majority (50% + 1) of
+p9 “Yes” votes. If approved, the total sales tax rate within the City of San Clemente will increase to 8.75%.
+p9 s/ Elizabeth A. Mitchell
+p9 City Attorney, City of San Clemente
+p9 The above statement is an impartial analysis of Measure M. If you desire a copy of the ordinance or measure, please call the elections
+p9 official’s office at 949-361-8301 and a copy will be mailed at no cost to you. You may also view the full text of Measure M at
+p9 www.sanclemente.gov/election.
+p10 Argument in Favor of Measure M
+p10 San Clemente is at a turning point.
+p10 For decades, we have watched our beaches erode. What was once a wide,
+p10 walkable shoreline has disappeared in many areas. The natural supply of
+p10 sand has been cut off.
+p10 At the same time, neighborhoods east of I-5 are now classified as Very
+p10 High Fire Hazard Zones, with rising wildfire risk, increasing insurance costs,
+p10 canceled policies, and limited local resources to reduce risk. Wildfire is a
+p10 citywide threat. When driven by high winds, it can spread rapidly, forcing
+p10 evacuations and putting lives at risk. Prevention is our most effective
+p10 strategy.
+p10 This citizen-led measure provides a locally controlled solution to address
+p10 two growing natural hazards threatening San Clemente’s safety, economy,
+p10 and quality of life: beach erosion and wildfire risk.
+p10 Dedicated funding comes from a 1% sales tax for 10 years, with visitors
+p10 contributing, and does not apply to groceries or prescriptions.
+p10 Every dollar is legally restricted: 50% for wildfire prevention and fire
+p10 protection, and 50% for beach protection, with at least 70% of beach funds
+p10 dedicated to putting sand back on our beaches through replenishment
+p10 and retention. These priorities are locked in and funds cannot be diverted
+p10 to unrelated City expenses.
+p10 Wider beaches protect the Beach Trail, the Pier, public beach access, our
+p10 coastal economy and quality of life.
+p10 Investing in wildfire prevention before disaster strikes, not after, helps
+p10 protect lives, homes, and neighborhoods while strengthening community
+p10 resilience.
+p10 These investments also allow San Clemente to compete for state and
+p10 federal funding that requires local matching dollars.
+p10 This measure includes accountability: independent oversight, annual
+p10 audits, public reporting, and a 10-year sunset requiring voter renewal.
+p10 This is our opportunity to act before these challenges grow worse. We
+p10 cannot afford further delays.
+p10 Vote YES to restore San Clemente’s beaches, protect our neighborhoods,
+p10 and secure our future.
+p10 s/ Cameron Cosgrove
+p10 s/ Suzie Whitelaw, PhD
+p10 s/ Tim Brown
+p10 Former Mayor San Clemente
+p10 s/ Benjamin Severson
+p10 s/ Charlie Fox
+p10 Rebuttal to Argument in Favor of Measure M
+p10 We share the concern for our beaches and our neighborhoods. That is
+p10 exactly why this measure — which cannot guarantee what it promises —
+p10 deserves a closer look.
+p10 San Clemente already pays about $12 million annually for OCFA fire and
+p10 emergency response — one of the nation’s finest fire authorities, with
+p10 equipment and assets already forward-positioned to protect us.
+p10 The proponents promise “dedicated funding.” But read the fine print: zero
+p10 requirement to increase total fire protection — not by a single dollar.
+p10 Because this measure lacks a “maintenance-of-effort” safeguard, the
+p10 new fire tax can replace existing costs, freeing up millions in current City
+p10 funds for unrelated spending. You pay more; you may not get more.
+p10 That is the shell game behind the claim that “every dollar is legally
+p10 restricted.” Technically true — and for that reason, inherently
+p10 misleading.
+p10 Even the City’s own FEMA hazard mitigation grant application estimates
+p10 the cost of wildfire prevention at about $2.1 million annually. Yet this
+p10 measure dedicates $7.5 million to fire — with no concrete plan for the
+p10 remaining $5.4 million and no requirement to show measurable increase
+p10 in fire protection.
+p10 Tax first. Plan later.
+p10 This loophole is written directly into the law. Any future City Council “fix”
+p10 is temporary and reversible. Once passed, voters lose their leverage to
+p10 ensure the promised benefits are actually delivered.
+p10 San Clemente’s beaches and neighborhoods deserve a measure that
+p10 delivers what it claims — with guarantees written into law, not just
+p10 promises spoken aloud. This one doesn’t.
+p10 Demand better. Vote NO.
+p10 s/ Zhen Wu
+p10 Councilmember
+p10 s/ Robert Baker
+p10 Former Mayor
+p10 s/ Kathy Ward
+p10 Former Mayor
+p11 Argument Against Measure M
+p11 Voters rejected the 0.5% tax. Proponents are back with a doubled ask—
+p11 without a clear plan, safeguards, or cost-benefit analysis. This measure
+p11 uses most of the City’s remaining 1.5% local tax capacity, leaving little
+p11 room for real emergencies.
+p11 It Hurts Residents
+p11 An 8.75% tax would make San Clemente the highest-taxed in South
+p11 Orange County. It’s not “just a penny.” It would raise about $150,000,000
+p11 over 10 years, largely paid by residents. Families would pay more for gas,
+p11 cars, dining, and everyday purchases.
+p11 The Beach Fund Overreach
+p11 The 50-year Army Corps sand project costs roughly $10,000,000 every
+p11 5–6 years. OCTA has already committed 540,000 cubic yards of sand
+p11 at no cost to the City. With at least 70% of the $7,500,000 beach fund
+p11 earmarked for sand, this measure demands far more local spending even
+p11 as federal and regional agencies are already contributing. The City only
+p11 owns two miles of beach; the rest is State or private property. Should local
+p11 taxpayers help pay to protect that coastline without fair cost-sharing?
+p11 The Fire Fund Loophole
+p11 We already pay about $12,000,000 annually for OCFA’s premier fire
+p11 and emergency response. This measure adds a new $7,500,000 tax for
+p11 fire prevention, but it lacks any legal requirement to increase total fire
+p11 spending levels. Without that safeguard, new tax revenue could replace
+p11 existing funding instead of increasing fire protection. Taxpayers could
+p11 pay more without getting more.
+p11 We all love our beaches. We all want fire safety. But this 1% tax hike is
+p11 too large, poorly structured, and the wrong approach at a difficult time
+p11 for many families.
+p11 Don’t give the City a blank check. Vote NO.
+p11 For more information, visit www.SCFiscalWatchdog.org
+p11 s/ Robert “Bob” Baker
+p11 Former Mayor
+p11 s/ Kathy Ward
+p11 Former Mayor
+p11 s/ Zhen Wu
+p11 Councilmember
+p11 Rebuttal to Argument Against Measure M
+p11 Opposition’s solution: Do nothing. That is how we got here.
+p11 Nearly two-thirds of San Clemente voters previously supported dedicated
+p11 beach protection funding because residents understand these problems
+p11 are real — and getting worse.
+p11 Claim: Hurts Residents.
+p11 Wrong! Protecting San Clemente now is less costly than waiting until
+p11 our beaches completely disappear. Wildfire risk is driving insurance
+p11 costs higher and causing cancellations, costing families thousands
+p11 more annually, impacting property values, and creating risk of family
+p11 displacement if disaster strikes.
+p11 Doing nothing is risky and a very costly option.
+p11 Visitors share the cost. Groceries and medicine remain exempt.
+p11 Claim: Beach Fund Overreach.
+p11 Misleading! OCTA’s pledged 540,000 cubic yards of sand to protect the
+p11 rail corridor is not contractually guaranteed and only about 240,000
+p11 cubic yards are proposed for San Clemente beaches. Experts estimate
+p11 San Clemente’s sand deficit exceeds 2 million cubic yards after decades
+p11 of erosion.
+p11 Claim: Fire Fund Loophole.
+p11 False! OCFA provides emergency response and fire protection services.
+p11 This measure expands San Clemente’s ability to fund proactive wildfire
+p11 prevention and preparedness efforts — including citywide vegetation
+p11 management, Firewise initiatives, and emergency preparedness designed
+p11 to address very high fire hazard areas and support long-term insurance
+p11 stability before disaster strikes.
+p11 Claim: Blank Check.
+p11 False! Every dollar for beach protection and wildfire preparedness is
+p11 restricted by law. Funds cannot be transferred to the General Fund.
+p11 The measure requires operational plans, cost estimates, accountability
+p11 reports, independent oversight, and annual audits.
+p11 Vote YES on Measure M to protect your home, your beaches, and San
+p11 Clemente.
+p11 Get the facts at ProtectSanClemente.org
+p11 s/ Cameron Cosgrove
+p11 Proponent
+p11 s/ Rick Loffler
+p11 Mayor of San Clemente
+p11 s/ Tim Brown
+p11 Former Mayor of San Clemente
+p11 s/ Suzie Whitelaw, PhD
+p11 s/ Charlie Fox

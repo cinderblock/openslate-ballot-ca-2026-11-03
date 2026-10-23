@@ -1,0 +1,144 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Laguna Woods City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/laguna-woods",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:49Z",
+  "candidates": [
+    {
+      "choice": "Annie McCary",
+      "statement": {
+        "by": "Annie McCary",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor City of Laguna Woods"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my great honor and privilege to serve on the City Council, especially this year as Mayor. I have deepened my understanding of our community through council meetings, and by participating with you in community events, celebrating residents’ milestones, listening to concerns, and working together to address the issues that matter most."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud of the City’s accomplishments during the past four years. We have completed our planning for a new fire station on Moulton Parkway, and increased pedestrian safety at crosswalks, with better curb cuts and lighting and audible crossing directions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We are committed to public safety, with nearly half of our general fund budget going to police services. We have mobilized county, state and federal resources to respond to our coyote problem."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our Council exercises fiscal prudence and responsibility. We consistently have balanced budgets, clean audits, no debt, and no unfunded pension liability. Our financial reporting has received numerous awards."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want to continue making the decisions that shape the future of Laguna Woods, the welcoming, safe, and vibrant community we all value. I welcome and appreciate your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5126-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Carol Moore",
+      "statement": {
+        "by": "Carol Moore",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Council Member City of Laguna Woods"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Village resident for almost 20 years and Council Member, I believe I have a good grounding in the issues. I have an MA from the University of Denver, managed my own industrial supply business and believe my education and training provide the skills needed to address City issues. As a Council Member, I serve on SCAG Transportation and Emerging Technologies Committees as well as the OC Library Advisory Board, South Orange County Watershed Management and LAFCO."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service is important to me and as the former president of Third Laguna Hills Mutual as well as serving on GRF, I worked with others to help keep our community economically viable. As a council member I continued to tackle challenging issues. Understanding how the relation of service can enhance not only quality of life but also security is paramount. My goal continues to be to effectively represent all members of the community to ensure that City services operate in a safe, secure and environmentally appropriate manner. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5126-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sue Quam",
+      "statement": {
+        "by": "Sue Quam",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I will use my four years of LWV Board leadership, 30 years of government experience and master’s in public administration to give back to my community through practical, accountable action."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protect cannabis tax revenue by directing it to resident services—not unrelated general expenses. Priorities should include items such as subsidized transportation for taxi rides, window replacements, expanded Meals on Wheels, and other programs for qualifying seniors and low-income families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Create and fund safety programs for residents walking pets, grandchildren or living with disabilities in coyote-prone areas. I will support a small dog park or adjust existing dog-park hours for small pets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As coyote populations grow, promote responsible wildlife management that balances ecology, controls rodents, prevents feeding, uses professional hazing, and keeps wildlife at a safe distance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Work with regional partners to strengthen fire and police protection, water, sewer, electrical grid services, and environmental safeguards. I will vote to maintain golf cart paths, improve traffic lights, and expand technology for remote public participation in council meetings."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Advocate tirelessly to protect residents’ federal, state, and county social safety nets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to pursue these priorities and help run an efficient, responsive city government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sue Quam"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5126-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

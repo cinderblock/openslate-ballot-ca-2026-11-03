@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Stanton City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/stanton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:20Z",
+  "candidates": [
+    {
+      "choice": "Donald Torres",
+      "statement": {
+        "by": "Donald Torres",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Donald. I’m 26 and have lived in Stanton my entire life. My parents are labor organizers, and I grew up on picket lines and at negotiating tables. Watching workers stand together taught me that change happens when people unite. That belief guides my decisions on the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving Stanton as your Councilmember has been the privilege of my life. At Western High School, I support at-risk students facing depression and trauma, helping them stay in school and graduate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve spent my life serving the community that raised me, and I’ve proven I’ll show up when Stanton needs me. On the Council, I cast the deciding vote to make livestreamed meetings permanent, helped place mayoral term limits before voters, and pushed to increase Sheriff’s deputy staffing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When immigrant neighbors faced uncertainty, I helped create a city immigration resource webpage. During the chemical evacuation, I went door-to-door helping neighbors get to safety and advocated for accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities remain practical: strong public safety, a balanced budget, and a diversified economy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Stanton is my home, and its future is my priority. I’m asking for your vote to keep fighting for every family. Learn more at www.torresforstanton.org."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5241-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Thomas Frazier",
+      "statement": {
+        "by": "Thomas Frazier",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Planning Commissioner City of Stanton"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working as your Councilmember is an Honor. Serving as your Stanton Planning Commissioner has helped me understand your needs and how best to represent both Residents and Businesses in District 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will build Affordable Housing, provide Local Jobs, help reduce the Cost of Living, Fight Inflation with “No Taxes.”"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priority is Public Safety. Never will we have a Garden Grove “GNK Aerospace Disaster” in Stanton."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our Firefighters/Paramedics and Police who “Keep Stanton Safe” have my full support. We must “Enforce Our Laws.” Stop Prostitution, End Homelessness and Fight Crime."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will provide essential Public Services, Safe Neighborhoods, and Affordable Housing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will proactively “Enforce the Supreme Court ruling ending Homelessness” in Stanton. We must Relocate Transients that Refuse Help from our City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will Safeguard “Homeowner’s Rights”. I support Voters controlling Taxation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family Heritage spans over 50 years in Stanton. Listening to residents and businesses will help me make Good Decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am asking you to “Elect” me as your Councilmember District 1, so Together we can Build Affordable Homes, Create Jobs, Fight Inflation, and Protect Our Community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank You,\nThomas M. Frazier\n714-624-5164\ntmfraz@msn.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5241-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

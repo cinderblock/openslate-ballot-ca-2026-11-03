@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Alamitos City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-alamitos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:55Z",
+  "candidates": [
+    {
+      "choice": "Shelley Hasselbrink",
+      "statement": {
+        "by": "Shelley Hasselbrink",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "City of Los Alamitos, Councilwoman/Businesswoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve Los Alamitos, the community I have proudly called home since 1993, where my husband and I raised our two sons. I respectfully ask for your vote to continue that work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served on the City Council since 2014 and was entrusted by my colleagues to serve as Mayor in 2017, 2022, and 2026. As a member of the Orange County Fire Authority Board of Directors, I help safeguard the emergency services our families depend on. As founder of the Los Alamitos Community Foundation, I have worked to strengthen the programs and partnerships that make our city thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My background in finance, along with an MBA and doctoral studies in Organizational and Leadership Development, gives me the experience to protect our city's financial stability, fund essential services, and ensure every taxpayer dollar is spent wisely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe in responsible growth, public safety, and preserving the small-town character we cherish. My priorities remain balanced budgets, well-maintained infrastructure, and a government that listens and responds to you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your trust and support."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5154-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Joe Hastie",
+      "statement": {
+        "by": "Joe Hastie",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Maintenance Operations Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have lived in Los Alamitos area since 1976 and graduated from Los Al High in 1984. My wife Jennifer and I married in 1989 and proudly raised our daughters, Melissa and Breezy in Los Al. The girls and I attended the same schools Weaver, McAuliffe (Pine), and Los Alamitos High School. Over the years, I have volunteered extensively with local youth sports, coaching soccer, basketball, softball, and lacrosse from U6 to high school levels."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Having watched our city change and grow, I am dedicated to ensuring Los Alamitos remains a wonderful place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I bring over 35 years of construction experience, including 24 years managing Maintenance and Operations for a local public school district. I am also currently serving on the Los Alamitos Planning Commission. As a long-time civil servant, I respect my responsibility to be a good steward of public tax dollars. This experience gives me a unique perspective on the planning and impact of projects that may come before the Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote this November 3rd to represent District 4 on the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you,\nJoe Hastie\n714-231-2229"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5154-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

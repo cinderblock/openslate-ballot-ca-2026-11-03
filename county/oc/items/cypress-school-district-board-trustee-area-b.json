@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cypress School District Board, Trustee Area B",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:34Z",
+  "candidates": [
+    {
+      "choice": "Jon Peat",
+      "statement": {
+        "by": "Jon Peat",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Jon Peat, and I'm running for the Cypress school board because our schools work best when the community is involved."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Many parents and residents feel shut out. I'll change that with open communication, real opportunities to be heard, and decisions made in the open."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district needs to work as one team. Departments have become siloed, we've lost three principals in a single year, and that instability impacts our students. I'll rebuild trust among staff, support our new superintendent, and make Cypress a place where good people want to stay."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We also face serious budget challenges. A thirty-year career in financial management and strategic planning, plus eight years on the city council, gives me the experience and the understanding needed to work with all our stakeholders, make the right decisions and create a sustainable budget that achieves our objectives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And I'll keep our schools focused on their core mission: educating our children and serving our families. Curriculum should be age-appropriate and transparent to families — not a vehicle for political agendas."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve spent years serving Cypress families, through Champions Baseball, the Boys & Girls Club and founding a preschool at SCG Church. I'd be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3284-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jack Torossian",
+      "statement": {
+        "by": "Jack Torossian",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cypress is a wonderful community, and my family and I are grateful to call it home. As a husband, father of three children, Morris Elementary PTA Treasurer, and longtime resident, I understand the importance of maintaining the high standards that have made our schools among the best. I am running for the Cypress School District Board of Trustees because I believe every student deserves a safe, supportive, and academically excellent learning environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As PTA Treasurer, I am working with my fellow board members to strengthen our organization’s financial position, achieving higher retained earnings while continuing to invest in programs that benefit students, teachers, and families. My professional background in finance, logistics, entrepreneurship, consumer advocacy, and contract negotiation has prepared me to evaluate complex issues, make transparent decisions, and responsibly manage our resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At a time when our district faces significant challenges, I am committed to providing exceptional educational opportunities for every student. I will work collaboratively with parents, teachers, staff, and fellow trustees to ensure that every decision reflects accountability, fiscal responsibility, and a commitment to putting students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "jackforcypress.org / jtorossian88@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3284-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Clemente City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-clemente",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:11Z",
+  "candidates": [
+    {
+      "choice": "Steve Camp",
+      "statement": {
+        "by": "Steve Camp",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Architect/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 31 years, Steve Camp and his family have called San Clemente home. A lifelong surfer, Steve and his wife of 42 years designed and built their home here and raised their three children in this community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After more than five years of service on the City’s Planning Commission and Design Review Subcommittee, Steve is running for City Council to give back to the community that has given his family so much."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Planning Commissioner and Design Review Chair, Steve has worked to protect San Clemente’s neighborhood character while navigating state housing mandates and reviewing major hotel, mixed-use, and community projects."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A local architect for over 36 years, Steve founded a firm employing ten professionals. His experience leading a business through multiple recessions, managing complex projects, and working with police, fire, and public safety agencies has prepared him to make sound, fiscally responsible decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the City Council, Steve will bring that same practical, thoughtful approach to protecting our neighborhoods, strengthening public safety, maintaining fiscal responsibility, and preserving the character and quality of life that make San Clemente special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve has the experience and commitment to help protect the community we all love."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve Camp, AIA"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5201-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Donna Vidrine",
+      "statement": {
+        "by": "Donna Vidrine",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Nurse/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Donna Vidrine, and I am running to represent you on the San Clemente City Council. I believe government should serve the public interest. Our community deserves thoughtful leadership focused on local priorities. I will work to improve transportation and parking, support local businesses, expand opportunities for working families, make first-time homeownership more attainable, recognize the needs of seniors, protect our coastline, reduce wildfire risk, and responsibly advance the removal of nuclear waste from San Onofre."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For decades, I have developed my leadership skills as an Air Force Captain, healthcare professional, nursing administrator, and small business owner. These experiences have taught me to listen carefully, solve complex problems, make difficult decisions, and bring people together to achieve practical, implementable solutions. The decisions we make today will shape San Clemente’s future for generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service is a calling. You deserve a council member who is accessible, transparent, ethical, and committed to serving every resident. I am beholden to no special interests and will work every day to preserve, protect, and enhance the quality of life that makes San Clemente such a special place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Donna Vidrine\ndonnavidrineforcitycouncil.org"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5201-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Aaron Washington",
+      "statement": {
+        "by": "Aaron Washington",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Deputy Program Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a retired U.S. Navy Commander with 35- years of honorable service. I have been a San Clemente resident since 2006. My credentials are solid: Born at Naval Hospital Bremerton, raised in San Diego; Enlisted two days after high school graduation in 1982; Completed my B.S. degree in 2007 without breaking service; my highest award: Legion of Merit. This isn’t my first time! I ran in 2020 and 2022, and since then I’ve stayed deeply involved: San Clemente BPRCA; Human Affairs; Coastal Advisory; Board of Directors for San Clemente Men’s Golf Club. I put in work even when I wasn’t on council. I’m not a tourist showing up just for election season. Platform: Public Safety Fully Funded; Pro-small business; Oppose tax increases (protecting fixed incomes); No Toll Road; Protect Beaches and coastal erosion without raising taxes. Support school safety and preserve San Clemente’s “small village by the sea” character, restrict overdevelopment. My military background gives me real leadership and logistics experience—not theoretical, actual command experience. The fact I still hold an active security clearance tells you that I am not some retiree coasting on past glory; I am still sharp and trusted."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5201-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

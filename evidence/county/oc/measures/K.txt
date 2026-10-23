@@ -1,0 +1,440 @@
+p1 City of Orange, Proposed Charter for the City of Orange
+p1 Shall the proposed Charter for the City of Orange, establishing the City as a charter city under the California Constitution
+p1 and providing the City’s governing document for municipal affairs, be adopted?
+p1 What your vote means
+p1 YES
+p1 A “Yes” vote on Measure K approves the proposed Charter
+p1 and authorizes the City of Orange to become a charter
+p1 city.
+p1 For and against
+p1 FOR
+p1 Kathy Tavoularis
+p1 Orange City Councilmember
+p1 Jonathan Dumitru
+p1 Councilmember
+p1 Chip Ahlswede
+p1 Orange Parks Commissioner
+p1 Sean Chavarria
+p1 Chaplain
+p1 NO
+p1 A “No” vote on Measure K rejects the proposed Charter,
+p1 and the City of Orange would remain a general law city
+p1 governed by existing state law.
+p1 AGAINST
+p1 Carolyn Cavecche
+p1 Mayor, City of Orange (Ret)
+p1 Ana Gutierrez
+p1 Barry Resnick
+p1 OUSD Trustee (Ret)
+p1 David Dufault
+p1 Lt Commander US Navy (Ret)
+p1 Adrienne Gladson
+p1 AICP
+p2 Full Text of Measure K
+p2 City of Orange
+p2 SIMPLE HOME RULE CHARTER
+p2 City of Orange, California
+p2 We, the people of the City of Orange, seeking to preserve local control, strengthen fiscal responsibility, protect taxpayer resources, and ensure that
+p2 decisions affecting our community are made by the people closest to those decisions, do hereby adopt this Charter under the Constitution of the State
+p2 of California.
+p2 It is our intent to establish a flexible Home Rule Charter that preserves the Council-Manager form of government, maintains transparency and
+p2 accountability, protects public safety and neighborhood quality of life, and provides the City with greater authority over municipal affairs including
+p2 contracting, procurement, elections, and local governance.
+p2 This Charter shall be interpreted broadly in favor of municipal self-governance and local control.
+p2 ARTICLE I
+p2 INCORPORATION AND POWERS
+p2 Section 100. Name
+p2 The City of Orange shall continue to be a municipal corporation under its present name of the “City of Orange.”
+p2 Section 101. Boundaries
+p2 The boundaries of the City shall continue as established unless changed in the manner authorized by law.
+p2 Section 102. Powers
+p2 The City shall have all powers possible for a Charter City under the Constitution and laws of the State of California, including the full power to make
+p2 and enforce all laws and regulations with respect to municipal affairs.
+p2 The enumeration of powers in this Charter shall not be deemed exclusive and shall not restrict the authority of the City to govern local affairs.
+p2 Section 103. Continuation of Existing Laws
+p2 All lawful ordinances, resolutions, rules, regulations, contracts, rights, obligations, and liabilities existing at the time this Charter takes effect shall
+p2 remain in full force unless modified pursuant to this Charter.
+p2 ARTICLE II
+p2 MUNICIPAL AFFAIRS AND GENERAL LAWS
+p2 Section 200. Municipal Affairs
+p2 The City of Orange has the power to make and enforce all laws respecting its municipal affairs as described by this Charter and established by
+p2 the California Constitution, California statutes, and judicially defined law. This power is limited only as set forth in this Charter and the California
+p2 Constitution.
+p2 Such powers are in addition to those granted or prescribed by applicable law for municipal corporations within the State of California. Each responsibility
+p2 of governance set forth in this Charter is declared to be a municipal affair or concern.
+p2 The enumeration by this Charter of any particular power shall not constitute a limitation upon the City’s general grant of powers under applicable law.
+p2 Section 201. General Laws
+p2 In addition to the powers granted by this Charter and the California Constitution, the City has the power and authority to adopt, make, exercise, and
+p2 enforce all legislation, laws, and regulations and to take all actions and exercise any and all rights, powers, and privileges allowed by law. To the fullest
+p2 extent permitted by the California Constitution, in the event of a conflict regarding a municipal affair, the provisions of this Charter shall control.
+p2 Section 202. Enactment of Laws and Exercise of Authority
+p2 Elected and appointed officials who exercise the powers granted by this Charter are prohibited from favoring or unlawfully discriminating against
+p2 persons based upon a legally protected classification.
+p2 When enacting laws pursuant to this Charter, the City Council shall include findings that such laws promote public health, safety, welfare, fiscal
+p2 responsibility, and the long-term interests of the residents of the City of Orange.
+p2 Section 203. Land Use
+p2 Except as otherwise provided by ordinance of the City Council, the City shall continue to be governed by California law as it applies to general law
+p2 cities with respect to land use matters, including without limitation General Plan consistency, zoning regulations, subdivision laws, and housing law
+p2 compliance.
+p2 Section 204. Open Space Reserve Protection
+p2 Establishment of the Open Space Reserve.
+p2 The Open Space Reserve is hereby established to preserve the City’s significant open space lands, parks, hillsides, canyons, creek corridors, wildlife
+p3 habitat, scenic vistas, equestrian character, trails, and other natural resources for the benefit of present and future generations. The Open Space
+p3 Reserve shall consist of all real property designated by ordinance or resolution of the City Council as part of the Open Space Reserve, together with
+p3 any property thereafter so designated.
+p3 Permitted Uses.
+p3 Property within the Open Space Reserve shall be maintained and used exclusively for open space preservation, passive recreation, parks, trails,
+p3 equestrian uses, habitat restoration, conservation, watershed protection, wildlife protection, educational uses, agriculture, grazing, public safety,
+p3 public utilities, flood control facilities, and other public improvements or uses that are compatible with and preserve the property’s natural, scenic,
+p3 recreational, environmental, or rural character.
+p3 Prohibited Uses.
+p3 The City shall not approve, construct, permit, lease, sell, transfer, redesignate, subdivide, or otherwise authorize any residential, commercial, industrial,
+p3 or mixed-use development within the Open Space Reserve that is inconsistent with the purposes of this Section. This prohibition includes, but is
+p3 not limited to, single-family residential, multifamily residential, mixed-use residential, affordable housing, supportive housing, transitional housing,
+p3 accessory dwelling units, mobile homes, or any other form of residential development.
+p3 Removal from the Open Space Reserve.
+p3 No property included within the Open Space Reserve may be removed from the Reserve, redesignated for another use, sold, exchanged, leased for
+p3 an inconsistent purpose, or otherwise disposed of unless first approved by a majority of the electors voting on the measure at a regularly scheduled
+p3 municipal election.
+p3 Consistency Finding.
+p3 Before approving any improvement or use within the Open Space Reserve, the City Council shall find that the proposed action is consistent with the
+p3 purposes of this Section and will not materially impair the natural, scenic, recreational, environmental, or conservation value of the property.
+p3 Emergency and Maintenance Activities.
+p3 Nothing in this Section shall prohibit emergency response activities or the repair, maintenance, replacement, or improvement of existing public
+p3 facilities, trails, utilities, flood control facilities, or other public infrastructure, provided such activities are reasonably necessary to protect public health,
+p3 safety, welfare, or the long-term stewardship of the Open Space Reserve.
+p3 Replacement Open Space.
+p3 If the electors approve the removal of property from the Open Space Reserve, the City Council shall, to the maximum extent feasible, acquire or
+p3 permanently preserve replacement open space of equal or greater public, recreational, environmental, or conservation value.
+p3 Permanent Protection.
+p3 The restrictions contained in this Section shall run with the land. This Section may be amended or repealed only by a majority vote of the electors of
+p3 the City of Orange voting on the measure at a regularly scheduled municipal election.
+p3 ARTICLE III
+p3 FORM OF GOVERNMENT
+p3 Section 300. Council-Manager Form of Government
+p3 The municipal government established by this Charter shall be known as the Council-Manager form of government.
+p3 Section 301. Powers Vested in City Council
+p3 All powers of the City shall be vested in the City Council except as otherwise provided by this Charter or by law.
+p3 ARTICLE IV
+p3 CITY COUNCIL
+p3 Section 400. Composition
+p3 The City Council shall consist of the Mayor and the number of Council Members established by ordinance.
+p3 The Mayor and Council Members shall be elected in the manner established by ordinance and in compliance with applicable state and federal law.
+p3 If district-based elections are utilized, the City Council shall establish and adjust district boundaries as required by law.
+p3 The manner of election, district boundaries, terms of office, qualifications, vacancies, and related election procedures shall be established by ordinance.
+p3 Section 401. Mayor
+p3 The Mayor shall serve as the presiding officer of the City Council and shall have all rights, powers, and duties of a Council Member.
+p3 Section 402. Mayor Pro Tempore
+p4 The City Council shall annually select one of its members to serve as Mayor Pro Tempore.
+p4 Section 403. Eligibility
+p4 No person shall be eligible to hold the office of Mayor unless he or she is, and has been for at least thirty (30) days immediately preceding the filing of
+p4 nomination papers or appointment, a registered voter and resident of the City.
+p4 No person shall be eligible to hold the office of Council Member unless he or she is, and has been for at least thirty (30) days immediately preceding the
+p4 filing of nomination papers or appointment, a legally registered voter and resident of the City and, if elected by district, a registered voter and resident
+p4 of the district from which he or she seeks election or appointment.
+p4 Each elected Mayor and Council Member shall remain a registered voter and resident of the City, and each Council Member elected by district shall
+p4 remain a registered voter and resident of the district represented, throughout the term of office. Loss of any required qualification shall create a
+p4 vacancy in accordance with applicable law.
+p4 No creation of a district or change to district boundaries shall terminate the term of any Council Member elected prior to such change.
+p4 ARTICLE V
+p4 TERM LIMITS
+p4 Section 500. Mayor
+p4 No person shall serve as Mayor for more than two four-year terms in a lifetime.
+p4 Section 501. Council Members
+p4 No person shall serve as a member of the City Council for more than three four-year terms in a lifetime.
+p4 Section 502. Partial Terms
+p4 Service of more than two years of an unexpired term shall be considered a full term for purposes of term limits.
+p4 Section 503. Application of Term Limits
+p4 Pursuant to California Government Code Section 36502, the term limits established by this Article shall apply prospectively from the effective date of
+p4 this Charter.
+p4 Service as Mayor or Council Member completed before the effective date of this Charter shall not be counted for purposes of calculating the term limits
+p4 established by this Article.
+p4 No term being served on the effective date of this Charter shall be shortened or terminated by the adoption of this Article.
+p4 Only terms of office commencing after the effective date of this Charter shall count toward the term limits established by this Article.
+p4 ARTICLE VI
+p4 MUNICIPAL AFFAIRS, PROCUREMENT, AND LOCAL CONTROL
+p4 Section 600. Procurement and Contracting
+p4 The City shall have full authority over municipal contracting procedures, public works procurement, bidding thresholds, design-build authority, best-
+p4 value procurement, alternative project delivery methods, professional services selection, and all other contracting methods allowed to Charter Cities
+p4 under the California Constitution, including authority to establish exemptions from state public contracting statutes where permitted to charter cities.
+p4 Such procedures may be established, modified, or waived by ordinance or resolution of the City Council where permitted by law.
+p4 Section 601. Prevailing Wage
+p4 The City Council may establish by ordinance the procedures applicable to public works contracting and prevailing wage requirements for municipal
+p4 affairs consistent with constitutional authority and applicable law.
+p4 Nothing in this section shall be construed to prohibit the City from applying state prevailing wage requirements where required by law or where
+p4 determined by the City Council to be in the public interest.
+p4 Section 602. Eminent Domain
+p4 The City may not exercise the power of eminent domain to acquire private property for conveyance to another private party without the owner’s
+p4 consent, except where necessary for mitigation of impacts caused by a public project or for the development, operation, or maintenance of facilities
+p4 owned or operated by the City.
+p4 Section 603. Protection of Private Property Rights
+p4 Except as otherwise required by the California Constitution or applicable state or federal law, the City shall not adopt, impose, or enforce any ordinance,
+p4 resolution, regulation, or other legislative or administrative action that establishes mandatory controls on the price, rent, or other financial consideration
+p5 payable in connection with the sale, lease, rental, exchange, or other transfer of privately owned residential real property.
+p5 Nothing in this Section shall be construed to:
+p5 (a) Limit the City’s authority to regulate land use, zoning, planning, subdivision, development standards, or building regulations;
+p5 (b) Limit the City’s authority to enter into voluntary development agreements, affordable housing agreements, or other contractual arrangements
+p5 authorized by law;
+p5 (c) Prohibit the City from implementing or enforcing requirements expressly mandated by state or federal law;
+p5 (d) Affect the City’s authority to acquire, own, lease, sell, or dispose of property or to exercise the power of eminent domain as otherwise authorized
+p5 by this Charter or applicable law;
+p5 (e) Apply to any dwelling unit or accommodation in any hotel, motel, or other facility when the transient occupancy of that dwelling unit or
+p5 accommodation is subject to a transient occupancy tax.
+p5 Any provision of the Orange Municipal Code inconsistent with this Section is repealed to the extent of such inconsistency.
+p5 Section 604. Sales of City Assets
+p5 Pursuant to Government Code Section 37350, the City may purchase, lease, receive, hold, and dispose of real and personal property for the common
+p5 benefit consistent with all notice, hearing, and voter approval requirements required by law.
+p5 Section 605. Public Utilities
+p5 Pursuant to applicable law, the City Council may sell and dispose of any public utility owned by the City, subject to all requirements of state law and
+p5 voter approval where required.
+p5 Section 606. Liberal Construction
+p5 This Charter shall be liberally construed in favor of the exercise of authority by the City over municipal affairs.
+p5 The powers granted by this Charter are intended to be permissive rather than restrictive, and the enumeration of any specific power shall not be
+p5 construed as limiting the general authority of the City to govern local affairs.
+p5 ARTICLE VII
+p5 VACANCIES IN OFFICE
+p5 Section 700. Permanent Vacancy
+p5 In the event of a vacancy in an elected office, as defined by California Government Code Section 1770, the City Council shall fill the vacancy by
+p5 appointment within sixty (60) days or call a special election in accordance with applicable law.
+p5 The person appointed or elected to fill the vacancy shall serve the remainder of the unexpired term.
+p5 Notwithstanding the California Elections Code, a person appointed to fill a vacancy who seeks election to the same office in a subsequent general
+p5 municipal election shall not be required to use the word “Appointed” in conjunction with the title of that City office as part of the ballot designation
+p5 filed in the nomination documents.
+p5 Section 701. Temporary Vacancy, Suspension, and Ethical Misconduct
+p5 Pending trial or formal proceedings, the City Council may, by a three-fourths vote of the full City Council, suspend any elected or appointed officer
+p5 against whom felony criminal proceedings have formally commenced, or where formal judicial or administrative proceedings involving corruption,
+p5 fraud, abuse of office, official misconduct, or violations of ethics and conflict-of-interest laws are pending and suspension is authorized by applicable
+p5 law.
+p5 By a majority vote of the full City Council, the City Council may terminate the suspension at any time and restore the officer to office.
+p5 The suspension shall automatically terminate, and the officer shall be restored to office, upon acquittal, dismissal of charges by the prosecuting
+p5 authority, dismissal of charges by a court of competent jurisdiction, or final resolution of the matter without disqualification from office. In the event
+p5 of a hung jury, the City Council may, by a three-fourths vote of the full City Council, extend the suspension unless the prosecuting authority confirms
+p5 that charges will not be refiled. Nothing in this section shall authorize removal from office except where disqualification occurs by operation of law,
+p5 including conviction of specified crimes, judicial findings of official misconduct, or violations of ethics and conflict-of-interest laws where removal is
+p5 authorized by applicable law.
+p5 The City Council may adopt by ordinance additional procedures consistent with due process, applicable law, and this Charter.
+p5 Any action taken pursuant to this section shall be subject to review by the City Attorney and shall be consistent with all applicable provisions of state
+p5 law.
+p6 ARTICLE VIII
+p6 FISCAL RESPONSIBILITY
+p6 Section 800. Fiscal Policy
+p6 The City shall be managed in a fiscally prudent manner that promotes long-term financial sustainability, responsible stewardship of public resources,
+p6 and the preservation of the City’s financial capacity to provide essential municipal services to both current and future residents. In exercising its fiscal
+p6 authority, the City Council shall strive to maintain the City’s financial integrity while investing in public infrastructure, community priorities, and other
+p6 long-term municipal needs.
+p6 Section 801. Balanced Budget
+p6 The City Council shall adopt a balanced budget each fiscal year.
+p6 Nothing in this Section shall prohibit the appropriation or expenditure of accumulated reserves, dedicated funds, grants, impact fees, or other legally
+p6 available revenues for capital improvements, infrastructure, equipment, or other one-time expenditures under a pay-as-you-go financing strategy,
+p6 even if total expenditures exceed total revenues in a particular fiscal year, provided the City’s ongoing operating budget remains balanced.
+p6 Section 802. Independent Audit
+p6 An independent annual audit shall be conducted and presented to the City Council and made available to the public.
+p6 Section 803. Fiscal Priorities for Additional General Fund Revenues
+p6 To promote the long-term fiscal sustainability of the City, the City Council shall give priority to the use of additional recurring General Fund revenues
+p6 for the following purposes:
+p6 (a) Reducing unfunded pension and other post-employment benefit liabilities;
+p6 (b) Repairing, replacing, and maintaining public infrastructure and capital assets;
+p6 (c) Reducing outstanding debt and other long-term financial obligations of the City;
+p6 (d) Replenishing and maintaining prudent financial reserves; and
+p6 (e) Funding one-time capital improvements, equipment, technology, and other non-recurring investments that improve the City’s long-term financial
+p6 condition.
+p6 Nothing in this Section shall prohibit the City Council from appropriating revenues for essential municipal services or other lawful governmental
+p6 purposes, provided the City’s operating budget remains balanced in accordance with this Charter.
+p6 ARTICLE IX
+p6 LEGAL PROVISIONS
+p6 Section 900. Violations
+p6 A violation of this Charter or any ordinance of the City shall be subject to an administrative citation and/or misdemeanor in accordance with this
+p6 Charter and the Orange Municipal Code.
+p6 Section 901. Amendment
+p6 Amendments to this Charter shall be proposed and submitted to the electors of the City in the manner provided by the Constitution of the State of
+p6 California and applicable law.
+p6 Section 902. Definitions
+p6 “City” means the City of Orange.
+p6 “Open Space Reserve” means those City-owned properties designated by ordinance or resolution of the City Council pursuant to Section 204.
+p6 “Shall” is mandatory and “may” is permissive.
+p6 Section 903. Severability
+p6 If any provision of this Charter, or its application to any person or circumstance, is held invalid or unconstitutional by a court of competent jurisdiction,
+p6 such invalidity shall not affect the remaining provisions or applications of this Charter that can be given effect without the invalid provision or
+p6 application. To this end, the provisions of this Charter are declared to be severable.
+p6 Section 904. Effective Date
+p6 This Charter shall take effect upon voter approval and filing with the Secretary of State as required by law.
+p7 Impartial Analysis
+p7 City of Orange
+p7 Measure K
+p7 The City Council of the City of Orange is submitting Measure K to the voters for consideration at the November 3, 2026 General Municipal Election. If
+p7 approved by a majority of the voters, Measure K would adopt the proposed Charter for the City of Orange, changing the City from a general law city to
+p7 a charter city pursuant to Article XI of the California Constitution. The Charter would become the City’s governing document upon voter approval and
+p7 filing with the California Secretary of State.
+p7 As a general law city, Orange is governed primarily by state law. As a charter city, Orange would continue to be subject to the United States Constitution,
+p7 the California Constitution, and state law on matters of statewide concern, but would have authority over municipal affairs.
+p7 The proposed Charter would retain the City’s Council-Manager form of government and continue governance by an elected Mayor and City Council.
+p7 It would establish lifetime term limits of two four-year terms for Mayor and three four-year terms for Council Members. These term limits would apply
+p7 prospectively and would not count terms served before the Charter becomes effective. The Charter also provides that election procedures, district
+p7 boundaries, qualifications for office, and related election matters will continue to be governed by ordinance and applicable law.
+p7 The proposed Charter would permit the City to exercise the authority available to charter cities over municipal contracting and procurement procedures,
+p7 to the extent permitted by law. It would establish an Open Space Reserve consisting of City-owned properties designated by the City Council and
+p7 would require voter approval before property may be removed from the Reserve or used for purposes inconsistent with the Charter. The Charter also
+p7 includes provisions regarding eminent domain, protection of private property rights, vacancies in office, fiscal management, balanced budgets, annual
+p7 independent audits, and priorities for the use of additional recurring General Fund revenues.
+p7 If approved, the Charter would supersede conflicting provisions of general law with respect to municipal affairs to the extent authorized by the California
+p7 Constitution. On matters of statewide concern, state law would continue to govern. Existing ordinances, resolutions, contracts, rights, obligations, and
+p7 liabilities would remain in effect unless modified in accordance with the Charter or applicable law.
+p7 A “Yes” vote on Measure K approves the proposed Charter and authorizes the City of Orange to become a charter city.
+p7 A “No” vote on Measure K rejects the proposed Charter, and the City of Orange would remain a general law city governed by existing state law.
+p7 s/ Nathalie Adourian
+p7 City Attorney
+p8 Argument in Favor of Measure K
+p8 REBUILD ORANGE: STRONGER FINANCES. SAFER
+p8 NEIGHBORHOODS. A BETTER FUTURE.
+p8 Measure K ensures that Orange voters have the final say on
+p8 important matters in our city through a charter:
+p8 • Establishes an Open Space Reserve to protect Orange’s
+p8 parks, hillsides, canyons, creek corridors, wildlife habitat, scenic
+p8 vistas, equestrian character, trails, and other natural resources,
+p8 and no property can ever be removed from the Open Space
+p8 Reserve without a vote of the people
+p8 • Protects private property from being seized by the City
+p8 government to give to another private property owner
+p8 • Permanentlyrequires that Orange adopts a balanced budget
+p8 and conducts anindependent annual auditeven if Sacramento
+p8 removes that requirement
+p8 • Creates a procedure to suspend City of Orange officials who
+p8 have been indicted for a felony or for whom legal proceedings
+p8 have begun for corruption, fraud, abuse of office, official
+p8 misconduct, ethical violations, or conflict of interest violations
+p8 Some Measure K opponents will use scare tactics about charter cities. The
+p8 reality is many different Orange County cities are charter cities. They
+p8 are conservative, progressive, moderate, large, medium, small, wealthy,
+p8 middle class, and working class:
+p8 • Anaheim
+p8 • Buena Park
+p8 • Cypress
+p8 • Huntington Beach
+p8 • Irvine
+p8 • Los Alamitos
+p8 • Newport Beach
+p8 • Placentia
+p8 • Santa Ana
+p8 • Seal Beach
+p8 Indeed, over 120 California cities are charter cities from Palo Alto to
+p8 Bakersfield, San Diego to Fresno, Victorville to Los Angeles, Berkeley to
+p8 Norco, Eureka to Long Beach, and Modesto to Napa.
+p8 Measure K also imposes lifetime term limits on Orange Mayors and
+p8 Councilmembers. Half of Orange’s current City Council are former
+p8 Councilmembers who came back to City Hall. The President of the
+p8 United States, Governor of California, State Legislature, Villa Park
+p8 City Council, and even Orange Unified School District have lifetime
+p8 term limits, so why should Orange be any different? Once Orange
+p8 politicians serve their term limit, they should leave City Hall, not go on a
+p8 merry-go-round on and off the City Council.
+p8 Vote Yes on Measure K.
+p8 s/ Kathy Tavoularis
+p8 Orange City Councilmember
+p8 s/ Jonathan Dumitru
+p8 Councilmember
+p8 s/ Chip Ahlswede
+p8 Orange Parks Commissioner
+p8 s/ Sean Chavarria
+p8 Chaplain
+p8 Rebuttal to Argument in Favor of Measure K
+p8 Orange voters need to ask themselves ONE question. Is this the City
+p8 Council you want to be in power until 2040? If the answer is no, Vote No
+p8 on Measure K!
+p8 Measure K is about giving a handful of politicians more time in power
+p8 while distracting from real issues that need to be solved.
+p8 Don’t be misled by the four weak arguments for Measure K, most can be
+p8 put into effect under the existing law.
+p8 Charter Cities only have control over a small list of municipal matters,
+p8 state and federal mandates still exist. Measure K was never about
+p8 giving residents more say. There was no independent Citizens Charter
+p8 Commission.
+p8 As to lifetime term limits in this charter, it allows anyone who has ever
+p8 served on the city council the ability to serve an additional 12 years
+p8 before the ban even takes effect. It is hypocritical for members of the
+p8 city council who voted for this charter to state that there’s a problem with
+p8 politicians getting on and off the council merry-go-ground, when 3 of the
+p8 4 yes votes to put this charter on the ballot are the ones doing just that.
+p8 You voted for term limits once. Don’t let a handful of politicians take that
+p8 vote away from you now.
+p8 Vote NO on extending term limits for the current city council.
+p8 Vote NO on becoming like the charter cities of San Francisco, Los Angeles,
+p8 Oakland.
+p8 VOTE NO on Measure K.
+p8 s/ Carolyn Cavecche
+p8 Former Orange Mayor
+p8 s/ Ana Gutierrez
+p8 s/ Barry Resnick
+p8 Former OUSD Trustee
+p8 s/ Adrienne Gladson
+p8 Former Planning Commissioner
+p9 Argument Against Measure K
+p9 There is only one reason Measure K is on the ballot. It is a power grab that
+p9 allows the current City Council to reset and extend their terms in office,
+p9 plus stay longer then currently allowed. Measure K’s title should be “Term
+p9 Limit Extension Measure”.
+p9 82% of Orange voters approved the current city council term limits.
+p9 Measure K not only overturns what voters overwhelmingly put into
+p9 place, it disguises a 50% increase in City Council Member terms as a
+p9 “local control” measure, allows sitting council members and the mayor
+p9 to effectively start over with a free pass on years already served, and
+p9 stay an additional 12 years. If approved, we could see outcomes where
+p9 incumbents remain in power until 2040.
+p9 Claims that moving Orange to a charter city will restore local control are
+p9 just not true. Moving to a charter city structure with a rushed and false
+p9 local control narrative can come at the expense of citizen oversight and
+p9 accountability. This can lead to abuses of power and decision-making that
+p9 prioritizes special interests over those of the community.
+p9 Becoming a charter city will not eliminate the requirement to uphold
+p9 state housing requirements.
+p9 Becoming a charter city will make it easier for the city council to impose
+p9 local taxes.
+p9 Becoming a charter city historically increases city legal costs, which could
+p9 result in higher taxes and reduced public services.
+p9 Measure K was placed on the ballot by a tight 4-3 vote of the city council
+p9 and was written without input of a dedicated, independent citizens’
+p9 charter commission. Having the independent oversight of a citizens’
+p9 commission would have at least ensured the rules were written by
+p9 residents of Orange, free from any conflicts of interest.
+p9 Vote No on extending term limits for the current city council.
+p9 Vote No on Measure K
+p9 s/ Carolyn Cavecche
+p9 Mayor, City of Orange (Ret)
+p9 s/ Ana Gutierrez
+p9 s/ Barry Resnick
+p9 OUSD Trustee (Ret)
+p9 s/ David Dufault
+p9 Lt Commander US Navy (Ret)
+p9 s/ Adrienne Gladson
+p9 AICP
+p9 Rebuttal to Argument Against Measure K
+p9 The opponents against Measure K focus primarily on one item in the entire
+p9 charter. They fail to tell you their complaint is with the only method
+p9 to get lifetime term limits in Orange: California law does not allow
+p9 lifetime term limits to be imposed retroactively. You don’t need to take our
+p9 word for it: look up Government Code §36502(b).
+p9 The term limits proposed in Measure K are identical to the term
+p9 limits that apply to the California State Legislature and the Orange
+p9 Unified School District.
+p9 The opponents aren’t able to make many arguments against the merits of
+p9 Measure K, so they resorted to frivolous claims:
+p9 • Strawman arguments about state housing requirements that have
+p9 nothing to do with the charter.
+p9 • Claims it will be easier for the City Council to impose local taxes,
+p9 which is not true because the State Constitution is clear: only you the
+p9 voters can impose local taxes.
+p9 • Unfounded allegations about increased city legal costs but they’re
+p9 unable to cite any evidence of this.
+p9 The opponent politicians are stuck in the ways of the past that
+p9 Orange voters have moved on from.
+p9 • One opponent: rejected by voters three times in the past eight
+p9 years.
+p9 • One opponent: first elected to City office over a quarter of a century
+p9 ago.
+p9 • One opponent: left the school board nearly a third of a century ago.
+p9 • One opponent: didn’t disclose she’s a current elected official and
+p9 could remain at City Hall until 2036 under existing term limits.
+p9 Rebuild Orange: Vote Yes on K.
+p9 s/ Kathy Tavoularis
+p9 Orange City Councilmember
+p9 s/ Jon Dumitru
+p9 Orange City Councilmember

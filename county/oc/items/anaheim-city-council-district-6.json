@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Anaheim City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/anaheim",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:06Z",
+  "candidates": [
+    {
+      "choice": "Natalie Meeks",
+      "statement": {
+        "by": "Natalie Meeks",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Anaheim City Council Member, District 6"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My American dream came true in Anaheim Hills. As a single mother, I worked hard and saved money to buy a home here to ensure my daughter would grow up in a safe community with a wonderful quality of life. She graduated from public schools in Anaheim Hills, becoming a local teacher."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, I was honored to be elected your Councilmember. Since then, I’ve delivered results for Anaheim Hills:\n12 additional firefighters stationed in Anaheim Hills Increased the number of police officers to the most in City history Reopened the Anaheim Police Department East Substation to the public\nNew playgrounds at 2 Anaheim Hills parks\nProhibited the sale of kratom and nitrous oxide to our youth Based on wildfire and evacuation concerns: defeated the development proposal in Deer Canyon\nLaunched new penalties for those who allow illegal fireworks on their property\nReduced the number of unsheltered homeless by 10% in 2 years Established e-bike regulations"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you re-elect me to the Anaheim City Council, I’ll continue to fight for you:\nWildfire and evacuation preparedness\nEnhance parks, playgrounds, and sports fields\nImprove East Anaheim Community Center, and add space for seniors\nAdditional landscaping and pedestrian improvements on Santa\nAna Canyon Road"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for a second four years as your Councilmember."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5009-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Aliso Viejo City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/aliso-viejo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:02Z",
+  "candidates": [
+    {
+      "choice": "Max Duncan",
+      "statement": {
+        "by": "Max Duncan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor of The City of Aliso Viejo"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Aliso Viejo is one of the greatest cities in our country, consistently ranked among the safest, with a close, welcoming community. It has been the honor of a lifetime to serve as your City Councilmember since 2022, and as your Mayor since 2026."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My accomplishments include:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Enabled Aliso Viejo to become the most financially sound city of all 34 cities in Orange County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Enacted a unique ebike ordinance to curb unsafe and illegal riding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Led the effort to bring safer, modernized bike lanes throughout our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Stopped a dense 8-story development at The Commons that would have forever changed Aliso Viejo."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brought meetings back to council chambers for greater transparency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Support the efforts our local Sheriff's and Fire Fighters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leading the effort to bring a world-class pump track to Aliso Viejo promoting healthy activities for our community"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an Orange County native, entrepreneur, and IT professional. My wife of 24 years and I are proud to raise our two kids here in Aliso Viejo. Aliso Viejo is special, and we need to protect it. With proven, steady leadership, I will keep working to maintain and improve our quality of life. I would be honored to earn your vote this November."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/4902-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steven Von der Porten",
+      "statement": {
+        "by": "Steven Von der Porten",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Father/Aerospace Engineer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Steven Von der Porten, and I'm running to represent District 2 on the Aliso Viejo City Council to focus on ensuring you have:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Safe Streets"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Clean Water"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Affordable Homes"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Wildfire Mitigation"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Transparency"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love this city. During the 15 years I've lived in Aliso Viejo, I got married, welcomed my daughter, and purchased my first home. I'm a father and an Aerospace Engineer, but never expected to run for office."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family left Germany just before World War II. Those who remained did not survive. I heard firsthand how fear, division, and the failure of good people to stand together can have devastating consequences."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The challenges we face now require thoughtful problem-solving, not politics as usual. Aliso Viejo deserves leaders who listen, respect independent oversight and make decisions based on facts, evidence and sound judgement. As an engineer, I solve problems by listening to many points of view, analyzing data, and finding practical solutions. That's the approach we need and it is the approach I’ll bring to serving you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be humbled if you visited my website at steven4av.com and I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/4902-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

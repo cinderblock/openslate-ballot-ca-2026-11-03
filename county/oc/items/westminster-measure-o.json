@@ -1,0 +1,121 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Westminster — Measure O (Westminster City Services Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/westminster",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:40:50Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "To fund general city services such as fire, paramedic, police, 911 emergency response, disaster preparedness, keeping public areas safe/clean; addressing homelessness; maintaining parks, and addressing speeding/unsafe driving; shall the measure increasing Westminster’s tax paid by hotel/motel guests (transient occupancy tax), from 8% to 12%, providing approximately $452,000 annually in new funds until ended by voters, requiring audits, spending disclosures, funds controlled locally, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ocvote.gov/sites/default/files/2026-09/O-WEST%20-%20LAYOUT%20(1).pdf#page=1"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote is a vote to increase the rate of the Hotel Tax to 12%."
+          ]
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/O-WEST%20-%20LAYOUT%20(1).pdf#page=1"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A NO vote is a vote to not increase the rate of the Hotel Tax."
+          ]
+        }
+      ],
+      "source": "https://ocvote.gov/sites/default/files/2026-09/O-WEST%20-%20LAYOUT%20(1).pdf#page=1"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Scott E. Porter, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The City of Westminster currently imposes an 8% transient occupancy tax on transients (hotel/motel guests) who occupy a hotel in Westminster for 30 consecutive days or less. This tax is commonly referred to as the City’s “hotel tax.” Measure O is an ordinance that increases the rate of the hotel tax to 12%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The hotel tax is collected by the hotel operator (or their agent) from guests based on the rent charged by the hotel operator. The hotel operator then remits the collected taxes to the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proceeds of the hotel tax are deposited in the City’s general fund and available for any lawful municipal purpose. The City Council has identified the following as examples of services funded though the general fund: fire, paramedic, police, 911 emergency response; disaster preparedness; keeping public areas safe/clean; addressing homelessness; maintaining parks; and addressing speeding/unsafe driving."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proceeds of the tax must be audited annually by an independent certified public accountant, and the report of that audit is a public record."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure O does not change the definitions that currently apply to the hotel tax. For purposes of the hotel tax:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "“Hotel” means “any lodginghouse, hotel, motel, roominghouse, dormitory or public or private club containing guest rooms for lodging strangers or travelers, advertising or held out as a place where sleeping or rooming accommodations are furnished to the public.”"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "“Rent” means “the consideration charged, whether or not received, for the occupancy of space in a hotel valued in money, whether to be received in money, goods, labor or otherwise, including all receipts, cash, credits and property and services of any kind or nature, without any deduction therefrom whatsoever.”"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "To be adopted, this measure requires the approval of a majority of the voters casting ballots on the measure. The measure was placed on the ballot by the City Council of the City of Westminster."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A YES vote is a vote to increase the rate of the Hotel Tax to 12%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A NO vote is a vote to not increase the rate of the Hotel Tax."
+        ]
+      }
+    ],
+    "source": "https://ocvote.gov/sites/default/files/2026-09/O-WEST%20-%20LAYOUT%20(1).pdf#page=3"
+  },
+  "documents": [
+    {
+      "title": "Full text of Measure O",
+      "source": "https://ocvote.gov/sites/default/files/2026-09/O-WEST%20-%20LAYOUT%20(1).pdf",
+      "mediaType": "application/pdf",
+      "page": 2,
+      "sha256": "1b689dd5c0a1e4060791697e65fbcf18849603f75e9cf14d1f86a40200055f71"
+    }
+  ]
+}

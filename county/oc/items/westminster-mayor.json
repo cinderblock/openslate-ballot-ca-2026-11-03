@@ -1,0 +1,186 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Westminster Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/westminster",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:24Z",
+  "candidates": [
+    {
+      "choice": "Kimberly Ho",
+      "statement": {
+        "by": "Kimberly Ho",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Entrepreneur"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a longtime Westminster resident and a thirty-five-year business owner in the city of Westminster. Coming from a hardworking immigrant family, I started my first business with only five hundred dollars. While working two jobs to support myself, I sacrificed and struggled for years, facing many challenges along the way. Through determination and hard work, I eventually grew that small business into a successful multi-million dollar company."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For decades, I have also quietly served as a dedicated philanthropist, supporting numerous local charities and families in need. I have lived the real struggles of small business owners. I understand the difficulties caused by rising costs, tight budgets, and long hours. I know what it’s like to fight every day just to survive and grow a business in this city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected Mayor, I will bring the same discipline, accountability, and results-oriented approach to City Hall that I used to build my own successful business. I am committed to making housing more affordable, supporting local small businesses, reducing wasteful spending, improving public safety, maintaining clean streets, and creating a better quality of life for all families and seniors in Westminster."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also earned a Doctor of Pharmacy and an Executive MBA."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5271-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Carlos Manzo",
+      "statement": {
+        "by": "Carlos Manzo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Westminster City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve our community on the City Council. Throughout my service, I have worked to uphold the integrity of this nonpartisan office by putting people before politics and focusing on what matters most to our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe effective local leadership is rooted in transparency, accountability, and respect. That means listening to every voice, treating every resident fairly, and making thoughtful decisions that strengthen our entire community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked to strengthen public safety by supporting additional Homeless Liaison Officers, Park Rangers, and the Central Cities Navigation Center, giving first responders better tools to address homelessness with compassion, accountability. I have also supported investments in neighborhood parks, local infrastructure, and economic development to keep Westminster safe and financially strong."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue focusing on public safety, responsible budgeting, revitalizing our commercial corridors, maintaining our streets and parks, and expanding opportunities for local businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While we have made meaningful progress, there is still important work ahead. As Mayor, I will continue bringing people together, encouraging open dialogue, and pursuing practical solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a stronger, safer, and more united Westminster."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at votecarlosmanzo.com."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5271-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Chi Charlie Nguyen",
+      "statement": {
+        "by": "Chi Charlie Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your Mayor has been the greatest honor of my life. I respectfully ask for your vote to continue providing experienced, honest, and accountable leadership for Westminster."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When I became Mayor, Westminster faced years of financial challenges. Through responsible budgeting and fiscal discipline, we restored the City's financial health. Today, Westminster has over $60 million in financial reserves, protecting essential services and ensuring long-term stability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety is my highest priority. Under my leadership, the Westminster Police Department is fully staffed and prepared to serve our community. I am proud to be endorsed by the Westminster Police Officers Association and the Orange County Professional Firefighters Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Vietnamese refugee, I came to America seeking freedom and opportunity. My journey has inspired a lifelong commitment to hard work, service, and giving back. In 2025, I was honored to be recognized as one of Orange County's 125 Most Influential for my dedication to public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are to"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protect taxpayers,\nSupport local businesses,\nImprove infrastructure and parks,\nEnhance city services and\nKeep Westminster safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a safer, stronger, and more prosperous Westminster."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Contact: MayorCharlieNguyen@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5271-4.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

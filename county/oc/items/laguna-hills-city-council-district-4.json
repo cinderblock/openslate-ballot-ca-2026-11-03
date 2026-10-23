@@ -1,0 +1,150 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Laguna Hills City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/laguna-hills",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:48Z",
+  "candidates": [
+    {
+      "choice": "Tiffany Boccieri",
+      "statement": {
+        "by": "Tiffany Boccieri",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Attorney/Mother"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Tiffany Boccieri, and I'm running for Laguna Hills City Council Member, District 4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe transparent, effective leadership is essential to preserving the qualities that make Laguna Hills a safe, welcoming, and vibrant community for current residents and future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a California-licensed attorney and mother, I understand that sound decisions require careful analysis, active listening, and accountability. Whether reviewing a city budget, evaluating a development proposal, or analyzing a traffic study, I will approach every issue with precision, integrity, and empathy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in South Orange County and chose to raise my family here because I value the safe neighborhoods, parks, and close-knit communities that make this area unique. I believe every resident deserves a strong voice in the decisions that shape the future of Laguna Hills, and I will work to ensure every perspective is heard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My volunteer leadership and legal experience have prepared me to formulate effective solutions and deliver measurable outcomes. I will bring those values of service, integrity, and accountability to the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote this November and the opportunity to be a strong voice for District 4 while serving the entire Laguna Hills community."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5120-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Michael Caputo",
+      "statement": {
+        "by": "Michael Caputo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Traffic Commissioner/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "“Keep it Simple” is my guiding principle for effective governance. I have no political agenda other than to serve the residents of Laguna Hills. As a three-term Chairman of the Laguna Hills Traffic Commission, my dedication to our community is clear. My family has called Laguna Hills home since 1980; I bought my first house here in 2007. My wife and daughter both attended Valencia Elementary and Laguna Hills High School, reinforcing my deep ties with our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In addition to my involvement with several HOA boards, I currently serve as President of my community’s HOA. Professionally, I manage a seven-person sales team in the building materials industry for a $2 billion company, giving me the experience to handle complex projects."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My main goal as a City Council member is to ensure a safe environment while enhancing the city’s beauty, thereby raising property values and improving quality of life. If elected, I promise to listen to the residents of Laguna Hills and serve with honesty and integrity. Together, we can make our city an even better place to live."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5120-4.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Scott Miller",
+      "statement": {
+        "by": "Scott Miller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Laguna Hills Traffic Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Laguna Hills is my home. I care deeply about our city, our neighborhoods, and the future we share."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My public service experience includes serving as a mayor, city council member, and regional government leader in another California community. I also served our country as a United States Marine and built a career as a cybersecurity officer. Today, I am honored to serve Laguna Hills as the current Chairman of the Laguna Hills Traffic Commission."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are safe neighborhoods, strong support for law enforcement, a thriving local business community, responsible stewardship of taxpayer dollars, thoughtful planning, and responding to residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am prepared to serve from day one. I will ask difficult questions, study the facts, listen respectfully, and pursue practical solutions that improve daily life. I bring independent judgment, transparency, accountability, and commitment to preserving the character and quality of life in Laguna Hills."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service is a responsibility, not a title. I respectfully ask for your vote to represent District 4 while working for the best interests of all Laguna Hills residents with integrity, experience, and dedication to our community and it’s future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Respectfully serving you,\nScott Miller"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5120-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

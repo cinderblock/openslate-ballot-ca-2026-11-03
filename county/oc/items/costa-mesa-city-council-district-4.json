@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Costa Mesa City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/costa-mesa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:14Z",
+  "candidates": [
+    {
+      "choice": "Angely Andrade Vallarta",
+      "statement": {
+        "by": "Angely Andrade Vallarta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Nonprofit Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a working parent raising my daughter in Costa Mesa, I understand the challenges families face every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 20+ years, I worked across government, nonprofit, and business sectors expanding opportunity, building partnerships, and delivering results for families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Planning Commissioner, I voted to approve our city code and projects expanding housing, including opportunities for first-time homebuyers. I advocated for streamlined permitting to encourage responsible development."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why I'm running for City Council: to ensure every resident can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will work to improve public safety through neighborhood partnerships, and safer streets; expand housing opportunities and improving affordability; invest in green spaces; support local businesses and economic opportunity; and increase transparency, fiscal responsibility, and community engagement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring collaborative leadership, lived experience, and a commitment to deliver results. Together, we can build a Costa Mesa with safer streets, stronger neighborhoods, and greater opportunity for everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud of endorsements from OC Chapter Women In Leadership, Costa Mesa Councilmembers: Reynolds, Marr, Chavez, Gameros, NMUSD Board Trustees: Murphy, Ersoylu."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your vote, we can achieve great things in Costa Mesa."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit Angely4Costamesa.com, Contact me at Angely4CostaMesa@gmail.com, (949) 357-0278 and follow on @AngelyLivesCostaMesa"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5037-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Fisher Derderian",
+      "statement": {
+        "by": "Fisher Derderian",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Business Owner/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Costa Mesa has always done things a little differently. Our mix of cultures, creativity, entrepreneurship, and independent spirit has given this city an identity all its own."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve spent my career building organizations, founding nonprofits, and bringing people together across the United States, Latin America, and Europe. Now I want to bring that experience home. My wife and I are raising our five children here, and I care deeply about the Costa Mesa their generation will inherit."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We live in a beautiful place. We should build like it. As the City of the Arts, we should have a vision for growth that makes Costa Mesa more beautiful, walkable, affordable, and full of opportunity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Whether you rent or own, City Hall should work for you. I’ll keep neighborhoods safe, support first responders, bring common sense to homelessness, simplify permits and approvals, help local businesses thrive, and work to make daily life more affordable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 4 should share fully in that future. I want 19th Street and Harbor Boulevard to become safer, more inviting places for business, food, arts, and community life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For every decision, I’ll ask one question: Does this make Costa Mesa better for the people who call it home?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at FD4CM.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5037-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Magnolia School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:50Z",
+  "candidates": [
+    {
+      "choice": "Gary Shields",
+      "statement": {
+        "by": "Gary Shields",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Retired Deputy Sheriff"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Prior to previously serving on the Magnolia School District Board of Trustees from 2014 - 2022, I served our community as a Deputy Sheriff within the Orange County Sheriff's Department for 33 years. During that time I worked to provide safe avenues of travel for our students in my jurisdiction in the areas surrounding Robert M Pyles STEM Academy, Dr. Jonas Salk School, and Esther L. Walter School."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Having been a resident in the Magnolia School District since 1977, I have truly developed an appreciation for the community and am proud of the services that the Magnolia School District provides to our students. My children both attended Dr. Jonas Salk School, Kindergarten through 6th grade and they continued on through Dale Junior High, graduating from Magnolia High School. Currently, all four of our grandchildren attend local public schools, with one of them recently promoted from the Magnolia School District’s Walt Disney School."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With my experience in law enforcement, as a parent, grandparent, and a longstanding community member, I look forward to this opportunity to return to the Board of Trustees to continue to foster an environment of collaboration, integrity, and transparency for the families here in the Magnolia School District."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3347-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

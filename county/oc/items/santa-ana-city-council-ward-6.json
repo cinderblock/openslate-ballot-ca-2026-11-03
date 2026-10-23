@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Ana City Council, Ward 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-ana",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:39:17Z",
+  "candidates": [
+    {
+      "choice": "Giovanni Chavez",
+      "statement": {
+        "by": "Giovanni Chavez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Housing Commissioner/Lawyer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Santa Ana City Council to fight for you. As a son of immigrants, product of public schools, and first generation college graduate, I have dedicated my adult life to fighting for working people in Santa Ana."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an attorney, I have advocated for tenants facing eviction, employees facing wage theft, and accident victims. I am now a Rental Housing Board Commissioner, where I work directly to enforce the City’s Rent Stabilization and Just Cause Eviction Ordinance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our city faces unprecedented challenges: an affordability crisis, public safety concerns, the highest homeless rate in the County, budget issues, and city services being cut. However, we also have limitless potential. We have a strong, diverse working class that can fulfill the promise of our city, but only if we invest in the residents that keep our city running. My commitment is to invest in you. I will invest in jobs, housing, public safety, and parks for our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have the honor of being endorsed by Congressmember Lou Correa, State Assemblymember Avelino Valencia, First Responders, and over 50 labor unions. And I ask you to also support me. Together, we will fulfill the promise of our city."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5227-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Isuri Ramos",
+      "statement": {
+        "by": "Isuri Ramos",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Nonprofit Executive Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm the daughter of Mexican immigrants who laid their roots on Minnie Street. Growing up, my family lost our housing and we relied on public transportation. The library was my second home, and the boxing club at the Jerome Center taught me discipline. I served as a Youth Commissioner and graduated from Santa Ana High School and UC San Diego."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After college, I organized with Lacy Neighborhood residents. Together, we won 100% affordable housing at Legacy Square, pushed the city to build Mariposa Park as the community envisioned, and fought for Santa Ana’s rent control ordinance, capping rent at 3%. As a Planning Commissioner, I’ve championed development projects that provide good jobs and prioritize affordable housing; and I led the effort to keep illegal smoke shops out of our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running to continue fighting for Santa Ana residents. When elected, my priorities will be to address our housing costs, neighborhood safety, and to protect our immigrant and mixed-status families by ensuring our city is a champion for our constitutional rights, not another obstacle to overcome."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements: National Union of Healthcare Workers, Esperanza Tenants Union, Supervisor Vicente Sarmiento, and Councilwoman Jessie Lopez."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "isuriramos.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5227-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

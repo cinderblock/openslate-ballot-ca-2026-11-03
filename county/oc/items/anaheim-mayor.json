@@ -1,0 +1,162 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Anaheim Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/anaheim",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:04Z",
+  "candidates": [
+    {
+      "choice": "Ashleigh Aitken",
+      "statement": {
+        "by": "Ashleigh Aitken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor, City of Anaheim"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Anaheim is where I grew up, where my husband and I are raising our family, and where I’ve found strength and community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my greatest honor to serve as your Mayor. Four years ago, I promised to listen to residents, restore integrity to City Hall, and focus on what matters most to Anaheim families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Mayor, I have worked to:\nEnact transparency reforms, restrict lobbying, reset stadium negotiations, and appoint a city ethics officer.\nImprove public safety, including a 14% drop in crime, reduce emergency response times and build two new fire stations. Reduce homelessness by 11%, expand outreach and street medicine, and connect people to shelter, services, and housing. Build affordable housing and support more than 6,300 households with rent assistance.\nRevitalize Beach Boulevard, improve parks and libraries, repair infrastructure, and bring major investments that create jobs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m an attorney, mom, and longtime community leader with deep roots in Anaheim. I’m running for re-election to build on our successes and focus on kitchen table issues like affordability, public safety, housing, and road repair."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will be honest, responsive, and focused on residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’d be honored to earn your vote and continue serving Anaheim."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ashleigh Aitken\nAshleighAitken.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5001-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Alfredo Rodriguez",
+      "statement": {
+        "by": "Alfredo Rodriguez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "General Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Government exists to serve the people. That's the principle that inspired me to run for Mayor of Anaheim."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I came from humble beginnings, where I learned that hard work, integrity, and personal responsibility create opportunity. Those values have guided me throughout my life and career."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, as the General Manager of an environmental services company, I lead teams across California, create jobs, solve complex challenges, and work with homeowners, businesses, and government agencies to deliver results. Every day, I bring people together, make difficult decisions, and solve problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Mayor, I will put Anaheim residents first by strengthening public safety, addressing homelessness with compassion and accountability, supporting local businesses, investing responsibly in our infrastructure, and ensuring City Hall is transparent, fiscally responsible, and accountable to the people it serves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll be a Mayor who listens, shows up, and isn't afraid to do the hard work. My commitment is simple: to earn your trust through action, not promises, and to make sure every resident has a voice in the future of our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to earn your trust and respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5001-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Imran Sharief",
+      "statement": {
+        "by": "Imran Sharief",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Doctor/Businessman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Mayor to restore trust in City Hall, keep Anaheim safe, invest in the parts of town that feel forgotten, establish deeper partnerships with our business community to incentivize growth, and address the homeless issue with empathy and enforcement. These principles are rooted in our shared experience living in the city we call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m married to my strongest supporter, and have four wonderful children who went to school in Anaheim. I was born and raised in Karachi, Pakistan, where my mother and father taught me early: help people in need. Through school and training, I worked to become a doctor, and now I spend my days ensuring families get the help they need. As a doctor, I know how to respond quickly to save lives, and as the next Mayor I will respond to any situation with the same precision."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Outside the patient room, I've devoted my life to service. As the chairman of various local non-profits and community organizations, I’ve worked with lawmakers locally and nationally to impact policy that betters our community and building strong coalitions. Getting the job done for my community is not a partisan issue, it is a practical one."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5001-3.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

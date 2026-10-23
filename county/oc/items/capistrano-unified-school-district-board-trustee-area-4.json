@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Capistrano Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:37:59Z",
+  "candidates": [
+    {
+      "choice": "Melissa Caldwell",
+      "statement": {
+        "by": "Melissa Caldwell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Businesswoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Students and families in the Capistrano Unified School District deserve trustees with a proven record of service, meaningful advocacy, and professional experience managing complex systems and budgets. With over 15 years serving as a PTA volunteer and leader, 6 years of community service supporting our nation’s military and their families with care packages, holiday toy drives, newborn essentials and family events, and 25 years as a Chief Operating Officer for a successful law firm, I bring the experience and commitment our community deserves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a longtime Laguna Niguel resident, school volunteer, and leader of large volunteer organizations, I’ve spent years working alongside parents, educators and local partners to support students across CUSD. I’ve seen firsthand how strong community collaboration strengthens our schools and I’m prepared to bring that same spirit of partnership to our school board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My background as a Chief Operating Officer combined with real world experience as a PTA leader has prepared me to deliver results. I will apply my operational expertise to ensure responsible fiscal policies that prioritize classrooms and protect taxpayer investments. I will ask tough, informed questions to ensure our schools are safe, secure, and operating effectively for every student. I will support our educators and administrators as they work to create learning environments that meet students where they are, providing the targeted resources each child needs to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Clear communication and strong community relationships are essential to keeping our schools exceptional. I’m ready to put my professional experience and dedication to work for students, families, and the future of the Capistrano Unified School District. I would be honored to serve as your next Area 4 CUSD Trustee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.melissaforcusd.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3114-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Marco Carralero",
+      "statement": {
+        "by": "Marco Carralero",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Parent/Orange County Businessowner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not a politician, and I’ve never run for elected office. I’m the parent of daughters who will enter Capistrano Unified School District schools when they reach school age. I own a family business, where I lead, manage budgets, and deliver results. My professional experience includes advising government agencies on financial management. As a Laguna Niguel parent, I have a personal stake in improving Capistrano Unified School District schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Capistrano Unified School District is in crisis:\nStudent enrollment fell every year for the past eight years Lowest student enrollment in nearly a quarter-century Serious structural budget deficit"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll fight to reverse this trend and bring families back to Capistrano Unified School District schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Laguna Niguel’s representative on the Capistrano Unified School\nDistrict Board, I’ll:\nFight for a high-quality education for every student\nKeep political agendas out of the classroom\nRespect parents’ rights\nPromote parental involvement\nProvide safe, secure, and healthy schools for our students Demand fiscal accountability and ensure money goes directly to classrooms, not wasteful bureaucracy\nIncrease transparency to ensure a strong educational partnership between parents, teachers, and the Capistrano Unified School District Board"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m honored to be endorsed by:\nCapistrano Unified School District Trustees Lisa Davis, Lisa Zollinger, and Jennifer Adnams\nOrange County Board of Education Trustees Lisa Sparks and Tim\nShaw\nLaguna Niguel Mayor Linda Lindholm (ret.)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully request your vote. www.marcoforcusd.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/3114-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

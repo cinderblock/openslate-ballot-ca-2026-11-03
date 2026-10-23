@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Costa Mesa Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/costa-mesa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T16:38:12Z",
+  "candidates": [
+    {
+      "choice": "Mike Buley",
+      "statement": {
+        "by": "Mike Buley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Councilmember/Attorney/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was honored to be elected to the City Council in 2024, and since then, I’ve worked hard to be a common sense voice for our community. Serving on the Council has deepened my appreciation for Costa Mesa. I pride myself on transparency, asking hard questions, and making informed decisions in the best interest of our City. As a neighbor, parent, attorney, and businessman, I ask for your vote for Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and our three children have been blessed to live, work, play, and grow in Costa Mesa for 24 years. I have also volunteered at St. John the Baptist, Costa Mesa Little League, Hoops Unlimited, and local food drives and outreach efforts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Councilmember, I have worked to protect funding for infrastructure and parks, champion public safety, ensure taxpayer dollars are spent responsibly, preserve public access to Fairview Park while protecting its natural beauty, and strengthen the voice of our volunteer Committees and Commissions in City decision-making."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have also opposed government overreach that burdens residents and local businesses, including a proposed rental registry and mandates that interfere with private business decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I sincerely ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements: OC Sheriff Don Barnes, State Senator Steven Choi, Assemblymember Diane Dixon, OC Supervisors Janet Nguyen and Don Wagner, and Councilmember Jeff Pettis."
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5031-1.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Loren Gameros",
+      "statement": {
+        "by": "Loren Gameros",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Instructor/Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 40 years, Costa Mesa has been the place I’m proud to call home. It’s where I grew up, where my wife and I are raising our family, and where I’ve dedicated my life to serving others. For more than three decades, I’ve dedicated my career to educating and mentoring the next generation of building inspection professionals in the construction industry. Throughout my career, I've helped countless students develop successful careers emphasizing safety, integrity, accountability, and craftsmanship because investing in people helps build stronger communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past five and a half years, I’ve had the privilege of serving on the Costa Mesa City Council. My philosophy has always been simple: keep my boots on the ground, listen to residents, and work collaboratively to solve problems. I believe the best decisions are made by being present, accessible, and accountable to the people I serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I remain committed to strengthening public safety, supporting youth sports, planning responsibly, investing in our city’s future, and preserving what makes Costa Mesa an exceptional place to live, work, and raise a family. Together, we can continue building a community that future generations will be proud to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at: www.loren4mayor.com"
+            ]
+          }
+        ],
+        "source": "https://ocvote.gov/fileadmin/user_upload/elections/GEN2026/cs/5031-2.pdf",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}
