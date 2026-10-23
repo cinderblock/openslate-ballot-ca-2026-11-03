@@ -1,0 +1,787 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Community College Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Trustee, Community College Board"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Community College Board is the seven-member governing body of the San Francisco Community College District. It"
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Elijah Ball",
+      "statement": {
+        "by": "Elijah Ball",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " College Campus Planner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a campus planner who works with colleges across the country, I know that with a vision and a plan, we can make City College one of the best community colleges in the country."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I moved to San Francisco at 18 to attend SFSU and became the first in my family to graduate from college. I learned that education is one of the most powerful tools for changing people’s lives. So after studying at Cornell, I dedicated my career to helping colleges grow stronger."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve worked with seven colleges nationwide and three California community college districts to create long-term plans to stabilize, modernize, and protect these institutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a planner, I’ve helped leadership and faculty tackle some of the hardest challenges that colleges face: increasing enrollment, building facilities that work for students and teachers, and creating financial stability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Community colleges across the country face many of the same problems, but I know from experience they’re solvable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a clear vision and plan, we can overcome ours too!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ENDORSEMENTS:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "State Senator Scott Wiener\nBoard of Supervisors President Rafael Mandelman Supervisors Matt Dorsey, Bilal Mahmood, Danny Sauter, Stephen Sherrill, and Alan Wong\nSF School Board Vice President Jaime Huling CCSF Trustees: Ruth Ferguson, Heather McCarty, and Luis Zamora"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.elijahforcitycollege.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=34",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Rome Moses Jones",
+      "statement": {
+        "by": "Rome Moses Jones",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Non-Profit Executive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am seeking a seat on the City College of San Francisco Board of Trustees because CCSF gave me the opportunity to build on the foundations I gained as a lifelong SFUSD student. As an alumni of both City College of San Francisco (AA in Real Estate) and San Francisco State University (BA in Urban Planning & Studies), I know how vital strong, accessible public education is for students across our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My professional work has been rooted in non profit service, where I have supported students as a success coach, mentor, and college ambassador. These roles have shown me the real challenges students face and the systems that must evolve to help them thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to strengthening CCSF, expanding opportunity, and ensuring every student has the support needed to reach their goals."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=34",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Monroe Lace",
+      "statement": {
+        "by": "Monroe Lace",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Public School Teacher."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Francisco is on the rise because we are delivering results. City College must do the same."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a community college and trade school graduate, and today I teach in San Francisco’s public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am first, foremost, and forever a teacher. I understand what students need to succeed. I work directly with the students City College serves and the programs City College provides. I have seen firsthand how a strong partnership between City College and K–12 schools can change a student’s life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City College faces serious financial, enrollment, and governance challenges. Addressing these challenges will require a practical plan. We must return to the basics: balance the budget, increase enrollment, and put student success first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every decision I make will begin with one question: What best serves students? I want my students to know that when they are ready to take their next step, whether toward a degree, a trade, or simply a love for learning, City College will be stable and able to serve them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "monroelace.org"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:\nBoard of Supervisors: Rafael Mandelman, Alan Wong College Board: Heather McCarty, Ruth Ferguson, Luis Zamora\nSchool Board: Jaime Huling\nFormer SFUSD Superintendent Vincent Matthews"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=35",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Leah LaCroix",
+      "statement": {
+        "by": "Leah LaCroix",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Administrative Analyst."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City College has always been part of my life. My higher education career began at CCSF as a dual-enrolled high school student. I attended K-12 along Ocean Avenue and have lived in the Ingleside for 20+ years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "CCSF is a vital institution and economic engine for San Francisco, and deserves protection. Trustees are the guardians of the college, ensuring the mission and our students remain at the forefront of all decisions. Trustees must be accountable and promote transparency. My decades of public service and policy advocacy in San Francisco, including advocating for food security, community and students needs, have prepared me to be the fierce guardian CCSF needs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My goals in governing CCSF include:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Bring stability and a long-term vision to the Board"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Right-the-ship – prepare CCSF for its next chapter"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Re-establish trust in the college by ensuring the courses students need are offered"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Improve transparency through public-input and oversight"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Grow enrollment strategically and sustainably"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "CCSF has overcome a crisis, now we must rebuild and transition out of perpetual crisis mode."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Susan Solomon, CCSF Trustee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vick Chung, CCSF Trustee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Connie Chan, Supervisor District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alida Fisher, SFUSD Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Aaron Peskin, Former Supervisor District 3"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=35",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Jeremy Lee",
+      "statement": {
+        "by": "Jeremy Lee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Asset Manager."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City College is the economic engine of San Francisco. Nurses, firefighters, teachers, and childcare providers all get their starts at City College. It’s where my family got their start for a better life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a proud 3rd generation San Franciscan. I’ve spent a decade working in Chinatown, advocating for the needs of immigrants, seniors, and vulnerable families. In 2017, I worked in City Hall to make Free City College a reality."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City College is personal to me. It’s where both of my parents attended. With that education, they landed good-paying union jobs. My family achieved the American Dream because of City College and organized labor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The college is at a crossroads. Revenue is flat. Waitlists for basic classes are full. If elected, my priorities are:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Strengthen CCSF’s Cantonese program"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Secure CCSF’s finances for the future"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Grow CCSF as San Francisco’s economic engine"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Protect Free City College"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My campaign is powered by people. I refuse money from big tech, corporations, and billionaires. With your vote and your support, City College can thrive and uplift every San Franciscan."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Electeds/Leaders:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Supervisor Connie Chan"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Supervisor Chyanne Chen"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Norman Yee (former BOS President)"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Aaron Peskin (former BOS President)"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Norman Fong"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City College San Francisco Trustees:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Vick Chung"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Susan Solomon"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.JeremyLeeSF.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "@JeremyLeeSF"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=36",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Bunny McFadden",
+      "statement": {
+        "by": "Bunny McFadden",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Educator / Journalist."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up sleeping in the faculty lounge while my mom, a janitor, cleaned community college classrooms. I graduated high-school early thanks to community college, and later taught at one, before earning my Doctorate in Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Personally and professionally I see the difference education makes. I’ve taught adults and youth, been a PTA board member and member of the South of Market Childcare board, directed workforce development, and thrown myself all-in to SF’s downtown recovery at the City’s coolest park. I have experience in collaborating with state and local agencies, in curriculum design from STE(A)M to English, Chicano Studies to journalism. From working for a nonprofit that supports youth literacy, to being a San Francisco public school parent, I know at all levels what education can accomplish."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Whether down on your luck or a step away from curing cancer, San Franciscans need CCSF. It’s free for every resident. No age limit, no income check, no limits to potential. We owe it to ourselves, our City, and our future to hold true to the promise of City College."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Susan Solomon, CCSF trustee\nConnie Chan, supervisor\nAaron Peskin, former supervisor\nDean Preston, former supervisor\nVick Chung, CCSF trustee"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=36",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Erwin Tam",
+      "statement": {
+        "by": "Erwin Tam",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Municipal Financial Advisor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "CCSF is in a cycle of waste and mismanagement that threatens closure. I’m running for Community College Board to fix it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My mom showed me the value of learning as she taught her students in public school, and City College gave my father his shot at higher education. That let them put me through Berkeley, which is why I’ve spent my career giving back to my city by advising public agencies, helping them to cut waste, leverage funding, and protect essential services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I supported BART through funding shortfalls, helped Muni plan for a balanced budget, and created long-term financial strategies with more than 30 community colleges across the state."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City College is losing money, and I know how important it is to our city. Families and students can’t afford for it to fail."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Students deserve an accredited and safe place to learn."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Faculty and staff deserve good benefits and stable wages."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "All San Franciscans deserve a world-class City College."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Board of Supervisors: Rafael Mandelman, Alan Wong"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "College Board: Heather McCarty, Ruth Ferguson, Luis Zamora"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "School Board: Jaime Huling"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Former College Board President Alex Randolph"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=37",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Lisa Wynn",
+      "statement": {
+        "by": "Lisa Wynn",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Equity Researcher."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My A.S with honors CCSF 2024"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My BS with CIIS Interdisciplinary Studies"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My 4 years serving as a Behavior Health Commissioner for SF."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My student organizing and pathway build to San Francisco Rising and UCSF"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I Develop and pass Prop 2"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=37",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

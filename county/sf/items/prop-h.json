@@ -1,0 +1,1575 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+    "jurisdiction": "us/ca/sf",
+    "kind": "measure",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Shall the City fund Muni service through a new annual parcel tax on real estate at rates ranging from $129 per parcel up to a maximum of $400,000 per parcel, depending on the type of property and its size and adjusted annually for inflation, for estimated revenue of $177 million a year for 15 years?"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 50%+1 affirmative votes to pass."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "How “H” Got on the Ballot"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On June 12, 2026, the Department of Elections certified that the initiative petition calling for Proposition H to be placed on the ballot had a sufficient number of valid signatures to qualify the measure for the ballot."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "10,615 signatures were required to place an initiative ordinance on the ballot. This number is equal to 2% of the registered voters at the time a “Notice of Intent to Circulate Petition” was published. A random check of the signatures submitted by the proponents of the initiative petition prior to the July 6, 2026, submission deadline showed that the total number of valid signatures was greater than the number required."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=126"
+  },
+  "summary": {
+    "title": "Digest",
+    "by": "Ballot Simplification Council",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Way It Is Now:"
+            ]
+          },
+          " The Municipal Railway (Muni) provides public transit in San Francisco, including bus, light rail, streetcar, and cable car. Muni provides over 500,000 rides per weekday. Muni service is funded by transit fares and local, state and federal sources, but not through a parcel tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "State law limits the total revenue, including tax revenue, that the City may spend each year. The voters may approve increases to this limit for up to four years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Owners of rent-controlled residential property in the City are generally limited in what costs they can pass onto their tenants."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Proposal:"
+            ]
+          },
+          " Starting July 1, 2027, and continuing until June 30, 2042, Proposition H would fund Muni service through a new annual parcel tax on real estate in San Francisco. The tax would be adjusted annually for inflation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed 2027 tax rates would be:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    "Single-Family Residential Parcels:"
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "A base tax of $129."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "For buildings with more than 3,000 square feet of building area:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$0.42 per square foot between 3,001 and 5,000, and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$1.99 per square foot over 5,000."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    "Multifamily Residential Parcels:"
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "A base tax of $249."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "For buildings with more than 5,000 square feet of building area:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$0.195 per square foot over 5,000."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "This tax is capped at $50,000 per parcel."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    "Non-Residential Parcels:"
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "A base tax of $799."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "For buildings with more than 5,000 square feet of building area:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$0.76 per square foot between 5,001 and 50,000,"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$0.84 per square foot between 50,001 and 250,000, and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$0.99 per square foot over 250,000."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "This tax is capped at $400,000 per parcel."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    "Mixed-Use Parcels:"
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "A base tax of $799."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "For buildings with more than 5,000 square feet of building area:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "A combination of the marginal rates for residential and non-residential parcels above."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "This tax is capped at $400,000 per parcel."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "strong": [
+                    "Parcels with No Buildings:"
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "No base tax."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$392 for land area over 2,000 square feet."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The tax would not apply to:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Properties or portions of properties not required to pay standard property taxes; and\n2. Single Room Occupancy (SRO) units and their shared facilities such as kitchens or bathrooms."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Most homeowners aged 65 or older living in their primary home would get a discount or pay no tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Revenues from the tax would only be used for Muni service and administering the tax. In addition to the annual required audit by an independent auditor, an annual report and efficiency review would be required."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure would increase the City’s spending limit for four years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Owners could pass up to 50% of the tax onto tenants in rent-controlled units where the rent was set before June 1, 2027, up to a maximum of $65 per unit per year."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=126"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “YES” Vote Means:"
+              ]
+            },
+            " If you vote “yes,” you want the City to fund Muni service through a new annual parcel tax on real estate."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=127"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “NO” Vote Means:"
+              ]
+            },
+            " If you vote “no,” you do not want to make these changes."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=127"
+    }
+  },
+  "analysis": {
+    "title": "Controller’s Statement on “H”",
+    "by": "City Controller",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City Controller Greg Wagner has issued the following statement on the fiscal impact of Proposition H:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Should the proposed parcel tax be approved by the voters, in my opinion, based on currently available parcel data it would generate approximately $177 million annually for Muni transit service starting in Fiscal Year (FY) 2027-2028, and would increase over time as the per parcel taxes are adjusted for inflation each year. The cost to government to administer this parcel tax could range from approximately $2 million to $3 million in one-time startup costs, and from approximately $4 million to $6 million annually in ongoing costs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Revenues would be deposited into the Stronger Muni Fund to support Muni transit service operations and administration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed tax would start at $129 per year for single-family residential parcel building areas that are up to 3,000 square feet, $249 for multifamily residential parcel building areas that are up to 5,000 square feet and $799 for non-residential parcel and mixed-use parcel building areas up to 5,000 square feet. The tax for each property would increase with the square footage of the building area and would have a maximum tax amount for non-single family residential parcels. For unimproved parcels with 2,001 or more square feet of land area, the tax would be $392. Seniors of 65 years or older and some other groups can apply to SFMTA for an exemption or reduction from the tax. Total revenue will depend on the number of exemptions requested and granted."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Landlords of rent-controlled residential units are limited in the amount of the parcel tax they can pass through to tenants to 50% of the parcel tax for a maximum of $65 per unit annually, unless the unit is exempt from the parcel tax or base rent is set on or after June 1, 2027. Properties or portions of properties that are exempt from ad valorem property taxes, as well as single-family parcels whose owners are sixty-five or older and occupy the property as a primary residence, would be exempt from the parcel tax. A deduction of $249 would apply for each unit in a multi-family residential parcel that is occupied by an owner that is sixty-five or older and that occupies the property as a primary residence."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City does not currently use square footage, parcel use type, or unit number data as a basis for taxation. The cost to validate and maintain these data, establish and maintain exemptions and manage appeals would increase the cost of government by approximately $2 million to $3 million in one-time startup costs, then approximately $4 million to $6 million annually, likely decreasing over time. The total cost would be dependent on future operational and staffing decisions made by the SFMTA. Additional costs may include the financial efficiency review, ongoing community outreach and education costs, and other administrative costs to implement the tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Note that the proposed measure would change the duties of the Controller’s Office, which has prepared this statement."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=127"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "VOTE YES ON H FOR STRONGER MUNI. MUNI IS A LIFELINE FOR WORKERS, SENIORS, STUDENTS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "“Muni is essential for our seniors, many of whom don’t drive, and need Muni to get groceries, go to appointments and move independently.” – Anni Chung, Self-Help for the Elderly"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“Working people depend on affordable, reliable, and safe Muni every day—to get to work, take their kids to school, and keep San Francisco moving.” - Olga Miranda, President, SEIU Local 87"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MUNI POWERS OUR ECONOMY."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“40% of San Franciscans who work downtown take Muni. Public transit is one of the smartest investments we can make in our local economy. Without H, Muni service will be severely reduced, killing the engine of our economic recovery and causing future cuts to emergency response, parks, and other city services.” – former Controller Ben Rosenfield"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MORE ACCOUNTABLE MUNI."
+              ]
+            },
+            " Muni eliminated 500 vacant positions, trimmed management and doubled fare inspectors. Muni customer satisfaction recently hit a 25 year high due to safer and more reliable service."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MUNI FACES DEEP SERVICE CUTS."
+              ]
+            },
+            " For years, one-time federal and state Covid relief kept Muni running. That money is gone. Despite strong actions to save $137 million dollars annually, without Prop H, service could be cut by 30%, at least 20 bus routes eliminated, and far worse traffic in our neighborhoods."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "H ONLY FUNDS MUNI SERVICE."
+              ]
+            },
+            " “Strong oversight and independent audits ensures every dollar goes to safe, reliable and affordable Muni service that can never be redirected.” – Mayor Daniel Lurie"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Franciscans from every corner of the city have united to vote Yes on H. The Labor Council and Chamber of Commerce. The San Francisco Apartment Association and Tenants Union. Small business owners and transit advocates. Mayor Lurie and the entire Board of Supervisors."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Mayor Daniel Lurie"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Myrna Melgar"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Speaker Emerita"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Jackie Fielder"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Nancy Pelosi"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Shamann Walton"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "San Francisco"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Chyanne Chen"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Democratic Party"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Former Controller Ben"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Senator Scott Wiener"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Rosenfield"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Assemblymember"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "SF Tenants Union"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Catherine Stefani"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "SF Labor Council"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Assemblymember Matt Haney SF Chamber of Commerce"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Supervisors:"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "SF Council of"
+        },
+        {
+          "name": "Rafael Mandelman"
+        },
+        {
+          "name": "District Merchants"
+        },
+        {
+          "name": "Connie Chan"
+        },
+        {
+          "name": "Firefighters Local 798"
+        },
+        {
+          "name": "Steven Sherrill"
+        },
+        {
+          "name": "Transit Workers Union 250A"
+        },
+        {
+          "name": "Danny Sauter"
+        },
+        {
+          "name": "Teamsters Local 665"
+        },
+        {
+          "name": "Alan Wong"
+        },
+        {
+          "name": "Chinatown Transportation"
+        },
+        {
+          "name": "Bilal Mahmood"
+        },
+        {
+          "name": "Research and"
+        },
+        {
+          "name": "Matt Dorsey"
+        },
+        {
+          "name": "Improvement Project"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=128",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "title": "Everyone wants safe, reliable Muni. The question is whether a 15-year tax with no strings attached will deliver it.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The Yes campaign warns of devastating service cuts if Prop H fails. But that dodges the real question:",
+            {
+              "strong": [
+                " Why guarantee"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "SFMTA a new tax revenue stream without requiring it to"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "meet a single efficiency or performance target?"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Supporters boast that Muni has eliminated vacant positions, trimmed management and found $137 million in annual savings. Great. That proves reform is possible.",
+            {
+              "strong": [
+                " Prop H"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "should require more reform, not guarantee new revenue"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "regardless of results."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "They also promise “strong oversight and independent audits.” But oversight is not accountability. Prop H requires an efficiency review, but does not require SFMTA to implement its recommendations.",
+            {
+              "strong": [
+                " There are no binding efficiency"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "targets, performance benchmarks, or requirements that"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "future tax dollars depend on results."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "And who pays? Prop H taxes property based on square footage, not value. A modest home can owe nearly the same tax as a far more valuable home of similar size.",
+            {
+              "strong": [
+                " Renters"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "aren’t spared, either, since landlords can pass through"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "part of the tax."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Muni is too important to keep funding the same way and hoping for different results."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Before approving a 15-year tax, voters must demand binding reforms, measurable performance standards, and real accountability."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop H."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "The San Francisco Republican Party"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=128",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "San Franciscans are being asked to fund Muni’s $300 million deficit for 15 years with no strings attached.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "False threats."
+              ]
+            },
+            " Nobody wants longer wait times or service cuts, but a new tax isn’t the only option. Nothing in this proposition requires SFMTA to cut costs, hit efficiency targets, or act on a spending review as a condition of receiving this money."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "No sunset tied to results."
+              ]
+            },
+            " The tax runs through 2042 regardless of whether ridership, fares, or costs ever normalize."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A toothless review, collected after the money’s already"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "in hand."
+              ]
+            },
+            " The measure calls for an “efficiency review,” but not until April 2028, nine months after the tax kicks in. Even then, the review only has to report its findings to SFMTA’s own board. Nothing requires the agency to act on a single recommendation, and nothing ties future funding to whether it does."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A flat tax, not a fair one."
+              ]
+            },
+            " The tax is based on square footage, not property value. A modest home and a far more valuable one of similar size nearby will pay nearly the same amount. Renters aren’t spared either, since landlords can pass through the tax increase to tenants."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A 15-year tax with no results-based sunset, no binding reforms, and no independent check on whether the money is spent well isn’t the accountability that SFMTA needs. It’s a blank check."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote No on H."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "The San Francisco Republican Party"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=129",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "title": "Trump’s Federal spending cuts have devastated",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "transportation systems across the country."
+              ]
+            },
+            " Given these cuts and the loss of other funding, Muni faces 30% service cuts and the elimination of at least 20 bus routes. That’s just a fact."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Mayor Lurie has taken bold action to make Muni more"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "efficient BEFORE ever proposing H for the ballot"
+              ]
+            },
+            ". With new leadership, the agency eliminated 500 vacant positions, cut management, and froze non-operator hiring, saving $140 million. Muni doubled fare inspectors and reduced fare evasion by 30%. Wait times and reliability have improved, and Muni’s favorability is at an all time high."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The tax isn’t flat."
+              ]
+            },
+            " The San Francisco Republican Party is wrong. H is the first fair, tiered parcel tax in San Francisco history. 95% of homeowners pay the lowest amount. Large commercial buildings and mansions pay the most. 70% of the revenue comes from the city’s largest properties. Rent-controlled units are protected and won’t pay more than $65 a year."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Strong oversight."
+              ]
+            },
+            " H requires independent audits and mandates citizen oversight for the life of the tax. And not one penny can be spent on anything other than Muni operations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "World-class public transportation requires investment."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“Investing in Muni is just smart economics. The economic activity Muni generates funds emergency response, parks, and libraries.” - Former Controller Ben Rosenfield."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "We owe it to the next generation of San Franciscans to"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "make sure that Muni remains the system we all love."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on H."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Rodney Fong",
+          "title": "SF Chamber of Commerce"
+        },
+        {
+          "name": "Tony Delorio",
+          "title": "Teamsters Local 665"
+        },
+        {
+          "name": "Kat Siegal",
+          "title": "Transit Advocate"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=129",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "Save Muni. Protect San Francisco’s Future.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Muni carries more than 520,000 riders every weekday — seniors, students, workers, and people with disabilities who depend on reliable transit. Without new revenue, Muni faces a $307 million deficit by 2027, growing to $398 million by 2030, meaning up to 20 routes eliminated and service cut in half."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For more than a century, SPUR has championed public transit as essential to San Francisco’s success, from early advocacy for the Municipal Railway itself through decades of ballot campaigns to keep Muni funded, reliable, and accountable. This measure continues that legacy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It raises roughly $177 million a year through a fair, tiered parcel tax. Ninety-five percent of single-family homeowners pay just $129 a year. Rent-controlled tenants pay no more than $65 a year, and landlords cannot pass on more. Seniors are exempt on their primary homes; larger properties pay proportionally more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Muni has earned this investment, already saving $250 million since 2019 through efficiency improvements, with rider satisfaction at a decades-high 78%. This measure funds operations only — the buses and trains San Franciscans rely on every day."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure has broad, unified support from the Mayor, the Board of Supervisors, labor, business, and transit and housing advocates alike, with no formal opposition. Combined with the regional Connect Bay Area measure, it’s the difference between a Muni that works and a Muni in crisis."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sean Elsbernd"
+        },
+        {
+          "name": "President/CEO SPUR (www.spur.org)"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: SPUR.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=130",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Muni is an absolutely essential service for San Francisco’s working class and powered by the working class."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In one of the wealthiest cities in the country, flooded with billions of dollars of investment into companies whose employees depend on public transit, it is shameful that the rich won’t pay their fair share and are placing our transit system in jeopardy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A popular proposal, 2024’s Prop L, would have preserved Muni funding by requiring ride-hail companies like Uber, Lyft and Waymo to redistribute a small portion of their earnings to keep buses running in a city that has allowed them to thrive. Fifty-six percent of San Francisco voters approved, but it wasn’t enough to overcome a well-funded corporate lobbying campaign and backroom deals at City Hall. They put us in this position."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "DSA SF believes a better world is possible and a better way of funding transit is necessary. We were part of the coalition which overcame corporate opposition to ensure the Stronger Muni for All measure is a progressive parcel tax. We secured changes to the tax so that downtown landlords pay closer to their fair share, local unions remain strong, and working people pay less. But we are nowhere near the finish line."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We recommend San Franciscans vote yes on this measure. DSA SF stands in solidarity with Muni operators and riders by keeping Muni running and resolving the current funding emergency, but small and reactive reforms like these can’t deliver the affordable, expansive, and financially sustainable public transit system that San Francisco’s working class deserves. For that, we need to think bigger, and we need to win working class power in order to bring those ideas to life. Join us and get organized."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Democratic Socialists of America - San Francisco"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Scott Feeney, Seamus McNulty, Aditya Bhumbla.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=130",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "CLIMATE AND ENVIRONMENTAL GROUPS SAY YES TO FUNDING PUBLIC TRANSIT."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Public transit is climate action. Every rider on a Muni bus or train means lower emissions, less congestion, cleaner air. If San Francisco is serious about its climate goals, we cannot let our transit system collapse. Transit cuts set back years of climate progress."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sustainable growth depends on reliable transit. Prop H keeps San Francisco’s buses and trains running so people can choose transit over cars — protecting our climate goals and our quality of life. Vote Yes on H for a cleaner, more sustainable San Francisco."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "SF League of Conservation Voters"
+        },
+        {
+          "name": "Sierra Club"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Francisco League of Conservation Voters.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=130",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "SENIORS AND PEOPLE WITH DISABILITIES URGE SUPPORT FOR MUNI AND PROP H."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For seniors and people with disabilities, Muni isn’t a convenience — it’s independence. It’s the ride to a doctor’s appointment, the trip to the pharmacy, the way to see friends and stay connected to community. For those who don’t or can’t drive, Muni is often the only way to get around the city we call home."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Without Prop H, Muni service will be cut and accessible transit options will shrink even further for the people who depend on them most. Isolation is one of the greatest threats facing seniors and people with disabilities. Reliable transit prevents it. Don’t let service cuts cut us off from our city."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote Yes on H."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Senior and Disability Action"
+        },
+        {
+          "name": "Self-Help for the Elderly CEO Anni Chung*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: 1. Senior and Disability Action, 2. Stronger Muni for All, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Open AI, 2. Anthropic, 3. Ripple Labs.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=130",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "YOUTH, STUDENTS, AND THEIR ADVOCATES SAY YES TO PROP H."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Muni is how students across San Francisco get to class, campus, jobs, and each other. From middle schoolers to college students, young San Franciscans depend on Muni more than almost anyone. That access is at risk."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Young people are the future of this city, and reliable transit is how they build independence, education, and careers. We can’t afford to lose the routes that get them there. Students, young Democrats, and youth leaders across San Francisco are united: Vote Yes on H for stronger Muni, for our schools, and for our future."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "California Young Democrats"
+        },
+        {
+          "name": "SF Young Democrats President Andrea Gallardo*"
+        },
+        {
+          "name": "SF State College Democrats President Chase Preston*"
+        },
+        {
+          "name": "SFUSD School Board President Phil Kim*"
+        },
+        {
+          "name": "SF City College Board Trustee Ruth Ferguson*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Stronger Muni for All, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Open AI, 2. Anthropic, 3. Ripple Labs.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=131",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "CHINATOWN LEADERS SAY YES TO SAVING MUNI WITH PROP H."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Muni is a lifeline for Chinatown and every immigrant family in San Francisco. Many of our seniors don’t drive. They depend on the 30, the 45, and other Muni lines to reach doctors, grocery stores, and family. When Muni service is cut, our elders are left stranded."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Chinatown’s merchants, workers, and families all rely on reliable, affordable transit every single day. Chinatown has fought for decades for transit that serves our community with dignity. Prop H protects that progress. Vote Yes on H for our seniors. Vote Yes on H for our families. Vote Yes on H for Chinatown."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Chinatown Transportation Research and"
+        },
+        {
+          "name": "Improvement Project"
+        },
+        {
+          "name": "Rose Pak Asian American Club"
+        },
+        {
+          "name": "Chinatown Community Development Center"
+        },
+        {
+          "name": "Anni Chung",
+          "title": "Self-Help for the Elderly*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Stronger Muni for All, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Open AI, 2. Anthropic, 3. Ripple Labs.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=131",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "ADVOCATES FOR SAFE, SUSTAINABLE CITIES AND STREETS AGREE PROP H IS VITAL."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A well-funded transit system is core infrastructure for everyone who walks, bikes, and rolls on San Francisco streets. Without Prop H, Muni funding will be cut. Fewer buses means more congestion. San Francisco cannot meet its Vision Zero goals while gutting the transit system that keeps traffic off our streets."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop H protects the service that keeps San Francisco moving safely. Safe streets and strong transit go hand in hand. We can’t build the walkable, bikeable, liveable city we’re working toward if Muni service collapses around us. Join transit riders, cyclists, pedestrian safety, and housing advocates across San Francisco. Vote Yes on H for a safe and sustainable San Francisco. Vote Yes on H for stronger Muni."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "SF Transit Riders"
+        },
+        {
+          "name": "Streets for All SF"
+        },
+        {
+          "name": "SF Bicycle Coalition"
+        },
+        {
+          "name": "Walk San Francisco"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Stronger Muni for All, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Open AI, 2. Anthropic, 3. Ripple Labs.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=131",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "LABOR LEADERS UNITE TO URGE YES ON PROP H."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Working people built this city, and Muni is how we get to work. From transit operators to teamsters, carpenters, firefighters, laborers, and engineers, San Francisco’s workforce depends on affordable, reliable transit to reach the job sites, offices, and worksites that keep our city running."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Muni workers themselves know what’s at stake — service cuts mean layoffs, longer routes, and a transit system stretched too thin to serve the people who need it most. Prop H protects both riders and the workforce that keeps San Francisco moving. San Francisco’s labor movement stands united: Vote Yes on H."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Transit Workers Union - 250A"
+        },
+        {
+          "name": "SF Labor Council"
+        },
+        {
+          "name": "Teamsters Local 665"
+        },
+        {
+          "name": "Firefighters 798"
+        },
+        {
+          "name": "SEIU Local 87"
+        },
+        {
+          "name": "SF Building Trades"
+        },
+        {
+          "name": "Carpenters Local 22 Senior Field Representative"
+        },
+        {
+          "name": "Dan Calamuci*"
+        },
+        {
+          "name": "Operating Engineers Local 3 District Representative Charles Lavery*"
+        },
+        {
+          "name": "Laborers Local 261 SF Liaison Anthony Travis Jr.*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Stronger Muni for All, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Open AI, 2. Anthropic, 3. Ripple Labs.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=132",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "BUSINESS LEADERS SUPPORT PROP H TO DRIVE OUR ECONOMIC RECOVERY"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s economy runs on Muni. Forty percent of San Franciscans who work downtown ride Muni to their jobs, and small businesses across the city depend on customers, employees, and deliveries moving reliably through our streets. A weaker Muni means a weaker economy — for big employers and corner stores alike."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop H protects the transit service our commercial corridors depend on, and it comes with real accountability. Independent audits ensure every dollar funds Muni service directly and can never be redirected. Muni has already demonstrated fiscal discipline, eliminating vacant positions and saving $137 million in personnel costs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "From neighborhood merchants to major employers, San Francisco’s business community knows that a functioning transit system is essential to a functioning economy. Investing in Muni is investing in our recovery. Vote Yes on H for a stronger economy and a stronger Muni."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Council of District Merchant Associations"
+        },
+        {
+          "name": "Noe Valley Merchants and Professionals Association"
+        },
+        {
+          "name": "SF Chamber of Commerce"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Stronger Muni for All, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Open AI, 2. Anthropic, 3. Ripple Labs.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=132",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "DEMOCRATIC CLUBS ACROSS SAN FRANCISCO SUPPORT YES ON PROP H."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco Democrats have always fought for a city that works for everyone. A transit system every resident can rely on is a critical part of that vision. Muni is core to the kind of affordable, equitable city we believe in. Prop H protects Muni service with a fair, tiered tax where those that can afford to pay more will. And it has accountability built in with independent audits ensuring every dollar goes directly to Muni service."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Investing in public transit is investing in climate action, economic opportunity, and equity for every neighborhood in San Francisco. Democratic clubs across the city are united behind Prop H because a stronger Muni means a stronger, fairer San Francisco."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "United Democratic Club"
+        },
+        {
+          "name": "Westside Family Democratic Club"
+        },
+        {
+          "name": "Richmond District Democratic Club"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Stronger Muni for All, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Open AI, 2. Anthropic, 3. Ripple Labs.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=132",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "VOTE NO ON PROPOSITION H"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We support Muni. We want safe, reliable public transportation. But another long-term parcel tax is not the solution to SFMTA’s financial problems."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition H would create a 15-year parcel tax, beginning in 2027, with rates adjusted annually for inflation."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "According to SFMTA, approximately $150 million each year would go toward reducing its existing deficit, while about $10 million would support service-quality improvements."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That raises an important question: If this new tax does not solve SFMTA’s underlying structural deficit, what happens when the next funding gap comes?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco homeowners, property owners, small businesses, working families, and renters are already struggling with one of the highest costs of living and doing business in the country. Another long-term tax adds more financial pressure to our city."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Before asking San Franciscans to pay more for the next 15 years, SFMTA should demonstrate fiscal responsibility, measurable results, transparency, and sustainable solutions to its operational and financial problems."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We support Muni. But supporting Muni does not mean automatically supporting another tax."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Fix the underlying problems before asking\nSan Franciscans to pay more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "VOTE NO ON PROPOSITION H."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Business League"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Business League.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=132",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Legal text of Proposition H",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "mediaType": "application/pdf",
+      "page": 224,
+      "sha256": "9c6bcf0b49b5a04c1f03de363d5727458c673d8807ef2932c2912ed40d786136"
+    }
+  ]
+}

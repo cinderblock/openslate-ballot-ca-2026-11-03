@@ -1,0 +1,1365 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+    "jurisdiction": "us/ca/sf",
+    "kind": "measure",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Shall the City amend the Charter to expand the Mayor’s authority to transfer responsibilities between departments, hire deputy mayors, and hire some and fire most department heads; and to allow City officials to remove members of boards and commissions without cause?"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 50%+1 affirmative votes to pass."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "How “F” Got on the Ballot"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On July 23, 2026, the Department of Elections certified that the initiative petition calling for Proposition F to be placed on the ballot had a sufficient number of valid signatures to qualify the measure for the ballot."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "53,076 signatures were required to place an initiative Charter Amendment on the ballot. This number is equal to 10% of the registered voters at the time a “Notice of Intent to Circulate Petition” was published. A random check of the signatures submitted by the proponents of the initiative petition prior to the July 6, 2026, submission deadline showed that the total number of valid signatures was greater than the number required."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=102"
+  },
+  "summary": {
+    "title": "Digest",
+    "by": "Ballot Simplification Council",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Way It Is Now:"
+            ]
+          },
+          " The Mayor is the chief executive officer of the City. The Mayor directly supervises nearly 50 City departments, which are established by Charter or ordinance. Most City departments are established by Charter."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Transfer of Functions: The Mayor can transfer responsibilities between departments established by ordinance, as long as the Board of Supervisors (Board) does not object. The Mayor cannot transfer responsibilities for departments established by the Charter."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Deputy Mayors: The Mayor cannot hire deputy mayors to supervise most departments established by the Charter."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Department Heads: In most cases, the Mayor must select a department head from candidates recommended by the board or commission that oversees that department. Usually, the board or commission can fire the department head, but the Mayor cannot."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Commissioners: In addition to the Mayor, the Board and other officials appoint members to City boards and commissions. Appointed members can usually only be suspended or removed if the member engaged in official misconduct or committed certain felonies."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Proposal:"
+            ]
+          },
+          " Proposition F would amend the Charter to allow the Mayor to do the following:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Transfer of Functions: Transfer responsibilities between most departments or combine departments under a single department head, regardless of whether the Department was established by ordinance or Charter and as long as the Board does not object. The Mayor cannot eliminate any responsibilities established by Charter. The Mayor could also assign the oversight of these transferred responsibilities to that department’s commission. The Mayor cannot transfer responsibilities of these departments:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "City Administrator, Controller, Board of Appeals, Port, Airport, Asian Art Museum, Fine Arts Museums, San Francisco Municipal Transportation Agency, Public Utilities Commission, Civil Service Commission, Department of Human Resources, Retirement Board, Health Service System, Department of Elections, Ethics Commission, or departments headed by other elected officials."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The responsibilities of the Department of Police Accountability cannot be transferred to the Police Department, and the responsibilities of the Sheriff’s Inspector General cannot be transferred to the Sheriff."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Deputy Mayors: Hire deputy mayors to supervise most departments established by the Charter."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Department Heads: Hire some and fire most department heads without board or commission involvement. The Mayor cannot hire or fire certain department heads that are exempt (see",
+                {
+                  "em": [
+                    " List of Exemptions"
+                  ]
+                },
+                " in Words You Need To Know)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Commissioners: In addition to the Mayor, the Board and other officials who appoint board and commission members could remove them at any time without cause. This does not apply to the Board of Appeals, Civil Service Commission, or Ethics Commission. The Mayor cannot eliminate any board or commission established by the Charter."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=102"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “YES” Vote Means:"
+              ]
+            },
+            " If you vote “yes,” you want to expand the Mayor’s authority to transfer responsibilities, hire deputy mayors, hire some and fire most department heads, and allow City officials to remove members of boards or commissions without cause."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=103"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “NO” Vote Means:"
+              ]
+            },
+            " If you vote “no,” you do not want to make these changes."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=103"
+    }
+  },
+  "analysis": {
+    "title": "Controller’s Statement on “F”",
+    "by": "City Controller",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City Controller Greg Wagner has issued the following statement on the fiscal impact of Proposition F:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Should the proposed Charter amendment be approved by the voters, in my opinion, it would have a minimal impact on the cost of government, although at a level that cannot be determined at this time."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment would (1) expand the Mayor’s authority to hire and remove most departments heads; (2) allow most commissioners to be removed at will by their appointing authority; (3) authorize the Mayor to reorganize departments and adjust reporting relationships within the executive branch, subject to potential rejection by the Board of Supervisors; and (4) allow the use of deputy mayors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment authorizes the Mayor to utilize deputy mayors. The average annual cost for a deputy mayor would be approximately $250,000. The proposed Charter amendment allows the Mayor to restructure departments and reorient reporting relationships within the executive branch. The potential costs or savings incurred for such changes cannot be determined without knowing which departments would be involved and how the departments would be restructured. For example, in Fiscal Year 2022-23 when the Department of Sanitation and Streets merged into the Department of Public Works, the Controller’s Office estimated cost savings of $3.5 million in the first year and $2.5 million in the second year of the merger. Cost savings came from removing duplicative administrative and information technology staff, departmental leadership, and one-time and ongoing costs, such as equipment and professional services."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=103"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Over decades, San Francisco’s governing system - or city charter - has increasingly grown to reward city insiders. Mayor Lurie is leading a citywide coalition to make the system more accountable to everyday San Franciscans."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Clean Up City Hall is a package of Props A, D, E and F to improve neighborhood services, speed up permitting and reduce wasteful spending so we can invest in our great city."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "PROP F TACKLES CITY HALL CORRUPTION."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The current system allows departments to operate as independent fiefdoms instead of coordinated parts of government. It protects the insiders instead of holding them accountable. Six department heads have been indicted or investigated for corruption in the last decade. The mayor can only hire and remove a handful of department heads when self-dealing is exposed or they fail to do their job."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "CLEAR LINES OF ACCOUNTABILITY."
+              ]
+            },
+            " Allowing the mayor to hire and remove most of their department heads will ensure city officials are accountable to the public."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "BETTER ORGANIZED DEPARTMENTS FOR BETTER"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "RESULTS."
+              ]
+            },
+            " Better organized and more accountable departments will deliver faster permits, cleaner streets and projects done on time and on budget."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "EXPOSES SELF-DEALING."
+              ]
+            },
+            " “Departments that act as their own kingdoms are where corruption can grow. F makes it clear that every department head is ultimately accountable to the people of San Francisco” - Louise Renne, former San Francisco City Attorney & CA Deputy Attorney General"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "STRENGTHENS CHECKS AND BALANCES."
+              ]
+            },
+            " The Board of Supervisors will still have oversight over city departments and a majority of the Board can reject any changes the mayor makes. Watchdog commissions like Ethics and police oversight remain fully independent."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco works best when we work in coalitions together. Please join the citywide coalition to make the system accountable to all!"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Board of Supervisors President Rafael Mandelman"
+        },
+        {
+          "name": "Speaker Emerita Nancy Pelosi"
+        },
+        {
+          "name": "Nancy Tung",
+          "title": "San Francisco Democratic Party"
+        },
+        {
+          "name": "Former Deputy City Attorney Jim Lazarus"
+        },
+        {
+          "name": "SFSU Associate Professor of Political Science"
+        },
+        {
+          "name": "Jason McDaniel"
+        },
+        {
+          "name": "Former City Controller Ben Rosenfield"
+        },
+        {
+          "name": "Former Fire Chief Joanne Hayes-White"
+        },
+        {
+          "name": "Firefighters Local 798"
+        },
+        {
+          "name": "SF Building Trades"
+        },
+        {
+          "name": "Dan Calamuci",
+          "title": "Carpenters Local 22*"
+        },
+        {
+          "name": "Anthony Travis Jr.",
+          "title": "Laborers Local 261*"
+        },
+        {
+          "name": "Charles Lavery",
+          "title": "Operating Engineers Local 3*"
+        },
+        {
+          "name": "Teamsters Local 665"
+        },
+        {
+          "name": "Council of District Merchant Associations"
+        },
+        {
+          "name": "Chinatown History and Culture Association"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=104",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "NO ON F — FAILS TO SOLVE CORRUPTION. EMPOWERS BILLIONAIRES."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proponents say they want to stop corruption. But if that’s the assignment, Prop F gets an F. It concentrates power in the executive, stripping away checks and balances. That will only ",
+            {
+              "em": [
+                "enable"
+              ]
+            },
+            " corruption - just look at Washington."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "PROP F GIVES MAYORS SWEEPING NEW POWERS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "to alter departments’ core objectives, merge and eliminate departments without a single public hearing. Even if you trust this Mayor, Prop F puts this power in the hands of all future Mayors. A Mayor could also fire appointed commissioners without cause, undermining independent citizen oversight."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MAYORS CAN ALREADY EASILY REMOVE CORRUPT"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "OFFICIALS."
+              ]
+            },
+            " They need only demonstrate misconduct or convince a majority of the Board of Supervisors. But Prop F lets the Mayor",
+            {
+              "em": [
+                " unilaterally"
+              ]
+            },
+            " remove public servants who’ve done nothing wrong. That’s a recipe for politically-motivated removals of whistleblowers who would",
+            {
+              "em": [
+                " expose"
+              ]
+            },
+            " corruption."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "BILLIONAIRES BACK PROP F FOR A REASON."
+              ]
+            },
+            " Local tech billionaires spent over $8 million to get Propositions D, E, and F on the ballot. The ultra-rich rarely bankroll campaigns out of the goodness of their hearts. Like the billionaires funding our President’s White House ballroom, they expect something in return. Prop F makes the Mayor’s office a one-stop shop for them to buy influence and override democratic input."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Prop F deserves a failing grade. Vote no."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Democratic Socialists of America - San Francisco"
+        },
+        {
+          "name": "Jackie Fielder",
+          "title": "San Francisco Supervisor*"
+        },
+        {
+          "name": "Dean Preston",
+          "title": "Former San Francisco Supervisor*"
+        },
+        {
+          "name": "Theresa Imperial",
+          "title": "Former San Francisco Planning Commissioner*"
+        },
+        {
+          "name": "Sophia Andary",
+          "title": "Commissioner, San Francisco Commission on the Status of Women*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=104",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The",
+            {
+              "strong": [
+                " Clean Up City Hall campaign"
+              ]
+            },
+            " has spent over 4 million dollars to put 3 Charter measures on the ballot favoring the Mayor and wealthy corporate interests."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "These measures were never heard by the Board."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "5 of 11 Board Supervisors have declined to endorse them."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "They had no public scrutiny and have had no cost analysis."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "These are NOT consensus measures"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Prop F"
+              ]
+            },
+            " removes essential checks & balances. Today, the Board of Supervisors and Oversight Commissions have opportunities to hold public hearings and approve changes to department leadership, structure and spending. Checks and balances are essential to good governance and ensuring that the public has opportunities to give comment to substantial changes that will impact the delivery of services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "EVEN IF you do like",
+            {
+              "strong": [
+                " this"
+              ]
+            },
+            " Mayor & trust",
+            {
+              "strong": [
+                " this"
+              ]
+            },
+            " Mayor to have your interests in mind, you may not like or trust",
+            {
+              "strong": [
+                " the next"
+              ]
+            },
+            " Mayor or the one after that."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "And concentrating so much power in the hands of one person can lead to disastrous effects that parallel what we’ve seen in DC."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Simply put, Prop F goes too far."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "It allows the Mayor to remove Commissioners for any reason not just cause. Removing commissioner’s ability to effectively question the policies and spending of the departments they’re supposed to be overseeing."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "It allows the Mayor to hire and fire Department Heads without Commission hearings"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Even more problematic It allows the Mayor to re-arrange Departments, combining their staff – or eliminating Departments altogether. And the Board will then only have 60 days to object or the Mayor’s changes go into effect without a single public hearing."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote No on F to keep essential checks and balances the Board of Supervisors and Oversight Commissions provide."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Small Business Forward"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=105",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "title": "PROP F CAME FROM AN OPEN, COLLABORATIVE",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "PROCESS."
+              ]
+            },
+            " Mayor Lurie and Board President Mandelman convened San Francisco’s first citywide Charter Reform Working Group in decades, followed by dozens of stakeholder meetings and labor negotiations leading to real compromise. The City Controller has completed a full cost analysis, and the citywide coalition of people across the political spectrum backing these common sense reforms is broad and growing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "CHECKS AND BALANCES STAY INTACT."
+              ]
+            },
+            " Watchdog agencies like ethics and police oversight remain fully independent. No department functions can be eliminated without a vote of the people. The executive branch can only combine services where costly overlaps slow down city services, like Planning and DBI."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "HOLDS DEPARTMENT HEADS ACCOUNTABLE."
+              ]
+            },
+            " The system allows departments to operate as independent fiefdoms. Department heads have been indicted, and when self dealing is exposed, the mayor can’t easily remove them."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "COMMISSIONERS ANSWER TO THE PUBLIC."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Commission seats have long been handed out as rewards, with no accountability to voters. F doesn’t eliminate a single commission, but lets the Mayor and Board remove commissioners who don’t show up, don’t do the work, or are corrupt."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "F isn’t about one person. It’s about making government work for everyday people, no matter who holds office. The insiders are misleading because they are being challenged. They think the system works great. San Franciscans know the system is broken."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It’s time for a change."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Board of Supervisors President Rafael Mandelman"
+        },
+        {
+          "name": "Former Controller Ben Rosenfield"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=105",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "Clear Accountability for City Government",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s Mayor is the city’s chief executive but today directly appoints and removes only 6% of department heads. Responsibility is scattered across dozens of commissions and overlapping approval processes, making it nearly impossible for voters\nto know who is accountable when city government succeeds or fails."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure is drawn directly from SPUR’s 2026 Charter for Change report and its 2024 Designed to Serve research — the product of SPUR’s decades of nonpartisan work studying how San Francisco’s city government actually functions, and how it can work better."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The measure gives the Mayor authority to appoint and remove most department heads, while preserving Board approval for the Controller, City Administrator, and Human Resources Director. It allows the Mayor to organize their office effectively, including using deputy mayors — a basic tool most big-city mayors already have. And it lets the Mayor propose reorganizing departments, subject to Board rejection within 60 days, so the government can adapt without a citywide election every time."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Critically, independent oversight is protected: the Ethics Commission, Elections Commission, Controller, City Administrator, Board of Appeals, Civil Service Commission, and elected officials like the City Attorney and District Attorney are all exempted."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "When authority and accountability are aligned, voters can judge elected officials’ performance at the ballot box. This measure ends the finger-pointing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sean Elsbernd"
+        },
+        {
+          "name": "President/CEO SPUR (www.spur.org)"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: SPUR.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=106",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "GOOD GOVERNANCE LEADERS AGREE PROP F WILL IMPROVE ACCOUNTABILITY."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We’ve worked inside San Francisco’s government, and we’ve seen the problem firsthand: departments that operate like independent fiefdoms instead of coordinated parts of one city government. When no one is clearly accountable, no one is truly responsible — and corruption grows in the gaps. Prop F fixes this broken system by letting the mayor hire and remove their own department heads, so corrupt or ineffective insiders answer to democratically elected leadership."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Importantly, Prop F doesn’t concentrate power without checks. The Board of Supervisors can reject any reorganization proposed by the mayor. Independent watchdog commissions — Ethics, Elections, police oversight — stay exactly as independent as they are today. This is the kind of structural reform that good governance requires: clear lines of accountability, paired with real checks and balances. Vote Yes on Prop F for stronger accountability and better city services."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Former Controller Ben Rosenfield"
+        },
+        {
+          "name": "Former Sheriff Vicki Hennessy"
+        },
+        {
+          "name": "Former Director of SF Planning John Rahaim"
+        },
+        {
+          "name": "Former Deputy City Attorney James Lazarus"
+        },
+        {
+          "name": "Former Fire Chief Joanne Hayes-White"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=106",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "LABOR GROUPS SAY YES ON F FOR MORE ACCOUNTABILITY."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Working people show up and do the job every day — city government should be held to the same standard. Instead, San Francisco’s departments too often fall short, yet never face real accountability. When departments fail without consequence, it’s frontline workers and the public who pay the price through delayed projects, wasted public dollars, and services that don’t work."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop F forces corrupt and ineffective department leadership to answer to democratically elected officials, not more city hall insiders. Accountable government means better-run departments, faster project delivery, and public dollars spent on real results instead of protecting insiders. Labor stands for accountability at every level: Vote Yes on Prop F for more responsible city government."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Firefighters 798"
+        },
+        {
+          "name": "SF Building Trades"
+        },
+        {
+          "name": "Teamsters Local 665"
+        },
+        {
+          "name": "SEIU Local 87"
+        },
+        {
+          "name": "Carpenters Local 22 Senior Field Representative"
+        },
+        {
+          "name": "Dan Calamuci*"
+        },
+        {
+          "name": "Operating Engineers Local 3 District Representative Charles Lavery*"
+        },
+        {
+          "name": "Laborers Local 261 SF Liaison Anthony Travis Jr.*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=106",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "SMALL AND BIG BUSINESSES URGE BETTER RESULTS THROUGH PROP F."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s businesses know the frustration of dealing with a city government where departments act in silos with confusing and conflicting rules instead of as one coordinated city government. The lack of coordination and accountability costs businesses time and money, as permits stall and project costs balloon."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop F creates clear reporting lines, so leadership is accountable to voters instead of hidden from them. Accountable city government means faster permits, better-run departments, and a city that works better for the businesses trying to build, hire, and grow here. San Francisco’s business community supports real accountability: Vote Yes on Prop F."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Council of District Merchants Associations"
+        },
+        {
+          "name": "SF Chamber of Commerce"
+        },
+        {
+          "name": "Noe Valley Merchants and Professionals Association"
+        },
+        {
+          "name": "Hotel Council"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=107",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "CHINATOWN LEADERS URGE YES ON F TO END GOVERNMENT EXCUSES."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For too long, Chinatown and immigrant communities have dealt with a City Hall where government services fall short. Departments act in silos instead of coordinating and when something goes wrong, our community services suffer. Currently, the mayor cannot remove most department heads. That means the people responsible for delivering city services to Chinatown often face no consequences when they fail."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prob F will ensure a more accountable city government with faster, better-run services for every neighborhood. Chinatown deserves a government that answers for its results without excuses. Vote Yes on Prop F for stronger accountability."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Chinatown History and Culture Association"
+        },
+        {
+          "name": "Eva Lee",
+          "title": "SF Chinatown Merchants Association*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=107",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "Billionaires Buying “Unitary Executive” Mayor",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "When San Francisco voters rejected 2024’s billionaire-backed “",
+            {
+              "em": [
+                "Proposition D"
+              ]
+            },
+            "” ballot measure, “",
+            {
+              "em": [
+                "Proposition E"
+              ]
+            },
+            "” created a “",
+            {
+              "em": [
+                "Commission Streamlining Task"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "Force"
+              ]
+            },
+            "” Mayor Lurie and SPUR managed stacking with SPUR board members, including",
+            {
+              "strong": [
+                " Ed Harrington"
+              ]
+            },
+            " and ",
+            {
+              "strong": [
+                "Jean Fraser"
+              ]
+            },
+            ". “",
+            {
+              "em": [
+                "Prop. D’s"
+              ]
+            },
+            "” proposals included eliminating San Francisco’s Health Commission!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Task Force was hell bent on implementing Trump’s “",
+            {
+              "em": [
+                "unitary executive theory"
+              ]
+            },
+            ".” It colluded, implementing SPUR’s agenda to hand exclusive, greatly expanded “",
+            {
+              "em": [
+                "strong-mayor"
+              ]
+            },
+            "” powers to Lurie (see www.stoplhhdownsize.com/Commission-Streamlining-Task-Force-Draft-2025-12-12-Meeting-Minutes-Sunshine.pdf)."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Task Force pressed further, despite San Franciscans’ vigorous “",
+            {
+              "strong": [
+                "No Kings”"
+              ]
+            },
+            " opposition, nationally or locally (see www.stoplhhdownsize.com/Streamlining-Task-Force-Proposes-King-Mayor-Power-Grab.pdf)."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“",
+            {
+              "strong": [
+                "Prop. F"
+              ]
+            },
+            "” would allow Lurie to reorganize executive branch departments — with 15 exceptions, plus",
+            {
+              "strong": [
+                " not"
+              ]
+            },
+            " departments headed by elected officials. He could transfer powers and functions, consolidate one or more departments under a single department head, and assign transferred functions to different oversight commissions. Lurie",
+            {
+              "strong": [
+                " could"
+              ]
+            },
+            " consolidate or eliminate the Police and Fire Departments; Mayor’s Office of Housing and Community Development; ",
+            {
+              "strong": [
+                "Rent Board"
+              ]
+            },
+            "; Human Services Agency; Human Rights Commission;",
+            {
+              "strong": [
+                " Public Health"
+              ]
+            },
+            ", Planning, Environment, and Disability and Aging Services departments; and others."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Like Trump, renaming the “",
+            {
+              "em": [
+                "Defense Department"
+              ]
+            },
+            "” to “",
+            {
+              "em": [
+                "War"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "Department"
+              ]
+            },
+            ",” and emasculating the CFPB?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“",
+            {
+              "strong": [
+                "Prop. F"
+              ]
+            },
+            "” allows Lurie to hire four or more “",
+            {
+              "strong": [
+                "Deputy"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Mayors"
+              ]
+            },
+            "” — averaging $250,000 salaries each, excluding fringe benefits — which voters banned 35 years ago, rejecting “",
+            {
+              "strong": [
+                "Prop. H"
+              ]
+            },
+            "” in 1991. Lurie wants Mayoral staff raises, too."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“",
+            {
+              "strong": [
+                "Prop. F"
+              ]
+            },
+            "” strips Commission’s from developing three-nominee “",
+            {
+              "em": [
+                "short lists"
+              ]
+            },
+            "” to hire their respective Department Heads, and expands the Mayor’s sole authority to hire and fire them without Board or Commission involvement."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It also would authorize appointing authorities — Lurie, District Supervisors — to remove their appointees to most boards and commissions",
+            {
+              "strong": [
+                " without cause"
+              ]
+            },
+            ", essentially “",
+            {
+              "strong": [
+                "at-will"
+              ]
+            },
+            "” appointments."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Stop these billionaires: No “Unitary Executives.”"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "No Kings"
+              ]
+            },
+            {
+              "strong": [
+                "!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote “No” on Propositions “F” — and “A,” “D,”"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "and “E,” too!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Patrick Monette-Shaw"
+        },
+        {
+          "name": "Columnist",
+          "title": "Westside Observer*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Patrick Monette-Shaw.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=107",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "Street Safety Advocates Say No on F! Don’t Let Politics Block Lifesaving Progress",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Since 2014, over 350 people have been killed in crashes on San Francisco’s streets. A woman hit by a truck on Market Street on August 7 marked the seventeenth tragic death this year alone."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We can fix our streets and save lives. Through the SFMTA’s Quick Build program, improvements like new lighting, new traffic signals, new crosswalks, and road diets have kept traffic flowing while making city streets safer."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Prop F threatens that progress."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop F politicizes the SFMTA Board, which must approve street projects. With Prop F, a mayor could remove a board member without cause — for any reason."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Special interests who oppose street safety improvements can and will exploit this. One phone call to the mayor’s office could halt lifesaving fixes on our streets. Even a mayor who wants to promote safety will be under pressure to fold."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "As neighborhood advocates, we know San Franciscans want safer streets. When done thoughtfully, street projects enjoy widespread support in our communities. But we’ve also seen unrepresentative opposition, from a connected few, block improvements most neighbors want.",
+            {
+              "strong": [
+                " Prop F"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "makes this problem far worse."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Voters have already rejected political meddling in our streets. Approved in a landslide, 1999’s Prop E deliberately structured the SFMTA Board to be independent of City Hall bickering. Prop F reneges on that deal."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We cannot afford to go back to letting politics block lifesaving improvements on our streets.",
+            {
+              "strong": [
+                " Vote No on F."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Chris Arvin",
+          "title": "Chair, SFMTA Citizens’ Advisory Council*"
+        },
+        {
+          "name": "Austin Milford-Rosales",
+          "title": "Member, SFCTA Community Advisory Committee*"
+        },
+        {
+          "name": "Jaime Viloria",
+          "title": "Outreach Manager, San Francisco Transit Riders*"
+        },
+        {
+          "name": "Aditya Bhumbla"
+        },
+        {
+          "name": "Al Hawley"
+        },
+        {
+          "name": "Jessica Jenkins"
+        },
+        {
+          "name": "Maureen Persico"
+        },
+        {
+          "name": "Scott Feeney"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Scott Feeney, Chris Arvin, Jessica Jenkins.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=108",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Legal text of Proposition F",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "mediaType": "application/pdf",
+      "page": 203,
+      "sha256": "9c6bcf0b49b5a04c1f03de363d5727458c673d8807ef2932c2912ed40d786136"
+    }
+  ]
+}

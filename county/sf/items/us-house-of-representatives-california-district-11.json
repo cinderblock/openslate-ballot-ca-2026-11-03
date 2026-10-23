@@ -1,0 +1,247 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 11",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-11",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "candidates": [
+    {
+      "choice": "Connie Chan",
+      "statement": {
+        "by": "Connie Chan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " San Francisco Supervisor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a working mom who knows what it takes for working families to get a break."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We must fight Trump and take on the affordability crisis that’s driven by his policies, corporate greed and shrinking opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Budget Chair, I pushed for essential services during the pandemic recovery. I’ve protected residents from Trump’s cuts to healthcare and food security. I fully funded Free City College, legal assistance for immigrants and HIV/AIDS services. I’ve passed legislation to build housing for seniors and working people, protect tenants and small businesses from evictions and support workers’ rights."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the only candidate who has never taken corporate money, because I only work for you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Congress, I’ll fight to:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Reverse Trump cuts to health care and pass Medicare for All"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Make affordable childcare and free City College accessible nationwide"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Abolish ICE and pass immigration reform"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expand federal programs to build housing for working people"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "End corruption in the White House and require billionaires and big corporations to pay their fair share"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Push to end U.S. involvement in wars"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I came to Chinatown at 13 with my family. We built a life thanks to San Francisco values, a rent-controlled apartment and good public education. San Francisco has been a city where everyone could thrive, and that’s what I am fighting for."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proudly endorsed by:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Speaker Emerita Nancy Pelosi\nU.S. Senator Adam Schiff\nU.S. Representatives Julia Brownley, Judy Chu, Pramila Jayapal, Grace Meng, Marilyn Strickland, Jill Tokuda, Jared Huffman, Ro Khanna\nFormer Board of Supervisors President Norman Yee\nFormer Mayors Willie Brown and Art Agnos\nCleve Jones\nCalifornia Federation of Labor Unions\nSan Francisco Labor Council\nSan Francisco Building and Construction Trades Council\nNational Nurses United\nSan Francisco Fire Fighters Local 798\nUnited Educators of San Francisco\nWorking Families Party\nRose Pak Asian American Club\nHarvey Milk LGBTQ+ Democratic Club\nSan Francisco Women’s Political Committee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Read my Working People’s Plan at conniechansf.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=26",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Scott Wiener",
+      "statement": {
+        "by": "Scott Wiener",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " State Senator."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Francisco needs a fighter in Congress who delivers for San Franciscans — my record proves I will."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Congress, I’ll pass national legislation to make housing affordable for working people, because I wrote the laws building tens of thousands of homes in California — including 5,000+ affordable homes in San Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll fight to guarantee national paid family leave, because I authored the nation’s first fully paid parental leave law in San Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll take on the insurance industry to pass Medicare for All, because I capped insulin at $35 a month and forced insurers to cover mental healthcare."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll expand federal transit funding and cut red tape to deliver transit projects faster, just as I’ve secured billions to keep Muni, BART, and Caltrain running."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll keep fighting for San Francisco’s comeback: I created entertainment zones to revive our nightlife and small businesses, and I’m partnering with Mayor Lurie to rebuild downtown’s economy and keep San Francisco the greatest city in the world."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll stand up to Donald Trump with the bold action this moment demands. I passed the nation’s first law to unmask ICE agents, and I’m fighting to hold them accountable when they violate your rights. In Congress, I’ll ban congressional stock trading and get dark money out of elections."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That starts with my own campaign: I’m refusing all corporate PAC money."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve never backed down from a fight — and never will."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’d be honored to earn your vote. Join civil rights leader Dolores Huerta, Sierra Club, Attorney General Rob Bonta, California Democratic Party, National Union of Healthcare Workers, North Coast States Carpenters Union, and many more."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ScottWiener.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=26",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

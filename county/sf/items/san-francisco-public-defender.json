@@ -1,0 +1,135 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Public Defender",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Public Defender"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Public Defender provides legal representation to San Franciscans who are charged with crimes and cannot afford an attorney. The term of office is four years, with a current annual salary of $307,892."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Manohar Raju",
+      "statement": {
+        "by": "Manohar Raju",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Public Defender."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As San Francisco Public Defender, I lead a team that fights to represent the accused. My office emphasizes the importance of high-level legal representation that safeguards the constitutional rights of all San Franciscans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In recognition of this work, I have received the following honors:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "California Public Defender Association – Special Recognition Award"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Society of Professional Journalists – James Madison Freedom of Information Award"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "South Asian Bar Association – Public Interest Award"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "La Raza Centro Legal – Visionary of Justice Award"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And, to meet the needs of our community, I have expanded my office’s capacity to provide immigration, mental health, and youth defense services, along with post-conviction relief."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I stand proud that the Public Defender’s office invests in innovative programs that address the root causes of poverty and injustice. Among these are the Clean Slate Program (clearing record barriers to jobs and housing), the landmark ‘Be the Jury’ initiative (diversifying juries through fair pay), the community-based MAGIC Youth Programs (empowering youth in underresourced communities), and the College Pathway Program (connecting clients to higher education and green jobs)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe that true public safety requires facilitation of appropriate social services and robust constitutional defense."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your vote, I will continue building a fairer, safer, and more just San Francisco."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=41",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

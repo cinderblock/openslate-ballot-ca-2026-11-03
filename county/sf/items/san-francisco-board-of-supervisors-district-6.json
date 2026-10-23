@@ -1,0 +1,201 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Board of Supervisors, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Member, Board of Supervisors"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors is the legislative branch of government for the City and County of San Francisco. It enacts local laws and adopts the City’s annual budget. There are eleven members, each elected to a four-year term. The current annual salary is $180,102. Voters in Districts 2, 4, 6, 8, and 10 will vote for their member of the Board of Supervisors in this election."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Alex Behrend",
+      "statement": {
+        "by": "Alex Behrend",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Neglected Voter Organizer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Why vote? (That’s not a rhetorical question.)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "What has it gotten most of us?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Unless you’re uber-wealthy or well-paid by them, isn’t neglect what we get from most politicians (and all the billionaire corporations backing them?)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "FIRST, let’s support those who aren’t backed by the billionaires and massive corporations exploiting us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And even better if it’s somebody in the same boat as you — struggling to make ends meet, getting a landlord to make adequate repairs, or trying to get to/from work without forking over $40 to a Silicon Valley app (each way!)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s a fact that working folks are true policy experts (because we deal with corrupted policy.)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When I’m on the Board, I’ll fight the predators you and I face every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We will use EXISTING criminal penalties for landlords who unlawfully neglect our buildings."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We will enforce CRIMINAL CODES on corporations to fix working conditions and protect wages."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The “City Family” pretends our exploitation doesn’t happen. I will put a stop to that!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s DEPLORABLE our so-called leaders have let it get so bad for us working San Franciscans."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=46",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Matt Dorsey",
+      "statement": {
+        "by": "Matt Dorsey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " San Francisco Supervisor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is no playbook to run for public office as a recovering drug addict. But when I did that four years ago, San Franciscans like you gave me a chance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You agreed that amid the deadliest drug crisis in history, City Hall needed a strong voice from the recovery community — someone willing to challenge the status quo and lead change. You shared my belief that by balancing compassionate support with accountability, people can change for the better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And so can San Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Supervisor, I authored the Recovery First Ordinance to align city drug policies toward a common goal: long-term recovery from addiction. I legislated Read to Recovery, a nationally recognized program that distributed more than 12,000 recovery books. I championed Drug-Free Sidewalks, expanded access to lifesaving addiction medications, and advanced Drug-Free Supportive Housing to provide recovery-oriented alternatives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve also worked to revitalize downtown, expand housing production, support renters, encourage office-to-housing conversions, and strengthen public safety and traffic safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we’re showing that recovery works — for our residents and our city. We’ve done a lot. But there’s a lot more to do, and a lot to lose if we backtrack."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote for re-election; learn more at mattdorsey.org."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=46",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

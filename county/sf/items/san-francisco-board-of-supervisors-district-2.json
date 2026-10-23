@@ -1,0 +1,409 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Board of Supervisors, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Member, Board of Supervisors"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors is the legislative branch of government for the City and County of San Francisco. It enacts local laws and adopts the City’s annual budget. There are eleven members, each elected to a four-year term. The current annual salary is $180,102. Voters in Districts 2, 4, 6, 8, and 10 will vote for their member of the Board of Supervisors in this election."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Guy McCoy",
+      "statement": {
+        "by": "Guy McCoy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Manager / Retired Military."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Retired Military"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "23-year resident of District 2"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Former Federal law enforcement"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Supports business, is business manager"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Has been a target of crime, understands crime victims"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "NOT a politician or activist"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not a career politician making exaggerated accomplishment claims or hollow, meaningless support for what should automatically be basic values in our city. I’m a regular, hardworking, common-sense & believer in real solutions. Regardless who gets the credit. I’m not feeding an ego, nor seeing this as a step to higher office."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll be the sensible Board member who’ll:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Force Homeless agencies to be more effective RESOLVING Homelessness instead of lining pockets."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Hold Homeless individuals REFUSING help accountable to the same laws we ALL follow."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Focus new housing creation towards working\nSan Franciscans at market rates and below INSTEAD of high-end housing."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Recognize businesses pay our bills. We need to do away with EXCESSIVE regulations & costs that impede small businesses opening and large businesses staying."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Encourage residents to take an active role in the city: If you see something wrong, report it. Expect what you accept."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Get repeat offenders and career criminals off the streets."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Guy McCoy, District 2 Supervisor."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=42",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Monthanus Ratanapakdee",
+      "statement": {
+        "by": "Monthanus Ratanapakdee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Community Advocate / Immigrant Rights Commissioner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Monthanus Ratanapakdee is a longtime San Francisco resident for nearly three decades, community advocate, nonprofit founder, and public safety leader. She founded the Justice for Vicha Foundation after her father, Vicha Ratanapakdee, was killed in an unprovoked attack, helping bring national attention to anti-Asian hate, senior safety, and victims’ rights."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "She serves on San Francisco’s Immigrant Rights Commission and has worked with residents, seniors, immigrants, families, victims, and small businesses across San Francisco. Her work focuses on public safety, accountability, neighborhood quality of life, language access, and community healing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an independent candidate for Supervisor, Monthanus is not backed by political party machines or big-money interests. She supports safer streets, cleaner neighborhoods, stronger support for small businesses, protecting the character of District 2 neighborhoods, responsible use of taxpayer dollars, compassionate policies with accountability, stronger protections for seniors and victims, and consequences for repeat violent offenders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Monthanus believes San Francisco can be safe, compassionate, economically strong, and accountable to the people again."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Titles and organizational affiliations are listed for identification only. This is not an endorsement by the Immigrant Rights Commission, the City and County of San Francisco, or the Justice for Vicha Ratanapakdee Foundation."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=42",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Stephen Sherrill",
+      "statement": {
+        "by": "Stephen Sherrill",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Member, Board of Supervisors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Stephen Sherrill, District 2 Supervisor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "“Keep San Francisco moving forward. Vote for Stephen Sherrill.” - Mayor Daniel Lurie"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Re-elected in June with 69%!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Francisco is on the rise. I work daily to deliver safe streets, affordable homes, vibrant businesses, family-friendly neighborhoods, good jobs, great schools for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Supervisor, my focus is public safety and neighborhood needs. We’ve delivered:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Added police foot patrols to reduce crime"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Stopped cuts to police, fire, street cleaning"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Launched SF’s Safe Gun Storage Initiative"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Defended Planned Parenthood against extremist threats"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expanded daycare subsidies for nearly 1,000 families"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Added 1,200+ homes including affordable housing for teachers and seniors"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Lowered start-up costs for new shops on Fillmore, Union"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Wrote the law to fill vacant storefronts faster\non Van Ness"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Championing Muni funding to keep\nSan Francisco moving"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a father raising kids here and past Director of the Mayor’s Office of Innovation, I know what we need from City Hall. It’s focus and follow-through to keep San Francisco moving forward and make it the #1 place for families and businesses to start, stay and build a future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor Daniel Lurie\nPlanned Parenthood Northern California Action Fund\nSan Francisco Firefighters Local 798\nNorth Coast States Carpenters Union\nTim Omi, President, Fillmore Merchants Association* *Title for ID purposes only"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And more at VoteStephenSherrill.com!"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=43",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

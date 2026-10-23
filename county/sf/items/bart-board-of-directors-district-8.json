@@ -1,0 +1,108 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "BART Board of Directors, District 8",
+    "kind": "race",
+    "jurisdiction": "us/ca/bart-8",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "candidates": [
+    {
+      "choice": "Sara Barz",
+      "statement": {
+        "by": "Sara Barz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Transportation Planner and Product Manager."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a transportation planner and a San Francisco mom. I’ve spent my career making transit easier, leading efforts to help the Bay Area’s transit systems provide better connections and transfer discounts, and serving on advisory boards ensuring accountability for transportation projects."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I don’t just advocate for better transit; I rely on BART. I know how painful it is when you can’t get to work or school pick-up on time because the train is delayed. I will use my experience to deliver a world-class rider experience and hold BART accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Franciscans deserve a clean, safe, and connected transit system. As your BART Director, my top priorities will be:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Getting the Basics Right: Riders deserve reliable service, safe and clean stations, and working elevators, escalators, and fare gates."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Welcoming Stations: Plazas should be inviting and accessible to all users, whether on foot or on wheels."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Holding BART Accountable: The agency should implement all of the cost-saving and transparency measures recommended by independent auditors to account for each taxpayer dollar spent."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proudly endorsed by:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "State Senator Scott Wiener\nAssemblymember Catherine Stefani\nSupervisor Myrna Melgar\nSupervisor Alan Wong\nSupervisor Bilal Mahmood\nBART Director Janice Li\nPlanning Commissioner Mike Chen\nAndrew Casteel, Laughing Monk Brewing Founder Sierra Club"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.SaraBarz.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=39",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

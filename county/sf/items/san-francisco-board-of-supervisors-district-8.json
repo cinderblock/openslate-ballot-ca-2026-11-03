@@ -1,0 +1,484 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Board of Supervisors, District 8",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Member, Board of Supervisors"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors is the legislative branch of government for the City and County of San Francisco. It enacts local laws and adopts the City’s annual budget. There are eleven members, each elected to a four-year term. The current annual salary is $180,102. Voters in Districts 2, 4, 6, 8, and 10 will vote for their member of the Board of Supervisors in this election."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Gary McCoy",
+      "statement": {
+        "by": "Gary McCoy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Healthcare Policy Advocate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 8 needs a fighter, and I have spent my career fighting for this community at every level of government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by Speaker Emerita Nancy Pelosi, I am the Campaign Manager for her Save Our Health Care Campaign, fighting to protect Medicaid and the Affordable Care Act. I served as aide to Senator Scott Wiener and oversaw pedestrian safety, park activation, and open space policy at the San Francisco Recreation and Parks Department."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Supervisor, I will:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Streamline housing approvals to build more homes faster"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Cut red tape for small businesses"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Protect LGBTQ+ organizations from funding cuts"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expand mental health crisis response teams and fund substance use treatment and recovery"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Strengthen tenant protections and champion affordable housing"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Build better streets through safety improvements, expanded protected bike lanes, and expanded slow streets"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I rebuilt my own life through San Francisco’s systems of care after experiencing homelessness. I led both the Alice B. Toklas and Harvey Milk LGBTQ Clubs. If elected, I will be the third person living openly with HIV to serve on the Board of Supervisors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Speaker Emerita Nancy Pelosi"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Congressmember Kevin Mullin"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Supervisors Myrna Melgar, Matt Dorsey, Connie Chan"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Harvey Milk LGBTQ Club"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Former Supervisors Jeff Sheehy & Carol Ruth Silver"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Harvey Milk Civil Rights Academy Principal* Mark Sanchez"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "SEIU 2015"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "NUHW"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "UA Local 38"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "IFPTE Local 21"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "AFT 2121"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: www.garymccoysf.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "*for identification purposes only"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=47",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Michael T. Nguyen",
+      "statement": {
+        "by": "Michael T. Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Attorney / Drag Activist."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an experienced patent attorney, I bring the negotiating skills necessary to fight for the people of District 8. I’ve worked across the political spectrum building consensus and developing common sense solutions that benefit all of us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 20 years of creating community and forming coalitions in San Francisco, I’ve learned how to serve those of us too often left out of the political process."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A son of refugees and a drag performer, I’m not a political machine candidate. I’m a truly independent voice who won’t cater to special interests."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running because I believe one of the richest cities in the country should not be failing its residents. We all deserve better. I’ll fight to make sure pot holes are filled and basic services, like MUNI, aren’t cut."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My platform is built on three things: affordability, housing production for working families, and good governance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m honored to have earned the endorsements of former Assemblymember and Supervisor Tom Ammiano and former Supervisors Sandra Lee Fewer and Gordon Mar — leaders who know what it takes to be a Supervisor in San Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at michaelnguyen4sf.com."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=47",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Darshini Patel",
+      "statement": {
+        "by": "Darshini Patel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Community Advocate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Francisco doesn’t have a values problem. We have a delivery problem. We already agree on what we want: safer streets, housing people can afford, care that shows up. A Supervisor’s job is to make the city deliver it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That’s been my career. I served in the Obama White House on the Domestic Policy Council and his re-election campaign. I helped a technology company grow from 15 cities to more than 7,000, launching over 300 markets, building its small business advocacy function, and delivering COVID emergency relief to 100,000 small businesses in weeks. My home is District 8: first Mission Dolores, then Noe Valley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Supervisor, I will:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Attack the housing backlog with a public pipeline tracker, enforceable timelines, and a second affordable housing site in District 8"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Unlock permitting for childcare centers and open our first family services hub"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Defend the LGBTQ health clinics this district relies on"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Enforce the vacancy tax: 236 District 8 properties never filed"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Publish a quarterly scorecard: commitments, dollars, deadlines, results"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I take no corporate or legacy PAC money. The budget maps our values. Read mine, ask hard questions, and hold me to my answers. More is possible. votedarshini.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=48",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Emanuel \"Manny\" Yekutiel",
+      "statement": {
+        "by": "Emanuel \"Manny\" Yekutiel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Small Business Owner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a small business owner, community builder and former city commissioner, and I’m running for District 8 Supervisor because San Francisco is ready for a new kind of leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leadership that makes it easier to find a home you can afford, to walk to the corner store and find it open, to feel safe on your own block, and to call the City and have someone show up. Leadership that knows how to build."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running to deliver 10,000 new homes, zero vacant storefronts, and streets that are safe, clean and joyful. To do this, we need a city government that provides excellent customer service and follows through."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I built Manny’s from the ground up — navigated city bureaucracy, served coffee, made payroll, and hosted hundreds of town halls. As co-founder of the Civic Joy Fund, I helped bring lights, night markets, and millions of dollars into our commercial corridors. As an SFMTA Director, I learned how City Hall works and how to push it to deliver."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Francisco gave me everything when I arrived looking for a place to belong. This campaign is about ensuring it can do the same for anyone who wants to call our city home. We can build it."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=48",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

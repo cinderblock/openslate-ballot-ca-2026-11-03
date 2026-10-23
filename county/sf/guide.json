@@ -1,0 +1,19 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/sf",
+    "title": "San Francisco Voter Information Pamphlet: November 3, 2026 Consolidated General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Department of Elections",
+      "uri": "https://www.sf.gov/departments--department-elections",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf"
+    ]
+  }
+}

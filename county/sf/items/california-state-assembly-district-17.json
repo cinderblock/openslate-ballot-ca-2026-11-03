@@ -1,0 +1,254 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 17",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-17",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "candidates": [
+    {
+      "choice": "Matt Haney",
+      "statement": {
+        "by": "Matt Haney",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " State Assemblymember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past four years as your State Assemblymember, I’ve worked every day to deliver results for San Francisco by building more housing, protecting public safety, expanding health care, and leading the recovery of our city’s downtown. I’m running for re-election because there’s a lot more work to do."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leadership"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Chair, Assembly Housing Committee."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Chair, Assembly Select Committee on Downtown Recovery"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Chair, Assembly Select Committee on Fentanyl, Opioid Addiction, and Overdose Prevention"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Founder and Chair, California’s first Legislative Renters’ Caucus."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Results"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expanded addiction treatment, mobile pharmacies, overdose prevention, and recovery housing."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Cut red tape to build more housing and convert vacant offices into homes."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Improved access to health care, dental care, and in-home supportive services."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Secured funding for reproductive health care, mental health services, and the performing arts."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Strengthened California’s gun safety laws."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Capped security deposits at one month’s rent and stood up to Wall Street landlords."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Proposed first-in-nation tax on private immigration detention corporations."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Protected consumers from price gouging and made live entertainment more affordable."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am fighting every day to reduce homelessness, build housing, reduce the cost of living, strengthen our public schools and transit, protect our environment, and defend access to health care for all. I have a 100% voting record with Planned Parenthood, Equality California, and the California Environmental Voters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "California Professional Firefighters"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "California Teachers Association"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "California Environmental Voters"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Equality California"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "California Nurses Association"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Planned Parenthood Northern California Action Fund"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "SEIU California"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Francisco Women’s Political Committee"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at MattHaney.com."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=28",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

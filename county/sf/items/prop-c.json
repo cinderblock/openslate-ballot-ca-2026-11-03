@@ -1,0 +1,949 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+    "jurisdiction": "us/ca/sf",
+    "kind": "measure",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Shall the City amend the Charter to change how the City’s annual contributions to the Housing Trust Fund are set, increase funding and expand programs for affordable housing, and extend the Fund to 2058?"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 50%+1 affirmative votes to pass."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "How “C” Got on the Ballot"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On July 14, 2026, the Board of Supervisors voted 11 to 0 to place Proposition C on the ballot. The Supervisors voted as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Yes:"
+            ]
+          },
+          " Chan, Chen, Dorsey, Fielder, Mahmood, Mandelman, Melgar, Sauter, Sherrill, Walton, Wong."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "No:"
+            ]
+          },
+          " None."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=80"
+  },
+  "summary": {
+    "title": "Digest",
+    "by": "Ballot Simplification Council",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Way It Is Now:"
+            ]
+          },
+          " The City has a Housing Trust Fund (HTF) to support the creation or preservation of affordable housing and affordable home ownership. Every year, the City provides funding to the HTF, and the annual contribution is adjusted up or down based on changes in the City’s unrestricted General Fund revenue. Last year, the City contributed $50.8 million to the HTF."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City may use HTF funds for:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "building, purchasing, and improving affordable housing;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "downpayment assistance loans for households earning up to 120% of Area Median Income (AMI) and for emergency first responders;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "assistance to households earning up to 120% of AMI to improve their housing and avoid housing loss;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "grant programs for specific types of neighborhood improvements; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "administrative costs."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Housing Trust Fund that supports these programs is set to expire in 2043."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Proposal:"
+            ]
+          },
+          " Proposition C would change how the City’s annual contributions to the Housing Trust Fund (HTF) are set, increase funding and expand programs for affordable housing, and extend the Fund’s expiration date."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Starting in 2028, the City’s annual contribution would grow based on the greater of either:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "any increases in local property tax revenue, or"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "the percentage increase in the unrestricted General Fund from the prior year."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City would increase its contributions to the HTF until the annual contribution meets or exceeds $125 million. After that, annual increases are capped at 3% based on increases in the General Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City could pause contributions when a projected City deficit exceeds $250 million. This threshold would be adjusted each year based on changes in the General Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City could also reduce contributions by up to 10% during years when the City may use its Rainy Day Reserve."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Expand affordable housing programs by:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "increasing funding to create and preserve more affordable housing;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "raising the household income limit for downpayment assistance loans from 120% to 200% of AMI, and allow the Board of Supervisors to change that limit by ordinance;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "replacing the grant program for specific types of neighborhood improvements by authorized spending on affordable housing-related infrastructure such as sidewalks, streets, and utilities;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "extending the Fund’s expiration date from\n2043 to 2058."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=80"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “YES” Vote Means:"
+              ]
+            },
+            " If you vote “yes,” you want to amend the Charter to change how the City’s annual contributions to the Housing Trust Fund are set, increase funding and expand programs for affordable housing, and extend the Fund to 2058."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=80"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “NO” Vote Means:"
+              ]
+            },
+            " If you vote “no,” you do not want to make these changes."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=80"
+    }
+  },
+  "analysis": {
+    "title": "Controller’s Statement on “C”",
+    "by": "City Controller",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City Controller Greg Wagner has issued the following statement on the fiscal impact of Proposition C:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Should the proposed Charter amendment be approved by the voters, in my opinion, it would have a significant impact on the cost of government of approximately $6 million in additional General Fund costs starting in Fiscal Year 2028-29, growing over time to approximately $60 million annually by Fiscal Year 2034-35."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment is projected to increase the existing Housing Trust Fund (Fund) General Fund spending mandate for affordable housing and extends the mandate by an additional fifteen years from 2043 to 2058. A General Fund spending mandate is a voter-adopted spending requirement that directs the government to appropriate funding for specific purposes in future years without identifying a new funding source. For context, voter-adopted spending requirements currently total approximately $2 billion, or 30%, of the approximately $7 billion General Fund sources. Extending the life of the Housing Trust Fund and increasing contributions as projected would reallocate funds that would otherwise be available in the General Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment modifies the required funding formula to accelerate the growth of the Fund until the annual contribution reaches $125 million, likely in Fiscal Year (FY) 2034-2035, at which point the growth of the fund could slow. For context, in FY2024-25, approximately $50 million was appropriated to the Fund. As compared to projected Fund contributions under current law, the proposed Charter amendment is projected to increase contributions to the fund by approximately $6 million in FY2028-29 and $13 million in FY2029-30. In subsequent years, the General Fund cost of the proposal is projected to grow by an additional $9 million annually, reaching approximately $60 million in additional growth by FY2034-35, resulting in a total expected contribution of $125 million in FY2034-35. Without the Charter amendment, the required funding formula is projected to be approximately $65 million in FY2034-35. The additional $60 million under the proposed modified funding formula represents the additional money the City would be required to appropriate into the Fund in FY2034-35 and subsequent years. The projected costs above do not assume temporary freezes or reductions in the City’s annual contribution to the Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment allows the Mayor or the Board of Supervisors to introduce ordinances during the annual budget process to temporarily freeze or reduce the City’s annual contributions. If the City projects a budget deficit exceeding $250 million, the annual contribution to the Fund may be temporarily frozen at the then-current amount. If the City is authorized to withdraw funds from the City Rainy Day Reserve, the annual contribution to the Fund may be temporarily reduced by up to 10%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The fund may be used to (1) create, acquire, or rehabilitate affordable rental and ownership housing, (2) provide down payment loans and housing stabilization for qualified households meeting required income levels, and (3) fund housing-related infrastructure, including streetscape improvements. The Charter amendment removes obsolete language regarding (1) past allocations to the Fund, (2) eliminating the Fund before 2013, (3) how the Controller’s Office may determine General Fund Discretionary Revenue, and (4) discretion to reduce Fund contributions based on debt service for SB 2113 Affordable Housing Bonds. Additionally, the proposed Charter amendment eliminates the Complete Neighborhoods Infrastructure Grant Program, which has not been funded since FY2019-20."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This proposed amendment is not in compliance with a non-binding, voter-adopted City policy regarding voter-adopted spending requirements. The policy seeks to limit General Fund spending mandates which reduce General Fund dollars that could otherwise be allocated by the Mayor and the Board of Supervisors in the annual budget process. For context, voter-adopted spending requirements currently total approximately $2 billion, or 30%, of the approximately $7 billion General Fund sources."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Note that the proposed amendment would change the duties of the Controller’s Office, which has prepared this statement."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=81"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s housing crisis is simple: rents and home prices have climbed faster than paychecks, and teachers, nurses, and multigenerational families are being priced out of the neighborhoods they grew up in or serve. Proposition C won’t solve that alone, but it renews San Francisco’s most significant source of funding for affordable housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For over a decade, the Housing Trust Fund has been San Francisco’s foundation for building affordable housing, helping first-time buyers purchase a home, keeping first responders in the city they serve, and giving seniors a way to stay in their communities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop C renews the Housing Trust Fund through 2058 and increases its annual funding to $125 million. Every year we wait, the fund stays capped while rents keep climbing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop C does not raise anyone’s taxes. It reallocates money the City already collects, and it is fiscally responsible by design. Funding only grows when the City’s own property tax or general fund revenue grows. The City can pause or reduce contributions during a real budget deficit. This is a careful, sustainable plan, not a blank check."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That is why Prop C is a true consensus measure. It was placed on the ballot unanimously by the Board of Supervisors and supported by labor and housing advocates across the city."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop C will build and rehabilitate affordable housing, fund down payment assistance for teachers and first responders, provide rent assistance to prevent seniors from being displaced, convert vacant lots into real housing, and fund needed infrastructure."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Every dollar is legally dedicated to affordable housing and subject to independent audit."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This is the responsible way to keep San Francisco affordable. Vote YES on Prop C."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "www.HomesforSF.com"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Supervisor Myrna Melgar"
+        },
+        {
+          "name": "Assemblymember Catherine Stefani"
+        },
+        {
+          "name": "Rebecca Foster",
+          "title": "CEO Housing Accelerator Fund*"
+        },
+        {
+          "name": "Malcolm Yeung",
+          "title": "CEO Chinatown Community Development Center*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=82",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The Yes campaign touts the long list of things Prop C could fund.",
+            {
+              "strong": [
+                " That’s nothing to brag about."
+              ]
+            },
+            " Prop C gives the Fund more money, more responsibilities, and more eligible recipients — spreading taxpayer dollars across an ever-broader mission. The more things a program is asked to do, the harder it is to prioritize, measure results, and hold anyone accountable."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The promised “independent audit” is no substitute for performance standards. Prop C requires no minimum number of new homes, no maximum cost per unit, and no cost-effectiveness benchmark. An audit after the money is spent is no substitute for measurable results written into law."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Before committing billions in taxpayer dollars through"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "2058, voters must demand measurable results, cost"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "accountability, and fiscal discipline."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop C."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "The San Francisco Republican Party"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=82",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "It Couldn’t Do the Job It Had. Now It Wants a Bigger One.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s Housing Trust Fund was established in 2012 to help working families afford housing. It has failed. Local reporting calls the fund “a letdown” and “an existing program that has yielded little.” Since the fund’s creation, the cost to build a single affordable unit in San Francisco has roughly doubled, running close to $1 million per unit today."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Instead of a fix, this measure doubles the fund’s size, locks it in for 30 more years, and stretches it thinner:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "– Raises the homebuyer income cap from 120% to 200% of “median income” — up to $402,000 for a family of four, in a city where the real median household income is $141,000.\n– Let’s the Board of Supervisors raise that cap again anytime, with no vote required.\n– Opens the fund to new uses like city-owned “social housing” and co-ops, all competing for the same dollars. – Swaps a specific, accountable neighborhood fund for a vague, open-ended one."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Nothing in the measure requires a single additional unit to get built. There’s no unit target. No benchmark. Meanwhile, San Francisco remains tens of thousands of units short of its own housing goals."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A program that already failed at one job doesn’t get fixed by giving it five new jobs and more money. Fix what’s broken first."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote No on C."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "The San Francisco Republican Party"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=83",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Proposition C renews and expands a program\nSan Francisco voters already created: the Housing Trust Fund, dedicated to building affordable homes, helping teachers and first responders become homeowners, and keeping seniors from losing their housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It includes real fiscal guardrails. The City can freeze contributions during a genuine budget deficit and reduce them by up to 10 percent in years when it draws on the Rainy Day Reserve."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Funding only grows when the City’s own property tax or general fund revenue grow. This is not a blank check. It is a formula built for both growth and restraint. Every dollar is legally restricted to affordable housing, homeownership assistance, and rent relief."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s housing costs can’t wait. Teachers, nurses, and multigenerational families are being priced out right now, and the fund that helps them is set to run out."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That is why Prop C earned support from elected leaders, organized labor, and housing advocates citywide. It is the responsible, accountable way to keep this program going without raising anyone’s taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES on Prop C."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Supervisor Myrna Melgar"
+        },
+        {
+          "name": "Assemblymember Matt Haney",
+          "title": "Chair of the Housing and"
+        },
+        {
+          "name": "Community Development Committee"
+        },
+        {
+          "name": "Bill Barnes",
+          "title": "Non-Profit Housing Association of Northern"
+        },
+        {
+          "name": "California"
+        },
+        {
+          "name": "Nicholas Lake",
+          "title": "Teacher*"
+        },
+        {
+          "name": "Mario Flaherty",
+          "title": "Secretary, San Francisco Firefighters Local 798*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=83",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Social housing is permanently affordable, community owned, mixed-income housing that’s designed to stay off the speculative market—giving working San Franciscans stable homes at rents they can actually afford, for generations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The biggest barrier to building social housing is funding. Expanding the Housing Trust Fund will provide funding that could be used to build the housing that San Francisco families desperately need."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join social housing advocates and vote Yes on C!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Franciscans for Social Housing sfsocialhousing.org"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Dylan Hirsch-Shell",
+          "title": "Co-founder"
+        },
+        {
+          "name": "Honest Charley Bodkin",
+          "title": "Co-founder"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Dylan Hirsch‑Shell.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=84",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "Women Are Voting Yes on the Housing Trust Fund Renewal",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "We’re the teachers watching our students’ families get priced out mid-year. We’re the nurses working double shifts who still can’t afford a down payment. We’re the daughters caring for aging mothers who fear losing the apartment they’ve called home for thirty years. Housing instability falls hardest on women, especially mothers raising kids alone, seniors on fixed incomes, and caregivers holding families together."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That’s why the Housing Trust Fund matters so much to us. For over a decade, it’s built affordable homes, kept seniors housed, and helped first-time buyers like nurses, teachers, and first responders put down roots. Now it’s set to expire, right as the crisis peaks."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Women built this city’s schools, hospitals, and neighborhoods. We deserve to stay in it. Join mothers, caregivers, and working women across San Francisco: vote Yes on the Housing Trust Fund Renewal\nthis November."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Assemblymember Catherine Stefani"
+        },
+        {
+          "name": "Supervisor Jackie Fielder"
+        },
+        {
+          "name": "Nancy Tun",
+          "title": "Chair, San Francisco Democratic Party*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Franciscans for Affordable Homes, Sponsored by the NPH Action Fund. The sole contributor to the true source recipient committee: NPH Action Fund Political Issues Committee.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=84",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "San Francisco’s Asian Community Leaders Support Prop C",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Our neighborhoods have long been anchored by multi-generational households with grandparents, parents, and children sharing a home, a community, and a future. Rising housing costs threaten that tradition. The Housing Trust Fund has spent over a decade keeping families together and rooted in San Francisco, but that funding is set to expire. This November, we can make the commitment to continue keeping families together and communities strong. Without raising taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We need Prop C. Renew the Housing Trust Fund with no new taxes."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "California State Treasurer Fiona Ma",
+          "title": "CPA"
+        },
+        {
+          "name": "Supervisor Chyanne Chen"
+        },
+        {
+          "name": "Mike Chen",
+          "title": "Commissioner, Planning Commission*"
+        },
+        {
+          "name": "Malcom Yeung",
+          "title": "CEO, Chinatown Community"
+        },
+        {
+          "name": "Development Center"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Franciscans for Affordable Homes, Sponsored by the NPH Action Fund. The sole contributor to the true source recipient committee: NPH Action Fund Political Issues Committee.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=84",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "Latinos Support Prop C",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "For Latino families, housing is more than a roof. It is the foundation for family, stability, and community. Affordable housing helps parents remain close to their children’s schools, allows seniors to age near loved ones, and gives multigenerational families the opportunity to stay rooted in San Francisco."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Housing Trust Fund has supported affordable homes, homeownership opportunities, and housing stability for residents who help make our neighborhoods strong. As our city confronts rising housing costs, continued investment can help preserve the diversity, culture, and community connections that have shaped San Francisco for generations. Please vote Yes on C."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Supervisor Myrna Melgar"
+        },
+        {
+          "name": "Supervisor Jackie Fielder"
+        },
+        {
+          "name": "Assessor-Recorder Joaquín Torres"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Franciscans for Affordable Homes, Sponsored by the NPH Action Fund. The sole contributor to the true source recipient committee: NPH Action Fund Political Issues Committee.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=84",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "LGBTQ+ Leaders for Prop C",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Rising housing costs threaten the community fabric that makes this city home for queer elders, families, and longtime residents alike."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Housing Trust Fund has spent over a decade building affordable homes, funding rental assistance, and keeping vulnerable tenants housed. Without renewal this November, San Francisco loses one of its primary affordable housing tools at the worst possible moment."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote Yes on Prop C for homes we can afford, without new taxes."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "President Rafael Mandelman"
+        },
+        {
+          "name": "Supervisor Matt Doresy"
+        },
+        {
+          "name": "Castro LGBTQ Cultural District"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Franciscans for Affordable Homes, Sponsored by the NPH Action Fund. The sole contributor to the true source recipient committee: NPH Action Fund Political Issues Committee.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=85",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "VOTE YES ON C — AFFORDABLE HOUSING FUNDING SAN FRANCISCO CAN COUNT ON",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "More than 17,000 affordable homes in San Francisco are already approved and ready to build. Not one is waiting on permits or zoning. Every one of these projects is waiting on money."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proposition C changes that."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop C strengthens the Housing Trust Fund that\nSan Francisco voters created in 2012 and grows it to as much as $125 million a year for the next 30 years. That is the difference between a plan and a promise."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop C does not raise your taxes. It dedicates a share of the growth in property assessment revenue the City already collects to the homes our neighbors need."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop C writes that commitment into the City Charter, so it holds steady year after year, no matter who is in office. Affordable housing finally gets a place in San Francisco’s budget it can count on."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "As federal and state support shifts, San Francisco has a chance to stand on its own — and the means to do it. Prop C builds a dependable, local source of funding for the people who make this city work: teachers, nurses, restaurant workers, seniors on fixed incomes, families who have been here for generations, and neighbors moving off the street and into a home of their own."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco has always been a city people fight to stay in. Prop C is how we make room for them."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on C."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Council of Community Housing Organizations"
+        },
+        {
+          "name": "Build Affordable Faster California"
+        },
+        {
+          "name": "TODCO"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Franciscans for Affordable Homes, Sponsored by the NPH Action Fund. The sole contributor to the true source recipient committee: NPH Action Fund Political Issues Committee.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=85",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "SF Housing Advocates: Yes on C",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco needs more homes, not less investment. The Housing Trust Fund helps build and preserve affordable housing, support first-time buyers, and keep longtime residents in their communities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Renewal extends this proven tool through 2058, increases funding without raising taxes, and creates more homes for the teachers, nurses, first responders, families, and seniors who make San Francisco strong."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Supervisor Bilal Mahmood"
+        },
+        {
+          "name": "Supervisor Danny Sauter"
+        },
+        {
+          "name": "Yimby Action"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Franciscans for Affordable Homes, Sponsored by the NPH Action Fund. The sole contributor to the true source recipient committee: NPH Action Fund Political Issues Committee.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=85",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "SF Democrats for Prop C",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Affordable housing is the foundation of an inclusive, culturally vibrant, and diverse San Francisco. Prop C builds on the city’s ongoing efforts to ensure that San Francisco remains a place where people from all backgrounds can afford to live, work, and thrive. Vote Yes!"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "San Francisco Democratic Party"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Franciscans for Affordable Homes, Sponsored by the NPH Action Fund. The sole contributor to the true source recipient committee: NPH Action Fund Political Issues Committee.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=85",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Legal text of Proposition C",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "mediaType": "application/pdf",
+      "page": 189,
+      "sha256": "9c6bcf0b49b5a04c1f03de363d5727458c673d8807ef2932c2912ed40d786136"
+    }
+  ]
+}

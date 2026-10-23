@@ -1,0 +1,652 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Board of Supervisors, District 10",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Member, Board of Supervisors"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors is the legislative branch of government for the City and County of San Francisco. It enacts local laws and adopts the City’s annual budget. There are eleven members, each elected to a four-year term. The current annual salary is $180,102. Voters in Districts 2, 4, 6, 8, and 10 will vote for their member of the Board of Supervisors in this election."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Pearci \"PJ\" Bastiany III",
+      "statement": {
+        "by": "Pearci \"PJ\" Bastiany III",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " MPA Graduate Student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Pearci “PJ” Bastiany is a graduate student in the Master of Public Administration program at the University of San Francisco and a proud USF Double Don, having previously earned a Bachelor of Science in Marketing from USF. PJ is a small business owner, registered City and County of San Francisco bidder and supplier, community advocate, and martial arts instructor dedicated to improving public safety and economic opportunity throughout the city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "PJ is a 1st Degree Black Belt trained through Ernie Reyes West Coast World Martial Arts and has competed in numerous sanctioned martial arts tournaments. He champions the Martial Arts Community Protection Initiative, a community-based approach I created that combines mentorship, education, public safety, and workforce development to help create safer neighborhoods while empowering youth and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Founder and CEO of MAFH, PJ has worked to connect public safety, community engagement, workforce development, and economic revitalization. He also created the character “PJ the Poolman” and the film project The Poolman as a positive symbol of service, resilience, and civic responsibility. Through business, education, advocacy, and public service, PJ is committed to restoring confidence in San Francisco, supporting local communities, and inspiring the next generation of leaders to build a safer, stronger, and more prosperous city for all."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=49",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Dionjay (DJ) Brookter",
+      "statement": {
+        "by": "Dionjay (DJ) Brookter",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Community Advocate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Community has always been at the forefront of my life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in a working-class family in the Central Valley. My father was a janitor, and my mother at Kaiser taught me hard work and compassion. Losing her in high school showed me how much families depend on stability and community support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Those experiences shaped who I am and my commitment to helping people access opportunity. I have spent 16 years connecting residents to jobs, workforce training, and resources because I believe everyone deserves the chance to build a better future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, too many District 10 residents feel disconnected from opportunity and services. Families are struggling with the cost of living, seniors worry about staying in their communities, and small businesses are working to stay open."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our strength comes from one another: when neighbors support each other and communities have a voice, we move forward together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment is to listen, serve, and work every day to build a stronger District 10."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please join Supervisors Walton, and Melgar, Former San Francisco Mayors Willie Brown and Art Agnos, Former District 10 Supervisor Sophie Maxwell, and thousands of our neighbors in supporting my campaign. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "https://www.dj4d10.com/"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=49",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Deandra Bryant",
+      "statement": {
+        "by": "Deandra Bryant",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Community Advocate and\nIHSS Provider."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong Bayview Hunters Point resident, housing advocate, parent advocate, homeowner, and mother of a child with autism."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My life experience has prepared me to fight for District 10. As a teen mother, domestic violence survivor, and community advocate, I understand the challenges many families face. I have worked in housing services helping residents access resources, housing opportunities, and support programs. I have also spent years advocating for children with disabilities and helping families navigate systems that are often difficult to access."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Supervisor, I will focus on expanding homeownership opportunities, improving housing stability, increasing support for children with disabilities and their families, strengthening public safety, and ensuring that District 10 receives the investment and resources it deserves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bayview Hunters Point, Visitacion Valley, Sunnydale, Potrero Hill, and Dogpatch deserve leadership that listens, shows up, and delivers results. I am committed to bringing residents together, building partnerships, and creating opportunities that allow families to remain and thrive in the communities they call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for District 10 Supervisor."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=50",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Theo Ellington",
+      "statement": {
+        "by": "Theo Ellington",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Public Policy Director."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A third-generation San Francisco native raising 3 boys with my wife, I’m running to ensure our southeast neighborhoods receive the same focus, urgency, and investment as the rest of San Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The challenges facing San Francisco aren’t new to me; I’ve lived them. After my 13-year-old cousin was killed in Bayview-Hunters Point, I dedicated my life to public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As City Commissioner, I led the creation of over 1,000 affordable homes and restored $50M in community development."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At The Salvation Army, I helped double homeless services, built drug-free housing, led COVID-19 recovery, and supported small businesses fighting hunger."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I helped the Golden State Warriors create 3,000 living-wage jobs, improve transit, and generate new City revenue."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I fought environmental racism, taking legal action against the corporations that covered up toxic soil at Hunters Point Shipyard, and helped keep discriminatory Stop and Frisk policing out of San Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m leading a cultural renaissance at Bayview Opera House as Executive Director, cultivating arts, culture, and economic development."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 10 can be a center for jobs and innovation, affordable housing without displacement, clean streets and parks, real community policing, better transit, and clean air."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:\nLt. Governor Eleni Kounalakis\nState Treasurer Fiona Ma\nCongressman Kevin Mullin\nSenator Scott Wiener\nAssemblymember Catherine Stefani\nMayor London Breed\nMayor Willie Brown\nSupervisors Stephen Sherill, Danny Sauter, Matt Dorsey, Bilal Mahmood\nSEIU Local 87 Janitors\nUnited Commercial Food Workers\nHousing Action Coalition"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "TheoEllington.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=50",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "J.R. Eppler",
+      "statement": {
+        "by": "J.R. Eppler",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Small Business Attorney."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 10’s next Supervisor must deliver for our neighbors. For more than a decade, I have worked with residents across the district to solve problems, build coalitions, and improve our quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small-business attorney, I have helped merchants and nonprofits navigate complex legal issues. I have served as the President of the Potrero Boosters Neighborhood Association and on the boards of the Friends of the Dogpatch Community Hub and the Potrero-Dogpatch Merchants Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve achieved results:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Increasing the amount of affordable housing along the Bayfront."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Championing the 55 and 15 Muni routes."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Securing funding for safe streets, transit, parks and community facilities."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Supervisor, I will advocate for your priorities:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "A community-centered approach to housing that serves working families."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Public safety grounded in proven crime reduction tactics, like community policing and foot patrols."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Reliable transit that connects our district to the rest of San Francisco."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Robust public facilities like libraries, parks and community centers."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 10 is my home. It’s where my wife and I are raising our son, an SFUSD student. I will advocate for your family like my own."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to serve as your Supervisor and deliver the complete, vibrant and connected neighborhoods District 10 deserves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join our grassroots, community-led campaign at jreppler.com."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=51",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Ellsworth \"Ell\" M. Jennison, Jr.",
+      "statement": {
+        "by": "Ellsworth \"Ell\" M. Jennison, Jr.",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Carpenter."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "— KEEP EXISTING OPEN SPACE OPEN"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "— HAVE PIER 68 TESTED FOR TOXCITY AND DESIGNATED A SUPER FUND IF APPLICABLE."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I MOVED TO SAN FRANCISCO IN 1977. I MADE THIS MY HOME BECAUSE OF THE BEAUTY OF THE CITY AND THE PEOPLE. TO ME THE ESSENSE OF OUR CITY IS THE BAY. I HAVE LIVED ON A HOUSEBOAT ON INDIA BASIN IN THE HUNTERS POINT NEIGHBORHOOD SINCE 1980."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "THERE IS UNDEVELOPTED LAND BORDERING THE BAY."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "THE PROPERTY ALONG INNES AND ARIELEOUS WALKER AVENUES. THIS COULD MAKE A WORLD CLASS PARK. IT COULD BE LANDSCAPED AND IRRIGATED BY EXISTING NATURAL SPRING. THIS COULD PROVIDE A MUCH NEEDED SPACIOUS AREA FOR ALL PEOPLE TO ENJOY. MOST IMPORTANTLY IT WOULD PROVIDE HABITAT FOR BIRDS AND WILDLIFE TO NEST."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ONCE THE P.G. AND E TRANSMISSION FACILITY IS MOVED THAT PROPERTY SHOULD ALSO BE TRANSFORMED INTO A PARK."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=51",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Mike Trouble Lin",
+      "statement": {
+        "by": "Mike Trouble Lin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Small Business Consultant."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Mike number 2\nSpeak Now to bring Taylor Swift\nto San Francisco"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "votemikelin@gmail.com | Instagram: @votemikelin | linktr.ee/votemikelin"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=52",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Jessica Pessecow",
+      "statement": {
+        "by": "Jessica Pessecow",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Legal Representative / Nurse /Founder / Brand Ambassador / Volunteer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My qualifications are: to my knowledge, I am the only District 10 candidate who regularly attends San Francisco City Hall commission and Board of Supervisors meetings – check SF Gov TV or go to the meetings. I turn participation into practical action for District 10. After listening to constituents, I advocate for economic opportunities, helping business owners, cheaper housing, improving transportation, bettering health care, lowering costs on items such as parking ticket and permits, and provide solutions to address the unhoused crises, environmental and sanitary conditions. I am dedicated to obtain funding for neighborhood infrastructure around Jackson Playground Park and the MLK Jr Pool, and other services, including Zuckerberg San Francisco General Hospital. Furthermore, I created https://gov-central-jpessecow.replit.app, a website that streamlines government services, budget information, immigration resources, California ID guidance, government jobs, city events, the Epstein files, and ways to contact elected representatives. The goal is to make government easier to use, more transparent and responsive. I joined the Adopt-A-Street program. Most importantly, my experience in tech and helping people from all backgrounds guides my work to build more peace, trust, and access in our district. Vote for us to improve our community!"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=52",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Shawn M. Richard",
+      "statement": {
+        "by": "Shawn M. Richard",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " CEO / Executive Director."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Shawn M. Richard Candidate for District #10 Supervisor With over 31 years of dedicated service to the Bayview community, Shawn M. Richard is committed to addressing critical issues such as youth violence, education, and homelessness. As the founder and leader of Brothers Against Guns, Shawn has actively worked to reduce youth violence, fostering a safer environment for our children and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Through his tireless efforts, he has empowered countless young men and women by creating job opportunities and promoting workforce development. Shawn believes that every individual deserves the chance to succeed and that strong communities are built on the foundation of education and economic opportunity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "His experience and passion for community service make him uniquely qualified to represent District #10. With a proven track record of leadership and advocacy, Shawn is ready to tackle the challenges facing our neighborhoods and work towards a brighter future for all residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for Shawn M. Richard for District #10 Supervisor – a leader dedicated to making a meaningful difference in our community."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=53",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 19",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-19",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "candidates": [
+    {
+      "choice": "Catherine Stefani",
+      "statement": {
+        "by": "Catherine Stefani",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Assemblymember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running for re-election to continue the fight for a safer and more affordable California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When I was sworn into the Assembly, I promised to deliver real results. In my first term, I did just that."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Seven of my bills were signed into law in my first year, each aimed at strengthening public safety, expanding healthcare access, and making California more affordable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I authored Wyland’s Law to close a dangerous gap in our gun violence prevention system. I passed legislation to prevent families from losing health insurance during divorce, banned illegal license plate obstructors that undermine law enforcement, and ensured crime victims receive restitution payments first. I advanced solutions to address our maternal healthcare workforce shortage, supported nonprofit hospitals, and laid a strong foundation for California’s offshore wind future. I also secured $69 million in this year’s state budget to support our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My office responded to thousands of constituent requests and helped secure over $1.2 million in benefits for local families and seniors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Sacramento, I’ll continue to fight for the resources we need to tackle the drug crisis and hold fentanyl dealers accountable. I’ll work to increase access to housing that’s affordable, to keep working families in their neighborhoods, and push for the resources our cities need to prevent homelessness before it happens. And I’ll never back down from protecting our reproductive rights and fighting for access to medical care for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Assemblymember, I’m more ready than ever to continue delivering results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at VoteCatherineStefani.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=29",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

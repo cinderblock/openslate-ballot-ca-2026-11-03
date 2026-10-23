@@ -1,0 +1,133 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Assessor-Recorder",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Assessor-Recorder"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Assessor-Recorder determines which properties within the City and County of San Francisco are subject to property taxes and assesses the value of those properties for tax purposes. The term of office is four years, with a current annual salary of $267,488."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Joaquin Torres",
+      "statement": {
+        "by": "Joaquin Torres",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Assessor-Recorder."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since becoming Assessor-Recorder in 2022, I’ve worked to make San Francisco’s government more accessible and easier to use. Less time waiting in line. Less time on hold. More time actually getting things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since taking office I’ve:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Modernized a 30-year-old property tax assessment system, moving everything fully online into a more secure, up-to-date platform"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Built the first free public records viewing system of its kind in California, so any San Franciscan can access official documents from home"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Added a new lobby check-in system for shorter waits, a call-back phone system, and one-on-one appointment guidance for tax exemptions"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As property tax assessment appeals surge across San Francisco, I’m making sure every property owner is treated equally and pays their fair share, keeping our city’s finances on solid ground."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For families working to build and hold onto wealth, I’ve launched free estate planning resources. I’ve also made it easier for nonprofits to access the tax exemptions they qualify for."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Francisco deserves a government that actually works for people. I’d be honored to have your vote again."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:\nGovernor Gavin Newsom\nSpeaker Emerita Nancy Pelosi\nState Controller Malia Cohen"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "JoaquinTorresSF.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=40",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

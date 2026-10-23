@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Community College Board, Partial Term",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Trustee, Community College Board"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Community College Board is the seven-member governing body of the San Francisco Community College District. It"
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Ruth Ferguson",
+      "statement": {
+        "by": "Ruth Ferguson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Trustee, City College of\nSan Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running to keep City College accessible and affordable for everyone. I grew up in a small town where community college opened every door for me and my family, carrying me to a four-year university and a master’s degree in public policy from UC Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City College is where people go to transform their lives, earn a debt-free degree or get better job training. That’s why I’m protecting Free City, growing enrollment and keeping the college financially stable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since joining the board in January, I’ve fought to restore funding and voted for a balanced budget. I’ve spent months listening to students, faculty and staff so their priorities shape what we do next."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve spent my career fighting for students and workers, from tackling housing and student homelessness policy in the California Legislature to taking on the powerful in the State Capitol as a whistleblower and winning real accountability reforms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proof of what City College can do, and I’m proud to now do that work on the Board of Trustees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements include:\nSpeaker Emerita Nancy Pelosi\nMayor Daniel Lurie\nState Senator Scott Wiener\nAssemblymember Matt Haney\nBoard of Supervisors President Rafael Mandelman\nSupervisor Bilal Mahmood\nSupervisor Myrna Melgar\nSupervisor Danny Sauter\nSupervisor Stephen Sherrill\nSupervisor Alan Wong\nCity College Trustee Heather McCarty\nCity College Trustee Luis Zamora"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=38",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

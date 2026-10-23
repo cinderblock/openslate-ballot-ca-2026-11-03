@@ -1,0 +1,870 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+    "jurisdiction": "us/ca/sf",
+    "kind": "measure",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Shall the City amend the Charter to align it with how some City departments currently operate, change some processes, eliminate or reorganize certain commissions and advisory bodies, and require the Board of Supervisors to amend voter-approved laws to enact some of these changes?"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 50%+1 affirmative votes to pass."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "How “A” Got on the Ballot"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On July 14, 2026, the Board of Supervisors voted 9 to 2 to place Proposition A on the ballot. The Supervisors voted as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Yes:"
+            ]
+          },
+          " Chen, Dorsey, Mahmood, Mandelman, Melgar, Sauter, Sherrill, Walton, Wong."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "No:"
+            ]
+          },
+          " Chan, Fielder."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=66"
+  },
+  "summary": {
+    "title": "Digest",
+    "by": "Ballot Simplification Council",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Way It Is Now:"
+            ]
+          },
+          " The Charter is the City’s constitution and establishes the organization, powers, and responsibilities for many City departments. The Charter and other voter-approved laws also create many City commissions and advisory bodies and describe their powers, duties, membership and removal rules, and reporting requirements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Over time, some of these laws have become obsolete."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Charter and most laws passed by the voters can only be changed with voter approval."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Proposal:"
+            ]
+          },
+          " Proposition A would align the Charter with how some City departments currently operate, change some processes, and eliminate or reorganize certain commissions and advisory bodies. Proposition A would require the Board of Supervisors to amend voter-approved laws to enact some of these changes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition A would:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "change the language of the Charter to reflect how some City departments currently operate in order to clarify responsibilities and update rules, procedures, and reporting requirements."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "change some processes. For example: allowing legal settlements to be approved by resolution instead of by ordinance."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "require a task force to meet every ten years to recommend changes to commissions."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "eliminate or reorganize certain commissions and advisory bodies by, for example: eliminating some commissions and advisory bodies, combining and renaming some advisory bodies, and moving some commissions and advisory bodies from the Charter into the Municipal Code."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=66"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “YES” Vote Means:"
+              ]
+            },
+            " If you vote “yes,” you want to amend the Charter to align it with how some City departments currently operate, change some processes, eliminate or reorganize certain commissions and advisory bodies, and require the Board of Supervisors to amend voter-approved laws to enact some of these changes."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=66"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “NO” Vote Means:"
+              ]
+            },
+            " If you vote “no,” you do not want to make these changes."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=66"
+    }
+  },
+  "analysis": {
+    "title": "Controller’s Statement on “A”",
+    "by": "City Controller",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City Controller Greg Wagner has issued the following statement on the fiscal impact of Proposition A:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Should the proposed Charter amendment be approved by the voters, in my opinion, it would have a moderate impact on the cost of government, saving $365,000 to $450,000 annually. Additional costs and savings are dependent on the decisions that the Mayor and Board of Supervisors make through the normal budget process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment (1) modifies boards, commissions, and advisory bodies; (2) changes departmental operations and reporting requirements; (3) changes how the Board of Supervisors must approve settlements or dismissals of legal proceedings recommended by the City Attorney; (4) removes provisions allowing disciplinary action against non-Police and Fire striking employees; and (5) makes other edits and changes to the Charter and past voter-approved ordinances. The Charter amendment may reduce required staff time to support boards, commissions, and advisory bodies—freeing staff to work on other government functions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment creates cost savings ranging from $365,000 to $450,000 annually by eliminating the Sanitation and Streets Commission, Public Works Commission, and the Street Artists and Craftsmen Examiners Advisory Committee. The Sanitation and Streets Commission and Public Works Commission shared two full-time staff members with annual costs of $336,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Convening the Commission Streamlining Task Force (CSTF) every ten years would require staff to implement and administer the CSTF, including conducting analyses, writing public reports, and holding public meetings. The proposed Charter amendment removes the existing requirements for the Budget and Legislative Analyst to prepare a report and the City Attorney to prepare a draft Charter amendment implementing the CTSF’s recommendations from CSTF’s mandate. For context, convening the CSTF in 2025 required approximately 5,900 hours of staff time."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Additional costs and savings are dependent on the decisions that the Mayor and Board of Supervisors make through the normal budget process. For example, the proposed Charter amendment removes the restriction on compensating Youth Commission members which may lead to future costs, likely ranging from $5,000 to $85,000 annually, should policymakers seek compensation for the members. Certain appointive boards and commissions pay stipends to the commissioners on a per meeting basis ranging from $25 to $500 per meeting. Other commissioners are paid between $100 and $500 per month. Not all commissioners receive stipends. The amount of cost savings attributed to removing the requirement of hiring an executive secretary for commissions cannot be determined at this time as bodies may opt not to fill the position."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed amendment updates commission responsibilities and membership requirements for remaining commissions and boards but will not directly impact the total cost to government. The amount of staff time needed to support commissions and boards may decrease—freeing staff to work on other government functions, although at a level that cannot be determined at this time."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Note that the proposed amendment would change the duties of the Controller’s Office, which has prepared this statement."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=66"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "MAYOR LURIE & SUPERMAJORITY OF SUPERVISORS SAY YES ON PROP A TO CLEAN UP OUR OUTDATED CHARTER.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "About every 30 years, City Hall sets aside its differences to clean up old, broken, and conflicting parts of our city’s governing document called the city charter."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Department heads, commissions, and the public suggest changes through a transparent, months-long process. The mayor and a supermajority of the Board of Supervisors agreed on 110 small fixes that will help city government serve you better."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The fixes fall into four categories:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "OUTDATED TECHNOLOGY"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "New technology can make old laws pointless. For example, the current system still requires the city to employ a bookbinder and to publish laws in daily print editions of the Chronicle that no longer exist."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "WASTEFUL DUPLICATION"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sometimes two city departments are required to do the exact same job. For example, multiple departments being required to create the same report, forcing employees into busy work that wastes time and money."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "ZOMBIE COMMISSIONS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our bureaucracy has 60 advisory bodies and commissions that can’t be updated without a vote at the ballot. After decades the charter can end up with zombie commissions that serve no purpose. For example, the Sanitation and Streets Commission oversees a department that doesn’t exist, and the charter still references a Parking Authority that voters removed a decade ago."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "CONFUSING OR BADLY WORDED LAWS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Lawmakers sometimes make typos and mistakes when writing legislation, leaving behind laws that are confusing or just don’t make sense. Prop A cleans up some of the worst examples."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE YES ON PROP A THE CITYWIDE GOOD"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "GOVERNMENT CONSENSUS MEASURE"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Board of Supervisors President Rafael Mandelman"
+        },
+        {
+          "name": "Supervisor Alan Wong"
+        },
+        {
+          "name": "Supervisor Bilal Mahmood"
+        },
+        {
+          "name": "Supervisor Chyanne Chen"
+        },
+        {
+          "name": "Supervisor Danny Sauter"
+        },
+        {
+          "name": "Supervisor Matt Dorsey"
+        },
+        {
+          "name": "Supervisor Myrna Melgar"
+        },
+        {
+          "name": "Supervisor Steven Sherrill"
+        },
+        {
+          "name": "State Senator Scott Wiener"
+        },
+        {
+          "name": "Assemblywoman Catherine Stefani"
+        },
+        {
+          "name": "Assemblyman Matt Haney"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=68",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A love letter to San Francisco"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "What makes San Francisco special? Is it the views, the hills, the parks, the food, the victorians? A big part of what is special about San Francisco is San Franciscans. We are active and informed. We stand up for what we believe in! We get involved in the things we are passionate about. We believe in flourishing democracies. Prop A is taking a lot of that away."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A healthy democracy requires a balance of power. A healthy government has plenty of citizen participation. Debate leads us to the best answers. These are all reasons to vote No on A."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our current city government as represented by our elected officials is primarily monolithic, representing monied and corporate interests, whether couched in suave niceties or smug indifference."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "They are trying to take away much of what makes San Francisco special. They all go along with each other, no matter how bad the idea is, as long as Trump’s billionaires benefit."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "When you boil it down, today’s San Francisco needs to protect people power more than ever."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Reject the power grab. No SF Kings."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote No on A and while you’re at it, Vote No on D E and F."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Coalition on Homelessness"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=68",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The charter should be improved, but not at the expense of transparency, and checks on government power. There are grievous mistakes in Prop A that threaten participatory democracy by removing commissions put in place by voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Take independent oversight for November 2018 Proposition C. The measure allows the Board of Supervisors to remove independent oversight with a majority vote. Prop C, “Our City, Our Home”, is a deeply vetted people’s initiative placed on the ballot by Coalition on Homelessness alongside over 700 housed/unhoused volunteers and supported by 215,491 voters. It is a tax on mega corporations to fund homeless solutions. Due to careful planning by the oversight body, the fund has housed over 8,400 people, including 2,800 children, thousands prevented from becoming homeless, and receiving behavioral health treatment services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Rising rents up and down the west coast have skyrocketed homelessness. Unlike west coast cities without a local revenue measure, SF has seen a steady decline in street homelessness. Portland saw an enourmous 67% increase and San Diego a 26% increase in 2024. SF was poised to see exploding homelessness due to the pandemic, but planning by the oversight body staved that off."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "While Prop C has been wildly successful, progress is at risk. Rising rents create a dire need for using funds to permanently solve and prevent homelessness. The oversight body is charged with digging into data and centering unhoused people’s needs including hidden needs of homeless children. Each year they struggle against Mayoral Administrations who favor ruling by sound bites, and shiny failed quick fixes over data driven proven solutions."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop A attempts to silence the voices of homeless people and their allies that challenge power, and this particular body was targeted only because of its effectiveness in doing so."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "No on A."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Coalition on Homelessness"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=69",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "title": "Prop A is a good government housekeeping measure that cleans up and modernizes San Francisco’s lengthy, outdated charter to serve you better.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Currently five separate, overlapping commissions oversee homeless services in San Francisco. None of them are removed by Prop A."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But right now, even small administrative updates to some of these commissions — like adjusting how often they meet, or the qualifications of their members — have to go before voters as a ballot measure."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Making such routine updates should not be delayed through an entire election cycle or require hundreds of thousands of dollars in campaign costs. Prop A lets the Board handle those small fixes through ordinary legislation instead."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Requiring a citywide election to fix a typo or fix outdated language isn’t democracy, it just makes City Hall less accountable for delivering results for voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join us as we make San Francisco’s charter serve you better!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE YES ON PROP A — THE GOOD GOVERNMENT"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "CONSENSUS MEASURE"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Board of Supervisors President Rafael Mandelman"
+        },
+        {
+          "name": "Mayor Daniel Lurie"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=69",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "Commission Reform Really SPUR’s “Charter for Change”",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Billionaires sought",
+            {
+              "strong": [
+                " “Proposition A”"
+              ]
+            },
+            " after losing 2024’s Board and Commission reform “",
+            {
+              "em": [
+                "Proposition D"
+              ]
+            },
+            "” ballot measure to “",
+            {
+              "em": [
+                "Proposition E"
+              ]
+            },
+            ".” Sore losers, they nevertheless managed stacking the resulting “",
+            {
+              "em": [
+                "Commission Streamlining"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "Task Force"
+              ]
+            },
+            "” with Mayor Lurie’s staff and SPUR board members."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Task Force developed an anti-democratic, 166-page Trumpian “",
+            {
+              "strong": [
+                "Project 2025"
+              ]
+            },
+            "”-",
+            {
+              "strong": [
+                "style"
+              ]
+            },
+            " commission reform Charter Amendment, so onerous it was split into",
+            {
+              "strong": [
+                " Propositions"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "“A,” “D,” “E,”"
+              ]
+            },
+            " and",
+            {
+              "strong": [
+                " “F.”"
+              ]
+            },
+            " The Board of Supervisors placed portions into “",
+            {
+              "strong": [
+                "Proposition A’s"
+              ]
+            },
+            "” 138-page Charter Amendment by a 9-to-2 vote."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It stipulates often body-unique qualifications to serve on specific boards, commissions become merely “",
+            {
+              "em": [
+                "desired"
+              ]
+            },
+            ",” ",
+            {
+              "strong": [
+                "not"
+              ]
+            },
+            " required. City Supervisors won’t be",
+            {
+              "strong": [
+                " bound"
+              ]
+            },
+            " to specific qualifications when making appointments, but should take them “",
+            {
+              "em": [
+                "into account"
+              ]
+            },
+            ".” Political patronage appointments cronyism will mushroom!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“",
+            {
+              "strong": [
+                "Prop. A"
+              ]
+            },
+            "” alters membership qualifications to\nthe “",
+            {
+              "em": [
+                "Sunshine Ordinance Task Force"
+              ]
+            },
+            "” (SOTF) — San Francisco’s voter-approved, independent open government transparency watchdog, a",
+            {
+              "strong": [
+                " regulatory body"
+              ]
+            },
+            ". A former Supervisor Mandelman campaign staffer and a former Lurie aide seek appointments to the SOTF. Their primary qualifications?: Being former staff."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Read my investigative article (www.westsideobserver.net/sotf) on how Ordinance 99-66 has, and “",
+            {
+              "strong": [
+                "Prop. A"
+              ]
+            },
+            "” will, worsen the SOTF’s recent shutdown."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“",
+            {
+              "strong": [
+                "Prop. A"
+              ]
+            },
+            "” removes the requirement Boards and Commissions prepare annual reports, eliminating transparency for San Franciscans and City Supervisors! There’s other buried poison."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It was in Lurie’s and Supervisor’s interests to abandon this",
+            {
+              "strong": [
+                " authoritarian, anti-democratic"
+              ]
+            },
+            " Commission “",
+            {
+              "em": [
+                "reform"
+              ]
+            },
+            "” months ago. Instead, they dug political ditches, fell in, and kept digging. “",
+            {
+              "strong": [
+                "Prop. A"
+              ]
+            },
+            "” is like giving matches to pyromaniacs!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Also read my paid arguments",
+            {
+              "strong": [
+                " against"
+              ]
+            },
+            " Propositions “D” and “F.”"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "“Prop. A” dismantles wholesale, citizen-involved"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "democracy in San Francisco!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Save your box of matches; maintain our vigilant democracy.",
+            {
+              "strong": [
+                " Vote “Hell No!” on these"
+              ]
+            },
+            {
+              "strong": [
+                " four"
+              ]
+            },
+            {
+              "strong": [
+                " Charter"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Amendments."
+              ]
+            },
+            " They",
+            {
+              "strong": [
+                " aren’t"
+              ]
+            },
+            " “",
+            {
+              "em": [
+                "government streamlining"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "efficiencies"
+              ]
+            },
+            ".",
+            {
+              "strong": [
+                "” They’re SPUR’s “"
+              ]
+            },
+            {
+              "strong": [
+                "Charter for Change"
+              ]
+            },
+            {
+              "strong": [
+                "”!"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "("
+              ]
+            },
+            "https://www.spur.org/publications/policy-brief/2025-11-10/charter-change",
+            {
+              "strong": [
+                ")"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Patrick Monette-Shaw"
+        },
+        {
+          "name": "Columnist",
+          "title": "Westside Observer*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Patrick Monette-Shaw.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=70",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Legal text of Proposition A",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "mediaType": "application/pdf",
+      "page": 150,
+      "sha256": "9c6bcf0b49b5a04c1f03de363d5727458c673d8807ef2932c2912ed40d786136"
+    }
+  ]
+}

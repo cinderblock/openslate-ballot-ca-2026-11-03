@@ -1,0 +1,903 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+    "jurisdiction": "us/ca/sf",
+    "kind": "measure",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Shall the City amend the Charter to give the City Administrator more authority by centralizing the City’s purchasing rules and processes, changing how the City approves purchasing rules, changing when contracts and leases require Board of Supervisors approval, and extending the City Administrator’s term?"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 50%+1 affirmative votes to pass."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "How “E” Got on the Ballot"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On July 23, 2026, the Department of Elections certified that the initiative petition calling for Proposition E to be placed on the ballot had a sufficient number of valid signatures to qualify the measure for the ballot."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "53,076 signatures were required to place an initiative Charter Amendment on the ballot. This number is equal to 10% of the registered voters at the time a “Notice of Intent to Circulate Petition” was published. A random check of the signatures submitted by the proponents of the initiative petition prior to the July 6, 2026, submission deadline showed that the total number of valid signatures was greater than the number required."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=96"
+  },
+  "summary": {
+    "title": "Digest",
+    "by": "Ballot Simplification Council",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Way It Is Now:"
+            ]
+          },
+          " The City Administrator’s Office is responsible for most of the City’s purchasing. However, authority for the City’s purchasing and technology is shared among the City Administrator’s Office, the Board of Supervisors, the Mayor, and some City departments."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Rules Regulating Purchasing: The Board of Supervisors (Board) may adopt ordinances that set the rules about how the City selects contractors and enters into contracts for goods, services, construction, and grants (referred to below as Purchasing)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Board Approval of Various Agreements: With some exceptions, the City’s Charter requires the Board to approve:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Contracts and leases that bring in $1,000,000 or more in revenue to the City, and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Contracts that cost the City $10,000,000 or more."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board must also approve certain amendments to these agreements."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "City Administrator’s Term: The Mayor appoints the City Administrator to a five-year term, subject to Board approval."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "City Administrator’s Authority: The City Administrator sets Purchasing rules and processes governing goods and services except for some goods and services of the Municipal Transportation Agency, Public Utilities Commission, Port Commission, and some arts departments. The City Administrator also oversees technology policies and manages disposal of City personal property for most departments."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Proposal:"
+            ]
+          },
+          " Proposition E would:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Rules Regulating Purchasing: Give the City Administrator exclusive authority to propose ordinances that change how the City selects contractors and enters into contracts for goods, services, construction, and grants (Purchasing). The Board and Mayor may not amend the ordinances, but they can:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Approve or reject the ordinances within 60 days, or"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "If no action is taken within 60 days, the ordinances would be approved."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition E does not change the current Board authority for Purchasing ordinances that mainly address wages, workplace health and safety, utilization of local business, or labor agreements."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Board Approval of Various Agreements: Increase the dollar amount requiring Board approval to:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Contracts and leases that bring in $4,500,000 or more in revenue to the City,"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Contracts that cost the City $25,000,000 or more."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Starting in 2032, the City’s Controller would adjust these dollar amounts every five years for inflation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition E would require Board approval for major amendments to these agreements."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "City Administrator’s Term: Increase the City Administrator’s term from five to ten years."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "City Administrator’s Authority: The City Administrator would set Purchasing rules and processes for all goods, services, construction, and grants that all City departments must follow, except as limited by other laws. Most departments would now be subject to the City Administrator’s authority regarding technology policies and the disposal of City personal property. These rules would override those departments’ conflicting rules and policies."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=96"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “YES” Vote Means:"
+              ]
+            },
+            " If you vote “yes,” you want to give the City Administrator more authority by centralizing the City’s Purchasing rules and processes, changing how the City approves Purchasing rules, changing when contracts and leases require Board approval, and extending the City Administrator’s term."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=97"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “NO” Vote Means:"
+              ]
+            },
+            " If you vote “no,” you do not want to make these changes."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=97"
+    }
+  },
+  "analysis": {
+    "title": "Controller’s Statement on “E”",
+    "by": "City Controller",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City Controller Greg Wagner has issued the following statement on the fiscal impact of Proposition E:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Should the proposed Charter amendment be approved by the voters, in my opinion, it would have a minimal impact on the cost of government, although at a level that cannot be determined at this time."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment would (1) give the City Administrator the exclusive authority to introduce ordinances that govern City contracting, with some exceptions; (2) grant the City Administrator the authority to set Citywide rules for contracting; (3) provide the City Administrator the authority to establish policies, standards, and practices for technology uses across departments; (4) extend the City Administrator’s term from five to ten years; (5) increase the Board of Supervisors’ approval threshold from $1 million to $4.5 million for revenue generating contracts and real property lease agreements; and (6) increase in the Board of Supervisors’ approval threshold from $10 million to $25 million for expenditure contracts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed Charter amendment gives the City Administrator greater authority to set contract standards, by introducing ordinances or adopting rules, regulations or policies, which may allow for greater efficiencies in citywide contracting. The proposed amendment establishes a more unified City procurement approach, which may result in reduced costs for the purchase of goods or services and staff time savings in the long run. The amendment may result in changed staffing but does not specify organizational or staffing changes within the City. The proposed Charter amendment also increases the Board of Supervisors’ contract approval monetary thresholds. These changes may reduce the amount of time the Board of Supervisors spend reviewing contracts and the time department staff spend preparing for the Board of Supervisors’ review, freeing the Board of Supervisors, their staff, and department staff to work on other government functions, although at a level that cannot be determined at this time."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=97"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Over decades, San Francisco’s governing system - or city charter - has increasingly grown to reward city insiders. Mayor Lurie is leading a citywide coalition to make the system more accountable to everyday San Franciscans."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Clean Up City Hall is a package of Props A, D, E and F to improve neighborhood services, speed up permitting and reduce wasteful spending so we can invest in our great city."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "PROP E SLASHES WASTE IN CITY CONTRACTING."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It can cost more than $25,000 to run a single contracting process. Basic purchases take years to deliver. Costs balloon out of control. That’s because every year\nSan Francisco hands out more than $5 billion in contracts with no limited oversight or accountability. The system creates waste at every level and is easily exploited."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "STOPS CORRUPT DEALMAKING."
+              ]
+            },
+            " Investigators have caught six department heads running contracting schemes in the last five years. Multiple department heads have gone to prison. E empowers a professional City Administrator to set transparent standards so contracts are awarded based on who is best for the job, not who is best connected."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MORE ACCOUNTABILITY FOR BETTER RESULTS."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "“San Francisco pays thousands of businesses and nonprofits but doesn’t have a contracting system built for results. E ensures public dollars are invested in better and faster city services instead of lost to waste and delay.” - Ben Rosenfield, former San Francisco Controller"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "STRONGER CHECKS AND BALANCES."
+              ]
+            },
+            " The mayor or a board majority can reject proposed contracting changes within 60 days, ensuring accountability runs through the entire system."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco works best when we work in coalitions together. Please join the citywide coalition to make the system accountable to all!"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Board of Supervisors President Rafael Mandelman"
+        },
+        {
+          "name": "Speaker Emerita Nancy Pelosi"
+        },
+        {
+          "name": "Nancy Tung",
+          "title": "San Francisco Democratic Party"
+        },
+        {
+          "name": "Former SF Ethics Chair Ben Hur"
+        },
+        {
+          "name": "Former Deputy City Attorney Jim Lazarus"
+        },
+        {
+          "name": "SFSU Associate Professor of Political Science"
+        },
+        {
+          "name": "Jason McDaniel"
+        },
+        {
+          "name": "Former City Controller Ben Rosenfield"
+        },
+        {
+          "name": "Former Fire Chief Joanne Hayes-White"
+        },
+        {
+          "name": "Firefighters Local 798"
+        },
+        {
+          "name": "SF Building Trades"
+        },
+        {
+          "name": "Dan Calamuci",
+          "title": "Carpenters Local 22*"
+        },
+        {
+          "name": "Anthony Travis Jr.",
+          "title": "Laborers Local 261*"
+        },
+        {
+          "name": "Charles Lavery",
+          "title": "Operating Engineers Local 3*"
+        },
+        {
+          "name": "Teamsters Local 665"
+        },
+        {
+          "name": "Council of District Merchant Associations"
+        },
+        {
+          "name": "Chinatown History and Culture Association"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=98",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Mayor Lurie scours the city with paid signature gatherers. He has not recruited pragmatist candidates to challenge ideologues and obstructionists on the Board of Supervisors, or built a working majority to pass his agenda legislatively. He treats checks and balances as the enemy, and seeks to concentrate power in his own hands through Propositions D, E and F."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Similar patterns appear in his aggressive advocacy for Proposition H, the massive parcel tax to prop up MUNI. Rather than force real reform of a stultified, bloated agency, he asks voters to lock in $2.4 billion in new taxes to continue its bleeding pre-pandemic, pre-technology model of mostly empty steel cages. Proposition H subsidizes low-ridership service, weak fare enforcement and bureaucratic inertia."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Look around! Autonomous vehicles promise radical cost declines and flexible mobility. While tired climate rhetoric demands everyone abandon their cars, automobiles have become cleaner, electric, driverless, shareable, robotic and able-assisting. The future is arriving. Mayor Lurie remains allergic to it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The mayor refuses to clean his own party’s house amidst rising extremism. He seeks permanent new executive power and sweeping new taxes harking back to glory days of big infrastructure. These are authoritarian, socialist impulses he should be fighting."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don’t be a piker."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote No on D, E, F... and H!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Larry S. Marso, Esq."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Mr. Marso, a Nob Hill resident, was ballot opponent of the"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "2024 $400 million MUNI bond—rejected by voters in a"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "tremendous victory for taxpayers!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=98",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The current Board of Supervisors refuses to enact Mayor Daniel Lurie’s core priorities—to cut the deficit, trim bureaucracy, centralize contracting and hold department heads accountable. However Lurie, instead of challenging head-on the far-left socialists and obstructionist ideologues of his own party to get pragmatist Supervisors elected, treats the system of checks and balances itself as the enemy. He raised millions for paid signature gatherers to rewrite the City Charter and concentrate power in his hands."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This is the authoritarian temptation. Fearing radicals inside their own coalition, leaders turn against institutional constraints that limit their personal power. SPUR stated the impulse with chilling clarity: a mayor should “resolve issues through leadership rather than at the ballot”—translation: by mayoral decree. Democratic procedure just gets in the way."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That same impulse drives presidents who prefer executive orders to the harder work of defeating “in name only” members of their own party who block their agenda."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "One measure expands City Administrator authority, raising the dollar threshold for Supervisor approval of major contracts. Another revives deputy mayors—a patronage system exposed by Quentin Kopp and abolished by voters in 1991—while amplifying the mayor’s power to hire, fire and reorganize. The third quadruples the signature requirement for citizen initiatives, after Lurie himself used the low bar he now seeks to close, locking the door behind him."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Most of what Lurie claims these changes would deliver could be achieved through legislation and regular order if he led his own party toward fiscal discipline, drove the most ideological members off the Board and fought the increasing far-left extremism infecting Democrat leadership. Instead, he flirts with the same breed of authoritarianism."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don’t be a piker."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote No on D, E, and F."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Larry S. Marso",
+          "title": "Esq."
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=99",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "title": "PROP E IS IS ABOUT ENDING WASTE AND CORRUPTION IN CITY CONTRACTING",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Under our current system, San Francisco became an international punch line when it was announced that one public toilet in Noe Valley would cost $1.7 million dollars to build."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Under our current system, multiple city employees, including 6 department heads, were investigated for running contracting schemes that landed some of them in prison."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Under our current system, it costs more than $25,000 to run a single contracting process, and simple purchases drag on for years."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But the city continues to hand out $6 billion in contracts a year without the oversight and accountability that common sense demands."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "How the city buys staplers, builds public restrooms, or purchases software can’t be a political football."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop E empowers a professional City Administrator to set clear, transparent rules for who gets city contracts. It’s a necessary step to end waste, fraud, and ballooning costs that frankly should have been done decades ago."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "City Hall insiders want to keep our current system because it works for them. But San Francisco voters have made it clear that it’s time for a change."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join us in bringing sanity back to purchasing and contracting."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Board of Supervisors President Rafael Mandelman"
+        },
+        {
+          "name": "Former Controller Ben Rosenfield"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=99",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "Cut the Red Tape. Deliver Services Faster.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco spends more than $5 billion a year on contracts — for everything from homeless services to street repairs — under purchasing rules scattered across more than 100 sections of city code, requiring 8.5 months to 1.5 years to complete a single contract. Small businesses and nonprofits, especially minority- and women-owned firms, are hit hardest."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure implements the recommendations of SPUR’s 2025 Purchasing Power report and 2026 Charter for Change — research built on SPUR’s century-long commitment to making San Francisco government work efficiently for the people it serves."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The measure puts one official, the City Administrator, in charge of proposing purchasing rule changes, subject to Board rejection within 60 days. It brings departments like the PUC and SFMTA under consistent citywide purchasing oversight. And it updates Board-approval contract thresholds, unchanged since 1996, to reflect nearly three decades of inflation."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Existing protections for minority- and women-owned business participation and labor standards on city contracts are untouched, as is the Board’s budget authority over the City Administrator’s office and the Mayor’s ability to remove the City Administrator."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The result: faster contracting, lower administrative costs, and a system that’s finally navigable for the nonprofits and small businesses serving San Francisco’s most vulnerable residents."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sean Elsbernd"
+        },
+        {
+          "name": "President/CEO SPUR (www.spur.org)"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: SPUR.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=100",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "GOOD GOVERNANCE LEADERS AGREE PROP E WILL STOP THE WASTE IN PURCHASING."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We’ve spent our careers inside City Hall, and we’ve seen firsthand how a lack of transparent contracting rules allows waste and corruption to thrive. It can cost more than $25,000 just to run a single contracting process, and basic purchases can take years to deliver. Government doesn’t have to be this slow, and it shouldn’t reward insiders over results."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop E fixes the structure, not just the symptoms. It empowers a professional City Administrator to set clear, transparent standards, and it keeps real checks in place: the mayor or a board majority can reject proposed contracting changes within 60 days. We’ve watched San Franciscans lose faith in City Hall’s ability to manage public dollars responsibly. Prop E is a real, structural step toward earning that trust back. Vote Yes on Prop E for stronger accountability and better city services."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Former Controller Ben Rosenfield"
+        },
+        {
+          "name": "Former Sheriff Vicki Hennessy"
+        },
+        {
+          "name": "Former Director of SF Planning John Rahaim"
+        },
+        {
+          "name": "Former Deputy City Attorney James Lazarus"
+        },
+        {
+          "name": "Former Fire Chief Joanne Hayes-White"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=100",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "LABOR GROUPS UNITE TO SUPPORT CONTRACTING REFORM IN PROP E."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Working people build this city and too often, the City’s broken contracting system gets in our way. It costs too much, and basic purchases can take years. That’s not a system that respects the workers who depend on City projects for our livelihoods. The current system opens the door to waste and abuse at every level, and working people pay the price when public dollars are lost to grift instead of going toward good jobs and real results."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop E brings real reform that’s good for union contractors and workers who compete fairly and do the work right, and it’s good for the public dollars that fund our jobs. Labor knows the difference between a system that works for working people and one that works for insiders. Prop E moves San Francisco in the right direction. Vote Yes on Prop E for accountability, fairness, and a city that works for everyone who builds it."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Firefighters 798"
+        },
+        {
+          "name": "SF Building Trades"
+        },
+        {
+          "name": "Teamsters Local 665"
+        },
+        {
+          "name": "SEIU Local 87"
+        },
+        {
+          "name": "Carpenters Local 22 Senior Field Representative"
+        },
+        {
+          "name": "Dan Calamuci*"
+        },
+        {
+          "name": "Operating Engineers Local 3 District Representative Charles Lavery*"
+        },
+        {
+          "name": "Laborers Local 261 SF Liaison Anthony Travis Jr.*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=100",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "SMALL AND BIG BUSINESSES URGE PURCHASING REFORM THROUGH PROP E."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s businesses know what it’s like to deal with the City’s contracting system: slow, confusing, and often stacked against anyone who isn’t already an insider. It’s bad for the businesses trying to work with the City, and it’s bad for taxpayers footing the bill. This broken system wastes money and is exploited, and businesses that play by the rules shouldn’t have to compete with insiders who don’t."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop E fixes this by empowering a professional City Administrator to set transparent standards so contracts are awarded based on merit and qualifications, not connections. That means a fairer playing field for the small businesses, contractors, and vendors who do honest work for the City every day. A more transparent, efficient contracting system means faster delivery of the projects and services San Francisco’s economy depends on."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s business community is united: Vote Yes on Prop E for accountability, fairness, and better city services."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Council of District Merchants Associations"
+        },
+        {
+          "name": "SF Chamber of Commerce"
+        },
+        {
+          "name": "Noe Valley Merchants and Professionals Association"
+        },
+        {
+          "name": "Hotel Council"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=101",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "CHINATOWN LEADERS SAY YES TO BETTER PURCHASING WITH PROP E."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Chinatown and immigrant communities across\nSan Francisco know what it’s like to be shut out of a system built for insiders. When billions of dollars for city contracts are handed out every year through inconsistent, confusing processes, the businesses and nonprofits working hardest to serve our community often lose out to whoever has the right connections downtown."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop E fixes the system at its root. It empowers a professional City Administrator to set clear, transparent standards so contracts go to whoever is best for the job, not whoever is best connected. That’s a fairer chance for community organizations and small businesses that have always played by the rules. Chinatown deserves a City Hall that works as hard for our community as we work for this city. Vote Yes on Prop E for accountability and better city services."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Chinatown History and Culture Association"
+        },
+        {
+          "name": "Eva Lee",
+          "title": "SF Chinatown Merchants Association*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Clean Up City Hall, Mayor Lurie’s Ballot Measure Committee. The three largest contributors to the true source recipient committee: 1. Michael Moritz, 2. John Pritzker, 3. Chris Larsen.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=101",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Legal text of Proposition E",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "mediaType": "application/pdf",
+      "page": 195,
+      "sha256": "9c6bcf0b49b5a04c1f03de363d5727458c673d8807ef2932c2912ed40d786136"
+    }
+  ]
+}

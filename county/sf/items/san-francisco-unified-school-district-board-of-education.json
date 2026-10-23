@@ -1,0 +1,713 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Unified School District Board of Education",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Member, Board of Education"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Education is the seven-member body governing the San Francisco Unified School District (kindergarten through grade twelve). Each member serves a four-year term with a current annual stipend of $6,000. Voters will elect three members in this election."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Autumn Brown Garibay",
+      "statement": {
+        "by": "Autumn Brown Garibay",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " PTA Vice President."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running to help build the SFUSD San Francisco deserves: reliable, consistent, and excellent for every student, family, and educator counting on it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Three of my kids attend SFUSD schools. For years I have led our PTA, advocated for families across San Francisco, and shown up at SFUSD Board meetings. I have seen what our teachers give our kids, and how often the district falls short."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every child in SFUSD should be reading by third grade and doing grade-level math by eighth. That is the floor we owe every kid, in every neighborhood school."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rebuilding enrollment starts with schools families trust: strong principals, stable teaching teams, and classrooms where every kid is safe, supported, and challenged."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district’s budget crisis demands hard, public questions: What are we paying for, and who is it helping? Every dollar must serve students, and families deserve a Board that shows its work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "SFUSD needs Board members who demand answers, prioritize student outcomes, and fiercely advocate for the educators, staff, and parents behind our schools. San Francisco families deserve nothing less. I’d be honored to have your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by:\nRafael Mandelman*, President, San Francisco Board of Supervisors\nSF Parent Action"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "*For identification purposes only."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "autumnforschoolboard.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=30",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Virginia Cheung",
+      "statement": {
+        "by": "Virginia Cheung",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Nonprofit Executive / Mother."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On my first day of kindergarten, I stood at the bus stop crying. I didn’t speak English."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A teacher noticed, took my hand, and rode with me to school. Because she saw me, I became the first in my family to graduate from college."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My brother didn’t get that chance and dropped out of high school. For years, I thought I was lucky. As a parent, I know a child’s future shouldn’t depend on luck."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m the daughter of refugees, an early education advocate, nonprofit executive, and a single mother of an SFUSD student. For over 20 years, I’ve fought for children and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll strengthen early intervention to improve literacy, math, attendance, and student engagement, restore fiscal accountability, rebuild trust, and make SFUSD the top choice for every family in every neighborhood."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A teacher helped me find my voice. Now, I’m fighting for every child to find theirs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every child deserves to be safe, seen, valued, and heard. Every child deserves a voice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by United Educators of San Francisco; Assemblymember Matt Haney; Supervisors Connie Chan, Chyanne Chen, Jackie Fielder, and Shamann Walton; Board of Education Commissioners Matthew Alexander and Alida Fisher; former Board of Education Commissioner Mark Sanchez; former Board President and Supervisor Aaron Peskin; and former Supervisors John Avalos, Jane Kim, Eric Mar, and Gordon Mar."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "virginiacheung.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=30",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Alida Fisher",
+      "statement": {
+        "by": "Alida Fisher",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " School Board Member."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an SFUSD parent, former foster parent, special education advocate, and current School Board Commissioner, I am running for reelection to continue building excellent and equitable public schools for every San Francisco student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Before joining the Board, I advocated for students and families through district committees and working groups, building coalitions with educators, district leaders, and elected officials to strengthen our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a commissioner, I’m focused on academic excellence, fiscal responsibility, and rebuilding public trust through collaboration. During my term, we have:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Balanced SFUSD’s budget, putting the district on a path to long-term financial stability"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Adopted new curricula in core academic areas"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Modernized outdated financial and HR systems"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Passed a $790 million bond to modernize schools and build a central kitchen"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Reached multi-year agreements with all labor partners, including historic dependent health care benefits for educators"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expanded Transitional Kindergarten districtwide"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience as a special education advocate has taught me that every decision must center students and families, with a focus on early intervention, inclusion, and meaningful support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for reelection to build on this progress, strengthen public trust, and ensure every student has access to rigorous instruction and the opportunity to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join me: www.alidafisher.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=31",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Ryan Hazelton",
+      "statement": {
+        "by": "Ryan Hazelton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Children’s Nonprofit Director."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have dedicated my career to uplifting the children and families who make our city thrive. I serve as the Executive Director at Mariposa Kids, a local nonprofit that provides after-school programming to SFUSD children in the Mission and Bernal Heights. My civic leadership also includes a mayoral appointment to the Department of Children, Youth and Their Families oversight committee and a SFUSD appointment to the SF Childcare Planning and Advisory Council, where I serve as Chair."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in a middle class union family and attended public schools throughout my education. For 19 years I have called San Francisco home. Growing up gay, I know how important it is to ensure our children grow up feeling safe and supported."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My plan for our public schools is simple:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "For Families: Make SFUSD easier to join by reforming the lottery system and expanding wrap-around services."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "For Educators: Pay them fairly and on-time and ensure that classrooms are well resourced."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "For Students: Address chronic absenteeism - children cannot learn if they aren’t in schools."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Fix our local SFUSD budget and secure additional funding from the state."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Create safe and welcoming schools for LGBTQ+ students, immigrant students, and students with disabilities."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "United Educators of San Francisco (UESF)\nMatt Alexander\nVirginia Cheung\nNatalie Gee\nGordon Mar\nGary McCoy\nAaron Peskin\nHillary Ronen\nMark Sanchez\nReina Tello"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "RyanForSFSchools.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=31",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Phil Kim",
+      "statement": {
+        "by": "Phil Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " School Board President."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "RE-ELECT PHIL, OUR SCHOOL BOARD PRESIDENT!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former 7th grade science teacher, I know how it feels to stand in front of students with different needs and strengths and be responsible for helping each one succeed. A school district is only as strong as each of its classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our educators and students work hard. They deserve leadership that understands their challenges, provides clear direction, and fights to get them the resources they deserve. I know from experience that when teachers and parents feel supported, students succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, from the classroom to the district level, and now as School Board President, my focus remains the same: engage students, support teachers, and ensure resources reach the kids who need them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ran for the School Board because I saw that decisions affecting our classrooms were being made by people who haven’t taught before. We need educators on the School Board who understand instruction, curriculum, and what it takes to help students grow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our parents deserve stable schools. Our teachers deserve strong partners. Our students deserve the best school district in the country. Let’s make it happen."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by:\nMayor Daniel Lurie\nSenator Scott Wiener\nAssemblymember Matt Haney\nAssemblymember Catherine Stefani\nBoard of Supervisors President Rafael Mandelman\nFormer Supervisor Jane Kim"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.philkim.org"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=32",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Laurance Lee",
+      "statement": {
+        "by": "Laurance Lee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " General Contractor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a proud product of San Francisco public schools– Argonne, Presidio, and Lowell. My father came to this country as an undocumented immigrant, and kind teachers saw potential in me, helped me overcome early hurdles, and opened doors that changed my life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That experience is why I give back. I helped restore eighth-grade Algebra 1, serve as Vice Chair of the Citizens’ Bond Oversight Committee overseeing school construction spending, and volunteer weekly with kindergartners in the Bayview to help them read. I show up and do the work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Families across San Francisco want great neighborhood schools their kids can walk to, with real learning and the support teachers need. They also deserve a School Board that listens, explains its decisions, and can be trusted with public resources. As a small business owner and lifelong San Franciscan, I know lasting progress comes from working with people, not around them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by elected officials, educators, parents, and community leaders across San Francisco."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running for the Board of Education so every child can have the opportunities SFUSD gave me. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "lauranceleesf.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=32",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Reina Tello",
+      "statement": {
+        "by": "Reina Tello",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Community Organizer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Born and raised in San Francisco, a proud parent of SFUSD students.\nI am a graduate of SFUSD, I am the only person running who has the perspective as a student of SFUSD."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a longtime community organizer whose lifelong connection to public schools gives me a deep understanding of the opportunities and challenges facing students, families, and educators."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have a track record of using my leadership roles as a community organizer to uphold our San Francisco values. I have the support from many leaders across many issue areas because I will not use the board as a stepping-stone for political office, including support from:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "United Educators of San Francisco (UESF)\nSan Francisco Rising Action Fund\nMatt Alexander, Board of Education Commissioner Connie Chan, Supervisor District 1\nJackie Fielder, Supervisor District 9\nShamann Walton, Supervisor District 10\nChyanne Chen, Supervisor District 11\nTracy Gallardo-Brown, Founding Member of SF Latino Task Force\nAaron Peskin, Former President of Board of Supervisors D3\nGordon Mar, Former Supervisor D4\nSandy Fewer, Former Supervisor D1 & Former Board of Education Commissioner\nArt Agnos, Former Mayor of San Francisco Reverend Amos Brown"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.reinaforschoolboard.org"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=33",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Tim Tung",
+      "statement": {
+        "by": "Tim Tung",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Research Analyst."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an SFUSD parent leader, public finance professional, and a graduate of public schools from kindergarten through graduate school."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My daughters attend the Chinese Immersion School at De Avila, where I chair the School Site Council and represent our cohort on SFUSD’s LCAP Advisory Committee. I chair San Francisco’s Citizens’ General Obligation Bond Oversight Committee, overseeing voter-approved spending."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I spent 20 years analyzing and fixing public budgets, beginning in the City of San Jose’s Finance Department, steering a major city through the 2008 financial crisis. I spent 12 years at S&P Global Ratings evaluating hundreds of local governments and school districts, holding executives accountable when they failed to deliver."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "SFUSD only recently regained positive financial certification after years of state oversight. Our enrollment lottery is unpredictable and drives families away. Reading and math proficiency remain unacceptably low."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will protect a balanced budget, deliver on the student assignment system, and insist on transparent data."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Too many families believe their children can’t get a quality education from San Francisco public schools. Let’s give them a reason to choose San Francisco public schools by ensuring that investments in our students, teachers, and schools will show tangible results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.timtung.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=33",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

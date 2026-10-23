@@ -1,0 +1,79 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 15",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-15",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "candidates": [
+    {
+      "choice": "Kevin Mullin",
+      "statement": {
+        "by": "Kevin Mullin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " U.S. Representative."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Representing California’s 15th Congressional district in the U.S. House of Representatives is the greatest honor of my life. I’m running for re-election and ask for your vote based upon my record of delivering results for my constituents, including federal funding for district projects during these most challenging times."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I fought against and voted NO on extreme Republican budget bills that gutted crucial safety net programs while cutting taxes for corporations and billionaires and adding to the national debt. I have pushed back hard against the Trump administration’s inhumane immigration enforcement. Democrats must win back control of Congress to stop a President who ignores the U.S. Constitution and rule of law and sends troops into harm’s way without congressional approval."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to co-chair the House’s Task Force on Anti-Corruption and Democracy Reform, co-sponsoring one of the most comprehensive voting rights packages in history. We will protect free and fair elections from Trump’s attacks on voting-by-mail, which California has pioneered and I have championed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was selected by colleagues to serve on the influential Energy & Commerce Committee where I advocate for consumer and worker protections while growing our innovation economy, directly affecting CA-15’s life sciences and clean energy sectors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your support, I will continue to defend and reform our democracy, ensure our communities are ready for climate change, push for an affordable economy that works for all, along with a fiscally responsible federal budget. More than ever, we need experienced leaders in Congress who can beat back authoritarianism so future generations of Americans may inherit a democratic republic."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.kevinmullinforcongress.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=27",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

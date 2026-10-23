@@ -1,0 +1,291 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco Board of Supervisors, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "by": "San Francisco Department of Elections",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Member, Board of Supervisors"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors is the legislative branch of government for the City and County of San Francisco. It enacts local laws and adopts the City’s annual budget. There are eleven members, each elected to a four-year term. The current annual salary is $180,102. Voters in Districts 2, 4, 6, 8, and 10 will vote for their member of the Board of Supervisors in this election."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=25"
+  },
+  "candidates": [
+    {
+      "choice": "Albert Chow",
+      "statement": {
+        "by": "Albert Chow",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Hardware Store Owner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a 50-year Sunset resident, raising my children here and sending them to the same neighborhood schools I attended. The Sunset is my home, and I am committed to protecting what makes our community special while preparing it for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I co-founded People of Parkside Sunset to strengthen our neighborhood through community meetings, merchant support, and events that bring residents together. Through that work, I helped create outdoor movie nights, farmers markets, and night markets that have become beloved community traditions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner, I understand the challenges facing working families and local merchants. Great Wall Hardware, founded by my parents in 1983, was devastated by an arson fire. I spent the last two years rebuilding my family’s business from the ground up. That experience reinforced my belief that strong communities are built through resilience, hard work, and neighbors supporting one another."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have always stood with Sunset residents and fought to ensure our voices are heard on the issues affecting daily lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Supervisor, I will work to improve public safety, support our schools, create housing that protects working families, strengthen small businesses, improve traffic and pedestrian safety, invest in neighborhood infrastructure, and ensure District 4 has a strong voice at City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a safer, stronger Sunset."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.albertchowsf.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=44",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Jeremy Julian Greco",
+      "statement": {
+        "by": "Jeremy Julian Greco",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Campus Coordinator / Monologist."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Jeremy Julian Greco — a father, an artist, a former worker-owner of Other Avenues cooperative, and a 26-year resident of the Outer Sunset. I have seen the Sunset full circle — from raising my daughters here to caring for family through the passing of my mother-in-law. As producer of Sunset Solos, I have worked to build a vibrant, artistic community rooted in connection and storytelling."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I served on the Board of Directors and co-owned Other Avenues food cooperative for 16 years. In that time, we purchased our building, installed solar panels, supported workers, and navigated COVID together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Supervisor to rebuild trust the Sunset Way— through honety, accountability, and community-centered leadership. I will permanently protect Sunset Dunes, our coastline, the Westside groundwater basin, and reduce Ocean Beach pollution. I support Slow Streets near schools, safer bike corridors, roundabouts, beat cops, and cleaner, reliable MUNI service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support affordable housing that keeps families, seniors, artists and workers in District 4, including intergenerational artistic housing and cooperative business initiatives that strengthen neighborhoods and help residents age with dignity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a safer, more affordable, creative, and connected District 4."
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=44",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    },
+    {
+      "choice": "Alan Wong",
+      "statement": {
+        "by": "Alan Wong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My occupation is"
+                ]
+              },
+              " Member, Board of Supervisors /Military Commander."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My qualifications are:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Sunset is the community I love and the only home I’ve ever known. As your District 4 Supervisor, it is the greatest honor of my life to serve the neighborhood I was born and raised in."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a Lincoln High School graduate and National Guard officer. I have served as a union organizer, Children’s Council of San Francisco policy director, and City College Board President."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring practical, common-sense leadership and focus on results. As Supervisor, I have been delivering on the basics of governance: responsive government, strengthening public safety, maintaining clean and safe streets, and making San Francisco a place where families can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve been fighting for:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Hiring more police officers, justice for crime victims, and giving police the tools and funding they need to prevent crime."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Street and pedestrian safety improvements."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Cutting unnecessary bureaucracy and making government work for regular people."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Eighth-grade algebra and neighborhood zone-based public school assignments."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Reopening the Great Highway to vehicles on weekdays."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "More parking and getting the Municipal Transportation Agency to listen to residents and small businesses."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor Daniel Lurie, Willie Brown\nState Treasurer Fiona Ma\nLieutenant Governor Eleni Kounalakis\nAttorney General Rob Bonta\nState Controller Malia Cohen\nCongressmember Kevin Mullin\nState Assemblymember Catherine Stefani, Matt Haney Sheriff Paul Miyamoto, Vicki Hennessy\nSan Francisco Board of Supervisors: Stephen Sherrill, Danny Sauter, Bilal Mahmood, Matt Dorsey, Myrna Melgar, Rafael Mandelman, Chyanne Chen\nSan Francisco Democratic Party Chair Nancy Tung\nSan Francisco Police Officers Association\nSan Francisco Deputy Sheriffs’ Association\nSan Francisco Firefighters Local 798"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.alanwong.com"
+            ]
+          }
+        ],
+        "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=45",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency. Statements are printed as submitted. Spelling and grammatical errors have not been corrected."
+      }
+    }
+  ]
+}

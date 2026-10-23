@@ -1,0 +1,740 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+    "jurisdiction": "us/ca/bay-area",
+    "kind": "measure",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "To prevent major service cuts to BART and other transit, avoid increased traffic, and reduce pollution by: Preserving BART, Caltrain, VTA, SamTrans, AC Transit, Muni, other transit for everyone, including workers, students, seniors, persons with disabilities; Supporting transit safety, cleanliness, affordability, reliability; Repairing targeted roads/potholes; Requiring financial transparency, oversight, accountability; shall the measure enacting a 0.5% (Alameda, Contra Costa, San Mateo, Santa Clara counties), and 1% (San Francisco) sales tax for 14 years generating approximately $980,000,000 annually, be adopted?"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This regional measure requires 50%+1 affirmative votes of all votes cast in the five Bay Area counties to pass."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "How “RTM” Got on the Ballot"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On May 26, 2026, the “Connect Bay Area Transit Initiative” was submitted to election officials in Alameda, Contra Costa, San Mateo, and Santa Clara counties, as well as the City and County of San Francisco. The petition included 306,288 unverified signatures. State law required 187,119 valid signatures to qualify the initiative for the ballot. This number is equal to 5% of the total number of registered voters within the District. A random check of the signatures submitted by the proponents of the initiative petition showed that an estimated 235,503 signatures were valid. Because this number was greater than the 205,831 signature threshold, which represents 110% of the required number of signatures, the petition was found to be sufficient. On July 1, 2026, the District Elections Official certified that the petition contained enough valid signatures to qualify for the November 3, 2026 ballot."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=54"
+  },
+  "analysis": {
+    "title": "Impartial Analysis of Regional Transit Measure",
+    "by": "Public Transit Revenue Measure District’s Legal Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure was placed on the ballot by voter initiative, signed by the requisite number of voters within the Public Transit Revenue Measure District (“District”)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The District was created by the Legislature through Senate Bill 63 (“SB 63”) in 2025 (Government Code sections 67700-67788), which was enacted to preserve and improve public transit service in the San Francisco Bay Area. The District comprises the counties of Alameda, Contra Costa, San Mateo, and Santa Clara, and the City and County of San Francisco, and is governed by the same board that governs the Metropolitan Transportation Commission (“MTC”). SB 63 authorizes District voters to approve a retail transactions and use tax (commonly referred to as a sales tax) for specified purposes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure would impose a tax of 0.5% in the counties of Alameda, Contra Costa, San Mateo, and Santa Clara and 1.0% in the City and County of San Francisco. The tax would be imposed and collected in largely the same manner as a state-imposed sales tax. The tax would be in effect for 14 years and would not count toward the statutory limit on combined local sales tax rates."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "It is estimated that the tax would raise approximately $980 million per year. After payment of defined costs, including election costs and administrative expenses, the District must transfer all remaining revenues to MTC and county transportation agencies for distribution and expenditure according to percentages set forth in the measure, which vary by county and recipient. Recipients include BART, Muni, Caltrain, AC Transit, Santa Clara Valley Transportation Authority, San Francisco Bay Ferry, Golden Gate Transit, smaller bus operators in Alameda and Contra Costa Counties, and county transportation agencies. Revenues would also support free and reduced-cost transit transfers, expansion of the Clipper START reduced-fare program, accessibility programs, mapping and wayfinding and transit priority projects and programs, and repavement projects for roads served by fixed-route transit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "While the tax would be imposed throughout the District, the allocation of revenue generated in each county, and the authorized uses of those funds, would vary. For example, 64.70% of all revenues generated in Alameda County would be allocated to BART for transit operations expenses. By contrast, 84.37% of all revenues generated in Santa Clara County would be allocated to the Santa Clara Valley Transportation Authority for public transit expenses and roadway repavement projects on roads served by fixed-route transit. Such repavement projects would be an authorized use of measure revenues in Alameda, Contra Costa, San Mateo, and Santa Clara counties, but would not be authorized in the City and County of San Francisco. Revenue allocation is set forth in Section 12 of the measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Tax revenues would be subject to accountability requirements in SB 63, which requires BART, Muni, AC Transit, and Caltrain to undergo financial efficiency reviews and adopt implementation plans and authorizes MTC to withhold funds from any of those operators for noncompliance. The measure would also require an independent oversight committee to review whether all revenues are distributed as required."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The tax would become effective if approved by a majority of those voting on the measure throughout the entire District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “yes” vote is a vote to impose the tax described above for 14 years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “no” vote is a vote against imposing the tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Kathleen Kane\nLegal Counsel for the Public Transit Revenue Measure District"
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=54"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco depends on public transit to keep the city livable, power our economy, and connect neighborhoods. Strong transit supports local businesses, reduces congestion, improves air quality, and ensures everyone can get where they need to go affordably – families, seniors, people with disabilities, students, and workers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Today, Bay Area transit faces a turning point. Without new funding from the Regional Transit Measure, we will experience significant and deep cuts to Muni, BART, and Caltrain – setting us back decades."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Without this measure, Muni could cut service by at least 30%, cancel at least 20 bus routes, end regular evening service, eliminate cable car service, and reduce fare discounts for vulnerable populations. BART could close 15 stations, including Colma, San Bruno, and South San Francisco, and reduce service by 70%. Caltrain could reduce service to one train per hour, and stop running entirely on weekends."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The consequences would impact everyone, making commuting harder, hurt seniors and working families, and slow the City’s economic recovery. Thousands of people would be forced every day onto our already congested roads, freeways, and bridges, worsening air pollution, making traffic start earlier and last longer, and resulting in most of us spending more time driving and less time home with our families."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Regional Transit Measure protects Muni service while preserving regional transit that brings workers, customers, students, and visitors into San Francisco every day."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Regional Transit Measure protects public transit while requiring local transportation investments – with strong accountability and oversight that requires large transit agencies to show cost savings to continue receiving dedicated operating funding. And it doesn’t tax rent, utilities, prescription medicines, or most groceries."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join us and Vote Yes on the Regional Transit Measure: www.ConnectBayArea.com"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "Senator Scott Wiener"
+        },
+        {
+          "name": "City Attorney David Chiu"
+        },
+        {
+          "name": "San Francisco Democratic Party"
+        },
+        {
+          "name": "League of Women Voters of the Bay Area"
+        },
+        {
+          "name": "Brandy Blau",
+          "title": "Zuckerberg San Francisco General Hospital Nurse*"
+        },
+        {
+          "name": "Lian Chang",
+          "title": "Transit Advocate"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=56",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Proponents claim Bay Area transit systems, including SFMTA, face imminent collapse. The budget deficit stems from a manufactured crisis."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proponents argue revenue is necessary to maintain operations under the Regional Transit Measure framework. However, handing transit agencies an unaccountable, guaranteed blank check removes any incentive for structural reform."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "During the pandemic SFMTA gave out pay raises to Staff. Has failed to align service levels with ridership demand. Which remains roughly 15% below pre-pandemic levels. And continue to avoid implementing structural change that would close the deficit. Yet not impact service."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "SFMTA hasn’t earned San Franciscans trust to be asking for more money at the ballot box. SFMTA Staff hasn’t been able to answer questions relating to the budget. If SFMTA can’t be transparent and clean up their own mess before asking for more money. Why should voters trust them with more money?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The consequences of the Regional Transit Measure is money taken out of San Francisco residents’ hard earned paychecks. At a time when the same people proposing this measure are crying foul about the high cost of living. Why should San Franciscans feel inclined to bail out SFMTA for mismanaging money and overspending?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Voting NO is not anti-transit; it is a demand for accountability. Demand Fixes Before Funding. Require SFMTA to balance their budgets. Without relying on San Franciscans to bail them out."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Regional Transit Measure."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Learn more at https://nonewtransittax.com/solutions/"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Griffin Lee",
+          "title": "Policy Lead at ConnectedSF"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=56",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "The new Regional Transit Measure (RTM) Tax makes life in San Francisco less affordable. Vote NO! San Francisco already is an expensive place to live.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Working class families are barely surviving.",
+            {
+              "strong": [
+                " The RTM Tax"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "would make it worse:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Prices of groceries, utilities, and rent keep rising."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Everybody would pay this tax every day, on most things you buy."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Necessities like prepared",
+                  {
+                    "strong": [
+                      " food, clothing,"
+                    ]
+                  },
+                  " pet food, and over-the-counter",
+                  {
+                    "strong": [
+                      " medicines"
+                    ]
+                  },
+                  " are taxed."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Seniors, students, the disabled, and low-income"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "neighbors are hurt the most."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "San Francisco’s Sales Tax is Too High already."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "RTM is the",
+                  {
+                    "strong": [
+                      " LARGEST Sales TAX INCREASE ever in"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "San Francisco’s history."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "RTM is a",
+                  {
+                    "strong": [
+                      " NEW TAX"
+                    ]
+                  },
+                  " that would raise San Francisco’s Sales Tax rate to",
+                  {
+                    "strong": [
+                      " 9.625%."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "You’d pay total Sales Tax around $1.00 for every $10.00 of prepared food and nearly $100 for a $1,000 smartphone.",
+                  {
+                    "em": [
+                      " That’s too much!"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "As local small businesses struggle, the RTM Tax could scare away customers and",
+                  {
+                    "strong": [
+                      " eliminate jobs."
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The new RTM Tax is Too Big"
+              ]
+            },
+            " ($14,000,000,000.00)",
+            {
+              "strong": [
+                " and"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "lasts Too Long"
+              ]
+            },
+            " (14 years):"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "RTM’s Tax would collect nearly a Billion Dollars every year",
+                  {
+                    "strong": [
+                      " until"
+                    ]
+                  },
+                  {
+                    "strong": [
+                      " 2041."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "San Francisco unfairly pays",
+                  {
+                    "em": [
+                      " double"
+                    ]
+                  },
+                  " the tax rate of other counties."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "You can’t trust BART, Muni, and Caltrain with more of"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "your tax money:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "You already pay BART, Muni, and Caltrain $100,000,000.00s of sales taxes, property taxes, and bridge tolls every year – on top of fares if you ride."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "They’re",
+                  {
+                    "strong": [
+                      " grossly mismanaged."
+                    ]
+                  },
+                  " BART and Muni gave pay/benefits above $250,000 to 539 and 338 employees respectively in 2024. RTM’s Tax picks",
+                  {
+                    "em": [
+                      " your"
+                    ]
+                  },
+                  " pocket to fill",
+                  {
+                    "em": [
+                      " theirs"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "BART claims it’s broke. But an",
+                  {
+                    "strong": [
+                      " unnecessary"
+                    ]
+                  },
+                  " $13,000,000,000.00 extension with 4 new stations is under construction."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "BART’s taxpayer subsidy per passenger increased ",
+                  {
+                    "em": [
+                      "729%"
+                    ]
+                  },
+                  " from 2019-2024."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "You shouldn’t give them more money until they stop their"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "wasteful spending."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote"
+              ]
+            },
+            {
+              "strong": [
+                " NO"
+              ]
+            },
+            {
+              "strong": [
+                " on the Regional Transit Measure!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "NoNewTransitTax.com"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Quentin L. Kopp,"
+        },
+        {
+          "name": "San Francisco Taxpayers Association"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=57",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "It’s undeniable – severe BART, Caltrain and MUNI service cuts would affect all of us in San Francisco – worsening traffic jams and straining transportation options and connections for hundreds of thousands of Bay Area residents."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please consider the FACTS and don’t be misled by half-truths and exaggerations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Don’t be misled – the Regional Transit Measure does NOT tax rent, utilities, prescription medicines, or most groceries."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Before supporting the Regional Transit Measure, business groups and local leaders ensured the measure included strong accountability and oversight – BART and MUNI must show cost savings to receive dedicated operating funding."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Based on detailed analysis, transit agencies have been crystal clear – Without this measure, Muni could face severe service reductions, cancel 20 bus routes, end regular evening service, and reduce fare discounts for vulnerable populations. BART could close 15 stations, including Colma, San Bruno, and South San Francisco, and reduce service by 70%. Caltrain could reduce service to one train per hour, and stop running entirely on weekends."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Without this measure, commutes would be longer and more unpredictable as people who depend on transit are forced onto already crowded city streets and highways."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Taxpayers across San Francisco support the Regional Transit Measure, along with stakeholders who don’t always agree – business, labor, environmental, and community groups."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "VOTE YES on RTM to preserve our Bay Area quality of life for future generations: www.ConnectBayArea.com"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mayor Daniel Lurie"
+        },
+        {
+          "name": "President of the Board of Supervisors Rafael Mandelman"
+        },
+        {
+          "name": "Supervisor Matt Dorsey"
+        },
+        {
+          "name": "Supervisor Jackie Fielder"
+        },
+        {
+          "name": "Supervisor Bilal Mahmood"
+        },
+        {
+          "name": "Supervisor Myrna Melgar"
+        },
+        {
+          "name": "Supervisor Danny Sauter"
+        },
+        {
+          "name": "Supervisor Stephen Sherrill"
+        },
+        {
+          "name": "Former City Controller Ben Rosenfield"
+        },
+        {
+          "name": "San Francisco Firefighters Local 798"
+        },
+        {
+          "name": "San Francisco Senior & Disability Action"
+        },
+        {
+          "name": "San Francisco Transit Riders"
+        },
+        {
+          "name": "Alice B. Toklas LGBTQ Democratic Club"
+        },
+        {
+          "name": "San Francisco Chamber of Commerce"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=57",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Legal text of Regional Measure RTM",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "mediaType": "application/pdf",
+      "page": 58,
+      "sha256": "9c6bcf0b49b5a04c1f03de363d5727458c673d8807ef2932c2912ed40d786136"
+    }
+  ]
+}

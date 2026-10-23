@@ -1,0 +1,2751 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+    "jurisdiction": "us/ca/sf",
+    "kind": "measure",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T10:10:15Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Shall the City permanently dedicate half of the transfer tax revenues collected when certain real estate with a value or sales price of more than $10,000,000 changes hands, which will continue to be taxed at rates of 5.5% to 6%, to be spent only on affordable housing, including social housing developments and housing assistance, and exempt certain sales from the dedicated portion of the tax, for an estimated annual revenue decrease of approximately $1 million?"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 50%+1 affirmative votes to pass."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "How “I” Got on the Ballot"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On July 23, 2026, the Department of Elections certified that the initiative petition calling for Proposition I to be placed on the ballot had a sufficient number of valid signatures to qualify the measure for the ballot."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "10,644 signatures were required to place an initiative ordinance on the ballot. This number is equal to 2% of the registered voters at the time a “Notice of Intent to Circulate Petition” was published. A random check of the signatures submitted by the proponents of the initiative petition prior to the July 6, 2026, submission deadline showed that the total number of valid signatures was greater than the number required."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=134"
+  },
+  "summary": {
+    "title": "Digest",
+    "by": "Ballot Simplification Council",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Way It Is Now:"
+            ]
+          },
+          " The City collects a transfer tax when most real estate changes hands. The tax rates depend on the property’s sales price or value and the two highest tax rates are:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "5.5% for properties between $10,000,000 and under $25,000,000, and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "6% for properties at $25,000,000 or more."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Some real estate transfers are exempt from the tax or are subject to reduced rates."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Revenues generated from the transfer tax may be spent for any governmental purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors (Board) may amend, reduce, suspend, or repeal the transfer tax without voter approval. Voters must approve any increase of the transfer tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "State law limits the total revenue, including tax revenue, the City may spend each year. The voters may approve increases to this limit for up to four years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The Proposal:"
+            ]
+          },
+          " Proposition I would dedicate half of the transfer tax revenues when certain real estate with a value or sales price of more than $10,000,000 changes hands, to be spent only on affordable housing, including social housing developments and housing assistance. Specifically, the measure would:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Transfer Tax"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "For properties with a sales price or value between $10,000,000 and under $25,000,000:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Reduce the current transfer tax from 5.5% to 2.75%"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Impose a new transfer tax of 2.75%"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "For properties with a sales price or value at $25,000,000 or more:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Reduce the transfer tax from 6% to 3%"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Impose a new transfer tax of 3%"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure will not increase the tax rate on the transfer of any property above what is charged today."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The same exemptions and tax reductions from the current transfer tax would still apply to the new transfer tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The new transfer tax would also exempt the first sale of certain multifamily real estate if it is sold within 5 years of completion of new residential units."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Tax Revenue Spending"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City could spend revenue from the new transfer tax only on:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "At least 60% for affordable housing production, with at least half to social housing developments;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "At least 25% towards the acquisition or rehabilitation of affordable housing, with at least 60% to acquisition of existing housing units; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "At least 10% to tenant stabilization/homeless prevention programs, with at least half to eviction defense and prevention;"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board could only change the transfer tax consistent with the purpose of the tax. All other changes would require voter approval."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition I would approve an unlimited number of new affordable housing units for low-income households funded by revenue from the new transfer tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition I would require the City to submit annual reports to the Board and Mayor on the use of the new tax revenue."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition I would increase the City’s spending limit for four years."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=134"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “YES” Vote Means:"
+              ]
+            },
+            " If you vote “yes,” you want to dedicate half of the transfer tax revenues when certain real estate with a value or sales price of more than $10,000,000 changes hands, to be spent only on affordable housing, including social housing developments and housing assistance."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=135"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A “NO” Vote Means:"
+              ]
+            },
+            " If you vote “no,” you do not want to make these changes."
+          ]
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=135"
+    }
+  },
+  "analysis": {
+    "title": "Controller’s Statement on “I”",
+    "by": "City Controller",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City Controller Greg Wagner has issued the following statement on the fiscal impact of Proposition I:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Should the proposed ordinance be approved by the voters, in my opinion, it would represent a moderate annual decrease of approximately $1 million to the City’s overall revenues starting in Fiscal Year (FY) 2027-28. However, the ordinance would also shift $120 million per year of existing revenue from the more flexible General Fund to a special revenue fund dedicated to affordable housing programming and support. Because the ordinance would remove existing revenue from the General Fund, it would increase the City’s projected General Fund deficit by $120 million annually."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The ordinance would lower the City’s General Fund Real Property Transfer Tax rates established by Proposition I in November 2020 and subsequently establish a new Real Property Transfer Tax at near identical rates, which could only be used for specific affordable housing programs. The ordinance would reduce the Real Property Transfer Tax rate on transfers of properties with consideration or value from $10 million to under $25 million from 5.5% to 2.75%, and on transfers of properties with consideration or value of $25 million or more from 6% to 3%. This change would result in a reduction in revenue of $120 million from the City’s General Fund, which the City can spend on any government purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "At the same time, the ordinance would establish a new Real Property Transfer Tax called the House SF Tax and collect the revenue in a special fund, the House SF Fund, which the City could only spend on specific affordable housing programs. The House SF Tax would tax transfers of properties with consideration or value between $10 million and $25 million at a rate of 2.75%, and transfers of properties with consideration or value of $25 million or more at 3%. The ordinance also includes a new exemption from the House SF Tax for certain recently constructed multi-family housing properties, reducing the collected revenue by approximately $1 million annually, so the proposed House SF Fund would generate approximately $119 million annually."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Because the ordinance would replace existing General Fund taxes with a new dedicated tax, it would limit the City’s fiscal flexibility and increase the City’s General Fund deficit, most recently projected at $741.7 million and $1.1 billion in FY 2028-29 and FY 2029-30, respectively."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The House SF special revenue fund and tax would represent the City’s 24th voter-mandated funding requirement that limits the City’s budget flexibility. For context, voter-mandated funding requirements currently total approximately $2 billion, or 30%, of the approximately $7 billion General Fund sources."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed ordinance requires the City to appropriate the House SF Fund in the following ways: (1) no less than 60% must be spent on affordable housing production programs, (2) no less than 25% must be spent on preservation or acquisition programs, (3) no less than 10% must be spent on tenant stabilization or homelessness prevention programs, and (4) no more than 5% may be spent on the departmental administration of the Fund and administration of the House SF Tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed ordinance would allow the Board of Supervisors to amend the Real Property Transfer Tax without voter approval only to exempt rent-restricted affordable housing or to make other changes consistent with the stated purposes of the House SF Tax. However, it would remove the existing authority of the Board of Supervisors to reduce, suspend, or repeal the Real Property Transfer Tax without voter approval. The proposed ordinance would also require the Controller’s Office to perform an annual audit on the House SF Fund and file it with the Board of Supervisors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Note that the proposed measure would change the duties of the Controller’s Office, which has prepared this statement."
+        ]
+      }
+    ],
+    "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=135"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "YES ON I: KEEP THE PROMISE. AFFORDABLE HOUSING WITH NO NEW TAXES.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s housing crisis is pushing families, seniors, teachers, nurses, artists, immigrants, and young people out of the city they love."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In 2020, voters approved a tax on the sale of properties worth more than $10 million, specifically so that money could fund affordable housing and rent relief."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "It worked until politicians ignored the will of voters."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This tax on San Francisco’s wealthiest property owners provided emergency rent relief to more than 10,000 households and helped preserve and build hundreds of affordable homes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But it wasn’t guaranteed. In the",
+            {
+              "strong": [
+                " past two years, none of"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "this revenue has gone to affordable housing"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I will finally keep the promise and implement the measure voters approved."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Doesn’t raise taxes"
+                    ]
+                  },
+                  " -- uses only revenue from a tax voters already approved."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Cuts the transfer tax for new housing construction,"
+                    ]
+                  },
+                  " so we keep building the homes we need."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Independent oversight"
+                    ]
+                  },
+                  " -- mandatory annual audits by the City Controller, filed publicly."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "The only measure on the ballot"
+                    ]
+                  },
+                  " that guarantees both innovative social housing and ongoing rental assistance."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This November, San Franciscans have a historic opportunity: two measures on the ballot that guarantee affordable housing funding without raising anyone’s taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Prop I"
+              ]
+            },
+            " to guarantee this funding finally does what voters intended."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Read more: YesonISF.com"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Affordable Housing Alliance"
+        },
+        {
+          "name": "San Francisco Tenants Union"
+        },
+        {
+          "name": "Small Business Forward"
+        },
+        {
+          "name": "United Educators of San Francisco"
+        },
+        {
+          "name": "Service Employees International Union SEIU 1021"
+        },
+        {
+          "name": "Council of Community Housing Coalitions"
+        },
+        {
+          "name": "Faith in Action Bay Area"
+        },
+        {
+          "name": "Senior and Disability Action"
+        },
+        {
+          "name": "Anti Displacement Coalition"
+        },
+        {
+          "name": "Community Tenants Association"
+        },
+        {
+          "name": "Housing Rights Committee"
+        },
+        {
+          "name": "Tenants Together"
+        },
+        {
+          "name": "Democratic Socialist of America - San Francisco"
+        },
+        {
+          "name": "San Franciscans for Social Housing"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=136",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "title": "DON’T BE FOOLED: PROP I CREATES A NONPROFIT SLUSH FUND AND DOESN’T GUARANTEE NEW HOUSING",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I’s proponents say this measure “keeps the promise” of affordable housing without raising taxes. That is not what Prop I does."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I would lock roughly $120 million a year away from the General Fund without requiring that a single new unit of housing be built."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "30% must go to “social housing.” Another 25% can go to nonprofits to buy existing apartments. Another 10% can fund nonprofit programs that do not build new homes. Five percent can go to administration."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That means at least 70% of the money does not have to build housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Audits do not fix Prop I’s fundamental flaw. It can be perfectly audited and still spend most of its money without building a single new home. A transfer-tax cut does not change that. How much new housing does Prop I require? None."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The budget damage goes further. Pulling $120 million out of the General Fund shrinks funding baselines, including Muni’s. Amid a Muni funding crisis, Prop I would drastically cut transit funding while reducing resources for firefighters, public safety, clean streets, and other essential services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The San Francisco Building and Construction Trades Council represents workers who actually build housing. We support affordable housing, not a measure that promises housing without guaranteeing new homes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "San Francisco Building and Construction Trades Council"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=136",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on the Affordable Housing Guarantee Act."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "While affordable housing is an important priority, locking transfer tax revenues into rigid set-asides is fiscal mismanagement that threatens San Francisco’s financial stability."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "1. Creates Dangerous Budget Earmarks\nSan Francisco’s General Fund pays for vital everyday services—including police officers, firefighters, 911 dispatchers, street cleaning, and public parks. Carving out transfer tax revenues into a restricted fund starves the General Fund of essential dollars, forcing severe service cuts across the city during lean budget years."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "2. Relies on Highly Volatile Revenue\nReal estate transfer taxes are notoriously unpredictable. Basing housing commitments on real estate sales creates an unstable funding cycle that collapses whenever property values or commercial transactions drop. Managing long-term programs on volatile tax revenues is fiscally reckless."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "3. Deepens Downtown Economic Stagnation\nSan Francisco’s commercial real estate market is already struggling with historically high vacancy rates. Increasing burden or restricting tax policy on high-value properties discourages investment, depresses property values, and weakens our overall tax base—ultimately reducing total revenue available for public services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "4. Reduces Flexibility and Oversight\nCity leaders need the flexibility to adapt to economic downturns and emerging local emergencies. Tying revenue up in permanent structural mandates removes budget oversight and prevents the City from reallocating resources where they are needed most."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Protect core city services and financial stability."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Measure I."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Judge Quentin L Kopp"
+        },
+        {
+          "name": "San Francisco Taxpayers Association"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=137",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "title": "YES ON I — AFFORDABLE HOUSING. NO NEW TAXES.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Opponents call affordable housing “an important priority.” They’re right. But they oppose Prop I, which builds affordable housing",
+            {
+              "em": [
+                " without raising taxes"
+              ]
+            },
+            ". That’s plain wrong."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s state-mandated housing plan calls for 46,000 affordable homes to be built by 2031. Prop I is a step forward. It will create thousands of affordable homes without costing taxpayers a dime."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I keeps a promise made to voters in 2020 which city hall politicians have ignored. It requires the city to use an existing tax on sales of properties valued at ten million dollars or more to fund affordable housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For the first few years, politicians kept the promise. But over the last two years, not one dollar of this revenue has gone to housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I is accountable:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Every dollar in Prop I will be managed"
+                    ]
+                  },
+                  " by the Mayor’s Office of Housing"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Mandatory annual audits"
+                    ]
+                  },
+                  " will be conducted by the City Controller"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Taxes on new housing are reduced to encourage"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "growth"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "And it won’t raise taxes!"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our housing crisis demands innovative solutions, not tired opposition from people who have opposed affordable housing for decades. Join us and Vote Yes on I."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Council of Community Housing Organizations"
+        },
+        {
+          "name": "San Francisco Tenants Union"
+        },
+        {
+          "name": "Small Business Forward"
+        },
+        {
+          "name": "Affordable Housing Alliance"
+        },
+        {
+          "name": "Service Employees International Union SEIU 1021"
+        },
+        {
+          "name": "Senior and Disability Action"
+        },
+        {
+          "name": "SF Anti Displacement Coalition"
+        },
+        {
+          "name": "Housing Rights Committee"
+        },
+        {
+          "name": "Democratic Socialists of America - San Francisco"
+        },
+        {
+          "name": "San Franciscans for Social Housing"
+        }
+      ],
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=137",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "Pissed Off Voters Agree: Vote HELL YES! on Prop I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Make real estate investors pay their fair share so we can make San Francisco more affordable!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Hold up,",
+            {
+              "strong": [
+                " didn’t we already vote on this"
+              ]
+            },
+            " in 2020?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yup. And we’re pissed off at City Hall for ignoring the will of the voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco voters originally passed Prop I in 2020, which taxed high-dollar real estate sales: 5% for properties over $10 million, and 6% for properties over $25 million. And",
+            {
+              "strong": [
+                " Prop I won by a landslide"
+              ]
+            },
+            ", raising nearly $500 million from luxury real estate sales since it passed in 2020."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Only a quarter of that funding has actually been dedicated to preserving and developing affordable housing. City Hall has ignored the will of the voters and withheld the remaining funding. NOT cool!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "So now Prop I is back to make sure that this time City Hall can’t ignore the voters or our five-alarm affordability crisis! Voting yes on Prop I guarantees City Hall must",
+            {
+              "strong": [
+                " spend that"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "luxury real estate tax money"
+              ]
+            },
+            " on affordable housing, as it was intended."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Do you agree that big-money real estate sales should be taxed to fund affordable housing?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote HELL YES! on Prop I"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Read our voter guide: https://theLeagueSF.org"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "San Francisco League of Pissed Off Voters"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Francisco League of Pissed Off Voters The three largest contributors to the true source recipient committee: 1. Christin Evans, 2. Jonah Horotake, 3. Rachel Wood.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=138",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "RENTS ARE UP 22%. FRONT-LINE HOUSING GROUPS AGREE: YES ON I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "As organizations working on the front lines of\nSan Francisco’s housing crisis, we meet seniors choosing between rent and medicine, families doubling up because they can’t afford an apartment alone, young people wondering if they’ll ever be able to build a future here, and workers who keep our city running but can’t afford to live in it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We are living through a housing emergency.",
+            {
+              "strong": [
+                " This year"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "alone, median rent for a one-bedroom hit an all-time"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "high of $4,060 -- up 21.9%, the steepest jump of any"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "major U.S. city, according to Zumper."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We support Yes on I because it funds what works: Building permanently affordable homes, providing rental assistance before families lose their housing, and creating new housing that remains affordable for generations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I makes sure this existing revenue is permanently dedicated to affordable housing, innovative social housing for people across a range of incomes, and rent relief.",
+            {
+              "strong": [
+                " It"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "does not raise taxes,"
+              ]
+            },
+            " and it",
+            {
+              "strong": [
+                " cuts the transfer tax in half"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "for new housing construction"
+              ]
+            },
+            " to support the production of the homes our city needs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Prop I"
+              ]
+            },
+            " and help make San Francisco a city where everyone has the opportunity to thrive."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Housing Rights Committee"
+        },
+        {
+          "name": "Community Tenants Association"
+        },
+        {
+          "name": "SF Anti-Displacement Coalition"
+        },
+        {
+          "name": "Build Affordable Faster"
+        },
+        {
+          "name": "Council of Community Housing Organizations"
+        },
+        {
+          "name": "Tenants Together"
+        },
+        {
+          "name": "Tenants and Owners Development Corporation"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=138",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "NEIGHBORHOOD HOMEOWNERS: YES ON I IS A FAIR AND SENSIBLE HOUSING SOLUTION",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Voting Yes on I is a simple choice: funding for affordable housing and rent relief, with no new taxes for anyone --including homeowners."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I dedicates an existing tax on luxury property sales over $10 million to affordable housing and rent relief. Rental assistance allows struggling tenants to get back on their feet without small landlords footing the bill."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "No taxes for homeowners"
+                    ]
+                  },
+                  " -- this measure applies only to sellers of $10 million-plus properties."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Independent oversight"
+                    ]
+                  },
+                  " -- mandatory annual audits by the City Controller, with public reporting to the Board of Supervisors."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "No funding for administrators’ salaries or pensions"
+                    ]
+                  },
+                  " --money for housing and rent relief, not bureaucracy."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Proposition I to build strong, stable"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "neighborhoods at no cost to homeowners."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Erica Zweig",
+          "title": "Sunset Small Landlord and Homeowner*"
+        },
+        {
+          "name": "Jennifer Kroot",
+          "title": "Panhandle Homeowner*"
+        },
+        {
+          "name": "Jason Prado",
+          "title": "Mission Homeowner*"
+        },
+        {
+          "name": "Scott Feeney",
+          "title": "Mission Homeowner*"
+        },
+        {
+          "name": "Brian Roberts",
+          "title": "Mission Homeowner*"
+        },
+        {
+          "name": "Mario Guerrieri",
+          "title": "Mission Homeowner*"
+        },
+        {
+          "name": "Heather Davies",
+          "title": "Sunset Homeowner*"
+        },
+        {
+          "name": "Francisco Martinez",
+          "title": "Twin Peaks Homeowner*"
+        },
+        {
+          "name": "Jeff May",
+          "title": "Ingleside Homeowner*"
+        },
+        {
+          "name": "Heather Davies",
+          "title": "Sunset Homeowner*"
+        },
+        {
+          "name": "Heather McFarlane",
+          "title": "Pac Heights Homeowner*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=138",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "Homes for workers who keep San Francisco running. Vote Yes on I.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "SEIU 1021 represents workers in our schools, hospitals, courts, and other essential services. Every day, we care for San Francisco’s children, educate students, provide healthcare, and support families. But too many of our workers who keep San Francisco running cannot afford to live here."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure I helps ensure that workers can live where they work by dedicating funding to housing without raising taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco should be a city where the people who serve our communities can afford to be part of them."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on I to invest in housing for the workers."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "SEIU 1021"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=139",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "TO FUEL ECONOMIC RECOVERY, SMALL BUSINESS OWNERS SUPPORT YES ON I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Small business owners are at the heart of San Francisco’s economy. Money spent at location businesses circulates through the local economy 2-4 times more than spending at chain stores."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But today,",
+            {
+              "strong": [
+                " San Francisco ranks as the worst major city"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "for purchasing power."
+              ]
+            },
+            " When our hard-earned dollars don’t stretch as far, small businesses are hit hardest."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I ensures San Francisco workers can afford housing while continuing to support our cherished small businesses."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "As small business owners, we also appreciate that",
+            {
+              "strong": [
+                " Yes on I"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "includes strict accountability, including independent"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "annual audits by the City Controller ensuring funds"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "are spent as promised."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on I!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Small Business Forward"
+        },
+        {
+          "name": "Christin Evans",
+          "title": "Owner, Booksmith and Alembic*"
+        },
+        {
+          "name": "Nicholas Parker",
+          "title": "Owner, Mercury Cafe*"
+        },
+        {
+          "name": "Lynne Angel",
+          "title": "Owner, El Rio*"
+        },
+        {
+          "name": "Diane Ramirez",
+          "title": "Owner, Bangin Hair Salon*"
+        },
+        {
+          "name": "Jassil Ahluwalia",
+          "title": "Owner, The Laundry Corner*"
+        },
+        {
+          "name": "Yolanda Porrata",
+          "title": "Owner, Vera Skin Studio*"
+        },
+        {
+          "name": "Isabella Hill",
+          "title": "Co-owner, Happy House*"
+        },
+        {
+          "name": "Sean Mabry",
+          "title": "Co-owner, Mothership*"
+        },
+        {
+          "name": "Justin Dolezal",
+          "title": "Co-owner, Bar Part Time*"
+        },
+        {
+          "name": "Andrew Nelson",
+          "title": "Co-owner, Golden Sardine*"
+        },
+        {
+          "name": "Julian Ensworth",
+          "title": "Managing Partner, Horsies Bar*"
+        },
+        {
+          "name": "Peter Quantaroli",
+          "title": "Owner, Sam’s Grill*"
+        },
+        {
+          "name": "Colleen Conedy",
+          "title": "Roastery Operations Manager, Ritual Coffee Roasters*"
+        },
+        {
+          "name": "Sensitive Vintage"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=139",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "ASIAN AMERICAN LEADERS SUPPORT YES ON I TO PROTECT FUTURE GENERATIONS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I guarantees affordable homes are built in\nSan Francisco to sustain communities where families have access to quality jobs and a world class education, and where children can remain in the city they grew up in and seniors can age in place with dignity -- all",
+            {
+              "strong": [
+                " without raising"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "taxes on homeowners."
+              ]
+            },
+            " It’s a smart investment in strong communities at no cost to us."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on I."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Chinese for Affirmative Action"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Raquel Redondiez, SOMA Pilipinas*"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Chinese Progressive Association"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "SF Rising Action Fund"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Former Board President Norman Yee*"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Former Supervisor Gordon Mar*"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Former Supervisor Sandra Lee Fewer*"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Former Supervisor Eric Mar*"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Former Supervisor Jane Kim*"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Anni Chung, CEO Self-Help for the Elderly*"
+              ]
+            },
+            "\n",
+            {
+              "em": [
+                "Michael Nguyen, DCCC Member*"
+              ]
+            },
+            "\n*For identification purposes only; author is signing as an individual and not on behalf of an organization."
+          ]
+        }
+      ],
+      "signers": [],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=139",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "BLACK LEADERS SUPPORT YES ON I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco’s strength is its diversity, but decades of displacement have taken a devastating toll on our community.",
+            {
+              "strong": [
+                " Our Black population has declined from"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "13.5% in the 1970s to just 5% today."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We continue to bear a disproportionate share of the housing crisis. It’s urgent that we repair the harm\nof decades of redevelopment, displacement, and discriminatory housing policies that pushed communities of color out of San Francisco."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "As African American leaders, we stand united in our support for Proposition I so working and middle class families can put down roots and continue to contribute to San Francisco."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Coleman Advocates"
+        },
+        {
+          "name": "Supervisor Shamann Walton*"
+        },
+        {
+          "name": "DJ Brookter",
+          "title": "former CEO of Young Community Developers*"
+        },
+        {
+          "name": "Franzo W. King",
+          "title": "Archbishop, St. John Coltrane African Orthodox Church*"
+        },
+        {
+          "name": "Dontaye Ball"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=140",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "YES ON I: LGBTQ LEADERS KNOW EVERYONE DESERVES A PLACE TO BELONG",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "As LGBTQ rights are threatened across the country, it is crucial that San Francisco remains a refuge for people escaping discrimination."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Currently, 38% of homeless people in San Francisco"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "identify as LGBTQ."
+              ]
+            },
+            " We must ensure that LGBTQ San Franciscans are not priced out of their neighborhoods and support networks."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I will generate more affordable homes for low and middle income residents, strengthen housing stability, and invest in a future where LGBTQ people, families, and future generations can thrive."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Castro LGBTQ Cultural District"
+        },
+        {
+          "name": "Former Assemblyman Tom Ammiano*"
+        },
+        {
+          "name": "Gary McCoy",
+          "title": "Former Political Director for Nancy Pelosi*"
+        },
+        {
+          "name": "DCCC member Peter Gallotta*"
+        },
+        {
+          "name": "Supervisor Jackie Fielder*"
+        },
+        {
+          "name": "BART Board Director Edward Wright*"
+        },
+        {
+          "name": "Stephen Torres",
+          "title": "LGBTQ activist*"
+        },
+        {
+          "name": "Michael Nguyen",
+          "title": "DCCC Member*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=140",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "LATINO LEADERS SAY YES ON I BECAUSE WORKING FAMILIES BELONG HERE",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The Latino community keeps San Francisco’s economy running -- and working families belong here."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "While",
+            {
+              "strong": [
+                " Latinos make up just 15% of the city’s population,"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "they represent more than 30% of its workforce"
+              ]
+            },
+            ", filling essential roles in healthcare, hospitality, construction, food service, and other industries that our city depends on every day."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yet far too many Latino families are being priced out.",
+            {
+              "strong": [
+                " More"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "than half of Latino households spend over one-third"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "of their income on rent,"
+              ]
+            },
+            " leaving them rent-burdened and struggling to make ends meet."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I will build more affordable homes for low- and middle-income San Franciscans, giving working families the opportunity to put down roots, build stability, and keep contributing to the communities they call home."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Faith in Action Bay Area"
+        },
+        {
+          "name": "La Raza Community Resource Center"
+        },
+        {
+          "name": "PODER"
+        },
+        {
+          "name": "Coleman Advocates"
+        },
+        {
+          "name": "Former DCCC member Anabel Ibanez*"
+        },
+        {
+          "name": "Former Supervisor David Campos*"
+        },
+        {
+          "name": "Former Supervisor John Avalos*"
+        },
+        {
+          "name": "Stephen Torres",
+          "title": "LGBTQ+ Activist*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=140",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "YES ON I: HOMELESSNESS PREVENTION WORKS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "There is nothing more effective in preventing homelessness than to keep a person in their home before they lose it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A study of the prior rental assistance program (ERAP)"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "found that struggling renters who received aid were"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "40% less likely to experience homelessness."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I ensures we prevent homelessness before it starts and give our most vulnerable San Franciscans a chance to get back on their feet."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Coalition on Homelessness"
+        },
+        {
+          "name": "Glide"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=141",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "YES ON I: SUPPORTED BY ENVIRONMENTAL LEADERS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A green future starts with building housing so\nSan Franciscans can live where they work."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Skyrocketing rents mean that many workers are pushed out of San Francisco and must commute long distances to work, worsening the climate crisis.",
+            {
+              "strong": [
+                " Emissions from cars"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "are responsible for 46% of San Francisco’s carbon"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "footprint."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I ensures we can build healthy, sustainable communities to protect future generations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Prop I!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "PODER"
+        },
+        {
+          "name": "SF Climate Emergency"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=141",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "YES, YES ON HOUSING: LET’S BUILD THE HOUSING WE NEED",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "This year, San Francisco has an opportunity to pass two historic affordable housing measures that will make a tremendous difference for our city -- without raising a penny of taxes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yes on I is vital to achieving our housing goals:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Provides funding for housing without raising taxes"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Reduces the transfer tax currently paid by large new"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "housing projects,"
+              ]
+            },
+            " encouraging housing growth at all income levels"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Establishes innovative social housing"
+                    ]
+                  },
+                  " which would help address the housing needs of middle income residents and gives people from different walks of life an opportunity to afford homes and build community together"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Helps San Francisco meet our state-mandated"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "affordable housing goals,"
+              ]
+            },
+            " avoiding state penalties"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We urge you to vote YES, YES ON HOUSING.\nVote YES on I."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "San Franciscans for Social Housing"
+        },
+        {
+          "name": "Dylan Hirsch-Shell",
+          "title": "Co-Founder*"
+        },
+        {
+          "name": "Honest Charley Bodkin",
+          "title": "Co-Founder*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: Fair Housing, Yes on I. The three largest contributors to the true source recipient committee: 1. Dylan Hirsch‑Shell, 2. Charles F. Good Trust, 3. Dean Preston.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=141",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN SAN FRANCISCO FIREFIGHTERS IN OPPOSING PROP I’S DIVERSION OF GENERAL FUND SERVICES",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco should not put essential emergency services under greater budget pressure for a measure that does not guarantee new affordable housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I would pull roughly $120 million every year from the General Fund and place it into a dedicated non-profit slush fund."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Those are dollars the City currently has flexibility to use for firefighters, paramedics, emergency response, clean streets, public safety, transit, and other essential services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Firefighters know what happens when City budgets tighten: departments are asked to do more with less while staffing, equipment, and emergency-response systems face greater pressure."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Do not create another budget hole without actually guaranteeing new affordable housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Protect essential services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "San Francisco Firefighters Local 798"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=141",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT KEEPS SAN FRANCISCO’S BUILDINGS CLEAN AND RUNNING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Working people deserve affordable homes and a City government that can still provide the services they rely on."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I would provide neither. It would pull roughly $120 million a year from the General Fund without requiring a single new unit of housing to be built."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "SEIU Local 87 janitors keep buildings clean and safe. Our members feel San Francisco’s housing costs every day. They also rely on emergency response, public safety, clean streets, transit, and other basic City services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Working families should not have to choose between affordable housing and essential services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I guarantees money to a handful of programs. It does not guarantee the new affordable housing and city services we need."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "SEIU Local 87 Janitors"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=142",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "SPRINKLER FITTERS LOCAL 483 JOIN THE UNION THAT ACTUALLY MAKES AFFORDABLE HOUSING SAFE IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I promises affordable housing, but it does not require the City to actually build it. That’s because it misleads voters and takes money out of the general fund at a key"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I guarantees a funding stream for non-profits. It does not guarantee new homes. Housing dollars should build homes, not simply create another permanent program."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "James Clark",
+          "title": "Sprinkler Fitters Local 483*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=142",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT INSTALLS AND MAINTAINS THE ELEVATORS IN SAN FRANCISCO’S BUILDINGS IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A housing program should be judged by the homes it delivers, not simply by the dollars it spends."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I would take roughly $120 million a year out of the General Fund without requiring that a single new unit of housing be built."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco should invest in affordable housing that gets constructed, completed, and occupied. Prop I guarantees a permanent stream of spending. It does not guarantee those results."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "International Union of Elevator Constructors Local 8"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=142",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT ACTUALLY BUILDS THE STRUCTURES FOR AFFORDABLE HOUSING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I is being sold as an affordable housing measure, but it would drain roughly $120 million a year from the General Fund without guaranteeing new affordable housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I skips the most important requirement: building housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We support affordable housing investments that create homes, good union jobs, and measurable results. Prop I does none of that."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Iron Workers Local 376"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=142",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE CARPENTERS WHO ACTUALLY BUILD AFFORDABLE HOUSING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I would take about $120 million every year out of the General Fund and lock it into a new spending program."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But only a fraction of that money is actually required to support new housing construction."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We believe San Francisco should invest aggressively in affordable housing, especially projects that put people to work and add real homes to our neighborhoods."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I gets that backwards. It guarantees the money will be spent, but it does not guarantee that new housing will be built."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Timothy Reyff",
+          "title": "North Coast States Carpenters*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=143",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT ACTUALLY OPERATES THE EQUIPMENT TO BUILD AFFORDABLE HOUSING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Housing policy should be measured by what actually gets built, not by how much money gets moved around."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco should invest in programs that move from plans to construction, create good union jobs, and deliver measurable results."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I does none of that."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Operating Engineers Local 3"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=143",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT ACTUALLY KEEPS SAN FRANCISCO BUILDINGS RUNNING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I is a deceptively written measure that claims to be an affordable housing measure but really blows a hole in our city’s budget with little accountability."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I creates a permanent funding commitment for a handful of nonprofits without a permanent requirement to actually produce affordable housing. That’s not good policy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Abel Fuaau",
+          "title": "Stationary Engineers Local 39*"
+        }
+      ],
+      "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=143",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT ACTUALLY PIPES AFFORDABLE HOUSING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I is being sold as a housing solution, but it guarantees spending without guaranteeing a single new home."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I would pull roughly $120 million a year from the General Fund without requiring a single new unit of housing to be built."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The fine print of Prop I shows how misguided this measure is. 30% percent must go to “social housing.” Another 25% can go to nonprofits to acquire existing apartments. Another 10% can fund nonprofit programs that do not build new homes. 5% percent can go to administration and more red tape."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That means at least 70% will not go to programs that actually build new affordable housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We support major investments in affordable housing and good union jobs. But taxpayers deserve to know housing dollars will actually result in housing production."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Build housing, not another bureaucracy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "UA Local 38 Plumbers"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=143",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT ACTUALLY WIRES AFFORDABLE HOUSING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "You cannot solve an affordable housing shortage without putting skilled workers to work building homes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I would pull roughly $120 million a year from the General Fund without requiring that skilled works have the guarantee of helping get new affordable housing built."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A measure advertised as a housing solution should answer one simple question: how many new affordable homes must it build?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I cannot guarantee even one. Housing dollars should build housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "International Brotherhood of Electrical Workers Local 6"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=144",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT ACTUALLY THAT ACTUALLY GETS AFFORDABLE HOUSING BUILT IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I would take roughly $120 million a year out of the General Fund while giving voters no guarantee that money will produce new housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I guarantees money for non-profits, but not housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Working families deserve affordable homes and a City government capable of providing essential services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I. Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Teamsters Local 350"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=144",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "TEAMSTERS LOCAL 665 JOIN THE UNION THAT ACTUALLY GETS AFFORDABLE HOUSING BUILT IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Prop I would take roughly $120 million a year out of the General Fund while giving voters no guarantee that money will produce new housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I guarantees money for non-profits, but not housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Working families deserve affordable homes and a City government capable of providing essential services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Teamsters Local 665"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=144",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "title": "JOIN THE UNION THAT ACTUALLY BUILDS AFFORDABLE HOUSING IN OPPOSING PROP I",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "San Francisco should be putting people to work building housing, not creating another permanent funding stream with no construction requirement."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Affordable housing investment should create good union jobs, and measurable results. Prop I doesn’t do that."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Prop I."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Laborers Local 261"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: No on I, SF For Accountability in Housing, Sponsored by the San Francisco Building & Construction Trades Council & the San Francisco Chamber of Commerce. The sole contributor to the true source recipient committee: Electrical Industry Services Bureau, Inc.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=144",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on I: Insiders, Inefficiency and IOUs"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "San Francisco has a structural budget problem. Proposition I makes it worse."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "City Hall keeps using the same playbook: take taxpayer dollars, lock them into specials slush funds, create permanent spending commitments - and leave taxpayers with the bill."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This ballot is chockfull of flawed measures - The foreclosure tax. The Housing Trust Fund. Now Proposition I."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Different names. Same City Hall shell game."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This time, the sales pitch is “affordable housing and “social housing”. Who could be against that?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That’s the trick. Follow the money. Prop I continues and expands a slush fund for non-profit programs with no accountability, no oversight and no guarantee that it will build housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I guarantees a stream of public money for nonprofits and programs without guaranteeing taxpayers what they’ll get for it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "No maximum taxpayer cost per unit.\nNo meaningful construction-cost ceiling.\nNo minimum number of units that must be delivered.\nNo requirement to choose the most cost-effective solution."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That’s a great deal for the developers, consultants, nonprofits and other interests feeding at the affordable-housing trough."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It’s a lousy deal for taxpayers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Prop I even allows City Hall to borrow against this revenue and use it to repay debt. Earmark the money. Spend it. Borrow against it. Then come back to taxpayers when the General Fund runs short."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That’s not fiscal responsibility. That’s a racket taxpayers can’t afford. San Francisco cannot tax, earmark and borrow its way out of a structural deficit."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Before City Hall locks away another stream of taxpayer dollars, demand results from the billions it already spends."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Taxpayers are not City Hall’s ATM! Stop the spending slush fund racket. Stop the budget shell game."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Proposition I!"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Quentin L Kopp"
+        },
+        {
+          "name": "San Francisco Taxpayers Association"
+        }
+      ],
+      "paid": true,
+      "funding": "The true source(s) of funds for the printing fee of this argument: San Francisco Taxpayers Association. The three largest contributors to the true source recipient committee: 1. Quentin L Kopp, 2. Peter Fatooh, 3. Gina Tse‑Louie.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=144",
+      "disclaimer": "Arguments are the opinions of the authors and have not been checked for accuracy by any official agency. Arguments are printed as submitted. Spelling and grammatical errors have not been corrected."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Legal text of Proposition I",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "mediaType": "application/pdf",
+      "page": 235,
+      "sha256": "9c6bcf0b49b5a04c1f03de363d5727458c673d8807ef2932c2912ed40d786136"
+    }
+  ]
+}
