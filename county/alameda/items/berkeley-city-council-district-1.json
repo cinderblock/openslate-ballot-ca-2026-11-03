@@ -1,0 +1,422 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Berkeley City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/berkeley",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Steve Kromer",
+      "photo": {
+        "file": "img/candidates/berkeley-city-council-district-1/steve-kromer.jpg",
+        "alt": "Steve Kromer",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=726",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Steve Kromer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, JOHN “STEVE” KROMER, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Steve Kromer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is City Council, District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 1911 9th Street B, Berkeley"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Alexandria, VA"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Energy Efficiency Engineer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: None"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Board Member, Berkeley Partners for Parks; Coordinator, Friends of James Kenney Park; 9th and Hearst CERT member; Former Chair – Efficiency Valuation Organization"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. I’m Steve Kromer, and I’m running for City Council in District 1. I’ve had many addresses in Berkeley over the last 37 years, but good luck, and my dog Wilson, led me to the neighborhood I now call home. You can find us at James Kenney Park almost every morning. That’s my first reason for running: I love this park. I run the Friends of James Kenney Park email list and help organize our clean-up days, working alongside the neighbors and volunteers who look after the place we share. Parks are where a neighborhood becomes a community. Second, transparency. I’ve spent my career measuring whether public dollars deliver what they promise — as a Professional Engineer and a nonprofit treasurer. Our parks’ budgets, and the city’s, should be open and honest. You deserve to see where your money goes. Third, efficient city government. Berkeley doesn’t lack good ideas — it lacks follow-through. I know how to turn plans into results that hold up after the meeting ends. Running for office is how I give back. Democracy starts at home, in our neighborhoods and parks. My first promise as your representative is simple: I will listen. Really listen. Listen, listen, listen."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Carole Marasovic, Chair, Homeless Services Panel of Experts; Community Health Commissioner, Commissioner; Peace and Justice Commissioner Diane K Gordon, Ketér Salon Owner\nPaul Kamen\nJohn Steere, President, Berkeley Partners for Parks (for Affiliation only) Lawrence Brown Everett, Owner L. Brown Fabricators"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=726",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Daria Wrubel",
+      "photo": {
+        "file": "img/candidates/berkeley-city-council-district-1/daria-wrubel.jpg",
+        "alt": "Daria Wrubel",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=727",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Daria Wrubel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, DARIA WRUBEL, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Daria Wrubel"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is City Council, District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 1334 Curtis Street, Berkeley, CA"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Berkeley, California"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Licensed Marriage and Family Therapist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: None."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Co-facilitator, Bay Resistance Pod; Coordinator, Safe Pathways to School; Member, Sanctuary City Taskforce; Former Member, BUSD Equity Team; Former Site Representative, Berkeley Council Classified Employees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. Berkeley faces two questions: how do we deliver effective, fiscally-responsible city services, and how do we uphold our progressive values and protect our most vulnerable neighbors? Too many politicians tell us we must choose. I don’t believe that. My name is Daria Wrubel, and I’m running to prove Berkeley can be both well run and true to its values. I’m a lifelong Berkeley resident, a former Berkeley public school garden teacher, a licensed marriage and family therapist, and a former union organizer. I’ve spent years helping our young people through a mental health system that too often fails them. As an organizer, I learned that real change comes from bringing people together, not driving them apart. I’m running to build housing and protect tenants, because those goals belong together. I’m running to invest in public safety that keeps us safe without mass-surveillance, and without risking further harm to immigrants, trans neighbors, and everyone the current federal administration has targeted. District 1 residents deserve experienced representation that delivers for them and their neighbors. Learn more about my campaign and how you can join us at https://www.dariaforberkeley.com/. I’d be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Linda Maio, former Councilmember District 1\nTy Alper, Former President, Berkeley School Board\nCecilia Lunaparra, Berkeley City Councilmember, District 7\nJulie Sinai, Former Berkeley School Board Director\nJennifer Shanoski, Berkeley Schoolboard Director\nJen Corn, Vice President, Berkeley School Board\nSoli Alpert, Chair, Berkeley Rent Board\nSyrak Micael, Vice Chair, City of Berkeley Housing Advisory Commission"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=727",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Laura Babitt",
+      "photo": {
+        "file": "img/candidates/berkeley-city-council-district-1/laura-babitt.jpg",
+        "alt": "Laura Babitt",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=728",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Laura Babitt",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, LAURA BABITT, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Laura Babitt"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is Berkeley City Council, District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 1623 8th Street Berkeley, CA"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Durham, NC"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Global Finance and Operations Controller"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: President and Vice President of Berkeley Unified School District Board of Directors, 2X2 City of Berkeley & School Board, Board Policy Committee, Board Audit Committee, Facilities and Maintenance Oversight Committee, Local Control Accountability Plan Board Liaison, Superintendent Budget Advisory Committee Board Liaison"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Elected Delegate to California Democratic Party, BSEP Tax Planning & Oversight, Gun Violence Prevention, College Bound, Black Women of Political Action, Free Advisory Office Hours"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. Proudly endorsed by the Berkeley Fire Fighters Association, Local 1227. Berkeley City Council needs leaders with a proven record of governing effectively, managing public dollars responsibly, and delivering results for the people they serve. With an estimated $30M deficit, our neighborhood cannot afford another politician more focused on satisfying lobbyists than serving our community. We need a leader who listens, understands government, and turns priorities into results. That is why I am running. I learned during my 10 years as an education advocate that no one will fight for your kids like you will. So, I stepped up. As an elected official, I made fiscal oversight and accountability a priority while increasing pay, saving jobs, prioritizing student outcomes, advancing climate sustainability, and building educator housing. I’m ready to bring that same governing experience to District One. As a Financial Controller managing global budgets, I know fiscal management is essential. Our tax dollars must protect our first responders, build truly affordable housing, keep our streets paved, address homelessness with lasting solutions, and help small businesses thrive. My family has called District One home for generations. I know its strengths, experience its challenges, and will fight for those who live here today. Proudly endorsed by State Senator Jesse Arreguin. Vote Laura Babitt! www.laura4d1.com Listen. Connect. Deliver."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Ben Bartlett, Berkeley City Council Member\nShoshana O’Keefe, Berkeley City Councilmember\nBrent Blackaby, Berkeley City Councilmember\nTerry Taplin, Berkeley City Councilmember\nSusan Wengraf, California Democratic Party Delegate (AD-14) Former Berkeley City Councilmember\nKa’Dijah Brown, Berkeley School Board Director, President Shirley Issel, Shirley Issel, Former Berkeley School Board President Andy Kelley, Rent Stabilization Board Commissioner\nCarole Marasovic, Chair, Homeless Services Panel of Experts; Chair, Commission on the Status of Women (former)\nReichi Lee, BHS PTSA President, Fmr. Parks and Waterfront Commission, Fmr. BUSD African American Success Advisory Committee\nErin Rhoades, Former Executive Director, Berkeley Public Schools Fund MiMi Pulich, Student & Teacher Advocate: former WA, King, BHS LCAP Representative, PTA Council VP, & BHS PTA President\nPastor Rev. Dwayne L. Phillips, Chairman Peace And Justice Commission, PAB-Police Accountability Board"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=728",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Ross Bernet",
+      "photo": {
+        "file": "img/candidates/berkeley-city-council-district-1/ross-bernet.jpg",
+        "alt": "Ross Bernet",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=729",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Ross Bernet",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, ROSS BERNET, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Ross Bernet"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is City Council, District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 1471 Catherine Drive, Berkeley California"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is San Diego, CA"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Environmental Program Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: None"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Sierra Club S.F. Bay Chapter Northern Alameda County Group Executive Committee, Co-Chair Conservation Committee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. I’m running for City Council to build an affordable, safe, green, and thriving Berkeley for everyone. I’ve spent the past 15 years working on environmental efforts around the world, and now I’m excited to focus my efforts on my local community. As a new father, I’m committed to keeping our community safe and welcoming, making it easier to get around for people of all abilities, and working to ensure we create more housing at all income levels so our kids can afford to live here when they grow up. As Councilmember, I’ll green our community by planting more trees, advocating for our parks, and fighting climate change with clean energy and sustainable transportation. I’ll support our first responders and local businesses, fix our streets and sidewalks, and work to tackle our housing and homelessness crises with citywide solutions and regional partners. I bring a pragmatic, progressive perspective to ensuring Berkeley delivers exceptional city services and spends tax dollars wisely. I will prioritize constituent services. I’m proud to be endorsed by the Berkeley Firefighters Association, the Sierra Club, Assemblymember Buffy Wicks, along with additional elected and community leaders. I hope to earn your vote as well. Join us: www.RossForBerkeley.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Rashi Kesarwani, Berkeley City Councilmember, District 1\nTerry Taplin, Berkeley City Councilmember, District 2\nMark Humbert, Berkeley City Councilmember, District 8\nSarah Bell, Chair, Berkeley Housing Advisory Commission, District 1 Resident\nBrandon Yung, Vice Chair, Zoning Adjustments Board\nTheo Gordon, Vice Chair, Berkeley Disaster and Fire Safety Commissioner Karen Parolek, Former Chair of the Berkeley Transportation and Infrastructure Commission\nLibby Lee-Egan, Former Chair Housing Advisory Commission & District 1 Resident\nJeff Vincent, Former Chair, Planning Commission\nPhyllis Orrick, Berkeley Commission on Aging, Commissioner & District 1 Resident\nLeigh Stewart, Berkeley Parks, Recreation, and Waterfront Commissioner Rebecca Mirvish, Berkeley Housing Advisory Commissioner & Measure FF (2024) Campaign Manager\nKera Binns, Berkeley Environment and Climate Commissioner Blaine Merker, Berkeley Planning Commissioner & District 1 Resident Sheila Newbery, Kidical Mass, volunteer organizer/City of Berkeley Member Commission on Aging\nJackie Erbe, Former Public Works Commissioner & District 1 Resident Beth Gerstein, Chief of Staff to District 1 City Councilmember Rashi Kesarwani\nManuel Pinuela, Cultivo, Nature-Based Climate Startup, CEO & Co-Founder\nFrances C. Moore, Professor, Environmental Science and Policy, University of California\nErin Rhoades, Former Executive Director, Berkeley Public Schools Fund & District 1 Resident"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=729",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Moni Gangopadhyay",
+      "photo": {
+        "file": "img/candidates/berkeley-city-council-district-1/moni-gangopadhyay.jpg",
+        "alt": "Moni Gangopadhyay",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=730",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Moni Gangopadhyay",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, MONI GANGOPADHYAY, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Moni Gangopadhyay"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is City Council, District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 1650 Tenth Street, Berkeley, CA 94710"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Charlotte, North Carolina"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Consumer Protection Regulatory Investigator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: None."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Elected member of Thousand School Site Council (SSC) budget oversight group. Strawberry Creek Park Native Vegetation garden volunteer. BUSD literacy support volunteer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. Repair Our Streets. Save Our Waterfront. Keep Flock Out. As your city council representative, I will forward an agenda of accountability, affordability, and community. Working at the California Public Utilities Commission, I am proud to hold a record of achievement on clean energy initiatives, utility regulation, and protecting everyday Californians from fraud. As someone who has revised billion-dollar budgets, I am not afraid to take on our ballooning deficit and balance our City’s budget. I will work with the city to maintain infrastructure, expand climate resilience, and provide dignified housing and services for the unhoused. Berkeley needs a community-centered vision. Working with community land trusts and non-profits, I will focus on building on our successes in affordable housing growth, while expanding community and open spaces. I will work to improve tenant protections and fight housing speculation that results in empty building shells and pushes out our local businesses. I will develop green spaces in West Berkeley and protect our waterfront. Berkeley can be a more affordable city — a sustainable city that supports its residents and improves the quality of life for all. As our city grows and changes, we must live by the guiding principle: We take care of us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Soli Alpert, Chair, Berkeley Rent Stabilization Board\nAvery Arbaugh, Chair of the Berkeley Tenants Union\nboona cheema, Past Ex. Director Building Opportunities for Self-Sufficiency\nSheila Jordan, Alameda County Superintendent of Schools emerita Moni T. Law, community advocate\nIda Martinac, Rent Board, Commissioner\nSyrak Micael, Vice Chair, City of Berkeley Housing Advisory Commission Eduardo Pineda, Arts Commissioner (for identification purposes only) Derek Rodriguez, Bishop Tenant Association President\nLeah Simon-Weisberg, Commissioner - Housing Advisory Commission George Lippman, Co-Editor, BerkeleySpeaks.org\nChristopher Kroll, Vice Chair Berkeley Neighborhoods Council (for ID purposes only)"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=730",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

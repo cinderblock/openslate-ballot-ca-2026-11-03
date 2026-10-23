@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Bay Regional Park District Board, Ward 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Rebecca Lewington",
+      "statement": {
+        "by": "Rebecca Lewington",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I live in the Fairway Park area of Hayward and I’ve spent the last 30 years hiking and biking throughout the East Bay Regional Park District. I love these parks and want to ensure they are protected, maintained, and enjoyed for generations to come. I volunteer to maintain trails and I lead mountain bike rides for women, helping others discover the benefits of our open spaces. I believe in equitable, sustainable access for feet, paws, hooves, and wheels. I strongly support the Park District’s mission to balance recreation, education, and conservation while preserving the natural beauty and ecological health of our public lands. I am a recently retired engineer, writer, and brand professional known for getting things built and getting things done in large organizations. Throughout my career, I have brought people together, solved complex problems, and delivered results through practical leadership and collaboration. As a Park Director, I will be a dedicated steward of our parks, committed to listening to the community, supporting park staff, and making responsible decisions. I believe I am the right person for this role, and I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=711",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "William Yragui",
+      "statement": {
+        "by": "William Yragui",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I request your vote to ensure EBRPD remains the finest regional park district in the nation. I am running for the East Bay Regional Park District Ward 3 to bring a practical, community-first voice to the Board. As co-founder of Mission Peak Conservancy, I have spent 14 years advocating EBRPD for well-maintained trails, sanitary bathrooms, accessible parking and reasonable park hours. As a Sierra Club hike leader, I have led hundreds of people into exploring nature in our parks. My campaign is centered on careful stewardship, safe and equitable access, climate resilience, and transparent decision making. Your support is appreciated."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=711",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hayward Unified School District Board, Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Maria Araceli Orozco",
+      "statement": {
+        "by": "Maria Araceli Orozco",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My husband Eduardo and I moved to Hayward 32 years ago to raise our family. Four of our five children graduated from Tennyson High School, and our youngest starts 7th grade this August. For over three decades, I have been a dedicated parent and student advocate throughout Hayward public schools. Serving as a strong voice for families, I have served on the School Usage Design Team, School Site Council, Site-Based Decision Making Committee, and District Advisory Committee. Additionally, I served as Parent Ambassador, Parent Ambassador Lead, and two terms as president of the District English Learners Advisory Committee. Active parent involvement is essential for our schools to thrive. Real change begins with total accountability. To help our children succeed, we must hold leadership responsible and make students our number one priority. I will fight for all students, especially our Special Education students, by supporting early evaluations, inclusive learning opportunities, data-driven programming, safe environments, and direct student funding. I will listen, discuss, and act through respectful, truthful partnerships with parents, teachers, and administrators. Every student deserves a high-quality education to compete globally. I respectfully ask for your support and vote on November 3, 2026."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=656",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Michelle Fernelius",
+      "statement": {
+        "by": "Michelle Fernelius",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are:Every decision our School Board makes should begin with one question: How does this help students? This principle will guide every vote I cast. I am the parent of two Hayward Unified School District students and a Research Director with a Master of Science in Biostatistics from California State University, East Bay, and a Bachelor of Science in Mathematics with an emphasis in Statistics and a minor in Business. As Lead Parent Ambassador, Special Education Advocacy Alliance Vice-Chair, and an active volunteer, I have worked alongside families, educators, administrators, and district leadership to revive the Parent Teacher Organization, expand literacy and mathematics support, improve communication, and advocate for students and families. As a Research Director, I analyze complex issues, evaluate data, build consensus, and make thoughtful, evidence-based decisions. I will use those skills to improve student outcomes, create safe and inclusive campuses, strengthen family engagement, and support every student and family, including students with disabilities, multilingual learners, and students needing additional academic, social, or emotional support. I will ensure transparency, collaboration, accountability, fiscal responsibility, and measurable results that are best for students. My goal is to help every child feel safe, supported, and prepared for success. I would be honored to earn your vote. Visit www.michelle4husd.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=656",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

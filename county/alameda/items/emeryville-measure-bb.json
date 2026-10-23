@@ -1,0 +1,256 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Emeryville — Measure BB (Business Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/emeryville",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City Services/ Business License Reform Measure. “To protect City of Emeryville services/ensure smaller businesses pay less than larger businesses, shall the measure be adopted to: keep parks/playgrounds safe; repair potholes/maintain streets; maintain 9-1-1 response; improve crime prevention; maintain senior/ youth services; general government use; by updating/ simplifying Emeryville’s 42 year old business license rates up to 0.4% of gross receipts (described in the ordinance) until ended by voters, providing $12,400,000 annually, requiring independent oversight?”"
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=909"
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "John I. Kennedy, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure was placed on the ballot by the City Council. It requires a majority vote for passage.\nThe City currently imposes a business license tax under Chapter 1 of Title 3 of the Emeryville Municipal Code on any person engaging in business in the City. The existing business license tax ordinance contains 56 business categories. Most of these categories impose a tax at a flat rate, or at a rate measured by the number of employees, days of operation, vehicles, or other measure of assets used by the business. A catch-all tax of 0.1% of gross receipts applies to any business not in a particular category.\nThis measure would amend Chapter 1 of Title 3 to revise the business categories and to change the measure of most taxes to gross receipts. The new categories would be General Commerce/Retail, Services, Professional and Advanced, Contractor, Real Property Rental, Utility, and Unclassified. General Commerce/Retail and Utility would pay an annual tax of 0.1% of gross receipts. Services, Contractor, and Unclassified would pay an annual tax of 0.3% of gross receipts. Real Property Rental and Professional and Advanced would pay an annual tax of 0.4% of gross receipts. The tax rates for cannabis businesses and card rooms, which are significantly higher, would not be changed. The tax rates for massage parlors would also be unchanged.\nSmall businesses with annual gross receipts of $100,000 or less would only pay $25. This threshold would be adjusted annually based on the percentage change in the Consumer Price Index for the San Francisco-Oakland-Hayward area. Except for new businesses, gross receipts from the preceding year would continue to be used to measure the tax for the current year. The tax for new businesses would initially be based on estimated gross receipts and would be trued up at the end of the year.\nThe tax for a business with gross receipts that are less than its operating costs in the City would measure its tax by using those costs as its gross receipts.\nThe maximum annual business tax cap would be increased from $300,000 to $800,000, with this amount adjusted annually by the percentage change in the Consumer Price Index for the San Francisco-Oakland-Hayward area. No business tax would apply to any business exempt from tax under the constitution or laws of the United States or the State of California.\nThe business tax rates adopted by the measure would apply beginning January 1, 2027, and the tax for calendar year 2027 would be calculated based on gross receipts from calendar year 2026.\nThe revenue from this tax would continue to be deposited into the City’s General Fund where it could be used for any legitimate municipal purpose."
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=909"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The Emeryville City Council",
+            {
+              "strong": [
+                " unanimously agreed to"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "place Measure BB on the ballot"
+              ]
+            },
+            " to modernize our nearly 42-year-old business license tax system, generate additional locally controlled revenue, and help protect the public safety, essential services, and quality of life our community relies on.\nMeasure BB creates a simpler, fairer business license tax structure that better reflects Emeryville’s economy today. It streamlines business classifications and helps ensure that larger, more profitable businesses pay their fair share while small businesses are not unfairly burdened.",
+            {
+              "strong": [
+                " Measure BB"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "applies only to businesses and does not increase taxes"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "on residents or homeowners."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If approved by voters, Measure BB is expected to generate approximately",
+            {
+              "strong": [
+                " $6 million annually in locally controlled"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "revenue"
+              ]
+            },
+            " to help maintain community priorities identified through public outreach, including:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "maintaining rapid 9-1-1 emergency response;"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "improving crime prevention and public safety;"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "keeping parks and playgrounds safe and clean and expanding access to green spaces;"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "repairing and maintaining streets for all modes of transportation;"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "providing senior and youth services;"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "supporting small businesses, jobs, and economic development; and"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "maintaining emergency and disaster preparedness programs.\nMeasu re BB also includes st rong accou nt abilit y protections, including",
+                  {
+                    "strong": [
+                      " independent citizens ’ oversight,"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "public spending disclosure, and annual reports to the"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "community."
+              ]
+            },
+            " By law, Measure BB funds remain locally controlled and cannot be taken by the State. Emeryville has changed dramatically over the past four decades. It is time for our business license tax system to reflect the Emeryville of today while protecting the services our community depends on for the future."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Modernize an outdated system. Protect essential"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "services. Keep Emeryville safe and strong."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Emeryville City Council respectfully asks you to",
+            {
+              "strong": [
+                " vote"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "YES on Measure BB."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sukhdeep Kaur",
+          "title": "Mayor, City of Emeryville"
+        },
+        {
+          "name": "Matthew Solomon",
+          "title": "Vice Mayor, City of Emeryville"
+        },
+        {
+          "name": "Kalimah Priforce",
+          "title": "Council Member, City of Emeryville"
+        },
+        {
+          "name": "David Mourra",
+          "title": "Council Member, City of Emeryville"
+        },
+        {
+          "name": "Courtney Welch",
+          "title": "Council Member, City of Emeryville"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=910",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure Bb",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf",
+      "mediaType": "application/pdf",
+      "page": 911,
+      "sha256": "5b1e32e3b8faab472f2923ea17685035b4e8595e18ddf1f37c9fcd90a88fa0e3"
+    }
+  ]
+}

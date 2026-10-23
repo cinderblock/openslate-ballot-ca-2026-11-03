@@ -1,0 +1,238 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oakland Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/oakland",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Julius Robinson",
+      "photo": {
+        "file": "img/candidates/oakland-mayor/julius-robinson.jpg",
+        "alt": "Julius Robinson",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=740",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Julius Robinson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, JULIUS E. ROBINSON, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Julius E Robinson"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Banking and consulting"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): None"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: I have proudly called Oakland home for nearly 40 years. Throughout my career, I have worked to create opportunity by bringing investment, affordable housing, small business capital, workforce development, and financial education to communities that needed them most. I helped deliver more than $200 million in community development programs and helped create a $350 million investment fund supporting jobs and economic growth. I am running for Mayor because I believe Oakland can reclaim its promise as one of the Bay Area’s great cities. Oakland deserves safe neighborhoods, accountable government, thriving businesses, quality housing, and renewed public trust. My career has been built on bringing people together, solving difficult problems, and delivering measurable results. Together, we can restore Oakland’s promise, strengthen every neighborhood, and create opportunity for generations to come. I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Evan Morganstein\nMichael Deflorimonte\nCecil Plummer\nJanet Hall\nLasandra Hunt\nKaterina Villanueva\nHector J. Preuado\nRosemary A. Bugayong\nMattie Hindman\nChristine Conner"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=740",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Barbara Lee",
+      "photo": {
+        "file": "img/candidates/oakland-mayor/barbara-lee.jpg",
+        "alt": "Barbara Lee",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=741",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Barbara Lee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, BARBARA LEE, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Barbara Lee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Mayor of Oakland and Congresswoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): Mayor of Oakland, Metropolitan Transportation Commission Member, Congresswoman, State Senator Assemblymember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: In 2025, you elected me to restore public trust and accountability. Today, Oakland is safer, more stable, and hopeful. Together, we’re making progress. As Mayor, I’m reforming Oakland’s governance, reducing gun violence, and securing our fair share of resources to fight homelessness. Thanks to 10,000 citywide volunteers, we’ve removed 7,000 tons of trash from our streets. Hundreds more provided input to Charter Reform. I’ve done the tough work of achieving budget stability and demanding the highest ethical, professional standards from City Hall. I ask for your vote to continue our work so every Oaklander/small business is not just surviving but thriving – so we all can achieve our dreams of opening a successful business or affording a home here. Together, we’ll continue to work towards an Oakland that is accountable and achieves faster, better results—and I’ll be unrelenting in protecting our City from Washington’s political threats. Join us: BarbaraLee4Oakland.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Libby Schaaf Nate Miley Barbara Parker Isaac Abid Nikki Fortunato Bas Pamela Drake Sheryl Walton Keba Konte Gary Yee Caheri Gutierrez Keith Brown Zac Unger Julia Liou Barbara Leslie John Bliss\nSean Sullivan Corrina Gould Billy Dixon Kampala Taiz-Rancifer Pat Kernighan"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=741",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Brenda F. Grisham",
+      "statement": {
+        "by": "Brenda F. Grisham",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, BRENDA F GRISHAM, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Brenda F Grisham"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): None\nNo Photo\nSubmitted"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: I am Brenda F. Grisham, a lifelong Oakland resident, business owner, and community advocate dedicated to serving our city. After my son was murdered in Oakland in 2010, I committed my life to improving public safety and supporting victims of crime. I have served as Chair and Vice Chair of the Violence Prevention Coalition, a Ceasefire community speaker, Executive Director of the East Bay Alliance for Public Safety, and a member of the Executive Board of the Family Support Advocates. For the past 12 years, I have advocated in Washington, D.C., for stronger public safety policies. As the owner of a financial solutions company serving more than 700 clients, I bring proven financial and business experience. My work in public safety, budgeting, housing, education, and community advocacy has prepared me to provide accountable leadership and build a safer, stronger, and more financially stable Oakland for every resident."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Rhonda Reynolds\nJeane Martin\nLucy Thomas\nTracy Ellis\nDanielle Hudson\nJawanna Smith\nLarmea Thomas\nAngel Lowe\nLillie Walker\nGlenda Faye Stancill\nVernon Mouton\nMichael Wiggns\nJaquin Smith\nPaula Gustafson"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=742",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Mindy Ruth Pechenuk",
+      "photo": {
+        "file": "img/candidates/oakland-mayor/mindy-ruth-pechenuk.jpg",
+        "alt": "Mindy Ruth Pechenuk",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=743",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Mindy Ruth Pechenuk",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, MINDY RUTH PECHENUK, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Mindy Ruth Pechenuk"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Educator and Researcher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): None"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: Enough is Enough! Oakland’s children and families deserve safe streets and real opportunity in the city we love. Too many struggle as jobs vanish. I am Mindy Pechenuk, an experienced educator with the knowledge to rebuild our city. I will revitalize manufacturing, bring back businesses, and create large scale apprenticeship programs in the trades, construction, and local production that open doors for our youth, unemployed, and homeless. I will require a complete independent audit, impose full spending transparency, and eliminate wasteful spending without raising taxes or treating drivers like cash machines. Oakland has already issued 82,000 camera speeding tickets in just the first 40 days. I will confront open air drug markets, and build a city where children can get quality education and forge a strong future. Vote for your future. Time to change what has failed Oakland. Vote Mindy Pechenuk for Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: John Lewis\nAndrea Ingraham\nRobert Ingraham\nCharles Korn\nLinda Vu\nDebra J. Gelber\nGerald Pechenuk\nFrancis P. DeFalco\nRunda Bahaeldin Mohamed Osman\nDavid Campbell\nLouis F. Nagel\nEdward P. Malik\nTiona Bennett\nMarilyn Chin\nPatrick L. Ruckert\nCarol M. Ruckert\nRichard Iaria"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=743",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

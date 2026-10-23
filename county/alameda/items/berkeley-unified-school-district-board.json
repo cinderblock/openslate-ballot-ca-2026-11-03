@@ -1,0 +1,258 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Berkeley Unified School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Sandy Park",
+      "photo": {
+        "file": "img/candidates/berkeley-unified-school-district-board/sandy-park.jpg",
+        "alt": "Sandy Park",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=673",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Sandy Park",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, SANDY PARK, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Sandy Park"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is Berkeley School Board Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 2144 Acton St Berkeley CA 94702"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Chicago, IL"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Education Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: None"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Trainer, Community ICE Watch; School Site Council (SSC); Equity Chairperson, PTA; Co-Chair, BUSD Parent Advisory Committee (PAC); Vice-Chair, Berkeley Peace and Justice Commission; Athletic Coach"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. I am Sandy Park—a 25-year public education veteran, current BUSD parent of three, active community organizer, and first-generation daughter of immigrants. Endorsed by the Berkeley Federation of Teachers, my career spans classroom teaching, athletic coaching, central administration, and strategic consulting with California school districts. I am committed to equitable fiscal stewardship, protecting student-facing services, and supporting our educators and classified staff. My platform centers on pro-active governance: establishing forward-thinking AI and technology policies that safeguard student privacy while embracing digital innovation, closing the opportunity gap, and fostering a culture of shared decision-making. True equity requires targeted, structural investments so students furthest from baseline standards receive the resources needed to thrive — without taking away from any child. By building trust and transparency with our community, the Board can focus on long-term collaborative solutions that move our district forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Michael Chang, Berkeley School Board President Jen Corn, Vice President, Berkeley School Board Ka’Dijah Brown, Berkeley School Board Director Jennifer Shanoski, Berkeley School Board Director Ty Alper, Former Berkeley School Board President Joshua Daniels, Former BUSD School Board Member Julie Sinai, former Berkeley School Board Director Adena Ishii, Mayor, City of Berkeley\nBrent Blackaby, Berkeley City Councilmember Cecilia Lunaparra, Berkeley City Councilmember cielo rios, Co-Chair, BUSD Parent Advisory Committee Diane Tsoi, BUSD Parent Leader\nCC Miksza, BUSD Counselor, Berkeley Federation of Teacher Site Rep, Parent\nJonah Arreola-Burl, BUSD Humanities Teacher Sarah Cline, Co-Director, BHS Jazz\nMoni T. Law, J.D., Community Advocate\nWanda L. Stewart, Executive Director, Common Vision Sheela Jivan, Parent and Family Advocate\nSyrak Micael, Berkeley City Councilperson Candidate"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=673",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Jennifer Shanoski",
+      "photo": {
+        "file": "img/candidates/berkeley-unified-school-district-board/jennifer-shanoski.jpg",
+        "alt": "Jennifer Shanoski",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=674",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Jennifer Shanoski",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, JENNIFER SHANOSKI, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Jennifer Shanoski"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is Berkeley School Board Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 1335 Ashby Ave., Berkeley CA 94702"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Detroit, MI"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Chemistry Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: Berkeley School Board Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: BUSD Facilities Committee; BUSD Citizens Bond Oversight Committee; BUSD Career and Technical Education Advisory Committee; co-chair, 2024 Measure H campaign for Berkeley Public Schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. I am a current BUSD Board Director, U.C. Berkeley Ph.D., community college chemistry teacher, and parent of two BUSD kids. I currently serve on the BUSD Career and Technical Education Advisory Committee, BUSD Facilities Committee, BUSD Bond Oversight Committee, Districtwide Parent Teacher Council, and Superintendent’s Budget Advisory Committee. I have co-chaired two committees for funding Berkeley’s schools, passed in 2022 and 2024, that provide funding for competitive teacher salaries, improved facilities and maintenance, small class sizes, libraries, and music programs. On the school board, I have championed safe student drop-offs, aftercare expansion, gender neutral bathrooms, BHS tennis courts, and co-authored two student-sponsored resolutions focused on climate resiliency. I am not a career politician; I am a teacher, parent, and labor organizer committed to the future of public education for all kids. I continue to be committed to closing BUSD’s persistent achievement gaps, expanding STEAM (science, technology, engineering, art, and mathematics) opportunities for all students, improving recruitment and retention of teachers and staff, supporting approved improvements to curriculum (including math and literacy), and authentically engaging with our community. Please visit shanoski4berkeley.nationbuilder.com for a complete list of endorsements."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Adena Ishii, Berkeley Mayor\nJenny Wong, Berkeley City Auditor\nBrent Blackaby, Berkeley City Councilmember Mark Humbert, Berkeley City Councilmember Cecilia Lunaparra, Berkeley City Councilmember Shoshana O’Keefe, Berkeley City Councilmember Terry Taplin, Berkeley City Councilmember\nIgor Tregub, Berkeley City Councilmember Ka’Dijah Brown, Berkeley School Board Director Jen Corn, Berkeley School Board Director\nIda Martinac, Rent Board Commissioner\nTy Alper, former Berkeley School Board Director Joshua Daniels, Former Berkeley School Board Director Julie Sinai, Former Berkeley School Board director Syrak Micael, Vice Chair, City of Berkeley Housing Advisory Commission Daria Wrubel, Candidate, Berkeley City Council, District 1 Sandy Park, candidate, Berkeley school board director Kathryn Lybarger, Labor union leader"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=674",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Ka'Dijah A. Brown",
+      "photo": {
+        "file": "img/candidates/berkeley-unified-school-district-board/ka-dijah-a-brown.jpg",
+        "alt": "Ka'Dijah A. Brown",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=675",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Ka'Dijah A. Brown",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, KA’DIJAH A. BROWN, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Ka’Dijah Brown"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is Berkeley School Board Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 1311 Channing Way Berkeley CA 94702"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Oakaland, California"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: President, Berkeley School Board; Director, Berkeley School Board; President, Berkeley Youth Commission; Commissioner, Berkeley Youth Commission"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: 2nd Vice President, Women’s Missionary Society (Former); 1st Vice President BWOPA (Former)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. As a proud Berkeley Unified graduate, educator, parent, and current School Board President, it has been an honor to serve our community. As the youngest School Board President and first active classroom teacher elected to the Board, I have brought a vital perspective to every decision, ensuring that the voices of students, families, and educators remain at the center of our work. As a district we’ve guided our schools through unprecedented challenges while laying the foundation for the future. Together, we’ve navigated difficult fiscal realities, strengthened student mental health supports, modernized district systems, and advanced policies to create safer and more inclusive schools. I know firsthand that a high-quality public education can transform lives. Students deserve rigorous academics, safe and welcoming schools, and the support necessary to reach their fullest potential. If re-elected, I will continue working to close opportunity gaps, strengthen academic achievement, expand college and career pathways, invest in student well-being, promote high quality teaching, and ensure responsible stewardship of taxpayer dollars. I am proud to have earned the support of educators, parents, students, and community leaders, and I respectfully ask for your vote to continue building a stronger Berkeley Unified for every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Adena Ishii, Mayor of Berkeley\nJennifer Shanoski, Berkeley School Board Director Jen Corn, Vice President, Berkeley School Board Michael Chang, School Board director\nIgor A. Tregub, Berkeley Councilmember, District 4 Shoshana O’Keefe, Berkeley City Councilmember Ben Bartlett, Councilmember\nMark Humbert, Berkeley Councilmember District 8 Jenny Wong, Berkeley City Auditor\nLaura Babitt, Former Berkeley School Board Director, California Democratic Party Delegate – AD 14\nTy Alper, Former School Board Director\nBeatriz Leyva-Cutler, Former BUSD School Board Director Joshua Daniels, Former BUSD School Board Member"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=675",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

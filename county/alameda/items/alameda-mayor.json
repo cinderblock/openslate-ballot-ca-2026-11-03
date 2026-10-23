@@ -1,0 +1,60 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alameda Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/city-of-alameda",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Tracy Jensen",
+      "statement": {
+        "by": "Tracy Jensen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Administrator, Nonprofit Youth Services Board Member My education and qualifications are: I’m running to be Mayor of Alameda because our city needs responsible, proven leadership and my record of accomplishments has made life better for Alameda children, youth, families, and seniors. On the Alameda School Board I ensured that Bayport developers – not taxpayers, built Ruby Bridges Elementary School, and I led AUSD to be the first district in the country to reduce bullying by teaching children to respect all families. As Director of the Alameda Healthcare District, I kept Alameda Hospital open by holding Alameda Health System accountable for state seismic improvements. In 3.5 years as your Councilmember, I’ve improved pedestrian safety, expanded low-income housing, eliminated investments in weapons and polluters, and welcomed green tech and biotech economic engines to Alameda. I am endorsed by countless Alameda community members, including the state, county, and local elected officials who call Alameda home: Alameda County Supervisor Lena Tam, 4-term District Attorney Nancy O’Malley, and former State Senator Don Perata. I grew up in Alameda, and I left my job in Washington to raise my son with Alameda values: inclusivity, transparency, and responsiveness. My priorities are Alameda priorities: as your mayor I’ll focus on responsible development, living-wage jobs, emergency preparedness and environmental resiliency. www.TracyForAlameda.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=664",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Malia Vella",
+      "statement": {
+        "by": "Malia Vella",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Serving you on the City Council for 8 years was an honor. I was results-oriented, accessible, and proactive in engaging with the community. Now I’m running to be your Mayor and promise to continue serving you the same way. An education executive, I have the professional experience to lead innovation and change – and as a native Alamedan with deep roots here, I’m committed to preserving what’s best about Alameda while moving us toward a vibrant future. We face so many threats to our quality of life – affordability, climate change, and more. I’m a businesswoman, educator, community volunteer, wife, and mother who understands those daily challenges. Let’s move Alameda forward together, delivering a better quality of life for all, championing transparency and accountability in public decision-making, and protecting vital city services and amenities. I’ll put my experience to work for you to expand housing affordability for all, keep neighborhoods distinct, improve pedestrian and bike safety, protect our shoreline, improve Alameda’s natural disaster preparedness, maintain police and fire response times, and prioritize economic development. Please join our Mayor Marilyn Ezzy Ashcraft, Councilmembers Michelle Pryor and Greg Boller, working families, and local leaders in support of my candidacy. I would be honored to have your vote. www.maliavella.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=664",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Tony Daysog",
+      "statement": {
+        "by": "Tony Daysog",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Experience: I have served as Alameda Vice Mayor three times during my 22 years on City Council. I have a Master’s in City Planning from UC Berkeley, where I also earned my Bachelor’s degree: I am a full-time professional public sector urban planner. A life -long Filipino-American West Ender, I graduated from Encinal High School, where I was also Student Body President. My Mayoral Theme: “Making City Hall Responsive to Our Changing City and Needs.” Priority 1: I will end the police hiring freeze enacted by City Council. We have the revenues to hire the number of officers we’ve always targeted - i.e. 88 positions. There is no need to keep the Chief from filling the 88 positions. The “beach takeovers” and on-going traffic concerns demonstrate this freeze is ill-conceived. Priority 2: I will keep City Hall a welcoming place for all . . . building on my work for Alameda’s LGBTQ community (https://daysog.my.canva.site/equality),\nfor\ntransgender youths (https://alamedapost.com/news/city-council-endorses-new-lgbtq-action-plan/), and for faith communities under pressure (https://jweekly.com/2024/01/03/cease-fire-letter-falls-flat-in-alameda-after-a-tense-5-hour-meeting/). Priority 3: I will create a new “infrastructure and sea level rise commission” to oversee key infrastructure (i.e. streets, sidewalks, sewerage), and to oversee shoreline sea level rise strategies. I humbly ask for your vote: tonydaysog.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=664",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

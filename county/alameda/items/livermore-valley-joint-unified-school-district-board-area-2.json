@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Livermore Valley Joint Unified School District Board, Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Stephen R Orgain",
+      "statement": {
+        "by": "Stephen R Orgain",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am running for the Livermore Valley Joint Unified School District Area 2 School Board because I believe every child deserves the opportunity to receive a high-quality education in a safe, supportive, and focused learning environment. As a father of two children, I understand how important our schools are—not only to our children, but to our families and our entire community. I am a loving and engaged father, and I want the same opportunities and safe learning environment for every child in our district that I want for my own. I believe every voice in our community deserves to be heard. Parents, teachers, students, administrators, and community members all bring valuable perspectives, and effective leadership starts with listening. Our children are growing up in an increasingly connected and, at times, turbulent world. Schools should be places where students can focus on learning, developing confidence, building meaningful relationships, and preparing for their futures without unnecessary distractions. As your Area 2 representative, I will listen, ask questions, work collaboratively, and keep students at the center of every decision. I am committed to supporting our teachers, engaging our families, and helping ensure that every student has the opportunity to succeed. I would be honored to serve our community."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=657",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Tara Boyce",
+      "statement": {
+        "by": "Tara Boyce",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a Mama to two elementary aged students at Junction K8, I will work with our new Superintendent and fellow Trustees to center transparency, respect, and accountability in setting our district’s priorities. Currently, I volunteer at the school, serve on the Budget Advisory Committee and LCAP Parent Advisory Committee, and attend School Board meetings regularly. I was also active in the fight alongside teachers and staff for financial parity. I am committed to voting “no” unless cabinet recommendations are rooted in transparency and can be backed by data or measurable goals that indicate how programs will educate our children to a standard this world demands. With my education (BA in Economics and Political Science; MBA) and career as an expert in finance operations, advising my dozens of clients in reorganizing, evaluating and deploying the best solutions to solve their problems, I fill a critical skill gap on our Board. Alongside administration, staff, and bargaining units, my participation in financial matters will balance both the short and long term fiscal health. Together, we will once again be the district attracting and retaining talent and will elevate our students to the next level. I humbly ask for your vote this November!"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=657",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

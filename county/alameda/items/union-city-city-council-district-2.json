@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Union City City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/union-city",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Jaime Patino",
+      "statement": {
+        "by": "Jaime Patino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a lifelong resident of Union City and Decoto. Raised by my grandparents, I learned the values of hard work, integrity, and service. Today, those same values guide me as a father and public servant. My daughter inspires me every day to help build a safer, stronger Union City where every family has the opportunity to thrive. Serving on the Union City Council has been the honor of my life. Together, we have strengthened our City’s finances, invested in public safety and infrastructure, supported local businesses, and secured millions of dollars in state and federal funding for projects that benefit our community. I have represented Union City at the regional, state, and national levels, serving in leadership roles with the National League of Cities, the League of California Cities, and the National Association of Latino Elected Officials. I also serve on the Board of Directors of Tiburcio Vasquez Health Center, working to ensure local families continue to have access to quality, affordable healthcare. I am also endorsed by the Building and Construction Trades Council of Alameda County. While we have accomplished much, there is more work ahead. I remain committed to fiscal responsibility, safe neighborhoods, economic opportunity, and responsive local government. I respectfully ask for your vote one final time. www.patinoforunioncity.com\nVICTOR LOPEZ PULIDO\nMy education and qualifications are: Union City has been my home my entire life. As the son of immigrant parents and a graduate of James Logan, I watched my parents work tirelessly to build a better life, often without a voice in the systems shaping ours. Their sacrifice taught me public service means fighting for families too often overlooked. As a first-generation college graduate, I earned my bachelor’s at the University of Arizona and my master’s at USC; I’m finishing my law degree at USF. I pursued them not to leave Union City behind, but to come back and serve it better. I’ve stayed rooted as former Chair of the Human Relations Commission, board member of Centro de Servicios, Union City Lions Club member, and volunteer in New Haven schools and at Our Lady of the Rosary parish. On the Council, I’ll fight to lower the cost of living, keep working families in their homes with real renter protections and affordable housing, expand public health and safety services, and protect immigrant families while ensuring they can access the resources they deserve. That’s why community leaders like Union City Councilmember Scott Sakakihara and former Mayor Carol Dutra-Vernaci endorse me. Learn more at vic4unioncity.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=699",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

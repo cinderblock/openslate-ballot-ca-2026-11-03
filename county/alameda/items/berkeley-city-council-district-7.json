@@ -1,0 +1,176 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Berkeley City Council, District 7",
+    "kind": "race",
+    "jurisdiction": "us/ca/berkeley",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Aidan Hill",
+      "photo": {
+        "file": "img/candidates/berkeley-city-council-district-7/aidan-hill.jpg",
+        "alt": "Aidan Hill",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=733",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Aidan Hill",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, AIDAN HILL, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Aidan Hill"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is Berkeley City Council, District 7"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 2420 Dwight Way Berkeley, California"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Fountain Valley, California"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Clinical Health Worker"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: Berkeley Homeless Commission, Vice Chair (appointed; former)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: East Bay Food Not Bombs; People’s Park Community; NAACP; East Bay Gray Panthers; CALPIRG; The Berkeley Project."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. District 7 is my home. I live on Telegraph and have lived in Southside since 2016. I am a UC Berkeley graduate and clinical health worker who previously served as Vice Chair of Berkeley’s Homeless Commission. There, I moved and amended the People’s First Sanctuary Encampment recommendation, which centered clean water, sanitation, privacy, and resident decision-making. I have organized around People’s Park since 2017 and served meals through East Bay Food Not Bombs. I’m running because Southside needs a councilmember who can turn community needs into practical city action. I will protect rent-controlled housing and expand permanent affordability. I will prioritize sidewalk, lighting, sanitation, and disability-access improvements. I will work to make major development fund the infrastructure its growth demands and press UC Berkeley for housing and neighborhood responsibility. I will seek voter approval before major public land is converted and publish quarterly progress reports on housing stability, street repairs, public space, and local business conditions. Students, renters, workers, local business owners, and longtime neighbors deserve a councilmember they can reach and results they can see. I ask for your first-choice vote. https://www.aidanhill.vote"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Cheryl Davila, Former Vice Mayor + Councilmember Andrea Prichett, Former Police Review Commissioner / Teacher Dr. Kerby Lynch, Professor and Former EAVP for the Associated Students of the University of California/The Graduate Assembly\nMansour Id-Deen, Executive Director Inter-City Services, Inc Paul Kealoha Blake, Pres. East Bay Media Panel of Experts Jenne King, Executive Director - Resorcey Org\nBora Ngo, Owner Bagel Street (Berkeley)\nTenzin Taguom, Gifts of Tara (Owner)\nBriana Pruitt, Bake Shop Worker\nDiana Yoshida, Jeweler / Vendor\nKelly Shull, Vendor\nJosh Lavine, Enrollment Specialist, Insight Housing, and Weekend Coordinator, East Bay Food Not Bombs\nGarrett Ferguson, UC Berkeley Student\nDusk Delacour, Student\nEcho Sommer-Tavistock, UC Alum\nAnna Tavistock, Lifelong Berkeley Resident\nElana Auerbach, Author. Mother. Activator. Mentor. Priestess. Yukon Hannibal, People Park Activist\nHali Hammer, People’s Park Activist\nGlenn Turner"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=733",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Syrak Micael",
+      "photo": {
+        "file": "img/candidates/berkeley-city-council-district-7/syrak-micael.jpg",
+        "alt": "Syrak Micael",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=734",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Syrak Micael",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, SYRAK MICAEL, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Syrak Micael"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is Berkeley City Council District 7"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 2419 Durant Ave Apt 3, Berkeley CA"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Berkeley, CA"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Community Engagement Liaison, Oakland Roots"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: Vice Chair, Housing Advisory Commission; Member, Berkeley Sanctuary City Task Force"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Transfer Student Representative, ASUC; Black Worker Organizer, East Bay United for a Sustainable Economy; Youth Soccer Coach, Eastshore Alliance"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. I was born, raised, and educated in Berkeley, graduating from UC Berkeley with degrees in Economics and Public Policy in December 2025. As an organizer and student advocate, I’m deeply committed to making Berkeley more affordable and accessible to students and marginalized community members. In 2024, I was elected as the Transfer Student Representative in the Associated Students of the University of California. I worked towards the creation of re-entry student housing and wrote grants for lighting across University Village. At Cal, I was a member of the “Black Triad” (African American Student Development, Black Student Union, and Black Recruitment and Retention Center), Cal Young Democratic Socialists of America, and the Berkeley Student Food Collective. During my last semester at Cal I served as a Campus Organizer with the Alameda Labor Council, leading the UC Berkeley “Get Out the Vote” campaign for Prop 50. I have worked with East Bay Alliance for a Sustainable Economy to organize Black workers and build labor power in my community. Currently, I serve on Berkeley’s Housing Advisory Commission for District 7. There, I have voted to hold landlords accountable, fund improved housing infrastructure, support affordable housing development, and renovate existing affordable housing. I strongly believe that housing is a human right, that living should be affordable, and that everyone should feel safe in our city. I am honored to be endorsed by the East Bay Democratic Socialists of America, UAW Region 6, the Berkeley Tenants Union, Telegraph for People, and Alameda County Supervisor Nikki Fortunato Bas – learn more at syrakforsouthside.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Adena Ishii, Mayor of Berkeley\nCecilia Lunaparra, Berkeley City Councilmember, District 7 Ben Bartlett, Berkeley City Councilmember, District 3 Margaret Solomon, Associated Students of the University of California, Berkeley President\nSelina Mendez, ASUC External Affairs Vice President\nMadison Chesebro, ASUC Eco Senator\nAna Vasudeo, Alameda County Board of Education Trustee, Area 1 Jennifer Shanoski, Berkeley School board Director\nSoli Alpert, Chair, Berkeley Rent Board\nAlfred Twu, Berkeley Rent Board Commissioner\nNathan Mizell, Rent Board Commissioner\nIda Martinac, Rent Board Commissioner\nElla Johnson, President of the Cal Berkeley Democrats\nIris Rosenblum-Sellers, ASE Unit Chair, UAW 4811 Berkeley Clara Hinsdale, Student Union Board of Directors - Chair Elizabeth Pena, President, Voters Choose Berkeley\nMia Verdin, President of Telegraph for People\nAvery Arbaugh, Chair of the Berkeley Tenants Union\nRen Zaro Fitzgerald, Chair, Transportation and Infrastructure Commission Misha Kesselman, District 7 Climate and Environment Commissioner"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=734",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

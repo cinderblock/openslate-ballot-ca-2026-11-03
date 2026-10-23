@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oro Loma Sanitary District Board of Directors, Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Benny Lee",
+      "statement": {
+        "by": "Benny Lee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Thank you again for trusting in my leadership for bringing policy experience and positive changes to Oro Loma Sanitary District as your elected Director. I continue to hear from many of you to understand the issues we face today and how our policies can pave way to a better tomorrow. Fiscal responsibility continues to be a top priority while investing in our staff and infrastructure to ensure services have no disruption for you, our customers. Climate change has proved to be a growing threat with climate events that will challenge our infrastructure as it has shown in the past few years; however, Oro Loma Sanitary District has led in replacing our aged sewer infrastructure with state-of-the-art newer pipes that have cut unplanned service calls and promises reliability for our long-term future. Our policy decisions are constantly focused on making the district more resilient, which provides for best-in-class services that ultimately keeps our environment clean and healthy. The sciences that guide Oro Loma Sanitary District will continue to move us to a better tomorrow and I am committed to policies that will keep our environment clean and healthy for you and future generations. Please elect Benny Lee for Oro Loma Sanitary District - District 3 2026. www.bennylee.us"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=720",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Fred Simon",
+      "statement": {
+        "by": "Fred Simon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Water Civil Engineer / Councilmember, City of San Leandro"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Living in our community for 30 years while raising two children together with my wife Kimmerly, I understand the challenges from climate change such as drought. As Director and former President of the Oro Loma Sanitary District Board, I am committed to continue tackling these challenges. My 30-year career as a water civil engineer and water resources advisor for our community combined with my Stanford University education provides invaluable experience and ability to empower our community to overcome our challenges. I will continue to: 1) save money for ratepayers by embracing innovation; 2) champion high-quality drinking water for people by using recycled water for public landscaping and industry; 3) improve paper, plastic and glass recycling; 4) prioritize programs that teach children to preserve our environment. During my two terms on the Oro Loma Sanitary District Board, I tackled sea level rise and greenhouse gas reduction projects; championed recycled water initiatives & shoreline cleanups; collaboratively led the effort from the initial board vote through the formation of district-based elections, saving ratepayers hundreds of thousands of dollars; and pushed to completion our first staff training/community education room. Together with endorsements by Rob Bonta, California Attorney General; Liz Ortega, California Assembly Member District 20; Juan González III, Mayor, City of San Leandro; and Alameda County Fire Fighters Association, please vote to re-elect Fred Simon to the Oro Loma Sanitary District Board. www.votefredsimon.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=720",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

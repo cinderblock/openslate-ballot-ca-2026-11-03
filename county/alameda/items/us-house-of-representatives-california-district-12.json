@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 12",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-12",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Jamie Joyce",
+      "statement": {
+        "by": "Jamie Joyce",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: The Executive Branch is corrupt and overpowered. Costs are wildly out of control, and Al could reshape everything from jobs, to elections, to the future of our kids. We need a fresh, qualified candidate who understands both Al and the everyday struggles we face today. That’s why I am running. As a private citizen, I’ve been fighting for people for over a decade. I worked on an award-winning project for healthcare workers, negotiated with DOGE to spare a government agency, volunteer to support veterans telehealth, and have led teams that built technology to make democracy work better, from city hall to the federal government. Before that, I oversaw humanitarian, environmental, and climate projects in more than 20 countries, Government agencies have invited me to present, and top Al labs have recognized my work in making Al more accurate and aligned with what people want. I’m already meeting with Congress about my bill to rein in ICE, surveillance, Al, corruption, and dark money, and to fund electoral reform and release more Epstein Files. This earned me endorsement from several Epstein Survivors and a world-famous Al ethicist. If we want affordable living, healthcare, a corruption-free government, a clean environment, and a future safe for children, the elderly, immigrants, business owners, and LGBTQIA and BIPOC people, we need to not only stop losing ground, we need to fight back effectively. Status quo politics can’t even win yesterday’s battles, let alone win the future we want. But with your vote, we can win together. JamieJoyce.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=633",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Lateefah Simon",
+      "statement": {
+        "by": "Lateefah Simon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: For more than thirty years, I have led institutions across the Bay Area dedicated to lifting up our communities and delivering real change. Taking these lessons and the same mission to Congress, I have dedicated myself to delivering tangible change for the constituents of California’s 12th Congressional district. In my first term, I secured over $800 million in federal funding for the East Bay, including transformative resources that will improve public safety and increase access to housing and safe, reliable public transportation for my constituents. I have stood up to the Trump administration every single day: fighting against cuts to the health care and education programs my constituents rely on; holding the line on immigrant rights; and opposing endless wars. I have worked to release federal funds for community health centers that were illegally frozen by the Trump Administration, and fought to prevent the Administration from reducing SNAP benefits for kids and families. I have staunchly defended the rights of our immigrant communities by ensuring that constituents in need get casework assistance, and held the Administration accountable for its lawless immigration enforcement actions that have terrorized our communities. I will continue bringing resources home while advancing legislation that expands affordable housing, protects Social Security, Medicare, and Medicaid; strengthens public safety; champions disability justice; and ensures our region can thrive in the years and decades to come. This district is powerful, beautiful, and full of promise. I humbly ask for your vote. Learn more at LateefahSimon.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=633",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

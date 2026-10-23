@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hayward Area Recreation & Park District Board, Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Sara Lamnin",
+      "statement": {
+        "by": "Sara Lamnin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Board of Directors\nMy education and qualifications are: As your representative on the Hayward Area Recreation and Park District Board, I have worked to make parks and recreation opportunities more accessible, welcoming, and responsive to our community’s needs. If re-elected, I will continue to support affordable recreation opportunities, protect our natural resources, invest taxpayer dollars wisely, and ensure every community in the Eden Area has access to outstanding parks and programs. During my first term, I helped secure the land needed for every resident to have a park within a 10-minute stroll or roll from home. I also supported expanded programming for all ages and abilities, advancement of the Bay and Sulphur Creek Trails, broader environmental education at the Hayward Shoreline Interpretive Center, and investment in safe, high-quality parks and recreation facilities throughout our district. Before serving on the HARD Board, I spent more than 20 years as a state and nationally certified recreation therapist, creating programs for thousands of children, seniors, families. I later served eight years on the Hayward City Council, where I earned a reputation for fiscal responsibility, environmental stewardship, and transparent, community-centered leadership. Please learn more about me: www.saralamnin.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=715",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 14",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-14",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Melissa Hernandez",
+      "statement": {
+        "by": "Melissa Hernandez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’ve been proud to call Alameda County home for three decades. My parents were migrant farm workers who sacrificed for a better way of life. Years later, I put myself through school while raising my own kids as a single mom. I know what it feels like to worry if we’ll make ends meet. We are now facing an unprecedented cost-of-living crisis. That’s why as the first Latina to serve as Mayor of Dublin, I worked to increase affordable housing and advance policies that created good-paying jobs. And we did – I proudly led Dublin to a “Best Places to Live” designation. Today, I fight for a stronger, healthier community as Director of Healthcare Services for an Alameda County Supervisor, where lowering healthcare costs and expanding access to vital services is my priority. This fight isn’t new to me. It’s what I’ve done my whole life. In Congress, I’ll fight for smart affordable housing solutions, protecting Social Security and Medicare, and lowering the cost of healthcare, childcare, and everyday items. This is why I am proudly supported by our firefighters and public safety officers, as well as working families, all Mayors and Alameda County Supervisors in our district, and dozens of local elected officials. I’d be honored to have your vote as well. Melissahernandez2026.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=634",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Aisha Wahab",
+      "statement": {
+        "by": "Aisha Wahab",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Families feel rising costs, uncertain paychecks, and extremist politics that distract from the real issues we all face. The greatest divide is not left versus right, but those at the top versus everyone working to get by. I’m running for Congress to get back to basics: food on the table, a roof over your head, well-paying jobs, quality healthcare, strong public schools, and an affordable life—so the American Dream is real again. For me, this is personal. After tragedy struck my family, I entered foster care before I was old enough to tie my own shoes. During the Great Recession, my family business tanked and our home was foreclosed. Working full-time, I paid my way through college, earned an MBA, and a Doctorate of Social Work from USC. After all of this, I’m still a renter hoping to buy my first home. I’m working to rebuild the American Dream for my family and all of us to have a fair shot. As your— State Senator, Mayor Pro Tempore, and Councilmember — I’ve made sure people come first in every budget and policy decision. Successfully, I capped insulin costs, secured $11 insulin pens, funded down payments for first-time homebuyers, supported small businesses, protected immigrants, renters, consumers, seniors, women and children, and expanded affordable housing. I’m proud to be supported by teachers, nurses, firefighters, police, and community leaders — including the sole endorsement of the California Democratic Party, Alameda County Sheriff Yesenia Sanchez, Superintendent Alysse Castro, Assemblymembers Ortega, Bonta, and Ransom, and Senators Wieckowski and Grayson. I’d be honored to earn your vote to rebuild the American Dream. www.AishaWahab.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=634",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

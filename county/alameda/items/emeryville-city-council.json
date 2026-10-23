@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Emeryville City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/emeryville",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Kalimah Atreyu Priforce",
+      "statement": {
+        "by": "Kalimah Atreyu Priforce",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a foster care kid from Brooklyn, I fought bullies. I did not back down, and neither should you. I remain the people’s councilmember, your public advocate. Whenever you felt unsafe, ignored, or pushed aside, you came to me. I listened, prayed or meditated, asked uncomfortable questions of those in power, and acted. The Obama White House named me a Champion of Change for my work as a tech innovator, entrepreneur, and educator. As a democratic socialist, I believe City Hall should put working people before corporate power. Since you elected me, I’ve made it harder for City Hall to ignore you, and my proposals are moving Emeryville towards fiscal accountability. I fight for renters, homeowners, mom-and-pop businesses, artists, and ethical governance that stops backroom deals. Life should mean thriving, not living paycheck to paycheck. Rent is too damn high. I pushed for a vacancy tax so empty buildings contribute to Emeryville’s future. I can be long-winded and theatrical, but I refuse to let City Hall hide what affects you. When there is no seat at the table, I bring my own chair. This seat is the people’s seat. The fight is in me. Fight with me."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=679",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Corry Frydlewicz",
+      "statement": {
+        "by": "Corry Frydlewicz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m your neighbor, a regular working dog mom you’d see walking all over our beloved town and at community events like coastal cleanups. When ICE started terrorizing our cities after the 2024 election, I was afraid. Instead of running away, I decided to find ways a laid-off technical manager could use her skills to protect our sanctuary city. In 2023, our city council approved Flock cameras spying on us 24/7 in several high-density areas. ICE uses data Flock gathers about when we’re not home, where we commute, shop, and drop our kids off at school.All of us, not just criminals. Flock sells that data, stores it insecurely, and coaches local police to sell this grift to cities like ours. We need a councilwoman who asks the right questions and sees through big tech’s lies. We need an organized manager to keep important projects on track. Because more housing equals lower rents. Shorter delays keep roads safe and open. I believe we need to get big money out of politics, so I’m running a truly grassroots DIY campaign supported entirely by volunteers, free from annoying ads and drama. Let’s get things done instead. corry4emeryville.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=679",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Brandon Soublet",
+      "statement": {
+        "by": "Brandon Soublet",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’ve called our community home for three-quarters of my life. From growing up on the North Oakland border to living in the Triangle Neighborhood and now Emery Bay Village, my roots run deep. My parents still live in my childhood home. They are active Emeryville Senior Center members who remind me of what makes our community so special. With a master’s in public policy from Georgetown University and over a decade of policy and communications experience serving federal agencies and private enterprise, I bring real technical expertise to local government. I know our street-level realities firsthand—from chaotic drop-offs at Anna Yates to gaps in our housing inventory, as well as public safety challenges in our neighborhoods and commercial hubs. I’m running to ensure fiscally sensible solutions to keep Emeryville safe, livable, and centered on the people who call it home. This means building walkable and bike-friendly streets that protect children and seniors, expanding housing access so anyone who wants to live in Emeryville can afford to stay, aligning stakeholders to take realistic, equitable steps toward improving public safety, and managing land use and development so that corporate interests don’t outweigh residents’ needs. I’d be honored to earn your vote. Visit brandonsoublet.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=679",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "David Mourra",
+      "statement": {
+        "by": "David Mourra",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I have lived in Emeryville for 18 years and am proud to raise my family here. I’ve served on Emeryville City Council since 2022 including as the Mayor of Emeryville last year. During my time on council, my focus has been on public safety and ensuring we have clean and well-maintained streets, sidewalks and public spaces. Beyond these core priorities, I have worked to make Emeryville more livable and sustainable. I expanded bike and pedestrian infrastructure, improved our parks, and introduced citywide environmental initiatives, including electrifying our municipal vehicle fleet. I support smart economic growth through new housing and attracting businesses that strengthen our community and local economy. As Mayor, I stood up for our values by partnering with the Governor’s office, local elected officials and mayors to protect our community from ICE. Prior to serving on City Council, I gained experience on Emeryville’s Planning Commission and through my professional background as an engineer and project manager in the biotech industry. My public service is grounded in a love for this city and seeing our government work well for the people it serves. We’ve made a lot of progress as a city, but we still have a long way to go."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=679",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

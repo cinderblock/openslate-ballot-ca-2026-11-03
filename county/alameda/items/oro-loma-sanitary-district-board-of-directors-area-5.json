@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oro Loma Sanitary District Board of Directors, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Rita Duncan",
+      "statement": {
+        "by": "Rita Duncan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Rita Duncan, Oro Loma Sanitary District Board of Directors Secretary is seeking re-election to represent District 5. She holds a Bachelor of Arts in Human Services, Master’s in Counseling Psychology, and brings 30 years of experience with a Fortune 500 company – 15 years as Human Resources Director. A 28-year resident of Oro Loma Sanitary District, Rita is committed to providing reliable wastewater and solid waste services, protecting public health and the environment for the District’s 140,596 residents. She championed replacing 271 miles of aging sewer pipelines to improve reliability. Rita serves as Chair of the Solid Waste Committee and Finance and Insurance Committee member, promoting fiscal accountability, transparency, responsible infrastructure investment, and rate management. She represents the District on the Alameda County Waste Management Authority Board (StopWaste) and is President of the California Association of Sanitation Agencies representing 156 agencies. In these roles as a public servant, her decisions demonstrate her values of integrity and accountability. Rita is committed to environmental stewardship through public education, responsible waste disposal, and partnerships with the communities Oro Loma Sanitary District serves. Rita is honored to have the support of many local and state leaders and respectfully ask for your vote. ritaduncan4oroloma@nationbuilder.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=721",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Koroush \"Cyrus\" Farsaei",
+      "statement": {
+        "by": "Koroush \"Cyrus\" Farsaei",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Valley"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are:We deserve the best-in-class reliable services and I’m committed to making this happen for you. Our community faces important challenges, including aging infrastructure, climate change, rising sea levels, and increasing regulatory requirements. I will support fiscally responsible investments that improve reliability, strengthen resilience, protect our environment, and deliver excellent service while keeping our rates low. My experience as a certified wastewater operator has taught me the priorities that guarantee the best services for our public and I will use this experience to ensure the best-in-class services for you. As a board member and treasurer of California Water Environment Association Santa Clara Valley, I have experience in governance, fiscal oversight, and collaboration to get the job done. I ask for your vote to deliver the services you deserve. Please vote for Koroush “Cyrus” Farsaei. VoteCyrus.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=721",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Livermore City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/livermore",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Ben Barrientos",
+      "statement": {
+        "by": "Ben Barrientos",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’ve enjoyed living in Livermore for 28 years with my wife Ann. For my career I chose education and began teaching kindergarten, then up through middle school. I was union negotiator for Oakland teachers, became Assistant Principal, and later Principal. While teaching, I coached different sports. Now I coach wrestling. Being President of Livermore Lions Club has given me many opportunities to help others. As your City Council Member, I supported incentives for energy and water conservation, and the Urban Growth Boundary. I’m on the boards of Ava, Stop Waste, and the Monitor Committee. One collects green power, another prevents food and recycling waste, and one oversees landfills. I voted for construction of a park in District 2 that has a playground, walking trails, community garden, and frisbee golf. It opens this fall. I filled potholes and fixed sidewalks. I added more handicap parking on First Street. I support more affordable housing, especially for seniors, nurses, teachers, firefighters, the police and other essential service personnel. I welcome your ideas, your concerns, and your vote on November 3rd."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "NARAYAN TADIMETI\nMy education and qualifications are: I, Narayan Tadimeti, am running to serve as Livermore’s City Council member because I believe my experience, judgment, and commitment to service can help Livermore continue to prosper. I have built my career as a physician serving patients across medical environments, developing strong clinical judgment across several specialties. Certified in multiple medical specialties, I have worked to earn the trust and respect of patients and colleagues by listening carefully, weighing evidence, and working collaboratively. My medical career has required me to make complex decisions, manage competing priorities, communicate clearly, and work with teams whose expertise and perspectives differ. That experience shapes how I approach public service: study the facts, ask difficult questions, listen to residents, consider lasting consequences, and work constructively with others to reach responsible decisions. I believe Livermore’s success depends on thoughtful planning, fiscal responsibility, safe neighborhoods, a strong local economy, and a City Council that works as a team to help our community grow and prosper. I respect our nonprofit organizations and the essential role they play in strengthening communities and supporting families. If elected, I will work hard to make sure your voice is heard on the issues that matter most to you. More on Tadimetiforlivermore.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=686",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

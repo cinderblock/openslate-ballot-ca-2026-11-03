@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "EBMUD Board of Directors, Ward 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/ebmud",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Marguerite Young",
+      "statement": {
+        "by": "Marguerite Young",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: When elected to EBMUD in 2014, I promised to expand water conservation and recycling, replace our aging pipelines, keep water affordable, lead on climate action, and protect the Mokelumne River. I kept those promises. I secured permanent protection of the Mokelumne and expanded watershed recreation access. I put EBMUD on a path to net zero emissions by 2030, prepared us for droughts, wildfires, and power shutoffs, and nearly tripled the pace of pipeline replacement to keep our water flowing 24/7/365. I drove our efforts to reduce harmful nutrients polluting the Bay. I made our shutoff moratorium permanent, and expanded our customer assistance program, ensuring no customer loses water due to inability to pay, while keeping rates affordable for everyone. I have spent more than 40 years in public service protecting our environment and improving the lives of working people, including as California Director of Clean Water Action, where I fought for safer drinking water and Bay Delta water quality. I am a third-generation Californian, lifelong EBMUD customer, and UC Berkeley graduate in Natural Resource Economics. My endorsements include EBMUD Directors, Clean Water Action, Sierra Club, AFSCME, and many other environmental, community, and labor leaders. Please join them. www.young4water.org"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This candidate has accepted East Bay Municipal Utility District’s voluntary expenditure limits."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=709",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Don Gray",
+      "statement": {
+        "by": "Don Gray",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m running to ensure high quality service and the lowest responsible rates to EBMUD customers, using innovative approaches and in-house staff. I’ve worked in the municipal water treatment field since age 19, in plants across the US and in Kuwait, South Korea, and South Africa, and at EBMUD for 30+ years, most recently as Manager of Technical and Emerging Issues before retiring. I was a consultant and design engineer for EBMUD’s first major water recycling plant, which provides up to 5.4 million-gallons-daily. At EBMUD, I: worked with regulators to create regulations reducing treatment cost and your EBMUD bills; obtained 2 patents for first-of-their-kind processes to recycle food waste, otherwise landfilled, producing soil amendment and power for the electrical grid, and to operate infrastructure differently, lowering rates; secured grants from government and private organizations to conduct research that saved millions in both operating and capital costs; and developed use of existing facilities to meet new ammonia regulations, instead of spending $2B on new infrastructure that would have substantially raised rates. I am a registered engineer and Grade 5 operator in California. Education: BS, CalPoly SLO; PhD, Civil/Environmental engineering, UC Berkeley; MBA-Finance, UC Davis."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This candidate has accepted East Bay Municipal Utility District’s voluntary expenditure limits."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=709",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

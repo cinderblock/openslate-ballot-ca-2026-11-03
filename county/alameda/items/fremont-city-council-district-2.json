@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fremont City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/fremont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Desrie Campbell",
+      "statement": {
+        "by": "Desrie Campbell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: It has been an honor to serve on the City Council for the city that has been my home for 30 years. Since my service on the school board, I’ve earned a reputation for collaboration, problem solving, and fiscal responsibility. On the City Council, I have championed sound public policy, meaningful affordable housing solutions, a compassionate response to homelessness, and effective city governance. Together, we have helped make Fremont the “best place to raise a family,” “the happiest city” and one of the “best run cities in America.” And, there is still much more good work to be done. I will continue working with our community to increase access to parks and open space. I will expand on our progress to bring smart solutions to fix our roads and pedestrian infrastructure. I will also keep supporting local businesses and Fremont’s globally recognized manufacturing economy, while striving for excellence in public safety and keeping our promise to advance climate sustainability. Please join Congressman Ro Khanna, Assemblymember Alex Lee, local leaders, and neighbors across District 2 who have endorsed our campaign to build a brighter Fremont. I humbly ask for your vote to continue to be your voice on City Council. www.desriecampbell4citycouncil.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=680",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Keith Parker",
+      "statement": {
+        "by": "Keith Parker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: A 30-year Fremont resident, I have proudly raised my family in our community. Two of my children graduated from our public schools, starting at Niles Elementary. My third is at Centerville Middle School, where I serve on the PTSA board. Today, we face critical challenges: a growing unhoused population, departing businesses, and rising crime. Fremont needs proven leadership to navigate these issues, and I have a clear, actionable plan to move us forward. I will focus on compassionate, effective accountability. I will implement individualized solutions for our unhoused neighbors, moving away from failed, one-size-fits-all programs. I will collaborate with the Police Department to increase staffing, protect property, and ensure every resident feels safe. I will work to streamline processes to attract new businesses. My commitment to Fremont is reflected in my extensive community leadership. I serve on the boards of the Ohlone College, Washington Health, and Fremont Education Foundations. I am a member of the Washington Hospital Citizen’s Bond Oversight Committee and the Fremont (Niles) Rotary. I have earned broad community support and numerous endorsements. I have the experience, knowledge, and dedication to lead Fremont into its next chapter. I humbly ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=680",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

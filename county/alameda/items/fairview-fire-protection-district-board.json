@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fairview Fire Protection District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Michelle Biche",
+      "statement": {
+        "by": "Michelle Biche",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a long-term resident of Fairview, I know that protecting Fairview residents’ hills, homes, and families from the growing threat of wildfire is a top priority. I’ve spoken with many of you, heard your concerns, and I’m committed to solutions that will mitigate fire risk. With our current East Bay MUD Ward Director, we identified issues with fire hydrant inspections, and I supported her to ensure the process is transparent and that there is accountability. Furthermore, after witnessing several vehicle accidents involving the hydrant in front of my home, I took the initiative to successfully campaign for valve protections that limit water flow when hydrants are damaged. While climate change intensifies California’s wildfire threats, it also drives the adoption of proven, cost-effective mitigation strategies. I am committed to advancing climate-friendly, high-impact solutions that safeguard our district’s resources and maximize community resilience. I will bring independent advocacy, and a paralegal’s eye for contracts, budgets, and public records to our district. I will fight to protect our infrastructure and champion aggressive, community-wide fuel reduction strategies. I ask for your vote to keep Fairview safe, prepared, and resilient."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=714",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

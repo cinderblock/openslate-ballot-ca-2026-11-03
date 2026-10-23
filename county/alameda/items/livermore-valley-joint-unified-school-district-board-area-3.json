@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Livermore Valley Joint Unified School District Board, Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Angela M. Brady",
+      "statement": {
+        "by": "Angela M. Brady",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My name is Angela Brady. I am the parent of two students, the daughter of a retired public educator, and a candidate for the Area 3 seat on the LVJUSD Board of Education. My family has lived in Springtown for five years. During that time, I have enjoyed volunteering at school events, Cub Scout activities, and Sunday school classes. As a Data Analyst, I evaluate complex information and communicate it effectively, skills that support sound decision-making and accountability. Through my community involvement, I have met many families who care deeply about public education but do not always have the time to stay informed. I am running to be a representative of Area 3 residents who will bring community concerns and successes to the board while communicating decisions transparently. I will serve with respect, understanding that while agreement is not always possible, the board’s responsibility is to consider varied perspectives and help create conditions for student success. I believe that requires embracing the diversity of our community, not just those who look, learn, love, or believe in a certain way. All Kids Are Our Kids. I ask for your support in the November 3 election. Thank you."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=658",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Deborah Gibson",
+      "statement": {
+        "by": "Deborah Gibson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I have been a resident of Livermore for 30 years. Previously, I have had the privilege of serving as a board member for two non-profit organizations. I have regularly attended the school board meetings for the past two years, and that has led me to want to be a voice for the students, their families, our teachers and staff in the district. Academic excellence, student safety and fiscal responsibilities are top areas of my concern. As a grandmother of 13 children, I believe a quality education is imperative for the continued success of the next generation and the prosperity of America. If elected, you have my commitment that I will do my very best to achieve the goals that I have stated. I look forward to serving as your next trustee in District 3, on the Livermore School Board."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=658",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

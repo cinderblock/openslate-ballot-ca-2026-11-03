@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hayward Unified School District Board, Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Joann Guzman",
+      "statement": {
+        "by": "Joann Guzman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a longtime community volunteer, Hayward Unified School District parent, and Hayward resident since 2016, I am dedicated to bringing families, educators, and community partners together to help every student succeed. Since 2017, I have volunteered hundreds of hours supporting school improvement, strengthening family engagement, and building partnerships across Hayward Unified School District. I have served as Lead Parent Ambassador, Parent Teacher Association President, and Chair of the School Site Council. I currently serve on the Hayward Unified School District Citizen Bonds’ Oversight Committee, helping review voter-approved bond expenditures to promote transparency, accountability, responsible spending, and stewardship of taxpayer dollars. My professional background in bookkeeping, accounting, banking, and administrative services spans more than a decade and provides a strong foundation in financial accountability and fiscal oversight. My experience has prepared me to review budgets thoughtfully, ask informed questions, and make decisions grounded in accountability, transparency, and responsible stewardship of public resources. I am currently studying psychology at Chabot College. As Trustee, I will work collaboratively to improve student achievement, support educators and staff, strengthen family engagement, and ensure safe, welcoming schools for every student. I will bring thoughtful leadership, financial accountability, and a strong parent voice to the Board. I would be honored to earn your vote. Learn more at Joann4HUSD.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=655",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

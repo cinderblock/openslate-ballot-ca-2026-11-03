@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hayward Area Recreation & Park District Board, Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Paul W. Hodges, Jr.",
+      "statement": {
+        "by": "Paul W. Hodges, Jr.",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: It has been a great honor to serve the H.A.R.D. Community as a member of the Board of Directors. I ask for your vote of confidence so I can continue to serve on the Board and support safe and accessible public parks while maintaining quality services that our community deserves, despite our current Statewide economic challenges. As a Hayward native, and a parent, teacher (at H.U.S.D), coach and businessman, I have always taken the proud position that H.A.R.D. is the ‘crown jewel’ of recreational and leisure centers throughout the Bay Area, thanks to our hard-working, loyal and caring staff, and your continued support and participation in H.A.R.D. activities. In this tight budget era, collaboration with other agencies is very important to create new projects and make capital improvements. I’m constantly networking with all government bodies and non-profit community-based groups in the H.A.R.D. footprint to obtain this goal. Please visit my website, www.hodges4hard.org, to learn more about the people who support me, my education, my wife and family, and our long-standing commitment to our community. I will continue my work to earn the trust you have placed in me by serving with honesty, integrity, openness and equality for all."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=716",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Joseph \"Joe\" Giltner",
+      "statement": {
+        "by": "Joseph \"Joe\" Giltner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am asking for your support and your vote for Hayward Area Recreation and Park District Director, Area 4. As a proud Fairview native, H.A.R.D. has been part of my life since childhood. I grew up participating in H.A.R.D. classes, recreation programs, and community activities that helped shape who I am today. I believe it’s time to invest in the next generation of leadership while honoring the strong foundation that has made H.A.R.D. an important part of our community. My experiences inspired my commitment to give back to the community that invested in me. Throughout my career, I have worked alongside CSU East Bay, Chabot College, UC Berkeley, UC San Diego, local businesses, and community organizations, managing budgets, building diverse teams, and collaborating with students, faculty, business executives, and community leaders to achieve shared goals and strengthen our communities. If elected, I will protect our parks and natural environment, preserve our community’s beauty, expand recreational opportunities, ensure residents of every age, ability, and background have access to H.A.R.D.’s programs and facilities, and build diverse, collaborative, and accessible teams. I believe every taxpayer deserves to know how their tax dollars are spent, and I will champion fiscal responsibility, transparency, and accountability. Please, District 4, I humbly ask for your vote for Joe Giltner for H.A.R.D. Director. www.joegiltner.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=716",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "AC Transit Board, Ward 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Sarah Syed",
+      "statement": {
+        "by": "Sarah Syed",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m running for reelection to the AC Transit Board to make our buses frequent, reliable, affordable, and safe. In my first term, I fought to restore reliable service and to secure long-term transit funding. I reversed the suspension of service on Broadway, strengthened equity in service planning, and improved accountability so riders and the Board are informed before major service changes occur. I have worked to improve bus shelters, advance student transit pass improvements, and to make sure low-income riders are not left behind as new payment technology is introduced. I have pushed AC Transit to make smarter, more transparent decisions about zero-emission buses and infrastructure, while championing reliable schedules and better working conditions for bus operators. I’m proud to be endorsed by State Senator Jesse Arreguín, Supervisor Lena Tam, Oakland Councilmember Kevin Jenkins, BART Director Barnali Ghosh, AC Transit Directors Harpreet Sandhu and Jean Walsh, and the Sierra Club. AC Transit recently redrew and renumbered its wards. Although I have not moved, I now live in Ward 4 after serving my first term as the Ward 3 Director. I would be honored to earn your vote for four more years of effective leadership. www.sarahfortransit.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=703",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

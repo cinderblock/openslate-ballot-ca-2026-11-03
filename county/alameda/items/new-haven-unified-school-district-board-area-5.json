@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "New Haven Unified School District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Francis Rojas",
+      "statement": {
+        "by": "Francis Rojas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a lifelong Union City resident, parent, and educator, I am committed to ensuring every learner in New Haven Unified School District has the opportunity to thrive in safe, welcoming, innovative, and excellent schools. For over 25 years, I served students, families, and schools as a teacher, principal, and leadership consultant. My experience includes Founding Principal of Emerald High School in Dublin Unified School District, the newest high school in Alameda County in 50 years, Principal of Milpitas High School, Silicon Valley’s largest high schools with 3,300 students, and teacher, activities director and administrator at James Logan High School, where I served our community for 16 years. Doctor of Education from UC Berkeley, my research focused on equitable opportunities for diverse students through culturally-responsive school leadership and community partnerships. Throughout my career, I have led school improvement efforts, managed multimillion-dollar budgets and construction projects, expanded STEAM, college and career readiness opportunities, and built partnerships with families, businesses, and the community. Schools are strongest when we prioritize academic excellence, student well-being, and meaningful collaboration with administrators, teachers, staff, and families. I will bring experience and collaborative leadership to the Board, always putting students first and preparing every learner for success in college, career, and life. Endorsed by New Haven Teachers Association and many East Bay leaders - I am honored to earn your vote. www.FrancisRojas.org"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=661",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Deepti Garg",
+      "statement": {
+        "by": "Deepti Garg",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a dedicated Union City mom, Chair of our City’s Human Relations Commission, and a cybersecurity program manager at a Fortune 500 company. My family moved to Union City in 2012 because we believed in our schools and community. Both of our daughters attended James Logan High School. One is now studying at UC Berkeley, and the other is a current Logan senior. When I vote on school district decisions, I will be voting for my own family, my neighbors, and every student in our community. Strong schools benefit everyone. They prepare our students for success, strengthen our neighborhoods, protect property values, and ensure taxpayer dollars are spent wisely. I taught engineering students in India and served three years as a substitute teacher in Bay Area classrooms. As a program manager I oversee multimillion-dollar budgets and bring results with transparency and accountability every day, and I will do the same on the school board. As your trustee, I will always put our students and community first. I am committed to being a leader for our district who shows up, listens, takes action, and delivers. I hope to earn your vote and together, let’s build a stronger New Haven Unified School District for all of us. www.ElectDeepti.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=661",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alameda County Water District Board, Ward 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Yang Shao",
+      "statement": {
+        "by": "Yang Shao",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Your water bill has gone up every year — 4% annually since 2023 — and now Alameda County Water District proposes back-to-back 5% increases for 2027 and 2028, over 10% combined, outpacing family paychecks. As a 23-year Fremont resident and proven public servant — eight years on the Fremont City Council and four as a Fremont Unified School District Trustee — I’ve balanced public budgets, delivered results, and answered to voters. I’m running for Ward 3 Director to bring independent oversight and rate relief. As a Harvard Ph.D. chemist, I bring the expertise to scrutinize water quality data, review infrastructure plans line by line, and stop wasteful spending before it lands on your bill. My priorities: Rate Relief: Reject these hikes, break the cycle of automatic annual increases, and pursue independent audits, smart financing, and fixed-charge reform so households that conserve see real savings. Real Transparency: Publish clear accounting of all district spending, including State Water Project taxes on your property bill. Reliable Infrastructure: Replace aging pipelines and protect our groundwater proactively, before main breaks force costly emergency repairs. You deserve a Director with the scientific background to ask tough questions and the independence to demand real answers. I humbly ask for your vote. Learn more: electyangshao.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=706",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Paul Sethy",
+      "statement": {
+        "by": "Paul Sethy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a near-lifelong resident of Fremont. Primary education: K-12 public schools in Irvington and Mission San Jose. Afterward, I attended U.C. Berkeley, majoring in economics and business administration. I have spent most of my career in Silicon Valley working for leadership technology companies. Later, I was the Founder/CEO of AirPrime, where I raised $82M in venture capital funding. I was first elected to the Board of Directors of ACWD in 2010, and again in 2014, 2018, and 2022. I am proud of my contributions to ensuring clean, high-quality water at an affordable price for the communities of Fremont, Newark, and Union City. Accomplishments during my ACWD tenure: 1. Kept our water rates among the lowest in the Bay Area. 2. Initiated a rate assistance program for qualified low-income households, eliminating the fixed service charge. 3. Steered numerous seismic improvement projects along the Hayward Fault. 4. Sponsored an energy-efficiency effort to install solar at district facilities to lower the production costs of delivering water. 5. Strictly managed district finances, enabling ACWD to achieve stellar AAA ratings from Standard & Poor’s and Moody’s. I hope I’ve earned your continued trust and your vote. Contact: psethy@comcast.net"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=706",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

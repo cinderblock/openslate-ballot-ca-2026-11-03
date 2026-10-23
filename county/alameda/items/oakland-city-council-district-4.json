@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oakland City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/oakland",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Janani Ramachandran",
+      "photo": {
+        "file": "img/candidates/oakland-city-council-district-4/janani-ramachandran.jpg",
+        "alt": "Janani Ramachandran",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=746",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Janani Ramachandran",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, JANANI RAMACHANDRAN, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Janani Ramachandran"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: City Councilmember District 4"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Oakland City Councilmember, Public Interest Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): Oakland City Councilmember District 4"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: I’m proud to be a disruptor at Oakland City Hall. Unafraid to ask the hard questions and make the status quo politicos uncomfortable. Oakland deserves leaders who spend your taxpayer dollars in the most effective ways to restore basic city services. I’ve used my background as an attorney, graduate of Stanford and Berkeley Law, and former Oakland Public Ethics Commissioner to make responsible decisions that have drastically improved our city finances. As Chair of Oakland’s Finance Committee, I’ve led city investments into evidence-based solutions to improve public safety, paved streets, business development, wildfire prevention, parks and affordable housing. Oakland is on the brink of an economic and cultural revitalization, and I’m excited to keep driving the work forward to get us there. Join us — JananiForOakland.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Barbara Lee Kevin Jenkins Charlene Wang Keith Uriarte Kavya Reddy Jessica Li Alton Jelks Iris Merriouns Heather Siglin Michael Lok Nathan Miley\nZac Unger\nDaniel Swafford\nMichael Esterson\nJoaninha\nMimi Rohr\nEcaterina Burton\nJoseph Tanios\nOsagie Edebiri"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=746",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

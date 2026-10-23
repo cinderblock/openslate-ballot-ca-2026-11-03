@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pleasanton Unified School District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Thomas Choi",
+      "statement": {
+        "by": "Thomas Choi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As an attorney, and most importantly as a concerned parent, I am running to put our children, teachers, and classrooms first. Having attended nearly every board meeting last year, I consistently advocated for financial accountability and opposed teaching and student facing staff layoffs. PUSD’s recent fiscal challenges, including negative certification and depleted reserves, highlight the urgent need for sound, independent governance. Our dedicated teachers and support staff are the heart of our schools. I will bring independent oversight, rigorous analysis, and legal expertise to restore fiscal stability, rebuild budget reserves, and bring true transparency to district leadership. Protecting classroom resources and supporting our teaching staff will always be my top priority. Together, we can ensure PUSD remains a place where every child receives an extraordinary education and grows toward a bright future."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=662",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Karen Fletcher",
+      "statement": {
+        "by": "Karen Fletcher",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m excited about the future of the Pleasanton Unified School District, and I’m dedicated to supporting students, parents, teachers and schools. I will work with our Superintendent, Educators, and fellow Trustees to prioritize transparency, respect, and accountability in setting our district’s priorities. Over the last 18 years, I’ve been proud to have my four children attend Vintage Hills Elementary School, Pleasanton Middle School and Amador Valley High School. I look forward to representing these schools, Hearst Elementary School, and all of PUSD to maintain their excellence. I’ve volunteered at all grade levels and worked as a student teacher at PMS while getting my teaching credential. As a current engineering and robotics teacher at Livermore High School, I have experience with both the joys and the challenges of education. I also have 10 years of experience working as an aerospace engineer with a BA in Physics and an MS in Aerospace Engineering. I look forward to applying my experience as an educator, engineer and longtime Pleasanton resident to ensure the continued growth and both the short- and long-term financial health of our district. As a Pleasanton School Board Trustee, I will support student success while maintaining our high standards for academics."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=662",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

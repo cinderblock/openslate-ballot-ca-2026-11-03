@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ohlone Community College District Board, Area 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Suzanne \"Sue\" Lee Chan",
+      "statement": {
+        "by": "Suzanne \"Sue\" Lee Chan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: It has been a privilege to serve as your Trustee on the Ohlone Community College District Board for the past eight years. I believe higher education must deliver the training, network, and support students need to build strong careers, achieve financial stability, and reach their full potential. At Ohlone, our commitment to student success has resulted in increased enrollment, stellar transfer rates to four-year colleges and universities, and outstanding certificate training in Advanced Manufacturing, Biotechnology, Cybersecurity, Business, and Healthcare—specifically designed to transition students directly into high-demand jobs. Amid decreasing federal funding, experienced leadership is essential. As President of the California Community College Trustees Board in 2026, I fiercely advocated for statewide policies supporting 2.2 million students—always putting student success, opportunity, and basic needs such as mental wellness support, food security, and affordable housing at the center of our mission. With your vote, I will continue my dedicated work of “Putting Students First” to ensure accessible, high-quality education for our entire community. Thank You for your Trust and Support. https://www.ohlone.edu/board-trustees/board-members/sue-chan"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=642",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Sonia Salwan",
+      "statement": {
+        "by": "Sonia Salwan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m a mother, veterinarian, small business owner, nonprofit founder, and Alameda County Commissioner on the Status of Women. I raised three children in Fremont, and two attended Ohlone College. I understand the value of accessible, quality education and budgeting for those you care about. I made history as the first woman president of a Veterinary organization and strengthened it. As a Rotary District Chair, I connect students with professionals and career opportunities. Through my nonprofit, I support programs fighting human trafficking and providing cleft lip and palate surgeries. We built Ohlone. We fund it. And too many of our neighbors never set foot on campus. Students First. Expand access to required classes, strengthen academic counseling and mental health services, and offer schedules that work for students balancing jobs and families. Open Ohlone’s doors wider. Expand short-term programs for working adults, career-changers and lifelong learners. Train for jobs that are here. Ohlone should prepare residents for local careers through stackable certificates built with employers who are hiring. Spend like it’s your money. Every major expense explained in plain language, in public, before the vote. I’m not a career politician. Fresh energy. Practical leadership. Students first. See my endorsements at soniasalwan.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=642",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

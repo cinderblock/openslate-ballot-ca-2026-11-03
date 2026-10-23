@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 20",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-20",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Liz Ortega",
+      "statement": {
+        "by": "Liz Ortega",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Our democracy and civil rights face the greatest threats in generations. As your Assemblymember, I’m taking bold action to ensure every family is protected, safe, and healthy in these troubling times. I authored multiple bills to end illegal raids against innocent residents, demand greater ICE oversight, and end benefits for private companies helping ICE. It is also getting even harder to afford housing and childcare, buy groceries, and access affordable healthcare in today’s tough economy. That’s why I authored/co-authored nearly 300 bills to help everyday people, including my legislation to save St. Rose Hospital—Hayward’s only emergency room—from closure. I sponsored legislation to stop big banks and credit card companies from charging businesses extra fees and provide tax relief for the small business owners who contribute to our community character and economy. And I continue to secure millions for East Bay and Tri-Valley programs to build more affordable housing; propose compassionate, effective solutions to homelessness; and protect clean, safe drinking water. Our free Diaper Drive now benefits more than 1,500 local families and infants. As Assembly Labor Committee Chair, I championed the largest corporate wage theft lawsuit and victory in California history—and will continue the fight to educate workers on their rights, ensure a Living Wage, and protect our firefighters and healthcare workers from the effects of toxic smoke. With your support, I can continue my leadership to protect your rights, make our dreams for homeownership possible for all, and keep healthcare services affordable and accessible. Thank you for your vote. OrtegaforAssembly.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=640",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

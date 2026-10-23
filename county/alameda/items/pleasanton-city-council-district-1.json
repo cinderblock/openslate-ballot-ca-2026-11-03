@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pleasanton City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/pleasanton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Vin Kruttiventi",
+      "statement": {
+        "by": "Vin Kruttiventi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: The City of Pleasanton is in a difficult financial situation due to years of poor financial planning. As your councilmember and neighbor, I am ready to apply my decades of experience as a successful business leader, to solve this problem. I have over 20 years of experience building successful companies. I have managed large budgets, created new jobs, and led a nonprofit organization to mentor emerging companies. As your councilmember, I will apply my expertise to listen and plan for our future. We must increase city revenues by supporting existing local businesses, revitalizing our Stoneridge Mall, and attracting new businesses to our downtown and business parks. Your safety is critical to me, so I strongly support our police and firefighters who protect us. I will prioritize better roads, fund aging infrastructure, ensure safe and reliable drinking water, and protect our parks. This can be done without compromising our outstanding quality of life. Public service means listening first, solving problems, and getting results. I will bring experience, proven leadership, and a steadfast commitment to Pleasanton. And finally, I will work to retain Pleasanton as one of America’s best places to live. I respectfully ask for your vote. www.Vote4Vin.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=693",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Kathy Narum",
+      "statement": {
+        "by": "Kathy Narum",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m running for Pleasanton City Council to provide experienced, responsive leadership for District 1. My priorities include reliable, safe, clean water that stays as affordable as possible for families and businesses; fiscal sustainability and a robust local economy, strengthened by investments that help Pleasanton flourish; and public safety, with first responders who are fully equipped and well-trained, and community partnerships that strengthen emergency readiness. As a former Councilmember for nearly a decade, and now as a Zone 7 Water Agency Board Director, I have a proven track record of listening to everyone, presenting fresh, independent ideas, and building bridges to get things done. Outside of government, I serve on nonprofit boards at Sunflower Hill, Pleasanton Downtown Association, and Pleasanton Partnerships in Education Foundation, and I manage a family business. Pleasanton is a special place to live, work, raise a family, and build a business. Together, let’s protect what makes our community special while preparing it for a vibrant, sustainable future. From navigating fiscal challenges to uniting in the face of the Little Fire, Pleasanton deserves leaders who are level-headed and open-minded as we carefully navigate our future together. I respectfully ask for your vote. Thank you. Learn more at KathyNarum.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=693",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

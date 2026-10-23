@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chabot-Las Positas Community College District Board, Area 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Hal G. Gin",
+      "statement": {
+        "by": "Hal G. Gin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: For the past 20 years, I have proudly served Area 6 on the Chabot-Las Positas Community College District Board of Trustees, including four terms as Board President. I retired from CSU, East Bay after 33 years as an educator and administrator. I earned an associate degree from Merritt College, bachelor’s and master’s degrees from CSU, East Bay, and a doctorate in Educational Organization and Leadership from the University of San Francisco. I have been actively involved in our community, serving on numerous boards and commissions, including the Alameda County Planning Commission, the West County Board of Zoning Adjustments, the Friends of Chabot College Foundation, and the Oakland Chinatown Improvement Council. I respectfully ask for your support for my re-election so that we can continue providing experienced, focused, and responsible leadership for our district. Together, we will preserve and ensure the Chabot-Las Positas Community College District as one of California’s outstanding community college districts governed by a dedicated and responsive board, recognized for its fiscal strength, academic excellence, and unwavering commitment to student success. Through guided pathways and comprehensive student support services, we continue to meet students where they are and prepare them for success in the classroom, their careers, and beyond. Thank you for your support."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=645",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

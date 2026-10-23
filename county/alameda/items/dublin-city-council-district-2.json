@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Dublin City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/dublin",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Steve Lorey",
+      "statement": {
+        "by": "Steve Lorey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a passionate citizen and public servant who wants to represent you in District 2 on the Dublin City Council. I have 27 years of U.S. Army leadership experience where I led large organizations, served as an intelligence professional, and delivered results when it mattered most. I hold a Bachelor’s degree in Public Safety Administration, a Master’s of Public Administration, and a Master’s of Leadership Studies with emphasis in Community Engagement. As a Dublin resident in District 2, I am committed to pragmatic, people-first public service. My approach centers on connection, collaboration, and community. I believe to continue to be great, Dublin must strengthen public safety, support a strong local economy, remain fiscally prudent, and highlight our shared culture as a welcoming place where everyone belongs. I will bring steady leadership, thoughtful decision-making, and a collaborative mindset focused on preserving what makes our city special while planning responsibly for its future. I ask for your vote for Dublin City Council, District 2. I will serve with the same dedication I have throughout my public service career. www.steve4dublin2026.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=677",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Richard Thornbury",
+      "statement": {
+        "by": "Richard Thornbury",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a parent, scientist, parks commissioner, and committed volunteer who has called Dublin home with my family since 2019. Dublin is a safe, diverse, vibrant, and family friendly community. I am running for City Council to make sure that we sustain that high quality of life and strive to make Dublin a more affordable place to live. My top priorities as a city councilmember would be: 1) Fiscal Sustainability: ensuring our budget sustains our high quality of life, 2) Public Safety: prioritizing investments that keep our community safe, 3) Housing affordability: supporting infill and transit-oriented home building so that our residents and future generations can afford to call Dublin home. Since 2021, I have served on the Dublin Parks and Community Services Commission, an advisory body to the City, including as chair for the past 2 years. It has been exciting to be a part of Dublin’s growing parks system. I will bring my years of experience collaborating with commissioners, city staff, and residents to the City Council. Professionally, I work as a research chemist in biotech and hold a Ph.D. in Chemistry from UC Berkeley. For more visit richard4dublin.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=677",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

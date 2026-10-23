@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 24",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-24",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Alex Lee",
+      "statement": {
+        "by": "Alex Lee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m grateful to have served as your Assemblymember for the last six years. Together, we’ve secured over $84.6 million in investments for our district (including funds for Newark’s new Resource Center & Fremont’s new central park community center) and got 42 of my bills signed into law. As Chair of the Legislative Progressive Caucus, I’m proud to lead the fight to build social housing, establish universal healthcare, combat climate change, defend everyone’s civil rights (especially LGBTQ+ families, trans folks, and POC), uplift our unhoused neighbors, support immigrant families, and root out corporate special interest money from politics. We all know the truth: it is becoming way too expensive to live in the Bay Area. Corporations and their billionaire executives have squeezed every tax break out of us taxpayers while profiting from skyrocketing rents, home prices, and essential goods. I’ve been consistently leading the fight to tax the rich and fight against corporate greed. Since day one, I have rejected all campaign contributions from corporations because I am accountable to you, not the corporate interests. Above all else, I believe in the integrity of our democracy – that the government should serve all people, not the rich and powerful. I’m running for re-election to continue the fight against a fascist federal regime, fix the housing crisis, and rein in corporate greed. Humbly, I ask for your vote to continue representing you. www.VoteAlexLee.com /instagram/twitter: alex_lee / alex@votealexlee.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=641",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Dublin Unified School District Board, Area 3 (Short Term)",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Shalini Bhandari",
+      "statement": {
+        "by": "Shalini Bhandari",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a parent, energy & sustainability manager, and community member, I am asking for your support and vote to serve as Trustee for Dublin Unified School District, Trustee Area 3. I am running because I believe every child deserves a safe, supportive, and inspiring learning environment where they can reach their full potential. Our schools lay the foundation for our children’s future, and every student should have access to a high-quality education that prepares them for success in life. I believe every decision should put students’ well-being first. My priorities are to support academic excellence, maintain safe and equipped schools, ensure responsible stewardship of taxpayer dollars, and provide every student with the opportunities and resources they need to succeed. As an energy & sustainability manager, I bring experience leading complex environmental sustainable projects, managing budgets, and making thoughtful, data-driven decisions. I am committed to providing transparent, accountable, and responsive leadership. I will work collaboratively with parents, teachers, staff, students, and our community to strengthen our schools, support our educators, and ensure every child has the foundation to build a successful future. “Together, we can build on Dublin’s strong tradition of excellence while preparing every student for the opportunities of tomorrow.”"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=652",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Tanner Frye",
+      "statement": {
+        "by": "Tanner Frye",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My experience as a paraprofessional and student advocate inspired me to expand my support for students beyond a single school. I am running for the Dublin Unified School District Board, Trustee Area 3, because I saw firsthand how dedicated teachers and engaged families can make a lasting difference in a student’s education. I also witnessed the challenges our schools face and the importance of having board members who listen, collaborate, and make thoughtful decisions in students’ best interests. I am committed to ensuring Dublin schools remain exceptional places to learn by supporting our educators, promoting academic excellence, and making decisions that prepare every student for success in higher education, careers, and life. I will work to ensure every student has the opportunity to reach their full potential while preserving the high standard of education our community expects."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=652",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

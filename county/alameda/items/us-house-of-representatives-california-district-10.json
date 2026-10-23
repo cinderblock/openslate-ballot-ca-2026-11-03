@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 10",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-10",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Mark DeSaulnier",
+      "statement": {
+        "by": "Mark DeSaulnier",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a single dad who raised two sons and a former restaurant owner in the Bay Area, I understand the challenges families face making ends meet and building a secure future. I didn’t come to public service through ideology, but through real life—working union jobs, making payroll, and learning that listening and problem-solving matter more than slogans. That perspective has guided me through years of service as a mayor, councilmember, county supervisor, state legislator and now Congressman. My guiding principle is simple: I work for you. I’ve authored 73 pieces of legislation signed into law. I’ve helped over 15,000 residents resolve federal issues and held 272 town halls because accessibility and accountability are essential to effective representation. I’ve prioritized local projects that improve quality of life, including transportation and traffic relief, public safety investments, responsible infrastructure spending, and expanding access to mental health care—especially for children and families. I’ve worked to lower healthcare and housing costs, protect Social Security and Medicare, reduce gun violence, and fight to protect our air, water, and precious open space. At a time of growing division and dysfunction, I’ll defend democracy, uphold the rule of law, and restore trust in Congress through transparency, honesty and ethics to ensure our government remains accountable to the people—now and for future generations. I’m proud to be endorsed by U.S. Senators Adam Schiff and Alex Padilla, former Speaker Nancy Pelosi, and local leaders across Contra Costa and Alameda Counties. I respectfully ask for your vote. Mark www.desaulnierforcongress.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=632",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

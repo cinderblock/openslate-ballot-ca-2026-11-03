@@ -1,0 +1,60 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fremont City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/fremont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Manisha Pathak",
+      "statement": {
+        "by": "Manisha Pathak",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: For over two decades, my family and I have proudly called Fremont home, where we have raised our children, built our lives, and dedicated ourselves to serving the community. I grew up in India, continued my education in the United States, and began my technology career with a NASA internship. Over the past 20 years, I have worked in Silicon Valley’s technology industry, leading teams, solving complex challenges, and delivering innovative solutions. My commitment to service extends beyond my profession. I currently serve as a Human Relations Commissioner and Senior Peer Counselor with the City of Fremont. I am also the founder of a nonprofit organization, an educator teaching Indian classical music, and a dedicated advocate for mental health and community well-being for around 20 years, and pursuing a master’s degree in Clinical Mental Health Counseling at Grand Canyon University. I believe in practical, transparent, and collaborative leadership. As your City Councilmember, I will focus on addressing homelessness with compassion, accountability, and measurable results, strengthening neighborhood safety through first responder-community partnerships, improving traffic infrastructure, and advanced practical environmental solutions. I would be honored to earn your trust and humbly ask for your vote for Fremont City Council, District 4."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=682",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Ying Min Li",
+      "statement": {
+        "by": "Ying Min Li",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: We can do better! Fremont deserves leadership that listens, solves problems, and puts residents first. As I’ve spoken with residents across our community, I’ve heard your hopes and concerns. You have my commitment to finding solutions and delivering results. Public safety is my top priority. I will work to ensure our Police Department is fully staffed and equipped with the resources to keep every neighborhood safe. Traffic has worsened because our infrastructure has not kept pace with Fremont’s growth. I will prioritize solutions that reduce congestion and shorten commute times. Fremont has made progress in reducing homelessness, but we can do better. We need policies that improve affordability, expand effective services, and help people transition from homelessness to stable housing while protecting our neighborhoods. For 30 years, I have called Fremont home, where I raised my family. I spent more than 20 years in Silicon Valley as an engineer and technology entrepreneur before becoming a small business owner focused on community investment and development. These experiences have prepared me to deliver practical, data-driven leadership that will keep Fremont safe, vibrant, and thriving. Please vote for Ying-Min Li for Fremont City Council District 4."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=682",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Aziz Akbari",
+      "statement": {
+        "by": "Aziz Akbari",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Fremont is a city worth fighting for. The affordability, safety, and great schools that brought families like mine here 26 years ago made this a city where anyone could build a good life. I attended Fremont’s public schools, from Parkmont Elementary to Washington High School. My wife and I chose to build our lives here because we love Fremont, but now the question is whether we can keep Fremont a city for everyone. We have an opportunity to build an even stronger future to ensure the next generation can thrive. Over the past decade at the Alameda County Water District, I proved that local government can deliver. We secured over $30 million in infrastructure grants, improved our seismic readiness, created a low-income rate assistance program, developed a renewable energy initiative, and maintained a AAA bond rating. I’m bringing that experience to City Hall to build affordable housing so working families and seniors can live in Fremont, expand green spaces so Fremont feels like a city built inside a park, and run City Hall with fiscal transparency. Fremont needs someone who has a track record of delivering results. Together, we can build a more affordable, cleaner, greener, and safer Fremont. Visit www.azizakbari.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=682",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

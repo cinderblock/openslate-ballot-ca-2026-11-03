@@ -1,0 +1,367 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Albany — Measure R (Business License Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/albany",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure supporting City of Albany general services, such as fire protection, public safety, environmental and community service programs, by increasing the City's business license tax to those rates specified in the measure, levying the tax upon business gross receipts instead of number of employees, and updating local tax collection procedures, providing an estimated additional $600,000 annually, until ended by voters, with all funds remaining local which cannot be taken by Sacramento be adopted?"
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=816"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “yes” vote on Measure “R” will approve this amendment to the City’s business license tax code."
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=816"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “no” vote on Measure “R” will not approve this amendment to the City’s business license tax code."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The above statement is an impartial analysis of Measure"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "“R”. If you desire a copy of the Measure, please call the"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Office of the City Clerk at (510) 528-5710 and a copy will "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "be mailed at no cost to you."
+              ]
+            }
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=816"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Malathy Subramanian, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The City of Albany has a business license tax for engaging in a business within the City. The current annual tax is based upon flat rates or average number of business employees. The business license tax is a general tax. Revenues are deposited into the General Fund and may be spent for any City expense, like fire protection, public safety, environmental and community service programs.\nOn July 20, 2026, the City Council voted to place Measure “R” on the November 3, 2026 General Municipal Election ballot. If approved by majority (50%+1) of Albany voters, this Measure would revise the City’s annual business license tax to be based upon either flat rates or gross receipts, instead of number of employees. For each business classification, the maximum rates would be the following:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Residential property rental: $120 per rental unit."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "General retail business:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$50 for businesses with up to $50,000 in gross receipts;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$200 for businesses with gross receipts more than $50,000 but less than or equal to $200,000; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$1 per $1,000 of gross receipts above $200,000."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Commercial property rental, contractor, professional and non-professional service, and any other business not classified:"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$50 for businesses with up to $50,000 in gross receipts;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$200 for businesses with gross receipts more than $50,000 but less than or equal to $200,000; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "$5 per $1,000 of gross receipts above $200,000. The maximum flat rates and flat gross receipt thresholds above would be annually adjusted by the Consumer Price Index (CPI) subject to a 3% annual cap. However, the maximum rates per $1,000 in gross receipts would not be so adjusted. The Council may levy the tax at a lower rate in any year and restore it back to a prior rate, provided the maximum voter-approved rates above aren’t exceeded. The Measure would continue to exempt qualifying charitable, religious, gover nment and educational organizations from the tax.\nThe Measure also updates the City’s tax collection and administrative procedures. This includes updating definitions, license application, review, denial, approval, renewal and transfer procedures, tax calculation formulas, and tax deficiency, credit, refund and appeal procedures. This tax is estimated to generate an additional $600,000 annually. The new rates would become effective on January 1, 2027 and remain in effect until repealed by voters at a subsequent election. The purposes for this tax would not change, remaining a general tax that may fund any valid City purpose, like those identified above."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=816"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure R to modernize Albany’s Business "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "License Tax, cut taxes for small businesses, strengthen "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "essential City services, and create a fairer system for "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "businesses of all sizes."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Albany’s current business license tax, based largely on employee count, has not been comprehensively updated for many decades. This outdated structure requires many small businesses to pay the same amount of tax as larger businesses with far greater revenue. After a detailed study comparing Albany with neighboring cities and evaluating alternatives, the City developed a simpler, more equitable approach based primarily on gross receipts, a method widely used throughout the Bay Area.\nMeasure R does not change the tax for residential rental businesses and preserves exemptions for qualifying organizations. It taxes retail business, such as restaurants and sales of goods, at 0.1%, and service businesses, such as orthodontics, accounting, and legal, at 0.5% on gross receipts over $200,000. In this way, Measure R brings the tax rate on service businesses close to Albany’s 0.5% sales tax rate on retail businesses.\nWith this restructuring, Measure R lowers the tax for more than seven out of ten retail and service businesses. These are the small businesses so essential to Albany. Businesses with greater revenues would contribute proportionately, creating a fairer relationship between tax responsibility and business activity.\nThe measure is expected to generate approximately $600,000 in additional annual local revenue to help cover the ever increasing costs of vital City services, including fire protection, public safety, environmental programs, community services, and other municipal functions that help maintain Albany’s quality of life.\nMeasure R reflects careful analysis, public discussion, and a balanced approach to supporting business competitiveness while meeting Albany’s long-term fiscal needs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure R for a fairer tax system, stronger "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "City services, and a resilient future for Albany."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Peggy McQuaid",
+          "title": "Mayor"
+        },
+        {
+          "name": "Jennifer Hansen-Romero",
+          "title": "Vice Mayor"
+        },
+        {
+          "name": "Preston Jordan",
+          "title": "Councilmember"
+        },
+        {
+          "name": "Robin López",
+          "title": "Councilmember"
+        },
+        {
+          "name": "John Miki",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=817",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "What the City Council is not telling you is the reason why they need to raise $600,000 a year for this measure alone, plus all the other new tax measures on this ballot. The State of California is about to buy Golden Gate Fields for $175,000,000 under a tax-exempt ownership entity to create a shoreline park. GGF paid approximately $2,250,000 in taxes to the City of Albany and the Albany Unified School District. GGF was grossly undervalued tax-wise and not paying taxes based on its actual value. $175,000,000 of commercially zoned taxable real estate will not be paying taxes forever. Imagine 175-$1mil homes suddenly going off the tax rolls. Everyone in Albany will need to pay more every year for this park that will benefit the entire Eastbay. GGF will be demolished and Albany businesses and homeowners must pay more. That is neither right nor fair. Please ask the City Council and the candidates for School Board and City Council, why Albany isn’t getting tax relief or benefits from the State because of their purchase of GGF. Ask our State Assemblymember Buffy Wicks and State Senator Jesse Arreguin why they are not looking out for Albany taxpayers. Albany needs a better deal with the State that will justly compensate us for all of this lost tax revenue. Your voice starts here with a No Vote on Measure R."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Francesco Papalia",
+          "title": "Former Member of the City of Albany Financial Advisory Committee and Albany Homeowner since 1987."
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=817",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A gross receipts tax is an income tax of the worst kind. It taxes, not the money that you can take home, but all of the incoming revenue to your business without the ability to make deductions for rent, inventory, payroll, healthcare benefits and overhead, including utilities. It doesn’t differentiate between businesses that have a high margin of profit and a low margin of profit. Businesses like grocery stores, which have an extremely low margin of profit (2%-3% will end up paying a much higher tax on their actual net income. It is a tax on money that they do not make. It is an unfair regressive income tax. Do not do to Albany businesses that which you would not want done to yourself in your own job or business. Think about that the next time you patronize your local Albany business, retail shop, young entrepreneur or hire a local contractor."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Francesco Papalia",
+          "title": "Former Member of the City of Albany Financial Advisory Committee."
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=818",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure R lowers the tax for a supermajority of "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "businesses providing goods and services, including"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "virtually all small businesses."
+              ]
+            },
+            " These are the ones that are typically at the most financial risk year to year. The ones that make Solano Avenue a genuine main street, where we meet each other, maintaining the ties that bind us to this small city we call home.\nThe opponent argues against Measure R changing the tax’s basis from per employee to gross receipts rather than profit. Taxing profit would be better but cities are legally prohibited from doing so. What is legally allowed is taxing gross receipts, as sales taxes do. California has levied a sales tax since 1933 without repeal, putting the opponent’s perspective against taxing gross receipts out of step with most voters. Including the four of five Albany voters that approved a 0.5% sales tax here a decade and half ago. The main feature of Measure R is levying a 0.5% tax on gross receipts over $200,000 on businesses not subject to Albany’s sales tax. This is equitable. The lower a household’s income, the greater a share it spends on goods subject to sales tax rather than services that are not. The higher a household’s income, the greater a share it spends on services not subject to sales tax. Measure R corrects the inequity of taxing households of less economic means more proportionally."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on Measure R to help small businesses and so "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "high-income households pay their fair share."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Peggy McQuaid",
+          "title": "Mayor"
+        },
+        {
+          "name": "Jennifer Hansen-Romero",
+          "title": "Vice Mayor"
+        },
+        {
+          "name": "John Miki",
+          "title": "Councilmember"
+        },
+        {
+          "name": "Preston Jordan",
+          "title": "Councilmember"
+        },
+        {
+          "name": "Robin López",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=818",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure R",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf",
+      "mediaType": "application/pdf",
+      "page": 819,
+      "sha256": "5b1e32e3b8faab472f2923ea17685035b4e8595e18ddf1f37c9fcd90a88fa0e3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 14",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-14",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Mark Rendon",
+      "statement": {
+        "by": "Mark Rendon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Everyone reading my message has a stake in the future of California. Your vote for me means you’ll have someone in the Assembly who will: Reject corporate and PAC contributions. Enact CalCare, affordable and first-rate health care that 86% of Californians want. A better healthcare system has been within our reach for years. Despite almost 16 years of one-party dominance in California, in each legislative session, compliant legislators have blocked CalCare. Champion the provision of housing for those most in need. Enable full transition of our energy grid to renewable energy. Transform oil refineries into operations that offer oil workers safe, green jobs. Block the plan for the Coal Port in Oakland. Establish progressive taxation so the wealthy pay their fair share. Provide free lifelong public education for everyone. Return ancestral lands to Indigenous Peoples and make reparations to Black American Freedman and Mexican American families robbed of their homelands. Repeal anti-BDS (Boycott Divestment Sanctions) laws and laws that prohibit educators from teaching about genocide anywhere in the world. Withhold our tax dollars from all corporations complicit in genocide. Shut down all ICE detention centers and not cooperate with ICE. I received a Masters degree in Education from UC Berkeley. A music teacher in the Oakland Unified School District for 29 years, I led an effort with parents and teachers to persuade the OUSD School Board to adopt an Integrated Pest Management Plan, thus banning pesticides on all OUSD properties. Visit my website, markrendon4ad14.com and vote for Mark Rendon!"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=637",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Buffy Wicks",
+      "statement": {
+        "by": "Buffy Wicks",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Since 2018, I’ve had the honor of representing the East Bay. Because of your support, working families are the only special interest I serve. That’s what gives me the courage to take on thorny problems and cast hard votes – because I know the East Bay cares more about the results I deliver than making special interest groups happy. I grew up in a mobile home in rural California, the daughter of two working-class parents. That home wasn’t much, but it allowed me to attend community college and eventually work in the Obama White House. Every family deserves that same foundation. California’s housing crisis must be solved. Over the past eight years, we’ve put real teeth in our housing law, streamlined permitting, and secured funding for affordable housing – tackling inertia and taking on entrenched interests to do so. But costs are still too high, homeownership is out of reach, and too many of our neighbors remain unhoused. If re-elected, I’ll continue to fight for our progressive values: driving down the cost of housing, taking on big tech to protect our kids online, cutting red tape holding back clean energy and wildfire resilience, defending reproductive freedom, and standing up to the Trump Administration’s lawlessness and cruelty. I do this work for my two daughters, for your family, and for everyone who calls the East Bay home. I’m proud to be endorsed by Attorney General Rob Bonta, SEIU California, California Professional Firefighters, and many others. I would be honored to have your vote. www.buffywicks.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=637",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

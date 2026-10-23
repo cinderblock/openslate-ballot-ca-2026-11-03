@@ -1,0 +1,94 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Berkeley City Auditor",
+    "kind": "race",
+    "jurisdiction": "us/ca/berkeley",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Jenny Wong",
+      "photo": {
+        "file": "img/candidates/berkeley-city-auditor/jenny-wong.jpg",
+        "alt": "Jenny Wong",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=739",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Jenny Wong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, JENNY WONG, hereby declare that I am a candidate for an elective office in the City of Berkeley, and make the following statement:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. That my name is Jenny Wong"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is City Auditor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. That my residence is 2026 9th Street, Berkeley, CA 94710"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. The place of my birth is Chung-Li, Taiwan"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. My present occupation is Berkeley City Auditor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. I have held the following public offices: Berkeley City Auditor; Commissioner, Berkeley Commission on Labor; Commissioner, Berkeley Budget Review Commission"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "7. Record of community service: Association of Local Government Auditors; Bay Area Local Government Auditors; Western Intergovernmental Audit Forum; American Society for Public Administration’s Center for Accountability and Performance"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "8. I am a taxpayer in the City of Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "9. During this last term, I have continued to take on some of Berkeley’s most pressing issues. Leveraging 26 years of auditing experience, I have produced impactful reports on leases, staff shortages and retention, restaurant inspections, homeless response, performance metrics, fire inspections spending, and contracts that did not go through competition. When the city faced a budget deficit, our office conducted an analysis about its financial condition that helped to inform budget discussions and decisions. Our audits have impacted City policy and contributed to additional funding for street paving. I’m proud that during my tenure, four of our audits have won national awards from the Association of Local Government Auditors. We also established a new whistleblower program for city employees to report fraud, waste and abuse of city resources. If reelected, I will complete audits of the public health division, the Rent Board, business license taxes and will identify other audits based on community needs. I will continue to conduct clear, objective and independent analysis and promote transparency in Berkeley government. I would be honored to have your support. Please visit www.jennyforauditor.com for a complete list of endorsements."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "10. I refer to the following residents of the City of Berkeley: Nancy Skinner, Former State Senator\nLoni Hancock, Former Berkeley Mayor and State Senator\nTom Bates, Former Berkeley Mayor and State Assemblymember Ann-Marie Hogan, Former Berkeley City Auditor\nAnna Rabkin, Former Berkeley City Auditor\nJen Corn, Vice President, Berkeley School Board\nKa’Dijah A. Brown, Berkeley School Board Director\nJennifer Shanoski, Berkeley School Board Director\nBarnali Ghosh, BART Board Director\nElizabeth Echols, East Bay Regional Parks Board Director\nLeah Wilson, Vice Chair, Police Accountability Board\nBrandon Yung, Vice-Chair, Zoning Adjustments Board\nWendy Bloom, Registered Nurse and Former Chair, Commission on Labor Ty Alper, Former School Board Director\nBeatriz Leyva-Cutler, Former School Board Director\nRay Yep, Former Transportation and Infrastructure Commissioner Juana Alicia Araiza, Artist\nRudabeh Pakravan, Architect\nDavid J. Cooper, Rabbi\nKate Mountain, Retired Psychologist"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=739",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

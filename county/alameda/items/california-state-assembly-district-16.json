@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 16",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-16",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Rebecca Bauer-Kahan",
+      "statement": {
+        "by": "Rebecca Bauer-Kahan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: It’s my honor to serve you in the Assembly. I’ve built a record of solving problems with commonsense solutions — fighting for our shared values and putting our community’s needs above special interests. I’m focused on issues that matter to local families — working across the aisle to make California more affordable, spending taxpayer dollars wisely, and investing in strong public schools. I’m fighting to lower PG&E bills and fix our insurance market. I’ve delivered critical dollars to our community for wildfire safety. I’m also protecting our environment by defending local open space and holding Big Tech accountable for data center energy and water use so you don’t pay for their power. I’ve worked with public safety officials to keep us safe by strengthening gun safety and hate crimes laws, and funding law enforcement response to organized retail theft. Recognizing the urgent mental health crisis, I helped create the 988 mental health emergency response system and increased the number of mental health professionals in California. I’ve led the fight for women’s health and reproductive choice by ensuring patients have affordable, safe, and comprehensive access to care from pregnancy and abortion care to menopause. And I’m keeping our kids safe online and ensuring AI technologies are used ethically and responsibly. I’ve passed legislation to safeguard children from digital exploitation, address mental health dangers from social media, and protect Californians who are victims of deepfakes. I humbly ask for your vote to continue this important work. www.RebeccaBauerKahan.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=638",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

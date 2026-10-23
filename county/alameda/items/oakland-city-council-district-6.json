@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oakland City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/oakland",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Kevin E. Jenkins",
+      "statement": {
+        "by": "Kevin E. Jenkins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, KEVIN E JENKINS, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Kevin Jenkins"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: City Councilmember District 6"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: City Council President; Interim Mayor; City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): City Councilmember District 6; Peralta Community College District Trustee Area 2 No Photo\nSubmitted"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: Oakland is a city with incredible potential, and I believe our best days are ahead of us. As your Councilmember, I have worked to bring people together, deliver results, and ensure District 6 has a strong voice at City Hall. I’m proud to have served as Oakland’s Interim Mayor and to now serve as President of the Oakland City Council. These experiences have given me the perspective and leadership needed to navigate challenging times and deliver practical solutions for the people we serve. I’m running for re-election because our work is far from finished. Together, we have made progress improving public safety, investing in our neighborhoods, and supporting local businesses and economic opportunity. But Oakland families deserve safe, clean, thriving neighborhoods; a strong local economy; and a city government that listens, delivers, and is accountable. I have the support of Mayor Barbara Lee, Congresswoman Lateefa Simon and State Senator Jesse Arreguín. Oakland, I’m proud of what we’ve accomplished, but there is more to do."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Barbara Lee\nZac Unger\nCharlene Wang\nNoel Gallo\nLinda Handy\nRobert Bidnar\nKen Houston\nJose Dorado\nPatricia Patterson\nJesse Arreguin\nJanani Ramachandran\nNathan Miley\nPamela A Drake\nToni Bird\nLaNiece Jones\nRichard Fuentes\nSong Kim\nBurt Jones"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=747",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Nancy S. Sidebotham",
+      "photo": {
+        "file": "img/candidates/oakland-city-council-district-6/nancy-s-sidebotham.jpg",
+        "alt": "Nancy S. Sidebotham",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=748",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Nancy S. Sidebotham",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, NANCY S. SIDEBOTHAM, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Nancy Stuart Sidebotham"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: City Councilmember District 6"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Tax Preparer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): None"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: Nancy Sidebotham. If you’ve been paying attention, you’ve heard that name before. I am one of those people who came and fell in love with Oakland in the 60’s, getting deeply involved in community life and thus Oakland politics. A history grad from OCC and a tax preparer by trade, my days are dedicated to making this corner of the world better. From advocating dog parks to shutting down poorly run shelters; from active participation in NC29X and years of activism on many issues, I do know the policies, historical and current, of the City. I also am familiar with budgets and (under)staffing throughout the departments as well as the lack of transparency and, unfortunately, some malfeasance. I have learned that deep knowledge of city practices combined with clear vision of what can be is accomplished with inclusive community action. This means you and me ... ... together. VOTE"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Matt Hummel Sharon Thomas Kim Chase Chris Clark Annette Thompson Geraldine Wong Dennis Rowcliffe Tricia Penny Colleen Brown Helen Moyot Kay Carney\nAndrea Luna Bocanegra\nLawrence Bennett\nJean Blacksher\nSherry Meek\nThomas Brown\nCheryl Bauer\nPatricia DeVea\nMarcus Johnson"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=748",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

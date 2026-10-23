@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Newark Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/newark",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Michael K. Hannon",
+      "statement": {
+        "by": "Michael K. Hannon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are:Thank you for the privilege of serving as your Mayor and previously as a City Council Member. As I seek reelection, I’m excited about what we have accomplished, and future opportunities for our community. Public safety will always be a priority. We have prioritized the construction of two new fire stations replacing aging stations on Cherry Street and Ruschin Drive. Furthermore, our professional police department has reduced crimes against residents and property, most notably auto thefts are down 46% since 2024. Our street conditions have been a priority, as we have doubled funding to repave city streets and that work will continue in 2027. Funding from the State and Federal governments will result in the repaving of Thornton Avenue next year. These grant funds will also allow us to focus on developing community broadband, free wifi in our parks and quiet zones. We opened our first Resource Center to provide needed services to all residents. We will be installing new playground equipment at Mirabeau, Birch Grove and Ash Street Parks including our first “all abilities” playground. We will be designing a new Cultural Arts Center replacing our aging community center. I would appreciate your vote on November 3rd."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=687",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

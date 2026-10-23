@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chabot-Las Positas Community College District Board, Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Wendy Huang",
+      "statement": {
+        "by": "Wendy Huang",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a wife, mother, and immigrant, I know firsthand how education creates opportunity and makes our American Dream possible. Community colleges changed my life, opening doors that led me from a community college to University of California, Davis and a successful high-tech career. My two sons followed the same path, transferring from community college to University of California, Los Angeles and University of California, Berkeley, reinforcing our family’s belief in what these institutions make possible. As a retired high-tech executive, real estate developer, and 28-year resident, I bring proven leadership, fiscal responsibility, and real-world experience to our Chabot-Las Positas Board. As a real estate developer, I will use my skills to make affordable on-campus student housing a reality sooner than any other candidate, easing the affordability burden students face. My priority is preparing students for today’s workforce by strengthening Science, Technology, Engineering, Arts, Reading, Writing, AI, Robotics, and Mathematics, while expanding career technical education, apprenticeships, workforce training, and transfer pathways. I am committed to transparent, accountable leadership that puts students first, safeguards taxpayer dollars, and ensures equal opportunity for all. Together, we can keep the American Dream within reach for every student in Area 3. Vote Wendy Huang for Chabot-Las Positas Community College District Area 3 Trustee. Thank you. Website: www.VoteForHuang.com.E-Mail: Community@College.email"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=644",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Harris Mojadedi",
+      "statement": {
+        "by": "Harris Mojadedi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: It has been an honor to serve the residents of Union City and South Hayward on the Chabot-Las Positas Community College Board. As the incumbent Trustee, I’m running to continue advocating for educational policies that expand access and equity. During my time on the Board, I have worked with regional and state leaders to expand funding for critical services, and worked with district leadership to safely resume in-person instruction. As a first generation college student and proud product of New Haven Schools, I know the difference a world class education can make for historically marginalized communities. We need to ensure each and every student lives into their promise. Chabot and Las Positas College develop our workforce, strengthen our local businesses and economy, and provide critical pathways for students to fulfill their educational pursuits. If elected, my top priorities are student success, workforce development, equitable transportation solutions, and student housing. I would be honored to have your vote this November 3rd. Please learn more at harrismojadedi.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=644",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

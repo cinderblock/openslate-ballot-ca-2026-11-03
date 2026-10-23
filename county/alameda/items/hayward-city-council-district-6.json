@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hayward City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/hayward",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Julie Roche",
+      "statement": {
+        "by": "Julie Roche",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Thank you for electing me in 2022 to represent you on the Hayward City Council. As a mother, homeowner, attorney, and current Hayward City Councilmember, I am now running for reelection to continue serving our city from newly created Council District 6 in southeast Hayward where my roots run deep. My husband Robert and I have lived in Hayward for 22 years, including the Fairway Park neighborhood since 2009, along with our two kids. Since 2010, my public service work has included: first, serving on my kids’ School Site Council; then on Hayward’s Community Services and Planning Commissions (7 years); and now, on the Hayward City Council. As an attorney, I work with older adults concerned about housing costs, benefits, and financial security. As a Councilmember, I’m focused on fiscal responsibility, good governance, ensuring a safe community in partnership with Hayward police and fire professionals, and protecting our precious natural environment. I am supported by Hayward Mayor Mark Salinas, current and former Hayward City Council colleagues, former Assemblymember Bill Quirk, County Supervisor Elisa Márquez, the Building & Construction Trades Council of Alameda County, and many Hayward civic leaders and community members. I would appreciate your support too. It would be an honor to serve Hayward for another 4 years. If I can be of service, please contact me at julieforhayward@gmail.com. Thank you! www.julieforhayward.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=685",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

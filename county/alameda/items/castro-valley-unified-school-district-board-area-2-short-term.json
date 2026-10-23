@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Castro Valley Unified School District Board, Area 2 (Short Term)",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Myla Long",
+      "statement": {
+        "by": "Myla Long",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a homegrown Castro Valley resident, graduate of Castro Valley public schools, and proud parent of a student in our district, I am asking for your support, and your vote for Castro Valley School Board, Area 2. My experience includes over 25 years in supply chain, logistics, finance, accounting, and integrated business planning, providing me with the skills needed to ensure responsible budgeting, accountability, and long-term planning for our schools. I have dedicated almost a decade of service to our local schools, including six years with Castro Valley Elementary’s parent-teacher organization, serving three years as president, and five years on School Site Councils at both Castro Valley Elementary and Creekside Middle School. My knowledge of our schools, commitment to students and families, and experience building partnerships qualify me to provide responsive and collaborative leadership on the School Board. I will work to strengthen academic achievement, revitalize trust through open communication, support safe and inclusive learning environments, and ensure every dollar is spent wisely to benefit students. Please “Go Long for Schools” and vote Myla Long for Castro Valley Unified School District Board of Trustees"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=649",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

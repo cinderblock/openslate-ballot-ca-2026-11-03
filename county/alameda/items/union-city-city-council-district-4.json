@@ -1,0 +1,60 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Union City City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/union-city",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Vipan S. Bajwa",
+      "statement": {
+        "by": "Vipan S. Bajwa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My commitment to Union City began long before this campaign. I was born and raised here, and have been fortunate to work alongside neighbors, businesses, educators, and healthcare leaders to strengthen our community. I am grateful to have been elected by business leaders as Vice President of the Chamber of Commerce, where I help businesses access resources to grow. My fellow board members trusted me to chair Tiburcio Vasquez Health Center, where we guided it through funding cuts while protecting care for local families. The City Council and my colleagues trusted me to serve as vice chair of the Human Relations Commission, where I help bring residents together through community events, dialogue, and connection. Through the New Haven Schools Foundation, I support scholarships and teacher grants. Different roles, same responsibility: show up, listen, and get something done. As your councilmember, I will fight for safer neighborhoods, well-maintained streets, thriving businesses, stronger school partnerships, and a city where families can build a future. I will protect taxpayer dollars while making local government more accessible and responsive. I am proud to serve Union City as a City Commissioner and through local nonprofits. I would be honored to earn your vote and continue serving you on the Union City Council. Website: VipanBajwa.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=701",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Qasim Lodhi",
+      "statement": {
+        "by": "Qasim Lodhi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Governments work best when they are transparent, responsive, and accountable to the people they serve. Every hard-earned tax dollar should be invested wisely to strengthen our community and reflect the priorities of our residents. I am running for City Council to help bridge the gap between residents and their elected representatives by being accessible, approachable, and committed to effective communication and action! Since making Union City my home in 2021, my family and I have been proud to be part of this community while raising a child. Through conversations with residents, I have heard the concerns that matter most. If elected, I will focus on improving public safety, expanding affordable housing opportunities, supporting local businesses, and creating more recreational and entertainment options that enhance our quality of life. I will leverage my 18+ years of technical and organizational experience at some of the top software companies of the country to bring the innovative, modern solutions needed to effectively implement this vision for our city’s bright future. I am committed to serving with integrity, working collaboratively, and ensuring every resident has a voice at City Hall. It would be an honor to earn your trust and your vote. Lodhi2026.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=701",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Ann Yap-Jequinto",
+      "statement": {
+        "by": "Ann Yap-Jequinto",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Born in the Philippines, I immigrated to the United States at a young age and have proudly called Union City home since 1977. As a caregiver for my autistic brother with Fragile X syndrome, a paraeducator in James Logan High School’s Adult Transition Program, a Chamber of Commerce member, and someone with a nursing background, I understand the challenges facing local families, seniors, individuals with disabilities, and businesses. My experience on the Human Relations Commission and Planning Commission has given me valuable insight into city government and community needs. I founded Rodney’s Hope, a nonprofit that advocates for individuals with special needs and supports those facing hardship. Through community initiatives, I have helped feed unhoused individuals, organized food distributions, and led community cleanups. These experiences reflect my commitment to compassionate service to our community. My priorities are public safety, fiscal accountability, infrastructure, housing and homelessness solutions, and economic development. I will work for every neighbor regardless of political affiliation, religion, race, gender, or background. I believe Union City deserves leaders who listen, are accountable, and work together to find solutions while bridging communication between the City and residents. I respectfully ask for your vote for City Councilmember, District 4. Ann Yap-Jequinto"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=701",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

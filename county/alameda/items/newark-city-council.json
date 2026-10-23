@@ -1,0 +1,72 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Newark City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/newark",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Tonya Connolly",
+      "statement": {
+        "by": "Tonya Connolly",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My name is Tonya Connolly. I am a 15-year Newark resident and MBA graduate running for City Council to keep Newark safe, affordable, and accessible for every family. I am running to deliver a safer, more affordable and accountable Newark. My commitment to community includes 20 years in the private sector, 4 years with Newark Unified School District—where my granddaughter currently attends school—and 11 years in municipal service, retiring as Maintenance Superintendent for the City of Newark. Working on the front lines, I tackled illegal dumping, addressed homelessness compassionately, and maintained our city’s essential infrastructure and services. A distribution center was recently approved, bringing potential for a massive increase in traffic. Our community needs better streets and infrastructure, not more congestion. While families are struggling with rising cost, a $5.5 million (460%) business license tax will be on our next ballot. A tax increase will ultimately be passed on to residents, cost jobs and harm our local economy. Please support my campaign for City Council. My campaign is focused on what matters most to our families and together, demand fiscal responsibility, support our public schools, support emergency services, and fix our roads. Please vote for Tonya Connolly."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=688",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Eve Marie Little",
+      "statement": {
+        "by": "Eve Marie Little",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Eve Marie Little isn’t a typical politician—she’s a proud Newark resident who stepped up to serve because she believes one person can make a difference. With a kind heart, “get-it-done” attitude, and passion for helping others, Eve spent her first term on the Newark City Council turning ideas into action. She has organized over a dozen grassroots community events, including the Heroes in the Community event, senior workshops, Yo-Yo community day, kids’ summer camp, Don Edwards environmental clean-ups, and much more. Endorsed by both former Mayors David Smith and Alan Nagy, Eve has earned a reputation for listening, leading, and delivering results. Her life experiences—from growing up in a bicultural English and Spanish-speaking household, teaching college courses in Asia, and working at an African consulate—have shaped her belief that every culture, perspective, and voice deserves to be heard and respected. Reelect Eve Marie Little to keep Newark moving forward and join her in her goals of a new Cultural Arts Center, expanding family-friendly recreation with pop-up roller rinks and a bowling alley, and launching a Senior Citizen Academy that empowers older adults through education, resources, and connection. Learn more at www.EveMarieLittle.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=688",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Matthew Jorgens",
+      "statement": {
+        "by": "Matthew Jorgens",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I grew up in Newark and am a graduate of Bunker Elementary School, Newark Junior High School, and Newark Memorial High School. It has been an incredible honor to have been able to serve you and the place I’ve always called home as your Council Member. Over the past four years, I’ve advocated for policies that will help Newark continue to feel like home, build long-lasting civic partnerships, and bring Newark’s community spirit to future generations of Newark residents. During my time on the City Council, Newark has expanded library hours, put in place affordable housing initiatives, built new park amenities, and created more opportunities for Newark residents to participate in decision-making processes. I would be honored to have your trust and support to continue working to build a Newark where you can truly be a part of your community, where you can feel safe, where you can spend your time in vibrant places, and where you can be proud of where you live. To learn more about me and my vision for Newark’s future, please visit Jorgens4Newark.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "NOAH P. GRUSHKIN"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a nearly lifelong resident of the City of Newark, and as someone who loves this city I was raised in, I want to see so much more done for it. My highest priority is to reallocate funds from our budget that I believe are spent in excess and put them towards a better quality of life. In doing so, I will focus on improving our infrastructure as many of our roads are still in dire need of repavement. Furthermore, I want to invest more into our educational system here in the city–I believe every student deserves the highest quality experience that they can get. When it comes to quality I also believe in building more recreational outlets for our citizens. I also will work to bring business opportunities into our city, increasing our revenue base. I promise to accomplish this without having you pay a single cent higher than the taxes you already pay. My goal is to see our tax dollars utilized in a way that benefits all. I believe in a future for Newark that supports everyone living and working in it, and if you believe the same, then I hope I can count on your support!"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=688",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

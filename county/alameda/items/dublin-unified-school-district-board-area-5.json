@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Dublin Unified School District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Dan Cherrier",
+      "statement": {
+        "by": "Dan Cherrier",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My qualifications to be your Trustee are apparent in my voting record. I consistently advocated and voted for a second high school. Completing Emerald HS has been the main focus of my time in office. There is still much to do; making sure EHS has room for student parking, which the DUSD Board committed to in the Project EIR, rather than intruding into neighborhoods around the school. When I started on the Board, DUSD had over $20 million in discretionary reserves. The majority of that money has been spent over the consistent objections of eastside Board Members. Deficit spending continues to occur, managed only by deferring much needed maintenance. Prior to being elected to the Board, I campaigned against Measure E, a bond used to purchase computers that are already obsolete and no longer in use. Regardless, we will continue to pay that money off for the next 19 years. Hard choices will have to be made to restore a financially sound School District. It has been my privilege and honor to advocate for our schools by supporting financial decisions focused on future solvency. Your vote is appreciated. Thank you!"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=653",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Seema Badar",
+      "statement": {
+        "by": "Seema Badar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a parent of an eighth grader in Dublin Unified School District and a rising college freshman. Amazing public schools attracted my family to Dublin, and for years, I have worked alongside parents, educators, staff, and district leaders to give back. I served two years as President of the Kolb Elementary School Parent-Faculty Club and I am entering my third year as Vice President of the Fallon Middle School Parent-Faculty Club. Across both roles, I worked hard to give parents a real voice and support our teachers’ needs. I also engage directly and deeply with our Dublin Unified community, volunteering as a room parent, organizing dozens of outreach events, and fundraising for various classroom resources and local nonprofits. I also chaired the Citizens Bond Oversight Committee, and served on the Parcel Tax Oversight Committee, ensuring that our tax dollars are responsibly spent, and that our students have the best resources and facilities possible. Dublin Unified has gone through many challenges lately. We deserve leadership that will show up, listen closely, and work hard so every student will succeed. As your School Board Trustee, I will bring hands-on experience, responsible fiscal oversight, and a parent-centered approach. Together, let’s move Dublin Unified forward."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=653",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

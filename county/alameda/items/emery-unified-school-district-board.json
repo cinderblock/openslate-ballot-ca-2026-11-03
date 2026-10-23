@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Emery Unified School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "David Ridlehuber",
+      "statement": {
+        "by": "David Ridlehuber",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m a Bay Area native and have proudly called Emeryville home for more than five years. Since my daughter started first grade at Anna Yates Elementary, I’ve been an active volunteer, from coaching Girls on the Run, building sets for school plays, and supporting our students in many other ways. I am deeply committed to championing and supporting the dedicated teachers and staff who make our classrooms thrive. My commitment to Emeryville extends beyond our schools. I have served for more than three years on the Emeryville Public Arts Committee and I’m on the Board of Directors for Habitat for Humanity East Bay/Silicon Valley. I earned a B.S. in Public Administration from Northern Arizona University and a A.A. in Business Administration from the College of San Mateo. During more than 30 years in construction as a contractor, project manager and business owner, I have managed multimillion-dollar budgets, supervised diverse teams, and planned for long-term organizational success. These experiences prepared me to serve as an effective member of the Emery Unified School District Board of Education. I respectfully ask for your vote in the November 3, 2026, election."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=654",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

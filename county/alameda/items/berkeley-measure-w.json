@@ -1,0 +1,103 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Berkeley — Measure W (Charter Amendment Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/berkeley",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure amending the City Charter to reduce candidate filing fees; eliminate signatures in lieu of filing fee process; eliminate certain personal information from candidate statements; clarify and revise initiative, referendum and recall processes; amend election timelines for filling Mayor and Councilmember vacancies; increase the maximum amount from the public campaign financing fund for administration and enforcement from $250,000 to $400,000 per four-year election cycle; and make other changes be adopted?"
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=856"
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Farimah Faiz Brown, Berkeley City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure was placed on the ballot by the City Council of the City of Berkeley.\nIf approved, the measure would amend provisions of the Berkeley City Charter pertaining to election administration and procedures and requirements affecting candidates, initiatives, referenda, and recalls, and other changes. The primary changes to the Charter are as follows: 1. Replace the current $150 candidate filing fee with the amount prescribed in the California Elections Code (currently $25). \n2. Eliminate a provision providing that candidate statements include the candidate’s place of residence, place of birth and whether the candidate is a taxpayer in the City.\n3. Increase the maximum amount of public campaign financing funds which may be used for Berkeley Fair Campaign Practices Commission (“FCPC”) and City staff administrative and enforcement costs related to the public campaign financing program from $250,000 to $400,000, which is subject to cost of living adjustments. \n4. Clarify that the requirement that recall proceedings cannot be commenced against an officeholder until that person has held office for at least six months refers to the time in office since the beginning of the officeholder’s current term. \n5. Incorporate language regarding recall proponent’s statement and officer’s answer which, consistent with similar language in state law, clarifies that a person may seek a judicial remedy related to insufficiency, or false, slanderous, or libelous material in the statement or answer. \n6. Require that a recall proponent’s publication of the notice, statement and answer in a newspaper of general circulation must occur within thirty days of the officer’s answer deadline, and provide that signed petitions must be filed within 90 days of the date of such publication."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "7. Change the term “qualified elector” to “registered voter” where registered voter status is currently required by law. \n8. Amend election timelines for filling Mayor and Councilmember vacancies. \n9. Remove a provision requiring publication of the Charter and City ordinances in book form. 10. Amend provisions regarding processing of initiative petitions to create a deadline for the City Clerk to attach the certificate of sufficiency to a qualified petition, and amend timelines for City Council placement of qualified initiatives on the ballot. 11. Revise referenda provisions to incorporate and follow state law.\nThe measure would also make various non-substantive or clarifying changes to Charter sections affected by the above changes.\nThe Charter amendment will be adopted if the measure is approved by a simple majority of voters."
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=856"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on Measure W"
+              ]
+            },
+            ". Measure W was placed on the ballot by unanimous vote of the City Council to amend provisions of the Berkeley City Charter pertaining to election administration and procedures and requirements affecting candidates, initiatives, referenda, and recalls, among other changes.\nAs state laws, local processes, and elections administration evolve it is necessary to ensure that the City Charter remains relevant, enforceable, and implementable. The changes this measure would make are intended to align the Charter with State regulations, modernize certain deadlines and requirements, and make clarifying changes to certain elections and petition procedures.\nThe primary changes are related to the City’s policies around funding the public financing program, clarifying recall petition processes, correcting outdated deadlines, reducing barriers to becoming a candidate for city office, and removing antiquated requirements in candidate statements.\nThese amendments will provide clearer guidelines and timelines for the public and the City. The proposed amendments will also support the City and its staff by reducing costs and increasing efficiency in election processes, while still allowing for t ransparency, accountability, and robust public engagement.\nVote ",
+            {
+              "strong": [
+                "YES"
+              ]
+            },
+            " on ",
+            {
+              "strong": [
+                "Measure W."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Adena Ishii",
+          "title": "Mayor of Berkeley"
+        },
+        {
+          "name": "Ben Bartlett",
+          "title": "Councilmember, District 3"
+        },
+        {
+          "name": "Brent Blackaby",
+          "title": "Councilmember, District 6"
+        },
+        {
+          "name": "Igor Tregub",
+          "title": "Councilmember, District 4"
+        },
+        {
+          "name": "Terry Taplin",
+          "title": "Councilmember, District 2"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=857",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure W",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf",
+      "mediaType": "application/pdf",
+      "page": 858,
+      "sha256": "5b1e32e3b8faab472f2923ea17685035b4e8595e18ddf1f37c9fcd90a88fa0e3"
+    }
+  ]
+}

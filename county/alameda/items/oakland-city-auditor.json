@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oakland City Auditor",
+    "kind": "race",
+    "jurisdiction": "us/ca/oakland",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Michael C. Houston",
+      "photo": {
+        "file": "img/candidates/oakland-city-auditor/michael-c-houston.jpg",
+        "alt": "Michael C. Houston",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=749",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Michael C. Houston",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, MICHAEL C. HOUSTON, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Michael C. Houston."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: City Auditor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Oakland City Auditor; Oakland Assistant City Auditor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): Oakland City Auditor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: Oaklanders want accountability from City Hall and experience matters. As your independent elected City Auditor since 2024, I’ve exercised the highest standards of professionalism and integrity. My office has ensured accountability by conducting audits of the issues most important to Oakland including illegal dumping, business taxes, and emergency response. We also uncovered and fought fraud, waste, and abuse through whistleblower investigations, and have provided impartial financial analyses of City ballot measures – independently of the Mayor, City Council, and City Administration. As a professionally-certified auditor with 18 years of experience in audits and investigations, when re-elected, I will continue to work for you by identifying ways to streamline processes, safeguard public resources, reduce costs, and raise revenue for the City. My office will continue to complete timely audits and investigations, respond to community concerns, and keep Oaklanders informed. I ask for your vote. www.MichaelCHouston.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Sele Nadel-Hayes Keith Uriarte\nAnnie Campbell Washington Dan Kalb\nLinda Dittes\nJames E. Vann Barbara J. Parker Viola Gonzales\nLoren Taylor\nNancy Nadel Daniel Swafford Katherine Teng Dwyer Sanford Forte Carol Wyatt Nathan Miley Warren Logan Patricia Kernighan Gay Plair Cobb Richard Fuentes"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=749",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

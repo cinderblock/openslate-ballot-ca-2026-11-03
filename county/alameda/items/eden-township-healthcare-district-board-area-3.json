@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Eden Township Healthcare District Board, Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Narges Dillon",
+      "statement": {
+        "by": "Narges Dillon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a Licensed Marriage and Family Therapist and Castro Valley resident for over a decade, I am running for the Eden Healthcare District Board (Area 3) to help further the Healthcare District’s mission “to improve the health of the community we serve by supporting and funding access to direct and indirect care services and health education.” For the past seven years I have served as the Executive Director of Crisis Support Services of Alameda County, overseeing a $12 million budget, more than130 staff, and vital programs like the 988 Suicide and Crisis Lifeline. My career has been dedicated to strengthening our healthcare safety net, reducing health disparities, and advocating for behavioral health systems that deliver care when people need it most. My colleagues have repeatedly trusted me to serve as President of the Behavioral Health Collaborative of Alameda County, as well as President of 988 California. I bring two decades of clinical experience, non-profit executive leadership, and deep local roots. As your representative, I will leverage my regional leadership and clinical background to expand essential health resources, support our healthcare workforce, and ensure District funds directly benefit local residents. I ask for your vote to build a healthier Eden Healthcare District together. Learn more or contact me at Narges4Eden.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=713",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

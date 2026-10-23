@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 18",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-18",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Mia Bonta",
+      "statement": {
+        "by": "Mia Bonta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: In this tough environment, leadership and experience matter. Home ownership is out of reach. Families can’t afford groceries. Healthcare costs have skyrocketed. I’m proud to represent the East Bay and help our families stay in affordable housing, live in clean/safe neighborhoods, and see a doctor if they need one. As a working mom of three who grew up experiencing poverty and housing insecurity, these issues are personal. Thanks to your support, we’ve expanded childcare, free school meals, and universal pre-K for thousands of children and established the California Legislative Children’s Caucus to ensure no child is hungry or left behind, while introducing new bills to reduce child poverty. As Assembly Health Committee Chair, I stand up to Big Corporations to lower prescription drug costs, ensure our seniors receive the home medical equipment they need, and strengthen neighborhood protections around coal facilities, protecting our clean air. And I’ve led legislation to clean up our streets, properly dispose of abandoned RVs, and ensure our neighborhoods are safe for all. We must continue to demand our fair share of funding to fight our homeless crisis and make affordable home ownership an achievable dream for all. That’s why I’ve fought for billions of dollars in state spending for housing creation, while expanding housing assistance for students and families, renter protections, and services to transition people off the street. I ask for your vote to continue to support our families in today’s economy and protect the health and safety of every Californian. Join me: MiaBonta.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=639",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

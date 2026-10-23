@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Leandro City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-leandro",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Sbeydeh Viveros-Walton",
+      "statement": {
+        "by": "Sbeydeh Viveros-Walton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: It is an honor to represent my neighbors as District 1 Councilmember since 2024. I learned so much about our community’s needs connecting with so many of you.These conversations confirm to me that our priorities must continue to be affordability, community safety, revitalizing our local economy, protecting city services, and fiscal responsibility. I bring two decades of public service, including serving as San Leandro’s Public Information Officer and currently as Director of Higher Education at a civil rights legal and advocacy organization. I’ve dedicated my career to bringing people together to solve problems, preserve accountability, and expand opportunity. I am the mother of two young children who are growing up as fourth-generation San Leandrans. If elected for a second term, I will continue to work diligently for all neighborhoods to ensure that San Leandro is a great place for all of us to live and a place we are proud to call home. I’m endorsed by Assemblymember Liz Ortega, Mayor Juan Gonzalez, Councilmembers James Aguilar, Dylan Boldt, Xouhoa Bowen, and the Alameda County Building Trades Council. I respectfully ask for your vote so we can continue building a stronger San Leandro - together. www.SbeydehForSanLeandro.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=696",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

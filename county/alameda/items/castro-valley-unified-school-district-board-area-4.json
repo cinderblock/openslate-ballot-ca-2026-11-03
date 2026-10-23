@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Castro Valley Unified School District Board, Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Faith Carroll",
+      "statement": {
+        "by": "Faith Carroll",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am running for the Castro Valley Unified School District Board, District 4, because I believe strong schools are built through trust, communication, and community. For 14 years, Castro Valley has been home. My husband and I are raising three children who attended CVUSD schools from elementary through high school. I have experienced our district as a parent, volunteer, parent club leader, booster secretary, and classified substitute. I earned a bachelor’s degree in speech communications from the University of Wisconsin Whitewater. I have also held leadership positions at all the schools my kids have attended, and was honored as CVUSD Volunteer of the Year for Creekside Middle School. I want to be a bridge between our community and schools. I want to listen to our families, support our teachers and staff, and collaborate with district leadership. I believe in transparency, respect, and accountability. My priorities include safe schools that are well-maintained, student mental health, responsible facilities planning, and strong communication. I believe that every student deserves a meaningful path after graduation. We should value trades, apprenticeships, career training, the arts, and college degrees equally, by providing visible, accessible, and fully supported pathways to success for all students. If these ideas resonate with you, I hope you’ll support me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "BRIAN A. FOSTER\nMy education and qualifications are: If you want to raise academic standards, if you want more Advanced Placement (AP) classes, and if you want to end 50% credit for doing no work, then vote Brian A. Foster to the CVUSD School Board, Area #4. County statistics currently place Castro Valley’s academic performance squarely in the middle of our county. We can and should compete academically with high-performing school districts like Dublin, Pleasanton, and Fremont. Join me in restoring Castro Valley’s schools to excellence and making academic achievement our #1 priority. My 13 years as a social studies teacher and 30 years in public sector management provide a unique combination of skills and experience necessary to demand academic excellence. Together, we will raise academic standards and celebrate real student success. You deserve honest feedback on your children’s academic progress and preparation for college-level rigor. I will ensure that our teachers have the opportunity, authority, and support necessary to provide your children with the best education possible. Real learning happens in the classroom, so let’s keep the focus there. I am supported by a wide variety of community leaders who recognize my commitment to fighting for an honest education. Please visit my website for more information on my positions and endorsements: https://foster4cvusd.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=651",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Joseph Grcar",
+      "statement": {
+        "by": "Joseph Grcar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Our schools are at a turning point. With several Board members leaving, we have a real opportunity to bring in stronger leadership, fresh ideas, and a clear focus on students and families. I’ve spent my career as a scientist at our national laboratories in Livermore and Berkeley, solving complex problems. Now I’m stepping forward to take on one that matters even more—ensuring our schools stay strong, competitive, and focused on student success. School funding depends largely on student attendance. When enrollment declines, resources shrink. Castro Valley has remained strong because families choose our schools, including many from outside the district. That choice is not guaranteed—we have to earn it by maintaining high standards, safe campuses, and strong academic programs. As a Board member, I will tell you the truth, listen to parents, expand access to Advanced Placement courses, ensure our schools are free from bullying, and raise achievement without lowering standards. This election will decide the direction of our schools. If you want leadership that is honest, focused, and committed to results, I ask for your vote. Let’s choose strong schools and a stronger future—together."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=651",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

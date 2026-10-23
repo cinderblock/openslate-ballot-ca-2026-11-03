@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fremont City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/fremont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Kathy Kimberlin",
+      "statement": {
+        "by": "Kathy Kimberlin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I thrive on building community by embracing diversity as one of our greatest strengths. I unite people and organizations, fostering collaboration and ensuring every resident feels heard, valued, and represented. In my current role as the Fremont Field Director for the Alameda County Supervisor, I bring resources to people and people to resources for Fremont’s small businesses, nonprofits, services for youth and seniors, and support for the unhoused with food, shelter, and wrap-around services. Since my appointment to Fremont City Council in 2024, I have been committed to bringing our community together through meaningful conversations. I have made meaningful progress in addressing traffic issues, advocating for our unhoused neighbors, increasing support for local businesses, strengthening nonprofit partnerships, and enhancing public safety by working collaboratively to develop solutions that move the needle and reflect our community’s values and priorities. This has earned me the endorsement of elected officials including Congressmember Ro Khanna, State Treasurer Fiona Ma, Assemblymember Alex Lee, all Mayors of the Tri-Cities, and many more. I am committed to serving my community to benefit you and our future generations. I would be honored to have your support and your vote. www.kathykimberlin.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=681",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Vipin Sharma",
+      "statement": {
+        "by": "Vipin Sharma",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I have called Fremont home for more than two decades. Walking and running through our neighborhoods, speaking with residents, volunteering with the Fremont Police Department’s Volunteers in Police Service program, and attending City Council meetings have deepened my connection to our community and my understanding of its challenges. I hold a master’s degree in Applied Physics, a bachelor’s degree in Physics, and an engineering degree in Electronics and Communications. I have worked in engineering since 1991 and currently serve as a senior engineering manager. My professional experience has taught me to examine complex problems, ask questions, bring people together, and remain accountable for results. I am running for City Council because residents deserve thoughtful decisions, clear explanations, and a voice before important choices are made. I will bring an independent, evidence-based approach to public safety, homelessness, responsible budgeting, neighborhood quality of life, and Fremont’s future. I will not promise that every problem has a simple solution. I will promise to listen, prepare, explain my reasoning, and treat residents with respect, and pursue practical solutions. Fremont is our shared home. I respectfully ask for your vote to represent District 3 and work toward a safer, stronger, and more connected community. https://www.vipin4fremont.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=681",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

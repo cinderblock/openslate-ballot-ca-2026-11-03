@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hayward City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/hayward",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Brian M. Schott",
+      "statement": {
+        "by": "Brian M. Schott",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Since the time we moved to District 1 in 1969, I have been actively involved in Hayward, formerly serving on the Hayward Planning Commission, the St. Rose Hospital Foundation Board and actively involved at All Saints Catholic Church and the Chairperson of the Hayward Hills Neighborhood Task Force. In addition, I have served as the President of the Hayward Rotary Club, Hayward School’s Bond Oversight Committee Member, and the Hayward Chamber of Commerce as its Interim President/CEO. A product of Hayward schools. I will ensure that providing core essential services be City Hall’s top priority. I’m the product of Hayward schools and own a family business here. I know firsthand what it takes to run a small business in good times and bad times: making tough decisions, providing outstanding customer service, building a team of great employees, balancing a budget and living within our means. Our employees are union members, and we’ve taken pride in hiring generations of Hayward residents. I offer leadership and solutions to the following priorities I hear from my neighbors: 1) Making our neighborhoods safer by maintaining fast 911 response, effective police protection, and crime prevention 2) Properly maintaining our streets/sidewalks 3) Monitoring/addressing homeless encampments 4) Increasing housing affordable for all. Vote Brian Schott for strong leadership in District 1."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=684",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "George Syrop",
+      "statement": {
+        "by": "George Syrop",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: We deserve elected leaders who put people over profit, which is why my campaign has refused to take corporate money from day one. Born and raised in Hayward, and the only renter on City Council, delivering results for our city has been my top priority since being elected in 2022: Crime is down 30% since 2023 and homelessness is down 17% since 2019. Renter protections are stronger, and we’ve built 500+ units of affordable, senior, and supportive housing. We’ve opened a new fire station, saved St. Rose Hospital, brought back Buffalo Bill’s Brewery, and renovated South Hayward’s library and community center. Our roads have fewer potholes, and we’re providing free bus rides and bicycles to students. If re-elected, I’ll work to: 1. Reduce homelessness, graffiti, speeding, and illegal dumping. 2. Fix the Downtown Loop to attract and support our local businesses. 3. Expand renter protections and affordable housing. 4. Improve public safety and wildfire preparedness. 5. Solve the structural budget deficit to restore social services. 6. Protect our environment from data centers. I am proud to be endorsed by over 60 organizations, local leaders, and elected officials. With your vote, we will continue to realize Hayward’s potential. Your friend, George Syrop. www.GeorgeSyrop.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=684",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

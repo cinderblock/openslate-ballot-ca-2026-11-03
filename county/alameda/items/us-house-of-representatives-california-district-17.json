@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 17",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-17",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Ritesh Tandon",
+      "statement": {
+        "by": "Ritesh Tandon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: For 26 years, the Bay Area has been my home. I raised my family, worked as an engineer, built a small business, and served our neighborhoods. I come from a middle-class family. I know the fear families feel when wages cannot keep pace with rent, groceries, utilities, insurance, and medical bills. I have struggled myself, and I understand the pain families carry. Congress should be public service, not a platform for ambition or building a national profile. My attention will remain on you: your affordability, safety, job, family, and future. Integrity comes first. I pledge not to buy or sell individual stocks while serving in Congress. I will support a stock-trading ban for members of Congress and their families. Public officials should serve people, not profit from their positions. I will fight to lower housing and healthcare costs, reduce prescription drug prices, strengthen Social Security, Medicare, protect coverage for preexisting conditions, and demand transparency from hospitals and insurers. As an engineer and technology leader, I will champion responsible innovation, support small businesses, protect American jobs, prepare workers for artificial intelligence, and create opportunities for graduates. I support voter identification, secure borders, and safe communities. I will work with Democrats, Republicans, and independents whenever it benefits our district. I will listen, remain accessible, return your calls, and judge every proposal by one standard: Does it improve your life? Our district deserves a fresh new voice. Give me two years to work for your family. I ask for your vote. www.tandonforcongress.com ritesh@tandonforcongress.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=635",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

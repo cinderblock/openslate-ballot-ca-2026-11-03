@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pleasanton City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/pleasanton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Jamie Yee",
+      "statement": {
+        "by": "Jamie Yee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My parents moved our family to Pleasanton in 1969. I attended Pleasanton schools from Alisal Elementary School through Foothill High School. In 1994, I purchased my first home to raise my family in the community I have always called home. Now, I am running to bring thoughtful leadership to City Council: supporting public safety, keeping our local economy strong and vibrant, fulfilling our infrastructure needs, and keeping City Hall transparent and accountable. For over 30 years, I have dedicated myself to public service and community leadership. I served for 12 years as a Pleasanton Unified School District Board Trustee, helping guide the district through the Great Recession with a commitment to fiscal responsibility, transparency, and long-term planning. I also served on the City’s Economic Vitality Committee and Civic Arts Commission, the Tri-Valley Regional Occupational Program Board, and California’s statewide PTA Board. Professionally, I have worked for Alameda County’s public health agency for 18 years, leading collaborations with local nonprofits, parent and community groups, and our schools, all to improve healthcare access for families and youth across our neighborhoods. With Pleasanton facing great challenges and greater opportunities, we deserve experienced, responsible leadership that learns from our past and plans for our future. I would be honored to serve. Reach out and learn more at JamieYee.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=694",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Reena Gupta",
+      "statement": {
+        "by": "Reena Gupta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a small business owner and Pleasanton mom for 15 years, I want to ensure Pleasanton remains a place where our children can build their futures and raise families of their own. Pleasanton is taking steps to strengthen its financial future, and we must remain fiscally disciplined. We need leadership focused on fiscal responsibility, a stronger economy, transparency, and civic engagement to protect Pleasanton’s quality of life. I’m running a people-powered campaign because I believe the best ideas come from the people of Pleasanton, not just from City Hall. That’s why I’m making it easier for residents to stay informed, share ideas, and help shape decisions that affect our city. I’ll work alongside residents, businesses, city staff, and my fellow councilmembers to revitalize Downtown Pleasanton, support the redevelopment of Stoneridge Mall, attract businesses, reduce commercial vacancies, and grow the revenue base, not the tax rate. I support thoughtful housing, public safety, restoring library hours, and investing in infrastructure. As a former Pleasanton Economic Vitality Commissioner and founder of the Mom Relaunch Foundation, I respectfully ask for your vote to serve our community, carry your voice to City Hall, and help build a stronger economy and an even more vibrant Pleasanton."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=694",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

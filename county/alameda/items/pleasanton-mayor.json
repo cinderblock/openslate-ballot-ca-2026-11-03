@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pleasanton Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/pleasanton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Jack Balch",
+      "statement": {
+        "by": "Jack Balch",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: It’s a tremendous honor to serve as your Mayor. I value meeting people where they are, listening, and inviting everyone to be part of our community conversation. Together, we’ve made a difference on what matters most: keeping Pleasanton safe, fiscally responsible, and an exceptional place to live, work, and raise a family. As Mayor, I’ve honored my promises to strengthen public safety, advance long-term water reliability, cut bureaucracy, support vitality and local businesses, bring greater transparency of city actions, and strengthen Pleasanton’s financial foundation. I’ll continue working to bring people together around our shared values while delivering real results that protect and enhance our quality of life. While challenges remain, my commitment is unchanged: transparent government, quality and affordable city services, and protecting your hard-earned taxpayer dollars as we address affordability challenges and constrained budgets. My priorities remain clear: a vibrant downtown, economic vitality that supports the services and amenities we value, robust public safety, reliable and affordable water, continued collaboration with our outstanding schools, and clean parks and open spaces for everyone to enjoy. I’d be honored to earn your vote so we can continue building a thriving Pleasanton for all of us. Thank you. www.JackForPleasanton.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=692",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Julie Testa",
+      "statement": {
+        "by": "Julie Testa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Pleasanton’s future should be shaped by the people who call our community home. Throughout my eight years of service on the City Council, I have put residents first, listening and advocating for transparency. All my children attended PUSD schools, and I am a strong advocate for families. I am not a builder or developer. I have addressed complex challenges, from state housing mandates and regional pressures to local issues affecting our neighborhoods, businesses, and quality of life. I ask tough questions, challenge assumptions, and stand up for what I believe is in the best interest of Pleasanton residents. Preserving what makes Pleasanton special requires thoughtful leadership and fiscal discipline. Residents, not special interests, should remain at the center of local government. Protecting financial stability, balanced budgets, infrastructure, and clean, safe drinking water are essential priorities. I’ve demonstrated my commitment to excellent city services, public safety, parks and open space, a strong local economy, and responsible growth. Together, we can protect Pleasanton’s character, strengthen our community, and honor our historic Downtown. I would be honored to earn your vote. JulieTesta.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=692",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "BART Board of Directors, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/bart-4",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Robert Raburn",
+      "statement": {
+        "by": "Robert Raburn",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: BART connects the Bay Area, and I bring the expertise and vision to move it forward. As a professional transportation planner with 34+ years of experience, I’m dedicated to expanding alternatives to driving. I walk the talk: I live next to transit and depend on trains, buses, bikes, and walking. As a Bay Area Rapid Transit District 4 Director since 2010, I’ve delivered a new fleet of BART cars and tall faregates to reduce fare evasion at all stations. “Safe and Clean” has been my focus. Attendants at elevators and restrooms improve cleanliness and safety. Unarmed crisis specialists improve safety, connect the unhoused with services, and enhance rider comfort. Crime is down 40%. Nine out of ten passengers are satisfied with the “New BART.” We’ve created thousands of affordable homes close to transit, plus I’ve directed BART to be equitable, hire locally, and promote small businesses. Speaking in a personal capacity, I am committed to improving the lives of Bay Area residents by passing the Regional Transit Measure to preserve vital service, combat climate change, reduce congestion, and enhance connections to destinations throughout our region. Endorsed by the Sierra Club, Congresswoman Lateefah Simon, State Senator Jesse Arreguín, Assemblywoman Liz Ortega, and dozens of local leaders. www.robertraburn.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=707",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

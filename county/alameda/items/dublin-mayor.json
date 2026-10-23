@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Dublin Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/dublin",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Kiran Mohammad",
+      "statement": {
+        "by": "Kiran Mohammad",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Dublin is a city built for possibility. As it continues to grow, I believe our responsibility is to ensure that growth improves the everyday lives of the people who call Dublin home. My work in human-centered systems design starts with a simple idea: systems work better when they are designed around the people who use them. I want to bring that approach to City Hall—listening to residents, identifying where our systems create unnecessary friction, and developing practical solutions around how people actually live. As Mayor, I will prioritize thoughtful growth, public safety, transportation and mobility, thriving local businesses, responsible use of public resources, and neighborhoods where people feel connected to their community. I believe residents deserve a city government that is accessible, transparent, responsive, and willing to rethink processes that no longer serve them well. Decisions should begin with understanding their real-world impact on residents. Dublin’s next chapter should not simply happen to us. We should design it together. I am running for Mayor to build a city that works better for everyone. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=676",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Michael McCorriston",
+      "statement": {
+        "by": "Michael McCorriston",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Dublin needs a leader who listens, acts on residents’ concerns, and has proven experience and vision to guide our diverse city. It’s about preserving Dublin residents’ quality of life. My wife and I have lived in Dublin for 32 years. I’ve had a successful 40-year career managing the financial resources of large multinational corporations. In six years on the city council, I have served as Mayor and Vice Mayor, and served on boards and committees focusing on transportation, water resources, financial management, economic development, and housing. I will continue to put my experience and care for our city to work for you advocating for: Strong Public Safety. Mandate investments in safety programs and security infrastructure to ensure our residents remain safe. Economic Vitality. Support small businesses and attract new industries, broadening our business community and creating local jobs. Affordable Housing. As a critical part of our residential strategy, introduce creative solutions so essential workers, new families and seniors can afford to live in Dublin. Sustainable Environment. Reduce traffic congestion while preserving remaining open space and conserving natural resources. It will be my honor to represent you as Dublin’s Mayor. Learn more about my platform at www.Mike4Dublin.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=676",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

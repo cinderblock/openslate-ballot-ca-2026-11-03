@@ -1,0 +1,19 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/alameda-county",
+    "title": "Alameda County Voter Information Guide: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Alameda County Registrar of Voters",
+      "uri": "https://acvote.alamedacountyca.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T17:52:48Z",
+    "sources": [
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    ]
+  }
+}

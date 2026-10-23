@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Bay Regional Park District Board, Ward 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Bruce Henry",
+      "statement": {
+        "by": "Bruce Henry",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As the current Chair of the District’s Park Advisory Committee (elected by the Park Advisory Committee members), I have experience collaborating with community members and park staff to expand trail access, protect our open spaces, and enhance public safety. As someone who enjoys our regional trails every week, I know firsthand how vital these spaces are to our community. Managing our parks requires both community dedication and rigorous organizational oversight. My professional background includes decades of business experience managing major accounts and high-level sales operations for two prominent global consumer product companies. Having previously chaired the Park Advisory Committee’s finance subcommittee, I know how to translate corporate financial discipline, strategic planning, and large-scale operational experience into effective public management. I will ensure our tax dollars are used efficiently. When elected to represent Ward 5, my goals will be expanding safe trails for all users, accelerating wildfire mitigation and championing local conservation initiatives across Dublin, Pleasanton, Livermore, Newark, Sunol, and Fremont. I respectfully ask for your vote to bring proven financial oversight and deep district experience to the Board of Directors."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=712",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Olivia Sanwong",
+      "statement": {
+        "by": "Olivia Sanwong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: From Brushy Peak to Mission Peak, re-elect Olivia Sanwong for East Bay Regional Park District. Deeply rooted in this community since childhood, I am honored to serve as your elected representative and Board President. My promise: to protect our land, water, wildlife, and open space because time in nature restores us all. First-term governing achievements: securing $10,000,000 wildfire prevention funding; advancing wildfire-resilient Vegetation Management Strategy; restoring Shadow Cliffs Lake and grassland ponds; and expanding Alameda Creek Watershed environmental education. We opened Patterson Ranch (300 acres) at Coyote Hills; Iron Horse Trail Bridge at Dublin Boulevard, improving public safety; Tyler Ranch (2,844 acres, 18 miles trails) and Valle Vista mountain biking flow trail at Pleasanton Ridge Regional Park. I am a UCLA-educated mathematician and MBA with 15 years civic leadership; 12 years with East Bay Regional Park District since appointment to Park Advisory Committee; and 9 years governing in elected office, responsible for approving budgets, accountable to the public as a fiduciary — first as Zone 7 Water Agency Director (2018-2022), then East Bay Regional Park District Director since 2023. Vote Olivia Sanwong so I can continue my work resolving issues with the Del Valle kiosk and Mission Peak restrooms, and open Doolan Canyon and Garms. This work requires multi-jurisdictional thinking where partnerships matter as much as policies. Endorsements include: AFSCME Local 2428, Sierra Club, League of Conservation Voters, Assemblymember Alex Lee (Fremont, Newark, Sunol), Mayors Sherry Hu (Dublin); John Marchand (Livermore); Jack Balch (Pleasanton). Learn more: www.oliviasanwong.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=712",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oro Loma Sanitary District Board of Directors, Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Tiare Peña",
+      "statement": {
+        "by": "Tiare Peña",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I bring professional experience in land use planning, environmental review, public policy, and legislative affairs, as well as a longstanding commitment to public service. This experience has required careful analysis of policies, regulations, and infrastructure impacts while thoughtfully balancing the needs of the public. Prior to my work as a planner, I served as a legislative aide to an elected official, an experience that deepened my understanding of government accountability, interagency collaboration, and responsive public service. I currently serve on my city’s Senior Commission, where we advocate for the needs and interests of older adults. The Oro Loma Sanitary District plays an essential role in protecting the environment and maintaining reliable wastewater infrastructure. I would bring integrity, transparency, and sound judgment to decisions involving the responsible management of public resources and the long-term interests of our community. I would be honored to earn your vote and to serve as your representative for District 1."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=719",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Shelia Young",
+      "statement": {
+        "by": "Shelia Young",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Have lived and served in the Oro Loma Sanitary District for many years, including service as Mayor of San Leandro during a period of economic growth and financial stability. I was elected to Oro Loma in 2014 and continue to help guide decisions affecting our residents. I possess the knowledge, education and experience to address our wastewater collection and treatment needs while also providing innovative and cost-effective solid waste and recycling services. Service as Chair of the East Bay Dischargers Authority, a joint powers organization formed to collectively manage wastewater treatment and disposal services for 800,000 residents. Also served as President of StopWaste, a county-wide organization managing recycling/waste reduction services. These agencies are responsible for the environmental choices that protect the health of the Bay and make us more productive and mindful of waste reduction and recycling. I have the proven tools to assist Oro Loma in decisions regarding our future. I feel very fortunate to be part of a team of board and staff members that offers innovative thinking focused on our future. I respectfully ask for your support."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=719",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

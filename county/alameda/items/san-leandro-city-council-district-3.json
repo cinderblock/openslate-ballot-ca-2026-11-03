@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Leandro City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-leandro",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Lee Thomas",
+      "statement": {
+        "by": "Lee Thomas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a longtime resident, nonprofit executive director, small business owner, and former City Councilmember, I have dedicated my career to serving our community. I’m running for City Council District 3 because I believe San Leandro’s best days are ahead, and I’m ready to provide leadership you can trust. Our city has tremendous potential. I will work to protect essential police and fire services, support practical and inclusive housing solutions, strengthen our local economy, and ensure the city continues providing the high-quality services residents deserve. I believe in putting residents first by listening. I hold a Master of Public Administration and a Bachelor of Science in Organizational Behavior. Throughout my career, I have worked with elected officials to advance policies that expand economic opportunity, including helping pass a countywide initiative that supported immigrants, women, and people of color in launching home-based businesses. I have worked to support school families and supported funding for more accessible, affordable housing. I founded the New Shoes for School Drive, served with the Rotary Club and the San Leandro Scholarship Foundation. I would be honored to earn your vote. LeeThomasForCityCouncil.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=697",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Joseph Trujillo",
+      "statement": {
+        "by": "Joseph Trujillo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: For more than 20 years, I have managed critical infrastructure, multimillion-dollar budgets, and complex public projects for the California Department of Water Resources. As an 18-year San Leandro resident, I am running for District 3 City Council to deliver results through strong leadership, fiscal responsibility, and accountable government. My career has been built on solving problems, protecting taxpayer resources, and ensuring projects are completed efficiently and responsibly. I will bring that same disciplined, results-driven approach to City Hall. My commitment to our community is proven through service on the Community Police Review Board, as a former PTA President, a homelessness outreach volunteer, and a correctional ministry volunteer. These experiences have reinforced my belief that effective leadership begins by listening, building partnerships, and taking action. I am committed to strengthening public safety, fixing our aging infrastructure, supporting responsible economic development, protecting essential city services through sound financial stewardship, and making City Hall transparent, responsive, and accountable to every resident. Together, we can build a safer, stronger, and more prosperous District 3. Learn more at: www.votetru.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=697",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

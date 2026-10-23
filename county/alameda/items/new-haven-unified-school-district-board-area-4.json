@@ -1,0 +1,60 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "New Haven Unified School District Board, Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Shruti Kumar",
+      "statement": {
+        "by": "Shruti Kumar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As your New Haven Unified School District Trustee, I respectfully ask for your vote for re-election. As a parent of three children who have all been educated in New Haven schools and a tenured Professor of Physics at Mission College with over 24 years of experience in public education, I have dedicated my career to helping students succeed. Before being elected, I volunteered in our schools for more than a decade through Art Vistas, Chess Club, STEM programs, and other youth organizations. As your trustee, I have focused on expanding educational opportunities, strengthening student achievement, and being a thoughtful steward of taxpayer dollars. During my first term, I championed expanding opportunities for students by advancing middle school Spanish, Speech & Debate, and Math Olympiad; strengthening college pathways through our California State University, East Bay partnership; and improving school safety and traffic flow. I have remained accessible through my regular Chat With Your Trustee office hours, school visits, and community engagement because I believe the best decisions are made by listening to our community. Every decision I make is guided by one question: What is best for students? I would be honored to earn your vote and continue serving our community."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=660",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Charandeep Singh Tatlah",
+      "statement": {
+        "by": "Charandeep Singh Tatlah",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am a neighbor who is a product of the New Haven Unified School District. I attended Elementary through High School at NHUSD and University at San Jose State. My son now is in Elementary at NHUSD and this mission is personal in keeping the district progressing forward. I built a career as a software engineer at Google and Salesforce before launching my own businesses over the past three years. Now pursuing my Master’s in Computer Science at Georgia Tech online program, I bring a unique blend of technical expertise in STEAM, problem-solving, entrepreneurship, and leadership to our school board. I understand our district’s unique strengths and the real-world skills our children need to succeed. Our teachers are the foundation of our district, and they are the ones that have shaped my experience. I am deeply grateful for their dedication, care, and expertise they bring to our classrooms every single day. My priorities are rooted in the core values of: Honesty, putting students first, listening to parents, empowering our teachers, driving increased resources to our schools and community integrity. I respectfully ask for your vote to serve our community."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=660",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Kashif Wasim",
+      "statement": {
+        "by": "Kashif Wasim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a software engineer with 20 years of experience, a father of a student in the New Haven Unified School District, and the husband of a teacher in NHUSD, I see our schools through the eyes of both a parent and a partner in education. I’m running for School Board Trustee because every child deserves classrooms that prepare them for a changing world—and every teacher deserves the support to make that possible. Technology is reshaping how we live and work. AI, robotics, and digital tools are no longer optional; they are essential. I want to bring practical technology into our schools so students gain needed skills and teachers receive training and resources to succeed. My background helps me understand what works and how to introduce it into the classroom. I am committed to raising academic standards and school ratings across the district. That means supporting strong instruction, clear accountability, and continuous improvement—while ensuring teachers have what they need to do their best work. I will listen to parents, teachers, and community members, work hard, and stay focused on the students and families who count on our schools. It would be an honor to earn your trust and your vote."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=660",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

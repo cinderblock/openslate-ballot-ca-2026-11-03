@@ -1,0 +1,797 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Albany — Measure S (Real Property Transfer Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/albany",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "To support City of Albany general services, with funding that cannot be taken by Sacramento, including: street and park maintenance, recreation, public safety, and environmental programs, shall a measure adjusting the City’s real property transfer tax rate from $15.00 to between $10.00 and $30.00 per $1,000 purchased, depending upon the property’s purchase price, providing an additional $1,000,000 annually, until ended by voters, with all funds remaining local be adopted?"
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=831"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “yes” vote on Measure “S” will approve the real property transfer tax rate adjustment."
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=831"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “no” vote on Measure “S” will not approve the real property transfer tax rate adjustment."
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=831"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Malathy Subramanian, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Pursuant to City Measure “CC”, approved by Albany voters in 2020, the City currently imposes a real property transfer tax at an across-the-board rate of 1.5% of the purchase price/value of the real property interest transferred. The real property transfer tax is a general tax. Revenues are deposited into the General Fund and may be spent for any City expense like street and park maintenance, recreation, public safety, and environmental programs. \nMeasure “S” was placed on the ballot by the Albany City Council on July 20, 2026 and, if approved by a majority of Albany voters (50%+1), will adjust the real property transfer tax from an across-the-board 1.5% rate to the following five-tiered rate structure, depending upon the purchase price/value transferred:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "1.0% of the purchase price/value transferred, where the purchase price/value transferred is below the th\n25 percentile of transactions during the 12 months preceding September 1 of the preceding year, as recorded by the Alameda County Assessor, rounded to the nearest $100,000 increment;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "1.5% of the purchase price/value transferred, th\nwhere it is at the 25 percentile but below the th\n50 percentile of transactions during the same 12 months, rounded to the nearest $100,000 increment;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "2.0% of the purchase price/value transferred, th\nwhere it is at the 50 percentile but below the th\n75 percentile of transactions during the same 12 months, rounded to the nearest $100,000 increment;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "2.5% of the purchase price/value transferred, where it is at the 75th percentile but below the th\n90 percentile of transactions during the same 12 months, rounded to the nearest $100,000 increment;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "3.0% of the purchase price/value transferred, where th\nit is at or above the 90 percentile of transactions during the same 12 months, rounded to the nearest $100,000 increment. \nThis rate adjustment is estimated to generate an additional $1,000,000 annually. The new rates would become effective on January 1, 2027 and remain in effect until repealed by voters at a subsequent election. The purposes for this tax would not change. The tax would remain a general tax which may fund any valid City purpose, like those identified above.\nMeasure “S” does not change the current administration of the tax. The real property transfer tax generally applies to transactions involving the sale and purchase of real property. Certain transactions are exempted from the tax. For example, no tax is assessed where a new deed is recorded to correct an existing deed or when the purpose of the transfer is to divide community property."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "“S”. If you desire a copy of the Measure, please call the"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "Office of the City Clerk at (510) 528-5710 and a copy will "
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=831"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure S protects the City’s services we rely upon while "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "making our tax system fairer."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Albany’s high quality of life, and property values, exist in part because we invest in excellent services. For instance, while some smaller cities in Alameda County contract the County for fire, medical and police response, we choose to have our own departments because we want these services to be more responsive and community-based. Measure S ensures we continue funding these services by adjusting the transfer tax when properties sell. This approach recognizes that a significant portion of a property’s value comes from the services the City provides. Measure S also makes Albany more equitable. Currently all properties are taxed at the same rate upon sale. Measure S cuts the rate for properties in the lowest quarter by value while raising it for properties that sell for more than the median. It raises the rate the most for properties in the upper tenth.\nYour City Councilmembers unanimously ask you to"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on Measure S."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Peggy McQuaid",
+          "title": "Mayor"
+        },
+        {
+          "name": "Jennifer Hansen-Romero",
+          "title": "Vice Mayor"
+        },
+        {
+          "name": "Robin López",
+          "title": "Councilmember"
+        },
+        {
+          "name": "John Miki",
+          "title": "Councilmember"
+        },
+        {
+          "name": "Preston Jordan",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=832",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure S does not protect essential services. It gives "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "City Hall a blank check while increasing pressure on "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "housing and local businesses."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The City Attorney’s impartial analysis states that Measure S revenue will go into the General Fund and ",
+            {
+              "strong": [
+                "“may be spent"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "for any City expense.”"
+              ]
+            },
+            "\n",
+            {
+              "strong": [
+                "Measure S does NOT:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Guarantee funding for police, fire or emergency services"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Restrict spending on salaries, pensions or project overruns"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Require independent financial oversight"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Protect residents and businesses from rising costs Measure S’s escalating rates will ",
+                  {
+                    "strong": [
+                      "exponentially increase"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "transfer taxes on apartment buildings, mixed-use"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "properties and commercial real estate."
+              ]
+            },
+            " Those costs do not disappear. They increase the cost of owning and operating buildings, placing additional pressure on residential and commercial tenants through higher rents and reduced investment in properties.\nAlbany’s business corridors are already under pressure. This election, local businesses face both:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "A new business license tax measure"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Measure S’s sharply higher taxes on commercial property sales"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Burdening commercial buildings from both directions "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "threatens the small businesses that make Albany’s "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "neighborhoods vibrant."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Meanwhile, the City recently disbanded its Financial Advisory Committee, removing independent oversight just as it asks voters to approve five separate tax measures. Neighboring cities have shown where this approach can lead: ",
+            {
+              "strong": [
+                "higher taxes, unstable budgets and repeated "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "demands for more revenue."
+              ]
+            },
+            " Albany should not follow their failed fiscal policies."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Fairness requires transparency, accountability and "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "responsible budgeting—not vague promises attached to "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "an unrestricted tax that increases housing and business "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "costs."
+              ]
+            },
+            "\n",
+            {
+              "strong": [
+                "Vote NO on Measure S."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Francesco Papalia",
+          "title": "Former Member, City of Albany Financial Advisory Committee"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=832",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Albany has a housing affordability problem. Measure "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "S makes it worse."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Let’s be real. Measure S increases the cost of buying and selling property, making Albany even less affordable."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure S does"
+              ]
+            },
+            {
+              "strong": [
+                " NOT:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Help first-time homebuyers"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Make Albany more affordable"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Help older homeowners remain financially secure"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Guarantee funding for any specific public service"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure S"
+              ]
+            },
+            {
+              "strong": [
+                " does:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Increase the transfer tax by ",
+                  {
+                    "strong": [
+                      "33% on a median-"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "priced single-family home"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Impose the ",
+                  {
+                    "strong": [
+                      "highest tax of its kind in California"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "on homes in this price category"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Add thousands of dollars to the cost of buying or selling a home"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Take money from the equity homeowners spent decades building"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Hit multifamily and mixed-use buildings "
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "exponentially harder. "
+                    ]
+                  },
+                  "Because these properties have higher sales prices, they face dramatically larger tax bills. Those added costs increase the cost of providing housing and commercial space, creating pressure for higher rents on both residential and small-business tenants."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Make it harder for the next generation to live "
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "in Albany."
+                    ]
+                  },
+                  " Families want their children and loved ones to remain nearby, but increasing transaction costs puts Albany further out of reach."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Treat home equity like a blank check for City "
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "Hall."
+                    ]
+                  },
+                  " Older homeowners may need that equity for medical care, assisted living, accessibility improvements, or other critical needs."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Rely on an unpredictable revenue source."
+                    ]
+                  },
+                  " Home sales rise and fall with interest rates, housing prices, and the economy. Funding ongoing City needs with volatile revenue could leave Albany in a precarious financial position when the market slows."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Continue indefinitely."
+                    ]
+                  },
+                  " Measure S has no sunset date."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Provide no guarantee of how the money will be "
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "spent."
+                    ]
+                  },
+                  " It is a general tax that can fund any legally permitted City expense."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Albany needs responsible budgeting—not a volatile tax "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "that makes housing less affordable."
+              ]
+            },
+            "\n",
+            {
+              "strong": [
+                "Vote NO on Measure S."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Francesco Papalia",
+          "title": "Former Member, City of Albany Financial Advisory Committee"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=833",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure S reduces or maintains the property transfer"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "tax rate for less expensive homes, making Albany more "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "accessible to first-time buyers."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Why does Albany need Measure S and so many other taxes? In 1978, California voters passed Proposition 13, rolling back and limiting annual local taxes on property value to 1%, cutting revenue in half overnight. Proposition 13 also limited the increase in property value for tax purposes to 2% a year. Bay Area inflation has averaged almost twice that since then as well as in the last decade. Further, a subsequent proposition allowed parents to pass a residence to their children without it being reassessed to market value. An actual example is an Albany house with a current market value of $2 million that is taxed as if it is worth only $87,528. As a result, without your periodic approval of tax adjustments, the City would fall financially behind, necessitating cutting services and events and eventually contracting out or cutting public safety.\nAlbany runs efficiently. Its budgeted spending this year is $36 million. Piedmont’s budget is the same but for half the population. Emeryville’s budget is three eighths larger ($63 million)for a bit over half Albany’s population. El Cerrito’s budget is larger by more than half ($58 million) even though its population is only a quarter larger than Albany’s. Measure S is a reasonable approach to compensate for a small part of the effects of Proposition 13 while also making Albany’s property transfer tax fairer."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on Measure S to maintain Albany’s services."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Peggy McQuaid",
+          "title": "Mayor"
+        },
+        {
+          "name": "Jennifer Hansen-Romero",
+          "title": "Vice Mayor"
+        },
+        {
+          "name": "Robin López",
+          "title": "Councilmember"
+        },
+        {
+          "name": "John Miki",
+          "title": "Councilmember"
+        },
+        {
+          "name": "Preston Jordan",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=833",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure S",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf",
+      "mediaType": "application/pdf",
+      "page": 834,
+      "sha256": "5b1e32e3b8faab472f2923ea17685035b4e8595e18ddf1f37c9fcd90a88fa0e3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Leandro Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-leandro",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Juan González III",
+      "statement": {
+        "by": "Juan González III",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As Mayor, I’ve led with integrity, listened to our community, and delivered timely results. I initially helped City Council focus on strategic priorities, and by working together, we’ve made meaningful progress. For example, we’ve reduced crime, increased traffic enforcement, improved emergency response times, and expanded innovative behavioral health services. We’ve built more housing, strengthened renter protections, connected more unhoused residents with housing and support services, and made City Hall more responsive through improved communication and faster neighborhood problem-solving. We’ve also secured significant state and federal funding to improve our streets, expand library services, and invest in critical infrastructure while attracting clean energy, advanced manufacturing, and emerging technology companies that are creating new jobs and growing our local economy. Although we’ve made significant progress, our work is not finished. I remain committed to repairing aging infrastructure, completing projects on time and on budget, strengthening public safety, addressing homelessness with compassion and accountability, expanding housing opportunities, revitalizing our business community, and ensuring every neighborhood benefits from our progress. Together we have been building a Brighter Future for San Leandro. I respectfully ask for your vote so we can continue moving San Leandro forward in the right direction."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=695",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "James Maes",
+      "statement": {
+        "by": "James Maes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: San Leandro is a wonderful and diverse community, full of potential. But our city is becoming too costly. Everyday working families, seniors, and our own children cannot afford to live here. My name is James Maes, and I am running for Mayor to tackle this affordability crisis by making it easier to finally provide the housing and revenue we desperately need. I am a professional problem-solver. As a Business Operations Director and Chief of Staff for agencies like the U.S. Forest Service and Army Corps of Engineers, I have managed large budgets, built utilities and city facilities, led organizations, and negotiated labor agreements and contracts. Locally, I proudly serve as a Recreation and Parks Commissioner, a San Leandro High School coach, and past President of the Floresta Baseball League. Today, our city faces a difficult budget shortfall, and our local government has struggled to move forward together. We can do better. As Mayor, I won’t point fingers. Instead, I will use my real-world executive experience to unite our city council, resolve conflicts, and balance the budget without cutting the essential neighborhood services we need. Common Ground. More Housing. Lower Costs. I respectfully ask for your vote. www.maesforsanleandromayor.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=695",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

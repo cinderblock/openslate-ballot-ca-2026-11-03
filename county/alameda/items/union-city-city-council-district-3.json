@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Union City City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/union-city",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Jeff Wang",
+      "statement": {
+        "by": "Jeff Wang",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Serving as your District 3 Councilmember has been an honor. I believe local government works best when leaders listen to residents, respect different perspectives, and bring people together to find practical solutions that strengthen our community. Every decision I make is guided by collaboration, accountability, and a commitment to putting Union City first. Working collaboratively with residents, city staff, local businesses, community organizations, and my fellow councilmembers, we have strengthened public safety by increasing police staffing and reducing crime. Together, we balanced our budget, eliminated Union City’s deficit, protected essential city services, supported small businesses, attracted new investment, and improved our parks, roads, sidewalks, and traffic safety. These accomplishments reflect what can be achieved when people listen to one another, build consensus, and stay focused on serving the entire community. Looking ahead to the next four years, I remain committed to strengthening public safety, maintaining fiscal responsibility, investing in our neighborhoods, supporting local businesses, improving communication between City Hall and residents, and ensuring our local government remains transparent, responsive, and accountable. I respectfully ask for your support so we can continue building a safer, stronger, and more vibrant Union City—together."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=700",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Cheris Crocker-Root",
+      "statement": {
+        "by": "Cheris Crocker-Root",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Rooted in Alvarado, my family has lived in Union City for 17 years, raising our two daughters in my husband’s childhood home and attending the same public schools. Knocking on thousands of doors and talking with neighbors, I’ve learned that District 3 residents want a Councilmember who shows up, listens, follows through, and understands how our city’s budget and finances impact us. This means listening to parents concerned about safety, fixing basic infrastructure, and cutting red tape for businesses. My career spans construction, finance, and asset management. For nearly a decade, I’ve served this community: as Park and Recreation Commissioner, winning ADA-accessible park upgrades, saving neighborhood swings, and securing a second dog park, benefiting families and seniors; as Alvarado Elementary PTC President, delivering a redesigned drop-off zone, updated signage, and safety bollards near our schools, making kids safer and traffic smoother; and as campaign leader for the 2024 school bond. My MBA, finance, and asset management experience make fiscal accountability my top priority. I’ve already put that discipline to work, requiring transparent, apples-to-apples bidding on our playground upgrades, preventing wasted tax dollars. Together, let’s keep Union City safe, connected, and thriving. Time for change, vote Crocker-Root for District 3. www.Root4UnionCity.org"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=700",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

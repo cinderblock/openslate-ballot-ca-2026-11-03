@@ -1,0 +1,160 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Albany — Measure O (Requirement to Zoning Changes Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/albany",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure authorizing the Albany City Council to amend the residential voter requirements for zoning changes to the R-1 zoned areas of the City established by Measure D (enacted by the Albany voters in 1978), without majority neighborhood voter approval, after following noticed public hearing and zoning ordinance amendment procedures prescribed by State Law and the Albany Municipal Code, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=799"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “yes” vote on Measure “O” will authorize the City Council to make zoning changes within the R-1 zoned areas without majority neighborhood voter approval,"
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=799"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “no” vote on Measure “O” will not authorize the City Council to make zoning changes within the R-1 zoned areas without majority neighborhood voter approval."
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=799"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Malathy Subramanian, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "In 1978, Albany voters approved Measure “D”, a City initiative measure which, among other things, currently provides that any zoning changes to land in the City’s single family residential (R-1) zoned areas only be permitted if at least fifty percent (50%) of the resident voters within three hundred (300) feet of the proposed change indicate their approval by signing a verified petition to that effect. On June 1, 2026, the City Council voted to place Measure “O” on the November 3, 2026 General Municipal Election ballot. If approved by a majority of Albany voters, this Measure would amend the Albany Municipal Code to authorize the City to make zoning changes to land within the R-1 zoned areas from time to time, without majority neighborhood voter approval, after following noticed public hearing and zoning ordinance amendment procedures prescribed by State law and the Albany Municipal Code. The stated purpose of this Measure is to allow greater flexibility for the City Council to respond to changing conditions and promote community goals to encourage additional housing availability and quality, as expressed in the adopted 2023-2031 General Plan Housing Element, the City Council’s April 2025-2027 Strategic Plan and associated planning documents.\nBy placing Measure “O” on the ballot, the City complies with California Elections Code section 9217 which requires a majority of the Albany voters to approve the repeal or amendment of a previously voter-approved measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "“O”. If you desire a copy of the Measure, please call the"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "City Clerk’s Office at (510) 528-5710 and a copy will be "
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=799"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure O to modernize Albany’s zoning"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "process, support housing availability, and restore"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "transparent citywide decision-making."
+              ]
+            },
+            " In 1978, Measure D created a special requirement for zoning changes in Albany’s Residential Single-Family (R-1) areas: before the City Council could act, at least 50% of resident voters within 300 feet of a proposed change had to sign a verified petition. Nearly five decades later, that outdated rule makes it harder for Albany to respond fairly and effectively to today’s housing needs.\nMeasure O does not change zoning. It does not approve any specific project, increase density, or alter development standards immediately. Instead, it allows the City Council to consider future updates through the same processes that apply across Albany. Processes that include robust noticed public hearings, public participation, environmental review when required, and ordinance amendment procedures that apply under State law and the Albany Municipal Code. Albany has adopted a 2023–2031 Housing Element that commits the City to pursue repeal of Measure D’s neighborhood petition requirement. The City Council’s 2025–2027 Strategic Plan likewise calls for promoting housing availability and quality and developing a ballot measure to update the Council’s authority to consider single-family zoning standards. Measure O implements those commitments.\nAlbany’s housing challenges affect seniors, families, workers, renters, homeowners, and future generations. Decisions about citywide housing policy should be made through an open, inclusive public process—not controlled by a narrow petition requirement limited to voters living within 300 feet. Measure O expands participation, supports equitable housing opportunities in high-resource neighborhoods, and gives Albany the flexibility to meet legal obligations and community needs while preserving public notice, public hearings, and local accountability. ",
+            {
+              "strong": [
+                "Vote YES on Measure O"
+              ]
+            },
+            " for a fair, modern, and accountable zoning process that helps Albany plan responsibly for housing today and in the future."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Peggy McQuaid",
+          "title": "Mayor"
+        },
+        {
+          "name": "Jennifer Hansen-Romero",
+          "title": "Vice Mayor"
+        },
+        {
+          "name": "Preston Jordan",
+          "title": "Councilmember"
+        },
+        {
+          "name": "Robin López",
+          "title": "Councilmember"
+        },
+        {
+          "name": "John Miki",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=800",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure O",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf",
+      "mediaType": "application/pdf",
+      "page": 801,
+      "sha256": "5b1e32e3b8faab472f2923ea17685035b4e8595e18ddf1f37c9fcd90a88fa0e3"
+    }
+  ]
+}

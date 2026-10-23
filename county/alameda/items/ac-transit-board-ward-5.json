@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "AC Transit Board, Ward 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Murphy McCalley",
+      "statement": {
+        "by": "Murphy McCalley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am asking for your vote to help to continue improving AC Transit service in our community. With your support I would be able to utilize my over thirty years of professional experience in public transit/transportation, to apply “best practices” resulting in improved, reliable, safe and sustainable public transit services. I have served as Chief Financial Officer for two major California transit systems, and as a Consultant/Advisor to various transit systems throughout the United States. I have hands-on real-world experience, having developed and managed budgets for transit systems, which I was able to bring to AC Transit. Given the imminent fiscal crisis facing AC Transit, I’m uniquely familiar with the many service issues and funding challenges facing public transit in addition to having a proven track record of innovation and implementing practical solutions/strategies that have led to additional funding. I believe that public transit is a key component to the quality of life in our community, impacting our economic vitality, employment, mobility, and the environment. Growing up in the East Bay, AC Transit was my family’s primary mode of transportation. I hold a BS, and a Masters, in Public Administration. My skills, experience and commitment have made an impact. Thank you."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=704",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oakland Unified School District Board, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Arielle Fleisher",
+      "photo": {
+        "file": "img/candidates/oakland-unified-school-district-board-district-2/arielle-fleisher.jpg",
+        "alt": "Arielle Fleisher",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=750",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Arielle Fleisher",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, ARIELLE FLEISHER, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Arielle Fleisher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: School Director District 2"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Policy Development and Research Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): None"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: I’m an OUSD parent and policy leader running for school board. I founded a moms community now 300 strong, serve on my school’s PTA, and lead my neighborhood council. For over a decade, I’ve tackled Bay Area policy challenges: launching vaccine clinics, improving transit, and advancing safer streets. When OUSD faced a budget crisis, I didn’t wait for a title. I attended board meetings, published budget explainers, and became a trusted voice on district finances. OUSD spends more per student than any large district in CA, yet only 1 in 3 students reads at grade level. We regained local control last year and it’s already at risk. This moment demands experienced policy leadership. As your school board member, I will bring honest budgeting, transparency, and an unwavering focus on student outcomes. Our kids get one education. Let’s get it right. Vote Arielle Fleisher for Oakland School Board, District 2."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Charlene Wang\nLibby Schaaf\nLoren Taylor\nAimee Eng\nJenn Whalen\nPat Kernighan\nGary Yee\nJorge Lerma\nJody London\nSam Davis\nLK Monroe\nBob Spencer\nJohn Jones III\nRonak Davé Okoye\nPam Erickson\nJT Mates-Muchin\nKathy Teng Dwyer\nEric Hughes\nDavid Flack"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=750",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Jennifer Brouhard",
+      "photo": {
+        "file": "img/candidates/oakland-unified-school-district-board-district-2/jennifer-brouhard.jpg",
+        "alt": "Jennifer Brouhard",
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=751",
+        "credit": "Printed in Alameda County's Voter Information Guide"
+      },
+      "statement": {
+        "by": "Jennifer Brouhard",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, JENNIFER BROUHARD, hereby declare that I am a candidate for an elective office in the City of Oakland, and make the following statement, to-wit:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. My name is: Jennifer Brouhard"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. The office for which I am a candidate is: School Director District 2"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. My occupation for the past 5 years: Retired Educator and teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. I have held the following elected public office (if any): School Board Director District 2"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5. Statement of General Qualifications: As an award-winning OUSD retired teacher with 27 years of classroom experience, a parent and current Board President, I have dedicated 38 years to serving Oakland’s students, families, and schools. Over the past four years, my work centered on fiscal responsibility, student achievement, and supporting educators who make learning possible. Every decision centers students. Every neighborhood deserves high-quality public schools that meet students’ needs. Maintaining safe, stable schools, retaining excellent educators through competitive compensation ensures our most vulnerable students receive necessary support to succeed. As Board President, I continue to lead the district through financial challenges to produce a balanced budget protecting classrooms and preserving local control. Responsible budgeting and educational excellence go hand in hand. My experience as a retired Oakland educator guides every decision I make. I respectfully ask for your vote to continue building safe, stable, equitable schools where every OUSD student thrives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6. The signatures of not more than twenty nor less than ten residents of the City of Oakland sponsoring my candidacy are as follows: Rachel Reinhard\nChristopher Johnston\nPamela Erickson\nJean Quan\nPecolia Hudson-Manigo\nKeith D. Brown\nPatrice Berry\nJessica Chen\nKimberly L. Mayfield-Lynch\nNikki F. Bas\nBeatriz Ferrer-Castro\nCaitlin James\nRachel Latta\nPamela A. Drake\nKristin Anderson\nLarisa Trale\nJessica Forbes\nPayton Carter\nMayra Alvarado\nTrish Belenson"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=751",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

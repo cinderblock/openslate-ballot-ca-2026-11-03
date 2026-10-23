@@ -1,0 +1,280 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Albany — Measure P (Street Paving and Storm Drain Parcel Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/albany",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure updating the Street Paving and Storm Drain Special Tax, by adding very low-income rebates and low-income tax exemptions and rebates; applying the tax to possessory interests; and if a parcel over 500,000 square feet becomes exempt from this tax, adjusting the rate from $167.65 per equivalent residential unit to $0.0638 per lot square foot as provided in the measure, providing an estimated $1,400,000 annually until ended by voters, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=803"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “yes” vote on Measure “P” will approve this amendment to the street paving/storm drainage parcel tax."
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=803"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “no” vote on Measure “P” will not approve this amendment to the street paving/storm drainage parcel tax."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The above statement is an impartial analysis of Measure"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "“P”. If you desire a copy of the Measure, please call the"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Office of the City Clerk at (510) 528-5710 and a copy will "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "be mailed at no cost to you."
+              ]
+            }
+          ]
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=803"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Malathy Subramanian, City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "In 2006, Albany voters approved Measure “F”, a special parcel tax on property within the City to fund street paving and storm drainage improvements, programs and services. The parcel tax is currently levied annually at $167.65 per equivalent residential unit (ERU), as defined therein, allows annual rate adjustments subject to a 5% annual cap, and incorporates a 100% exemption for residential parcels owned by qualifying very low-income residents, as defined therein."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "On July 20, 2026, the City Council voted to place Measure “P” on the November 3, 2026 General Municipal Election ballot. If approved by two-thirds (2/3) of Albany voters, this Measure would amend the tax as follows:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Retain the 100% exemption for residential parcels owned by qualifying very low-income residents, and add a 50% exemption for qualifying low-income resident owners; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Add a 100% rebate to qualifying very low-income renters of tax imposed on a unit where they reside, and add a 50% rebate to similarly qualifying low-income renters, as defined therein; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Maintain annual Consumer Price Index (CPI) adjustments, but with a 3% annual cap instead of 5%; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Maintain the rate at $167.65 per ERU, annually adjusted by CPI, unless any parcel 500,000 square feet or larger is sold, leased or transferred to make it tax exempt, at which point the City Council may levy this tax at the maximum rate of $0.0638 per lot square foot for all parcels in the City, annually adjusted by CPI, subject to a 3% annual cap. The Council may levy the tax at a lower rate in any year and restore it back to a prior rate, provided this maximum voter approved rate isn’t exceeded."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Clarify that this tax applies to possessory interests (i.e. leaseholds) on a parcel where the owner is exempt from parcel taxation.\nThe tax is estimated to generate $1,400,000 annually until repealed by voters at a subsequent election. The revenue from this tax will continue to be deposited into a dedicated “Street Paving and Storm Drain Facility Improvement Fund”. The purposes for this tax would not change and funds would remain dedicated to the repair, rehabilitation, and other improvements for streets and storm drains. This parcel tax would be collected the same and be subject to the same requirements as other property taxes collected by the County of Alameda on behalf of the City of Albany."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Measure would continue requiring the City’s Finance Director to prepare an annual accountability report showing: (i) parcel tax revenues collected and spent; and (ii) status of projects/work funded with tax revenues."
+        ]
+      }
+    ],
+    "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=803"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure P protects funding for our streets and storm"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "drains if Golden Gate Fields becomes a park, while also "
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "making immediate improvements."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure P protects Albany’s streets and storm drains."
+              ]
+            },
+            " In the next year, the State and other entities, not including the City, may buy Golden Gate Fields for hundreds of millions of dollars to transfer to the East Bay Regional Park District. This doubling of our shoreline park is what we have wanted for decades. But public ownership also means a fifth of the local tax funding to repair road pavement and prevent flooding would be lost. If and only if this occurs, Measure P would restructure the tax to maintain this funding. ",
+            {
+              "strong": [
+                "Measure P immediately closes a tax loophole."
+              ]
+            },
+            " Since starting operation about a decade ago, Belmont Village, a high-end senior living facility, Sprouts Market, Starbucks, and other retailers operating on UC property have not paid Albany’s parcel taxes. Measure P closes this loophole so they will contribute to repairing pavement and preventing flooding, like other businesses that benefit from Albany's streets and storm drains."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure P immediately helps Albany’s economically"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "vulnerable residents."
+              ]
+            },
+            " It provides very low-income renters the same relief long available to very low-income homeowners. It also reduces the tax by half for low-income homeowners and renters. These help Albany’s less well-off continue to make it in Albany."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measures P and Q together result in a small tax increase"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "if needed."
+              ]
+            },
+            " Together with Measure Q, which restructures another tax if Golden Gate Fields becomes publicly owned, the average tax per residence would increase $12 per month. Condominium owners would continue to pay about half as much in total as house owners. With protections for households with very low- and low-incomes, this is a small amount for the benefit of a historic expansion of the park on our waterfront.\nYour City Councilmembers unanimously ask you to",
+            {
+              "strong": [
+                " Vote"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "YES on Measure P."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Peggy McQuaid",
+          "title": "Mayor"
+        },
+        {
+          "name": "Jennifer Hansen-Romero",
+          "title": "Vice Mayor"
+        },
+        {
+          "name": "Robin López",
+          "title": "Councilmember"
+        },
+        {
+          "name": "John Miki",
+          "title": "Councilmember"
+        },
+        {
+          "name": "Preston Jordan",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=804",
+      "disclaimer": "Arguments in support of or in opposition to the proposed laws are the opinions of the authors."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure P",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf",
+      "mediaType": "application/pdf",
+      "page": 805,
+      "sha256": "5b1e32e3b8faab472f2923ea17685035b4e8595e18ddf1f37c9fcd90a88fa0e3"
+    }
+  ]
+}

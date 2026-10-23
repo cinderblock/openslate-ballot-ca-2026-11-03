@@ -1,0 +1,50 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Piedmont City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/piedmont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Nancy Beninati",
+      "statement": {
+        "by": "Nancy Beninati",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: For more than 25 years, I have dedicated my career to public service, solving complex challenges through thoughtful, effective government. As a Supervising Deputy Attorney General with the California Department of Justice, I have supervised attorneys, led complex statewide initiatives, and collaborated across government agencies to implement major public policy reforms, including California’s Racial and Identity Profiling Act. My work has strengthened public safety while advancing equal opportunity and civil rights through fair housing, disability rights, educational opportunity, LGBTQ+ equality, and constitutional protections. I also teach law and public policy at U.C. Berkeley, preparing the next generation of public servants, policymakers, and advocates. My commitment to Piedmont includes six years on the Civil Service Commission, current service on the Recreation Commission, and past leadership as President of the League of Women Voters of Piedmont. I also volunteer with Piedmont schools, support organizations addressing childhood trauma and food insecurity, and coach and volunteer in Piedmont youth sports. I will bring experienced, collaborative leadership to City Hall, with a commitment to fiscal responsibility, exceptional public safety, climate resilience, thoughtful housing policies, and practical solutions that preserve Piedmont’s outstanding quality of life. /s/ Nancy A. Beninati"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=690",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Sunny Bostrom-Fleming",
+      "statement": {
+        "by": "Sunny Bostrom-Fleming",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I have lived in Piedmont almost all my life, graduated Piedmont High School, education at boarding school and travel throughout the world. Home safety is an important concern, this year there was a high-profile home invasion robbery and assault that occurred on March 24. About 2 weeks ago our wonderful Piedmont police arrested two suspects based on information from our camera’s that are posted at all roads in and out of Piedmont. These camera’s we installed after I promoted the importants of camera’s for public safety. I’m a lifetime advocate for swimming education for all children in all of our schools. Swimming is an important confidence builder, it’s life saving and provides a lifetime of joy. Nobody died because they failed algebra last year, but many parished because they were not taught to swim. The transfer tax is not the main issue in this election, the elephant in the room is the Dearing Family. I urge our citizens to be sympathetic to a creative resolution. The values we teach our children will be evident in the way we treat the Dearing Family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "TOM RAMSEY\nMy education and qualifications are: Piedmont is a great town. Thirty years ago, my family moved here for our public schools. Today, Ruth and I stay for the friendships and exceptional city services. Having served seven years on the Planning Commission and four on City Council, I remain dedicated to Piedmont’s future. My priorities focus on fiscal oversight, maintaining balanced budgets, and managing city resources responsibly. I prioritize public safety, and I was proud to cut the ribbon on our new Police and Fire Dispatch Center to ensure quick emergency response times. I also remain committed to smart planning—navigating state housing mandates while preserving Piedmont’s physical character and historic charm. As a practicing architect with over thirty years of experience leading Bay Area teams, I bring collaborative problem-solving to the Council. I leverage my professional background and civic experience to deliver practical solutions. I am honored to be endorsed by my City Council colleagues, our current mayor, and former mayors and I respectfully ask for your vote to continue serving you. Tom Ramsey — vote4tomramsey.com Candidate’s Statement CITY OF PIEDMONT FOR MEMBERS OF CITY COUNCIL BILL REICHLE\nMy education and qualifications are: My priorities for Piedmont include reliable public safety, sound fiscal management, and community building. Without public safety, nothing else matters. Without fiscal discipline, nothing else is possible. When these two endeavors are well-managed, our vibrant community flourishes. Piedmont is challenged by aging city facilities, complex mandates from Sacramento, and inflationary pressures. These and other issues require honest analysis, thoughtful discussion, prioritization, and creative solutions. My belief is that the best possible solutions emerge when we engage the entire Piedmont community in open and transparent conversation. I recently retired as Assistant Vice Chancellor at UC Berkeley. In that role, I developed strategic plans, budgets, policies, and communications for campus departments that mirror those of Piedmont’s including: police, emergency management, facilities, human resources, disability access, sustainability, and capital projects. My wife and I have lived in Piedmont for 26 years and raised our daughters here. I have served on the Boards of the Piedmont Education Foundation, Camp Augusta, and PHS Boosters. I am a graduate of UC Berkeley, and earned my MBA from California State University, East Bay. I humbly ask for your vote on November 3 and look forward to working together to support this wonderful community we call home."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=690",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

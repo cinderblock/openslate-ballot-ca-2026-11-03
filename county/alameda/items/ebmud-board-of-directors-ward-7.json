@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "EBMUD Board of Directors, Ward 7",
+    "kind": "race",
+    "jurisdiction": "us/ca/ebmud",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Gary Wolff",
+      "statement": {
+        "by": "Gary Wolff",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m an expert, not a politician. I will bring my 40 years of experience as a water engineer and economist (wolff4water.org/about) to make the East Bay Municipal Utility District work better for you. I’ve been the Vice Chair of the California State Water Resources Control Board, the Executive Director of the Alameda County Waste Management Authority (“StopWaste”), a water and wastewater utility efficiency expert, a businessperson, and a licensed contractor. I’ve served on EBMUD and Castro Valley Sanitary District community advisory committees. I understand the problems we face, and I know that success requires listening and people skills, as well as technical knowledge. Water rates have gone up steeply, and climate change is affecting water quality. But we can keep water affordable, protect water quality, improve and expand the low-income customer assistance program, use water more efficiently, and keep parks and schools green. I will represent you as we build a better water future. That’s why more than 100 elected officials, community leaders, and organizations have endorsed me (wolff4water.org/endorsements). Supporters include California Treasurer Fiona Ma, Senator Tim Grayson, Assemblymember Liz Ortega, the Alameda Labor and Building Trades Councils, five EBMUD Boardmembers, all EBMUD unions, business leaders, and the Sierra Club. I humbly request your vote so that I may do this work for you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This candidate has accepted East Bay Municipal Utility District’s voluntary expenditure limits."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=710",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "April Chan",
+      "statement": {
+        "by": "April Chan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Every dollar EBMUD spends matters. I treat your money as my money. As your EBMUD Director, I exposed $279 million in hidden budget transfers and led efforts to bring greater transparency and accountability to EBMUD’s finances. I advocated to eliminate the 8.5% drought surcharge in 2023 because Ward 7 families shouldn’t pay more than necessary. When a proposal threatened to turn Lake Chabot Road into a soil dump route with 100 trucks a day for 60 years, I stood with San Leandro and Castro Valley residents, and together we stopped it. As an Alameda County Fire Commissioner, I know public safety depends on reliable water. I initiated a new accountability standard for fire hydrant inspections because dependable hydrants save lives in wildfire-prone areas. The measure passed with support from the firefighters who rely on them. I’m not a career politician. I ask tough questions, challenge waste, and hold government accountable–even when it’s unpopular with insiders. If you want an independent voice who protects your dollars, stands up for our communities, and delivers results, I respectfully ask for your vote. Join Alameda County Supervisor Nate Miley, San Leandro Mayor Juan Gonzalez, and San Ramon Mayor Mark Armstrong in re-electing April Chan for EBMUD Ward 7 2026. https://chan4ebmud.com/"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This candidate has accepted East Bay Municipal Utility District’s voluntary expenditure limits."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=710",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

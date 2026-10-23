@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "AC Transit Board, Ward 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Joel B. Young",
+      "statement": {
+        "by": "Joel B. Young",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Since joining the AC Transit Board, I have helped secure more than $1 million in funding for our hydrogen fuel cell bus program, voted to direct over $200 million in AC Transit contracting opportunities to local businesses that create and sustain good-paying jobs, and championed efforts to provide affordable, reliable, and expanded bus service for our communities. If elected, I will continue to advocate for: (1) keeping bus fares affordable for students, seniors, and individuals with disabilities; (2) increasing service throughout the AC Transit service area; and (3) investing in clean buses that protect our environment and public health. With 17 years of experience serving as an AC Transit Director, I am uniquely qualified to address the ongoing challenges facing AC Transit. I respectfully ask for your vote and invite you to join the coalition of bus drivers, riders, elected officials, and community leaders who are supporting my candidacy. It would be both an honor and a privilege to continue serving you and our community. For more information, please visit www.joelyoung.org."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=702",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Adriana Valencia",
+      "statement": {
+        "by": "Adriana Valencia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are:The quality of life in our neighborhoods is directly connected to the quality of our transit. For 25 years, I have lived in the East Bay, now raising a family. I’m unable to drive due to a vision disability, so I walk, bus, bicycle, and BART with my son. As a transit and housing advocate, I’ve organized with neighbors to advance affordable housing at MacArthur BART and collaborated with fellow parents at my son’s school for safe routes to schools. As chair of the Temescal/Telegraph BID Design and Economic Development committee, I advocated for the transportation, housing, and maintenance needs of the Temescal district. I earned my PhD in architecture from UC Berkeley and I’ve worked as both a product and project manager, most recently advancing architecture and construction collaboration tools. We need more buses, reliable connections with trains and ferries, and low-stress bike- and walk-ways accessible to all. I will fight to provide affordable and reliable transit so that we can all go to and from jobs, schools, shops, and medical care. Your representative on the AC Transit Board should bring deep empathy and transit experience to address the serious challenges facing AC Transit. Thank you for your vote. www.adrianavalencia.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=702",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Leandro City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-leandro",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Xouhoa Bowen",
+      "statement": {
+        "by": "Xouhoa Bowen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Xouhoa Bowen serves as San Leandro’s District 5 Councilmember. As the first Asian woman elected to the Council, she brings the lived experience of a refugee, mother of three, and person with a disability to public service. Her professional background spans nonprofit leadership, education, government, and international development, including service as a Peace Corps Volunteer. She holds degrees in International Affairs, Psychology, and Business Administration, along with executive certificates from the Berkeley Haas School of Business and Harvard Kennedy School. Xouhoa founded a nonprofit dedicated to empowering underserved communities and has worked alongside schools, nonprofits, and public agencies to advance education, economic mobility, women’s rights, and social and environmental justice. On the Council, she focuses on strengthening public safety, improving roads and transportation, expanding youth programs and childcare infrastructure, supporting local businesses, increasing access to affordable housing and mental health resources, and promoting transparent, fiscally responsible government that keeps San Leandro affordable for working families. Xouhoa also serves as President of the National League of Cities’ Asian Pacific American Municipal Officials, represents District 3 on the Alameda County Transportation Commission, serves on the Alameda County Waste Management Authority Board, and helps shape regional, state, and national policy through multiple leadership roles. She believes lasting progress comes from listening, building partnerships, and delivering practical solutions that strengthen neighborhoods and improve quality of life. Learn more at www.xouhoabowen.com."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=698",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chabot-Las Positas Community College District Board, Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Linda Granger",
+      "statement": {
+        "by": "Linda Granger",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I have lived in San Leandro for most of my life. After college, I returned to San Leandro and worked in education over 30 years. I began as a teacher at San Leandro High School, and helped lead the Business Academy. In San Leandro, I served as site and district administration, before becoming principal of San Leandro High School. My career in education culminated in serving as the Superintendent for Eden Area Regional Occupational Program.These experiences have given me first-hand knowledge of the importance of education as a path to empowering students to become productive and participatory members of society. I also understand the crucial role played by governing board members and how they contribute to the success of an organization. As a trustee for the Chabot Las Positas Community College District, I am dedicated to ensuring that our colleges provide a quality education for all its students. Students need to be prepared for entry into careers or a four-year college. Working together, we can achieve these things and adapt to new challenges with innovative solutions. This requires leadership with experience, knowledge and dedication. I believe I am up to this task and would appreciate your support."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=643",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

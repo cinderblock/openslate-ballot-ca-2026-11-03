@@ -10,6 +10,7 @@ each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
 | **San Francisco** Voter Information Pamphlet (Department of Elections) | `county/sf/` | `/county/sf/guide.jws` |
 | **Los Angeles County** candidate statements and local measures (Registrar-Recorder/County Clerk) | `county/la/` | `/county/la/guide.jws` |
 | **Orange County** candidate statements and local measures (Registrar of Voters) | `county/oc/` | `/county/oc/guide.jws` |
+| **Alameda County** Voter Information Guide: candidate statements (with Berkeley and Oakland photos) and local measures (Registrar of Voters) | `county/alameda/` | `/county/alameda/guide.jws` |
 
 Each is its own signed manifest, because each is a different authority's
 publication; this repo's one key signs them all.
@@ -97,6 +98,32 @@ ballot source in the endorsements catalog (its `contest-subjects.json` and the
 filing log saved in its evidence). OC's measure pages set their two columns
 close together (about 8 pt apart), so `scripts/lib/pdf-layout.ts` also splits
 a line at a narrower gap when the gap straddles the middle of the page.
+
+## Alameda County
+
+From Alameda's one Voter Information Guide for the whole county (about 965
+pages; `bun run scrape:alameda`):
+
+- **Candidate statements** for US House, State Senate and State Assembly
+  districts in the county, and every city, school, college, transit, water,
+  park and special district. Berkeley and Oakland print their candidates'
+  statements as a numbered declaration with a photo; those photos are the only
+  candidate photos in any county guide here.
+- **Local measures** (the regional transit measure RTM and I–II): the
+  question, what a Yes and a No vote mean, the impartial analysis (with who
+  signed it), any tax rate statement, and the arguments and rebuttals with
+  their signers (an organization's signer is "by" someone). The full text is
+  linked by page.
+
+Each contest's pages carry a code at their foot ("CD10-1", "RTM-2"); a
+statement page goes to the race whose candidates it names in the Alameda
+ballot source in the endorsements catalog, a measure to the measure its
+heading names. The measure pages are set in fonts pdf.js reads as glyph
+numbers ("WUD൶F" for "traffic"), so `pdfPages(…, {repairGlyphFonts: true})`
+decodes them, putting back the parentheses pdf.js's text layer turns into
+spaces. The photos are stored as ink amounts for one separation, so
+`scripts/lib/pdf-images.ts` has pdf.js apply the colour space before encoding
+JPEGs (passed through as stored, they'd be negatives).
 
 ## Not endorsements
 

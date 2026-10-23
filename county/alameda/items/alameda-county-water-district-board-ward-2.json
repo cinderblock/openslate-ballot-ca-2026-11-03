@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alameda County Water District Board, Ward 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Judy C. Huang",
+      "statement": {
+        "by": "Judy C. Huang",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: My foremost priority as an ACWD Board Member is to provide safe, reliable, and affordable water for our community. I fought for transparency and fairness in our rates and increased efficiency in our District operations to reduce costs. I support lower rates for efficient water users and have fought unreasonable rate increases. I will continue to secure local supplies and encourage conservation to improve our ability to withstand droughts, reduce our reliance on imported water, and minimize impacts of climate change to our community. Solving our water issues requires a regional approach; I formed alliances with our neighboring Districts, increasing our drought tolerance. To minimize rates, I will address costs through careful review of our infrastructure, automation, staffing and labor negotiation. As a UC Berkeley graduate and Professional Engineer, I have the technical and financial skills to effectively represent the public to the District. I helped secure millions in grants to pay for upgrades to preserve our water rights and protect the environment. I have the experience and knowledge to ensure ACWD provides affordable, reliable, and high-quality water to the public."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=689",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Jason Miguel",
+      "statement": {
+        "by": "Jason Miguel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: As a water resources engineer with the Santa Clara Valley Water District, I assist in ensuring Santa Clara Valley Water District pipelines are protected. I work with various cities and contractors to protect the pipeline infrastructure in Santa Clara County so that service is not disrupted. My experience will help in the mission of Alameda County Water District of providing you with reliable, sustainable, high-quality water. Like you, my bills increase all the time. It’s a never ending loop of static pay and increasing costs. After 20 years of the same story of rising costs without increases services, it’s time for new leadership that will bring a fresh perspective and ideas. As your next Director, I will prioritize efficiency to keep costs down As ACWD Director, I will promote repairing and replacing aging pipeline infrastructure to continue the mission of providing you with reliable and quality water. Some of ACWD’s pipelines are old and need to be addressed. As ACWD Director, it’s critical that any upgrades are seismically sound. By delaying this action, this can result in costly repairs that would trickle down to you. Join me on November 3, 2026 to ensure ACWD protects our water resources to better serve you in the future."
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=689",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

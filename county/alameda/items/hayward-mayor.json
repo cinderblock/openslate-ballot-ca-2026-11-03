@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hayward Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/hayward",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Tom Wong",
+      "statement": {
+        "by": "Tom Wong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I’m Tom Wong, running for Mayor of Hayward with a Hayward First agenda because our city deserves a leader who puts residents ahead of politics as usual. Every family deserves to feel safe in their neighborhood, and I’ll ensure our police and fire departments have the resources to respond quickly and keep our streets secure. Homeownership is a right, not a privilege — I’ll fight to create a direct pathway to homeownership for Hayward families, cutting through red tape and bureaucratic delays so more residents can finally own a piece of the city they call home. Hayward jobs should go to Hayward residents first, and I’ll push for hiring policies that prioritize our city’s workforce, so the opportunities we create stay right here and benefit the families who live here. Our seniors built this city with their hard work and sacrifice, and they shouldn’t be taxed out of the homes they’ve spent a lifetime paying for — I’ll champion no property tax for senior homeowners. It’s time to put Hayward and its residents first. Vote for Tom Wong for Mayor. Visit: Tomforhaywardmayor2026.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=683",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    },
+    {
+      "choice": "Mark Salinas",
+      "statement": {
+        "by": "Mark Salinas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: Mayoral leadership requires being present, responsive, acting with the highest integrity and honesty, and communicating clear, consistent direction so priorities are achieved. In 2022, I promised to prioritize public safety, expand housing opportunities, address homelessness, and make Hayward an Education City. Today, crime is down and we are recruiting and retaining good police officers. Housing is getting built for all income levels and new childcare providers, grocery stores, bakeries, and restaurants have expanded amenities in neighborhoods. Hayward continues to reduce homelessness by producing supportive housing and services. Education opportunities expanded to now include free transit passes for students, launched Hayward Rides to provide bicycles to students, and high school graduates now have guaranteed admission to Cal State East Bay. Looking ahead, my priorities are to make the City’s financial position stronger, reduce crime more, open more businesses and create jobs, and invest in safer streets for pedestrians, bicyclists, and drivers. I believe in setting and accomplishing clear priorities, working with neighborhoods, and delivering on promises with measurable results. I would be honored to earn your vote so we can continue building a Hayward that provides opportunity, safety, and a good quality of life for all. Thank you. www.voteforsalinas.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=683",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}

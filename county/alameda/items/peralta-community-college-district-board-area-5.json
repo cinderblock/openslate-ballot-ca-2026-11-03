@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Peralta Community College District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:52:48Z",
+  "candidates": [
+    {
+      "choice": "Sandra Weese",
+      "statement": {
+        "by": "Sandra Weese",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My education and qualifications are: I am Sandra Weese, and I am running for the Peralta Community College District Board of Trustees, Area 5, to keep our colleges strong, accessible, and accountable to the communities they serve. For nearly 30 years, I have lived in Oakland and worked in the labor movement. I recently retired after 20 years as Organizing Director for the California Federation of Teachers, where I worked alongside community college faculty and staff throughout California. I understand the challenges facing our colleges, and how collaboration, responsible leadership, and strong advocacy can deliver results. Previously, I organized workers and built community coalitions with SEIU and the Culinary Workers Union. Peralta is at a critical moment. I will work to increase enrollment, stabilize district finances, and protect student access during any proposed merger or restructuring. I will fight to recruit and retain excellent faculty and staff, ensure fair compensation, and preserve the instruction, counseling, and services students need to succeed. I will bring a practical, collaborative voice to the Board. A voice that values students, respects workers, protects undocumented students, opposes unnecessary outsourcing, and demands transparency and public accountability. Together, we can build a stronger, more stable Peralta for everyone. Visit sandra4pccd.nationbuilder.com"
+            ]
+          }
+        ],
+        "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=646",
+        "disclaimer": "Statements have been printed as submitted by the candidates, including any typographical, spelling, or grammatical errors. The statements have not been checked for accuracy by the Registrar of Voters’ office."
+      }
+    }
+  ]
+}
