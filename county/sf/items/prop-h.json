@@ -626,49 +626,43 @@
       ],
       "signers": [
         {
-          "name": "SF Council of"
-        },
-        {
           "name": "Rafael Mandelman"
-        },
-        {
-          "name": "District Merchants"
         },
         {
           "name": "Connie Chan"
         },
         {
-          "name": "Firefighters Local 798"
-        },
-        {
           "name": "Steven Sherrill"
-        },
-        {
-          "name": "Transit Workers Union 250A"
         },
         {
           "name": "Danny Sauter"
         },
         {
-          "name": "Teamsters Local 665"
-        },
-        {
           "name": "Alan Wong"
-        },
-        {
-          "name": "Chinatown Transportation"
         },
         {
           "name": "Bilal Mahmood"
         },
         {
-          "name": "Research and"
-        },
-        {
           "name": "Matt Dorsey"
         },
         {
-          "name": "Improvement Project"
+          "name": "SF Council of District Merchants"
+        },
+        {
+          "name": "Firefighters Local 798"
+        },
+        {
+          "name": "Transit Workers Union 250A"
+        },
+        {
+          "name": "Teamsters Local 665"
+        },
+        {
+          "name": "Chinatown Transportation"
+        },
+        {
+          "name": "Research and Improvement Project"
         }
       ],
       "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=128",
@@ -1278,10 +1272,7 @@
       ],
       "signers": [
         {
-          "name": "Chinatown Transportation Research and"
-        },
-        {
-          "name": "Improvement Project"
+          "name": "Chinatown Transportation Research and Improvement Project"
         },
         {
           "name": "Rose Pak Asian American Club"

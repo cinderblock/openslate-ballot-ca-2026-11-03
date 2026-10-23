@@ -1130,26 +1130,6 @@
       ],
       "signers": [
         {
-          "name": "Erica Zweig",
-          "title": "Sunset Small Landlord and Homeowner*"
-        },
-        {
-          "name": "Jennifer Kroot",
-          "title": "Panhandle Homeowner*"
-        },
-        {
-          "name": "Jason Prado",
-          "title": "Mission Homeowner*"
-        },
-        {
-          "name": "Scott Feeney",
-          "title": "Mission Homeowner*"
-        },
-        {
-          "name": "Brian Roberts",
-          "title": "Mission Homeowner*"
-        },
-        {
           "name": "Mario Guerrieri",
           "title": "Mission Homeowner*"
         },
@@ -1172,6 +1152,26 @@
         {
           "name": "Heather McFarlane",
           "title": "Pac Heights Homeowner*"
+        },
+        {
+          "name": "Erica Zweig",
+          "title": "Sunset Small Landlord and Homeowner*"
+        },
+        {
+          "name": "Jennifer Kroot",
+          "title": "Panhandle Homeowner*"
+        },
+        {
+          "name": "Jason Prado",
+          "title": "Mission Homeowner*"
+        },
+        {
+          "name": "Scott Feeney",
+          "title": "Mission Homeowner*"
+        },
+        {
+          "name": "Brian Roberts",
+          "title": "Mission Homeowner*"
         }
       ],
       "footnote": "*For identification purposes only; author is signing as an individual and not on behalf of an organization.",

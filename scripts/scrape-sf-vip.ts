@@ -492,21 +492,35 @@ function splitSigners(lines: Line[]): { body: Line[]; signers: Signer[]; footnot
   // A signature ending in "*" or "." is complete, and "Name, Title" starts a new one. A
   // capitalised wrap shows itself by carrying the signer's footnote mark ("Development
   // Center*"); geometry alone can't tell, since signers break their own lines.
-  const wraps = (i: number) => {
+  // A line can't end on "of" or "and" ("SF Council of" / "District Merchants"), and the "*"
+  // marks a title, so a line with one and no comma finishes the "Name, Title" above it
+  // ("Ernesto Cuellar, Co-President, San Francisco" / "Young Democrats*").
+  const wrapsIn = (lines: Line[], i: number) => {
     if (i === 0) return false;
-    const prev = last[i - 1] as Line;
-    const line = last[i] as Line;
+    const prev = lines[i - 1] as Line;
+    const line = lines[i] as Line;
     if (/^\p{Ll}/u.test(line.text)) return true;
+    if (/\b(of|and|&|the|for)$/i.test(prev.text)) return true;
     if (/[*.]$/.test(prev.text) || /^[^,]+, /.test(line.text)) return false;
+    if (/\*$/.test(line.text) && /, /.test(prev.text)) return true;
     return /\*$/.test(line.text) && wrapsFrom(prev, line);
   };
+  const wraps = (i: number) => wrapsIn(last, i);
   while (n < last.length && wraps(n)) n++;
-  const signed = last.slice(n);
+  // Signatures set two across within the column (people on the left, organizations on the
+  // right): the left list, then the right.
+  const tailLines = last.slice(n);
+  const left = Math.min(...tailLines.map((l) => l.x0));
+  const indented = tailLines.filter((l) => l.x0 > left + 60);
+  const signed =
+    indented.length >= 2 && tailLines.length - indented.length >= 2
+      ? [...tailLines.filter((l) => !indented.includes(l)), ...indented]
+      : tailLines;
   const body = lines.slice(0, tail - signed.length);
   if (signed.length === 0) return { body, signers: [], footnote };
   const merged: string[] = [];
   for (const [i, line] of signed.entries()) {
-    if (i > 0 && wraps(n + i)) merged[merged.length - 1] += ` ${line.text}`;
+    if (i > 0 && wrapsIn(signed, i)) merged[merged.length - 1] += ` ${line.text}`;
     else merged.push(line.text);
   }
   return {
