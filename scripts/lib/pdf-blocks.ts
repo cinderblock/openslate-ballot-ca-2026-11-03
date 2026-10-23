@@ -17,9 +17,13 @@ export function blockReader(pages: { page: number; lines: Line[] }[]) {
   function segments(line: Line): Segment[] {
     const out: Segment[] = [];
     let end: number | undefined;
+    let before = "";
     for (const run of line.runs) {
       let text = run.text.replace(/\s+/g, " ");
-      if (end !== undefined && run.x - end > 1.5 && !/^\s/.test(text)) text = ` ${text}`;
+      // One space between runs: the PDF's own, or one where it leaves a gap instead.
+      if (/\s$/.test(before)) text = text.trimStart();
+      else if (end !== undefined && run.x - end > 1.5 && !/^\s/.test(text)) text = ` ${text}`;
+      if (text !== "") before = text;
       end = run.x + run.width;
       const last = out[out.length - 1];
       const bold = run.bold && text.trim() !== "";
@@ -102,7 +106,9 @@ export function blockReader(pages: { page: number; lines: Line[] }[]) {
     const out: Inline[] = [];
     for (const run of runs) {
       const last = out[out.length - 1];
-      if (typeof run === "string" && typeof last === "string") out[out.length - 1] = last + run;
+      // One space where a line that ends in a space meets the space that joins it to the next.
+      if (typeof run === "string" && typeof last === "string")
+        out[out.length - 1] = / $/.test(last) ? last + run.replace(/^ +/, "") : last + run;
       else if (run !== "") out.push(run);
     }
     // Trim the paragraph's outer whitespace, inside styled runs too.
