@@ -52,14 +52,20 @@ jobs:
           chmod 600 "$RUNNER_TEMP/signing/key.json"
           echo "SIGNING_KEY_PATH=$RUNNER_TEMP/signing/key.json" >> "$GITHUB_ENV"
 
-      - name: Sign the guide
-        run: bun .openslate/packages/cli/src/index.ts guide sign guide --key "$SIGNING_KEY_PATH"
+      - name: Sign every guide (the state guide and each county's)
+        run: |
+          set -euo pipefail
+          for dir in guide county/*/; do
+            bun .openslate/packages/cli/src/index.ts guide sign "${dir%/}" --key "$SIGNING_KEY_PATH"
+          done
 
-      - name: Verify the signature and every file against the committed public key
+      - name: Verify each signature and every file against the committed public key
         run: |
           set -euo pipefail
           key=$(bun -e 'console.log((await Bun.file("keys/guide-public.json").json()).publicKey)')
-          bun .openslate/packages/cli/src/index.ts guide verify guide/guide.jws --expect "$key" --files
+          for dir in guide county/*/; do
+            bun .openslate/packages/cli/src/index.ts guide verify "${dir%/}/guide.jws" --expect "$key" --files
+          done
 
       - name: Build static site
         run: bun scripts/build-site.ts

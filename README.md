@@ -1,8 +1,18 @@
-# OpenSlate voter guide: California, November 3, 2026
+# OpenSlate voter guides: California, November 3, 2026
 
-California's **Official Voter Information Guide** for the November 3, 2026
-general election, mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
-*guide* and published to GitHub Pages for the [OpenSlate app](https://openslate.us).
+California's official voter guides for the November 3, 2026 general election,
+each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
+*guide* and published to GitHub Pages for the [OpenSlate app](https://openslate.us):
+
+| Guide | Directory | Published at |
+| --- | --- | --- |
+| California **Official Voter Information Guide** (Secretary of State) | `guide/` | `/guide.jws` |
+| **San Francisco** Voter Information Pamphlet (Department of Elections) | `county/sf/` | `/county/sf/guide.jws` |
+
+Each is its own signed manifest, because each is a different authority's
+publication; this repo's one key signs them all.
+
+## The state guide
 
 It holds what the California Secretary of State published about each race and
 measure on the statewide ballot:
@@ -18,6 +28,33 @@ measure on the statewide ballot:
 - **Justices up for retention**: each Supreme Court justice's statement of
   qualifications, and each Court of Appeal justice's official biography link.
 
+## San Francisco's pamphlet
+
+The pamphlet covers what the state guide doesn't: Congress and the State
+Assembly districts in San Francisco, and every local race and measure.
+
+- **Candidates** for US House (11, 15), State Assembly (17, 19), BART District 8,
+  and every city and school office: each statement of qualifications, and what
+  each office does. SF prints no candidate photos.
+- **Local measures** (Propositions A–J) and **Regional Measure RTM**: the
+  question and vote threshold, how it got on the ballot, the Ballot
+  Simplification Council's digest, what a Yes and a No vote mean, the
+  Controller's statement (or, for RTM, the impartial analysis), the official
+  arguments and rebuttals, and the **paid arguments**, each with who paid for
+  it.
+- **Legal text** is linked by page in the original PDF, not extracted: the
+  pamphlet marks added and deleted law with drawn underlines and strikethroughs,
+  which extracted text would silently lose.
+
+The pamphlet is one 252-page, 7.9 MB PDF, so it isn't committed: the scraper
+caches it in `.cache/` and commits its URL, SHA-256, size and retrieval time in
+`evidence/county/sf/index.json`. Every passage links to its page of the
+original. `scripts/lib/pdf-layout.ts` reads the PDF with pdf.js into lines in
+reading order (two columns, full-width headings between), with each run's font,
+size and weight.
+
+## Not endorsements
+
 This is **reference material, not endorsements.** Candidate statements and
 ballot arguments are their authors' own words. As the guide itself says, they
 "have not been checked for accuracy by any official agency"; each passage keeps
@@ -25,7 +62,9 @@ that caveat with it.
 
 ## How it works
 
-- `scripts/scrape-ca-vig.ts` reads voterguide.sos.ca.gov and writes `guide/`.
+- `scripts/scrape-ca-vig.ts` reads voterguide.sos.ca.gov and writes `guide/`;
+  `scripts/scrape-sf-vip.ts` reads San Francisco's pamphlet and writes
+  `county/sf/`.
   Race and measure titles come from the CA Secretary of State *ballot source* in
   the [public endorsements catalog](https://github.com/cinderblock/openslate-public-endorsements),
   so each item lines up with a race the app already shows. Every page it read is
@@ -33,9 +72,10 @@ that caveat with it.
 - `guide/` is the source of truth: `guide.json` (whose material this is),
   `items/*.json` (one per race or measure), and the photos, figures and PDFs
   they point at, mirrored from the Secretary of State.
-- On every push to the default branch, CI hashes every file under `guide/`
-  into a manifest, signs it (`openslate guide sign`) with this repo's own key,
-  checks the result against `keys/guide-public.json`, and publishes to Pages.
+- On every push to the default branch, CI hashes every file of each guide
+  (`guide/` and every `county/*/`) into its manifest, signs it
+  (`openslate guide sign`) with this repo's own key, checks the result against
+  `keys/guide-public.json`, and publishes to Pages.
   The private key lives only in the `OPENSLATE_GUIDE_SIGNING_KEY` Actions
   secret; it was generated straight into that secret and has never been on disk.
 - The app finds this guide through the public endorsements catalog, which lists
@@ -53,7 +93,8 @@ bun install
 bun run fetch-openslate      # clones OpenSlate at .openslate-version into .openslate/
 bun run scrape               # rebuild guide/ from the evidence cache
 bun run scrape -- --refresh  # fetch every page and file again
-bun run check                # validate every item and the files it names
+bun run scrape:sf            # rebuild county/sf/ (fetches the pamphlet once)
+bun run check                # validate every guide's items and the files they name
 ```
 
 Then commit `guide/` and `evidence/` and push. The scraper exits non-zero and
@@ -64,8 +105,9 @@ source doesn't have.
 
 | URL | What it is |
 | --- | --- |
-| `index.html` | Human-readable list of every item |
-| `guide.jws` | The signed manifest (`typ: openslate-guide+jws`) |
+| `index.html` | Human-readable list of every item (also under each `county/<name>/`) |
+| `guide.jws` | The state guide's signed manifest (`typ: openslate-guide+jws`) |
+| `county/<name>/guide.jws` | A county guide's signed manifest |
 | `items/<name>.json` | One race or measure |
 | `img/…`, `pdf/…` | Mirrored photos, figures and full texts |
 | `keys/guide-public.json` | This guide's public signing key |
@@ -75,10 +117,22 @@ source doesn't have.
 This repo is a GitHub template. For the next California election, create
 `openslate-ballot-ca-<election>` from it, change `ELECTION` in the scraper,
 generate a new key into the new repo's secret, and add the new guide to the
-endorsements catalog's `guides.json`.
+endorsements catalog's `guides.json` with the jurisdictions it `covers` (each
+item's `subject.jurisdiction`; a county guide covers its congressional and
+legislative districts too).
+
+## Another county
+
+Write `scripts/scrape-<county>.ts` that writes `county/<county>/` (a
+`guide.json` naming the county's election office, and `items/`), reusing
+`scripts/lib/`. Subjects must match a ballot source in the endorsements catalog
+exactly, or the app won't find them. Then add the county's entry to
+`guides.json` there.
 
 ## License
 
-Code: MIT. The guide's content is the California Secretary of State's, and its
-authors' (candidates, argument signers, the Attorney General and the
-Legislative Analyst); it is mirrored verbatim and credited for voter education.
+Code: MIT. The guides' content is their publishers' (the California Secretary
+of State, the San Francisco Department of Elections) and their authors'
+(candidates, argument signers, the Attorney General, the Legislative Analyst,
+the Controller, the Ballot Simplification Council); it is mirrored verbatim
+and credited for voter education.

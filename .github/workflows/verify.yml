@@ -27,5 +27,9 @@ jobs:
         working-directory: .openslate
         run: bun install --frozen-lockfile
 
-      - name: Check every guide item and the files it names
-        run: bun .openslate/packages/cli/src/index.ts guide check guide
+      - name: Check every guide's items and the files they name
+        run: |
+          set -euo pipefail
+          for dir in guide county/*/; do
+            bun .openslate/packages/cli/src/index.ts guide check "${dir%/}"
+          done
