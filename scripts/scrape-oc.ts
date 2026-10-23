@@ -130,7 +130,10 @@ const items = new Map<string, Item>();
 const problems: string[] = [];
 const notes: string[] = [];
 function itemFor(subject: Subject, retrieved_at: string): Item {
-  const key = slug(subject.title.replace(/\s*\(.*\)\s*$/, ""));
+  // A measure's parenthesis describes it; a race's ("(Short Term)") names a different seat.
+  const title =
+    subject.kind === "measure" ? subject.title.replace(/\s*\(.*\)\s*$/, "") : subject.title;
+  const key = slug(title);
   let item = items.get(key);
   if (!item) {
     item = { v: 1, subject, retrieved_at };

@@ -146,7 +146,7 @@ const problems: string[] = [];
 const notes: string[] = [];
 
 function itemFor(subject: Subject, retrieved_at: string): Item {
-  const key = itemKey(subject.title);
+  const key = itemKey(subject);
   let item = items.get(key);
   if (!item) {
     item = { v: 1, subject, retrieved_at };
@@ -155,8 +155,11 @@ function itemFor(subject: Subject, retrieved_at: string): Item {
   if (retrieved_at > item.retrieved_at) item.retrieved_at = retrieved_at;
   return item;
 }
-function itemKey(title: string): string {
-  return slug(title.replace(/\s*\(.*\)\s*$/, ""));
+/** A measure's parenthesis describes it; a race's ("(Short Term)") would name a different seat. */
+function itemKey(subject: Subject): string {
+  return slug(
+    subject.kind === "measure" ? subject.title.replace(/\s*\(.*\)\s*$/, "") : subject.title,
+  );
 }
 
 // ---------------------------------------------------------------- statements
