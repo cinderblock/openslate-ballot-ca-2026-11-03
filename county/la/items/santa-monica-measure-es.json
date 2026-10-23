@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Monica — Measure ES (Excellent Santa Monica Public Schools Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-monica",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:14Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "MEASURE ES: Shall a measure imposing a City of Santa Monica collected parcel tax of $495 per taxable parcel, adjusted annually for inflation, exempting qualifying seniors, affordable housing, non-profits, religious organizations, and schools, providing continual funding for Santa Monica's public schools, including retaining teachers, assisting disadvantaged students, supporting art, music, science, math, and early childhood education, keeping school facilities clean and safe for student and community use, generating an estimated $12,000,000 annually until repealed by voters, with oversight requirements, be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " SM-Malibu Classroom Teachers Assn.; SM Chamber of Commerce; SMM Council of PTAs ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Northeast Neighbors; Wilshire Montana Neighborhood Coalition; Marc Verville; Karen Melick; Lori Brown"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Es",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This citizen initiative would add Chapter 2.74 to the Santa Monica Municipal Code and impose an annual $495 special tax on each parcel of taxable real property in the City of Santa Monica (“City”). The tax would rise annually with inflation under the specified Consumer Price Index and would not expire."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If adopted, the measure would require the City to provide all tax revenue from the measure to the Santa Monica-Malibu Unified School District (“SMMUSD”) or any successor Santa Monica school district serving City students. The measure identifies the Los Angeles County Assessor, or another lawfully designated entity, as the “Tax Collector.” Unpaid parcel taxes are subject to penalties, fees, and interest and constitute a lien on the parcel."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As a special tax, the revenue may be used only for purposes stated in the measure. Permitted uses include retaining teachers; assisting disadvantaged students; supporting art, music, science, math, and early childhood programs; maintaining existing facilities; and providing after-hours community access to school facilities. Revenue may not be used for administrator salaries, land acquisition, or capital improvements such as new buildings."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The tax is intended to replace City funding under the Master Facilities Use Agreement, which expires June 30, 2027. Revenue may not replace or be credited against City funding provided to SMMUSD under other agreements or prior voter-approved measures. The tax is estimated to raise $12,000,000 annually for educational purposes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Property already exempt from property tax would remain exempt. The measure also exempts: (1) a principal residence owned and occupied by a person age 65 or older; (2) property owned by a nonprofit organization with federal tax-exempt status under section 501(c)(3); (3) qualifying 100-percent affordable housing developments; and (4) property owned by a religious organization or school that is exempt from property tax. The City’s Finance Director would establish exemption application procedures."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Within 90 days after the measure takes effect, the City must request that SMMUSD establish an oversight structure, which may be its existing Financial Oversight Committee. If SMMUSD does not establish oversight by the first July 1 after the effective date, the City must establish an oversight committee. SMMUSD must obtain annual independent performance audits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City’s Finance Department would administer the tax and exemptions. Residents may sue to enforce the City’s obligations under the measure. A prevailing plaintiff would be entitled to costs and reasonable attorneys’ fees. The measure requires the City to defend it against legal challenge and to indemnify the proponents for reasonable attorneys’ fees incurred in defending the measure. The measure would take effect on the earliest legally permissible date, with collection beginning the first July 1 after voter approval. It could be amended or repealed only by majority voter approval."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure was placed on the ballot by a petition signed by the requisite number of voters. A “yes” vote favors adoption; a “no” vote opposes adoption. A majority of votes cast on the measure is required for passage."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "HEIDI VON TONGELN\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure ES. If you desire a copy of the Measure, please visit santamonica.gov/elections/2026-11-03 or call the Santa Monica City Clerk's Office at 310-458-8211 and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

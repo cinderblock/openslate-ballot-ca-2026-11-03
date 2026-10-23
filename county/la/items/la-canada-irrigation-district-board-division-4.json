@@ -1,0 +1,40 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Cañada Irrigation District Board, Division 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:18Z",
+  "candidates": [
+    {
+      "choice": "Helen Grace Avila Olivares",
+      "statement": {
+        "by": "Helen Grace Avila Olivares",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am honored by the opportunity to serve the community I love and call home. As a Water Utility Engineer with nearly 25 years of civil service experience at the nation's largest municipal water and power utility, I have dedicated my life to protecting public health, delivering reliable and clean water, protecting infrastructure, and serving the public with integrity, honesty, and compassion."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My extensive experience in public service, leadership, and engineering has well prepared me to help guide the La Cañada Irrigation District through today's challenges while planning responsibly for the future. I am committed to safety, reliability, customer service, fiscal responsibility, innovation, and continuous improvement to ensure our District provides exceptional service, dependable water delivery, and the highest standards of safety and reliability to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and the opportunity to serve our community with dedication, transparency, and accountability as a member of the La Cañada Irrigation District Board of Directors - Division 4."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

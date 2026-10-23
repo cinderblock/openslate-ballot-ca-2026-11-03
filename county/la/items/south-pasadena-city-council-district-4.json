@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "South Pasadena City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/south-pasadena",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:21Z",
+  "candidates": [
+    {
+      "choice": "Michael Cacciotti",
+      "statement": {
+        "by": "Michael Cacciotti",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Re-Elect South Pasadena City Councilmember Michael Cacciotti"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm honored to have had the privilege of helping make South Pasadena an even better place to live, and I'm excited to help secure a bright future for our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In service to our city, I've helped:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Prevent traffic congestion from the 710 freeway extension\n- Stop the sale of our South Pasadena Nature Park\n- Spearhead the Arroyo Seco Pedestrian/Bicycle path\n- Improve library, senior, and recreational programs"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "(See ",
+              {
+                "strong": [
+                  "MichaelCacciotti.com "
+                ]
+              },
+              "for my full list of accomplishments)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Each year I've been in office, we have balanced our budget and improved our fiscal reserves. While we continue to increase efficiency, I'm the only candidate who has won millions of dollars in grants and funding to ",
+              {
+                "strong": [
+                  "reduce the burden on taxpayers."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Before I leave public service, I want to secure the achievements we've made for South Pasadena and continue improving the quality of life for our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Priorities for the future:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Maintain high levels of public safety\n- Increase bike and pedestrian safety\n- Improve the city services you depend on (Streets, sidewalks, water & sewer systems)\n- Champion financial and environmental sustainability\n- Regain local control of development to keep our small-town character"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Michael Cacciotti"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "South Pasadena City Councilmember"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nevin Stanton-Trehan",
+      "statement": {
+        "by": "Nevin Stanton-Trehan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "South Pasadena is where my family chose to build our life and raise our children. I am running for City Council to bring leadership to the community we love. As Chair of the South Pasadena Finance Commission, I have worked to strengthen financial oversight, promote transparency, and protect taxpayer dollars. As Executive Vice",
+              " President, Chief People Officer and General Counsel for the YMCA of Metropolitan Los Angeles, I help oversee legal, financial, workforce, and operational matters for an organization with a budget and complexity comparable to our City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Beyond my work, I coach Jr. Clippers basketball and Little League, chaired the Marengo Parent Party, serve on the AbilityFirst and SPEF boards, and am a member of South Pasadena DUDES and the Oneonta Club."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the City Council, I will focus on restoring financial stability, repairing roads and sidewalks, improving neighborhood safety, investing in parks for every generation, and creating a walkable downtown that supports local businesses and welcomes new ones."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to have support from leaders affiliated with SPEF, Marengo PTA, the Oneonta Club, South Pasadena DUDES, and the Chinese American Society. I will listen, act with urgency, unite the community, and deliver results. I ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

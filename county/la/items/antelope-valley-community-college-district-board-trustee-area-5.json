@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Antelope Valley Community College District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:23Z",
+  "candidates": [
+    {
+      "choice": "Barbara Gaines",
+      "statement": {
+        "by": "Barbara Gaines",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Barbara Gaines, current AVC Board of Trustee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past 13 years, I have proudly served on the Antelope Valley College Board of Trustees, building on 31 years in education and a lifelong commitment to student success. I believe effective trustees lead by listening, earning trust, making responsible decisions, and always putting students and our community first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have achieved remarkable results. We secured a $350 million bond in 2016 to modernize our campus, expanded career pathways in aerospace, nursing, automotive, fire technology, and welding, and celebrated more than 4,000 graduates and certificate earners in 2026. Every achievement creates stable families, a stronger workforce, and a thriving Antelope Valley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of what we have accomplished, our best days are still ahead. I remain committed to fiscal responsibility, transparency, innovation, and ensuring every student has access to an affordable, high-quality education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote and trust. The best investment is in our students. When students succeed, our entire community succeeds. Together, let's keep expanding opportunities cementing a bright future within everyone's reach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your support, we will continue building pathways, empowering students, strengthening partnerships, and creating viable options for generations across the Antelope Valley."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Pamela Ford",
+      "statement": {
+        "by": "Pamela Ford",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For 30 years, I've devoted my life to AVC and the people it serves. I've helped students facing poverty, incarceration, and hardships who often found education beyond reach. I understand those struggles. As a single mother who once relied on public assistance, I built a successful career while raising my children, and have never forgotten what families must overcome."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was the president of AVC's classified employees union for 18 years. I've been a determined and effective advocate: Securing multimillion-dollar relief for classified employees for unlawful working conditions through litigation that reached the California Supreme Court; pushing the current board to continue funding student recruitment visits to historically Black universities and successfully negotiating Indigenous Peoples and Farm Worker's Day holidays."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My record is not limited to one group or one issue. I've defended and advocated for students, employees, families, and the integrity of the institution itself. I believe a college succeeds when people are treated fairly, resources are used responsibly, and every student is given a genuine opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring courage, sound judgment, compassion, and deep institutional experience. As an AVC Board Member, I'll be a strong voice for students, employees, families, and the entire Antelope Valley community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

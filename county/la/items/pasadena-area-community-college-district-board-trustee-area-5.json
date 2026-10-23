@@ -1,0 +1,120 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pasadena Area Community College District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:18Z",
+  "candidates": [
+    {
+      "choice": "Kristine E. Kwong",
+      "statement": {
+        "by": "Kristine E. Kwong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every student deserves the opportunity to build their future through a quality education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Pasadena City College Trustee, I have championed the expansion of dual enrollment programs that empower students to earn college credit while still in high school and supported career education programs that prepare students for today's high-demand workforce."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When the devastating Eaton Fire changed so many lives across our community, I worked to ensure Pasadena City College was part of the recovery by supporting workforce training programs that help rebuild our communities while creating new opportunities for students seeking meaningful careers. I have also invested in modern classrooms, upgraded technology, and campus improvements that enhance learning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe strong colleges are built through collaboration. That's why I have made it a priority to create and maintain productive partnerships with faculty, staff, students, and community members to ensure that the decisions we make always put students first. By promoting transparency, responsiveness, and inclusive leadership, I have worked to create a campus culture where every voice is valued."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so I can continue expanding opportunity, strengthen Pasadena City College, and deliver meaningful results for our students and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "KristineForPCC.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jennifer Thompson",
+      "statement": {
+        "by": "Jennifer Thompson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Media Marketing Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education has opened doors in my life. I want to help ensure those same doors remain open for every student who walks through Pasadena City College."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past 25 years, South Pasadena has been home for my family. My husband is a lifelong South Pasadena resident and graduate of South Pasadena High School, and we have raised our three children here volunteering in our schools, parish, and community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After graduating from UC Berkeley, I spent more than 30 years in media building trusted relationships, solving problems, and helping businesses and organizations connect with the communities they serve. My career taught me the importance of listening, asking questions, collaborating with others, and making informed decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For me, Pasadena City College is more than a place to earn a degree. It is a place where high school students can get a head start, adults can prepare for a new career, entrepreneurs can gain new skills, and lifelong learners can continue to grow. ",
+              {
+                "strong": [
+                  "Every student deserves the opportunity to discover their talents, receive a meaningful education, and graduate with real-world experience to build a successful future. "
+                ]
+              },
+              "As your Trustee, I will advocate for students, parents, employers, and community members throughout our district."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

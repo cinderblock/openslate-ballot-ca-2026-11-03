@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Inglewood Unified School District Board, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:09Z",
+  "candidates": [
+    {
+      "choice": "Brandon George Myers",
+      "statement": {
+        "by": "Brandon George Myers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Brandon George Myers and I am seeking re-election to the Inglewood Unified School District Board of Education to continue building a stronger future for our students, families and schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was first elected in November 2020 to represent Seat 3 and have worked to improve educational opportunities, strengthen fiscal accountability and invest in safe, modern learning environments. During my tenure, I have supported the successful completion of the Bennet Kew Tk-8 expansion which entailed adding six new classrooms and a multipurpose space, as well as the District's Child Development Center improving access to high-quality early childhood education for Inglewood families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a longtime resident, I bring more than eight years of experience in education and over fourteen years of serving children and families. Additionally, I founded the Inglewood South Bay Democratic Club and have dedicated my public service to advancing equity, opportunity and community engagement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While on the Board, I have also supported responsible governance, fiscal stewardship and the progress towards restoring local control while advocating for accountability from leaders in the decision-making process."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue strengthening Inglewood Unified and ensure every student has the opportunity to thrive."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Yaritza Gonzalez",
+      "statement": {
+        "by": "Yaritza Gonzalez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Yaritza Gonzalez, and I am running for Inglewood School Board, Trustee Area 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an Inglewood native and proudly attended Inglewood schools, including Worthington Elementary School, Albert Monroe Magnet Middle School, and Animo Inglewood Charter High School. As a multilingual learner, I experienced firsthand the challenges students face and understand the importance of ensuring every",
+              " student has the resources they need to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned my bachelor's from Dartmouth College and my Master of Public Policy from the UCLA Luskin School of Public Affairs, where I concentrated on immigration and education policy. I served with the White House Initiative on Educational Excellence for Hispanics, was awarded a Fulbright Public Policy Initiative Fellowship, and now work as a Policy Manager at the Central American Resource Center (CARECEN-LA), advocating for students and their families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will prioritize competitive teacher pay, restore local control, increase student enrollment, raise student achievement, and make sure that corporations pay their fair share to keep our schools open, safe, and welcoming learning environments."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to fighting for every student to have access to a high-quality public education. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 27",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-27",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:34Z",
+  "candidates": [
+    {
+      "choice": "George Whitesides",
+      "statement": {
+        "by": "George Whitesides",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As the new Member of Congress from our area, Representative George Whitesides is ",
+              {
+                "strong": [
+                  "fighting to lower your costs"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "He wants to make sure our government works for working people – not just the wealthy and well-connected."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "George served as NASA Chief of Staff under President Obama. George and his wife, Loretta Hidalgo, raised their two young children in Lancaster, where he led an aerospace company and ",
+              {
+                "strong": [
+                  "created hundreds of good-paying jobs in the Antelope Valley."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Congress, ",
+              {
+                "strong": [
+                  "George Whitesides is taking on corruption and fighting to ban Members of Congress from trading stocks"
+                ]
+              },
+              ". He stood up to billionaires and Trump Administration officials who are raising prices on families in our area just to enrich themselves. George also brought home millions of dollars to fund our local police and firefighters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "George is working to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1) ",
+              {
+                "strong": [
+                  "Lower the cost of living."
+                ]
+              },
+              " George voted against cutting Medicaid and Social Security funding. His focus is on making gas, groceries, housing, and healthcare cheaper for working families and small businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2) ",
+              {
+                "strong": [
+                  "Fight utility companies that jack up electric bills"
+                ]
+              },
+              ", and fight policies that make electricity and energy costs more expensive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3) ",
+              {
+                "strong": [
+                  "Hold ICE agents accountable"
+                ]
+              },
+              " when they break the law or violate people's rights."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4) Fix the wildfire crisis by ",
+              {
+                "strong": [
+                  "standing up to insurance companies"
+                ]
+              },
+              ", making houses more fire-resistant, providing disaster relief, supporting technology to detect wildfires before they spread, and ",
+              {
+                "strong": [
+                  "raising firefighter pay."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "George is endorsed by labor unions representing firefighters, nurses, teachers, and working people across the state. Visit GeorgeWhitesides.com for more information."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

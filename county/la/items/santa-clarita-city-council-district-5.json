@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clarita City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clarita",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:44Z",
+  "candidates": [
+    {
+      "choice": "Liliia Chernova",
+      "statement": {
+        "by": "Liliia Chernova",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am an IT executive with an MBA and a Master of Education, with over fifteen years building revenue and leading teams. I know how to manage growth responsibly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Uncontrolled development threatens our neighborhoods. I will demand scrutiny of projects like Sand Canyon Village, fight for cleaner parks and more green space, and oppose placing homeless service centers in District 5",
+              " without reasonable planning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Wildfire safety cannot wait. I will push for proactive brush and shrub removal to protect our homes before fire season, not after."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Families here are stretched thin. I will bring financial literacy workshops and educational resources to our residents and enable a path toward debt reduction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an immigrant, I built my life and career by following legal protocol, and I believe firmly in legal immigration and the rule of law."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 5",
+              " has never had our own voice on the Council. I intend to provide it for us."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kelvin Driscoll",
+      "statement": {
+        "by": "Kelvin Driscoll",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Nonprofit Executive/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the first time, District 5 will elect its own representative. Every neighborhood deserves a Councilmember who is present, accessible, and committed to listening before leading. That's why I'm running."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Nonprofit Executive and graduate-level Educator, I lead one of Los Angeles County's largest nonprofit organizations and teach graduate students at the USC School of Social Work. Every day, I bring people together, solve complex challenges, and help prepare future leaders to serve our communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Like so many families, we chose Santa Clarita for its safe neighborhoods, outstanding schools, beautiful parks, and exceptional quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I'll work to keep our neighborhoods safe, improve traffic and mobility, support local businesses, make growth work for residents, and ensure District 5 receives the attention and investment it deserves. Together, we can build on our strengths by creating more opportunities to support local businesses, enjoy our parks and trails, and experience the best of Santa Clarita close to home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will be a Councilmember you can reach. I would be honored to earn your vote. When you love your city, you don't just live here – you help build it. Let's build our future together at KelvinforSCV.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bob Khalsa",
+      "statement": {
+        "by": "Bob Khalsa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 73"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 28 years, my family and I have proudly called District 5 home. We raised our two children through our local junior high and high schools, giving me a deep understanding of our neighborhoods, our community values, and the issues facing Santa Clarita. As a business owner for 22 years, I have worked with local, state, and federal agencies for over a decade, advocating for property rights, responsible development, sound public policy and accountable government. I understand how government works and how to achieve results through collaboration, integrity and practical solutions. I have also been a fighter pilot, followed by a successful career as an airline pilot and a credentialed high school science teacher. These experiences taught me leadership, discipline, the importance of making sound decisions under pressure and the challenges facing homeowners, families, and local businesses. I will work to strengthen public safety, improve traffic and infrastructure, protect our neighborhoods, preserve property rights, support local businesses and ensure responsible fiscal management. I respectfully ask for your vote so that, together, we can keep Santa Clarita safe, prosperous and an exceptional place to live, work and raise a family."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

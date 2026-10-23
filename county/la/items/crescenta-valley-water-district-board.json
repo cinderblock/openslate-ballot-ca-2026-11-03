@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Crescenta Valley Water District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:10Z",
+  "candidates": [
+    {
+      "choice": "James Bodnar",
+      "statement": {
+        "by": "James Bodnar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I appreciate the opportunity to represent you as your Director on the Crescenta Valley Water District Board. I work to ensure that our community has reliable, clean, and affordable water. I have served on the Crescenta Valley Water District Board for the last seventeen years and have thirty years of experience in the water industry. I have worked on conservation issues, local water supply projects, water storage programs, infrastructure development, and water quality issues. I have considerable experience in managing water projects and keeping within budgets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "EXPERIENCE COUNTS"
+                ]
+              },
+              "\n- Thirty years water industry experience\n- Seventeen years CVWD Director experience\n- M.S., Civil Engineering, Stanford University\n- B.S., Engineering, California State University Northridge\n- Professional Civil Engineer\n- Water Treatment and Distribution Operator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "GOALS"
+                ]
+              },
+              "\n- Control and reduce costs\n- Improve local supplies\n- Improve system reliability during outages and emergencies\n- Properly support infrastructure\n- Provide safe drinking water to our community"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to managing our water supply in an economically responsible way.\nPlease vote James Bodnar as your representative."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: ",
+              {
+                "strong": [
+                  "www.ElectBodnar.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jeffery W. Johnson",
+      "statement": {
+        "by": "Jeffery W. Johnson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 64"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a resident of and have lived in La Crescenta for the past 31 years. My wife and I were blessed to have two kids who attended and graduated from our local schools. Representing clients over the last 39 years, I have extensive experience working with state and Federal environmental law related to water quality standards and remediation of soil and ground water."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my first term as an elected Board of Director of CVWD, I worked (1) to keep rates affordable while continuing to keep our aging pipeline infrastructure from failing; (2) to maintain the highest drinking water quality standards; (3) to improve our water system's viability and survivability in the face of increasing fire risk; and (4) to secure our sources of water and to improve our ability to use locally sourced water."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would like to continue the work I started four years ago and would appreciate your vote so that I can keep serving our community as a Board of Director of CVWD."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Carla D. Dillon",
+      "statement": {
+        "by": "Carla D. Dillon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Carla D. Dillon is a water leader dedicated to strengthening essential infrastructure and supporting the long-term wellbeing of the communities she serves. With experience overseeing engineering, operations, and utilities management, she has guided organizations through major capital improvements, water quality initiatives, and drought-resilience planning in a ",
+              {
+                "strong": [
+                  "fiscally responsible manner"
+                ]
+              },
+              ". Throughout her career, she has prioritized clear communication, regulatory compliance, and operational efficiency to ensure public resources are managed wisely and sustainably."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Reliable water and sewer service depends on thoughtful planning, fiscal responsibility, and open dialogue with residents. ",
+              {
+                "strong": [
+                  "Agency consolidation needs to be seriously considered to reduce administrative costs and stabilize costs to customers."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Carla remains committed to fostering trust, strengthening partnerships, and advancing solutions that reflect both the needs and the values of the community. I look forward to serving the Crescenta Valley community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

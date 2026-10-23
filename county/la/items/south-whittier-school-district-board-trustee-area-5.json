@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "South Whittier School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:18Z",
+  "candidates": [
+    {
+      "choice": "Sylvia V. Macias",
+      "statement": {
+        "by": "Sylvia V. Macias",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Sylvia V. Macias and I am seeking another term on the South Whittier Board of Education. As the current incumbent, I bring years of training, leadership and experience, along with a proven commitment to the students, families, and community of South Whittier."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong resident of South Whittier and graduate of our local schools, I have proudly served our community for many years. My service includes being founding committee member of the South Whittier Community Resource Center and supporting the development of the Graves Middle School gymnasium and classroom additions. I have also served on numerous community committees dedicated to improving opportunities for our students and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my time on the Board of Education, we have made steady progress in improving student achievement, expanding resources that help every student reach their full potential, mainstreaming a balanced budget and promoting transparency and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of what we have accomplished together, I know more work remains. I will continue to advocate for innovative programs, strong academic standards, responsible fiscal budget and opportunities that prepare every student for success. Our children are the future, and they deserve the highest quality education we can provide."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and your vote on November 3, 2026."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sylvia V. Macias"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

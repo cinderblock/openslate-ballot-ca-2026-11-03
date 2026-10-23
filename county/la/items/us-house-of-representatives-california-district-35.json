@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 35",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-35",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:38Z",
+  "candidates": [
+    {
+      "choice": "Norma J. Torres",
+      "statement": {
+        "by": "Norma J. Torres",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Families across the Inland Empire are working harder than ever, but Trump and Washington Republicans are making life more expensive. Groceries, gas, housing, insurance, and healthcare keep rising while billionaires and wealthy corporations enjoy huge tax breaks and record profits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Norma Torres is standing up to the chaos and corruption. She has fought Donald Trump's reckless tariffs, opposed cuts to hospitals and nursing homes, and worked to stop abuses by masked federal agents targeting our neighbors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Norma is a lifelong Inland Empire resident, wife, mother, and grandmother who raised her family here. She knows what working families are facing because she has lived it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Before public office, Norma worked the graveyard shift as a 911 dispatcher, answering calls from people in crisis. That experience shaped her commitment to public safety, accountability, and responsive government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, state legislator, and Member of Congress, Norma has delivered real results: expanding affordable housing, helping secure $2 billion to keep families in their homes, strengthening transportation and emergency response, and bringing home more than $70 million for local projects."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Norma Torres for Congress"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Norma will keep fighting to lower costs, protect healthcare, defend democracy, hold powerful interests accountable, and make government work for the people it serves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Norma will always put seniors, veterans, small businesses, and working families first and she will never stop delivering for the Inland Empire."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Send a clear message: vote to re-elect Norma Torres to Congress and protect our families, our rights, our democracy, and our future."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

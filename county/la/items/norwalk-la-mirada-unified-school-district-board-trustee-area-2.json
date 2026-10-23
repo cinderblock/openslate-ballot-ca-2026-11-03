@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Norwalk-La Mirada Unified School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:41Z",
+  "candidates": [
+    {
+      "choice": "Marybel Micaela Lorenzo",
+      "statement": {
+        "by": "Marybel Micaela Lorenzo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Good morning,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hi I am a single mother, a small businesswoman, and your Norwalk neighbor. I am the daughter of immigrants who worked in the garment industry and taught me that education opens every door. I earned my associate degree at a community college and my bachelor's in sociology at a Cal State. Today I am a small business owner, and I volunteer to provide free cosmetology services for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our board makes decisions that shape our children's lives, and too often families learn about them after the vote. I will insist that parents be told first, that costs be published plainly, and that no major decision moves without true public discussion. More financial transparency and more rubber stamps."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a past student of speech-language pathology I believe special needs children deserve real support, not waiting lists. I will fight for the staffing and services our families were promised. I will work to make class sizes small, because a teacher who knows your child can change your child's life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a working mother who reads the budget, asks hard questions, and answers to you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote to help me make our schools what our kids deserve."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

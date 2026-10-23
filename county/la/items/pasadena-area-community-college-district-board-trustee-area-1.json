@@ -1,0 +1,120 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pasadena Area Community College District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:13Z",
+  "candidates": [
+    {
+      "choice": "Geoff Baum",
+      "statement": {
+        "by": "Geoff Baum",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Pasadena City College belongs to all of us."
+                ]
+              },
+              " It leads California in transfers to UC and Cal State, and offers over 100 career programs, from nursing to construction trades. But students need more than statistics: they need classes that fit their shifts, textbooks that cost nothing, and counselors who help."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why I am running again."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I served three terms as a trustee, twice as Board President. When midyear budget cuts hit during the Great Recession, ",
+              {
+                "strong": [
+                  "we kept a full class schedule and never laid off a single employee. "
+                ]
+              },
+              "Later, as President of the Community Colleges Board of Governors, I helped lead the fight for transfer degrees and zero-cost textbooks. California now invests $115 million in those programs, saving students thousands."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After the Eaton Fire, our neighbors, students, faculty, and staff turned to PCC for emergency aid, to retrain, finish interrupted degrees, and start over. ",
+              {
+                "strong": [
+                  "I am committed to training the carpenters, electricians, welders, and building inspectors who will rebuild our neighborhoods, "
+                ]
+              },
+              "along with zero-cost textbooks, stronger transfer pathways, and ",
+              {
+                "strong": [
+                  "careful oversight of every bond and tax dollar."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our community deserves a college that delivers. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Francis Pollara",
+      "statement": {
+        "by": "Francis Pollara",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Pasadena City College was a big part of my academic journey and the opportunities I found there shaped my future. That's why I'm running–to help prepare today's students for tomorrow's careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a lifelong resident of the district, PCC alumnus, business and economic development leader, city commissioner, and community volunteer. Throughout my career, I've helped businesses, educators, and government work together to create jobs, strengthen workforce training, and prepare communities for the future. I currently serve as Chair of the La Cañada Flintridge Sustainability and Resilience Commission, on the Board of the YMCA of the Foothills, and on the Advisory Council of the Los Angeles Cleantech Incubator."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I'll help PCC prepare students for the changing workforce by expanding career education, embracing new technology that improves learning, strengthening partnerships with local employers, supporting successful transfer pathways, and ensuring every taxpayer dollar is managed responsibly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm honored to be endorsed by Congresswoman Judy Chu, former State Senator Carol Liu, the Pasadena City College Faculty Association, a majority of the current PCC Board of Trustees, Vice Mayor Jess Rivas, Mayor Jeanne Hobson, the Stonewall Democratic Club, the Cañada Crescenta Democratic Club, and community leaders throughout the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Preparing Students. Building Opportunity. Shaping the Future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "FrancisPollara.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Antelope Valley Community College District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:20Z",
+  "candidates": [
+    {
+      "choice": "Michael R. Adams",
+      "statement": {
+        "by": "Michael R. Adams",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Antelope Valley College has become one of the premier community colleges thanks to the leadership of the current Board of Trustees. More students are attending classes at AVC than ever. AVC is financially sound due to conservative and long-range planning. AVC maintains a strong reserve, which allows hiring of more full-time faculty and staff, increased course offerings and services at the Palmdale Center, and state of the art technology in classrooms. Student Services have improved registration, counseling, and receipt of financial aid."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to provide experience, knowledge, dedicated leadership, fiscal responsibility, and proven integrity. I understand the higher education needs of our community and will ensure student access, equity, inclusion, and success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience\n25 years on AVC Board, Six years as President\nFormer student and faculty member at AVC"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Community Service\nFormer USAF Captain, Meritorious Service Medal\nAVC Foundation Board (personally contributed $8000 for scholarships)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education\nBachelor of Arts, UCLA\nMaster of Science, USC"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "AVC Achievements\nEquity and Student Achievement Department\nHonors Program\nAspen Institute top 150 colleges in US\nTwo Bachelors Degrees offered\nRanked 54 out of over 4,100 colleges/universities by Hispanic Outlook on Education\n15 new buildings completed or in progress"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nashon T. Mitchell",
+      "statement": {
+        "by": "Nashon T. Mitchell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Career Development Prog. Specialist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Antelope Valley College transforms lives through education, workforce development, and community partnerships. I am running for the Antelope Valley College Board of Trustees because I believe every student deserves access to the education, resources, and opportunities needed to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Workforce Readiness Facilitator with the Los Angeles County Office of Education (LACOE), I help individuals develop the skills and confidence needed to achieve meaningful employment. This experience has strengthened my commitment to expanding educational opportunities and preparing students for successful careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the founder of Solé of the Community, I have worked to support youth, families, and underserved communities through mental health advocacy, wellness initiatives, and community partnerships. I understand that student success requires strong academic programs, career pathways, and access to essential support services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will advocate for workforce education, strengthen partnerships with local employers and community organizations, support student mental health and wellness, promote transparency and fiscal responsibility, and expand opportunities for student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring collaborative leadership, integrity, and a student-centered approach to every decision. Together, we can strengthen Antelope Valley College and create opportunities that benefit students, families, and our entire community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alhambra City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/alhambra",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:56Z",
+  "candidates": [
+    {
+      "choice": "Amy Wong",
+      "statement": {
+        "by": "Amy Wong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I'm Amy J. Wong and I'm running for Alhambra City Council to use my experience bringing people together, solving problems, and delivering results to help Alhambra preserve what makes our city special and prepare for the opportunities ahead."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm the daughter of immigrants and a first-generation college graduate. After studying Public Health at UC Berkeley, I dedicated my career to building healthier, more vibrant communities and currently work as an advisor with South Coast Air Quality Management District to protect public health. With ActiveSGV, I've worked to make San Gabriel Valley communities more resilient by helping deliver millions in public investments to improve our streets, parks, and air quality."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Recently, I helped lead the successful campaign to ban data centers in Monterey Park to protect our region's health and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Alhambra Historic Preservation Commissioner and former Planning Commissioner in our region, I've focused on improving public engagement, ensuring residents have a voice in shaping our community's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As City Councilmember, I'll continue to work with residents, schools, local businesses, and regional leaders to improve neighborhood safety, focus on affordability, and invest in solutions that create healthier communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at: AmyForAlhambra.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ron Sahu",
+      "statement": {
+        "by": "Ron Sahu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "For more than 38 years, Alhambra has been Dr. Ron Sahu's home. Now, he is running for City Council, District 1,"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "to bring decades of local service, scientific expertise, community advocacy, and independent leadership focused on results—not politics."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "EXPERIENCE ROOTED IN ALHAMBRA"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A Caltech-trained environmental engineer and educator, Ron has spent his career solving complex problems through research, evidence, and accountability. He has taught at Caltech, UCLA, USC, and other universities while raising his family in Alhambra and sending his children to local public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ron has served Alhambra on the Planning Commission and Environmental Sustainability Commission, helping shape the City's General Plan and Zoning Code while advocating for responsible development and environmental protections. He serves on the board of Grassroots Alhambra, a nonpartisan community organization focused on civic engagement, transparency, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "PUTTING RESIDENTS FIRST"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ron believes Alhambra deserves a City Council that listens to residents, asks tough questions, and follows through. He will work to protect neighborhoods, strengthen public accountability, invest responsibly in Alhambra's future, and ensure residents always have a meaningful voice in the decisions that affect their community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With decades of experience serving Alhambra, Ron is ready to get to work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Learn more at RonSahu.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Claremont City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/claremont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:52Z",
+  "candidates": [
+    {
+      "choice": "Jennifer Stark",
+      "statement": {
+        "by": "Jennifer Stark",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 57"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: City Councilwoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong Claremont resident and City Council member, I am honored to seek re-election. Since 2018, I have served with dedication and commitment, including terms as Mayor in 2020 and 2026. My public service is rooted in accessibility, responsiveness, and a deep commitment to building trust between residents, local businesses, and our renowned academic institutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities for the upcoming term remain steadfast: fostering a vibrant local economy by attracting revenue-generating businesses that respect Claremont's unique character. I am dedicated to rigorous fiscal stewardship, public safety, and proactive environmental management. Through regional leadership, I ensure Claremont's voice is influential on critical issues such as open space preservation, sustainable water management, beneficial development, and infrastructure development, while consistently advocating for our most vulnerable community members."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Locally, I maintain hands-on community connections through my service on the boards of Claremont Heritage and Crossroads for Women, alongside volunteering with the Service Center for Independent Living, SCIL. My approach is defined by building bridges and collaborative problem-solving. Together, we can secure a sustainable future that serves every resident and preserves the Claremont we are proud to pass on to the next generation. I would be honored to earn your vote on November 3."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sonja Stump",
+      "statement": {
+        "by": "Sonja Stump",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love Claremont and think of my neighbors as extended family. While we may not always agree on every issue, we share a common goal: preserving the qualities that make Claremont a wonderful place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support thoughtful planning that respects our community values, protects neighborhood character, preserves our history, and encourages local decision-making. As a longtime small business owner and co-founder of the Claremont Village Marketing Group, I understand the challenges local businesses face with online shopping. I will support efforts to attract businesses that complement Claremont's unique character, including those that provide experience-based retail shopping."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety is essential. I value our outstanding Police Department and its partnerships through CERT, Neighborhood Watch, the Explorer Program, and Community Patrol. I also support bringing back the Citizens Police Academy to strengthen community engagement. Our partnership with Claremont Unified School District is vital. It's time to update the Youth Master Plan to meet the needs of today's Children and families. As your Councilmember, I will provide responsible fiscal oversight, maintain our infrastructure, protect our tree canopy, support public safety and community service while seeking innovative ways to make every taxpayer dollar count. I will serve Claremont with integrity, transparency and dedication. Visit me at Sonja4Claremont.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

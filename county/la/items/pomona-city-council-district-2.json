@@ -1,0 +1,65 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pomona City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/pomona",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:04Z",
+  "candidates": [
+    {
+      "choice": "Victor Preciado",
+      "statement": {
+        "by": "Victor Preciado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 38"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember/Garey Coach"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past eight years, it has been an honor to serve the residents of District 2. I am grateful for that trust and proud of what we've",
+              " accomplished together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We've developed more than 175 affordable and mixed-income homes, revitalized all seven District 2 parks, and built the city's largest playground. We've delivered more street, alley, sidewalk, and pedestrian improvements than ever, focusing on safety upgrades at every District 2 school and park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We've completed more than 40 murals, secured a $500,000 grant for Palm Lakes Golf Course, and continued investing in neighborhood improvements that enhance quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Beyond Pomona City Hall, I've led the Pomona 5K/10K for the past decade, raising more than $100,000 for youth programs. I stand with Pomona immigrant families and raised more than $30,000 for the Pomona Compassion Fund. I continue to coach and mentor youth with the Garey HS Football Team."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I'm proud of what we've accomplished, there's more work to do. I'll continue fighting for safer streets, vibrant parks, quality housing, thriving businesses, and opportunities for every family. Together, we'll keep building a Pomona where every neighborhood thrives. To continue moving forward, I humbly request your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

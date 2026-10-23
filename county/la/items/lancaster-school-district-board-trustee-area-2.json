@@ -1,0 +1,162 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lancaster School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:31Z",
+  "candidates": [
+    {
+      "choice": "Oscar Iraheta",
+      "statement": {
+        "by": "Oscar Iraheta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 40"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Lead Organizer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every child deserves the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is ",
+              {
+                "strong": [
+                  "Oscar Iraheta"
+                ]
+              },
+              ". I am a proud father of a student attending the Lancaster School District, a local business owner, investor, and Co-Founder of a community organization dedicated to serving families and strengthening our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Like many parents, I want our schools to provide every student with a safe learning environment, outstanding teachers, strong academic programs, and the skills needed to succeed in college, careers, military service, or skilled trades."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Board of Trustee because I believe our students deserve leaders who listen, collaborate, and put children—not politics—at the center of every decision."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will work to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Raise academic achievement and improve student outcomes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Support and respect our teachers and school employees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Keep our schools safe, welcoming, and focused on learning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Expand STEM, Career Technical Education, financial literacy, and workforce readiness programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Strengthen partnerships between schools, parents, businesses, and community organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Ensure transparency, accountability, and responsible stewardship of taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience as a parent, entrepreneur, and community leader has taught me that lasting success comes from listening, building trust, and working together to solve problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The future of Lancaster begins in our classrooms. Every decision we make today shapes the opportunities our children will have tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build stronger schools, stronger families, and a brighter future for every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Lancaster School District Governing Board, Trustee Area 2."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Oscar Iraheta"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Parent - Business Owner -"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Community"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Leader"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

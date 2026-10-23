@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "ABC Unified School District Board, Trustee Area 5, Partial Term",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:10Z",
+  "candidates": [
+    {
+      "choice": "Jean McHatton",
+      "statement": {
+        "by": "Jean McHatton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your ABC Unified School District Trustee for Area 5, I have focused on student achievement, fiscal responsibility, and transparent leadership. I ensured decisions about school closures and student transitions were financially responsible and educationally sound."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My career in public education spans service as a paraprofessional, teacher, elementary principal, and Director of Curriculum. Today I mentor future teachers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have also proudly served our community through Distinguished Young Women, the Cerritos College Board of Trustees, and Gahr Band Boosters. I will continue strengthening partnerships with our cities and promoting ABC Unified's outstanding schools to attract more families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I remain committed to strong, proven academic programs, including STEM, English Language Development, the Arts, Career Technical Education, Special Education, language immersion, dual enrollment, and ensuring every student reads by third grade. I will continue supporting our district's vision of One Vision for All Students through responsible stewardship of taxpayer dollars and the exceptional teachers and staff behind that success. My goal is to ensure every student is prepared for college, career, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so I can continue serving Trustee Area 5 with integrity, experience, and an unwavering commitment to educational excellence."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Brian Ferrer",
+      "statement": {
+        "by": "Brian Ferrer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 43"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Registered Nurse/Cerritos Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hello Neighbors! I am a proud product and graduate of the ABC Unified School District. I attended from Kindergarten to the 12th Grade. I pride myself on being a Son of this community and working full-time as a Registered Nurse at a local hospital. I served our Veterans at the Veterans Hospital and worked directly with University Students as a School Clinic Registered Nurse at the University of Southern California (USC) and California State University, Fullerton (CSUF)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am currently serving as Chairman of the ABC Unified School District Strategic Planning Board Advisory Committee, where we review the progress of the district's Strategic Plan and make formal recommendations to the Board of Education. As a City Appointed Commissioner for the City of Cerritos, we hold public hearings to determine if a property complies with the City's property maintenance code."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want to bring my experience and leadership to the ABC School Board with a Fresh, New, and Innovative perspective."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work tirelessly to focus on;\n1. Student achievement and Mental Health\n2. A Balanced Budget\n3. Collaboration with district staff and teachers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote, Brian Ferrer on November 3!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

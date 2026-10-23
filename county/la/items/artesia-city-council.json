@@ -1,0 +1,281 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Artesia City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/artesia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:11Z",
+  "candidates": [
+    {
+      "choice": "Dan Rocha",
+      "statement": {
+        "by": "Dan Rocha",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Candidate: Dan Rocha\nBallot Designation: Family Caregiver\nAge: 39"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Dan Rocha, a Son of Artesia. I grew up here and attended Elliott Elementary, Faye Ross Middle School, and Gahr High School. I have spent years serving the community that raised me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a family caregiver and proud union member, former Artesia Parks and Recreation Commissioner, former Beautification and Maintenance Commissioner, President of the Cerritos-Artesia Rotary Club, and a Friends of the Artesia Library board member."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a business owner and digital project manager, I have spent nearly two decades managing projects, budgets, technology, and client relationships. Those experiences taught me how to solve problems, bring people together, and deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe in leadership that is present, accessible, and accountable. I am running to strengthen public safety, address illegal dumping and neglected properties, support local businesses, improve parks and streets, and promote transparent, responsive government. I also support responsible development that protects neighborhoods while preparing Artesia for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe the best days of Artesia are still ahead of us. Together, we can bring new ideas, practical solutions, and real results while preserving the values that make our city special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Artesia City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at VoteDanRocha.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ali Sajjad Taj",
+      "statement": {
+        "by": "Ali Sajjad Taj",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Grandfather/Businessman/Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to serve the residents of Artesia as your Mayor and City Councilmember. Together, we have delivered meaningful progress while preserving the small-town values that make our community special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have reduced crime, strengthened public safety services, maintained balanced budgets, completed independent audits, invested in parks, streets, and infrastructure improvements, and supported responsible economic growth. We secured a new Public Services Station, enhanced city services, improved public facilities, and positioned Artesia for future opportunities, including regional transportation investments and the future train station project."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment has always been to put Artesia residents first. Through transparent leadership, fiscal responsibility, and a results-driven approach, I have worked to deliver improvements that strengthen our community and enhance quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of our accomplishments, there is still work to do. My priorities remain clear: keeping neighborhoods safe, supporting local businesses, attracting investment, improving parks and recreation, protecting taxpayer dollars, and ensuring Artesia remains financially strong for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can continue Moving Artesia Forward with proven leadership, responsible stewardship, and a vision for an even brighter future."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Rene J. Trevino",
+      "statement": {
+        "by": "Rene J. Trevino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Candidate: Rene J. Trevino\nBallot Designation: Mayor/Business Owner\nAge: 58"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Artesians,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is my honor and privilege to serve as Mayor of Artesia this year and as your Councilmember since 2018. I have dedicated myself to improving the quality of life for all Artesians through communication and involvement in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I promised to deliver on my message, \"Let's Make Change Together\". I am proud to say...together we did! We made Artesia better together! And together we can do much more for our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public Safety is my number one priority to keep our neighborhoods safe, and I am proud to say, crime has gone down each year. But there is still work for us to do together. Our senior programs, parks, streets, sidewalks, trees, city improvement projects and programs will continue to get better if we work TOGETHER."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City hall works for you! I will continue to watch over your taxpayer dollars as we keep Artesia moving forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Therefore, I am asking for your continued trust and support in me to serve all Artesia residents and businesses for the next four years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to serve Artesia and all Artesians."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote by November 3rd."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Respectfully,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rene J.",
+              " Trevino\n562-842-7310 Personal Cell"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Melissa Ramoso",
+      "statement": {
+        "by": "Melissa Ramoso",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 43"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mayor Pro Tem"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is an honor of my life to serve as your Mayor Pro Tem of the city we all love —Artesia."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Gahr Gladiator and UC Irvine graduate, to 23 years working in public service, my guiding principle has always been simple: leadership means serving others."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to our community comes from my parents—a nurse and a military veteran who sacrificed everything to show me what true service looks like."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as a State Assembly District Director strengthened my ability to navigate government and solve problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have put that experience to work serving Artesia."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together with hardworking city staff, I have:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fixed roads, sidewalks and trimmed trees;\nBalanced budgets;\nChampioned new businesses and park space,\nSecured a dedicated Sheriff's Sergeant, license plate readers and roving cameras;\nInitiated the Pioneer Boulevard restriping & e-bike safety ordinance;\nLaunched Citywide Townhalls & published a trackable Capital Improvement Plan online; and\nPassed Los Angeles County's first catalytic converter theft ordinance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City Hall should always be accessible, responsive, and accountable to YOU. I am grateful for your trust and the opportunity to serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to keep delivering thoughtful, innovative, and fiscally responsible solutions for Artesia."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.melissaramoso.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

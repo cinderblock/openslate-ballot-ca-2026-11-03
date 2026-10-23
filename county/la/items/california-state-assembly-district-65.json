@@ -1,0 +1,88 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 65",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-65",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:30Z",
+  "candidates": [
+    {
+      "choice": "Ayanna Davis",
+      "statement": {
+        "by": "Ayanna Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Ayanna Davis is a lifelong educator who grew up in a union family in Compton that instilled in her the importance of public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After working her way through college, Ayanna became a classroom teacher and later a public school principal. As a member of the Compton Unified School Board, Ayanna has been a leader in the \"Compton Miracle\" that resulted in the number-one graduation rate in L.A. County and top test scores for similar districts statewide. She has created apprenticeship and workforce development programs to train local residents for good-paying jobs in construction, healthcare, auto repair and the food industry."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ayanna is running for State Assembly to fight for more affordable communities for all of us. She will tackle the affordability crisis head-on by working to lower the cost of groceries and utilities, create local jobs in our communities, upgrade local infrastructure, and build more affordable housing for working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ayanna will also fight back against the Trump Administration's attacks on our communities by protecting access to affordable healthcare and high-quality education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our Assemblymember, Ayanna will use her extensive background as an educator to fully fund our public schools, invest in teacher training, and expand student access to tutoring, after-school programs, and mental health services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why Ayanna Davis is endorsed by:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nurses and Healthcare Workers,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Teachers and Educators,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Local Firefighters and First Responders,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And the California Democratic Party."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "By Tuesday, November 3, Vote Ayanna Davis for State Assembly."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

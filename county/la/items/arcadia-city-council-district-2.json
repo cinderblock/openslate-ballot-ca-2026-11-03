@@ -1,0 +1,129 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Arcadia City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/arcadia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:00Z",
+  "candidates": [
+    {
+      "choice": "Burton Brink",
+      "statement": {
+        "by": "Burton Brink",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 62"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Chairman, Nonprofit Organization"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been a proud resident of Arcadia since 1967. As a retired Los Angeles County Sheriff's Department Sergeant with nearly 40 years of law enforcement experience, I have dedicated my career to protecting our community and keeping families safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I served eight years as an Arcadia City Commissioner, completing my term in 2025. I currently serve as Chairman of Crime Survivors, where I advocate for victims of crime."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear: public safety first, restoring trust and transparency at City Hall, fiscal responsibility with taxpayer dollars, protecting property values, supporting local businesses, and preserving the high quality of life that makes Arcadia special. I will fight to maintain local control over our city's future rather than allowing overreaching state mandates to dictate how we grow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the father of an Asian son and a longtime member of our diverse community, I am personally committed to addressing safety concerns that affect all families, businesses, and neighborhoods in District 2."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With experience, integrity, and common-sense leadership, I will work every day to make Arcadia safer, stronger, and more prosperous for every resident."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and the opportunity to serve District 2. For more information, please visit www.burtonbrink.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sharon Kwan",
+      "statement": {
+        "by": "Sharon Kwan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving the people of Arcadia has been one of the greatest honors of my life. I am truly grateful for the trust you have placed in",
+              " me, and I respectfully ask for your support for another term on the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since being elected, I have worked hard to listen to residents, protect our neighborhoods, support public safety, spend taxpayer money wisely, and keep Arcadia a wonderful place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe city government should be honest, open, and always put residents first. I will continue to work hard, make thoughtful decisions, and stand up for what is best for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Arcadia has given so much to my family, and I will never take the opportunity to serve this city for granted. I would be honored to earn your trust once again and continue working every day to keep Arcadia safe, strong, and welcoming for everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your trust, your support, and your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sincerely,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sharon Kwan"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

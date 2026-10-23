@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Montebello City Treasurer",
+    "kind": "race",
+    "jurisdiction": "us/ca/montebello",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:21Z",
+  "candidates": [
+    {
+      "choice": "David Matanga",
+      "statement": {
+        "by": "David Matanga",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: City Treasurer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor and privilege to serve as your Montebello City Treasurer, and I respectfully ask for your support for re-election."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Growing up in East Los Angeles and graduation from Garfield High School, Class of 1970, I have proudly called Montebello home for more than 40 years. My wife, Carmel, and I raised our daughter, Monique, here, built lifelong friendships, and created cherished memories. Our family's deep roots in this community inspire my commitment to Montebello's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My career as a Senior Tax Compliance Representative with the State of California provided me with extensive experience in financial oversight, accountability, and fiscal responsibility. I also earned an Associate of Arts degree in Labor Studies from Los Angeles Trade-Technical College and an Associate of Arts degree in Liberal Studies from East Los Angeles College."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My service as District President of SEIU 1000 and as a delegate to the Los Angeles County Federation of Labor strengthened my understanding of the needs of working families and reinforced my commitment to honest, transparent government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Treasurer, I remain dedicated to protecting taxpayer resources, ensuring fiscal transparency, and serving every resident with integrity, accountability, and respect. I would be honored to earn your vote for re-election."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

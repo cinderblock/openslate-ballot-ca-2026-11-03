@@ -1,0 +1,117 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Monrovia Unified School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:34Z",
+  "candidates": [
+    {
+      "choice": "Maritza C. Travanti",
+      "statement": {
+        "by": "Maritza C. Travanti",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent - IRS Operations (Retired)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your current Board President, I am honored to seek another term to continue the experienced, steady leadership our district needs as we continue implementing Measure MM and address the opportunities and challenges ahead. I have brought common sense and sound judgement to every decision while always putting students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the parent of a recent Monrovia Unified graduate and the daughter of immigrants, I know firsthand how public education creates opportunity and changes lives. I have helped lead our district through some of its most difficult decisions and challenging times, including the pandemic, declining enrollment, and critical fiscal stabilization efforts that protect educational opportunities for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have expanded student opportunities through equitable access to Advanced Placement exams,",
+              " counselors at all elementary schools, strengthened partnerships with the city and community organizations, and supported programs that help every student thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service has been my lifelong commitment. After retiring from a 35-year federal career as an IRS Chief of Operations, I have continued serving our community by applying my experience leading large organizations, managing complex operations, overseeing budgets, and advancing strategic initiatives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue serving our students, families, and community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Abby Veltman",
+      "statement": {
+        "by": "Abby Veltman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service is one of the greatest gifts neighbors can give one another. I am grateful to everyone who has stepped forward over the years as servant-leaders for Monrovia's students, families, staff, and schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Their commitment has helped shape the community we value today. As we look to the future, I hope to continue that tradition of service by bringing thoughtful oversight, careful listening, and real-world, practical classroom perspectives to the School Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent of children currently attending schools in the District, a seasoned educator, and a long-time Monrovian, I understand the opportunities and challenges our students, families, and teachers are experiencing today because I am experiencing them alongside our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The decisions I would help make today are decisions my own family, along with yours",
+              {
+                "em": [
+                  ", "
+                ]
+              },
+              "will live with tomorrow and for years to come. Together, we can provide a unified, wrap-around approach to supporting Monrovia families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If a thoughtful, collaborative parent and educator sounds like the kind of person you want helping to lead our schools, I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure PL (City Planning Department)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:22Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CITY PLANNING DEPARTMENT. CHARTER AMENDMENT PL."
+            ]
+          },
+          " Shall the City Charter be amended to: establish a Neighborhood Appeals Commission to replace Area Planning Commissions and establish a process for City Council review of Neighborhood Appeals Commission and City Planning Commission decisions; change the timing and process for City Council action on certain planning decisions; grant the Planning Department the authority to investigate, hear, and determine applications for quasi-judicial review; and allow for changes to floor area regulations by ordinance? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Raymond Meza, Chair, Charter Reform Commission; Roy Samaan, President, Engineers & Architects Association ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

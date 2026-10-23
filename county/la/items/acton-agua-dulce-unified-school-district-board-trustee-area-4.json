@@ -1,0 +1,103 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Acton-Agua Dulce Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:11Z",
+  "candidates": [
+    {
+      "choice": "Jessica Gonyea",
+      "statement": {
+        "by": "Jessica Gonyea",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 46"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Chief Nursing Officer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent, community volunteer, healthcare executive, and lifelong advocate for children and families, I am running for the School Board because I believe every student deserves the opportunity to succeed in a safe, supportive, and high-quality learning environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For many years, I have been actively involved in my community. I began volunteering as a teenager with the American Red Cross and have continued serving our community through classroom volunteering, athletic support, school activities, and community programs. As a mother of a student in our district, I have experienced firsthand the dedication of our teachers, staff, and administrators and understand both the opportunities and challenges facing our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I serve as the Chief Nursing Officer of a community hospital, where I oversee complex operations, multimillion-dollar budgets, quality improvement initiatives, regulatory compliance, and strategic planning. My career has been built on collaboration, accountability, and making data-driven decisions that improve outcomes while remaining fiscally responsible. I have also served on negotiation teams and worked closely with diverse groups to find practical solutions to complex issues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will focus on:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Supporting academic excellence and programs that ensure every student has opportunities to prepare for college, career, military service, or skilled trades."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Promoting safe and secure learning environments where students and staff can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Strengthening partnerships between schools, families, and the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Listening to students, parents, educators, and community members to make informed decisions that reflect the needs of our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Jessica Gonyea, MBA, BSN, RN"
+                ]
+              },
+              "\nCandidate for School Board"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "\"Putting Students First, Supporting Families, and Strengthening Our Community.\""
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

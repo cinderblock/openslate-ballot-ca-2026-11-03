@@ -1,0 +1,532 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Gabriel — Measure PS (Public Safety/Local Control)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-gabriel",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:13Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SAN GABRIEL PUBLIC SAFETY/LOCAL CONTROL"
+            ]
+          },
+          " To protect San Gabriel's financial stability; maintain medical 911/police response, fire services; prevent crime; protect drinking water sources; repair streets/potholes; keep public areas safe/clean; maintain safe schools; prepare for/respond to earthquakes, fire/other disasters; retain/attract qualified firefighters; for other general services; shall a measure establishing a 1¢ sales tax providing approximately $7,100,000 annually until ended by voters, requiring audits, spending disclosure, funds locally controlled, be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " P. Apparis SG Firefighters Assn President; T. Guliani SG Police Assn President ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "fullText": {
+    "title": "Full Text of Ballot Measure Ps",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF SAN GABRIEL, CALIFORNIA, IMPOSING A ONE PERCENT (1.00%) TRANSACTIONS AND USE TAX TO BE ADMINISTERED BY THE CALIFORNIA DEPARTMENT OF TAX AND FEE ADMINISTRATION AND CODIFYING THE SAME UNDER CHAPTER 35 (TAXATION) OF TITLE III (ADMINISTRATION) OF THE SAN GABRIEL MUNICIPAL CODE"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ", the City of San Gabriel (\"City\") seeks to maintain timely medical 911 and police response, fire services, to prevent crime and to protect drinking water sources, repair streets and keep public areas safe and clean, and to prepare for and respond to earthquakes, fires other disasters, as well as to attract and retain qualified firefighters and to have funding for the repair of aging infrastructure and other unrestricted general revenue purposes (\"City Services\"); and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " in order to provide a stable and local source of new revenue to maintain and enhance these important City Services, the City Council placed a local funding measure (\"Measure PS\") on the ballot at the General Election on November 3, 2026; and,"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " a local transaction and use tax of one percent (1.00%); within the meaning of Section 7285.9 and Sections 7251-7279.6 of the California Revenue and Taxations Code; would provide a protected, stable local source of about $7,000,000 annually to improve and maintain the funding of vital City Services relied upon by the community; and,"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " a majority of the voters voting on Measure voted in favor of it and the measure was carried."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "NOW, THEREFORE, THE PEOPLE OF THE CITY OF SAN GABRIEL DO HEREBY ORDAIN AS FOLLOWS:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 1."
+            ]
+          },
+          " Chapter 35 (Taxation) of Title III (Administration) of the San Gabriel Municipal Code is hereby amended by the addition of new sections 35.200 through 35.213 which shall appear under the heading \"Transactions and Use Tax\" and which shall state the following:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Transactions and Use Tax 2026"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.200. SHORT TITLE. This ordinance shall be known as the City of San Gabriel Transactions and Use Tax Ordinance of 2026. The City of San Gabriel hereinafter shall be called ''City.\" This ordinance shall be applicable in the incorporated territory of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.201. OPERATIVE DATE. \"Operative Date\" means the first day of the first calendar quarter commencing more than 110 days after the adoption of this ordinance, the date of such adoption being as set forth below. The transactions and use tax established and codified hereunder shall have an indefinite term. The forgoing notwithstanding, the transactions and use tax established hereunder may be later terminated by the voters of the City of San Gabriel by means of a ballot measure to repeal the same at a future general or special municipal election of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.202. PURPOSE. This ordinance is adopted to achieve the following, among other purposes, and directs that the provisions hereof be interpreted in order to accomplish those purposes:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. To impose a retail transactions and use tax in accordance with the provisions of Part. 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code and Section 7285.9 of Part 1.7 of Division 2, authorizing the City to adopt this tax ordinance which shall be operative if a majority of the electors voting on the measure vote to approve the imposition of the tax at an election called for that purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. To adopt a retail transactions and use tax ordinance that incorporates provisions identical to those of the Sales and Use Tax Law of the State of California insofar as those provisions are not inconsistent with the requirements and limitations contained in Part 1.6 of Division 2 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. To adopt a retail transactions and use tax ordinance that imposes a tax and provides a measure therefore that can be administered and collected by the California Department of Tax and Fee Administration in a manner that adapts itself as fully as practicable to, and requires the least possible deviation from, the existing statutory and administrative procedures followed by the California Department of Tax and Fee Administration in administering and collecting the California State Sales and Use Taxes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. To adopt a retail transactions and use tax ordinance that can be administered in a manner that will be, to the greatest degree possible, consistent with the provisions of Part 1.6 of Division 2 of the Revenue and Taxation Code, minimize the cost of collecting the transactions and use taxes, and at the same time, minimize the burden of record keeping upon persons subject to taxation under the provisions of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "E. Transactions and use tax revenues collected by the City shall be deposited in the City's general fund which is subject to the City's annual financial audit conducted by the City's third-party auditor."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.203. CONTRACT WITH STATE. Prior to the operative date, the City shall contract with the California Department of Tax and Fee Administration to perform all functions incident to the administration and operation of this transactions and use tax ordinance; provided, that if the City shall not have contracted with the California Department of Tax and Fee Administration prior to the operative date, it shall nevertheless so contract and in such a case the operative date shall be the first day of the first calendar quarter following the execution of such a contract."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.204. TRANSACTIONS TAX RATE. For the privilege of selling tangible personal property at retail, a tax is hereby imposed upon all retailers in the incorporated territory of the City at the rate of one percent (1.0%) of the gross receipts of any retailer from the sale of all tangible personal property sold at retail in said territory on and after the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.205. PLACE OF SALE. For the purposes of this ordinance, all retail sales are consummated at the place of business of the retailer unless the tangible personal property sold is delivered by the retailer or his agent to an out-of-state destination or to a common carrier for delivery to an out-of-state destination. The gross receipts from such sales shall include delivery charges, when such charges are subject to the state sales and use tax, regardless of the place to which delivery is made. In the event a retailer has no permanent place of business in the State or has more than one place of business, the place or places at which the retail sales are consummated shall be determined under rules and regulations to be prescribed and adopted by the California Department of Tax and Fee Administration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.206. USE TAX RATE. An excise tax is hereby imposed on the storage, use or other consumption in the City of tangible personal property purchased from any retailer on and after the operative date of this ordinance for storage, use or other consumption in said territory at the rate of one percent (1.0%) of the sales price of the property. The sales price shall include delivery charges when such charges are subject to state sales or use tax regardless of the place to which delivery is made."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.207. ADOPTION OF PROVISIONS OF STATE LAW. Except as otherwise provided in this ordinance and except insofar as they are inconsistent with the provisions of Part 1.6 of Division 2 of the Revenue and Taxation Code, all of the provisions of Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code are hereby adopted and made a part of this ordinance as though fully set forth herein."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.208. LIMITATIONS ON ADOPTION OF STATE LAW AND COLLECTION OF USE TAXES. In adopting the provisions of Part l of Division 2 of the Revenue and Taxation Code:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Wherever the State of California is named or referred to as the taxing agency, the name of the City shall be substituted therefor. However, the substitution shall not be made when:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The word \"State\" is used as a part of the title of the State Controller, State Treasurer, State Treasury, or the Constitution of the State of California;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The result of that substitution would require action to be taken by or against this City or any agency, officer, or employee thereof rather than by or against the California Department of Tax and Fee Administration, in performing the functions incident to the administration or operation of this Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. In those sections, including, but not necessarily limited to sections referring to the exterior boundaries of the State of California, where the result of the substitution would be to:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a. Provide an exemption from this tax with respect to certain sales, storage, use or other consumption of tangible personal property which would not otherwise be exempt from this tax while such sales, storage, use or other consumption remain subject to tax by the State under the provisions of Part 1 of Division 2 of the Revenue and Taxation Code, or;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b. Impose this tax with respect to certain sales, storage, use or other consumption of tangible personal property which would not be subject to tax by the state under the said provision of that code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. In Sections 6701, 6702 (except in the last sentence thereof), 6711, 6715, 6737, 6797 or 6828 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. The word \"City\" shall be substituted for the word \"State\" in the phrase ''retailer engaged in business in this State” in Section 6203 and in the definition of that phrase in Section 6203."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. \"A retailer engaged in business in the District\" shall also include any retailer that, in the preceding calendar year or the current calendar year, has total combined sales of tangible personal property in this state or for delivery in the State by the retailer and all persons related to the retailer that exceeds five hundred thousand dollars ($500,000). For purposes of this section, a person is related to another person if both persons are related to each other pursuant to Section 267(b) of Title 26 of the United States Code and the regulations thereunder."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.209. PERMIT NOT REQUIRED. If a seller's permit has been issued to a",
+          " retailer under Section 6067 of the Revenue and Taxation Code, an additional transactor's permit shall not be required by this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.210. EXEMPTIONS AND EXCLUSIONS."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. There shall be excluded from the measure of the transactions tax and the use tax the amount of any sales tax or use tax imposed by the State of California or by any city, city and county, or county pursuant to the Bradley-Burns Uniform Local Sales and Use Tax Law or the amount of any state-administered transactions or use tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. There are exempted from the computation of the amount of transactions tax the gross receipts from:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Sales of tangible personal property, other than fuel or petroleum products, to operators of aircraft to be used or consumed principally outside the county in which the sale is made and directly and exclusively in the use of such aircraft as common carriers of persons or property under the authority of the laws of this State, the United States, or any foreign government."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Sales of property to be used outside the City which is shipped to a point outside the City, pursuant to the contract of sale, by delivery to such point by the retailer or his agent, or by delivery by the retailer to a carrier for shipment to a consignee at such point. For the purposes of this paragraph, delivery to a point outside the City shall be satisfied:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a. With respect to vehicles (other than commercial vehicles) subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division 3 of the Vehicle Code, aircraft licensed in compliance with Section 21411 of the Public Utilities Code, and undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the Vehicle Code by registration to an out-of-City address and by a declaration under penalty of perjury, signed by the buyer, stating that such address is, in fact, his or her principal place of residence; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b. With respect to commercial vehicles, by registration to a place of business out-of-City and declaration under penalty of perjury, signed by the buyer, that the vehicle will be operated from that address."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The sale of tangible personal property if the seller is obligated to furnish the property for a fixed price pursuant to a contract entered into prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. A lease of tangible personal property which is a continuing sale of such property, for any period of time for which the lessor is obligated to lease the property for an amount fixed by the lease prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. For the purposes of subparagraphs (3) and (4) of this section, the sale or lease of tangible personal property shall be deemed not to be obligated pursuant to a contract or lease for any period of time for which any party to the contract or lease has the unconditional right to terminate the contract or lease upon notice, whether or not such right is exercised."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. There are exempted from the use tax imposed by this ordinance, the storage, use or other consumption in this City of tangible personal property:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The gross receipts from the sale of which have been subject to a transactions tax under any state-administered transactions and use tax ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Other than fuel or petroleum products purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this State, the United States, or any foreign government. This exemption is in addition to the exemptions provided in Sections 6366 and 6366.1 of the Revenue and Taxation Code of the State of California."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. If the purchaser is obligated to purchase the property for a fixed price pursuant to a contract entered into prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. If the possession of, or the exercise of any right or power over, the tangible personal property arises under a lease which is a continuing purchase of such property for any period of time for which the lessee is obligated to lease the property for an amount fixed by a lease prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. For the purposes of subparagraphs (3) and (4) of this section, storage, use, or other consumption, or possession of, or exercise of any right or power over, tangible personal property shall be deemed not to be obligated pursuant to a contract or lease for any period of time for which any party to the contract or lease has the unconditional right to terminate the contract or lease upon notice, whether or not such right is exercised."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "6. Except as provided in subparagraph (7), a retailer engaged in business in the City shall not be required to collect use tax from the purchaser of tangible personal property, unless the retailer ships or delivers the property into the City or participates within the City in making the sale of the property, including, but not limited to, soliciting or receiving the order, either directly or indirectly, at a place of business of the retailer in the City or through any representative, agent, canvasser, solicitor, subsidiary, or person in the City under the authority of the retailer."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "7. \"A retailer engaged in business in the City\" shall also include any retailer of any of the following: vehicles subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division 3 of the Vehicle Code, aircraft licensed in compliance with Section 21411 of the Public Utilities Code, or undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the Vehicle Code. That retailer shall be required to collect use tax from any purchaser who registers or licenses the vehicle, vessel, or aircraft at an address in the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. Any person subject to use tax under this ordinance may credit against that tax any transactions tax or reimbursement for transactions tax paid to a district imposing, or retailer liable for a transactions tax pursuant to Part 1.6 of Division 2 of the Revenue and Taxation Code with respect to the sale to the person of the property the storage, use or other consumption of which is subject to the use tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.211 AMENDMENTS. All amendments subsequent to the effective date of this ordinance to Part 1 of Division 2 of the Revenue and Taxation Code relating to sales and use taxes and which are not inconsistent with Part 1.6 and Part 1.7 of Division 2 of the Revenue and Taxation Code, and all amendments to Part 1.6 and Part 1.7 of Division 2 of the Revenue and Taxation Code, shall automatically become a part of this ordinance, provided however, that no such amendment shall operate so as to affect the rate of tax imposed by this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.212 ENJOINING COLLECTION FORBIDDEN. No injunction or writ of mandate or other legal or equitable process shall issue in any suit, action or proceeding in any court against the State or the City, or against any officer of the State or the City, to prevent or enjoin the collection under this ordinance, or Part 1.6 of Division 2 of the Revenue and Taxation Code, of any tax or any amount of tax required to be collected.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "35.213 DECLARATION REGARDING USE OF TAX REVENUES. The revenues generated by the tax imposed under this Chapter may be used for any lawful governmental purpose of the City, as authorized by ordinance, resolution or action of the city council or by ordinance adopted by the electorate of the city. The transactions and use tax established under this article does not meet the criteria established by California Constitution Article IIIC, section 1(d), for special taxes and said tax is instead a general tax within the meaning of California Constitution Article IIIC, section 1(a), whose revenues may be used for any unrestricted general revenue purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 2."
+            ]
+          },
+          " SEVERABILITY. If any provision of this ordinance or the application thereof to any person or circumstance is held invalid, the remainder of the ordinance and the application of such provision to other persons or circumstances shall not be affected thereby."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 3."
+            ]
+          },
+          " EFFECTIVE DATE. This Ordinance shall only take effect if all of the following conditions are satisfied: (i) per Government Code Section 53724(b) and Revenue & Taxation Code Section 7285.9, the Ordinance proposing the transactions and use tax is approved by two-thirds (2/3) vote of all members of the City Council; (ii) approval of the ballot measure and the Ordinance by majority of the voters casting votes at the General Municipal Election of November 3, 2026; (iii) certification of all votes cast by the City Council confirming that a majority of the voters have approved the ballot measure and the Ordinance; and (iv) confirmation of approval of this Ordinance by the City Council upon certification of election results. The foregoing notwithstanding the transactions and use tax established under this ordinance shall take effect on the Operative Date as defined under Section 35.201 (Operative Date) of Chapter 35 (Taxation) of Title III (Administration) which is codified by the adoption of this Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 4."
+            ]
+          },
+          " CEQA. The City Council has determined that the matter to be submitted to the voters, the establishment of a new general tax that can be used for any legitimate governmental purpose, is not a project within the meaning of California Environmental Quality Act (\"CEQA\") Guidelines Section 15378(b)(4) because it merely creates a government funding mechanism that does not involve any commitment to any specific project that may result in a potential impact on the environment. Therefore, under CEQA guidelines Section 15060, review and analysis under CEQA is not required."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 5."
+            ]
+          },
+          " CERTIFICATION. The City Clerk shall certify that this ordinance was passed, approved and adopted by the People of the City of San Gabriel, California, voting on the 3rd day of November 2026."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "PASSED AND APPROVED"
+            ]
+          },
+          " by the voters of the City of San Gabriel, State of California, at the Special Municipal Election held on November 3, 2026."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Ps",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City of San Gabriel Public Safety/Local Control Measure"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure PS, if approved by the voters at the November 3rd, 2026 general election, would amend Chapter 35 (Taxation) of Title III (Administration) of the San Gabriel Municipal Code by the addition of new sections 35.200 through 35.213 which shall appear under the heading “Transactions and Use Tax 2026” and which will, if adopted by the voters impose a local retail transactions and use tax in accordance with the provisions of Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code and Section 7285.9 of Part 1.7 of Division 2."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Specifically, Measure PS places a tax of 1.00% (one cent per $1.00) upon retailers’ gross receipts from the retail sale of most tangible personal property sold within the City, and an excise tax upon the storage, use or other consumption of tangible personal property purchased from any retailer for storage, use or other consumption within the City at a rate of 1.00% of the sales price of the property, where “sales price” includes delivery charges subject to State sales or use tax, regardless of delivery destination."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "It is estimated that revenues from this tax will generate approximately $7,000,000 annually for the funding of general City services. Funds generated by the proposed tax are not restricted and may be used for any lawful City general fund expenditures, including, without limitation, on projects and services such as:\n- Protection of local drinking water sources\n- fire services\n- crime prevention\n- maintaining safe schools\n- earthquake, fire and other disaster preparedness\n- maintaining medical and police 911 response times\n- retaining qualified firefighters\n- other general City services."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure PS was placed on the ballot by the City of San Gabriel City Council. If approved by voters, the sales tax will apply to everyone who purchases retail goods within City limits. Food purchased as groceries and prescription medication will not be taxed under this measure. Visitors to San Gabriel will bear part of the tax burden imposed by their local activities and thus contribute to the City’s ability to maintain general public services they use while visiting. Residents and other purchasers of goods in the City will also be subject to the tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The tax would be administered by the California Board of Equalization under contract with the City of San Gabriel."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “YES” vote is a vote to approve a 1.00% (one cent per $1.00) retail transactions and use general tax. A “NO” vote is a vote against a 1.00% retail transactions and use general tax. The transactions and use tax in Measure PS would take effect only if it receives a majority “YES” vote at the November 3, 2026, consolidated general election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Dated: August 13, 2026"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "MARTIN D. KOCZANOWICZ\nAssistant City Attorney\nCity of San Gabriel"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure PS prepared by the City Attorney’s Office. If you desire a copy of the ordinance or measure, please call the elections official's office (City Clerk) at and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lawndale Elementary School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:41Z",
+  "candidates": [
+    {
+      "choice": "Bonnie J. Coronado",
+      "statement": {
+        "by": "Bonnie J. Coronado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been said that stable district leadership leads to student success. I am proud of the accomplishments achieved in the Lawndale Elementary School District during my many years of service on the Board of Trustees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have remained focused on academic excellence while working diligently to support the social emotional well-being of every student. Addams, Rogers, Anderson, and Smith Schools have each earned recognition as a state or national school of excellence."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The successful passage of Bond Measure LL reflects our community's trust to modernize our facilities in a responsible manner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Representing Trustee Area 1, I remain committed to serving every stakeholder member throughout the Lawndale Elementary School District, regardless of trustee area boundaries."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Having been raised by a single parent, I understand the challenges of this family dynamic. I proudly support the rich diversity of our district, including my own Hispanic heritage. Our exceptional retention of both certificated and classified employees reflects that LESD is a district where professionals choose to build their careers and prosper."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an elementary school teacher, and long- time board member, I believe my experiences have prepared me to continue serving on the Lawndale Elementary School Board of Trustees."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jennifer Bagley",
+      "statement": {
+        "by": "Jennifer Bagley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My husband and I have lived in Bodger Park for over a decade, and called the South Bay home for more than 15 years. We are raising our three children—ages 9, 6, and 3—right here in the Lawndale Elementary School District, so the success of our schools is deeply personal to our family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent, I've experienced our district from the inside, navigating enrollment, PTA and the IEP process firsthand. This has given me a deeper understanding of the importance of accessibility, equity, and inclusion for every student and family in our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every child deserves access to a strong, supportive education that meets their unique needs. I deeply care about how our district can continue to grow as a resource for all parents and students—ensuring families feel supported, heard, and connected."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As we face challenges like declining enrollment and budget constraints, it's more important than ever that we focus on what matters most: manageable class sizes, strong teacher engagement, and partnerships with community resources that support student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to ensuring every child in LESD receives an outstanding education. Together, we can build a culture of excellence in our classrooms."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

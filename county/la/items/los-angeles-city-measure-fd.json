@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure FD (Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:27Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "FUNDING FOR THE LOS ANGELES FIRE DEPARTMENT THROUGH A ONE-HALF PERCENT SALES TAX. INITIATIVE ORDINANCE FD."
+            ]
+          },
+          " Shall an ordinance providing funding for the Los Angeles Fire Department, including for hiring firefighters, paramedics, and other staff, purchasing and maintaining vehicles and equipment, building and upgrading fire stations, and brush clearance; by imposing a one-half percent (0.5%) sales tax in the City of Los Angeles; with annual audits and a citizen's oversight committee; generating approximately $345 million annually until ended by voters; be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " LA City Firefighters; LAFD Chief Officers Association; CA Professional Firefighters; International Assn. of Fire Fighters ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Howard Jarvis Taxpayers Association"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

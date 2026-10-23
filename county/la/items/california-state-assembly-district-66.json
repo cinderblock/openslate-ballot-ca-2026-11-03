@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 66",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-66",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:31Z",
+  "candidates": [
+    {
+      "choice": "Paul Seo",
+      "statement": {
+        "by": "Paul Seo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Paul Seo is a corruption prosecutor, Army Veteran, and Mayor of Rancho Palos Verdes, running for State Assembly to keep our neighborhoods safe and deliver real results for working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Raised in Torrance by immigrant parents who ran a small business, Paul attended local public schools, graduated from South High School, and later the United States Military Academy at West Point. He proudly served his country as a U.S. Army officer, earned his law degree, and became a prosecutor to keep serving his community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a prosecutor, Paul has taken on corruption in all forms, whether it's from public officials, illegal gun dealers, or the polluters responsible for the 2021 Huntington Beach oil spill. Paul is protecting our coastline, communities and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the Assembly, Paul will crack down on corporate price gouging that drives up utility bills and the cost of gas and groceries, tackle the homelessness crisis with real accountability and results, clean up backroom deals so our government works for everyone, and keep our streets and neighborhoods safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Paul will deliver affordability for working families by bringing in good-paying jobs, supporting small businesses, and investing in first responders to keep us safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why Paul is endorsed by:\nNurses and Healthcare Workers,\nFirefighters,\nLaw Enforcement,\nConstruction Workers,\nEducators,\nAnd hundreds of community leaders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join them: Vote Paul Seo for Assembly by November 3.\nLearn more at www.PaulSeo.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

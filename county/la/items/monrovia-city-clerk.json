@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Monrovia City Clerk",
+    "kind": "race",
+    "jurisdiction": "us/ca/monrovia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:14Z",
+  "candidates": [
+    {
+      "choice": "Alice D. Atkins",
+      "statement": {
+        "by": "Alice D. Atkins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Monrovia's City Clerk"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "More than ever, Monrovia needs an experienced, professional City Clerk to perform the essential functions of conducting fair elections, ensuring compliance with transparency laws, maintaining public records, and processing liability claims. I have performed those functions and others since I was appointed by the City Council in 2009. The voters elected me to this position in 2013, 2017, and 2022."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served Monrovia for 26 years. Being City Clerk fulfills my passion for helping people, fueled by a commitment to excellent customer service. I believe government must be equitable, accessible, transparent and efficient. Your City Clerk must be independent, knowledgeable, and fair."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have held the designation of Master Municipal Clerk (MMC) since 2019. Achieving this professional certification along with my continued pursuit of education and leadership development demonstrates my dedication to being your City Clerk as a profession, and not just a title or a job. Through this work, and in partnership with professional organizations, I stay current in the complex and ever-changing world of new laws, regulations, and best practices."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be your City Clerk and would appreciate your vote to continue."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "/s/ Alice D. Atkins, MMC"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

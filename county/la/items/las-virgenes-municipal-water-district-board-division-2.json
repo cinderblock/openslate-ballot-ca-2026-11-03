@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Las Virgenes Municipal Water District Board, Division 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:34Z",
+  "candidates": [
+    {
+      "choice": "Teri L. Davis",
+      "statement": {
+        "by": "Teri L. Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 62"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A lifetime Angeleno with a public agency career, I am devoted to contributing towards the health and welfare of all community members. This begins with ensuring the community has a safe and reliable water supply."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I worked at a water district located in downtown Los Angeles handling matters such as water rights, water rates, water quality, water infrastructures, claims, legislative monitoring, litigation support, and capital projects. Further, I worked at two municipalities overseeing stormwater compliance, water rates, policy and procedure development, claims, and contract administration, among many other matters. With my Master's in Public Administration from the University of Southern California, I have applied extensive knowledge and skills to both my career and the voluntary positions I have held."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will seek diverse solutions to all issues presented to the Las Virgenes Municipal Water District Board. In a real sense, my practical experience and values will provide the community and constituents with a Director who will listen, understand, and evaluate all items, ensuring that my decisions are based on facts and verifiable material concepts. I will be a fair, responsible, and knowledgeable representative."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

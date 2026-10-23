@@ -1,0 +1,137 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Monte City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/el-monte",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:41Z",
+  "candidates": [
+    {
+      "choice": "Marisol Cortez",
+      "statement": {
+        "by": "Marisol Cortez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 38"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember/School Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ballot Designation: Councilmember/School Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "El Monte has been my home my entire life, and I am proud of what we have achieved as a community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the daughter of immigrant parents, I learned nothing is given, and everything is earned. Family and striving for a better future are core values we share. Many in our community work hard yet struggle to make ends meet. As your councilmember, I supported building housing to help working families stay in El Monte."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Economic opportunities are crucial for providing critical services. We need to invest in repaving roads, bringing in retail businesses, restaurants, and entertainment to create jobs and new revenue sources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Safety is also essential for our residents and investment in our community. As your councilmember, I voted to keep our police funded and fire stations open."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to prioritize projects in each district and be accountable to you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need to listen more to the community to better understand our City's needs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can make our community better for all generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ana Elsa Barcelo",
+      "statement": {
+        "by": "Ana Elsa Barcelo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "ANA ELSA BARCELÓ "
+                ]
+              },
+              "is a proud lifelong resident of El Monte's District 6 who has dedicated her life to serving the community she calls home. Born to hardworking migrant and immigrant parents, she learned the values of perseverance, compassion, and service from an early age."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A graduate of Maxson Elementary, Kranz Intermediate, and Mountain View High School, Ana Elsa has dedicated her career to serving others through public health education and community outreach. Through her work with the Los Angeles County Department of Public Health, she has helped protect families during major public health emergencies, including the HlN1 influenza pandemic, measles outbreaks, and the COVID-19 pandemic. She also supported disaster relief efforts for families affected by the Altadena and Pacific Palisades wildfires, providing assistance and resources during times of crisis."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ana Elsa believes strong neighborhoods are built through responsive leadership, public safety, quality education, economic opportunity, support for local businesses, and investments in parks and programs for youth and seniors. She is committed to listening to residents, ensuring every voice is heard, and working collaboratively to improve the quality of life for every family in District 6."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote ANA ELSA BARCELÓ for El Monte City Council, District 6. Together, we can build a stronger future for our community."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

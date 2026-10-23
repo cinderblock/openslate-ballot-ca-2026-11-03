@@ -1,0 +1,192 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "South El Monte City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/south-el-monte",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:14Z",
+  "candidates": [
+    {
+      "choice": "Rudy Bojorquez",
+      "statement": {
+        "by": "Rudy Bojorquez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve the residents of South El Monte and humbly ask for your support to continue representing our community on City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my time on the Council, I have worked to make our city safer, stronger, and provide a better quality of life for all residents. I have supported investments in senior services, community programs, business development, and improvements that enhance the quality of life for our families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience matters, and our community deserves leadership with a proven record of delivering measurable results. I have remained committed to providing that leadership for South El Monte. Putting residents first, making responsible decisions that protect our city's future, and ensuring every taxpayer dollar delivers real value for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "South El Monte is a special community built on hardworking families with a strong sense of pride. I will continue fighting to preserve what makes our city unique, support responsible economic development, and ensure residents have a voice in the decisions that affect them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can continue moving South El Monte forward together."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Manuel Acosta",
+      "statement": {
+        "by": "Manuel Acosta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve as your ",
+              {
+                "strong": [
+                  "councilmember Manny Acosta"
+                ]
+              },
+              " in our great city of South El Monte. I would like to continue serving our great city as ",
+              {
+                "strong": [
+                  "your representative"
+                ]
+              },
+              ". With your continued support and your vote in the upcoming election on November 3, 2026, we will continue to improve the ",
+              {
+                "strong": [
+                  "quality of life"
+                ]
+              },
+              " of our residents, maintain ",
+              {
+                "strong": [
+                  "fiscal responsibility,"
+                ]
+              },
+              " continue ",
+              {
+                "strong": [
+                  "quality and responsible community and economic development,"
+                ]
+              },
+              " and remain ",
+              {
+                "strong": [
+                  "committed to transparency"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my term, I have served the community with ",
+              {
+                "strong": [
+                  "distinction, honor, and humility"
+                ]
+              },
+              ". I have demonstrated competence and concern for all members of the South El Monte community. I have a proven and strong record of studying the issues impacting our residents and making well-informed decisions. I have and will continue to advocate for small businesses, promote a healthy community, oppose mega warehouse construction, and eliminate cannabis businesses in South El Monte."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've been married for almost 40 years, raising three wonderful children in South El Monte. I've served this community for many years with South El Monte Little League baseball, Jets football, and South El Monte basketball."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I have both a B.S. and M.S. degrees in biochemistry from California State University Los Angeles. I'm now a professor, molding young minds and preparing future leaders at Los Angeles Trade-Technical College, where I teach Chemistry and Biomanufacturing."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kimberly Valencia",
+      "statement": {
+        "by": "Kimberly Valencia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Continuing Education Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was born and raised in South El Monte, and this community has shaped the person I am today. As a first-generation daughter of immigrants, I am running for City Council because I believe our residents deserve leadership with integrity that always puts our community first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I work in continuing medical education at the UCLA David Geffen School of Medicine, where I help ensure healthcare professionals receive education that meets the highest standards of quality and integrity. I have earned national certifications, mentored professionals across multiple states, and presented at national conferences. I also founded the San Gabriel Valley Health Alliance to expand educational opportunities in our region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to service extends beyond my profession. I proudly serve on our Citizens' Oversight Committee and Parent Advisory Committee and have spent more than a decade supporting local youth and nonprofit organizations because I believe strong communities are built by neighbors who invest in one another."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will work to protect our neighborhoods, support public safety, strengthen local businesses, and ensure every decision is guided by the best interests of South El Monte residents. Our community deserves responsible development, a healthy environment, and a future where every family can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ethical leadership is possible. I would be honored to earn your trust."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

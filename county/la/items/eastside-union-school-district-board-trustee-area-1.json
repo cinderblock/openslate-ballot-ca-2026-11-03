@@ -1,0 +1,62 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Eastside Union School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:30Z",
+  "candidates": [
+    {
+      "choice": "Oscar Mejia",
+      "statement": {
+        "by": "Oscar Mejia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Aerospace Engineering Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every morning at school drop-off, I see the faces of our community: mothers dedicated to their children's future, and fathers working tirelessly to provide a better life. I see my own roots in them. I am a US Army veteran and a proud product of public education, earning my BS in Aerospace Engineering from CSULB and my Master's in Mechanical Engineering from CSUN. Because of the foundation public schools provided, I grew up to lead engineering teams building the world's most advanced aircraft. My commitment to our local schools is deeply personal; all four of my children have attended Eastside Union School District schools, and two are currently enrolled. Our children possess limitless potential. I am running for Trustee Area 1 to provide a renewed focus on classroom needs, bringing collaborative leadership, professional stability, and measurable results to our schools. My mission is to ensure every dollar is spent wisely on safe campus infrastructure, high-quality teacher retention, and advanced math and science programs. I will be your direct voice on this board- Bilingual-ensuring your daily sacrifices are honored with an education that prepares your children to lead the future. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Wayne M. Kalliomaa",
+      "statement": {
+        "by": "Wayne M. Kalliomaa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I was appointed to the school board in February, being selected from a pool of 9 candidates during the interview process. During my tenure I have voted to improve school safety, increase teacher pay, and to ensure that our students with special needs have the dedicated help they need. I also voted to require all law enforcement agencies, including ICE, to have the proper documentation when entering our schools or accessing our student's records. Students need to feel safe and secure in their classroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a strong advocate for education. I believe America is a better country when its people are well educated. Whether a student's path is learning a trade or going to college, it starts with the basic skills learned in our classrooms. I am a 37-year resident of Lancaster and have been married for 32 years. My wife and I have raised 2 beautiful girls. Both attended Eastside Schools and are now flourishing in college. I ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Monte Union High School District Board, Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:36Z",
+  "candidates": [
+    {
+      "choice": "Qui Nguyen",
+      "statement": {
+        "by": "Qui Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for reelection to the School Board to ensure every student in our district receives a world-class education in a safe, supportive environment. Throughout my current term, my focus has remained steadfast on academic excellence, fiscal responsibility, and student well-being."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a UCLA graduate, retired electrical engineer, and retired Certified Financial Planner®, I bring a unique blend of analytical problem-solving and rigorous financial stewardship to our board. I am dedicated to maximizing our tax dollars, ensuring resources go directly into classrooms to support our students and hardworking staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Moving forward, my top priorities are: ",
+              {
+                "strong": [
+                  "Academic Excellence: "
+                ]
+              },
+              "Empowering teachers and strengthening vital English Language Arts and STEM programs to build the critical thinking skills essential for the modern economy. ",
+              {
+                "strong": [
+                  "Campus Safety: "
+                ]
+              },
+              "Maintaining secure schools through a proactive, positive law enforcement presence that fosters community trust, because learning requires a safe environment. ",
+              {
+                "strong": [
+                  "Fiscal Responsibility: "
+                ]
+              },
+              "Ensuring transparent, efficient budgeting that aligns with our educational goals to effectively serve our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a deep commitment and a proven track record, I have the experience required to navigate complex issues. I would be honored to earn your vote to continue moving our district forward together."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

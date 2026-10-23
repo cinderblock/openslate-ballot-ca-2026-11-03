@@ -1,0 +1,3322 @@
+{
+  "https://apps.lavote.gov/statements-api/oc/read/election/4348/contest": {
+    "url": "https://apps.lavote.gov/statements-api/oc/read/election/4348/contest",
+    "sha256": "a1b01f54533d940184ced50693286010136639dda717740eabe1843c1dbe4d1f",
+    "retrieved_at": "2026-10-23T11:09:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10604/25749": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10604/25749",
+    "sha256": "6121cb4f457fb949730068aa5ec5ad792e53f9b968d434bbfc1ac4034cb543ce",
+    "retrieved_at": "2026-10-23T11:09:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10604/26314": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10604/26314",
+    "sha256": "a17f2aaa8423aedd492344368f7810fd2faefc28b48e413941730e87651159e5",
+    "retrieved_at": "2026-10-23T11:09:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10607/25703": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10607/25703",
+    "sha256": "5d60a11deb691313d52682d78144f1e4ba0eaeeb7d2fb02c45a45f7c0cf07a08",
+    "retrieved_at": "2026-10-23T11:09:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10607/26129": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10607/26129",
+    "sha256": "2cafd135ed3350ce3a287a41e4a5baaffd1fd76b952f4bdaf815a766fadbb3ce",
+    "retrieved_at": "2026-10-23T11:09:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10613/26208": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10613/26208",
+    "sha256": "42732f70d6a875395279d471529deb8e711422ba337279a0068de46f8c9892d7",
+    "retrieved_at": "2026-10-23T11:09:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10541/25884": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10541/25884",
+    "sha256": "2c277d6b880ae9f44402e97cdf463dc517e4abb777db522d8a8eafee2a2fd76e",
+    "retrieved_at": "2026-10-23T11:09:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10541/26056": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10541/26056",
+    "sha256": "be1f6116739666deb641de097aac4d61529c5a3d753e35efd09cf40ef0021301",
+    "retrieved_at": "2026-10-23T11:09:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10541/26200": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10541/26200",
+    "sha256": "ddf1e2da6eb4f2e2bf80543f447cf0990494b6ca1be025520ae675737d462a30",
+    "retrieved_at": "2026-10-23T11:09:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10571/25847": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10571/25847",
+    "sha256": "1ec9d8794f8caff63179203d087c234d421cb994792ae7f60dd85d6a27815c63",
+    "retrieved_at": "2026-10-23T11:09:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10571/26057": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10571/26057",
+    "sha256": "9bdf327570cdbbba635bcbfa7dd0f5a9c5116d0e8b4a01b3eae1559e2fcab22d",
+    "retrieved_at": "2026-10-23T11:09:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10572/25755": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10572/25755",
+    "sha256": "75663a151f02d65c7b21784a24f7a0e9668a5552a09ea3559cf3487910a53f91",
+    "retrieved_at": "2026-10-23T11:09:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10572/26026": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10572/26026",
+    "sha256": "4c054cee56da3b70a56e3de688c5bfe8a781367eeae0055b8ece4d79b7bac71c",
+    "retrieved_at": "2026-10-23T11:09:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10573/25764": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10573/25764",
+    "sha256": "23a9de16dc86e9223bc27a7e8a23926644b767fa4f8a00dd57d2355cf363dda3",
+    "retrieved_at": "2026-10-23T11:09:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10573/26066": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10573/26066",
+    "sha256": "f13b181230a9d053f4a5e1babc8344c4d7037381e3306919a7c72facda1a53b3",
+    "retrieved_at": "2026-10-23T11:09:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10562/26160": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10562/26160",
+    "sha256": "2a9fa85328f36ef0a0c0ca91cb1c519c7cbcb4907cde5d16077518e7fcc87574",
+    "retrieved_at": "2026-10-23T11:09:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10562/26273": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10562/26273",
+    "sha256": "0f188d977477b50f21f0019848335c14ade4aaec6eff7ed310bd5d08501281b3",
+    "retrieved_at": "2026-10-23T11:09:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10563/25999": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10563/25999",
+    "sha256": "d43d15d5d8f69891d02a60d1a89cf82c00877f767ae49f3654168715dccb8615",
+    "retrieved_at": "2026-10-23T11:09:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10563/26071": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10563/26071",
+    "sha256": "79240e31b729846c5556daaffacede1acc68589675f476931ee0524e2c517e92",
+    "retrieved_at": "2026-10-23T11:09:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10620/26063": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10620/26063",
+    "sha256": "7e75ac5c7ceec5855f9ff52596280cd4de5beccf34f3602e9fead6255e01386a",
+    "retrieved_at": "2026-10-23T11:09:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10620/26098": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10620/26098",
+    "sha256": "e6058bfcc8ca95f0a167d2636cc11511a2f7e703feb156871a8673e9432f9349",
+    "retrieved_at": "2026-10-23T11:09:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10620/26333": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10620/26333",
+    "sha256": "71633a626fd30faa7fb396f7a1c5d6c80b526ac743da558aad808237f8c7e29e",
+    "retrieved_at": "2026-10-23T11:09:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10621/25993": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10621/25993",
+    "sha256": "d818cdd0351040b75126e218de804f5a0c001204963c8a62e83920ed65d1bc20",
+    "retrieved_at": "2026-10-23T11:09:32Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10621/26189": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10621/26189",
+    "sha256": "d413394b073ff9c8aaa61691492c81b3ceccdf269e0863661c03e42fda85121a",
+    "retrieved_at": "2026-10-23T11:09:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10621/26279": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10621/26279",
+    "sha256": "f012dc217d96bfc3bd47cd11a868479c5971913583056fdb88f26ae3f88ed1d6",
+    "retrieved_at": "2026-10-23T11:09:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10621/26283": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10621/26283",
+    "sha256": "b12cc62313da97c8a7abdfcc7fb620c57a220367df88565344c9e3f60a305212",
+    "retrieved_at": "2026-10-23T11:09:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10764/25721": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10764/25721",
+    "sha256": "04e5bb29e29e9036f8d89b84c5ff68862156dcf20753348dc8df582687a66bbf",
+    "retrieved_at": "2026-10-23T11:09:37Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10764/26032": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10764/26032",
+    "sha256": "8b5ca3c75bedb42e160909011fec332ede5498139a266f572f89514b1b1a6235",
+    "retrieved_at": "2026-10-23T11:09:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10765/26158": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10765/26158",
+    "sha256": "84f8b7b937206c0a65973ee58afbbb735bd10ed253ca06601661ce14b04fbec2",
+    "retrieved_at": "2026-10-23T11:09:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10765/26327": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10765/26327",
+    "sha256": "08e22903c9cfd6780afb20ae654ef8ee2a8b03b3abe12311ce322d93609c1606",
+    "retrieved_at": "2026-10-23T11:09:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10622/25845": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10622/25845",
+    "sha256": "5ced6089439fd65220eb6f76efebc271fddbe3be4990b522dd6eec127072dfb1",
+    "retrieved_at": "2026-10-23T11:09:42Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10622/25862": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10622/25862",
+    "sha256": "f96a88d6e8028df6449ab07ff93ab83b9ec6b94f26568161a4663ec3cbf8f978",
+    "retrieved_at": "2026-10-23T11:09:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10622/26096": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10622/26096",
+    "sha256": "2b47a3f64953936a02d7621f9c34342b76e2bad763ccf1bfada0fb61e0798318",
+    "retrieved_at": "2026-10-23T11:09:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10622/26102": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10622/26102",
+    "sha256": "b32683c31b2d6e2953ee124a9e91259a761c923a28a748b38d6b915b069b014e",
+    "retrieved_at": "2026-10-23T11:09:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10625/26195": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10625/26195",
+    "sha256": "d409b4c40ff218957674be6179182902abe4929917076193d5163a0c8a2a198e",
+    "retrieved_at": "2026-10-23T11:09:47Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10574/25981": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10574/25981",
+    "sha256": "731443ba53a2a7d4837fc4ffea642d9493a5bba87ce6d746c50a24755bbe01db",
+    "retrieved_at": "2026-10-23T11:09:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10574/26051": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10574/26051",
+    "sha256": "8a25c3c5e541d5596c63b7b4c9b4b41e8d0739448ae2336ee2228e5237790ecd",
+    "retrieved_at": "2026-10-23T11:09:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10410/26729": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10410/26729",
+    "sha256": "7c3d8b9a810fc81ba6939ceddadd1abd8e6fce621c142982ba2d2d270ceef7a8",
+    "retrieved_at": "2026-10-23T11:09:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10410/26732": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10410/26732",
+    "sha256": "a4b976d593b88df35044fb032bab30a0702e7968abbe27a08292ec7d8069cbf1",
+    "retrieved_at": "2026-10-23T11:09:52Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10410/26733": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10410/26733",
+    "sha256": "81f817b9c346b6823e68e1d78153ab8bc14749e9e6c2827c531086e3a17c3dfe",
+    "retrieved_at": "2026-10-23T11:09:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10408/26723": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10408/26723",
+    "sha256": "42583359a33c029c6fb3a96352e26b950325b3e5dcb04196f9da240fc2a8d03a",
+    "retrieved_at": "2026-10-23T11:09:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10408/26724": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10408/26724",
+    "sha256": "9878158355909d12f15e2494ee8fd5d74677feb28b4b2b7b3169a9a7580a3d7e",
+    "retrieved_at": "2026-10-23T11:09:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10409/26727": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10409/26727",
+    "sha256": "92beeb1160b9326c64f99b5daa09652579ee10783d09e3cc5cebf6577f4f3083",
+    "retrieved_at": "2026-10-23T11:09:57Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10411/26442": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10411/26442",
+    "sha256": "5a3906abf94ccfaa6af08c36b409f6089eb3c1dc6e716277c1741d48286c7f29",
+    "retrieved_at": "2026-10-23T11:09:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10411/26444": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10411/26444",
+    "sha256": "3b865743206d0c3faa1d9e64a8797ea44e6ca225ba112ba5eeff92232bf3a73b",
+    "retrieved_at": "2026-10-23T11:10:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10412/26447": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10412/26447",
+    "sha256": "e5ef2e7b0f1c5a125fe4aaf6bdb7472e456a2cc875cf8fe7f113004c51b56004",
+    "retrieved_at": "2026-10-23T11:10:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10412/26449": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10412/26449",
+    "sha256": "65f1ecec4d30659e7829e26f62cc6488faf6974b162aa4e10416b99a44f307fd",
+    "retrieved_at": "2026-10-23T11:10:02Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10412/26452": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10412/26452",
+    "sha256": "231ec9dc33cc8137588534b784a8297d021304527bbb6dbbb7f9abb78d7e6eed",
+    "retrieved_at": "2026-10-23T11:10:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10413/26454": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10413/26454",
+    "sha256": "a1c3705e017ad3e46d570a2f7526760875682581f1c70931aa62de555978d188",
+    "retrieved_at": "2026-10-23T11:10:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10413/26457": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10413/26457",
+    "sha256": "0dec48294707bf41d7baf5b10ac140ed549b4c210bd15d03dfc0dc5986a2b7a7",
+    "retrieved_at": "2026-10-23T11:10:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10879/26466": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10879/26466",
+    "sha256": "9df3b8873c4aa0665c81fbe5f46e5d04e783a90548a2a64b47c62ff17a9a2585",
+    "retrieved_at": "2026-10-23T11:10:07Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10879/26467": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10879/26467",
+    "sha256": "d6ed83f8c55de28e3a86a62fa746d629e8da21e7a8d92e03038ecb87435d4688",
+    "retrieved_at": "2026-10-23T11:10:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10879/26468": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10879/26468",
+    "sha256": "c2251d4d6d7e87e3124232e7e3fc28dcf31b86e01e9dde2c249b372dbb453ea8",
+    "retrieved_at": "2026-10-23T11:10:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10879/26469": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10879/26469",
+    "sha256": "51700d1d30d4e0f65ecf7baa36ba70eb9926aea6d64d58a6a90f392e2bb8ebbb",
+    "retrieved_at": "2026-10-23T11:10:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10536/26508": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10536/26508",
+    "sha256": "7d2a3240d96b8b2e239e54bf7bf9c7246029ba10e7fa37c80e4be120d752081b",
+    "retrieved_at": "2026-10-23T11:10:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10536/26510": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10536/26510",
+    "sha256": "8b6e32995cb38105d418c82256e0731f2af7bde88d21b702646556c5f4551004",
+    "retrieved_at": "2026-10-23T11:10:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10536/26512": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10536/26512",
+    "sha256": "34bab8b020b707a794f7628ebc78f4c2d98d7bb4569fa995ce105f27ecfd0191",
+    "retrieved_at": "2026-10-23T11:10:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10414/26518": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10414/26518",
+    "sha256": "8b7541b19e38ef036413387046ac1e8ed1c9be0b620fe0d796d5fc3570664038",
+    "retrieved_at": "2026-10-23T11:10:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10415/26501": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10415/26501",
+    "sha256": "b09f39a23192f912eaf9524b062be3d72a248683ece3633f9bac42abd16a3e1f",
+    "retrieved_at": "2026-10-23T11:10:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10415/26502": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10415/26502",
+    "sha256": "a42de10918c3cb5e86281cf6351fed09cfb1170a2c4cafbd262f906b9361427f",
+    "retrieved_at": "2026-10-23T11:10:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10418/26746": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10418/26746",
+    "sha256": "431110e4246419ad803a942771ab0408975c720029d3451a99c1c7bac5c0a917",
+    "retrieved_at": "2026-10-23T11:10:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10418/26749": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10418/26749",
+    "sha256": "7bac7c0304c2579bca8f487dae2849398aa3fd2da635be565616aae84d56e49a",
+    "retrieved_at": "2026-10-23T11:10:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10418/26750": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10418/26750",
+    "sha256": "54bdbd331e62913049068194537a473155d4d7d3901363274c3261167a563c16",
+    "retrieved_at": "2026-10-23T11:10:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10418/26753": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10418/26753",
+    "sha256": "f3135f4821c6f7ddef001fa99921b5380c637be55eed1c234f230bee0974dfbc",
+    "retrieved_at": "2026-10-23T11:10:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10418/26754": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10418/26754",
+    "sha256": "4aedaea806fb4f7cc5b1d06a34ae737f54d1f114af5239ddfba68ed75358cdf2",
+    "retrieved_at": "2026-10-23T11:10:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10420/26481": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10420/26481",
+    "sha256": "ef0afc0d2c61aa65a12d283df152189579456bfac6f0a5fab69a4b29fb1f093e",
+    "retrieved_at": "2026-10-23T11:10:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10420/26482": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10420/26482",
+    "sha256": "086e676c6588265d1a5b67d658b3b5ce5a20c9c1abf729c122a44e4f9dcf46b6",
+    "retrieved_at": "2026-10-23T11:10:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10426/26691": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10426/26691",
+    "sha256": "dc6401420851f0ac83daa92d5f8c78f5723a65843259007b7b39f67e63a055ad",
+    "retrieved_at": "2026-10-23T11:10:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10427/26692": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10427/26692",
+    "sha256": "c2e0d1673e2bff22e10c552e96b0b0fe27a8a2af2db7615f01a9f6d4bf7a886e",
+    "retrieved_at": "2026-10-23T11:10:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26674": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26674",
+    "sha256": "32ee35823013cc2fb57caa0341e4e4bd163478e954d43a6ff870fc71deb4af6b",
+    "retrieved_at": "2026-10-23T11:10:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26676": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26676",
+    "sha256": "612e814bac9e8a860403b7d3008d10be1aeaa1fcf146f0fd13385b3b3ef40dde",
+    "retrieved_at": "2026-10-23T11:10:32Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26677": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26677",
+    "sha256": "149a75a5f205ff0066499a74ee250b2058b752d37b933935b2f4b26ea79760e0",
+    "retrieved_at": "2026-10-23T11:10:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26679": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26679",
+    "sha256": "ca7bf7e4467d749f691380d534d081315dd6343795462990ce00a1c7bfc5c3b0",
+    "retrieved_at": "2026-10-23T11:10:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26681": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26681",
+    "sha256": "7c3f1caedb7bb082759a231150763d15acf0018618aaa8de18276686b64fc996",
+    "retrieved_at": "2026-10-23T11:10:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26683": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26683",
+    "sha256": "99ef48e3dd6cc24e39904420e2791e8808c2228c17c4f4f1af7aa094ce452b23",
+    "retrieved_at": "2026-10-23T11:10:37Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26684": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26684",
+    "sha256": "53cc85d9dfbc5a6358cf694c27b2fd54e0d1de94bd2aeedc5f8a9f7f3b0dc10d",
+    "retrieved_at": "2026-10-23T11:10:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26685": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26685",
+    "sha256": "5ac5017a32776b69937b28f8e8393b1df1ac0af48cf37a30c17a652588cb406f",
+    "retrieved_at": "2026-10-23T11:10:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26686": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26686",
+    "sha256": "f85d6353c0daa5cf56f67dda218d5ece8568cb80cf5bb61ec36028b1e95a81a8",
+    "retrieved_at": "2026-10-23T11:10:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26687": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26687",
+    "sha256": "eba36ad1820b616cc37b13fb705e57acf9ccfeea7d959d7d541b62d14cbe1ddd",
+    "retrieved_at": "2026-10-23T11:10:42Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26688": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26688",
+    "sha256": "eec12a49148929752eef31758121928251c5b897fca380de494f7430f3cc51ec",
+    "retrieved_at": "2026-10-23T11:10:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26689": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26689",
+    "sha256": "649bb903b1f7b75e2c9828b21eb25fa9e7e32ca3fddc608c9e045e40e1e94eb0",
+    "retrieved_at": "2026-10-23T11:10:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10425/26690": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10425/26690",
+    "sha256": "b0c27f840a38ff4a7f9d0e2f9957131e2bffebd191a665e5dd2d8207c51877ac",
+    "retrieved_at": "2026-10-23T11:10:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10430/26486": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10430/26486",
+    "sha256": "ef2c0d0fe1bdba0bb5c1ab7a206a6690742a5241856ab37e478cbe5890c5d318",
+    "retrieved_at": "2026-10-23T11:10:47Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10431/26485": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10431/26485",
+    "sha256": "74d2f669480ba12359aa451845ea244f381c1973099ed6ddaa7b4ad5b9ec68ab",
+    "retrieved_at": "2026-10-23T11:10:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10434/26528": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10434/26528",
+    "sha256": "6c8464eb81d8db48bf7b41eef7a8146e7e05f95ada9377ee48e568d4451107a3",
+    "retrieved_at": "2026-10-23T11:10:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10435/26529": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10435/26529",
+    "sha256": "27037475520c3147fc86776b794fd2c116f27e4230ec1328b6cc713396d46665",
+    "retrieved_at": "2026-10-23T11:10:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10435/26530": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10435/26530",
+    "sha256": "7865046be1c1511cd5f1f0625dd91341ef8dfb56f51ce98aacc1968296b2a0c5",
+    "retrieved_at": "2026-10-23T11:10:52Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10436/26531": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10436/26531",
+    "sha256": "d3d16d07cf159dacec1ca08f260d539ede1147e08111e15ff1fd17f96bad5491",
+    "retrieved_at": "2026-10-23T11:10:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10436/26532": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10436/26532",
+    "sha256": "08af07b25b52f656b334ae1b03cbf8eec5cede716788efa6e4a712112f7dcdeb",
+    "retrieved_at": "2026-10-23T11:10:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10436/26533": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10436/26533",
+    "sha256": "3d1ee738d62c6c8dda36e13061f79a47d18a1dbd2fe0ea753d7a5364f6504ce9",
+    "retrieved_at": "2026-10-23T11:10:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10437/26471": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10437/26471",
+    "sha256": "727927e6b12d3f1aabc3425e77bd644d35e404b260c0255e28296e747bd431d1",
+    "retrieved_at": "2026-10-23T11:10:57Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10437/26472": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10437/26472",
+    "sha256": "a8769fe5766a303f8e32070ccc3f44a8a07ee3c7e4c3e34177bf0e1cb5d70ea4",
+    "retrieved_at": "2026-10-23T11:10:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10437/26474": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10437/26474",
+    "sha256": "2d02ba30040aff3a52cc3f1f5c8219f3d8507f6daa4b889b62b157ccc092b16c",
+    "retrieved_at": "2026-10-23T11:11:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10437/26477": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10437/26477",
+    "sha256": "be23ad36643b9eeb48f7954bdc80d320df9bcc2bb82b7063ced13eb286e8d0b8",
+    "retrieved_at": "2026-10-23T11:11:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10437/26479": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10437/26479",
+    "sha256": "b71593b55417457d936959610a2316698b3c7fb4d044d4fbcac3d2fd4246e531",
+    "retrieved_at": "2026-10-23T11:11:02Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10437/26480": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10437/26480",
+    "sha256": "30e3c611657083b37b9ad12c818e073fa5e6a18b2c4014139f3cbc9b918eb8ac",
+    "retrieved_at": "2026-10-23T11:11:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10766/25524": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10766/25524",
+    "sha256": "a8ef6223ab34e02f05e818d3af026a788934409b1df0375baa01e680db575846",
+    "retrieved_at": "2026-10-23T11:11:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10766/25525": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10766/25525",
+    "sha256": "5ce0bd30cf014ffe6d51db85c795c6993eebf35809bac354e32944c03ae64f87",
+    "retrieved_at": "2026-10-23T11:11:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10769/25530": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10769/25530",
+    "sha256": "dc8d56f0b28cabe1d021d102e4ebbc68228659eb00d6e864c8d46d1c7dc3e2da",
+    "retrieved_at": "2026-10-23T11:11:07Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10769/25531": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10769/25531",
+    "sha256": "ccddcdb4184ed9f47f71effa6c17b1a901bb8df72c5e62663e9d7e5551e815e1",
+    "retrieved_at": "2026-10-23T11:11:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10439/26693": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10439/26693",
+    "sha256": "f2b07036d5db4d66c1818d3a2d23f1b629f18987e6441436620f3d85862e44e3",
+    "retrieved_at": "2026-10-23T11:11:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10439/26694": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10439/26694",
+    "sha256": "4ad6bca7b7eab7b11cfc43a5611d2903446da477b974fe86d0325be2a7a52bdd",
+    "retrieved_at": "2026-10-23T11:11:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10439/26695": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10439/26695",
+    "sha256": "324e91ddb5f67d5bccfcf49a6e4c5551aceae9b9fe80c28b9897c53555f03df6",
+    "retrieved_at": "2026-10-23T11:11:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10439/26696": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10439/26696",
+    "sha256": "9aa76ac6bb9e7affe16b74c5fb66e695ae5f71dbea18475539f4ddc7f059c633",
+    "retrieved_at": "2026-10-23T11:11:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10439/26697": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10439/26697",
+    "sha256": "121fd93c1cc11e11c6935f22a4c2dbe760c472ec3d3483a189e5c88fcf657ed9",
+    "retrieved_at": "2026-10-23T11:11:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10440/26551": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10440/26551",
+    "sha256": "a112122fa8649637c8be349a6011256ab848095e79f3ede78ac26c5644df8771",
+    "retrieved_at": "2026-10-23T11:11:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10440/26552": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10440/26552",
+    "sha256": "58dbafbdb1bde8bd5c6dd970bd208b9cfd5901fc3e4ba9197f9de1b58f7a8cd5",
+    "retrieved_at": "2026-10-23T11:11:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10442/26554": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10442/26554",
+    "sha256": "6c0d82907b4b90618304402e4198edc228cdd48e7ed962b5657997919ab280b6",
+    "retrieved_at": "2026-10-23T11:11:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10442/26555": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10442/26555",
+    "sha256": "75b6f5ceabf3e5cac19f82674a0485248df072e78cfe3a9cb5c273511e3b5a87",
+    "retrieved_at": "2026-10-23T11:11:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10443/26557": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10443/26557",
+    "sha256": "1bef3ab4dce50866de1e052adec17346f984b491d03555ff8a9e1c3c907c73f5",
+    "retrieved_at": "2026-10-23T11:11:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10443/26558": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10443/26558",
+    "sha256": "8274a0e6708f6f34993bdb9aa600209d0da9b11f56e9753d8a91e5e6d0bdb676",
+    "retrieved_at": "2026-10-23T11:11:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10444/26561": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10444/26561",
+    "sha256": "2d87357d8b07c69a05fd86351201327277d9eed2e6f4eb493b203e14ec025268",
+    "retrieved_at": "2026-10-23T11:11:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10444/26562": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10444/26562",
+    "sha256": "16275f92f8e91b85978cbbecf9e3ea8b60652489da24a68cbe518eba9a0efe7e",
+    "retrieved_at": "2026-10-23T11:11:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10445/26415": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10445/26415",
+    "sha256": "04d92507642eec9a36f1402b7bf0c8f47e287f9a9fe8f7caab97009a589905cf",
+    "retrieved_at": "2026-10-23T11:11:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10445/26416": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10445/26416",
+    "sha256": "5849699a930e1d6c2e0f88894036fe79be9aa883d6478a98f9ac5854ec0a6df4",
+    "retrieved_at": "2026-10-23T11:11:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10658/26632": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10658/26632",
+    "sha256": "cacc6b33c8187e99a303b04c388c1abb7307dc8524de48769cd78aa4d27803f8",
+    "retrieved_at": "2026-10-23T11:11:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10658/26633": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10658/26633",
+    "sha256": "bb12996938b4ad1f45b7ec3a9b39cf852519b563224b1dc163617a146f91760e",
+    "retrieved_at": "2026-10-23T11:11:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10659/26634": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10659/26634",
+    "sha256": "f95c8e71983da77719365bc75a0715250f60b3db3b36268635d452ef3f6e545b",
+    "retrieved_at": "2026-10-23T11:11:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10659/26635": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10659/26635",
+    "sha256": "3d60a706c97ee264b5bbe5b5092df084f35a77c11c0ba9c7aabed6196ca3c63c",
+    "retrieved_at": "2026-10-23T11:11:32Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10659/26636": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10659/26636",
+    "sha256": "9f29580d60b6b22f4ae1a9a849f17b459fe2b4020f49d1b75c9e2b822084aa98",
+    "retrieved_at": "2026-10-23T11:11:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10657/26622": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10657/26622",
+    "sha256": "5bc81ed57d727fa9b8ec812447ee8c91a6959126e547cbc428bb907cbc995e59",
+    "retrieved_at": "2026-10-23T11:11:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10657/26624": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10657/26624",
+    "sha256": "5124e78dc247e78c830d5d0a1c5bf6db800b09b08a79fda2db55f63d67e8563b",
+    "retrieved_at": "2026-10-23T11:11:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10657/26625": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10657/26625",
+    "sha256": "87f3716e9de3b9ad813f01990cb51824b4e17c6c2dffbcd44d8d7033c916d9b2",
+    "retrieved_at": "2026-10-23T11:11:37Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10450/26629": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10450/26629",
+    "sha256": "f4a17d2a6567cbf85dc1af36c7a2edaf3f261e8c29361d2d20e1c1da81697012",
+    "retrieved_at": "2026-10-23T11:11:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10451/26630": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10451/26630",
+    "sha256": "eafd786bf7b87d07e71de97c195fe3b3e8ee34e6dc6b7a2d59fef74a9cfe2ee6",
+    "retrieved_at": "2026-10-23T11:11:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10451/26631": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10451/26631",
+    "sha256": "b2036e75fac50e7eb08aa0b18a8bd63cb95813764d5c23c495b69fc1f97caf74",
+    "retrieved_at": "2026-10-23T11:11:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10452/26411": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10452/26411",
+    "sha256": "30c3d62cebc671b2b3c9e79718f96be206dceb3aa9252980573539efa5f598b8",
+    "retrieved_at": "2026-10-23T11:11:42Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10452/26412": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10452/26412",
+    "sha256": "cec670e3e06110c7d6a5c879b645d704deb9412213dce5972b29c40208187e88",
+    "retrieved_at": "2026-10-23T11:11:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10452/26413": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10452/26413",
+    "sha256": "0651b17e1ece4828648cc9e178927950d33db44ebf4b455c8ddb32748cc62867",
+    "retrieved_at": "2026-10-23T11:11:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10453/26707": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10453/26707",
+    "sha256": "626ec3bcc169fef39064937fc6f0cdfb29f9a8a626294d43a263c29f0d4c1122",
+    "retrieved_at": "2026-10-23T11:11:47Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10453/26714": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10453/26714",
+    "sha256": "ca92920ccd2f671373eb924baa389b31f2e6e0b18b344f67e764ffb83f66ea01",
+    "retrieved_at": "2026-10-23T11:11:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10454/26704": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10454/26704",
+    "sha256": "1eb7d3207af6dcde1b38ead2eeed315dae5e730636430fef1d53961258fc228f",
+    "retrieved_at": "2026-10-23T11:11:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10454/26711": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10454/26711",
+    "sha256": "9b966f4b1496a59d3c40c6efb8d98d1b5712be42b88db6cb68cb39d1ef3eeef9",
+    "retrieved_at": "2026-10-23T11:11:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10454/26720": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10454/26720",
+    "sha256": "bb506b47250666228f639cbd66ccf4e1bba311ed52ede7d6a20e2369b601dc55",
+    "retrieved_at": "2026-10-23T11:11:52Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10455/26443": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10455/26443",
+    "sha256": "95a5a4f61ab7886190d16e2f3731397a85336e0f17098f2ca7454c531c32d534",
+    "retrieved_at": "2026-10-23T11:11:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10455/26446": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10455/26446",
+    "sha256": "d3cbd17d4dfb92938a652dc3a447a134a42a6024eff526d4d785bb5fd1f62aa4",
+    "retrieved_at": "2026-10-23T11:11:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10455/26448": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10455/26448",
+    "sha256": "d562e6c48a962144119d007256a8076e375db89ac39b549f1469ad77942c3195",
+    "retrieved_at": "2026-10-23T11:11:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10455/26451": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10455/26451",
+    "sha256": "b2cefb34fe5539e36cd555b955f7e33c710eb741aae5744bd1f1a981a4ceb514",
+    "retrieved_at": "2026-10-23T11:11:57Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10455/26456": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10455/26456",
+    "sha256": "fedec9c163f2b5675c7acce8896d771388ec2af9fd843e374b9c3995bd2c22c0",
+    "retrieved_at": "2026-10-23T11:11:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10457/26571": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10457/26571",
+    "sha256": "a9f9e5dff35a678de11724aabe510c073a4d315afa4a2241b0215d02d98e0066",
+    "retrieved_at": "2026-10-23T11:12:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10457/26572": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10457/26572",
+    "sha256": "3982de7837cbc9cf91e15ce002cccb44825fe4c545c7a5626953af8daa2aa521",
+    "retrieved_at": "2026-10-23T11:12:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10458/26568": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10458/26568",
+    "sha256": "03618ff8eda3109851debd41d1458697a6bfde0ed515c645c91bed6ad17737b5",
+    "retrieved_at": "2026-10-23T11:12:02Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10458/26569": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10458/26569",
+    "sha256": "8b18de0ced5a4185ad2ce3c20988b8b07ca853ee8ee226553849a0c3c013314a",
+    "retrieved_at": "2026-10-23T11:12:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10875/26748": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10875/26748",
+    "sha256": "a1db7d12fc627b2c7b8266ea2ab677b6f126cfc1accf52dcfabe4d4254463502",
+    "retrieved_at": "2026-10-23T11:12:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10875/26751": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10875/26751",
+    "sha256": "594973f25718c108176bd6dc19d336e26a16ce85b2887df5776fe8081c98288c",
+    "retrieved_at": "2026-10-23T11:12:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10875/26752": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10875/26752",
+    "sha256": "40b3000a14ff06fb2895fb98133aef0916d48a67523c165357951fbef3c3bbe5",
+    "retrieved_at": "2026-10-23T11:12:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10875/26756": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10875/26756",
+    "sha256": "f9b8f8b5bbba016812a1d23834aca0a2e2d7c7695df60a81c148bd1c9494f1ab",
+    "retrieved_at": "2026-10-23T11:12:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10875/26757": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10875/26757",
+    "sha256": "96badcb8ee200ef280e15ce3931243a76b34759beb8fcbfcc425f9ce06d61727",
+    "retrieved_at": "2026-10-23T11:12:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10462/26597": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10462/26597",
+    "sha256": "b6dfabc3de2742b7d16807c2127c40ed15e600314fcec515ad974cd07029aa01",
+    "retrieved_at": "2026-10-23T11:12:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10462/26598": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10462/26598",
+    "sha256": "dd9a6b5e9e4e4f165cb8612ead209ed720f753767b8011142fe683d88e2045d1",
+    "retrieved_at": "2026-10-23T11:12:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10461/26603": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10461/26603",
+    "sha256": "bc14127eef07f944bc5f3d32f197c3fae8182161cf188c0c7fe308f6e81a3c37",
+    "retrieved_at": "2026-10-23T11:12:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10461/26606": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10461/26606",
+    "sha256": "1ef5d6c64fdf087ddbba529eca3c7e93051d97b502b919d91bc2c25c8f9d401a",
+    "retrieved_at": "2026-10-23T11:12:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10920/26608": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10920/26608",
+    "sha256": "900005c5e03525b2adf08eedf996dce8ddbf16f9d7230e38c8c6f2390c3d95b7",
+    "retrieved_at": "2026-10-23T11:12:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10920/26609": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10920/26609",
+    "sha256": "e9712f71806048677818a738d8a92ca8dce7789d35a5ad5e7516718e10038c39",
+    "retrieved_at": "2026-10-23T11:12:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10870/26698": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10870/26698",
+    "sha256": "20773d7b1f7164cb7f4458ec900428a7a88d4025ca21a37234f6651198a95fff",
+    "retrieved_at": "2026-10-23T11:12:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10870/26699": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10870/26699",
+    "sha256": "f23c060370b769b047f165d36da5ef4dc3a42f0dc4c954c6b1e9e5c6f90f0884",
+    "retrieved_at": "2026-10-23T11:12:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10870/26700": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10870/26700",
+    "sha256": "38f54e3353cc7024552af03f5678691152959fc981b908dc863c5c0fe0f8b410",
+    "retrieved_at": "2026-10-23T11:12:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10870/26701": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10870/26701",
+    "sha256": "a4259f24ecfc53bc40e00212afa32a97e4460cb4be11a2c07c96c50c21af741d",
+    "retrieved_at": "2026-10-23T11:12:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10870/26702": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10870/26702",
+    "sha256": "fd54b86c596e083da87866a8630c0c47484f54c46af2f791d1dd4ce451e393e9",
+    "retrieved_at": "2026-10-23T11:12:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10870/26703": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10870/26703",
+    "sha256": "6f7785bb77c58d605274ee5d3b0a929f66eef64b04361d2888d311d177262d88",
+    "retrieved_at": "2026-10-23T11:12:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10464/26705": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10464/26705",
+    "sha256": "d2362b4d2c2d6ac85c1f51616a890e496f9f630753a39ea21150f9156ddc17fd",
+    "retrieved_at": "2026-10-23T11:12:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10464/26706": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10464/26706",
+    "sha256": "dea955519d58ded40cf8ada13009f8331c597cf377a3ec032ae6a6f9fbddb1c2",
+    "retrieved_at": "2026-10-23T11:12:28Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10464/26708": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10464/26708",
+    "sha256": "4b0255c1c669574925d72afa6226539b223f959fd5ed39fe2f68a93b28d522d2",
+    "retrieved_at": "2026-10-23T11:12:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10464/26709": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10464/26709",
+    "sha256": "49075646d242811a90b5ee4c393d36145cc8e7a8af3c13d0affaf743934d9db9",
+    "retrieved_at": "2026-10-23T11:12:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10463/26710": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10463/26710",
+    "sha256": "24b63893224952404af8058b8aa64ccbedc1c5244aa45a73f6cadd901bd70841",
+    "retrieved_at": "2026-10-23T11:12:32Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10463/26712": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10463/26712",
+    "sha256": "593ea42b2b47356540196813a40659669150ef97e69b45f0566a920922959a40",
+    "retrieved_at": "2026-10-23T11:12:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10468/26537": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10468/26537",
+    "sha256": "8c29c2636198f0499a34dffd0dd6ffd610ce0ba77ffb6267a0e0869cf6fc50f0",
+    "retrieved_at": "2026-10-23T11:12:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10468/26540": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10468/26540",
+    "sha256": "30085ab6898cf0f83bfcd7b13e449e33854f875f070542ff32aeff9931662268",
+    "retrieved_at": "2026-10-23T11:12:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10468/26543": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10468/26543",
+    "sha256": "e48d7e1826247922ffc6882ebe68324c5f19a83af1cd6b2f2a541ffc5a78704e",
+    "retrieved_at": "2026-10-23T11:12:37Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10471/26773": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10471/26773",
+    "sha256": "82ab2f3bf8cb1e69177ab9fbf81b6b584fa265a4ff2909c198b8daa7652abe1c",
+    "retrieved_at": "2026-10-23T11:12:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10471/26774": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10471/26774",
+    "sha256": "1af122f38c8faa4869b5e46e4c44578955afc9c3290f9ec4b7cd8c0298ec7e14",
+    "retrieved_at": "2026-10-23T11:12:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10472/26775": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10472/26775",
+    "sha256": "86d01af0def8f9ba6f8e17ebac065a984e4a7f09199ca657e4baa051cdaca888",
+    "retrieved_at": "2026-10-23T11:12:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10472/26776": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10472/26776",
+    "sha256": "337b51c056dcc8ee9911c720f80b1aba28e6ae52827efa562ce975f3c91ef12c",
+    "retrieved_at": "2026-10-23T11:12:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10474/26453": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10474/26453",
+    "sha256": "27672a78de1a90fa7ae5b30a8fdaaf1b29b6230eed084afbdcafc1013d1409fa",
+    "retrieved_at": "2026-10-23T11:12:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10474/26458": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10474/26458",
+    "sha256": "9222b973912f7cc59a4edb4046ccecfcae1f413e6a776cee312c0a95da965780",
+    "retrieved_at": "2026-10-23T11:12:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10477/26516": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10477/26516",
+    "sha256": "fe6556a18b912ca06f0b8fcaec906b14e7652d8df1ad512866ee7f9cd7749a3a",
+    "retrieved_at": "2026-10-23T11:12:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10477/26517": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10477/26517",
+    "sha256": "cc3417a84fc986536af395e2b15463567d680f869d3be155d6cbd982a77aae74",
+    "retrieved_at": "2026-10-23T11:12:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10477/26519": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10477/26519",
+    "sha256": "545e17a80ebe84f02608699a7fa0cdaafeaa0136702f1a1d030b24778d3f75d0",
+    "retrieved_at": "2026-10-23T11:12:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10477/26521": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10477/26521",
+    "sha256": "7ed0e50d249974259b5542e4381117e8ed3f2cfec434f2e7b111837a9e30aa86",
+    "retrieved_at": "2026-10-23T11:12:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10477/26523": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10477/26523",
+    "sha256": "83b67b5675841acd2c0ae3bb9d243c4585b4c691965a88b8ae8310326afb02a3",
+    "retrieved_at": "2026-10-23T11:12:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10477/26524": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10477/26524",
+    "sha256": "15600ddd551154649c1c6afc30e1f4bddb21dc3f97d81b96fcb74725aa5ddca4",
+    "retrieved_at": "2026-10-23T11:12:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10478/26621": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10478/26621",
+    "sha256": "4ae9cf945bbf01ad2179810e4bfa44797710bc907221ae07f486eeec13443056",
+    "retrieved_at": "2026-10-23T11:12:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10478/26623": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10478/26623",
+    "sha256": "fc6f72c9a6d4902a5a25c45fab73563a2c840fa973872898b86d861ce7d90fc8",
+    "retrieved_at": "2026-10-23T11:12:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10478/26626": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10478/26626",
+    "sha256": "4cc28c31d9c6a1cbebec7027f2cffb31a2fd9ded6123db0189fed78073a58800",
+    "retrieved_at": "2026-10-23T11:12:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10478/26627": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10478/26627",
+    "sha256": "315eba4c669448d16f2423dbb3ba4aaa206f1e5261d1906f9d1ebfd8e625575d",
+    "retrieved_at": "2026-10-23T11:12:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10479/26509": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10479/26509",
+    "sha256": "ba93bc78f44f01b2a4b91acc67b9f4766dbccefc95a48093ed74f210595c27f9",
+    "retrieved_at": "2026-10-23T11:12:58Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10479/26511": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10479/26511",
+    "sha256": "1ddb87c056fa443ebec7a02033a7b31acf8682626704d6ff7f7f5eb60360e309",
+    "retrieved_at": "2026-10-23T11:12:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10479/26513": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10479/26513",
+    "sha256": "4f06c0c55d3adc88f26f77fae54d64f7e4d4c981bc516f684cef193b1dda6e9c",
+    "retrieved_at": "2026-10-23T11:13:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10479/26515": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10479/26515",
+    "sha256": "738b614dc1bb05326eda3f777740a85e131c886697d3a1952a779791209d1a03",
+    "retrieved_at": "2026-10-23T11:13:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26548": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26548",
+    "sha256": "f0c9a1bae370951677b230166c36f709b664e2db6b837d89b303507a6cffd99e",
+    "retrieved_at": "2026-10-23T11:13:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26549": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26549",
+    "sha256": "476c6ca94934ec4150ba29375731f66e1ae4b3b4bca204378cecd700b6aee05f",
+    "retrieved_at": "2026-10-23T11:13:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26550": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26550",
+    "sha256": "a654d5c8fa0df184e19f5d1f6c23cb3f3c58c4c029a809a2aa03fbb998126201",
+    "retrieved_at": "2026-10-23T11:13:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26556": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26556",
+    "sha256": "def95127e26edc7a00c8dfbffcb35d153531ebfeff57c493c692348d1e494cfd",
+    "retrieved_at": "2026-10-23T11:13:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26560": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26560",
+    "sha256": "5f8ecf92d45076be53ffee0302c54de50449340770b32a385fd0a95b1e8eecfd",
+    "retrieved_at": "2026-10-23T11:13:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26563": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26563",
+    "sha256": "27cf9dedf8dd8a3341490147e5aab19d8f52d61232e799bc713eb4f0bd4e4c92",
+    "retrieved_at": "2026-10-23T11:13:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26564": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26564",
+    "sha256": "7b4ce10f68e1c4b3d23d0e5afd2e289590f812c8006995d4f4b48574aff5d0d0",
+    "retrieved_at": "2026-10-23T11:13:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26565": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26565",
+    "sha256": "92572f36c38d31820b92a33ca3233390c6da6e50496347d727ae0e38bb3eb3f4",
+    "retrieved_at": "2026-10-23T11:13:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10480/26566": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10480/26566",
+    "sha256": "af6ec0cd4c33ad77c8d2614999ef196666478d983b4edf9535a21f71a4ce24d2",
+    "retrieved_at": "2026-10-23T11:13:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10489/26741": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10489/26741",
+    "sha256": "6f7c05ee48cd9fab62ebcac48b7ad474fbca7632ca2a09dc21fb87154c1ee777",
+    "retrieved_at": "2026-10-23T11:13:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10488/26740": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10488/26740",
+    "sha256": "2a6497be9d19542db5e17383a10485759e9f0cfa7687905d87a079bf0a1792ba",
+    "retrieved_at": "2026-10-23T11:13:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10487/26735": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10487/26735",
+    "sha256": "3adb67eaa2b8f93c8184de058d18b9562c3d45c408b03cb50616caff4c0b9a52",
+    "retrieved_at": "2026-10-23T11:13:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10486/26736": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10486/26736",
+    "sha256": "21d6dcc7330562db4c3524f49cbfacbcc32dc39f9f3d013fbc8cb17f04a96921",
+    "retrieved_at": "2026-10-23T11:13:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10486/26738": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10486/26738",
+    "sha256": "6a8d0b69eb18afb989480863ed2329928744699b59c3a429109d97cc97da9778",
+    "retrieved_at": "2026-10-23T11:13:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10486/26739": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10486/26739",
+    "sha256": "bfafc73ca81fa0f870f86a3c256fffe5476c71cd462d911bd9e966d682cf0fa1",
+    "retrieved_at": "2026-10-23T11:13:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10485/26596": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10485/26596",
+    "sha256": "f4249417611b52ad647b9bfe8070cfdeb9bea981d7cbdc00d748633903d8d704",
+    "retrieved_at": "2026-10-23T11:13:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10481/26581": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10481/26581",
+    "sha256": "e8712c1ce72d779228cf0219cbc8c64fc37a72d3a159165eb36aeb256ae71683",
+    "retrieved_at": "2026-10-23T11:13:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10481/26583": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10481/26583",
+    "sha256": "7fe68bf85ac2cc408bb99b415ae0de3c17afda93b8ba2564fef9eee7a482172f",
+    "retrieved_at": "2026-10-23T11:13:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10481/26585": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10481/26585",
+    "sha256": "a28f856051dcfae2c0d164c67e6a289a681c6b8dd804ad3849db0bb40391bd52",
+    "retrieved_at": "2026-10-23T11:13:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10481/26586": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10481/26586",
+    "sha256": "f9c8e58af7335fea7e3a04426cbe7df55e74d1837e76dfee100ffb932c83a7cc",
+    "retrieved_at": "2026-10-23T11:13:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10482/26587": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10482/26587",
+    "sha256": "530ddf8da64e3afdb607a5b4f67fb56e6161b5f0d0e6068393789182ab6b3663",
+    "retrieved_at": "2026-10-23T11:13:28Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10482/26588": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10482/26588",
+    "sha256": "b953ba9dfe5ac60159bc542705f43de17d289b437bc5d11d986ef05f82b6f3ca",
+    "retrieved_at": "2026-10-23T11:13:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10482/26589": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10482/26589",
+    "sha256": "5fdb200f6e83b1cd7ffe07d93fea1f0eae86d366e0e4a109f517b4bca3d0bd59",
+    "retrieved_at": "2026-10-23T11:13:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10484/26592": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10484/26592",
+    "sha256": "5c947c7bc8303e9680db763d47228daf502127ddb4e6e606f49ca5da1d435350",
+    "retrieved_at": "2026-10-23T11:13:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10484/26594": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10484/26594",
+    "sha256": "fbc158907c4ce4ea8765e00fe6a11b06a7ea449c084b290deb44e71a8e23f87c",
+    "retrieved_at": "2026-10-23T11:13:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10483/26590": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10483/26590",
+    "sha256": "78934caf19a13a9afddae270e1ed826c70212780707a641dcf10f386e277fd0b",
+    "retrieved_at": "2026-10-23T11:13:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10483/26591": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10483/26591",
+    "sha256": "444f3dc566d012fdac7f9b1e41598af73830319e5601dff8440c6367e4fc4282",
+    "retrieved_at": "2026-10-23T11:13:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10491/26522": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10491/26522",
+    "sha256": "4c393b91ade2700eb8fd1b09edf22c6c455f6e44b0a7f4ac287ed3eb322f31c1",
+    "retrieved_at": "2026-10-23T11:13:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10491/26525": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10491/26525",
+    "sha256": "1dbb56f99a551a3e63e59c772cc386c35a12e560710f66b9277941e553983326",
+    "retrieved_at": "2026-10-23T11:13:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10494/26495": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10494/26495",
+    "sha256": "52314b28acfcdea47800d9c85061ccbabbaa3e37e5a04216241594010bd27d78",
+    "retrieved_at": "2026-10-23T11:13:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10494/26496": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10494/26496",
+    "sha256": "f4e1de0e50d25930e17ba46f5cc95e4b152b97d45b2beb1bfe5c1b43c2699f30",
+    "retrieved_at": "2026-10-23T11:13:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10494/26497": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10494/26497",
+    "sha256": "6469a57e940650f13c2c0dd5fafd512629ea7f816bc840fcdc4172783e6bf020",
+    "retrieved_at": "2026-10-23T11:13:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10494/26498": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10494/26498",
+    "sha256": "5ad686c0b5b44d06c13850924a351c6bb44892e6777cf757a7f0cd47270ab120",
+    "retrieved_at": "2026-10-23T11:13:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10494/26499": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10494/26499",
+    "sha256": "5c623e7e8a73c70b6d25e198bdc80b677729cf605d9ab94c0e5cede6202da5f5",
+    "retrieved_at": "2026-10-23T11:13:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10495/26593": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10495/26593",
+    "sha256": "e1aa9f0bd8c335af16cc1f2bdd93377719307528841eb5469e679074e2e0776e",
+    "retrieved_at": "2026-10-23T11:13:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10495/26595": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10495/26595",
+    "sha256": "fee58963821948811e2199acccd9e6e0a9ee43ddc2ee3e4c5ed4f973fb6ca1a6",
+    "retrieved_at": "2026-10-23T11:13:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10495/26599": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10495/26599",
+    "sha256": "9665d24a030790201777c36a5d397bd34de907e19d629d834b696164f995ec65",
+    "retrieved_at": "2026-10-23T11:13:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10495/26601": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10495/26601",
+    "sha256": "ee9a2255ceef7d870aa0f1ab1420d0e8f3a5c432ef11cb0f9f107cb7e626bd58",
+    "retrieved_at": "2026-10-23T11:13:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10495/26604": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10495/26604",
+    "sha256": "b42b8603ead84b6e64f0675917752a96a5e1dc61cc01155a6e0322d44c1aa53c",
+    "retrieved_at": "2026-10-23T11:13:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10496/26610": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10496/26610",
+    "sha256": "a6f040ed4c4950ef7ddcb33e5f7f2104ad34ab892768cac3c48ce9080aaf96d2",
+    "retrieved_at": "2026-10-23T11:13:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10496/26611": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10496/26611",
+    "sha256": "06a026cac18701793484bb0a79a3188af7772f4e2910a0c421c4b20526248049",
+    "retrieved_at": "2026-10-23T11:13:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10496/26612": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10496/26612",
+    "sha256": "29e09050f0d2aa70699332c5614ef204136745944b515e13d59b35b338560c2e",
+    "retrieved_at": "2026-10-23T11:13:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10496/26613": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10496/26613",
+    "sha256": "1efb13173ef58f6a70963006543db40cb3128842809e90d3b67063adfe171959",
+    "retrieved_at": "2026-10-23T11:13:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10497/26614": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10497/26614",
+    "sha256": "c48b3cb8a50ab38c0e561095f3702fcd11e195baa7e70eb8cf38ce98cb2fade5",
+    "retrieved_at": "2026-10-23T11:13:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10497/26615": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10497/26615",
+    "sha256": "9acbdbe5cbae68e3f5950ae1c9e791df4e14c2e8eaca71c9430eeb02a4b2cb80",
+    "retrieved_at": "2026-10-23T11:13:58Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10497/26616": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10497/26616",
+    "sha256": "57fcc87f27d585b82c989b852d77783d4af692a2a793ddf28a24be6e8ccd039c",
+    "retrieved_at": "2026-10-23T11:13:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10503/26475": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10503/26475",
+    "sha256": "1602516b5bd68bf8a1622d0c06edc8c22ac200dd37aab1ad2675ae4807777efc",
+    "retrieved_at": "2026-10-23T11:14:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10503/26476": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10503/26476",
+    "sha256": "86602863e66402bab49243b436cb62cc7ae31333565d9ccb29e056396d9f5ec8",
+    "retrieved_at": "2026-10-23T11:14:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10503/26478": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10503/26478",
+    "sha256": "dbb77b9eebad3771b4aff37d2a92e80761cd1f00a4491eba7c9afe8d135679e3",
+    "retrieved_at": "2026-10-23T11:14:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10772/25536": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10772/25536",
+    "sha256": "a330adea5795832ef946097dc4a25096d29b27f950c15682f963ef61d69addab",
+    "retrieved_at": "2026-10-23T11:14:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10504/26577": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10504/26577",
+    "sha256": "43d6b506115571d226dd4de2599ff5bc7e8a2b569ef36c3219c7e4de199e71e4",
+    "retrieved_at": "2026-10-23T11:14:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10504/26578": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10504/26578",
+    "sha256": "4403f9e129476f91de9952bb76ab9cd501d1de326ac27ff1b9c82cfe893f271b",
+    "retrieved_at": "2026-10-23T11:14:07Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10504/26579": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10504/26579",
+    "sha256": "f6862eb18512dd198e3654ec73fc6b52b079b34be242cbfb026335b2617730b8",
+    "retrieved_at": "2026-10-23T11:14:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10504/26580": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10504/26580",
+    "sha256": "aa4ee4b67e030c9a1d2d91ab1acf4ce3db394a73e0d24306950a8b06830dd1be",
+    "retrieved_at": "2026-10-23T11:14:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10504/26582": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10504/26582",
+    "sha256": "22238dc1ee3dea1d79c6bf7fcb3a8c2a78c4559ec65d6759b5f39c8efb3c97e2",
+    "retrieved_at": "2026-10-23T11:14:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10504/26584": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10504/26584",
+    "sha256": "b19b94cd74485bdf0dbe065d7f2317b134de1d68a7210f95f2de75441b72b348",
+    "retrieved_at": "2026-10-23T11:14:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10505/26487": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10505/26487",
+    "sha256": "8ce0cacb83d62c3ce32ad27af4395f02401ba0f613c3aa6e0234b1479c5bb829",
+    "retrieved_at": "2026-10-23T11:14:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10505/26489": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10505/26489",
+    "sha256": "3e27a2cb7414afcfd1d610c6b2f0af27ee0e3e60391bf4295958dfb26aa0944c",
+    "retrieved_at": "2026-10-23T11:14:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10505/26491": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10505/26491",
+    "sha256": "315a49418c67a74e3f6556c47702df579a42e61c43e163bf01c5453fb64908b6",
+    "retrieved_at": "2026-10-23T11:14:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10507/26617": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10507/26617",
+    "sha256": "14f4d83f64c770e5dfd261c490f95ce68b40a39128fd1a2e0a2260559e8a9ee1",
+    "retrieved_at": "2026-10-23T11:14:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10507/26618": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10507/26618",
+    "sha256": "56fc9f9f4c65233e1014b8ac2e81c355084565cb6f2dbb4bde49fb35a67d1df2",
+    "retrieved_at": "2026-10-23T11:14:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10507/26619": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10507/26619",
+    "sha256": "597075ec9c159f7019697a46c5b9f6c7998bc0a1a751bc3ce8c48ff0a26fe6ad",
+    "retrieved_at": "2026-10-23T11:14:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10507/26620": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10507/26620",
+    "sha256": "983d1203210415f007a970410ce8cb29489ce14f75e1f772bf6b24096e8e9c7d",
+    "retrieved_at": "2026-10-23T11:14:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10509/26436": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10509/26436",
+    "sha256": "0d513aadbeb4f92f5be0d0d7c1ec095b38d33f6dc6d3286ed335dafb1c37ce6b",
+    "retrieved_at": "2026-10-23T11:14:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10509/26437": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10509/26437",
+    "sha256": "b049d7aa096a1ae6a6f683a0d52ec7a3f8ae6766c4108314a3226526a250ac7f",
+    "retrieved_at": "2026-10-23T11:14:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10509/26439": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10509/26439",
+    "sha256": "5e9f21c98e4d451206b4122c9eb499433a5ae8e554431674976cef87b67e1e4e",
+    "retrieved_at": "2026-10-23T11:14:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10509/26440": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10509/26440",
+    "sha256": "1f80bce1f695a75e397b33c84f68efc692534c6849fb9a9cce092ec88ddd80fd",
+    "retrieved_at": "2026-10-23T11:14:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10509/26441": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10509/26441",
+    "sha256": "1baf1f18cb26d9ca7ff8931884b7da04ff591de18dd8c135649264161267eb3e",
+    "retrieved_at": "2026-10-23T11:14:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10512/26734": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10512/26734",
+    "sha256": "abcb362c7f0fdef3932564ed046e65597ea61e6fc09c4911bf555589a758798c",
+    "retrieved_at": "2026-10-23T11:14:28Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10512/26737": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10512/26737",
+    "sha256": "4e91aa44fbc0a45b7d5358df3f7930396f9acd8aea469c1c1d7242ccc00b99a0",
+    "retrieved_at": "2026-10-23T11:14:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10512/26758": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10512/26758",
+    "sha256": "b1466d77dfba5395e4a0ff51cd8899880baa2bde23df7ecef4f69ab66bcf8907",
+    "retrieved_at": "2026-10-23T11:14:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10512/26759": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10512/26759",
+    "sha256": "0a3bd33895ec2c53677ccfeeef748d48587662fba4bcf34b051d7c0b3dd3885e",
+    "retrieved_at": "2026-10-23T11:14:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10837/26534": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10837/26534",
+    "sha256": "87a5ba103cc287a99e041f4e27dbcd8e3d922c011faad2391c0d7d487aecde75",
+    "retrieved_at": "2026-10-23T11:14:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10837/26535": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10837/26535",
+    "sha256": "8765605a937174ebdbf6d6af7e082953cb63bc9e82e6930e7b8cf476f5a82205",
+    "retrieved_at": "2026-10-23T11:14:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10837/26536": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10837/26536",
+    "sha256": "50322971cb4d005cf046cb5685ae1ce901f1e651d664858a960daaf4a19b21ec",
+    "retrieved_at": "2026-10-23T11:14:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10838/26538": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10838/26538",
+    "sha256": "ea0e883bdbab3f408b251591384a1bc28d5bec972b7996564bee9328697d1aff",
+    "retrieved_at": "2026-10-23T11:14:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10838/26539": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10838/26539",
+    "sha256": "8e24c13bbe515dc7e0227f73a0c7fbee69b0049be90efe9690dcee189491f019",
+    "retrieved_at": "2026-10-23T11:14:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10838/26542": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10838/26542",
+    "sha256": "38ef49a61d498377e1a4c9dbfee9204725ea8729645586b28253204879aa1703",
+    "retrieved_at": "2026-10-23T11:14:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10838/26544": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10838/26544",
+    "sha256": "8828da72ceb6b5204eac9fd4925ab853be5e917bf9b5191190bcd35584ba8e74",
+    "retrieved_at": "2026-10-23T11:14:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10839/26545": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10839/26545",
+    "sha256": "9b6c3c72843140bc20a8dfd0cfd6703278b8d8189594bebe36777bfeef398160",
+    "retrieved_at": "2026-10-23T11:14:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10839/26546": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10839/26546",
+    "sha256": "566a278bd4dd60ccab5d55beeed42b8f3d4e44c810f9ca3db05a978338747f1a",
+    "retrieved_at": "2026-10-23T11:14:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10839/26547": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10839/26547",
+    "sha256": "c6d8b37ec30a2a1d8f16a91f72bc3542f8424744b7155705d9f9e28760004678",
+    "retrieved_at": "2026-10-23T11:14:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10513/26787": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10513/26787",
+    "sha256": "cc1194468987c455740c506a477da92f4c460a37cc9fbb21af0454327ee42674",
+    "retrieved_at": "2026-10-23T11:14:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10513/26788": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10513/26788",
+    "sha256": "8d61d6091869e9ace7ba3fd89a81cd370e2b51ad9acfe439cd83bef4bcae4d1f",
+    "retrieved_at": "2026-10-23T11:14:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10513/26789": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10513/26789",
+    "sha256": "45e9c58f4f28d8c696f0527a7409ac8054a467da643f4f58c240d4178d9c9080",
+    "retrieved_at": "2026-10-23T11:14:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10513/26790": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10513/26790",
+    "sha256": "774a7be299c1dd9f9f0a2967e5c9e82d9dae5ecf57c51cccd32fb28f0b4d1450",
+    "retrieved_at": "2026-10-23T11:14:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10513/26791": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10513/26791",
+    "sha256": "c3378eb0e684f3c4d999726c7218d75824180364e1da3fc26f65948b32aae279",
+    "retrieved_at": "2026-10-23T11:14:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10513/26792": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10513/26792",
+    "sha256": "3e49ca1aab69625b489eb5d8f3e2d68072283adb02ba9eb43172a3f5b755081e",
+    "retrieved_at": "2026-10-23T11:14:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26638": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26638",
+    "sha256": "c48d4188bae652b0aee085daef9881d24848218705bf907e0963c6e6348e573c",
+    "retrieved_at": "2026-10-23T11:14:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26639": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26639",
+    "sha256": "80baaf193707f6f33ccd4b04798e3ad58723e2745654aa82d6639605ab086cdf",
+    "retrieved_at": "2026-10-23T11:14:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26640": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26640",
+    "sha256": "a8964463697e5b86bfe05739a098f55b98a295ba3bdc8838fbcc95bdb1a5b5af",
+    "retrieved_at": "2026-10-23T11:14:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26641": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26641",
+    "sha256": "e66c9f6f9bf4099e146cdc141a33f9e1f91239052463a0ecd78103b11478be71",
+    "retrieved_at": "2026-10-23T11:14:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26642": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26642",
+    "sha256": "12f40424f4190763b58023c18cfa88acfe89b8bbc9fa8af76b8c19b97dd18ab2",
+    "retrieved_at": "2026-10-23T11:14:57Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26643": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26643",
+    "sha256": "7f3b7130262a3cb9f81b8e93608aef72209ffd9563f13ab54045ec87a5f0baf2",
+    "retrieved_at": "2026-10-23T11:14:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26644": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26644",
+    "sha256": "46508b4345d37a3b8d3fdfb65e3a0d54b6f441a82368f92f3b1db4324d9f4f67",
+    "retrieved_at": "2026-10-23T11:15:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26648": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26648",
+    "sha256": "069846f60bc2249a1408f66dcc9c4d2118129c8b8f6acde0f0109a5d24bc548e",
+    "retrieved_at": "2026-10-23T11:15:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26650": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26650",
+    "sha256": "7b2154cfd0aa4890b09b9b4ec576f562d355ea0956310547f2cca3b924654350",
+    "retrieved_at": "2026-10-23T11:15:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10514/26713": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10514/26713",
+    "sha256": "125e2e0953db1171b71b00b7a9587574a8ccbbf27f550d5d33818affc0800202",
+    "retrieved_at": "2026-10-23T11:15:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10515/26651": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10515/26651",
+    "sha256": "75af08db58554768641c7a3f0184a5684ea6f10ccc370f37b8f690329add17ed",
+    "retrieved_at": "2026-10-23T11:15:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10515/26652": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10515/26652",
+    "sha256": "ddec1d6f0c8cc59664658a19600a9633496defde5b13945f8771a0658cac96a6",
+    "retrieved_at": "2026-10-23T11:15:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10515/26653": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10515/26653",
+    "sha256": "7a711a4dfed342d9a4bb6e772b275bf4abd6cac627148844dbc0f023739dcd50",
+    "retrieved_at": "2026-10-23T11:15:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10515/26654": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10515/26654",
+    "sha256": "d3f8f6c85054b8f60ab5b69cb260bd55d57b15d87ddeafeef30d1d0e043d8677",
+    "retrieved_at": "2026-10-23T11:15:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10515/26718": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10515/26718",
+    "sha256": "2dcbfd8490e5495ed515a9e07fcb08e3f0099adbfa47441176973ace504179d7",
+    "retrieved_at": "2026-10-23T11:15:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10519/26427": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10519/26427",
+    "sha256": "c7c7ce916684af06ce5e640e2b0d3b7a5a0e5693a0b72fd92cbd5acad2ddda42",
+    "retrieved_at": "2026-10-23T11:15:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10519/26428": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10519/26428",
+    "sha256": "8ebad3ce0199cb4452aee9c7e393dbba93b757b5111a9a8fa27bb2218abeeb5a",
+    "retrieved_at": "2026-10-23T11:15:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10519/26429": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10519/26429",
+    "sha256": "2767d94bb510606836549f5033b07c2fe87515b31fc20204d3aa8f69c3f2e91e",
+    "retrieved_at": "2026-10-23T11:15:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10520/26421": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10520/26421",
+    "sha256": "86595a6b867be8bddf9b23174062b4561e413f1b70965820a8fed16cf163a018",
+    "retrieved_at": "2026-10-23T11:15:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10520/26422": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10520/26422",
+    "sha256": "2f6305f3c294c186e6e85d3f2058bd1171edd987998b919b264316f3efcf5836",
+    "retrieved_at": "2026-10-23T11:15:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10520/26424": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10520/26424",
+    "sha256": "2867f5c6076fcdf42c85a8f3ef4a4c8400d22a414894c5bb8bd084dc0105a408",
+    "retrieved_at": "2026-10-23T11:15:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10520/26425": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10520/26425",
+    "sha256": "178fb253d479077279f2c9279ac0c32f5bdbc0e7f401350a609aeba0f05d56a2",
+    "retrieved_at": "2026-10-23T11:15:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10524/26762": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10524/26762",
+    "sha256": "53ceb51711bb2cf76b2c5d316c2f971d6d4df673dbe6d831804ad42fab865e5d",
+    "retrieved_at": "2026-10-23T11:15:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10524/26763": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10524/26763",
+    "sha256": "4433e6cfad2503d54de388591f2d941b4f0cb6c84dcb6e419b174f3520d14e77",
+    "retrieved_at": "2026-10-23T11:15:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10526/26430": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10526/26430",
+    "sha256": "0a0c3ffe37277d40deb1d4b46ed3d028398e83418623adb29fceb70398eecb14",
+    "retrieved_at": "2026-10-23T11:15:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10526/26431": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10526/26431",
+    "sha256": "a3734e775517b7c8467c3c67e74c6adfc45366296e875facabe3a450bb12a1b8",
+    "retrieved_at": "2026-10-23T11:15:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10526/26432": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10526/26432",
+    "sha256": "c5f0fbca8363961a719646e56ff42582bf3c77cf9aed54dc931e7e3446151bf7",
+    "retrieved_at": "2026-10-23T11:15:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10526/26433": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10526/26433",
+    "sha256": "f2312bb6da4984684ddbb736ceb9387a65da0fc25bd5ccfa7b5846551208ff65",
+    "retrieved_at": "2026-10-23T11:15:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10527/26777": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10527/26777",
+    "sha256": "d154f2482b61ba858297395990c0eb82489c25dc8c00bf8e6468f33c8a17486f",
+    "retrieved_at": "2026-10-23T11:15:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10527/26778": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10527/26778",
+    "sha256": "00220b528e061425ea538bd65e179e583f3e39f4f8765d418646365db1c3a7e0",
+    "retrieved_at": "2026-10-23T11:15:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10527/26779": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10527/26779",
+    "sha256": "d6be3f10897b04ed8f99f11de9bd45bf3c8a4f4422f0094a05fc7ddb0f975c0c",
+    "retrieved_at": "2026-10-23T11:15:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10528/26780": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10528/26780",
+    "sha256": "4c0b5f442e8ae730e307de74d45b9e33e71453435d8074b111ed4747220f83b3",
+    "retrieved_at": "2026-10-23T11:15:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10528/26781": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10528/26781",
+    "sha256": "ee69e079ccbb52b03a18fa5e805bee02554c74dc354fceee92d9d54c0b660d59",
+    "retrieved_at": "2026-10-23T11:15:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10528/26782": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10528/26782",
+    "sha256": "dcd0a08e58bd674c487ec4d217601fc82efc1727944cc64bfe3bb85850b80664",
+    "retrieved_at": "2026-10-23T11:15:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10529/26783": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10529/26783",
+    "sha256": "10141deb69d26beb02e71b9daafed076592e80c8f818b77213992906eb24a56d",
+    "retrieved_at": "2026-10-23T11:15:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10529/26784": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10529/26784",
+    "sha256": "16f7ff8a41e4a46094e803247e1aa5216daba4337fc0f0501eb3d467c95c3c6c",
+    "retrieved_at": "2026-10-23T11:15:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26655": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26655",
+    "sha256": "bdddeba4d68259f8f996f8f03a4f325be86daa384f02f19b9d469b53f37490f1",
+    "retrieved_at": "2026-10-23T11:15:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26656": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26656",
+    "sha256": "eeafcc860a71dd0a030604c0ebedc9810ac9507064b6f661cebe626488ee7e01",
+    "retrieved_at": "2026-10-23T11:15:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26657": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26657",
+    "sha256": "4a59b1738a2dfe324c986a82fd68571c39ad214684e0cd601554838fc938ab2e",
+    "retrieved_at": "2026-10-23T11:15:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26658": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26658",
+    "sha256": "89f33f7ae9dfacd0f8857a6f64ed33b6d2464ef5308bbde200a807adaa3abafd",
+    "retrieved_at": "2026-10-23T11:15:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26659": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26659",
+    "sha256": "a12fd5f3686904cf8c62f0da62ece861c5b9cff1fffb85413d701bf20bbd656d",
+    "retrieved_at": "2026-10-23T11:15:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26660": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26660",
+    "sha256": "8d24ac70e63136fec6221b11b333a17c2b82f427ff680fa9e9099f27f3182a53",
+    "retrieved_at": "2026-10-23T11:15:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26661": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26661",
+    "sha256": "1c441f5e5568724c8023f8fd8144eb968e3b1e8d47ae871c1f4757d94ffc2c4c",
+    "retrieved_at": "2026-10-23T11:15:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26663": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26663",
+    "sha256": "c5c9a3820f91c6d155c0c208a99856a9d525cee08e7b6bb22b660856629b8a52",
+    "retrieved_at": "2026-10-23T11:15:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26664": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26664",
+    "sha256": "aadc01bfbfd94a5d5709c3516f05a3605a99d17e86db84904cd200d2d40d543e",
+    "retrieved_at": "2026-10-23T11:15:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26667": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26667",
+    "sha256": "54af1402cc8cd0120a0334c55c7d4db788afb06f34536123711a2129085eb3a8",
+    "retrieved_at": "2026-10-23T11:15:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26669": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26669",
+    "sha256": "80c6917b96b3ce749f3711451ee3e51ff69486eb5d9c147b3913b9a4009fe21f",
+    "retrieved_at": "2026-10-23T11:15:52Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26670": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26670",
+    "sha256": "f8821685fb0bdaf528615e94735e02e91297b65f10b98f5ec0a9d612a0982e02",
+    "retrieved_at": "2026-10-23T11:15:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26671": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26671",
+    "sha256": "224c85eeb7f4176f806de6c21bcbf26ea1432afc24c14ec570b1cab54e2b96cf",
+    "retrieved_at": "2026-10-23T11:15:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10533/26672": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10533/26672",
+    "sha256": "bacb4cecc0836e41b78dd2b264baf2a20aa80a6e00ae2a76aa6ccb0817536da0",
+    "retrieved_at": "2026-10-23T11:15:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10631/25834": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10631/25834",
+    "sha256": "42bf30742cd80823d6e92755376df87fdcd2563fb3336de3affc4fdd9e151ed8",
+    "retrieved_at": "2026-10-23T11:15:57Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10631/26152": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10631/26152",
+    "sha256": "dd237f60fb235abc263a077899896b6fee0e526364bc5eb2ba3f9860ce6c7602",
+    "retrieved_at": "2026-10-23T11:15:58Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10579/26229": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10579/26229",
+    "sha256": "cfc4e4663d1b5a87ad8719b8a059617a6bce136eb55ecb026e525348a28514b8",
+    "retrieved_at": "2026-10-23T11:15:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10580/25885": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10580/25885",
+    "sha256": "09f88352fdc8d9eb2a7082869a25a98aff0b4e994f09a1314d0c13a38a0411c6",
+    "retrieved_at": "2026-10-23T11:16:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10580/25973": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10580/25973",
+    "sha256": "f2e1f3f1e26eecaa9b903fd9f13e49fb7c5ac4a73a46e2bb5663742ff54a31f8",
+    "retrieved_at": "2026-10-23T11:16:02Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10581/26194": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10581/26194",
+    "sha256": "2c2762f7d75eae48975fe847ecba0d8f4d56a904e0b4e2f4fed688f4208a340f",
+    "retrieved_at": "2026-10-23T11:16:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10582/26033": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10582/26033",
+    "sha256": "216ff7dd33a2937d94f00cbd645edf40d37166239db02298dd6e181003dc250a",
+    "retrieved_at": "2026-10-23T11:16:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10635/25853": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10635/25853",
+    "sha256": "828186c554736142924728a5061bc02e807f18c4dbd5be6a3abcf879b47bf6f8",
+    "retrieved_at": "2026-10-23T11:16:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10635/26324": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10635/26324",
+    "sha256": "0634e5f536075fedca24605ba0fe341f8a3909906db5f298a6c207f05b8a8328",
+    "retrieved_at": "2026-10-23T11:16:07Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10377/25895": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10377/25895",
+    "sha256": "bb22083a0f614dacd0bb378e16f25b64b09810007262e9264df4d3cfbe92453e",
+    "retrieved_at": "2026-10-23T11:16:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10377/26205": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10377/26205",
+    "sha256": "aa53b9eaa81c56c7fdf67398c96b967cfe90428ae0af049dd2d7d4bd1ba5622f",
+    "retrieved_at": "2026-10-23T11:16:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10377/26334": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10377/26334",
+    "sha256": "48d4b60f0d2af63a432fe0edbb8b325be5fb7991a14a708cf8d0628332178b4a",
+    "retrieved_at": "2026-10-23T11:16:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10636/25854": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10636/25854",
+    "sha256": "42b79e3b7d40cdd352dc3316ddf8e1fc801b355e13d5638c723312fc22a13540",
+    "retrieved_at": "2026-10-23T11:16:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10636/26060": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10636/26060",
+    "sha256": "0fb094dce4d10dbd76739397a6e53a8173854f885e53331c3d33863197d6830f",
+    "retrieved_at": "2026-10-23T11:16:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10636/26168": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10636/26168",
+    "sha256": "94a010179c915d1728e715b84f4fd685894f07cc3b4158024c2afe2345c11e76",
+    "retrieved_at": "2026-10-23T11:16:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10636/26182": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10636/26182",
+    "sha256": "386c85e96d6244da5b9313bb6ff886c160acacba0117603856ea3911cb3d1241",
+    "retrieved_at": "2026-10-23T11:16:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10640/25771": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10640/25771",
+    "sha256": "dcdbcde2a836013aa4586d374fb728929adece75d12b3a7ade9f57144557735c",
+    "retrieved_at": "2026-10-23T11:16:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10640/25863": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10640/25863",
+    "sha256": "cc6854191ce60bd61432edeafb3284215cf205f75fc43e6a14f1110025eb4e68",
+    "retrieved_at": "2026-10-23T11:16:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10642/25916": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10642/25916",
+    "sha256": "b5e04862df4f94b1b28ffcdcb04ce9f3ed9dcaa1c19a56ae7adbffb151fb9eee",
+    "retrieved_at": "2026-10-23T11:16:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10642/26147": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10642/26147",
+    "sha256": "6bf18af9e5cbfa274950bfe22987e0786e63790158ddeaf487d360d6a1f28bf4",
+    "retrieved_at": "2026-10-23T11:16:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10691/25750": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10691/25750",
+    "sha256": "889a7f7c51b9e9244b9cc1999aed4c55cf694aa3623cb5e3d619670f93786d67",
+    "retrieved_at": "2026-10-23T11:16:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10691/25918": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10691/25918",
+    "sha256": "a91d7bda5232a72a8cb30895fec493aa22cc3247bc9df94e046f78317091c76b",
+    "retrieved_at": "2026-10-23T11:16:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10692/25710": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10692/25710",
+    "sha256": "0722e5a5b15bf30569a061c5a6b5aeffc909da7f670223ce9ac1afc9e774e1e1",
+    "retrieved_at": "2026-10-23T11:16:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10692/26337": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10692/26337",
+    "sha256": "5eadb1c4fe07606b2f7dc99695e9f75defbf0144c1c8f9d0b61e0e6241fbe918",
+    "retrieved_at": "2026-10-23T11:16:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10693/25810": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10693/25810",
+    "sha256": "2e6100827617d429affbee809dd0714f4e83aa42e41cc297550ec27dbfda7fa4",
+    "retrieved_at": "2026-10-23T11:16:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10693/26217": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10693/26217",
+    "sha256": "187ad87939eb17607d70c3b284c8a33dd1fa5cbce2ae4150e04a7032b8b9c4c5",
+    "retrieved_at": "2026-10-23T11:16:28Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10694/25866": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10694/25866",
+    "sha256": "6227bc39a8fd1a537273472d856f34009ff091a3da59484130f75f08e5635fba",
+    "retrieved_at": "2026-10-23T11:16:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10694/25897": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10694/25897",
+    "sha256": "c9ab6917bc2bf3cd958b7d4b9375fb005d1c18527f60b8cb10e9b05cbed13862",
+    "retrieved_at": "2026-10-23T11:16:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10697/25995": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10697/25995",
+    "sha256": "aed44f59975e456d79a57034f8674c82e7f5f40ea27e06867ec7151fc215b15a",
+    "retrieved_at": "2026-10-23T11:16:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10697/26161": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10697/26161",
+    "sha256": "690bc83dc3704ef557b87eda2cd1efccf4e8eb52ea4b7f36df91fee328df575a",
+    "retrieved_at": "2026-10-23T11:16:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10584/25803": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10584/25803",
+    "sha256": "4a83c3aed110adf358eb80bb2005d27a04b94b5a0654dddaeac3a307910e00e9",
+    "retrieved_at": "2026-10-23T11:16:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10584/26213": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10584/26213",
+    "sha256": "1c4c235505fefde18613a266e3e636e4d7c91f915a3b9d7edcfd42911b8e85af",
+    "retrieved_at": "2026-10-23T11:16:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10685/25820": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10685/25820",
+    "sha256": "7daf509c19c8cc7982db11432f6e8321d7c3227c160e581f61b24cdd6d58f282",
+    "retrieved_at": "2026-10-23T11:16:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10686/25874": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10686/25874",
+    "sha256": "b5bf2ed2be72493fedad26413050aea820256ab800b6eaf7548b0a894881c8cb",
+    "retrieved_at": "2026-10-23T11:16:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10686/26264": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10686/26264",
+    "sha256": "8def3ffd26aa7dad4159e8dffb14f0303c3af45e664166265455819e092ead13",
+    "retrieved_at": "2026-10-23T11:16:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10687/26190": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10687/26190",
+    "sha256": "356978fd87bfba5a9e71441b29140fe3b9d8615d759357fc66716b995203c336",
+    "retrieved_at": "2026-10-23T11:16:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10687/26282": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10687/26282",
+    "sha256": "9b56572fc45827ea074f561a62ad49f93b6452612500683ccd01a64ac098e8ee",
+    "retrieved_at": "2026-10-23T11:16:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10545/26201": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10545/26201",
+    "sha256": "0398d132d8ca3d90eb4dce6fd00b1613c2d817c462242a63cbf27b7239c120e5",
+    "retrieved_at": "2026-10-23T11:16:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10546/25724": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10546/25724",
+    "sha256": "4d8305c1321e8d48eba9619702d00220af972795196ab98909b3a1e38dfe6274",
+    "retrieved_at": "2026-10-23T11:16:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10546/26073": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10546/26073",
+    "sha256": "8a2e79938f7b9b84a5fbe94fba40e4721771a095ccc7c3a45b186059ab91705c",
+    "retrieved_at": "2026-10-23T11:16:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10547/26198": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10547/26198",
+    "sha256": "c4b015ac2c08e67cd86ffbb4a91cb4468483a9a0e0fe3a54303dc3bbd95c10e1",
+    "retrieved_at": "2026-10-23T11:16:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10547/26207": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10547/26207",
+    "sha256": "8c72859e4b8408e8263a045b43d0f0c8173335b203ae11a52bef25e1adf30a8d",
+    "retrieved_at": "2026-10-23T11:16:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10750/26302": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10750/26302",
+    "sha256": "7b99489ffb130082f56f6da2130407a31bfd8f22295d9d1481389d5a7acd1981",
+    "retrieved_at": "2026-10-23T11:16:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10751/26151": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10751/26151",
+    "sha256": "9711d2e14b120596219be0829493bd452bee54388119b78dc9c5160281cae6fc",
+    "retrieved_at": "2026-10-23T11:16:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10646/25725": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10646/25725",
+    "sha256": "001fcba51a304e107f16b93a2eae4387f0b4147ce7c0e7d12dbedaeb7d05e547",
+    "retrieved_at": "2026-10-23T11:16:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10646/25889": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10646/25889",
+    "sha256": "84eeede8270ac9e10b51d38cd380ea0e192e339450ff19ab7b76b0fce2c90ace",
+    "retrieved_at": "2026-10-23T11:16:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10648/25989": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10648/25989",
+    "sha256": "8ee569d9b10104d127014af91d77f57188ae1faedcd0563fc1d8fc3919139ddd",
+    "retrieved_at": "2026-10-23T11:16:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10648/26088": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10648/26088",
+    "sha256": "e50397f40a86ade09ec145063dbc609bce596d9ecf9b4b195f37904f38233a0b",
+    "retrieved_at": "2026-10-23T11:16:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10648/26263": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10648/26263",
+    "sha256": "3bfd49970686d8964f31467d1a837f1672113bb180f262176c58623b35fe0083",
+    "retrieved_at": "2026-10-23T11:16:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10649/26014": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10649/26014",
+    "sha256": "22ca3ed601b8936e0506bb7e9fa3fb1bce35248dc0002f23fe84bc0517cad12e",
+    "retrieved_at": "2026-10-23T11:16:58Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10650/26087": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10650/26087",
+    "sha256": "d0a07b9e6baca2352de8575425605e5f7f439988abd7cd9f85b196fc06413936",
+    "retrieved_at": "2026-10-23T11:16:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10650/26115": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10650/26115",
+    "sha256": "6a0efae36af4fde8845ea7d18cb75bd9c8730c80d3cd47e98073d5fbf0311a7f",
+    "retrieved_at": "2026-10-23T11:17:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10650/26163": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10650/26163",
+    "sha256": "b31ea4864c64eaf742930f99dff6b6e43470e74255ad895ec90848ecb765196d",
+    "retrieved_at": "2026-10-23T11:17:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10650/26299": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10650/26299",
+    "sha256": "06ed00d4608f5a83ac3f0e07274b308aaf746adbf3a15584b0387bfc48a12f2c",
+    "retrieved_at": "2026-10-23T11:17:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10465/26715": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10465/26715",
+    "sha256": "8ac71d47333d5441f3cc31639818117b8e754a868329e85392d11660cc3efdc7",
+    "retrieved_at": "2026-10-23T11:17:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10465/26716": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10465/26716",
+    "sha256": "0940c101f15fcd4b3cd1bcd0a3da8d99d8d6dbb01cb391dac56cd8300c02968c",
+    "retrieved_at": "2026-10-23T11:17:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10466/26717": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10466/26717",
+    "sha256": "867fca4ed949e0d0458a07bfa327a9cdb6956550de10f88c8888fa208e7189ef",
+    "retrieved_at": "2026-10-23T11:17:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10467/26721": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10467/26721",
+    "sha256": "92a0b113e6a74a68715cfa969fe3be1becbd9e3430d44eedf8ed3a6ecf5b4fe5",
+    "retrieved_at": "2026-10-23T11:17:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10467/26722": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10467/26722",
+    "sha256": "8ca1593e569128851d8f6a5fdb693a201aa46c2896897598d656e5dcca242cd8",
+    "retrieved_at": "2026-10-23T11:17:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10825/25640": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10825/25640",
+    "sha256": "8b627ca6e30c16e28f4b1b91e275615c9623e096b4e5ba61d4da51b5f6b1f3e8",
+    "retrieved_at": "2026-10-23T11:17:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10825/25641": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10825/25641",
+    "sha256": "3745d1c6e2c105e16a5d1c625513dcc06038d3424249c5803006743b5446408d",
+    "retrieved_at": "2026-10-23T11:17:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10826/25642": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10826/25642",
+    "sha256": "d055c5c459416585b12eee2e63155c4d15166a7a4fba662a409bb905bb305f3a",
+    "retrieved_at": "2026-10-23T11:17:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10826/25643": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10826/25643",
+    "sha256": "31d9838f2ace21f84ad00f9eaaae74d4be1d87f831bc41192bc46c2e0521b9fd",
+    "retrieved_at": "2026-10-23T11:17:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10827/25644": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10827/25644",
+    "sha256": "beffad20a244dac39fbfee3a5d02cc058fd17f192a78e23163cf5d1ee0877ece",
+    "retrieved_at": "2026-10-23T11:17:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10827/25645": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10827/25645",
+    "sha256": "22fe0db22ed98c7f021cb358d11fac4a22eb36256b8472f26535411ca232dafb",
+    "retrieved_at": "2026-10-23T11:17:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10405/25817": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10405/25817",
+    "sha256": "ece70dbd2712646c5991914beeace4df78f072b0d6c410d968a7e46f29012215",
+    "retrieved_at": "2026-10-23T11:17:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10651/25761": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10651/25761",
+    "sha256": "a756cd5915fd394b40ff7c3586b38013416808c22f912a474881ad9b67caf115",
+    "retrieved_at": "2026-10-23T11:17:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10651/25873": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10651/25873",
+    "sha256": "3946cb806ba3c98e8f5b15c445943b74042290d35498e8c947fa278b3b137819",
+    "retrieved_at": "2026-10-23T11:17:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10651/25998": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10651/25998",
+    "sha256": "619772037649d96458f3d12949050fa08958ec937ea88a0e3216f03613027ad0",
+    "retrieved_at": "2026-10-23T11:17:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10651/26016": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10651/26016",
+    "sha256": "f070275bfdd09637c3e5f7d0ba02867d9ecb72160746802744e99ca7ccde04eb",
+    "retrieved_at": "2026-10-23T11:17:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10651/26028": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10651/26028",
+    "sha256": "f87babe6e8065d3141801e72d8adac608a5a94235156ab66500cb9568bc08bcb",
+    "retrieved_at": "2026-10-23T11:17:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10384/25891": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10384/25891",
+    "sha256": "e65f20db53beba3c396000436af90de8df7f601d84d86e61f1b5fc70a02c00b8",
+    "retrieved_at": "2026-10-23T11:17:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10384/25927": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10384/25927",
+    "sha256": "6c174f661ca249eb30944bbe6bf3e8a3644772d7ab78add101410b04a915d742",
+    "retrieved_at": "2026-10-23T11:17:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10384/26099": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10384/26099",
+    "sha256": "749e6a6223a0033cd3c05f2c416ab93f0d2760b78bc427b7f30a1505e1ceb560",
+    "retrieved_at": "2026-10-23T11:17:28Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10384/26268": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10384/26268",
+    "sha256": "37f389d95caee871629a958be2f49da185c2cea12680c6934d97dcbf11162552",
+    "retrieved_at": "2026-10-23T11:17:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10384/26284": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10384/26284",
+    "sha256": "e4ded8051a90b3b347cbb7a45a92a2f0d1a7c6b1d482fd4784213a5fdf2c6610",
+    "retrieved_at": "2026-10-23T11:17:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10705/26053": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10705/26053",
+    "sha256": "bd09eb50b66473e5d9ddb390ec495de286106e5b2dc88d4756f61e4f376cda29",
+    "retrieved_at": "2026-10-23T11:17:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10707/26285": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10707/26285",
+    "sha256": "cb2c9a2bbb64639e214aaf47ca99b2492c5bc512ac5c1abc2cb063337da51a29",
+    "retrieved_at": "2026-10-23T11:17:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10548/25798": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10548/25798",
+    "sha256": "179ff5542439f1190db1563753dac91bd13941f37f2d44c71c9834cdb7682a8d",
+    "retrieved_at": "2026-10-23T11:17:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10652/25693": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10652/25693",
+    "sha256": "645b7f0679367a44f088b7cfa169d78c32ec0bbe50f45a2b799d9a8ca589a5d3",
+    "retrieved_at": "2026-10-23T11:17:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10652/25738": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10652/25738",
+    "sha256": "a65e8127d14c0c3b49f7298df278520061ae9f2b80857d099a230822d4ea541a",
+    "retrieved_at": "2026-10-23T11:17:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10652/25739": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10652/25739",
+    "sha256": "499f069929e6be5326ca863fe376091d04f2d09b410f04086774a436ca13103b",
+    "retrieved_at": "2026-10-23T11:17:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10652/25778": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10652/25778",
+    "sha256": "39b0959d095db84bf346ca4504aaa6d1d6edd355e7cb5a2bf0caee62dc1556b5",
+    "retrieved_at": "2026-10-23T11:17:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10708/25692": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10708/25692",
+    "sha256": "ff339b2d6f7d9cf94280390d3b105d001884825621d853473ade3ad02258efe2",
+    "retrieved_at": "2026-10-23T11:17:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10708/26134": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10708/26134",
+    "sha256": "6562afd805919e2d58002663fa7c5b8ca27dc450843f08bf68ba70f91e094972",
+    "retrieved_at": "2026-10-23T11:17:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10709/25700": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10709/25700",
+    "sha256": "b2ae442052263cc6e5024ade0c45f46b052052f220683e5bf07d13f8687c12b2",
+    "retrieved_at": "2026-10-23T11:17:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10709/26225": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10709/26225",
+    "sha256": "32be26716e43831f8a61010ee0df2de129518ee9d6eb8c2191f059bb9e828049",
+    "retrieved_at": "2026-10-23T11:17:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10711/26080": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10711/26080",
+    "sha256": "b009aa9415e05f6331c3301c7809ac4c504e4f0e72b2fbb06714b1ff2e15b44b",
+    "retrieved_at": "2026-10-23T11:17:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10711/26167": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10711/26167",
+    "sha256": "acf8aaf6adce8e1ad1c1f022408b8a0ca79f4e926a48e520f7bc08509658b372",
+    "retrieved_at": "2026-10-23T11:17:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10711/26265": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10711/26265",
+    "sha256": "c7d4eb20810848512b37c158d9e57e5334d9b25cca32b1e3d3815dbd25a682c4",
+    "retrieved_at": "2026-10-23T11:17:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10711/26277": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10711/26277",
+    "sha256": "982fb5befa38c9c4710bb365a4167f9d0179686b152784c7b0c0f40fd594af9b",
+    "retrieved_at": "2026-10-23T11:17:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10712/26082": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10712/26082",
+    "sha256": "9687c6e2d0ace3e03cc5b7bf1daa1da8c6857a4d324131c8ef4040560c1e7b1f",
+    "retrieved_at": "2026-10-23T11:17:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10712/26221": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10712/26221",
+    "sha256": "1ce12dcb97c1ddfe0f9d5f5d3f0a73a34141196aaf07d7ed7e7143ab0b5b7ec6",
+    "retrieved_at": "2026-10-23T11:17:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10713/25882": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10713/25882",
+    "sha256": "5965f93993b3607d63f5f4c58ff64eddd548cef2226e475b80dcbeb0bd359cc1",
+    "retrieved_at": "2026-10-23T11:17:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10713/26070": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10713/26070",
+    "sha256": "e36d55a0b6ef4f61bdf7ea78c3c2b6a939409648fe9c0b5f9ad2ecd485bebb48",
+    "retrieved_at": "2026-10-23T11:17:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10871/25822": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10871/25822",
+    "sha256": "0c8e412ce3d8e41c10da4ceb5c256d74dd17d9b897e8a479b1fd0a2e896927ff",
+    "retrieved_at": "2026-10-23T11:17:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10871/25876": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10871/25876",
+    "sha256": "37dfaee64aa8731a4fecedcfba49f0f9e27e070493388ecea4e5a51cf578b2ea",
+    "retrieved_at": "2026-10-23T11:17:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10587/25801": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10587/25801",
+    "sha256": "3e5b8b17af026e214dfb0ec0dd4c801878db505b898f9217e0be6b07e0950542",
+    "retrieved_at": "2026-10-23T11:17:58Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10587/25880": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10587/25880",
+    "sha256": "ab229b4276da2858eb17322632fe071ed9d609581a5f2c1a96667f3f1b006233",
+    "retrieved_at": "2026-10-23T11:17:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10589/26174": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10589/26174",
+    "sha256": "601ed4e88bb47565063fb3714a9536ecac40417adfc79ae281591997f0739c3e",
+    "retrieved_at": "2026-10-23T11:18:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10589/26184": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10589/26184",
+    "sha256": "83369c4aec687f7a7f9627041261fe8495117a4ab3586bad56f7e10c5e8ef70f",
+    "retrieved_at": "2026-10-23T11:18:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10590/25707": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10590/25707",
+    "sha256": "8dc08188c91109f52b4974aca8779620004df62718e9f81f158304a5376ed6c0",
+    "retrieved_at": "2026-10-23T11:18:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10714/26081": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10714/26081",
+    "sha256": "06ff6a85a39f2d9408a22b6e104aad47018dd4b156f169319a8f01706bde7f1a",
+    "retrieved_at": "2026-10-23T11:18:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10714/26228": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10714/26228",
+    "sha256": "8dfb7db31c48bb3f3f109af8e19599cdab62b5d561481e82955f611a443e667c",
+    "retrieved_at": "2026-10-23T11:18:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10653/26209": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10653/26209",
+    "sha256": "f39c113c384c3d93e57b17d370664df1931fd95debbc26613c4bc6429d699e9b",
+    "retrieved_at": "2026-10-23T11:18:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10653/26235": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10653/26235",
+    "sha256": "dbf1c2516e93a70a87c9ea1a1cda97f5b354213cd2aed7b5ee687e10d7e3623f",
+    "retrieved_at": "2026-10-23T11:18:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10653/26281": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10653/26281",
+    "sha256": "ff39345dffe1d5ddf64f6c2e4e2312a9bfd06bc575c908de7df925090c39378b",
+    "retrieved_at": "2026-10-23T11:18:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10653/26335": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10653/26335",
+    "sha256": "9f541e999fd2b86f6c93ebde245403a78fa4639c4edafa72d3d062260b9adeea",
+    "retrieved_at": "2026-10-23T11:18:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10653/26349": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10653/26349",
+    "sha256": "83969e4690804c9a4148b3c0422f1115d9e7b9313a782a393a026e07d340b3b5",
+    "retrieved_at": "2026-10-23T11:18:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10653/26414": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10653/26414",
+    "sha256": "a2ebbee7a706e7fe14eb96c4e3e664ab758d07adbe5b567650a641edf0d90ac2",
+    "retrieved_at": "2026-10-23T11:18:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10781/25554": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10781/25554",
+    "sha256": "85c3d15d9699a69d0fcf17fd541929de3bd7e915096a54f2b425dcfec54da07c",
+    "retrieved_at": "2026-10-23T11:18:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10781/25555": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10781/25555",
+    "sha256": "2da39ee68d69bac06afaf46e119ece0128e9126d13831e79544fd184d86a5e3b",
+    "retrieved_at": "2026-10-23T11:18:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10782/25556": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10782/25556",
+    "sha256": "d5407f7a162ebaf4a125e33ce04614e4ae80a1d43b01a53c0bdcc7f775a6bfc9",
+    "retrieved_at": "2026-10-23T11:18:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10784/25560": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10784/25560",
+    "sha256": "10b6d067efda2cb6f625c608c58f0d4f013f28b52865d40bfa80404d1ca37d9a",
+    "retrieved_at": "2026-10-23T11:18:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10785/25562": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10785/25562",
+    "sha256": "7d152f306e133bc43e387dbd41f774a9fd8d0efd178119fb096992d64cfa4715",
+    "retrieved_at": "2026-10-23T11:18:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10786/25564": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10786/25564",
+    "sha256": "0c6d3b95ca6c828094c72026d0e0f4004966b9009e3d17a42ce43aea97a08416",
+    "retrieved_at": "2026-10-23T11:18:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10787/25567": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10787/25567",
+    "sha256": "7244e1106b105b5cda8839694015f245680c8844dd06780832aaf6660c5d8b6d",
+    "retrieved_at": "2026-10-23T11:18:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10788/25569": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10788/25569",
+    "sha256": "ec004c083b62b40b45150177a5c82c6e0ec98e0540de2926d9ef3a558d1fa4d6",
+    "retrieved_at": "2026-10-23T11:18:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10790/25573": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10790/25573",
+    "sha256": "aee143123b96cd0479e8f57703de97f49700d72974f5508dd2a3a554186b2791",
+    "retrieved_at": "2026-10-23T11:18:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10791/25574": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10791/25574",
+    "sha256": "9899d59929395f790cd3704500382fb8d153680b4b8f4cf58a19d88f53473f29",
+    "retrieved_at": "2026-10-23T11:18:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10794/25783": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10794/25783",
+    "sha256": "b1ac116bab62c255f061a1acbf42f41335d7724d7ae8452161d924bb7b15875a",
+    "retrieved_at": "2026-10-23T11:18:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10796/25583": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10796/25583",
+    "sha256": "267c8a8b9c1eb8d5e2174b2cb3f76ec3953fe88e99d09d509a50af25d50623c9",
+    "retrieved_at": "2026-10-23T11:18:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10799/25589": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10799/25589",
+    "sha256": "270e5aa793f01168aac2aff99ce43e2599ca711b9e54a99d8e071e7558c9c135",
+    "retrieved_at": "2026-10-23T11:18:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10801/25592": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10801/25592",
+    "sha256": "d9ff4dce5413c7d867e9bbe777c93b10580e6a69fd39289ec25410cd5d081f34",
+    "retrieved_at": "2026-10-23T11:18:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10802/25595": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10802/25595",
+    "sha256": "b9000920a01a774f6de9c36b515067d10c91434476fde1bf1ecedfb7592bc5ee",
+    "retrieved_at": "2026-10-23T11:18:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10656/25868": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10656/25868",
+    "sha256": "6332dd72b02fb6effc8f2a729f3e3a4a233c781c2f5c40aab6694e1f83e00ef3",
+    "retrieved_at": "2026-10-23T11:18:32Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10656/26244": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10656/26244",
+    "sha256": "78fcd8f37e89e7930ce80bcd43ed8d2c1bd5dcf41f9c5fc39e29e5eb509bed25",
+    "retrieved_at": "2026-10-23T11:18:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10843/25900": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10843/25900",
+    "sha256": "2b7ea8c45db7fb0163f0c7f0a0d05c6db73e9bda93aff4a67efd37ee3dc428ab",
+    "retrieved_at": "2026-10-23T11:18:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10843/26340": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10843/26340",
+    "sha256": "d7f64813f6cd7010a7bfa86255c37abd2aa91797d4dfba3a0db0cf852a2aa6a2",
+    "retrieved_at": "2026-10-23T11:18:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10717/25833": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10717/25833",
+    "sha256": "68bed7f1ad1a3a3c589c4bb7e5d62e6f9021f8ac91e2be848f5cd467a2b0ddf0",
+    "retrieved_at": "2026-10-23T11:18:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10717/25972": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10717/25972",
+    "sha256": "5e937a058a1f69d32f19ee0df42947af7490006a4c14c56a10fa502ff461cb11",
+    "retrieved_at": "2026-10-23T11:18:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10592/26361": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10592/26361",
+    "sha256": "eaa585425f14326b6f5d6c9b63fd785b04d4173c9d74ab6d5a0841c032cb80f4",
+    "retrieved_at": "2026-10-23T11:18:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10739/26257": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10739/26257",
+    "sha256": "8902493a8f497d0b04469b7c01606523a8048f8411cda05fc769916e2dcb3257",
+    "retrieved_at": "2026-10-23T11:18:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10740/25708": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10740/25708",
+    "sha256": "0ce01adf539ea5698d110c9a9cdbe81fd6f0c69e4d22541851cc85a24e5eba2d",
+    "retrieved_at": "2026-10-23T11:18:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10661/25694": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10661/25694",
+    "sha256": "59d77e71a9aaaad76fe92ff1a5010df2bb9ffa50afe05fa9f347557794637f1f",
+    "retrieved_at": "2026-10-23T11:18:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10661/26172": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10661/26172",
+    "sha256": "59ce96bb18f51577b731f5296c96f0e7bfe851235d484e6f56d707c77ae0ddba",
+    "retrieved_at": "2026-10-23T11:18:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10758/25735": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10758/25735",
+    "sha256": "ef4e16a87905dd47fab034cba41856f7256f41b1294b33cd4ca6a4d5c272687d",
+    "retrieved_at": "2026-10-23T11:18:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10758/25754": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10758/25754",
+    "sha256": "86894ca27817c15bd6f318f005329494622e398a166d47a1974f50600e909a57",
+    "retrieved_at": "2026-10-23T11:18:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10759/25701": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10759/25701",
+    "sha256": "ef104964b77bbb43bcda1efde17acceb9e47ee6591ede87931b0796215116be9",
+    "retrieved_at": "2026-10-23T11:18:52Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10759/25775": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10759/25775",
+    "sha256": "7871020ed986fe6ef592ae8b0c92a42985568df5220d59373a23152a47d5b825",
+    "retrieved_at": "2026-10-23T11:18:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10760/25763": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10760/25763",
+    "sha256": "ecf52abcffa3dc06f7cdeb062e0105271fbfb42151c57831fb23c3d9678be05e",
+    "retrieved_at": "2026-10-23T11:18:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10760/26109": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10760/26109",
+    "sha256": "776ba9e772d8e0f4858a547eb24f0298dbe574479122f178ef465e739402e105",
+    "retrieved_at": "2026-10-23T11:18:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10535/25766": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10535/25766",
+    "sha256": "f2e5b3c042ec9601d7e743dad9ed26a31f2f939239ac5dad4a7935611cbccbcf",
+    "retrieved_at": "2026-10-23T11:18:57Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10535/26077": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10535/26077",
+    "sha256": "1edb819955627ef63e8e279c6ed8eb092b9006c31384d6c304aa50fcdeb8d5ba",
+    "retrieved_at": "2026-10-23T11:18:58Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10543/25697": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10543/25697",
+    "sha256": "02f2de19d5ffbc23633a9f41010bc356d994fc4936c68aaa02033aa96348df9d",
+    "retrieved_at": "2026-10-23T11:18:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10543/25879": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10543/25879",
+    "sha256": "055de0b1d0dc1488fa0bb8880144b89e7ff012f267beb2ae31a205efb644d365",
+    "retrieved_at": "2026-10-23T11:19:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10543/26326": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10543/26326",
+    "sha256": "65b4eae82951c93e4548362f010554d8c2d9e93271a554c60ead193fa7713d15",
+    "retrieved_at": "2026-10-23T11:19:02Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10543/26434": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10543/26434",
+    "sha256": "2910e48652cc4240d47a81df4df381d0086723a9fcb7482d4244a9c4e1687c55",
+    "retrieved_at": "2026-10-23T11:19:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10662/25812": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10662/25812",
+    "sha256": "40d6e17c00d5c1342c42a9aa229082058f7883d9bd46c4db6704f5a30b6376a1",
+    "retrieved_at": "2026-10-23T11:19:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10662/25844": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10662/25844",
+    "sha256": "e480d638c3fcd549f10fd91137aac32d04d64cde86f8e8467a7a4b7df3d81f64",
+    "retrieved_at": "2026-10-23T11:19:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10662/26075": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10662/26075",
+    "sha256": "d4797501dbf7ee6509a97252674d0ec453e941703b2e45a68926c4ff1938bb42",
+    "retrieved_at": "2026-10-23T11:19:07Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10662/26136": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10662/26136",
+    "sha256": "13f381eddd2456d32e6b51ccf831a9179d89ad8f7c8283d65f0be1da5b568179",
+    "retrieved_at": "2026-10-23T11:19:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10743/25760": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10743/25760",
+    "sha256": "1f8f7efce40eb2f3ec035756917650a2244c946334d9d2438c8913bc4df34b56",
+    "retrieved_at": "2026-10-23T11:19:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10743/26211": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10743/26211",
+    "sha256": "6fa6e566d84697c1aeb8806e4fbe9d045ffe2369056a79c54179f19794757c73",
+    "retrieved_at": "2026-10-23T11:19:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10595/25695": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10595/25695",
+    "sha256": "ead052a4a469ac7582135d7effdf32ad874f5e4068a48fa48031f46f247e31f1",
+    "retrieved_at": "2026-10-23T11:19:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10595/25848": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10595/25848",
+    "sha256": "52592250b5cb7bf9dd61f1c6bd5e1446f1b9835276e24cc91bd9df457bf24fbf",
+    "retrieved_at": "2026-10-23T11:19:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10596/25872": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10596/25872",
+    "sha256": "67e517d1f750ce19aefd4d89e3e7265b111b63c07b0b01417ec9143a2892aa54",
+    "retrieved_at": "2026-10-23T11:19:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10596/26003": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10596/26003",
+    "sha256": "f5b54f80e2f58206e30004e155925e88e052cb6d8d57ea81ab048366879f1fef",
+    "retrieved_at": "2026-10-23T11:19:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10597/25985": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10597/25985",
+    "sha256": "52c34c6c0a95835967cf9c08c6789eac8fdb7c4eb00ce359c775f3de5f74e5f3",
+    "retrieved_at": "2026-10-23T11:19:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10597/26258": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10597/26258",
+    "sha256": "c7c9930eb8990b6c08d7c5b5c809293f0b331076e74cd2b85e961c668ca846fa",
+    "retrieved_at": "2026-10-23T11:19:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10499/26766": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10499/26766",
+    "sha256": "33a4c2621ff761beccbe783928ee58d4e165ae9c5b491825e0bb7f33ff844758",
+    "retrieved_at": "2026-10-23T11:19:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10499/26767": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10499/26767",
+    "sha256": "0f4041b6f59855994d51a123c0b92df3dd8b1b186222a614099d5ccb848ec44b",
+    "retrieved_at": "2026-10-23T11:19:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10500/26768": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10500/26768",
+    "sha256": "0a56e0330fe19199e0c475947dc1d8bfba6dad202bd720fb48982ba47a111f99",
+    "retrieved_at": "2026-10-23T11:19:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10500/26769": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10500/26769",
+    "sha256": "dd0abfb8895709d2b5bf88eccd2c44d5131d654fd791c9b626d196b1d194f343",
+    "retrieved_at": "2026-10-23T11:19:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10502/26770": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10502/26770",
+    "sha256": "11da1fb9ca127e1c5f5579aab223af723e9c28abbba7755288d58ccaf3230c41",
+    "retrieved_at": "2026-10-23T11:19:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10502/26771": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10502/26771",
+    "sha256": "dfe80df9a74f36347b75e9a7d1a1534de08b61d9e79de71cd98a083d654fce2e",
+    "retrieved_at": "2026-10-23T11:19:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10663/25824": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10663/25824",
+    "sha256": "a0f08230eb1e0645498ef0d7f0a3f8beb2e77fab3984aca33a25ad39198bf775",
+    "retrieved_at": "2026-10-23T11:19:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10663/26138": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10663/26138",
+    "sha256": "bfb2ef53f2f8d628370748e8cc9730a2b33b1dd1e36660d0d265de937dda91b0",
+    "retrieved_at": "2026-10-23T11:19:28Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10663/26164": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10663/26164",
+    "sha256": "8da96de7914f2488696018b14030db07d1d57617d818c3e0b6ab9648b43f4813",
+    "retrieved_at": "2026-10-23T11:19:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10664/25714": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10664/25714",
+    "sha256": "968e1d6735a452f85691273d502c7cc7fc09f4586bf9549d3f66f5269b053e8a",
+    "retrieved_at": "2026-10-23T11:19:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10664/25774": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10664/25774",
+    "sha256": "d7c3b5ce9ea0dee5e69bcec5aef8d9ce2ac394e15f1b3e3c56ad406fe3036d71",
+    "retrieved_at": "2026-10-23T11:19:32Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10599/26234": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10599/26234",
+    "sha256": "ef04a8b00b4718c9996a2ea245a6dc5c2a3f2b11dbc1b269e34a37da3e97db28",
+    "retrieved_at": "2026-10-23T11:19:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10599/26237": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10599/26237",
+    "sha256": "09586a3635474d74d4830781e53fbe79b407949569816e4bc171faf4fefae66f",
+    "retrieved_at": "2026-10-23T11:19:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10600/25975": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10600/25975",
+    "sha256": "da1e26d256e5fb30697c111d8009a1617df893f575b609d5f819f0fcf002b02b",
+    "retrieved_at": "2026-10-23T11:19:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10600/26290": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10600/26290",
+    "sha256": "738a1afca3177fbe384a2d1141d846f4c0652cad2c40e109e154119b454b610a",
+    "retrieved_at": "2026-10-23T11:19:37Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10666/25696": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10666/25696",
+    "sha256": "502506c1922d3501d29bf31db6b7cdc467e976b90fa6c9e74dd9a4984705b4f5",
+    "retrieved_at": "2026-10-23T11:19:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10667/25821": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10667/25821",
+    "sha256": "db1320ae8dcb45f011c84b7c08fb8f0c9e6dbcd4c8ec15d5ac5c0debd3dc4051",
+    "retrieved_at": "2026-10-23T11:19:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10667/25877": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10667/25877",
+    "sha256": "e88aae5d45614c8ec23ebefbd1f7dc783ad785e686ae4b4a7aedea9735e807aa",
+    "retrieved_at": "2026-10-23T11:19:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10667/26226": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10667/26226",
+    "sha256": "47d9f6ef989bb14ae4cab6be52b6e74a0840fc62f5d15bf847498780bea600fe",
+    "retrieved_at": "2026-10-23T11:19:42Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10668/25826": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10668/25826",
+    "sha256": "39cb9c0917bd68be98404f28ef93e4e5165733a4c533ac82d4ddcaf7e1d64f55",
+    "retrieved_at": "2026-10-23T11:19:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10668/25851": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10668/25851",
+    "sha256": "562ed1ff91c9dc0d7dba7c1be6e8ede0b37565106402c9a2cccff2a2de859c56",
+    "retrieved_at": "2026-10-23T11:19:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10669/25825": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10669/25825",
+    "sha256": "e323272e84b96b0c4d2896246c83ddb5adb6f07cf013cd41b09dcd8c1ad388b4",
+    "retrieved_at": "2026-10-23T11:19:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10553/25728": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10553/25728",
+    "sha256": "4af2ae2759b7a7eb038d585b7968fbbad785f7132247bb3d075f0fedb0ac4bdb",
+    "retrieved_at": "2026-10-23T11:19:47Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10553/26408": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10553/26408",
+    "sha256": "b323a6617dbc3735b66a11754899a04705b1654b0b9462f1e44c4ec191ce0db8",
+    "retrieved_at": "2026-10-23T11:19:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10602/26068": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10602/26068",
+    "sha256": "5fde5d059a5a980a08fba031e9bac3709b670a931bfcd80ef36f2c0b16f5c09e",
+    "retrieved_at": "2026-10-23T11:19:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10602/26089": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10602/26089",
+    "sha256": "0dbf0b943f7f31b18a24b27375c9164aea3e422294fd1efb9c6dd9147249f28d",
+    "retrieved_at": "2026-10-23T11:19:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10565/25875": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10565/25875",
+    "sha256": "ee6989a0c6d4f2e66b227e685c18fb09396ce938d3cbffa7ab0d3c1f2a715748",
+    "retrieved_at": "2026-10-23T11:19:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10567/25996": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10567/25996",
+    "sha256": "4b8500ff12196a4fc399f88e5be4aacdbc773806442abb839dae4266244386a3",
+    "retrieved_at": "2026-10-23T11:19:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10567/26106": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10567/26106",
+    "sha256": "80cdb17ec7fd4ee495ef35c97f71ea11bf547236c85903ddf4e68468d540fd04",
+    "retrieved_at": "2026-10-23T11:19:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10567/26170": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10567/26170",
+    "sha256": "284cbd5ae5aa6b7d72a824068e5264ba35b12193579474ab760242d46eda91bd",
+    "retrieved_at": "2026-10-23T11:19:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10516/26742": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10516/26742",
+    "sha256": "3cc0d13a8d6471ad188b9ed17c13bf2091d26cc8dcbec3c63202db36bdd23ab2",
+    "retrieved_at": "2026-10-23T11:19:56Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10516/26743": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10516/26743",
+    "sha256": "cfcf1d432e61a6b91e9cbf01d0196320cbf1a4b6661137aaeb9af1f72e5b3c18",
+    "retrieved_at": "2026-10-23T11:19:58Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10516/26744": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10516/26744",
+    "sha256": "081947bdc8eab130a9fd4fe2bdf74c29423aad2bf96ce9f61a6efffebfbc5387",
+    "retrieved_at": "2026-10-23T11:19:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10516/26745": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10516/26745",
+    "sha256": "0a5d5a00d0961ae625c26bd7ffdb28f16a9cd409f67802545a47913f431b6d88",
+    "retrieved_at": "2026-10-23T11:20:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10516/26747": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10516/26747",
+    "sha256": "c154e8062ffc1f206d2eb4bc9551a86242945fb5d2ae940d054fb79280bcff95",
+    "retrieved_at": "2026-10-23T11:20:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10517/26725": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10517/26725",
+    "sha256": "24f2c93192532565318d72d983db12afc6e4aad1db27034926dc285b6b6a7599",
+    "retrieved_at": "2026-10-23T11:20:03Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10517/26726": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10517/26726",
+    "sha256": "0a063924e5f069642dbe6c42ab42f809423be70b3dee04ce27020630e3d989f4",
+    "retrieved_at": "2026-10-23T11:20:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10517/26728": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10517/26728",
+    "sha256": "7c8b23ce9cfc6d287d06ac6a854e6d7b2410b86fa59db699182b4209aad12ad2",
+    "retrieved_at": "2026-10-23T11:20:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10517/26730": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10517/26730",
+    "sha256": "7de48666d911d723201fedc12f92ba4e5d1f2342e08239356694791bf26a7330",
+    "retrieved_at": "2026-10-23T11:20:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10517/26731": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10517/26731",
+    "sha256": "91a517695f17240e6babdcb0fadbb901ef238fb9e8b20fd1a797f5ebca297509",
+    "retrieved_at": "2026-10-23T11:20:08Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10722/25886": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10722/25886",
+    "sha256": "f654f9a13a951d304978f17d039d4b62102846716e9816ea08bde79595bdb853",
+    "retrieved_at": "2026-10-23T11:20:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10722/26079": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10722/26079",
+    "sha256": "8948ff028bbdf72b0c12e46329c8af6ba26ffa162199a9c48521d5462c777734",
+    "retrieved_at": "2026-10-23T11:20:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10722/26196": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10722/26196",
+    "sha256": "d566e1045844f30cfd22d65d8f95155afb48eaee09a155b048cd170c53a7c5eb",
+    "retrieved_at": "2026-10-23T11:20:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10723/25859": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10723/25859",
+    "sha256": "9f9234c1cc9b6792d9a3f1478d4bf4c48e861f6ee55b6826c2d0747f4041b272",
+    "retrieved_at": "2026-10-23T11:20:13Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10723/26054": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10723/26054",
+    "sha256": "d1594fe9138928337371a8c3589ada5ff6c05b8bdf3f59ecf2a4696ea0437941",
+    "retrieved_at": "2026-10-23T11:20:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10724/25970": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10724/25970",
+    "sha256": "594619e006ab22706dc15bd93ccfe221f6b0f5a9ff6e0dd86857e5786317aef3",
+    "retrieved_at": "2026-10-23T11:20:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10724/26048": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10724/26048",
+    "sha256": "078dfbc93e2a2e4b8020d5a6a370beeb482571c7beafb2f7861a9ca5abbc2b66",
+    "retrieved_at": "2026-10-23T11:20:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10727/25756": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10727/25756",
+    "sha256": "247810612bc1726ae002fb1a6190e291a22c16c86234c1d9dfcfa75629e6741f",
+    "retrieved_at": "2026-10-23T11:20:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10778/25548": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10778/25548",
+    "sha256": "ddaef40773837325fe3d2f19103361c5df0c16f72f716380ace67a0db636d43a",
+    "retrieved_at": "2026-10-23T11:20:19Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10779/25550": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10779/25550",
+    "sha256": "2f8d5d014260a882b7a15a55220a2bbf16a42dbcd956cbe3bfe5289072d1bd02",
+    "retrieved_at": "2026-10-23T11:20:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10779/25551": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10779/25551",
+    "sha256": "902502b42faa09fb08fbdf00245dd9f1ce8a04e26a5983bd938c88d2695e16a4",
+    "retrieved_at": "2026-10-23T11:20:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10555/25871": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10555/25871",
+    "sha256": "62cd2eef2c9ed072f14f8e8554bd7a77e6f268b07c804687ee3933b0a96b0ff6",
+    "retrieved_at": "2026-10-23T11:20:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10555/26006": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10555/26006",
+    "sha256": "7b8c30d8779a47fccdcb4ae1a3a759783a2c91bd88fcd00657a56be7ce2c6926",
+    "retrieved_at": "2026-10-23T11:20:24Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10555/26231": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10555/26231",
+    "sha256": "b5647787c23ddf9a74bab422bb7ccc7e0893f518fa199d89abeec764f4d59dea",
+    "retrieved_at": "2026-10-23T11:20:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10747/25776": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10747/25776",
+    "sha256": "957db9332ff090dcc2c01b755776ccab09822fa39ec8ddc1747ed23fb5b28acb",
+    "retrieved_at": "2026-10-23T11:20:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10747/26015": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10747/26015",
+    "sha256": "2a5cbc6cdb6007475b7a9d609270e193db50381b331054786e172a3a77c9ce10",
+    "retrieved_at": "2026-10-23T11:20:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10805/25600": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10805/25600",
+    "sha256": "40badbfa39a2a00372c6ea641d49235961452c951c9fe8d9ff6185aa26304884",
+    "retrieved_at": "2026-10-23T11:20:29Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10805/25601": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10805/25601",
+    "sha256": "8ac067e51c2fdf1845c8b5e3abb8d1518ec57925ac6decbcd627f8729cb6eea5",
+    "retrieved_at": "2026-10-23T11:20:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10806/25602": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10806/25602",
+    "sha256": "e33505c890673ab6b2671c622ee50da3ce4eed86935dca2d157e7f5ef49a168b",
+    "retrieved_at": "2026-10-23T11:20:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10806/25603": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10806/25603",
+    "sha256": "f808de9b46aa37db3319fbe24bf964863fde8cab6f66fa2186962bc2befe3e06",
+    "retrieved_at": "2026-10-23T11:20:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10807/25604": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10807/25604",
+    "sha256": "ed70650ee1f4474f983eddaf0ea6ef727f4c7d0a07d4944c2990ecea0c34fd98",
+    "retrieved_at": "2026-10-23T11:20:34Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10811/25613": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10811/25613",
+    "sha256": "c34e3cc881a452cf51309576ce9079b534672890f043041bd9df869e9be7c758",
+    "retrieved_at": "2026-10-23T11:20:35Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10812/25614": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10812/25614",
+    "sha256": "8174e09b1b26e788b6a2fcae44037c0ba2eedbfe701bd499a85b5b5fdc4e3438",
+    "retrieved_at": "2026-10-23T11:20:36Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10814/25618": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10814/25618",
+    "sha256": "e0c9b596f1e1e0c58a0f0a74668cf8bac24fa1f121950113563c489521c6b347",
+    "retrieved_at": "2026-10-23T11:20:38Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10817/25624": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10817/25624",
+    "sha256": "6f3bad769cdf5ecb6ae40bc622922fddec320b495f8e4cf6ba20d122f3465cd2",
+    "retrieved_at": "2026-10-23T11:20:39Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10817/25625": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10817/25625",
+    "sha256": "f5ae4aa67a91f661b28c58b419aa7bfbe1663ae077c94c7d3b34ffd030ee548f",
+    "retrieved_at": "2026-10-23T11:20:40Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10819/25629": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10819/25629",
+    "sha256": "709fc2c877daa2ba3a3a6b78d09b26958ca5c07fb0c3012b93facaa0725aa24a",
+    "retrieved_at": "2026-10-23T11:20:41Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10822/25634": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10822/25634",
+    "sha256": "f64dfebcdf08f2abd2c89d21e0389ad96ef8f07cbc7964490ae73754827dad64",
+    "retrieved_at": "2026-10-23T11:20:43Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10822/25635": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10822/25635",
+    "sha256": "47b4001cbaedddb370fb9bc59c17304eb57c5d3cbd9a721146b8993fbff7da9e",
+    "retrieved_at": "2026-10-23T11:20:44Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10731/26061": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10731/26061",
+    "sha256": "7190c2aa4d3d6e793ba36cf2f5e398ff7bb3a85dc9960c2602ca8eb9ba510456",
+    "retrieved_at": "2026-10-23T11:20:45Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10731/26062": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10731/26062",
+    "sha256": "82df60a1e31afe640bbd1527ab8c88ab45cd41a88174bd8e6ecf67e5704457ed",
+    "retrieved_at": "2026-10-23T11:20:46Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10731/26313": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10731/26313",
+    "sha256": "14abf7a2bd52f2f4bd8bf5117774e1575fe645ed4cd20b46b4415799fef55bf9",
+    "retrieved_at": "2026-10-23T11:20:48Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10397/25994": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10397/25994",
+    "sha256": "0f60fbebec4d178eecaa52bbfab9d0eaccd88fd57dcedce924f93c48ad12cb18",
+    "retrieved_at": "2026-10-23T11:20:49Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10397/26142": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10397/26142",
+    "sha256": "672af15085d1c3f30c53e36f9ae354595d26ee39536129e9ebe939728dc7ed6b",
+    "retrieved_at": "2026-10-23T11:20:50Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10397/26297": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10397/26297",
+    "sha256": "a658bbfc0ff90becd67e569ddd3d680df1913e4d99684b1cb72248a004ffbf97",
+    "retrieved_at": "2026-10-23T11:20:51Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10371/25983": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10371/25983",
+    "sha256": "4cdc4edb530f4fdf160195252c7f8ceb3dc09c40e0431d64a308d802aba107a7",
+    "retrieved_at": "2026-10-23T11:20:53Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10371/26232": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10371/26232",
+    "sha256": "97a21c293533dbe2e4efbbfef638d5dea0812cf0b0f86b008b4da015aabf5558",
+    "retrieved_at": "2026-10-23T11:20:54Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10372/25830": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10372/25830",
+    "sha256": "ef57ff7e0882c58f996bf79945f55ae9d6c5315fe50ca2f0daf72ffa91be0c55",
+    "retrieved_at": "2026-10-23T11:20:55Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10374/25804": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10374/25804",
+    "sha256": "e238e615c3b0350a79800bdfe5e85c9d7b3d4c2576c52b5930843f675dc4df5c",
+    "retrieved_at": "2026-10-23T11:20:57Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10374/25831": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10374/25831",
+    "sha256": "8a6d9869b9a7a6c2f91c7ec790ee964c81192af6850f530180691be8fbadc6f8",
+    "retrieved_at": "2026-10-23T11:20:59Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10570/25797": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10570/25797",
+    "sha256": "345586ca87d6afc79b2b652ef3ba93e02b6cf715c0f5fb5b91798f4c181804d8",
+    "retrieved_at": "2026-10-23T11:21:00Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10570/25883": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10570/25883",
+    "sha256": "9399f88506ac5f32fc2143777f7f549cab0f4798979ee17be3370be7786132a8",
+    "retrieved_at": "2026-10-23T11:21:01Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10570/26023": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10570/26023",
+    "sha256": "7d39c4f3545ba11991772cef421e5ec4a72f0065b591d53fd9ac436ee13a1cd3",
+    "retrieved_at": "2026-10-23T11:21:02Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10569/25816": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10569/25816",
+    "sha256": "17b3af733c0911b3958a46432c90f5b4c7273c473ba4e266cf5ddc7cb5789ae2",
+    "retrieved_at": "2026-10-23T11:21:04Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10569/26069": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10569/26069",
+    "sha256": "00184a88fe810fd58c03b329332e183859067ead4e0319637f5f99f56a1bf11b",
+    "retrieved_at": "2026-10-23T11:21:05Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10559/26017": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10559/26017",
+    "sha256": "1b994205b5380ab3bfd55f6b58e1e33c9031ea8b87be990906353de15068704d",
+    "retrieved_at": "2026-10-23T11:21:06Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10559/26363": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10559/26363",
+    "sha256": "28ddb89302b0071e8a8d34911ba88133dcabf9d09ca8fc0df9ebefd27de07be3",
+    "retrieved_at": "2026-10-23T11:21:07Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10560/26010": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10560/26010",
+    "sha256": "eefab735352356479a815f15dc74f874805477ce208dc60e8f84dd99e924b0a3",
+    "retrieved_at": "2026-10-23T11:21:09Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10560/26133": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10560/26133",
+    "sha256": "42af6de72be7574de5b71ccf4b3c7d7a575d6eba599641639727cd71a0c20d96",
+    "retrieved_at": "2026-10-23T11:21:10Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10560/26227": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10560/26227",
+    "sha256": "0f75acf2384fc4c35fbe884f7361712b7aad4c7014c45ccef672d88d48c1e228",
+    "retrieved_at": "2026-10-23T11:21:11Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10732/25811": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10732/25811",
+    "sha256": "c0bf49fe766c65ea56a90ab0f67789599538f588604fdc6ab6f1cfa1478bb395",
+    "retrieved_at": "2026-10-23T11:21:12Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10732/25814": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10732/25814",
+    "sha256": "8614422bcc497a535df999924137999d2c0eac76e3e3db5eec072a482001795d",
+    "retrieved_at": "2026-10-23T11:21:14Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10732/25855": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10732/25855",
+    "sha256": "f63c4a5d79fd8f6d392cb6760c27ec7c5300175462022ccf63998e5fed26de7d",
+    "retrieved_at": "2026-10-23T11:21:15Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10732/26192": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10732/26192",
+    "sha256": "b6c1dac61f1f60d0fc588e0d865e1456bcf8150aa50dcb046b568aa7b62fa20c",
+    "retrieved_at": "2026-10-23T11:21:16Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10733/25917": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10733/25917",
+    "sha256": "3f91931d41f5fd1e473c52f8e4f757ce05da70d6b71549dde647910f3316580d",
+    "retrieved_at": "2026-10-23T11:21:17Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10733/26103": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10733/26103",
+    "sha256": "5341bdff6928bec779342315f8802ac1066081527232e20cabf76e5115166e8c",
+    "retrieved_at": "2026-10-23T11:21:18Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10735/25829": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10735/25829",
+    "sha256": "6a86222d73aa54a25da8fe78c36770a6282e2f9d68e4a7c5bd0b3a282b00b965",
+    "retrieved_at": "2026-10-23T11:21:20Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10735/26092": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10735/26092",
+    "sha256": "0d9323e84b4472b4ae86ff72327197d55c52b436b3391ca7da34847851390b7b",
+    "retrieved_at": "2026-10-23T11:21:21Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10690/25838": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10690/25838",
+    "sha256": "789c441c494a36a0ff1776bd0d9abca9acb2e28952fc8c56557df4f6dbdf1c4f",
+    "retrieved_at": "2026-10-23T11:21:22Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10845/25765": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10845/25765",
+    "sha256": "5344961eeaa555a88d470d2f3b4c0bbd78880646d203ea87a2c933bb0ac659a6",
+    "retrieved_at": "2026-10-23T11:21:23Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10845/26095": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10845/26095",
+    "sha256": "5f685660fa16fcbd84511d89bc7ddf85b1940df0ef47fede44153a919f862b0b",
+    "retrieved_at": "2026-10-23T11:21:25Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10848/25727": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10848/25727",
+    "sha256": "3de51c46ea426d89769cf6665d3963572ecc1dd701dda2ce789f9524de6022be",
+    "retrieved_at": "2026-10-23T11:21:26Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10848/26185": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10848/26185",
+    "sha256": "9527004cf634dcbc1cae2adec96040cf404cf97a22b6cfb98911b80697735c3d",
+    "retrieved_at": "2026-10-23T11:21:27Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10678/25809": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10678/25809",
+    "sha256": "d14353242aa3b1ec609952ec6262d7b1bbf73af93acff1d42207054d97e0f08f",
+    "retrieved_at": "2026-10-23T11:21:28Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10678/25976": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10678/25976",
+    "sha256": "b022dd4ff0f544ffb9124256af41093de29e0a3eb48b799b6ee61e09d32f801f",
+    "retrieved_at": "2026-10-23T11:21:30Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10678/25977": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10678/25977",
+    "sha256": "bb830c6d5eac2892aaf32167086b88e33b42ec285190b1015b3796ab5af16774",
+    "retrieved_at": "2026-10-23T11:21:31Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10678/26271": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10678/26271",
+    "sha256": "e1a1ee03f695cafd094b79fb7dd47192ca62883d6ee55317442c342ed41fe2b8",
+    "retrieved_at": "2026-10-23T11:21:32Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10678/26272": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10678/26272",
+    "sha256": "663cb7775f3dec060492a99e0886cb704374c16aaa8de2304100fd199b9a5fe4",
+    "retrieved_at": "2026-10-23T11:21:33Z"
+  },
+  "https://apps.lavote.gov/statements-api/oc/p/published/10875/26755": {
+    "url": "https://apps.lavote.gov/statements-api/oc/p/published/10875/26755",
+    "sha256": "6591aa26c048e0aef0a4465fc24c94b94677ccf3a5a2211c24427599897e16e2",
+    "retrieved_at": "2026-10-23T11:22:42Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10419.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10419.json",
+    "sha256": "915c31e7f4787e3ccab1c3f6160ac65dca18d597c0eb60be360af6368317a553",
+    "retrieved_at": "2026-10-23T11:22:44Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10508.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10508.json",
+    "sha256": "1691bfba9e7be368450d50fcfffc5c2848eabd122663fa2f4c606704cfdb3970",
+    "retrieved_at": "2026-10-23T11:22:46Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10534.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10534.json",
+    "sha256": "4050fa3c6dbd0c6ce6e5d0e2806599de383217b52cb69af3cd41726a4396b03b",
+    "retrieved_at": "2026-10-23T11:22:47Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10868.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10868.json",
+    "sha256": "8b4edd9ed05dfb67a88bfa5d24f2afc9c9a55b85716266df93a6cdfe4d5ac63c",
+    "retrieved_at": "2026-10-23T11:22:48Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10869.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10869.json",
+    "sha256": "5477c114ac2f9785a5f26edc1825432546c558cdc6ee50ba0f3ce8bf187ebd77",
+    "retrieved_at": "2026-10-23T11:22:49Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10872.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10872.json",
+    "sha256": "98d4216af14e6b16f2633ae012b5f6748ca2b6e84e7365a0685042e17380444e",
+    "retrieved_at": "2026-10-23T11:22:51Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10873.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10873.json",
+    "sha256": "c599fcbf26e83ab27daea2e7313f2c212130e3baf3b740fe7b082add89d6b1ac",
+    "retrieved_at": "2026-10-23T11:22:52Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10874.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10874.json",
+    "sha256": "58543c2605c5265a5aa1ea5f54ad15953aee78763319dd8fced6875e8a582c24",
+    "retrieved_at": "2026-10-23T11:22:54Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10876.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10876.json",
+    "sha256": "fa45b4467b24f4b335077f4e9d5d345480031da51a9765192cabfd5391a98723",
+    "retrieved_at": "2026-10-23T11:22:55Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10877.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10877.json",
+    "sha256": "c5504e8fcc19f3f1c717e6664cd103a8b2efc7fe68f7fff9a08cab1f4d67d0a1",
+    "retrieved_at": "2026-10-23T11:22:56Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10880.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10880.json",
+    "sha256": "f58433c6b5d4a7964a7ca6d6f9a90569cff6099164987f155dab723ebcb6b732",
+    "retrieved_at": "2026-10-23T11:22:57Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10881.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10881.json",
+    "sha256": "55ea32cad3444475ba5ce0adf822d13f7e32a56b79d3df3b5aa7016383e81e83",
+    "retrieved_at": "2026-10-23T11:22:59Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10882.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10882.json",
+    "sha256": "dc605bd0b8fde500ecc00632560f58a18ed9e2cbc8d2c63e6f8522c50138a670",
+    "retrieved_at": "2026-10-23T11:23:00Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10883.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10883.json",
+    "sha256": "a4cfbb0d7e49d55ddc728b71f0c11bbc5097e34981824d05cbed5d279c3dbb42",
+    "retrieved_at": "2026-10-23T11:23:01Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10884.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10884.json",
+    "sha256": "a2b8080885578647070e48d2290c6509bd1ccd2ff2e7aefc3404c9de73e02c1e",
+    "retrieved_at": "2026-10-23T11:23:02Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10907.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10907.json",
+    "sha256": "852457b445dbd0163400ae0af5a67b05165ea9eaf30f85a718d546df278c02ae",
+    "retrieved_at": "2026-10-23T11:23:03Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10908.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10908.json",
+    "sha256": "b8a5fd369fe4e629de11ae997a43d3291258dab0f2f7dc13f3992465faa2db6d",
+    "retrieved_at": "2026-10-23T11:23:05Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10909.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10909.json",
+    "sha256": "4669a461600c57f4dc7a3bd57de74c0af8147da3e04ed73d09d702297e64a2f0",
+    "retrieved_at": "2026-10-23T11:23:06Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10910.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10910.json",
+    "sha256": "b2112b80b6a6e16d9e6268aa23fac2db5fe72a18edbc091d6d5a258251d0ede6",
+    "retrieved_at": "2026-10-23T11:23:07Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10911.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10911.json",
+    "sha256": "818c3ce0018844c6456fc4463bee88a10633189c5e77e15b85ef7deb96d788d9",
+    "retrieved_at": "2026-10-23T11:23:08Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10912.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10912.json",
+    "sha256": "47bb5ea6fe26c2179e4c37d6183f67aa076bf567887af46331bb79b5da02f498",
+    "retrieved_at": "2026-10-23T11:23:10Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10913.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10913.json",
+    "sha256": "8444200b2e7895daefedf368e8dfbb82f4a224c2800932c6f3078022a464422f",
+    "retrieved_at": "2026-10-23T11:23:11Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10914.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10914.json",
+    "sha256": "a07bf6211e2733d63ca83bf89ea91f61317cb7368c98e7eb708dcac999829f9e",
+    "retrieved_at": "2026-10-23T11:23:12Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10915.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10915.json",
+    "sha256": "48529c44f293e840313757e681048610b66f522b9f86583ab5561e522d98a85a",
+    "retrieved_at": "2026-10-23T11:23:13Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10916.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10916.json",
+    "sha256": "40b01036e44b19b23729318e5aa20fb3649202860218ff50415f0e4acee9736b",
+    "retrieved_at": "2026-10-23T11:23:14Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10917.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10917.json",
+    "sha256": "aee9d2f069738ec951f599810fd51839814ef09b74a0a1c4bfc70cad8c320440",
+    "retrieved_at": "2026-10-23T11:23:16Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10918.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10918.json",
+    "sha256": "4e2bce0cf87fd60c748be7a421ff7fd411414af44fdd89ce816283a2db029313",
+    "retrieved_at": "2026-10-23T11:23:17Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10919.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10919.json",
+    "sha256": "13b1ba0f80990f25eb6b20cac1e126ae0d97d781fa2fff2d22f4dacbde0512aa",
+    "retrieved_at": "2026-10-23T11:23:18Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10921.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10921.json",
+    "sha256": "568846360c304454385e847dd950b10ae3416420b3712c6151fa0f8aed0bac46",
+    "retrieved_at": "2026-10-23T11:23:19Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10922.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10922.json",
+    "sha256": "30927016937a3ea2dc5de036b40905cb3ae6da4e78c2028535d19c6c68a0a021",
+    "retrieved_at": "2026-10-23T11:23:21Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10923.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10923.json",
+    "sha256": "f8467e05dd2b2d0dfdace4fbf960cf749a24ef79dda145dcde98b5a67299274e",
+    "retrieved_at": "2026-10-23T11:23:22Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10924.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10924.json",
+    "sha256": "3e2722909c6dab38f65d3b48d8d727dfff3e0429562fa6ab7c887d4619355aef",
+    "retrieved_at": "2026-10-23T11:23:23Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10925.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10925.json",
+    "sha256": "c59bce750615862db46ded3dabbac59f7a5209304031894f6f0acbf62e845e61",
+    "retrieved_at": "2026-10-23T11:23:24Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10926.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10926.json",
+    "sha256": "88aa2404aa54c213826d0fdc0b6620a1344b1273ec2d85ea3a50fcf7ef569458",
+    "retrieved_at": "2026-10-23T11:23:25Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10927.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10927.json",
+    "sha256": "0e1e4f88e35ba728c94849d5407fe39b845e811f13b08d06f3c821a6f514b1db",
+    "retrieved_at": "2026-10-23T11:23:27Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10928.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10928.json",
+    "sha256": "1deb44ad45c7809f70d592ad53cf9b1faf7b770803c18a8ddb96f9afbdbe9c0a",
+    "retrieved_at": "2026-10-23T11:23:28Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10929.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10929.json",
+    "sha256": "b64b58d07cb864580991f0b06191cdb5dc8e41ac566e902d55e4828123f98c5f",
+    "retrieved_at": "2026-10-23T11:23:29Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10930.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10930.json",
+    "sha256": "6befe288fed33dc86805fd8d067db1dd8d36ef8f033bb4f4e0c4b756a602b056",
+    "retrieved_at": "2026-10-23T11:23:30Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10931.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10931.json",
+    "sha256": "cc12c8d871ba573df8464de5b587b705f369a6c53b7431dd7bcee9240320bf24",
+    "retrieved_at": "2026-10-23T11:23:32Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10932.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10932.json",
+    "sha256": "f665bebcfbb793d2efd2a33226c74330b204d58b50f49d100dd991446d91c192",
+    "retrieved_at": "2026-10-23T11:23:33Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10933.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10933.json",
+    "sha256": "305caaccaf0936d1d7b54d8c26e5bb754113bb52a6b55c1bbdc69c9121e2ff11",
+    "retrieved_at": "2026-10-23T11:23:34Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10934.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10934.json",
+    "sha256": "ae15c83eb9841d4c0d8512e852130049c6120f6e23f107c0445aa56b3f607f35",
+    "retrieved_at": "2026-10-23T11:23:35Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10935.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10935.json",
+    "sha256": "85906f79f409770fa779bf283b34571b725b962628a35de02054eaa7600bdec9",
+    "retrieved_at": "2026-10-23T11:23:37Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10936.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10936.json",
+    "sha256": "2dbe41f2c977db0c185bea2ea7a2789c5b97cbee6bb192a54630306c4a938cc8",
+    "retrieved_at": "2026-10-23T11:23:38Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10937.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10937.json",
+    "sha256": "7057900b04531a62d57735e70d0d023e0493f5480919a8666485b657b232e1cf",
+    "retrieved_at": "2026-10-23T11:23:39Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10938.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10938.json",
+    "sha256": "31006c6d0ff7813918b976f39b03ba293139d5128cd51994a1e6686df4972fce",
+    "retrieved_at": "2026-10-23T11:23:40Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10939.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10939.json",
+    "sha256": "c8ee7f783c477d9fd1df2e89b00876c01b8b480a48670dc6fffe8be156462fc8",
+    "retrieved_at": "2026-10-23T11:23:41Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10940.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10940.json",
+    "sha256": "0eb50474f244646a297838762adda78ab1cab8a8adc6a2587cde1331c0977be9",
+    "retrieved_at": "2026-10-23T11:23:43Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10941.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10941.json",
+    "sha256": "6919f840fe8bbabb53165e439ba938fb5e1ecd8e787955aef1332c0a9695edd7",
+    "retrieved_at": "2026-10-23T11:23:44Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10942.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10942.json",
+    "sha256": "5d01dac36fc8adbb05f0df4263c3337b840f2fa1fb99b26ebf1683d872d54217",
+    "retrieved_at": "2026-10-23T11:23:45Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10943.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10943.json",
+    "sha256": "9f47dd212cad9c90656362c4dced43f78ec49c68ccc65482abb3809d7d5e4f6c",
+    "retrieved_at": "2026-10-23T11:23:46Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10945.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10945.json",
+    "sha256": "3157c1cc0b466bda1c23cb25cb2bad89555234be5c0a5595902cd2944517ee43",
+    "retrieved_at": "2026-10-23T11:23:48Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10946.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10946.json",
+    "sha256": "b2d1a92eb7745ca5337d78de3da261b1931d9688423b1fe826c3af88484587f1",
+    "retrieved_at": "2026-10-23T11:23:49Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10947.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10947.json",
+    "sha256": "23c87b7e07e6346e4416aeef4a5761a608e87ec8e1874186bf94db9d30c47b1c",
+    "retrieved_at": "2026-10-23T11:23:50Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10948.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10948.json",
+    "sha256": "156f937fa5c89d500183af3a95b9bc083f94286439aedb90774316d53cd28816",
+    "retrieved_at": "2026-10-23T11:23:51Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10949.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10949.json",
+    "sha256": "663978819f7331450a382fdfcd54e0e5c1aa9c7eae2f21ea165c301968687cad",
+    "retrieved_at": "2026-10-23T11:23:53Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10950.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10950.json",
+    "sha256": "60fc684caf7207fa594fd0b9e55773aaac8b68c981c08d5672619403cb4a6042",
+    "retrieved_at": "2026-10-23T11:23:54Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10951.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10951.json",
+    "sha256": "7f98f98ed807a548ba01b85a487cb3a77fd393bc2da0d536a36238abf40c0c99",
+    "retrieved_at": "2026-10-23T11:23:55Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10952.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10952.json",
+    "sha256": "76b2de87683a37e64b3d144c3cfe328f4cde91311d7d6e14803d7c0328ea0710",
+    "retrieved_at": "2026-10-23T11:23:56Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10953.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10953.json",
+    "sha256": "d7d60e899d59ce59265f502d04644cb4139cd80a740f9f98ee7ee2d12f7d7735",
+    "retrieved_at": "2026-10-23T11:23:58Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10954.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10954.json",
+    "sha256": "0f0b5bf1145668d7d5d6fbe58e82bbf45f5bd40c57599876edd0e99003a26d69",
+    "retrieved_at": "2026-10-23T11:23:59Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10955.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10955.json",
+    "sha256": "5191a42cd6c12970320ef5d9dad4eb08d90bc93fe548cd6baabc366937599c42",
+    "retrieved_at": "2026-10-23T11:24:00Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10956.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10956.json",
+    "sha256": "6434d95526777abc9c03d422e71bc0906020061628f10f1d27e7fa5a40ca07b6",
+    "retrieved_at": "2026-10-23T11:24:01Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10957.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10957.json",
+    "sha256": "40622380bfd0fc4c8261ab334cdd0280aed99c877096020c265d084e6c77624d",
+    "retrieved_at": "2026-10-23T11:24:03Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10958.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10958.json",
+    "sha256": "3d9775207cc31e06ac49480a44452574280a751dad97a70dded1fe75610d5791",
+    "retrieved_at": "2026-10-23T11:24:04Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10959.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10959.json",
+    "sha256": "f9223ec81dc04820740e053b9743d3a476c669cfbae9c60bf06fbf47fd93a687",
+    "retrieved_at": "2026-10-23T11:24:05Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10960.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10960.json",
+    "sha256": "eb886eb014de9b7e60f0ec889afc206ae53c0b4a85dddacaf128353d1341f523",
+    "retrieved_at": "2026-10-23T11:24:06Z"
+  },
+  "https://isb.lavote.gov/parsed/4348/contests/bmc10961.json": {
+    "url": "https://isb.lavote.gov/parsed/4348/contests/bmc10961.json",
+    "sha256": "65f7c848a61e207fc38a53827ee10e456a0c9f390a82e28ac3d33bffb928b0fd",
+    "retrieved_at": "2026-10-23T11:24:07Z"
+  }
+}

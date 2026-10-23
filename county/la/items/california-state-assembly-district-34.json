@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 34",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-34",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:15Z",
+  "candidates": [
+    {
+      "choice": "Charles Frederick Hughes",
+      "statement": {
+        "by": "Charles Frederick Hughes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My life can be summarized in one word: service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Service to my country. Service to California. Service to the High Desert."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At 18, I followed my father and uncle into the U.S. Navy, where I served as a Damage Controlman. I then spent 26 years with the California Department of Corrections and Rehabilitation, rising to the rank of Lieutenant and keeping dangerous criminals where they belong: behind bars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, I'm a small business owner, school board trustee, husband of 37 years, father of 5, and grandfather of 8. And every week, I host local veterans and deputies at my restaurant, because to me, service doesn't end when the uniform comes off."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have seen how hard it's gotten. How much everything costs. And too often, it seems like Sacramento has forgotten communities like ours."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for State Assembly to change that. I'll fight to lower the cost of housing, gas, and groceries. I'll fight to keep violent criminals and child predators locked up, so kids can play outside and parents don't have to worry. And I'll fight to make sure the High Desert gets its fair share for our schools and our roads."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I didn't come up through Sacramento. I came up through the Navy, the prison yard, and my own restaurant kitchen. I'm a veteran, a retired peace officer, a businessman, and a grandfather. I've served this community my whole life. Now I'd like to serve you in Sacramento."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Charles Hughes"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Randall Putz",
+      "statement": {
+        "by": "Randall Putz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For 25 years, my family and I have called this region home. I've spent nearly two decades serving our communities as a school board trustee, fire authority director, city council member, and three-time Mayor of Big Bear Lake. My public service has always focused on bringing people together to solve problems and strengthen the communities we love."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hear the same concerns across our mountain and high desert communities. Families are struggling with rising costs for housing, healthcare, utilities, and everyday necessities. Too many people feel like the California dream is slipping out of reach. I'm running for State Assembly to make life more affordable and secure so everyone has the chance to build and enjoy a future here with dignity, stability, and hope."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner and longtime local official. I understand the challenges our communities face. I believe in practical solutions that expand affordable housing, improve access to healthcare, strengthen our schools, and support good local jobs. I have worked across political lines to deliver results for our region by listening, respecting different perspectives, and focusing on what brings us together. This record of service is why my campaign has earned strong support and endorsements from leaders, educators, firefighters, and community members across our region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district deserves a strong, experienced voice in Sacramento. I will fight for the resources and attention our communities need and deserve. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.PutzForAssembly.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

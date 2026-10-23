@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "ABC Unified School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:08Z",
+  "candidates": [
+    {
+      "choice": "Soo Yoo",
+      "statement": {
+        "by": "Soo Yoo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: ABC Unified School District Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an incumbent ABC Unified School District Board Member and two-time Board President, I have had the privilege of serving our students, families, and community through challenging and changing times. As Board President during the COVID-19 pandemic, I helped lead our district through an unprecedented period while keeping our schools open. During my board service, campuses were secured with gates and video camera systems to strengthen school safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I immigrated to America from Korea at age nine and grew up in a predominantly Latino neighborhood in Los Angeles. This experience taught me the importance of respecting different cultures and working together. Spanish became my third language, and my trilingual and tricultural background has helped me connect with diverse community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a B.A. from UC Irvine and an M.A. from Westminster Theological Seminary. I am the retired founder and director of a college preparatory tutoring center, where I served families for over 30 years. I have also served as a youth pastor and pastor's wife."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a mother of four daughters, educator, youth counselor, and longtime community volunteer, I value academic achievement, safe schools, student well-being, fiscal responsibility, and strong partnerships among parents, teachers, students, and our community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Al Barlevy",
+      "statement": {
+        "by": "Al Barlevy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 57"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Economic Development Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I decided to run for two reasons:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1) Like it or not, Artificial Intelligence (AI) is here to stay. We therefore need to integrate AI into our curriculum, but it must be done in a responsible way that enhances the education experience for the students, and makes the job of the teachers easier. We absolutely do not want AI to take over for the teachers. Teachers are an invaluable part of the education experience."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2) We must keep public money in our public schools, and not divert the money to homeschooling. Parents who choose to pull their children out of the public school and homeschool their children ought to do that at their own expense, not at the school district expense."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you have any questions or concerns, please email me: ab.for.abc.schools@gmail.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

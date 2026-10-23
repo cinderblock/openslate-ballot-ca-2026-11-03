@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 62",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-62",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:29Z",
+  "candidates": [
+    {
+      "choice": "José Luis Solache",
+      "statement": {
+        "by": "José Luis Solache",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our Gateway and Southeast L.A. cities are the heart of Los Angeles County and the epicenter of the California dream. I grew up here, I've dedicated my life to public service here, and it's been my honor to represent our communities in the State Assembly since 2024."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Assemblymember, I've listened to residents and authored important legislation to help foster youth and lower healthcare costs. I've also worked closely with my colleagues to help lead California's resistance against the Trump Administration's war on immigrants and working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Much of my focus has been on working to:\n",
+              {
+                "strong": [
+                  "-Address affordability"
+                ]
+              },
+              " and stop the rising costs of necessities.\n-Help businesses ",
+              {
+                "strong": [
+                  "create new jobs "
+                ]
+              },
+              "that pay good wages.\n",
+              {
+                "strong": [
+                  "-Improve public schools"
+                ]
+              },
+              " and lower the financial barriers to college.\n",
+              {
+                "strong": [
+                  "-Make neighborhoods safer"
+                ]
+              },
+              " and combat the fentanyl epidemic.\n-Ensure ",
+              {
+                "strong": [
+                  "clean water"
+                ]
+              },
+              " and ",
+              {
+                "strong": [
+                  "safe air"
+                ]
+              },
+              " for every community.\n",
+              {
+                "strong": [
+                  "-Reduce homelessness"
+                ]
+              },
+              " with a focus on mental health and housing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Prior to my election to the State Assembly, I served three terms as a Mayor and City Councilmember in Lynwood. I also served three terms on the Lynwood School Board, I worked as the President of the Greater Lakewood Chamber of Commerce, and I've been an active volunteer in dozens of community organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My campaign is endorsed by groups representing L.A. County firefighters, police officers, teachers, nurses, small business owners, and construction workers. You can learn more at ",
+              {
+                "strong": [
+                  "www.SolacheForAssembly.com."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'd be honored to earn your vote.\n",
+              {
+                "strong": [
+                  "José Luis Solache"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

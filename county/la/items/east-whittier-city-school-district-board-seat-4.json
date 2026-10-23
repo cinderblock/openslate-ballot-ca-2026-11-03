@@ -1,0 +1,109 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Whittier City School District Board, Seat 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:28Z",
+  "candidates": [
+    {
+      "choice": "Thomas Baird",
+      "statement": {
+        "by": "Thomas Baird",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve the students, families, and educators of the East Whittier City School District as Trustee for Area 4. Since joining the Board, I have strived to make thoughtful, informed decisions with one priority: ",
+              {
+                "strong": [
+                  "putting our students first."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have two children attending district schools. I grew up in Whittier, and I met my wife, Frances Luna-Baird, while attending California High School. This community is our home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a social worker and educator, I believe every child deserves a safe, supportive learning environment where they can thrive. I am committed to transparency, accountability, and working collaboratively with families, teachers, staff, and district leadership to strengthen our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support innovative programs that prepare students for the future while providing a strong academic foundation. I also believe our teachers and staff deserve the resources, respect, and partnership necessary to help every student succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is important work ahead. I promise to lead with integrity, listen attentively, and make decisions that reflect the best interests of our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote and continued support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "VoteThomasBaird2026@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Miguel Angel Hernandez",
+      "statement": {
+        "by": "Miguel Angel Hernandez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Law Enforcement Officer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the first in my family born in America and have called Whittier home since I was twelve years old. I attended middle and high school here and became the first college graduate in my family, earning my degree from Whittier College."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After several years in the private sector, I spent eight years as a high school teacher before beginning my career in law enforcement, where I have proudly served our community for the past seventeen years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I have raised our three children in Whittier, and all have attended schools in the East Whittier City School District. We have enjoyed being actively involved in their education through volunteering as room parents, serving in various PTA roles, and supporting school activities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past six years, I have volunteered at our local high school by mentoring students in academy programs and the ELA Mentor Program, as well as photographing school sporting events. Investing in the lives of young people is a passion of mine. I deeply appreciate our educators and district employees and would be honored to earn your vote so I can support their important work and continue serving our community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

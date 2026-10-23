@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Inglewood City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/inglewood",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:33Z",
+  "candidates": [
+    {
+      "choice": "Alex Padilla",
+      "statement": {
+        "by": "Alex Padilla",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been the honor of my life to serve as your District 2 Council Member, and I respectfully ask for your vote to continue moving Inglewood forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have delivered real results—repairing streets, sidewalks, and driveways, trimming trees, improving our neighborhoods, and enhancing the quality of life for our residents. By working side by side with our community, businesses, and City staff, we have made District 2 stronger than ever."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, Inglewood is a destination city, proudly hosting world-class events such as the NBA All-Star Game and the FIFA World Cup, with the 2027 Super Bowl and the 2028 Olympic Games on the horizon. These opportunities are creating jobs, driving investment, and strengthening our local economy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our work is not finished. I will continue fighting for safer neighborhoods, more affordable housing, greater economic opportunities, and the responsive, accountable leadership our community deserves. Together, we will build on our progress and ensure every resident benefits from Inglewood's bright future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your trust, your support, and your vote. I would be honored to continue serving as your District 2 Council Member."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Subrina Miller",
+      "statement": {
+        "by": "Subrina Miller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 63"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Executive Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Subrina Miller. As an employee of the Inglewood School District for over 25 years, I've seen Inglewood change where school enrollment is affected. As a resident for over 30 years, I have seen our families move. While I welcome progress, growth should improve the lives of the people who built this community not leave them behind. Our residents deserve a voice that represents them and creates opportunities for everyone. Our community deserves leadership that listens, acts with integrity, and puts residents first. That is why I am running for Inglewood City Council, District 2. I have dedicated my life to serving this community. I've spent 30 years serving Inglewood—not from the sidelines, but in the community, standing with families, businesses, and neighbors. As a mother of six and grandmother of five, I have a personal stake in the future of our city. Our families, seniors, small businesses, and young people deserve to share in the opportunities that growth brings. I am committed to ensuring that every decision made reflects the needs of our community and the future we all deserve. Together, we can build an Inglewood where progress benefits everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Subrina Miller, City Council District 2"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

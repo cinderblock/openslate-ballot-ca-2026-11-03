@@ -1,0 +1,175 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clarita Valley Water Agency Board, Division 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:51Z",
+  "candidates": [
+    {
+      "choice": "Bill Cooper",
+      "statement": {
+        "by": "Bill Cooper",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Santa Clarita Valley Water Agency Board Vice President"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "BILL COOPER "
+                ]
+              },
+              "has worked his entire professional career in water resources managing the operations of all five Metropolitan Water treatment plants serving water to ",
+              {
+                "strong": [
+                  "19 million "
+                ]
+              },
+              "people in Southern California. Managing large water treatment and distribution facilities gives him the experience needed to protect the quality and availability of our local water supplies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The reliable, safe and affordable supply of water to the Santa Clarita Valley is essential for our community and the quality of life we enjoy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "BILL COOPER "
+                ]
+              },
+              "will continue to strive for responsible water management by:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Maximizing Existing Supplies "
+                ]
+              },
+              "through recycling and conservation;"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Requiring New Development "
+                ]
+              },
+              "to have an identifiable supply of water before building;"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Promoting Underground Banking Storage Programs "
+                ]
+              },
+              "to provide water during drought years;"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Removing Contaminants "
+                ]
+              },
+              "threatening our groundwater and requiring polluters to pay for cleanup;"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Seeking Federal and State "
+                ]
+              },
+              "funding to reduce local project costs;"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Maintaining Low Water Rates "
+                ]
+              },
+              "through strict budget oversight."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "BILL COOPER "
+                ]
+              },
+              "will continue to work hard to ensure that we always have a reliable supply of ",
+              {
+                "strong": [
+                  "high quality "
+                ]
+              },
+              "water at a ",
+              {
+                "strong": [
+                  "reasonable cost "
+                ]
+              },
+              "and to protect our valley from future drought through responsible planning and management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Re-Elect ",
+              {
+                "strong": [
+                  "BILL COOPER "
+                ]
+              },
+              "the Candidate with Experience"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "5 Year ",
+              {
+                "strong": [
+                  "US Navy Veteran "
+                ]
+              },
+              "serving onboard an aircraft carrier."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

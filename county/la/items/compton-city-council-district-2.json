@@ -1,0 +1,234 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Compton City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/compton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:09Z",
+  "candidates": [
+    {
+      "choice": "Bennie Tinson",
+      "statement": {
+        "by": "Bennie Tinson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 48"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Executive Director/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Compton Community First. Progress Always."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a longtime resident, product of the Compton Unified School District, Community College Professor, SEIU Union Organizer and ",
+              {
+                "strong": [
+                  "City of Compton employee"
+                ]
+              },
+              ", my life experiences have prepared me to be your City Councilman. My experience as a ",
+              {
+                "strong": [
+                  "Paralegal in the Compton City Attorney's Office"
+                ]
+              },
+              " provided me with ",
+              {
+                "strong": [
+                  "intricate knowledge of the workings of Compton City government"
+                ]
+              },
+              ", ensuring I can hit the ground running and be a strong voice for residents. I am currently the ",
+              {
+                "strong": [
+                  "Executive Director"
+                ]
+              },
+              " of a community-based organization working in partnership with the Los Angeles County Affordable Housing Solutions Agency advocating for housing and care to keep vulnerable residents off our streets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will lead with ",
+              {
+                "strong": [
+                  "honesty, integrity and transparency"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My ",
+              {
+                "strong": [
+                  "Platform for Progress"
+                ]
+              },
+              " includes:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Public Safety & Infrastructure:"
+                ]
+              },
+              " Prioritize ",
+              {
+                "strong": [
+                  "installing speed bumps"
+                ]
+              },
+              " to protect our children, fix streets, trim trees, and modernize drainage to prevent flooding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Revitalization:"
+                ]
+              },
+              " Transform and reclaim Long Beach Boulevard by ",
+              {
+                "strong": [
+                  "eradicating sex trafficking"
+                ]
+              },
+              " and attracting new dining, shopping, and attainable housing with mixed use developments."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Neighborhood Quality:"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Remove commercial trucks and RVs"
+                ]
+              },
+              " from residential streets, stop local industrial pollution and eliminate graffiti within 24 hours."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we will unite the 2nd District and build a stronger Compton."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "/s/ Bennie Tinson"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Anthony Perry",
+      "statement": {
+        "by": "Anthony Perry",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 46"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Teacher/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Anthony Perry, your candidate for Compton City Council, District 2. As a proud husband, father, and citizen of the city of Compton, I am committed to delivering real results for our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My Fortune 500 company experience has equipped me with proven skills in strategy, operations, and attracting investments. I know how major organizations create jobs, manage resources efficiently, and execute projects that deliver lasting impact. I will bring that expertise to City Hall to strengthen Compton's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over two decades, I have dedicated myself to community service as an educator, organizer, and small business owner—coaching youth, supporting families, and working alongside residents to build stronger neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My focus is clear: economic development that cleans up our city and brings financial resources home. I will attract responsible investments, support local businesses, revitalize neglected areas, improve infrastructure, and secure grants and partnerships that create jobs and improve quality of life—without overburdening residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Compton has tremendous potential. With my business-tested leadership and deep community roots, we can make our streets cleaner, our economy stronger, and our future brighter."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote, trust, and partnership. Together, we will move Compton forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Anthony Perry"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

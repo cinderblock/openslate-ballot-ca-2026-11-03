@@ -1,0 +1,108 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Antelope Valley Community College District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:18Z",
+  "candidates": [
+    {
+      "choice": "Ricardo Ortega",
+      "statement": {
+        "by": "Ricardo Ortega",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is ",
+              {
+                "strong": [
+                  "Ricardo Ortega"
+                ]
+              },
+              ", and I am running for the Antelope Valley Community College Board, Area 2, because every student deserves a clear pathway to opportunity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former foster youth and first-generation college graduate, I understand how education, mentorship, and support can change a life. I have dedicated my career to youth advocacy, mental health, public service, and expanding opportunities for underserved communities. As Chief Executive Officer of Pax Imperium, I build partnerships among education, government, labor, business, and community leaders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work to improve graduation and transfer rates, expand access to required classes, and strengthen tutoring, counseling, mental health, and basic-needs services. I will advocate for transparency and accountability of taxpayer dollars, safe and modern facilities, transportation assistance, housing solutions, and stronger support for foster youth, veterans, working adults, and first-generation students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will build partnerships with unions, apprenticeship programs, aerospace, healthcare, technology, and local employers to prepare students for good-paying careers in the Antelope Valley. I will invest in faculty and staff, support responsible budgeting, and ensure students and employees have a meaningful voice in college decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Ricardo Ortega — AV College Board, Area 2"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ortegaricardo.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Newton Chelette",
+      "statement": {
+        "by": "Newton Chelette",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Newton Chelette has helped students learn, compete, lead, and succeed. A retired Antelope Valley College Dean, Vice President of Student Services, Athletic Director, instructor, and coach, Newton Chelette understands education from the classroom, campus administration, and the sidelines."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At Antelope Valley College, he served as a PE instructor, men's basketball coach, golf coach, Athletic Director, Dean of Kinesiology, Dean of Visual and Performing Arts, and Vice President of Student Services. In 46 coaching years, Newton Chelette helped generations of young people develop confidence, discipline, teamwork, and belief in their potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "His record reflects leadership and results. He is the winningest men's basketball coach in AVC history, a seven-time Foothill Conference Coach of the Year, a California Community College Basketball Coaches Hall of Fame inductee, a Community College Athletic Directors Hall of Fame inductee, a 2024 recipient of the California Commissioners Award, and the first person from Antelope Valley College inducted into the California Community College Hall of Fame."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Newton Chelette continues serving the Antelope Valley through education, athletics, and community leadership, including the AV Fair Board and AV Boosters. In 2014, Newton Chelette was honored as Citizen of the Year. He brings experience, integrity, and a lifelong commitment to strengthening local schools and helping every student and family succeed."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

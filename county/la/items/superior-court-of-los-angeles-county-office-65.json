@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Superior Court of Los Angeles County, Office 65",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:12Z",
+  "candidates": [
+    {
+      "choice": "Anna Slotky Reitano",
+      "statement": {
+        "by": "Anna Slotky Reitano",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Deputy County Counsel, County of Los Angeles"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ANNA REITANO has dedicated nearly two decades to public service, bringing the broad experience, sound judgment, and balanced perspective our courts deserve. She began her legal career clerking in the District Attorney's Office, represented public safety employees in labor and administrative matters, served for more than a decade as a Deputy Public Defender handling trials for adult and juvenile cases, and now serves as a Deputy County Counsel in Los Angeles County's Justice and Safety Division."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working on multiple sides of the justice system has given Anna a unique understanding of how judicial decisions affect individuals, families, and our communities. She believes every person who enters her courtroom deserves dignity, respect, impartiality, and equal justice under the law."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Anna has earned the endorsement of the California National Organization for Women (CA NOW PAC), National Women's Political Caucus, UA Local Union 250, Citizens for Accountable Leadership, Stonewall Democratic Club, and both former opponents who endorsed her after the primary election. This broad coalition reflects confidence in her experience, integrity, and judicial temperament."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience Matters. Vote Anna Reitano for Judge."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information and endorsements, visit www.ReitanoForJudge.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Justin Clayton",
+      "statement": {
+        "by": "Justin Clayton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a Los Angeles native and proud product of LAUSD. This Community shaped me, and it is the community I have dedicated my career to serving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than a decade, I have stood beside people at the most difficult moments of their lives. As a criminal defense attorney at one of the largest law firms in the United States, I have completed over 40 trials, including three life cases, appeared in more than 1,000 adult matters, and represented hundreds of juveniles. Every case has reinforced my belief that justice requires preparation, fairness, and respect for the rule of law."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I currently supervise ten attorneys at varying stages of their careers and help train new lawyers in courtroom advocacy and ethical practice. Through that leadership, I have developed a reputation for sound judgment, thoughtful decision making, and steady courtroom management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A judge must be impartial, patient, and prepared. My experience trying serious cases, advising clients of their constitutional rights, and mentoring attorneys has equipped me to evaluate evidence carefully, apply the law faithfully, and treat every person in the courtroom with dignity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running to serve Los Angeles with integrity, accountability, and a commitment to equal justice for all."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

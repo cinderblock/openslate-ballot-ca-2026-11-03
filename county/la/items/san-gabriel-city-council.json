@@ -1,0 +1,333 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Gabriel City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-gabriel",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:26Z",
+  "candidates": [
+    {
+      "choice": "Wendy Wang",
+      "statement": {
+        "by": "Wendy Wang",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 28"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Businesswoman/Boardmember/Caregiver"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Service has been at the heart of who ",
+              {
+                "strong": [
+                  "WENDY WANG"
+                ]
+              },
+              " is. Raised in San Gabriel and educated locally, she learned that strong communities are built by neighbors who care and leaders willing to serve. Today, ",
+              {
+                "strong": [
+                  "WENDY WANG"
+                ]
+              },
+              " is running for City Council to give back to the community that believed in her, shaped her, and inspired her to serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner, nonprofit executive, and caregiver, ",
+              {
+                "strong": [
+                  "WENDY WANG"
+                ]
+              },
+              " understands the needs of families, seniors, local businesses, and community organizations. She has worked alongside them to solve problems, build partnerships, and strengthen the community. For her, public service means helping people."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "WENDY WANG"
+                ]
+              },
+              " believes San Gabriel deserves transparent, accountable, and fiscally responsible leadership. She will work to keep neighborhoods safe, strengthen trust between residents and City Hall, support police, firefighters, and other first responders, champion small businesses, create opportunities for young people through initiatives such as a Youth Commission, improve parks and infrastructure, and build bridges among San Gabriel's diverse communities while preserving the city's unique character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With integrity, compassion, and practical leadership,",
+              {
+                "strong": [
+                  " WENDY WANG"
+                ]
+              },
+              " will bring people together to build a stronger, safer, and more united San Gabriel."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Advocacy. Leadership. Vision."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "WENDY WANG respectfully asks for your vote."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "John Wu",
+      "statement": {
+        "by": "John Wu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 52"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I truly appreciate your trust and the privilege of serving you as your Councilmember and former Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, over the past four years, we have made San Gabriel stronger, safer, and more financially secure."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my term as Mayor, working with my colleagues, dedicated City staff, and our community, we turned a budget deficit into a surplus, built more than $23 million in reserves, removed San Gabriel from California State Auditor's High-Risk Financial City list, and improved our streets to a Pavement Condition Index of 85, among the highest in the region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was proud to initiate annual Memorial Day, Veterans Day, and Fourth of July celebrations, help bring the Veterans Memorial Monument from vision to reality, establish two Sister City partnerships, and secure donated lanterns display through those partnerships that helped establish San Gabriel's iconic Lantern Festival."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for giving me the opportunity to serve our community. I pledge to continue serving with integrity, transparency, and the high standard of service you deserve. Let's protect what we've accomplished and continue improving our infrastructure, public safety, economic prosperity, parks, and open spaces so San Gabriel remains a city we are all proud to call home."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Denise Menchaca",
+      "statement": {
+        "by": "Denise Menchaca",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilwoman/Accountant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve as your Councilwoman and proud of what we have accomplished together to make San Gabriel a safer, stronger community. I respectfully ask for your vote to continue our progress together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an accountant, protecting your tax dollars is my personal mission. Six years ago, when the State Auditor identified our city as high risk, I helped lead our financial recovery. Through fiscally responsible leadership, we earned a clean audit, achieved seven consecutive years of financial growth, and built reserves to nearly 42 percent. That discipline allows us to invest in the services our residents deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have prioritized public safety by investing in our Police and Fire Departments, including a new fire engine. We have supported our businesses and brought the Farmers Market back to the Mission District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have strengthened our arts and cultural community, starting with our historic Mission Playhouse, improved our streets, parks, and services for older adults, and moved forward with the long-awaited Veterans Memorial."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is still more to do. I will continue investing in our youth, families, older adults, and businesses while protecting the financial stability that keeps San Gabriel strong."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote. Learn more at DeniseMenchaca.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Eric L. Chan",
+      "statement": {
+        "by": "Eric L. Chan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 51"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember/Property Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since 2022, I've been PROUDLY serving as YOUR City Councilmember and I am your current Mayor! I'm a Property Manager, a decades-long San Gabriel Resident, and active in numerous professional, cultural, and civic organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It's obvious that I care about San Gabriel! It's a great place to live, and I'm doing my best to improve it every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Just a few of my accomplishments so far:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. Using my Accounting background to help pull the City out of a bad fiscal situation and improve the financial stability of the City so that we now have a balanced budget and healthy reserves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2. Bringing our Police Officers and Firefighters up to FULL Staffing levels to ensure the SAFETY of San Gabriel's Residents and Businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3. Improving the Business-friendliness of San Gabriel so that it is a \"Destination City\" sought out by visitors worldwide who come here to enjoy San Gabriel's unique culture."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "4. Starting a new Farmer's Market that is popular and thriving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have the EXPERIENCE, knowledge, and passion to ensure that San Gabriel continues to prosper."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can CONTINUE to improve the San Gabriel Community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote to re-elect Eric L. Chan!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jordan Guzman",
+      "statement": {
+        "by": "Jordan Guzman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 28"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Music Educator/Musician"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jordan Guzman, 28, is a professional musician and educator based in San Gabriel, California. He earned his Bachelor of Music degree from the Bob Cole Conservatory of Music at California State University, Long Beach, and is currently pursuing a single-subject teaching credential at Cal State Los Angeles."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jordan commits his time to community service and civic engagement. He volunteers with San Gabriel's Healthy Walking Hearts Club, leading morning walks that promote wellness and connection among residents. He also served as a governing board member at a private school in Sierra Madre."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jordan values San Gabriel's rich history and is dedicated to honoring that legacy while working to help create a vibrant future for all who call it home. As a candidate for City Council, his mission is to serve the community and work to establish an annual jazz festival at the Mission Playhouse."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mountain View School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:39Z",
+  "candidates": [
+    {
+      "choice": "Adam Carranza",
+      "statement": {
+        "by": "Adam Carranza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "The Mountain View School District has made transformative changes to meet the needs of our students and families. We have safer schools due to the investments we've made to begin to modernize our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have strengthened the enrichment opportunities that not only make school fun but expand the opportunities students have whether it is the Disney Imagination Campus teaching students about design and engineering or students learning how to make their own podcast. Students are expanding their debate and policy-making skills through our Model United Nations program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Test scores continue moving upwards as we focus on expanding on the science of reading and supporting half of our students who come to school knowing more than one language."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a district we have embraced community partnerships and expanded resources to support our students and their families which include a food bank and shoes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The world is changing at a fast pace as we use more technology and AI. The jobs of tomorrow are unknown to us today but what we will always need are students who can think critically, read with deep understanding, and navigate the world with the highest ethics. Those are the skills we need to expand on."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Cindy Wu",
+      "statement": {
+        "by": "Cindy Wu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Our Mountain View School District has been taking the District to a new level. We implemented the Bond Program to improve the infrastructure of our schools, brought in free after-school programs for our kids through partnerships with local nonprofits, and are working to improve educational outcomes while ensuring continued ",
+              {
+                "strong": [
+                  "accountability "
+                ]
+              },
+              "for the dollars spent by the District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small businesswoman and educator, I know how important schools are for our community. ",
+              {
+                "strong": [
+                  "Our local schools offer hope for our children"
+                ]
+              },
+              ".",
+              " Our ",
+              {
+                "strong": [
+                  "teachers provide our children the tools "
+                ]
+              },
+              "they will need to navigate a changing world, and there are many important decisions ahead that will impact our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When the rest of the Board voted to eliminate school counselors, I was the lone vote to save them, because I believe our students deserve the ",
+              {
+                "strong": [
+                  "mental health and academic support counselors "
+                ]
+              },
+              "provide. As someone who ",
+              {
+                "strong": [
+                  "bridges the gap "
+                ]
+              },
+              "between our community and the school district, I will continue to ",
+              {
+                "strong": [
+                  "advocate "
+                ]
+              },
+              "for the needs of our students and families, and make sure Mountain View School District serves their best interests. I am passionate about ",
+              {
+                "strong": [
+                  "stronger education and financial literacy "
+                ]
+              },
+              "in our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.CindyWuForSchoolBoard.com\nLos Angeles County Woman of the Year in Education!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

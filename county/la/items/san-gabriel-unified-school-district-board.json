@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Gabriel Unified School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:45Z",
+  "candidates": [
+    {
+      "choice": "Cecilia Reyes Keffer",
+      "statement": {
+        "by": "Cecilia Reyes Keffer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 57"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator/Realtor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After 28 years working as a teacher in the San Gabriel Unified School District, I am excited to be a candidate for the School Board. My connection to the San Gabriel Unified School District, however, is not limited to teaching. I have also spent many years as an SGTA union leader, a school-site council member, a community member, and the parent of two children who completed their entire K–12 education in SGUSD."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "These experiences have provided me with a unique understanding of how decisions made in the boardroom affect students, families, and employees every day. It is this understanding that will guide my decisions as a board member, helping to ensure that every dollar we allocate has the greatest possible impact on student well-being and the long-term success of our eight schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a problem solver who believes in making sensible, budget-minded decisions that prioritize student needs, protect essential programs and services, and use taxpayer dollars wisely and effectively."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring a balanced perspective shaped by years of service in our schools and community. I will listen thoughtfully and ask careful questions to help ensure that our School District provides outstanding opportunities and support for all students."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

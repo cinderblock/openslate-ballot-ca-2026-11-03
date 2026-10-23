@@ -1,0 +1,205 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hawthorne City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/hawthorne",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:04Z",
+  "candidates": [
+    {
+      "choice": "Alexandre Monteiro",
+      "statement": {
+        "by": "Alexandre Monteiro",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 65"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Nonprofit Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since 2018, I have had the privilege of serving as your Councilmember for the City of Hawthorne. I am humbly asking for your support to re-elect me for another term. I have lived in Hawthorne for three decades and have been a public servant for 20 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Twelve years on the school board and 8 years as your Councilmember. Since being elected, I have created policies to improve life in our city. It would be an honor to have your vote and continue to advocate for health and safety of our residents, so you can experience a higher quality of living."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am also committed to fighting for good-paying jobs with benefits and advocating for college and vocational careers in technology and other industries that will benefit the development of our youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My Priorities for Hawthorne "
+                ]
+              },
+              "\n- Continuing to support public safety and crime reduction.\n- Continuing to promote economic development.\n- Encouraging homeownership through first-time homebuyer programs, and advocating for affordable housing and workforce housing.\n- Continuing to improve our infrastructure.\n- Promoting health and well-being for all Hawthorne residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to receive your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information and support my reelection, please visit:www.alexmonteiroforhawthorne.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sergio Roberto Mortara",
+      "statement": {
+        "by": "Sergio Roberto Mortara",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 42"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: School Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Background"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Parent & Homeowner\n- Board Member, Hawthorne School District\n- Business Owner, Continental Gourmet\n- Endorsed by Mayor Vargas and Mayor Pro-Tem Johnson"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Statement"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hawthorne can become an even greater city! This election, we can move Hawthorne forward or continue with the divisive politics of the past. I believe we accomplish more by focusing on solutions, working together, and addressing the issues that matter most to our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent, business owner, and longtime School Board Member, I believe the best decisions are made by listening to residents, working together, and focusing on practical solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Public Safety"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Everyone deserves to feel safe. I will support strengthening public safety, improving school safety, addressing retail theft, and working with law enforcement to enhance the quality of life throughout Hawthorne."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Address Homelessness"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need practical, compassionate solutions that connect people with services while keeping our neighborhoods clean, safe, and welcoming."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Solve Our Parking Challenges"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work with residents and stakeholders to develop practical, long-term parking solutions for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Affordable Housing"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need thoughtful planning that expands affordable housing opportunities while protecting our neighborhoods and supporting those who need assistance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote and the opportunity to serve on the City Council."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

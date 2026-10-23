@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Claremont City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/claremont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:50Z",
+  "candidates": [
+    {
+      "choice": "Ed Reece",
+      "statement": {
+        "by": "Ed Reece",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 50"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Claremont City Council has been one of the greatest honors of my life. I respectfully ask for your vote to continue providing experienced, responsive leadership that keeps Claremont safe, financially strong, and true to the values that make our community special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, Vice Mayor, and former Mayor, I have focused on delivering results by supporting public safety, investing in our neighborhoods, maintaining our infrastructure, protecting our quality of life, and planning responsibly for Claremont's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a 31-year Claremont business owner and CEO, I understand the importance of responsible budgeting, accountability, and thoughtful decisions that protect taxpayers while delivering excellent city services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by our Claremont first responders in recognition of my unwavering commitment to public safety and my strong support for those who protect and serve our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Beyond City Hall, I proudly represent Claremont as President of the San Gabriel Valley Council of Governments and Chair of the Foothill Gold Line Construction Authority, bringing regional partnerships and resources back to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can keep Claremont safe, strong, and thriving. I would be honored to earn your trust and your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit www.edreece.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

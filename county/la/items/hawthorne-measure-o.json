@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hawthorne — Measure O (Hotel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/hawthorne",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:22:49Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure increasing the City of Hawthorne's transient occupancy (hotel) tax from 12% to 17%, to maintain City services such as police and fire protection, street repairs, park/recreation programs, and other general City services, generating approximately $3.1 million annually, paid only by hotel/lodging guests until ended by voters, with all funds staying local, be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Angie Reyes English, Hawthorne City Council Member; Alex Monteiro, Hawthorne City Council Member ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure O",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Like many California cities, the City of Hawthorne (“City”) imposes a “transient occupancy tax” (“TOT”) on guests of hotels, motels, inns, and similar lodgings who stay 30 days or less. The TOT is a tax on the room rent paid by visitors staying at such lodgings. The operators of these lodgings collect and remit TOT to the City. TOT is commonly called a “hotel bed tax.”"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Currently, the City’s TOT is 12%. Recently, the Hawthorne City Council placed Measure O on the ballot. If approved by City voters, Measure O would increase the TOT to 17%. Measure O also clarifies that the City’s TOT applies to guests of short-term rentals, such as apartments or other residences rented through a platform like Airbnb."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure O is a general tax measure that requires approval by a simple majority (50% + 1) of voters. If approved by voters, the additional revenue generated would be allocated to the City’s General Fund for general government purposes such as police and fire response, parks services, or maintaining infrastructure like streets and sidewalks."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “yes” vote on Measure O favors increasing the City’s TOT to 17%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “no” vote on Measure O favors maintaining the City’s TOT at the existing rate of 12%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure O. If you desire a copy of the measure, please call the City Clerk at 310-349-2915 and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Gabriel Valley Municipal Water District Board, Division 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:48Z",
+  "candidates": [
+    {
+      "choice": "Robert Gonzales",
+      "statement": {
+        "by": "Robert Gonzales",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As Vice Chair of the Water Quality Authority and a 19-year member of the Azusa City Council, I have dedicated my public service to protecting our communities, strengthening infrastructure, and ensuring responsible stewardship of public resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my service, including as Mayor from 2020 to 2025, I have worked to strengthen our community through sound financial stewardship, economic growth, and investments that improve quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Vice Chair of the Water Quality Authority, I have partnered with local, state, and federal agencies to protect the San Gabriel Valley's water supply and secure millions of dollars for water infrastructure and groundwater cleanup projects. Among these efforts is restoring Azusa's Aspen Well, returning an important local water source to service after years of contamination. I also worked with the U.S. Environmental Protection Agency to advance initiatives that protect the San Gabriel River and strengthen our region's environmental health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to ensuring safe, reliable, and affordable water, protecting ratepayer dollars, and planning responsibly for our region's future. I would be honored to earn your support and serve as your representative on the San Gabriel Valley Municipal Water District Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vice Chair, Water Quality Authority/Former Azusa Mayor"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Tizoc Cruz-Gonzalez",
+      "statement": {
+        "by": "Tizoc Cruz-Gonzalez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for the SGVMWD board to ensure our community has ",
+              {
+                "strong": [
+                  "SAFE, SUSTAINABLE, "
+                ]
+              },
+              "and ",
+              {
+                "strong": [
+                  "AFFORDABLE"
+                ]
+              },
+              " water. Climate change and other growing threats are pushing our system beyond what it was originally designed to handle."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past century, our water infrastructure has served us well. Now we must strengthen it for the future without driving up rates. We need a reliable and resilient system that can adapt to whatever comes next."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a fifth-generation Azusan, I want to ensure that future generations can live sustainably and affordably in our community. I have a Bachelor of Science degree from MIT, a Doctorate in mechanical engineering from the University of Michigan, and work as an aerospace engineer on the next human lunar lander."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That technical background helps me evaluate complex systems, ask the right questions, and focus on practical solutions. The future decisions of the water board will have real impacts on our lives and how we live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring new, fresh, and innovative ideas to maintain our water supply without sacrificing affordability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote on election day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Dr. Tizoc Cruz-Gonzalez"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

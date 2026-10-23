@@ -1,0 +1,99 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Inglewood Unified School District Board, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:05Z",
+  "candidates": [
+    {
+      "choice": "Joyce Randall",
+      "statement": {
+        "by": "Joyce Randall",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Joyce Randall is a classroom teacher, education advocate, and your elected Trustee for Inglewood Unified School District, Trustee Area 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Joyce previously taught biology in Inglewood Unified and continues serving students today as a classroom teacher in Los Angeles Unified. She understands what students, parents, teachers, and school employees need because she has worked directly in public education and remains connected to the classroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During Joyce's first term, Inglewood Unified made important progress toward restoring local control after years of state receivership. Joyce has supported responsible oversight, stronger accountability, improved communication with families, and a renewed focus on student achievement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The next term will be critical. As the district prepares to regain local governance, Trustee Area 1 needs steady, knowledgeable leadership from someone who understands both classroom instruction and the responsibilities of the school board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Joyce will continue working to strengthen academic achievement, support teachers and staff, improve parent engagement, protect fiscal stability, expand opportunities for students, and ensure that community voices are heard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Joyce Randall has the experience, commitment, and educational background to help lead Inglewood Unified forward with integrity, independence, and proven dedication."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote again for Joyce Randall for Inglewood Unified School District Trustee, Trustee Area 1."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Cheryl Shaw Williams",
+      "statement": {
+        "by": "Cheryl Shaw Williams",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong resident of Inglewood and a proud product of the Inglewood Unified School District, I understand firsthand the importance of",
+              " a strong public education. I attended Woodworth Elementary, Monroe Junior High, and graduated from Morningside High School before earning a Bachelor of Science in Sociology with a minor in Behavioral Science from California State University, Dominguez Hills."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 15 years, I have dedicated myself to supporting Inglewood students through scholarships, educational programs, and community service. As a Founding Board Member of the Morningside Monarchs Alumni Association, I have helped provide scholarships, recognize student achievement, and expand educational opportunities. I also serve as Speech Chairperson for the Inglewood Black History Celebration, District 4 Planning Commissioner, and Scholarship Board Member for the Century Heights Neighborhood Watch Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am invested in our public schools because I am invested in our families and community. As your School Board Member, I will advocate for fiscal responsibility, academic excellence, safe learning environments, and opportunities that prepare every student for college, careers, and lifelong success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can strengthen our schools and build a brighter future for every child."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

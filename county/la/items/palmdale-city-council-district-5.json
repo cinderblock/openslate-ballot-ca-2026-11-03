@@ -1,0 +1,198 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palmdale City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/palmdale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:59Z",
+  "candidates": [
+    {
+      "choice": "Raycine Ector",
+      "statement": {
+        "by": "Raycine Ector",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 42"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mother/Advocate Ass. Prop. Management"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Raycine Ector, a District 5 resident, mother of four, housing professional, and community advocate running for Palmdale City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than ten years, I have worked in housing and property management, helping residents navigate affordable housing requirements, inspections, recertifications, lease issues, and day-to-day property concerns. This work taught me that good public service depends on listening carefully, applying rules fairly, and following through."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I currently serve in local civil rights leadership, previously led criminal justice advocacy, and have served on a community advisory committee focused on public safety. I am also pursuing paralegal studies and have completed public-policy and leadership training."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are safer neighborhoods, responsible action on illegal mini bike activity, better access to housing and youth opportunities, support for local businesses, transparent spending and constituent service that is accessible and responsive.\nI will work collaboratively, ask difficult questions, communicate honestly, and represent every District 5 resident with fairness and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Practical leadership. Accountable service. Results residents can see."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Cynthia Garcia",
+      "statement": {
+        "by": "Cynthia Garcia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 61"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Executive Assistant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For nearly 40 years, the Antelope Valley has been my home. I am the proud daughter of a highly decorated military veteran who retired after 23 years of service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a single mother, I worked hard to raise my two sons here, both of whom are college graduates. I have also been blessed with a granddaughter. Like so many families, I understand the importance of living in a community where people feel safe, supported, and proud to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My career began as a legal secretary, commuting daily to Encino and the Mid-Wilshire area. For the past 18 years, I have served as Executive Assistant to the Superintendent of the Palmdale School District, gaining experience in leadership, collaboration, and public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have volunteered with the Chamber of Commerce; Christmas parades; PTA; Football, Hockey, and Swim Boosters; Community drives; and Measure AV Oversight Committee because I believe giving back strengthens our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Palmdale City Council because I believe our city can do better. I will work to improve public safety, support responsible spending, expand opportunities for our youth, and help local businesses succeed. Together, we can build a safer, stronger Palmdale for generations to come."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "V Jesse Smith",
+      "statement": {
+        "by": "V Jesse Smith",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Union Representative"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am excited to run for Palmdale City Council to offer bold, principled leadership that works—leadership that listens, takes action, and unites us around a safer, stronger, and more prosperous Palmdale."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Palmdale needs leadership that builds a brighter future for all, including giving residents the right to elect their mayor collectively instead of having one appointed selectively."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your council member, I will prioritize transparency, accountability, and community input. Through our B.E.S.T. model—",
+              {
+                "strong": [
+                  "B"
+                ]
+              },
+              "uilding culture and community, ",
+              {
+                "strong": [
+                  "E"
+                ]
+              },
+              "conomic vitality and innovation, ",
+              {
+                "strong": [
+                  "S"
+                ]
+              },
+              "ocial unity, and ",
+              {
+                "strong": [
+                  "T"
+                ]
+              },
+              "ransportation and infrastructure development—I will support small businesses, public safety, youth activities, seniors, housing, and veterans while working with others to advance shared solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can cultivate a city that is inclusive, resilient, and forward-thinking. Through leadership that works, we can transform Palmdale Blvd, activate our Palmdale Airport, and ensure that everyone's rights are protected under the law."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am passionate about serving you and dedicated to building our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your support to serve as your council member in District 5 and bring leadership that works for all in Palmdale."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Monrovia Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/monrovia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:16Z",
+  "candidates": [
+    {
+      "choice": "Becky A. Shevlin",
+      "statement": {
+        "by": "Becky A. Shevlin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It's an honor and privilege to serve as your Mayor. Being a 2024 All America City Awardee and 2026 Finalist; with the June 2025 reopening of Canyon Park, the many completed and ongoing infrastructure projects, as well as exciting projects on the horizon – the Library, Community Center, and Recreation Park to name a few - we have much to be proud of and look forward to. We continue to build community programs - mental health support through the Care Solace referral system and the SGV Care Homeless, Mental Health, and Crisis Response Program. Our financial future is promising with fiscally responsible budget management and forecasting. Together we have flourished and are ready to fulfill our goals going forward! I will continue to be accessible, set a positive tone of inclusion and representation and lead by example to serve, educate, and engage all Monrovians as well as work collaboratively as a team through City Council, City Staff and Commissions, constituents, and regional and local representation as listed below for the betterment of all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- SGV Council of Governments Governing & Executive Boards; Past President; Homelessness Committee Chair; Capital Projects & Construction Committee Member\n- SGV Regional Housing Trust & Land Trust Board Member\n- Foothill Transit Governing Board President\n- Monrovia Chamber of Commerce City Liaison\n- Los Angeles County City Selection Committee Vice-Chair\n- SGV Mosquito & Vector Control District Trustee; Past President\n- Southern California Association of Governments CEHD Committee Member\n- Los Angeles County Executive Committee for Regional Homeless Alignment, Vice-Chair; Past Chair"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please re-elect me as your Mayor on November 3, 2026. Let's keep the momentum going! beckyshevlin@gmail.com - (626)253-0072"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

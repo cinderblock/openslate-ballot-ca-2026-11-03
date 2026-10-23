@@ -1,0 +1,148 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Monrovia City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/monrovia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:20Z",
+  "candidates": [
+    {
+      "choice": "Tamala Kelly",
+      "statement": {
+        "by": "Tamala Kelly",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dr. Tamala P. Kelly"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your Monrovia City Council Member has been one of the greatest honors of my life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2022, you placed your trust in me to help lead our city. Ever since, I have worked to earn that trust with integrity, purpose, and a commitment to putting our community first. Monrovia has become stronger, more vibrant, and more resilient. Together, we have accomplished so much.\n- Reopening Canyon Park\n- Investing in the award-winning SGVCares program\n- Strengthening our city's financial future without reducing programs and services"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Seeing Monrovia recognized as an All-America City was one of my proudest moments—a reminder that together, through partnership and investment in one another, our community can achieve anything."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I proudly represent you on these regional boards:\n- California Cities Housing, Community and Economic Development Committee\n- San Gabriel Valley Council of Governments Energy, Environment and National Resources Committee\n- 2028 Paralympic Games Committee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of what we've accomplished, there is more to do, more opportunities to create, and more progress to be made such as reimagining economic development in our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am ready to continue serving you and our city. I would be honored to earn your vote once again."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Dr. Tamala Kelly for Monrovia City Council on November 3, 2026."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Larry Spicer",
+      "statement": {
+        "by": "Larry Spicer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Larry Spicer -\nI am a lifelong Monrovian with more than five decades of community connectivity and also a U.S. Army veteran. I have built a record of sustained public service as a City Councilmember since 2011, a Planning Commissioner, MAP Leader, Parent on Patrol for Monrovia Unified School District, and as a volunteer with the American Red Cross and Tournament of Roses. Additionally, I serve on the Foothill Workforce Development Board, the Gold Line Construction Authority, and various neighborhood engagement initiatives and boards, such as Boys and Girls Club, and Foothill Goldline."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For years, I have focused on issues important to residents, such as streets, parks, infrastructure and services, collaborated with schools to increase student successes, helped businesses grow economically, and supported community organizations. By addressing concerns with fairness and transparency, my approach emphasizes fiscal responsibility, long-term planning, maintaining a safe, supportive environment for families, youth, seniors, and veterans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Monrovia is the foundation me, my wife, Delphine, and our three children, all graduates from Monrovia's public schools, build upon. My experience in military service, civic leadership, and community partnership reflects a long-standing commitment to this city's wellbeing and future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote - Larry J. Spicer for Monrovia City Council on Tuesday, November 3rd, 2026."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jesus Rojas",
+      "statement": {
+        "by": "Jesus Rojas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Dedicated First Responder/Community Leader"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a first responder & police officer, I have dedicated my career to protecting our community through service, integrity, & accountability. I am running for Monrovia City Council to bring that same commitment to transparent leadership, responsible budgeting, & practical solutions that keep our neighborhoods safe & preserve the quality of life that makes Monrovia special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I proudly serve on the Rio Hondo Watershed Area Steering Committee (WASC), supporting safe, clean water programs, the Rio Hondo College Foundation Board, which provides scholarships, a credit union board, & a local committee dedicated to raising scholarship funds. In these roles, I work collaboratively to protect our environment, strengthen educational opportunities, & serve our region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The loss of Blondie the bear reminded many of us that Monrovia's natural environment is part of our identity. If elected, I will advocate for stronger partnerships with wildlife experts & state agencies so every reasonable humane option is explored before lethal measures are considered, while always protecting public safety. I will also advocate for the creation of a stand alone senior center in Monrovia."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will listen, lead with integrity, spend taxpayer dollars responsibly, support local businesses, maintain our parks & infrastructure, & preserve the character of our neighborhoods. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Burbank City Clerk",
+    "kind": "race",
+    "jurisdiction": "us/ca/burbank",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:29Z",
+  "candidates": [
+    {
+      "choice": "Kimberley Clark",
+      "statement": {
+        "by": "Kimberley Clark",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: City Clerk"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Burbank Voters,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor serving as your City Clerk for the past four years. I am running for re-election to continue delivering accountable, efficient, and accessible service to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my first term, I successfully oversaw seamless, secure local elections and a thriving passport processing program that provides a convenient, essential service for our residents. Additionally, when a street in Burbank was erroneously redistricted into Glendale, I led the complex annexation project that officially restored our neighbors to their rightful municipality."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment remains simple: transparent governance, streamlined city services, and proactive leadership. With your vote, I look forward to building on this progress and serving our city for another four years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your trust and support."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

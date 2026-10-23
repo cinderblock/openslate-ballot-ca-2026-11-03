@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Montebello City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/montebello",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:35Z",
+  "candidates": [
+    {
+      "choice": "Danielle Romero",
+      "statement": {
+        "by": "Danielle Romero",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Veteran Advocate/Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your appointed District 4 Councilmember has been the greatest honor of my life. I am running to continue serving The City of Montebello with integrity, transparency, and a commitment to putting residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Army veteran, Accredited American Legion Veteran Service Officer, mother, and community advocate, I have dedicated my life to serving others. On the Council, I have worked collaboratively to improve our parks, strengthen public safety, invest in infrastructure, support local businesses, and protect taxpayer dollars through responsible fiscal decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every resident deserves to be heard and represented. My decisions are guided by what is best for our community today while planning responsibly for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue serving District 4 and all of The City of Montebello. Together, we can build on our progress, address future challenges with thoughtful leadership, and preserve the values that make our community a great place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be my privilege to earn your trust and serve as your elected Councilmember."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Rafael Gutierrez",
+      "statement": {
+        "by": "Rafael Gutierrez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Rafael Gutierrez, and for over 45 years, Montebello has been my home. As a lifelong resident, educator, coach, and community volunteer, I have dedicated my life to serving our families and investing in the future of our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In addition I was honored to serve as your elected City Treasurer from 2018-2022."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear: improving our infrastructure, supporting responsible housing projects, enhancing our parks and neighborhoods, attracting new businesses, restaurants, and jobs, and making sure Montebello remains a safe and great place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe in the values that make our community strong—family, education, integrity, teamwork, and hard work. I will be a strong voice for our district and will work collaboratively to create positive results for all Montebello residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I look forward to serving you on a positive path in this beautiful community we call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rafael Gutierrez"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Committed to Service:\nMontebello High School Teacher & Current Athletic Director\n20-Year Varsity Baseball Coach\nLions Club of Montebello Member\nMontebello Baseball Association Commissioner & Board Member\nYouth Coach & Community Volunteer\nMHS Alumni Association Board Member\nChair, Stu Pike/Tak Kobayashi Memorial Scholarship Golf Tournament & Athletic Hall of Fame"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

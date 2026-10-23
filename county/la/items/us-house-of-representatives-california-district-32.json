@@ -1,0 +1,82 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 32",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-32",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:36Z",
+  "candidates": [
+    {
+      "choice": "Larry Thompson",
+      "statement": {
+        "by": "Larry Thompson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "The future is going to happen either with us—or to us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for United States Congress to make sure California leads the right way."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Larry Thompson, \"The Sanity Man,\" a Malibu resident, Hollywood talent lawyer, film producer, businessman, and lifelong problem-solver. My career has been built on recognizing what comes next, bringing creative people together, and turning bold ideas into measurable results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I do not want our children competing for yesterday's jobs. I want them creating tomorrow's industries. Artificial intelligence will transform nearly every profession, and California should command that transformation while protecting privacy, workers, creators, children, and human accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are lowering the cost of living; protecting Social Security and Medicare; improving public safety; reducing homelessness; preventing wildfires and accelerating responsible rebuilding; reducing traffic congestion with a futuristic, high-speed monorail along the 405 Freeway connecting the Valley with the Westside; supporting small businesses; and bringing film, television, technology, and other good-paying jobs back to California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support secure borders with due process, strong national defense, and government that is honest, accountable, and effective."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Government should work at the speed of modern technology, not the speed of outdated bureaucracy. I will work with anyone who has an innovative idea and is willing to put people ahead of politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "History remembers the generations that built the future, not those that feared it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for the person, not the party, who you believe will best represent you and your family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The next 30 years begin now."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

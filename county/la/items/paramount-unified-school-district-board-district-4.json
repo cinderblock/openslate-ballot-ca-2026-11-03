@@ -1,0 +1,183 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Paramount Unified School District Board, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:10Z",
+  "candidates": [
+    {
+      "choice": "Yesenia Maria Cuarenta",
+      "statement": {
+        "by": "Yesenia Maria Cuarenta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: School Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is ",
+              {
+                "strong": [
+                  "Yesenia Cuarenta, "
+                ]
+              },
+              "and I am honored to seek re-election to the Board of Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong Paramount resident, public school teacher, and youth services coordinator, I have dedicated my career to serving our youth and our district communities. I grew up in the neighborhoods of Paramount we call the ",
+              {
+                "strong": [
+                  "\"Sans\""
+                ]
+              },
+              " and graduated from Paramount High School. Coming from the Paramount School District, I want to ensure that every student has the same opportunity to graduate from college."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my elected service on the Board of Education, my commitment is that every student of diverse backgrounds will have access to equal education no matter what their immigration status is. I will continue to advocate for stronger academic achievement, improving students' mental health, increasing parent involvement and creating safer routes to school."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe leadership means listening, asking questions, and making decisions with compassion, integrity and transparency. Our school district has many strengths, and we must continue working to improve student outcomes and ensure our most vulnerable students receive the support they need."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your",
+              {
+                "strong": [
+                  " re-elected"
+                ]
+              },
+              " board member, let's work together to help every student reach their full potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "I would be honored to receive your vote"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Alicia Linden Anderson",
+      "statement": {
+        "by": "Alicia Linden Anderson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent/Business Owner/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong resident of Paramount, a ",
+              {
+                "strong": [
+                  "proud"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Paramount Pirate"
+                ]
+              },
+              ", and a dedicated PTA member for more than 20 years. Paramount is my home. My parents were teachers in the district, my children attended Paramount schools, and now my grandchildren are proud PUSD students. ",
+              {
+                "strong": [
+                  "Serving our schools has been my family's legacy and my greatest honor."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Board of Education representative, I",
+              {
+                "strong": [
+                  " put students first"
+                ]
+              },
+              " by listening to parents, students, teachers, staff, and community members before making decisions. I believe the best results come through ",
+              {
+                "strong": [
+                  "communication, collaboration, and accountability"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have ",
+              {
+                "strong": [
+                  "strengthened academic programs, increased graduation rates, upgraded our schools with air conditioning, new flooring, and water stations, begun the unification of the West Campus and Senior Campus, expanded access to technology,"
+                ]
+              },
+              " and created more opportunities that prepare every student for college, careers, and life. ",
+              {
+                "strong": [
+                  "There is still work to do."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When re-elected, I will continue advocating for ",
+              {
+                "strong": [
+                  "safe schools, high-quality education, fiscal responsibility, equitable opportunities, and expanded Career Technical Education, Arts, and Music programs for all students."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Every child deserves the opportunity to learn, grow, and succeed."
+                ]
+              },
+              " I respectfully ask for your continued support as we build an even stronger future for all PUSD students."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

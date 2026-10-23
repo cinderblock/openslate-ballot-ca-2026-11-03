@@ -1,0 +1,130 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Long Beach Community College District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:59Z",
+  "candidates": [
+    {
+      "choice": "Huy Nguyen",
+      "statement": {
+        "by": "Huy Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: School District Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an experienced education leader, United States Air Force veteran, son of Vietnamese refugees, and Long Beach homeowner, I know education changes lives. I am running for the Long Beach Community College District Board of Trustees, Area 5, to expand opportunities for every student, strengthen workforce training, and protect taxpayers' investments."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 15 years, I have served students and families in the Los Angeles Unified School District. As a School District Administrator, I oversee programs serving thousands of students while managing multi-million-dollar budgets, supervising staff, and ensuring efficient operations. Every day, I make responsible decisions that improve services, maximize resources, and put students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I proudly served in the U.S. Air Force as a Staff Sergeant, completing two tours of duty in Turkey and Afghanistan. I went back to school to earn a Bachelor of Science degree from Cal Poly Pomona, a Master's Degree from Bowie State University, and an MBA in Finance from California State University, Long Beach. As an experienced educator, veteran, and Long Beach City College parent, I will bring independent leadership, fiscal accountability, transparency, and educational experience to prepare students for 21st-century careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to have earned endorsements from the LBCC Faculty Association, VoteVets, United Steelworkers, Teamsters, LBCC Board President Uduak-Joe Ntuk, Vice President Dr. Ennette Morton, and many respected neighborhood, small-business, labor, and community leaders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote. Learn more at www.votenguyen4lbcc.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Susana Gonzalez Edmond",
+      "statement": {
+        "by": "Susana Gonzalez Edmond",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 53"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mother/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Dear Neighbor,"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education has been the foundation of my career and my commitment to public service."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As former President of the Long Beach Council PTA, a higher education leader, public commissioner, and small business owner, I have spent more than 20 years building partnerships that strengthen education, expand opportunity, and serve our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Long Beach Community College District Board of Trustees Area 5 because I believe Long Beach City College changes lives. A strong community college prepares students for university transfer, workforce training, and meaningful careers while strengthening our local economy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will provide thoughtful, collaborative leadership focused on three priorities: student success, fiscal transparency, and community engagement. I will work to ensure every decision puts students first, protects taxpayers' investment, and strengthens collaboration with local schools, employers, labor, and community organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have earned the support of a strong coalition of leaders including outgoing Trustee Dr. Virginia Baxter, Congressman Robert Garcia, Assemblymember Josh Lowenthal and Jose L Solache, and dozens more."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have dedicated my career to bringing people together, solving problems, and serving our community with integrity. I would be honored to earn your vote on November 3rd. You can learn more about my campaign at joinsusana.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

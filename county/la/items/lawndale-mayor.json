@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lawndale Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/lawndale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:44Z",
+  "candidates": [
+    {
+      "choice": "Robert Pullen-Miles",
+      "statement": {
+        "by": "Robert Pullen-Miles",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mayor, City of Lawndale"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve as your Mayor. For more than 22 years, I have proudly served Lawndale as a Planning Commissioner, Councilmember, and Mayor, committed to protecting our neighborhoods, strengthening our economy, and improving our quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have attracted businesses including Target, Sprouts, Bossa Nova, Starbucks, Hirsch Pipe & Supply, WSS Shoes, and Mateo's, creating jobs and strengthening our economy. I will continue promoting quality housing, hotel development, and investment that expands city revenues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I secured $6 million in state funding, including $2 million for road improvements, pedestrian safety and $4 million for a Youth Development Center. Working alongside residents, I successfully fought Metro's proposal to route a light rail line through our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Mayor, I will continue prioritizing public safety, economic development, infrastructure improvements, services for seniors and youth, and preparing Lawndale for opportunities associated with the 2028 Olympics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proudly supported by first responders; Councilmembers Kearney and Cuevas; former Councilmember Rhonda Hofmann-Gorman; community leaders Chelsea Schreiber and Johnny Martinez; business owners, and residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On behalf of my wife, Léna, and our three daughters, thank you for your trust. I respectfully ask for your vote. I'm Pullen for You!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Francisco M. Talavera",
+      "statement": {
+        "by": "Francisco M. Talavera",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 65"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember, City of Lawndale"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your City Councilmember has been one of the greatest honors of my life, and I respectfully ask for your vote to continue serving as your Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong Lawndale resident, my wife, Mabel, and I have been married for 31 years and raised our three children here. My family has lived in Lawndale since 1958, when my grandfather bought the house where I was raised."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 30 years, I served our community as an educator in the South Bay and in Los Angeles before being elected to the City Council. I am committed to ensuring Lawndale's continued financial stability, supporting public safety, improving infrastructure, and encouraging responsible economic development."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, I will continue to provide honest, accessible, and fiscally responsible leadership focused on safe streets and neighborhoods, youth and senior services, and greater economic opportunity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe in public service, a stronger community, and a brighter future. Together, we can build One Lawndale–Our Community, Our Future by listening to residents, working collaboratively, and making thoughtful decisions that strengthen our city for generations to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to earn your trust and your vote. Honored to Serve. Committed to You."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

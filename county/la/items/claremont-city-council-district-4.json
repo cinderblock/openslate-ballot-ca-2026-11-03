@@ -1,0 +1,168 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Claremont City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/claremont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:56Z",
+  "candidates": [
+    {
+      "choice": "Anna Jacobsen",
+      "statement": {
+        "by": "Anna Jacobsen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Urban Planner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My husband and I chose Claremont to raise our three children because of its schools, parks, walkable neighborhoods, and vibrant Village. Over time, it's the people who have truly made Claremont home. I'm running for City Council to protect what our community loves about Claremont while preparing thoughtfully for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm an urban planner and small business owner with master's degrees in public administration and planning from USC. For over 17 years, I've helped cities listen to residents, analyze complex issues, manage public funds, and turn community priorities into practical plans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Claremont parent and community advocate, I founded Better Claremont Playgrounds. We brought families, neighbors, and City staff together to advocate for inclusive, sustainable parks. That work reinforced what I've seen throughout my career: the best decisions are made when residents are heard, facts are clear, and leaders work together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On City Council, I'll support policies that promote local businesses, thoughtful housing, well-maintained parks and city services, more walkable streets, responsive public safety, and long-term financial stability. I'll listen, ask hard questions, and pursue practical, responsible solutions rooted in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'd be honored to earn your vote and serve District 4. www.annaforclaremont.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Aundre Johnson",
+      "statement": {
+        "by": "Aundre Johnson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My connection to Claremont began in childhood. From an early age, I recognized what made this community such a special place. Over the years, I have watched Claremont grow while seeing some of the qualities that make our city special begin to change. My commitment to Claremont has only grown stronger, which is why I am asking for your support to serve on the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Claremont is one of California's most desirable communities because we value safe neighborhoods, excellent public services, tree-lined streets, responsible financial management, and engaged residents. As our city faces new opportunities and challenges, we need practical, experienced leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served on the Sumner/Danbury School Site Council, a citywide Citizens Advisory Committee, and the Police Commission."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work to keep our neighborhoods safe, improve infrastructure, address homelessness with practical solutions, safeguard taxpayer dollars, and keep City Hall transparent and accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support thoughtful planning that preserves Claremont's unique character while encouraging responsible economic growth and strengthening local businesses. I am ready to put Claremont first by providing practical, results-oriented leadership that protects our quality of life and prepares our city for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lawrence Mueller",
+      "statement": {
+        "by": "Lawrence Mueller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Software Engineer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Lawrence Mueller, a software engineer and resident of the City of Claremont."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I put myself through college delivering pizza in Claremont. I learned this city street by street, and earned my education doing it. I finished a degree in computer science and built a career writing software. From this I know that hard work and small details matter."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Software is a useful background for a city council member. My work is untangling complicated systems, solving problems under pressure, and reading the fine print most people never see. I am studying Claremont's public contracts and staff reports now, before the election rather than after it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am not accepting donations. I am funding this myself and knocking on every door in District 4, because I would rather hear what you need in person than mail you something you will throw away."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I cannot promise that I will always agree with you. I can however promise that you will always know where I stand and why, that I will do the reading before I vote, and that my decisions will reflect the people I represent rather than my own convenience."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be grateful for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "LawrenceForClaremont.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

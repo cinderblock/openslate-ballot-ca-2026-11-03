@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palmdale School District Board, Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:49Z",
+  "candidates": [
+    {
+      "choice": "Nancy K. Smith",
+      "statement": {
+        "by": "Nancy K. Smith",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience Counts! I have a broad background in education. I have been a teacher, classified Director, Deputy Superintendent of Business Services and Superintendent of Schools. I believe that my expertice in education, especially in fiscal planning and being a School Board Member for the past 13 years allows me to use my expertice in continuing to help provide excellent services to the students and families of our Palmdale School District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an active member in our Antelope Valley communities involved in the various Chamber of Commerce Associations, AV School Boards Association (past President, current 1st Vice-President), Regional Director California School Boards Association and a member of the group working to improve student learning outcomes by realigning the state frameworks."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe that Palmdale School District has made great strides in improving our facilitiess and the programs we offer to our students and families. I would love to continue to plan and help implement even more improvements for our community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ralph Velador",
+      "statement": {
+        "by": "Ralph Velador",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 57"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Coordinator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud product of California's public education system and the parent of four children who attended public schools in Palmdale, I have a deep personal commitment to ensuring every student has access to a high-quality education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every student deserves the opportunity to reach their fullest potential in a school district where parents, teachers, staff, and community members work together toward a common goal: student success. Effective leadership requires more than simply holding public meetings it means actively listening to parents, educators, and stakeholders and ensuring their voices help shape Board decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to continuing to make the Board more responsive, accountable, and connected to the needs of our community. As a proud Army veteran, former Palmdale Planning Commissioner, and current school board trustee, I have the experience, dedication, and leadership necessary to continue serving our students, families, and community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and the opportunity to continue serving as your school board representative."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

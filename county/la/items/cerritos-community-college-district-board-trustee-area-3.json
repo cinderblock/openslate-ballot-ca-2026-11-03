@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cerritos Community College District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:50Z",
+  "candidates": [
+    {
+      "choice": "James Cody Birkey",
+      "statement": {
+        "by": "James Cody Birkey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the 8 years since Trustee Birkey joined the board, Cerritos College has risen to become one of the ",
+              {
+                "strong": [
+                  "top-performing community colleges in the nation"
+                ]
+              },
+              ". Working alongside campus leadership, faculty, staff, fellow trustees, and our community, we've achieved extraordinary results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For example, last year we awarded over 9,000 degrees and certificates—the largest graduating class in the college's history. That's a ",
+              {
+                "strong": [
+                  "261% increase"
+                ]
+              },
+              " in 10 years. Today, there are more Cerritos College graduates from Bellflower than ever, and thanks to our Dual Enrollment pilot project with BUSD, some are even earning degrees alongside their diplomas."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education from Cerritos College is now ranked the ",
+              {
+                "strong": [
+                  "#1 Top Return on Investment "
+                ]
+              },
+              "(ROI) in Los Angeles County—where students recoup educational costs in just two months. Economists now estimate that Cerritos College's economic impact",
+              {
+                "strong": [
+                  " adds $500 million to our local economy every year "
+                ]
+              },
+              "by increasing earnings and professional capabilities. We're changing lives, bringing more money to Bellflower, and momentum continues to grow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Birkey is a Harvard grad with decades of experience in higher education, a long-time Bellflower resident with a track record of transformational success. Join countless local leaders, business owners, and graduates—\"Vote Birkey\" for the next generation of students to thrive here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: www.votebirkey.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sue Elhessen",
+      "statement": {
+        "by": "Sue Elhessen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Dr. Sue El-Hessen and I have devoted my career to helping students discover opportunities that change the course of their lives. That lifelong commitment is why I am running for the Cerritos College Board of Trustees, District 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former Cerritos College counselor and faculty member, I have walked alongside students as they balanced work, family responsibilities, financial challenges, and the pursuit of their dreams. I have also worked closely with faculty, staff, administrators, parents, unions, community volunteers, employee organizations, and elected leaders, gaining a deep appreciation for the shared responsibility of helping every student succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My previous service on the Bellflower Unified School District Board of Education reinforced my belief that governing is about far more than good intentions. Trustees must navigate limited resources, changing state mandates, competing priorities, and growing public expectations while making decisions that protect both today's students and tomorrow's opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe effective governance requires integrity, sound fiscal stewardship, careful listening, respectful collaboration, and the courage to make difficult decisions that keep students at the center. Together, we can ensure that Cerritos College continues changing lives—one student, one family, and one generation at a time. I am ready!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

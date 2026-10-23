@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Saugus Union School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:14Z",
+  "candidates": [
+    {
+      "choice": "Anna Griese",
+      "statement": {
+        "by": "Anna Griese",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent, Businesswoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor serving the Saugus Union School District community over the past four years. As your Trustee, I have worked to be an independent, accessible voice—listening to different perspectives, asking the tough questions, and making thoughtful decisions that strengthen accountability and put students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As both a parent and business leader with more than 20 years of leadership experience, I bring experience in strategic planning, budgeting, problem-solving, and delivering results. I believe effective governance requires transparency, collaboration, fiscal responsibility, and continuous improvement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my first term, our district welcomed a new superintendent, had multiple schools recognized through the 2025 California Distinguished Schools Program, earned the 2026 ACSE Impact Award, received national recognition through the Alliance for a Healthier Generation's America's Healthiest Schools program, strengthened accountability through improved reporting and performance dashboards, and invested in modernized school facilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If reelected, I will continue working to improve student behavior and positive learning environments, support, recruit, and retain outstanding teachers and staff, strengthen communication and community engagement, and ensure accountability through clear goals, measurable outcomes, and continuous improvement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote and continue delivering better outcomes for our students, teachers, staff, families, and community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Alisa Gentry",
+      "statement": {
+        "by": "Alisa Gentry",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a first responder (EMT) for over twenty years, I know how to listen and solve problems under pressure. As the mother of a special needs child, I know how difficult our public education system can be."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want to represent you on the Saugus Union School District Governing Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our schools are strong thanks to the teachers, administrators and staff at each of our school sites. But we need to bring change to the district office."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because I am committed to using my skills to ensure that our schools become the centerpiece of our Helmers, Foster, Northpark, Mountainview, and Tesoro communities. And to open the lines of communication between the governing board, superintendent, and our school communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alisa Gentry"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.alisagentry.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

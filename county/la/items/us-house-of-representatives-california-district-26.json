@@ -1,0 +1,151 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 26",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-26",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:33Z",
+  "candidates": [
+    {
+      "choice": "Sam Gallucci",
+      "statement": {
+        "by": "Sam Gallucci",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a business executive, nonprofit founder, and lifelong community leader, I believe government should focus on solving problems–not creating more of them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For decades, I've led large nonprofit organizations, managed billion-dollar budgets, and built teams that delivered measurable results. Throughout our region, I've worked to strengthen communities by helping thousands of women and children find safe and stable homes through The Kingdom Center, while helping launch Revive Academies to expand high-quality educational opportunities for families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for Congress because Washington needs more leaders with real-world experience and fewer career politicians. Families deserve representatives who listen, work across differences, and put practical solutions ahead of partisan politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are straightforward: lowering the cost of living, improving public safety, addressing homelessness and the border issue with compassion and accountability, protecting parents' role in their children's education, supporting small businesses, and making government more transparent and accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a husband, father of three, and grandfather of ten, I understand the challenges families face every day. I will bring executive leadership, fiscal responsibility, and a commitment to putting people before politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you're looking for independent leadership focused on results instead of political division, I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Sam Gallucci"
+                ]
+              },
+              "\nA Leader, Not a Politician."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.samgallucci.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jacqui Irwin",
+      "statement": {
+        "by": "Jacqui Irwin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Jacqui Irwin will stand up to the Trump Administration and protect our community, our democracy, and our values."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jacqui has been fighting for our community for decades. Her track record is why she is supported by working families, community leaders, and firefighters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "She stands up for our values:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-funding mental health services for veterans\n-modernizing and improving local schools and colleges\n-bringing good jobs to our communities\n-reducing pollution and protect our open space"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jacqui Irwin will stand up for our values in Congress, and ensure the needs of our community are met."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our member in Congress, Jacqui Irwin will:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-fight to make everyday necessities affordable\n-help create good jobs that will support a family\n-protect our democracy, civil rights, and the integrity of our elections\n-make sure we prioritize the health and safety of neighborhoods over politics"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jacqui Irwin is the candidate with a REAL record of serving our community and delivering on the issues we care about."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "She listens, thinks, and ACTS. We need leaders like Jacqui in Congress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jacqui Irwin is endorsed by:\n-Senator Adam Schiff\n-Senator Alex Padilla\n-Rep. Julia Brownley"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.JacquiIrwin.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

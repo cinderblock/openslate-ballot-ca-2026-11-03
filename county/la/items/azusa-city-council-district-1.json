@@ -1,0 +1,174 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Azusa City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/azusa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:15Z",
+  "candidates": [
+    {
+      "choice": "Mark A. Caro",
+      "statement": {
+        "by": "Mark A. Caro",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 63"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Energy & Power Field Material Control"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the years, I have come to appreciate what makes District One such a special place to call home. It is our neighborhoods, our families, our businesses, and most importantly, the people who care deeply about this community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because I believe representation begins in the neighborhood, not just at City Hall. A council member should be visible, accessible, and willing to listen before decisions are made."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, my focus will be simple:\n- Public Safety\n- Neighborhood Representation\n- Emergency Preparedness\n- Responsible Economic Development\n- Fiscal Responsibility"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This campaign is not about politics; it is about service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your trust and your vote on November 3rd, 2026."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Andrew N. Mendez",
+      "statement": {
+        "by": "Andrew N. Mendez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 39"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember, City of Azusa"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have had the utmost pleasure of serving on the Azusa City Council since 2020."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a tight-knit community, every penny spent at City Hall counts. As a businessman, husband and father, I believe we must be smart and disciplined to ensure our tax dollars make an impact. Today, our city boasts an incredible $52 million in General Fund reserves, while we are also actively investing in major Capital Improvement Projects, including renovations to our Library, Senior Center and our roads."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have also created the Azusa Resource Center, creating a hyperlocal approach to addressing homelessness and connecting those in need with services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a leader in Azusa, I have worked to make life better for our entire community. I fight for all: Like our senior citizens living on fixed incomes; our youth who benefit from after-school programs; families who want safe neighborhoods to raise their children; and our veterans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue championing our business community, guarding our resources, strengthening public safety, promoting economic development, expanding programs for seniors, youth and veterans, and advocating for homeownership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That is my promise to you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To learn more about my candidacy, please visit: www.AndrewForAzusa.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Patricia Gonzales",
+      "statement": {
+        "by": "Patricia Gonzales",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leading with heart has always been my guiding principle, and making a meaningful difference has always been my purpose. As your City Councilmember, I will prioritize transparency, meaningful public engagement, building public trust, fiscal responsibility, and inclusive leadership. I will bring proven experience, sound judgment, and a steadfast commitment to serving the residents of District 1 and the City of Azusa with integrity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 25 years, I proudly served the public at the Metropolitan Water District of Southern California, retiring as a Human Resources Principal Labor Relations Analyst. My experience in labor negotiations, ethics, workplace investigations, conflict resolution, and building collaborative solutions earned me a reputation for professionalism, integrity, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to public service extends beyond my career. I have served as President of my HOA Board for 12 years, Planning Commissioner for the City of Monrovia, Parks and Recreation Commissioner for the City of Azusa, and currently serve my second term as President of the San Gabriel/Pomona Regional Center Board of Directors, helping oversee an organization with a budget exceeding $600 million that serves more than 19,000 individuals with developmental disabilities and their families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience that Matters-Leadership you can Trust."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

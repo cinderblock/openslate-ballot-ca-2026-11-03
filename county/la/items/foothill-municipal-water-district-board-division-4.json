@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Foothill Municipal Water District Board, Division 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:45Z",
+  "candidates": [
+    {
+      "choice": "Amy Chen",
+      "statement": {
+        "by": "Amy Chen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Are we addressing our aging water infrastructure prudently, at the lowest responsible cost? Are we prepared for the next Eaton Fire—or the next disaster?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Foothill Municipal Water District Board is making long-term financial commitments right now that will shape water rates and taxes for decades. Water-related property taxes have more than doubled since 2024—with another 20% increase this year. For residents on fixed incomes, these are not line items. They are real hardships."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "These decisions demand independent scrutiny, technical expertise, and proven water policy experience."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have spent 40 years in California water, delivering infrastructure and advising board members on high-stakes policy and investment decisions. I bring the technical depth to understand what's at stake, the policy experience to evaluate tradeoffs, and the independent judgment to ask the hard questions before public dollars are committed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Professional Engineer, a 30-year La Cañada Flintridge resident, a commissioner on the City's Public Works & Traffic Commission, and a member of its Emergency Preparedness Coordination Committee, I am running to bring real accountability to the Foothill Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Amy Chen, Division 4. Water decisions should be earned—not rubber-stamped."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Laura Olhasso",
+      "statement": {
+        "by": "Laura Olhasso",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Appointed Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The guaranteed delivery of sufficient safe water to our homes faces increasing threats. As supply from the stressed Colorado River becomes less reliable, there will be increased pressure to find alternative sources of water. Those water sources will be more expensive. Aging infrastructure must be replaced. Our resilience during emergencies such as fire and earthquake must be ensured. All of which needs to be accomplished with an eye toward impacts on us taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Addressing these serious issues requires both expertise and experience. Each of the four FMWD directors with whom I serve possess water expertise, having been involved in the water community for years. But a robust board is a well-rounded one utilizing all the necessary skills needed to work together successfully. My twelve years on the LCF City Council, including three terms as your mayor, have given me the knowledge and relationships to work effectively with the Council and staff. My background as a government affairs consultant will be invaluable as we petition the state and the federal governments for funding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is my broader experience that was the deciding factor in my appointment to this seat. Now I ask for your vote to continue working on your behalf."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

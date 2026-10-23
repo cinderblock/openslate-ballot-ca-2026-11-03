@@ -1,0 +1,290 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Culver City City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/culver-city",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:15Z",
+  "candidates": [
+    {
+      "choice": "Jeannine Wisnosky Stehlin",
+      "statement": {
+        "by": "Jeannine Wisnosky Stehlin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Jeannine Wisnosky Stehlin, and I'd be honored to earn your vote for City Council. My husband and I raised our three daughters here, and they attended CCUSD schools. Like so many families, we chose Culver City for our excellent schools, safe neighborhoods, and strong community spirit."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for City Council to enhance Culver City's quality of life by improving parks and neighborhoods, making our city more affordable, addressing homelessness, creating safer streets, sidewalks, intersections, and routes to school, work, and play; reducing traffic congestion; supporting schools, local businesses, and creative economy; and providing fiscally responsible leadership that listens, and ensures every neighbor has a voice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a small business owner and nonprofit executive director specializing in performing arts, access to justice, education, and student healthcare. I earned a BS from the University of Illinois and an MBA from the Illinois Institute of Technology."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I served as a Cultural Affairs Commissioner (2016-2024), on the Citizens Bond Oversight Committee for CCUSD, am a SAG-AFTRA union member, and co-founder of community organizations that strengthen our parks, schools, arts, and neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by a coalition of residents and community leaders: Lt. Governor Eleni Kounalakis, State Treasurer Fiona Ma, former Culver City mayors, school board members, commissioners, and organizations representing labor, business, equality, environment, and the creative economy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jeannine4CulverCity.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Franklin Carvajal",
+      "statement": {
+        "by": "Franklin Carvajal",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 53"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Psychologist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Franklin Carvajal, a Culver City resident, psychologist, business owner, longtime renter, and homeowner. I came to the United States alone at age 16 with few resources and a determination to build a better life. Through hard work and education, I earned two PhDs from UMass Amherst and Virginia Tech. My experiences with financial hardship, public transportation, affordable housing, and homeownership taught me the importance of opportunity, perseverance, and practical leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Culver City Council because local government should deliver results that improve residents' everyday lives. My priorities are simple: a Culver City that is safe, clean, quiet, beautiful, and accountable. That means responsive public safety, clean streets and parks, peaceful neighborhoods, thoughtful development and green spaces, responsible use of taxpayer dollars, transparent government, and a City Council that listens to residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Culver City is my home. I want to bring my professional experience, life experience, and common-sense approach to City Hall and work collaboratively to protect what makes our community special while building a strong future for everyone."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Freddy Puza",
+      "statement": {
+        "by": "Freddy Puza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mayor/Education Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your current Mayor, I am honored to seek re-election to the Culver City Council. As the city's first openly LGBTQ+ Mayor, I have worked to make Culver City more affordable, accountable, and functional for the people who live and work here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I championed the Affordable Housing Trust Fund, launched the Affordability Subcommittee, and expanded access to childcare, helping working families, seniors, renters, and small businesses stay in the city they call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also led on investments in the Mobile Crisis Team, giving residents access to trained mental health professionals during crises while ensuring our emergency response systems remain strong and reliable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I delivered small business microgrants and fee relief to help local entrepreneurs recover and grow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under my leadership, City Council adopted our first balanced budget in three years while investing in the basics that matter most: repairing sidewalks, resurfacing roads, and expanding tree canopy maintenance to make our neighborhoods greener and more livable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proud to be endorsed by Congresswoman Sydney Kamlager-Dove, Supervisor Holly Mitchell, State Senator Lola Smallwood-Cuevas, Assemblymember Isaac Bryan, the Sierra Club, and dozens of other elected officials and community leaders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for re-election to keep Culver City affordable, safe, and welcoming for everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.freddypuza.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Thomas Aujero Small",
+      "statement": {
+        "by": "Thomas Aujero Small",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 67"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Urban Development Strategist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Great cities don't happen by accident they're built through thoughtful, integrated planning. That conviction guided my career and my service as Culver City Councilmember and Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience has taught me that housing, transportation, economic development, infrastructure, and quality of life are not separate challenges they're interconnected. When cities plan them together, they become more affordable, prosperous, and resilient for every generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, I led the City's General Plan Update, championed the Ballona Creek Bikeway Extension, strengthened the city's finances, expanded housing opportunities, and secured millions of dollars in outside funding for local priorities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My approach is to anticipate change, integrate solutions across issues, and measure success by results residents feel: safer streets, more housing choices, stronger neighborhoods and a government that plans instead of reacting to crises."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Effective government depends on understanding how every decision affects the whole city. I believe Culver City deserves leaders who connect the dots linking housing to transportation, infrastructure to economic opportunity, and planning to everyday outcomes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That is the experience and proven leadership I bring to Culver City: integrated thinking, disciplined execution, and results that improve everyday life for every neighborhood."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To learn more visit www.smallforculvercity.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kimberley Griffin",
+      "statement": {
+        "by": "Kimberley Griffin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 63"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Public Safety Professional"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am dedicated, personally and professionally, to serving the Culver City community. As a longtime resident, public safety professional, volunteer, and civic leader, I bring 20+ years of experience working collaboratively to address public safety, homelessness, human trafficking, and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have always been guided by common sense, accountability, integrity, and respect for our community. Throughout my career, I have worked with government agencies, nonprofit organizations, businesses, and community members to solve problems, build partnerships, and deliver meaningful results. I believe government works best when it listens to residents, spends taxpayer dollars responsibly, plans thoughtfully for the future, and delivers exceptional public services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will work to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Connect the unhoused with critical services\n- Fight for affordable housing, so seniors and young professionals can afford to live here\n- Enhance mobility without creating gridlock\n- Help small businesses thrive\n- Protect our community\n- Invest in city infrastructure\n- Stop wasteful spending\n- Make City Hall more transparent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Culver City is a remarkable city with an engaged and caring community. I am committed to preserving what makes our neighborhoods special while planning responsibly for the future. It would be an honor to earn your vote and serve as your representative on the Culver City City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Griffin4culvercity.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

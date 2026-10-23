@@ -1,0 +1,150 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alhambra City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/alhambra",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:54Z",
+  "candidates": [
+    {
+      "choice": "Adele Andrade Stadler",
+      "statement": {
+        "by": "Adele Andrade Stadler",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I'm Adele Andrade Stadler and I'm running for re-election to Alhambra City Council District 5."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want to build on my record of getting things done for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During this term I initiated the first inclusionary housing ordinance to require developers to include affordable housing in their plan. I secured funding for the first supportive housing project with 44 units for low income families. I initiated the first community workforce agreement, including 100 Unions. I initiated the smoke-free housing ordinance and banned the sale of flavored tobacco to our schoolchildren. I secured funding for the pedestrian safety and bike plan and created a traffic calming ordinance to address neighborhood traffic and environmental impacts. I will support workforce housing for Teachers, Nurses, Construction, and essential workers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue safeguarding our families and build on our neighborhood watch successes. I will continue to support broad community engagement and collaborate with partnerships to invest in our city. I will continue to respect our diverse community, by supporting multilingual resources. Alhambra has challenges, and opportunities. We must work together to shape a better future for Alhambra."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "VOTE Adele Andrade-Stadler For City Council District 5 Adele4Alhambra.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Alejandro Covarrubias",
+      "statement": {
+        "by": "Alejandro Covarrubias",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hello my name is Alejandro Covarrubias. I work as a commercial plumber and I have first hand experience on building, maintaining, and updating infrastructure in places like government buildings, schools, and office buildings."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "One of our primary priorities is to help the next generation of workers in gaining meaningful employment in the trades. We would bring trade workshops and promote trade schools."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Melissa Michelson",
+      "statement": {
+        "by": "Melissa Michelson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "NO MORE POLITICAL STATUS QUO"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Born to a South American immigrant family, I know what it's like to struggle. I moved to Alhambra before the 2008 recession and have watched families work hard to protect their QUALITY OF LIFE."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a college civics and ESL professor, I help immigrants and working adults build better futures."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alhambra deserves leadership that puts RESIDENTS, SMALL BUSINESSES, and TAXPAYERS first—NOT developers, special interests, or machine politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll be a STRONG, INDEPENDENT VOICE in City Hall, focused on"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Neighborhood safety and character\nHelping small businesses thrive\nImproving quality of life\nTraffic and sustainability\nTransparency and fiscal accountability"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll listen, ask tough questions, and make decisions based on FACTS and DATA."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've championed campaign finance reform, government accountability, and environmental stewardship; served on the city's first historic preservation commission; lead the successful effort to stop a MASSIVE luxury housing project on polluted land; and fought to save Alhambra's last urban forest."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an ANTI-CORRUPTION CANDIDATE, I accept NO contributions from developers, corporations, or PACs because I always put #PeopleOverProfits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want to SERVE MY NEIGHBORS, not build a political career. I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: melissamichelson4alhambra.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

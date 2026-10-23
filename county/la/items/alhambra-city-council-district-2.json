@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alhambra City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/alhambra",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:57Z",
+  "candidates": [
+    {
+      "choice": "Ross J. Maza",
+      "statement": {
+        "by": "Ross J. Maza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a resident of the beautiful City of Alhambra for nearly 48 years, and local business owner, I am proud and honored to have served my community as Alhambra Councilmember since 2018. I am running for re-election, as I have enjoyed working with our wonderful residents, and feel that there is still much work to be done to continue to improve and strengthen our community. I am committed to continue to work hard and fairly with everyone I cross paths with, and to always be available to any of my Alhambra neighbors. My priorities continue to be public safety, economic development, preservation of our residential neighborhoods, and cleanliness throughout our city. Focus on these areas, and of course others, will continue to maintain and improve the quality of life in Alhambra. I am grateful to all of our residents for the opportunity to Alhambra, and for allowing me to be a part of the decisions that will continue to shape our city presently, and for the generations ahead."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

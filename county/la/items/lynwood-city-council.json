@@ -1,0 +1,436 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lynwood City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/lynwood",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:51Z",
+  "candidates": [
+    {
+      "choice": "Mishaun Watkins",
+      "statement": {
+        "by": "Mishaun Watkins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My grandmother founded Grandmothers Against Violence to look after our neighbors. She taught me that Lynwood takes care of its own. I'm Mishaun Watkins. I was born and raised here, attended El Camino College, and earned my Political Science degree from Cal State Dominguez Hills. As an AmeriCorps law fellow, I helped families navigate the courts and saw how much local government shapes daily life. For the past decade I've done that work across Los Angeles and Orange counties: public housing, public safety, parks and recreation, and homeless services. Today, as a Community Development Analyst for the City of Santa Ana, I manage millions in grant funding and programs that helped reduce the city's homeless count by nearly 200 people. Since 2025, I've served as your Lynwood Planning Commissioner, where I pushed to update outdated income limits so more families qualify for rent assistance. I'm running because Lynwood families deserve a City Council that spends every dollar where residents can see it. As your Councilmember, I'll work to keep our neighborhoods safe, bring jobs and small businesses back to our commercial corridors, address homelessness, and expand housing our families can afford. I humbly ask for your vote.\nLearn more: MishaunforLynwood.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gabriela Camacho",
+      "statement": {
+        "by": "Gabriela Camacho",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lynwood, it has been an honor to serve you. During my time on the City Council, I helped ",
+              {
+                "strong": [
+                  "secure funding to improve city facilities"
+                ]
+              },
+              ",",
+              " supported ",
+              {
+                "strong": [
+                  "new park amenities, "
+                ]
+              },
+              "recruited ",
+              {
+                "strong": [
+                  "experienced leadership bringing stability to City Hall"
+                ]
+              },
+              ",",
+              {
+                "strong": [
+                  " balanced budgets"
+                ]
+              },
+              ", and attracted ",
+              {
+                "strong": [
+                  "businesses that strengthen our economy"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have built ",
+              {
+                "strong": [
+                  "partnerships with schools, law enforcement agencies, and community organizations "
+                ]
+              },
+              "to address ",
+              {
+                "strong": [
+                  "public safety concerns "
+                ]
+              },
+              "and improve ",
+              {
+                "strong": [
+                  "quality of life"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, educator, and mom, my priorities remain clear: ",
+              {
+                "strong": [
+                  "keeping our community safe, delivering quality city services, and promoting economic development"
+                ]
+              },
+              ". At a time when many families face ",
+              {
+                "strong": [
+                  "fears at the national level"
+                ]
+              },
+              " and",
+              {
+                "strong": [
+                  " serious public safety concerns locally"
+                ]
+              },
+              ", I am",
+              " committed to ensuring Lynwood remains a ",
+              {
+                "strong": [
+                  "safe, welcoming, and supportive place to live"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a ",
+              {
+                "strong": [
+                  "proud product of Lynwood"
+                ]
+              },
+              ".",
+              " After graduating from Lynwood High School, I attended Amherst College and earned a Master's Degree in Education from USC. For more than ",
+              {
+                "strong": [
+                  "25 years"
+                ]
+              },
+              ",",
+              " I have served students in Lynwood schools as an educator."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My husband and I are ",
+              {
+                "strong": [
+                  "proud homeowners in Lynwood"
+                ]
+              },
+              ", where we are raising our twin children,",
+              " who attend",
+              {
+                "strong": [
+                  " Lynwood public schools"
+                ]
+              },
+              ". I remain committed to ",
+              {
+                "strong": [
+                  "leading with integrity, fiscal responsibility, and a vision that puts Lynwood families first"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Juan Muñoz-Guevara",
+      "statement": {
+        "by": "Juan Muñoz-Guevara",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 29"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember/Labor Organizer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was born and raised in Lynwood, the child of immigrants, attended our public schools, and earned my degree at UCLA. As a Labor Organizer with UNITE HERE Local 11, I fight every day, so workers earn fair wages and are treated with dignity and respect. I bring that fight to the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I co-authored the Lynwood Values Act to protect our immigrant families. I helped deliver nearly 200 new homes, including a 100% affordable housing project. I won a $25 healthcare worker living wage and championed converting an empty gas station into the new Northgate Market. I secured nearly $15 million for new parks and community investment, and led Lynwood into the Clean Power Alliance for cleaner, more affordable energy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is more work to do. I'll keep pushing for more housing opportunities so families can afford to stay, and young people can start building a future of their own here, safer neighborhoods built on trust between residents and law enforcement, and new economic development and jobs. I'll fight for accountability and transparency and keep bringing state and federal resources home to Lynwood."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve. I ask for your vote to keep fighting for Lynwood. Learn more at JuanForLynwood.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Emiliano Arellano",
+      "statement": {
+        "by": "Emiliano Arellano",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 26"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Public Safety Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Emiliano Arellano, and I'm running for Lynwood City Council to draw on my legal experience to make City Hall more responsive to your needs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I learned public service by watching my mother, who worked two jobs, and my father, a teacher, spend evenings speaking up at City Council meetings for our neighbors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a student at 32nd Street USC Magnet, I founded an organization to feed people experiencing homelessness and support local animal shelters. At Cal State Dominguez Hills, I earned degrees in Public Administration and Environmental Studies and built the campus's urban farm, deepening my commitment to clean, healthy neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At Southwestern Law School, I represented children in dependency court and helped survivors of violence navigate the immigration system during the recent wave of aggressive ICE raids."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Recently, as Chair of Lynwood's Public Safety, Parking & Traffic Commission, I turned an inactive body into one that holds the city accountable, helping fix long-ignored problems like potholes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I'll strengthen public safety, protect immigrant families, expand access to city resources, and make City Hall more responsive and transparent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: EmilianoForLynwood.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Luis Gerardo Cuellar",
+      "statement": {
+        "by": "Luis Gerardo Cuellar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 32"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Vice President of Legislative Affairs"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After serving my country as a United States Marine Corps Officer, I knew my commitment to service had to continue here at home, in the community that raised me. ",
+              {
+                "strong": [
+                  "It has been an honor and privilege to serve our City of Lynwood over the past two years."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the City Council, I helped:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Bring in a new administration that raised professional standards, improved the workplace for city employees, and strengthened services for residents.\n- Reduce the City's budget deficit from ",
+              {
+                "strong": [
+                  "$9.8 million to $1.8 million"
+                ]
+              },
+              ", while continuing the work to close the remaining gap.\n- Make Lynwood more stable and attractive to businesses that can bring new investment and opportunity.\n- Deliver ",
+              {
+                "strong": [
+                  "Financial Literacy Workshops"
+                ]
+              },
+              " that teach children and families how to save, budget, and build a stronger future together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When immigration raids brought fear and uncertainty to our neighborhoods, ",
+              {
+                "strong": [
+                  "I stood beside Lynwood families"
+                ]
+              },
+              ". I defended due process and connected residents with trusted information and resources because no one should feel alone or unprotected in the community they call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to Lynwood is personal. I will continue leading with ",
+              {
+                "strong": [
+                  "integrity, compassion, and fiscal responsibility"
+                ]
+              },
+              " to build a safer, stronger city where families, employees, and businesses can thrive."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Alfonso Morales",
+      "statement": {
+        "by": "Alfonso Morales",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to be a lifelong advocate for Lynwood families. More than four times you've entrusted me with your vote to serve on the Lynwood school board working to improve educational opportunities and invest in the future of our children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When the Lynwood High School campus collapsed, I helped lead our district's advocacy efforts in Sacramento as Board President. Working with educators, families, administrators, and state leaders, we secured more than $250 million in state funding to rebuild the campus, creating the learning environment our students deserve. Ensuring our children have access to safe, high-quality schools has always been a top priority."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an attorney, I help keep families together and guide individuals through a difficult legal system. At a time when many families face fear and uncertainty, Lynwood needs leaders who will protect residents, communicate clearly, and stand up for working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Lynwood City Council because there is more work to do. I will bring my experience as a school leader and attorney to strengthen public safety, support local businesses, improve city services, and protect the quality-of-life Lynwood families deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

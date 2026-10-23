@@ -1,0 +1,79 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles Community College District Board, Seat 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:01Z",
+  "candidates": [
+    {
+      "choice": "Adam Bruno",
+      "statement": {
+        "by": "Adam Bruno",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Education and mental health have both been lifelong passions of mine. My first college experience was at Los Angeles Valley Community College, where I received my AA before continuing to a 4-year university and then graduate school. I believe community colleges are the backbone of early adult education, and a well-educated society is a successful society. If we can help community colleges thrive, we can significantly improve the quality of life in Los Angeles. All students, regardless of ethnicity, income, religion, or other background deserve an accessible and high quality education, and it would be my honor to make this happen."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Elaine Alaniz",
+      "statement": {
+        "by": "Elaine Alaniz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Healthcare Workforce Specialist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Website: "
+                ]
+              },
+              "www.elainereadytoserve.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Los Angeles Community College students deserve trustees who understand education from both the classroom and the workforce. I bring both perspectives. As a Healthcare Workforce Specialist, I help connect students and job seekers to healthcare training, certifications, licenses, apprenticeships, and career opportunities. My work involves navigating state and federal grant-funded workforce initiatives and translating those resources into opportunities for people at different stages of their education and careers, from recent graduates and first-time job seekers to experienced workers seeking new skills and advancement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also understand LACCD from firsthand experience. I attended multiple LACCD colleges, both in person and online, and earned associate degrees in Film Production and Fire Technology. The communication skills I developed through Film Production, combined with my education in emergency response, opened doors across multiple industries and prepared me for work in workforce development and public policy, where I engage with stakeholders, community leaders, and public servants. I know what it is like to pursue an education while facing real financial and transportation challenges. There were times when I relied on public transportation to travel between campuses, grants and scholarships to continue my education, food resources available to students, and library and digital materials that helped reduce the cost of expensive textbooks. Those resources mattered. They helped me finish. That experience is why I understand that student success extends beyond the classroom. Students need affordable educational materials, nutritious food, financial literacy, scholarships, transportation resources, academic support, and clear pathways from education to employment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Trustee, my priorities will include career technical education, nursing and allied health programs, apprenticeships, workforce development, job placement, transfer opportunities, and strong employer partnerships. I want to expand pathways that allow students to build upon associate degrees toward bachelor's degrees and strengthen partnerships with universities so students can maximize the education and credits they have already earned. As President of my neighborhood council, I bring experience in public policy, fiscal accountability, board governance, and working collaboratively with people who hold different perspectives. I also serve in federal disaster recovery, which has strengthened my understanding of government operations, community needs, public resources, and the importance of institutions being prepared to respond when people need them most. I bring the perspective of an LACCD student, the experience of a workforce professional, and years of public service and community leadership. I know firsthand what these colleges can make possible because I have lived that journey myself."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Malibu City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/malibu",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:56Z",
+  "candidates": [
+    {
+      "choice": "A Sam Dibaei",
+      "statement": {
+        "by": "A Sam Dibaei",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Friends, Locals, Malibuites,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember I will represent you. The issues are simple. Fire. Water. Highway Safety. Education and I will always make myself available to YOU."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.DibaeiforCouncil.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Danny Smith",
+      "statement": {
+        "by": "Danny Smith",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 44"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Danny Smith is a husband, father, and neighborhood leader. Since losing his home in the Palisades fire, Danny has been on the front lines of the recovery effort as a member of the Malibu Rebuild Task Force and a zone captain for the La Costa and Carbon Beach neighborhoods. His advocacy efforts have included major victories for rebuilding homeowners such as the overturning of a regional water board policy prohibiting the reuse of functioning septic systems on the beachfronts and the defeat of state legislation SB 1229, which would have punished those who need to sell their lots after a disaster. He has been a relentless voice for accountability and transparency within city hall, a bold supporter of property rights, and a champion for Malibu's small business community. Danny vows to fight for and protect the Malibu he loves, to use the full power of the city council to spearhead efforts to empower our recovery, and to safeguard our environment and the shared values expressed in Malibu's mission and vision statements."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Doug Stewart",
+      "statement": {
+        "by": "Doug Stewart",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 78"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Malibu has been my home for more than 25 years. I built a career in finance and budgeting here, and I've spent years volunteering locally, including on the Public Safety Commission, with CERT, and eventually as your Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The fires and floods of the past year tested our city like never before. With our community's support, I stepped up to meet those challenges head on, whether it was helping open the Rebuild Center for residents in need, working with the Governor's office to accelerate like-for-like rebuilds, or supporting the city's efforts to recover what was lost through litigation and other avenues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ran on getting results - and we have delivered. The Highway Patrol returned to PCH after 33 years. Speed cameras are coming to our most dangerous stretches, funded without local taxes. Homelessness dropped from more than 250 people to fewer than 50. The General Fund gained over $4 million in new revenue, none from residents' pockets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is still important work ahead: completing the recovery, maintaining strong finances, and protecting the unique character that makes Malibu special. I would be honored to continue serving you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote to re-elect Doug Stewart!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Marianne Riggins",
+      "statement": {
+        "by": "Marianne Riggins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an incredible honor serving the Malibu community. When you elected me four years ago, I promised dedicated, community-first leadership. Together, we have made historic strides toward securing Malibu's local independence, enhancing our public spaces, and protecting our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My top priority remains local control over our children's education. As a member of the School Separation Ad Hoc committee, I helped lead our team to a historic agreement with SMMUSD to split the district, paving a clear path toward an independent Malibu Unified School District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Equally vital is protecting our community. Utilizing my deep knowledge of local planning and building safety, I am dedicated to streamlining our fire rebuilding efforts, ensuring residents can return home safely and efficiently. Furthermore, I have championed much-needed community amenities, helping secure approvals for our long-awaited Permanent Skate Park and collaborating with partners to develop community lands for youth soccer fields and a multi-generational recreation center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for reelection to ensure these critical safety and community projects reach the finish line. I will continue to protect our unique environment and lead with accountability. I respectfully ask for your vote on November 3, 2026."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

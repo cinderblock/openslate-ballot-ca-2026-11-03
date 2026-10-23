@@ -1,0 +1,100 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles Community College District Board, Seat 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:03Z",
+  "candidates": [
+    {
+      "choice": "Gabriel Buelna",
+      "statement": {
+        "by": "Gabriel Buelna",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 53"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: College Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to serve as your Los Angeles Community College District Trustee. I respectfully ask for your vote for re-election so I can continue expanding educational opportunities and strengthening our community colleges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a Ph.D. in Political Science from Claremont Graduate University, a Master of Social Work from San Diego State University, and a bachelor's degree from CSUN, where I have taught since 1999. As a Children and Family Law attorney and father of three daughters, I have dedicated my career to serving families, students, and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked to remove barriers to student success while ensuring taxpayer dollars are invested wisely. I strengthened campus safety, improved emergency preparedness, increased transparency and accountability, and expanded workforce training, university transfer pathways, and student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee I:\n- Led the effort to pass a historic construction bond that included a $500 million investment in student housing.\n- Created the Student Basic Needs Task Force to secure permanent funding for food and emergency housing assistance.\n- Launched the 1,000 Meal Challenge to help food-insecure students.\n- Authored legislation allowing colleges to offer credit courses in multiple languages.\n- Expanded financial aid, transfer pathways, and enrollment opportunities for first-generation students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "\"Dr. Gabriel Buelna is committed to improving opportunities for our LA Community College students to get good-paying, skilled jobs. He is a genuine partner to labor, someone who understands that education and workforce training must work hand in hand. That's the kind of leadership that changes lives, and it's why we're proud to endorse his re-election to the Los Angeles Community College Board.\" --Ernesto Medrano, Executive Secretary, LA/OC Building and Construction Trades Council"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "\"I've served alongside Trustee Gabriel Buelna and seen firsthand his commitment to students. He is smart, honest and a tireless worker on behalf of our students. Gabriel has been an unwavering advocate for basic needs, transfer access, and fiscal responsibility on our board. I've rarely seen a Trustee that focused on removing barriers for student housing, food, safety, and access. I am proud to endorse him for re-election.\" --Nichelle Henderson, Los Angeles Community College District Trustee"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue expanding educational opportunity, strengthening workforce development, protecting taxpayer money, and ensuring every student can earn a degree, certificate, or career credential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My hobby is BBQing ribs, brisket, and tri-tip for family, friends, and community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit www.buelna4laccd.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Follow: TikTok, Instagram, YouTube @Buelna4LACCD"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

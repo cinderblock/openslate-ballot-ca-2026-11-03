@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Baldwin Park City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/baldwin-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:19Z",
+  "candidates": [
+    {
+      "choice": "Alejandra Avila",
+      "statement": {
+        "by": "Alejandra Avila",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 62"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Baldwin Park resident for 52 years, elected Baldwin Park City Clerk for eight years, Baldwin Park Councilmember for seven years and Mayor for one year. Alejandra is a dedicated employee of the Baldwin Park Unified School District for the past 33 years where she had held various positions that involve helping Baldwin Park residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alejandra Avila believes Baldwin Park needs leaders that care and engage in the community to ensure a better quality of life and more opportunities for all residents. She will continue to work to bring integrity and the trust of the people to the council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alejandra Avila's Top Priorities\nWork diligently with the Police Department to assure safety is top priority; Continue to build and update infrastructure to continue the beautification of our city; Work side by side with the Baldwin Park School District to help our students with more educational and job opportunities; Plan and provide more services to our veterans; and work closely with the state and county officials to help the unhoused."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Help Baldwin Park continue to move forward. Vote Alejandra Avila for City Council and put family and community first."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jean M. Ayala",
+      "statement": {
+        "by": "Jean M. Ayala",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Teacher/Vice Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education: Loyola Marymount University, M.Ed. -School Administration"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Loyola Marymount University, B.A. – Liberal Studies"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud lifelong resident and 34-year veteran teacher of the Baldwin Park Unified School District, I am vested and committed to this community. Public Service continues to be a large part of who I am. In addition to being a professional and well-respected teacher to generations of families; I have been honored to serve this community as an approachable, passionate, and engaged elected official. I continue to support projects which provide a positive quality of life including park growth, infrastructure progress, and funding for resident programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to have served this community as Recreational Community Service Commissioner, City Clerk, Councilmember and more recently as Mayor Pro Tem. I have the confidence of residents, business owners, colleagues and staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to work collaboratively to provide the best opportunities for our residents and community members and continue to address issues affecting our community such as: public safety, housing, homeless and the economy. Baldwin Park is not immune to these concerns. With your support, I will continue to give, serve and promote that which provides for the quality of life in our great community!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

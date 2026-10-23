@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Glendora Unified School District Board, Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:53Z",
+  "candidates": [
+    {
+      "choice": "Monica García",
+      "statement": {
+        "by": "Monica García",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve as your Glendora Unified School District Trustee. As both a GUSD parent and your elected Trustee, I understand that outstanding schools strengthen our community, protect our investment in Glendora, and prepare the next generation for success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, my priorities will be:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Building on Excellence - Preserving GUSD's tradition of academic achievement and preparing every student for college, careers, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Responsible Stewardship - Making transparent, accountable decisions that protect taxpayer dollars, invest wisely in our schools, and ensure every dollar benefits students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Students First - Supporting outstanding teachers, maintaining safe schools, expanding opportunities for every student to succeed, and partnering with parents to help every child reach their full potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience matters. Proven leadership matters. I have served our community with integrity, listened carefully, worked collaboratively, and made thoughtful decisions focused on what is best for Glendora."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to lead with honesty, transparency, and a steadfast commitment to preserving the excellence that makes GUSD a source of pride for our entire community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so I can continue building on excellence and serving our community with integrity, experience, and an unwavering commitment to every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "MonicaGarciaForGUSD.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "C J. Cohick",
+      "statement": {
+        "by": "C J. Cohick",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 38"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Product Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a Glendora dad. My wife and I chose this town in 2017 for what everyone can feel here: neighbors who know each other, families at the center of life, kids growing up with real roots. Our schools should form young people who can carry that forward. Kids of character, ready for whatever comes next."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've spent my career as a product manager working with artificial intelligence. I know what's coming for the world our kids will inherit, and it makes character matter more, not less. Strong kids can master any new tool. No tool can substitute for purpose, honor, and strength."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Glendora Unified faces declining enrollment and real budget deficits. I'll bring professional discipline to those numbers, protect what makes our schools worth choosing, and work to bring more Glendora families back into partnership with their district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe Glendora families decide what's right for their own children, and that a trustee's job is stewardship: listen to parents, back our teachers, and keep decisions here at home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

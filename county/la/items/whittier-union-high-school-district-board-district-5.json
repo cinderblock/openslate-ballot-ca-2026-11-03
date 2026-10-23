@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Whittier Union High School District Board, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:21:22Z",
+  "candidates": [
+    {
+      "choice": "Armando Urteaga",
+      "statement": {
+        "by": "Armando Urteaga",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 54"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator/School Administration"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve as your Whittier Union High School District Board Member, having been unanimously selected by the Board of Trustees. With over 30 years of experience in public education, I am committed to continuing the service, accountability, and student-centered leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, I've held various positions, including teacher, dean, assistant principal, principal, and Executive Director of Human Resources. Additionally, I spent 20 years as an elected member of the East Whittier School District Board, where I worked to advance academics, modernize schools, strengthen fiscal stewardship, and advocate for all students. These efforts led to the designation of National Blue Ribbon and California Distinguished schools, as well as significant gains in student achievement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My background in school leadership, governance, human resources, labor relations, and district operations enables me to make informed decisions, build trust, and support both students and the community. I hold degrees from CSU Los Angeles and the University of La Verne. I was also recognized as the 2017 Principal of the Year and the 2020 California League of Schools Educator of the Year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I are proud parents of three sons, who will attend Whittier Union. I remain dedicated to creating safe, innovative schools, maintaining fiscal responsibility, and preparing students for college, career, and life."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

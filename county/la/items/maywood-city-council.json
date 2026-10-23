@@ -1,0 +1,468 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Maywood City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/maywood",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:13Z",
+  "candidates": [
+    {
+      "choice": "Eduardo De La Riva",
+      "statement": {
+        "by": "Eduardo De La Riva",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 48"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mi gente,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since you first elected me in 2013, it has been the greatest honor of my life to serve the people of Maywood. Together, we have restored integrity, transparency, and accountability to City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When I sought re election in 2018, our city was still recovering from the damage caused by a previous administration whose members were charged with and convicted of public corruption crimes. We pledged to restore trust through honest, ethical leadership, and we have worked every day to earn your confidence by governing with transparency and fiscal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We also inherited a city facing a severe financial crisis and on the brink of bankruptcy. Through disciplined leadership, we have passed balanced budgets every year since 2020, eliminated chronic deficits, and rebuilt Maywood's emergency reserves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of what we have accomplished together, our work is not finished. I am seeking reelection to complete major projects already underway, including new housing, the renovation of Riverfront Park, and a state of the art Teen Tech Center for our youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your trust and your vote once again. Together, we can continue building a stronger, safer, and more prosperous Maywood."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Thomas Ramon Martin",
+      "statement": {
+        "by": "Thomas Ramon Martin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Healthcare Industry Professional"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Several residents, from Maywood, asked me to run for City Council, due to issues affecting our people. I have always helped people in need here in our city. I have an open door to help our residents. I am bilingual and Latino."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need more trees, we need new bus shelters, we need to continue to repair our sewers, and we need to empower parents to have new programs at our parks. Graffiti and homelessness has gotten worst in our city. I will work on programs to keep our sidewalks clean. I opposed any new homeless shelter in the City, where it can bring more homeless people. We need more safety in our streets. I oppose data centers but support Public Wi-Fi."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The fire in Boyle Heights affected us but the City Council, did not do anything to help us. I will make sure, whenever something like that occurs that we help the residents. ln addition, I will work with the County and State to get us grant funding and help. We need new job programs to help our teens, young adults, and older folks. I will help make Maywood a better place to live and work at."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gabriela A. Bernal",
+      "statement": {
+        "by": "Gabriela A. Bernal",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 50"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 20 years, I have owned and operated a successful transportation company built on hard work, integrity and responsible leadership. Throughout my career, I have created employment opportunities for members of our community while earning a reputation for fairness, accountability, and sound decisions-making. As a business owner, I understand the importance of managing budgets, solving problems, and making decisions that serve the best interests of employees, customers, and the community. These experiences have prepared me to provide thoughtful and effective leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have proudly called Maywood home for the past 27 years and have been a homeowner for the last 8 years. I am committed to serving our community and working to improve the quality of life for all the residents."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Edith Rodriguez",
+      "statement": {
+        "by": "Edith Rodriguez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Chief Financial Officer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Edith Rodriguez, I grew up in the City of Maywood and I have lived here since 1969. I graduated from Bell High School and attended college."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I work as a Chief Financial Officer in a corporation, where I have developed skills in finance, budgeting, communication, project management, legal compliance and leadership. I also bring 25 years of financial banking experience. I believe these skills would allow me to contribute meaningfully to our community. In addition, I value transparency, accountability, and respectful communication and careful decision-making. I am prepared to make that commitment to the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, my priorities would be to strengthen the security of our community, where our residents and business owners feel safe, invest in resources and programs for our youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Improve communication with our residents to ensure that their concerns are being heard and addressed, and that housing is being fairly met."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together we can make Maywood a place where our businesses can thrive, our youth can build a future, and our families can feel safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the city council is an opportunity to give back to the community that I am proud to be part of. I would be honored to have your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gustavo Villa",
+      "statement": {
+        "by": "Gustavo Villa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 71"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Gustavo Villa, and I am honored to ask for your support for Maywood City Council. I have lived the values of hard work, family, and community, and I believe our city deserves leadership that listens, works together, and delivers results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear. First, I will work to improve public safety by supporting our police and promoting safe neighborhoods where families and businesses can thrive. Second, I will focus on cleaner streets, better-maintained parks, and improvements to our local infrastructure so that Maywood remains a city we are proud to call home. Third, I will fight for transparent, accountable government that spends taxpayer dollars wisely and keeps residents informed about important decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also believe in creating opportunities for our youth, supporting local businesses, and ensuring City Hall is responsive to every resident. By working together, we can strengthen our community, improve our quality of life, and build a brighter future for the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your trust, your vote, and the opportunity to serve the people of Maywood."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Aleyda Lemus",
+      "statement": {
+        "by": "Aleyda Lemus",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 49"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Wife/Mother/Store Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education and Qualifications: College graduate with a Bachelors Degree in Marketing and Fine Arts at AIU University. As a mother, home owner and active community member, I understand the importance of safety and unity. I volunteer at local schools and support programs that strengthen opportunities for our children. As a businesswoman, I recognize the logistics of managing people and finances."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proud to announce I'm running for Maywood City Council. Our Community deserves better representation and leadership, putting community over profit. Leaders should listen, understand, follow up on their commitments and work alongside residents to address important issues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Council member, I will focus on helping the community thrive, putting my time and effort to keep our city safe and prosperous by supporting our schools as well as improving public safety. Additionally I will invest in parks, libraries and community spaces. I want to promote responsible economic developments that raise home property values. I aim to make programs and services accessible for all residents, especially fixed income families. I will support local businesses and startups to generate job opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we will build a stronger, safer more prosperous Maywood for all residents. I humbly ask for your support and vote in the upcoming elections. Thank you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Aleyda Lemus\nCandidate for Maywood City Council"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mayra Aguiluz",
+      "statement": {
+        "by": "Mayra Aguiluz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 33"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Licensed Therapist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My Fellow Maywood Residents,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your City Councilmember over the past four years has been one of the greatest honors of my life. Thank you for placing your trust in me and allowing me to serve our community with transparency, integrity, compassion, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have made meaningful progress. We restored fiscal stability by balancing the city's budget and rebuilding our emergency reserves. We invested in infrastructure improvements, renovated our parks, expanded our urban forestry efforts, and created more community events that bring our families together. These accomplishments were possible because we worked together with a shared vision for a stronger Maywood."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While we have achieved a great deal, our work is not finished. Important projects are already underway, and I am seeking your support for re-election to ensure they are completed while continuing to protect our city's financial future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Licensed Professional Clinical Counselor, I have dedicated my career to helping others, and I bring that same commitment to public service every day. I will continue to lead with honesty, love, compassion, and the highest ethical standards because Maywood deserves leadership that puts people first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we will keep moving Maywood forward."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maritza Cruz",
+      "statement": {
+        "by": "Maritza Cruz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 54"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Member Services"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My Maywood Community,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Maritza Cruz, and I am honored to be a candidate for the Maywood City Council. Maywood is more than the city where I have lived for the past 25 years. My community I deeply care about and the place I am committed to serving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Maywood has been more than my hometown it's the community where I have built my life, raised my family, and developed a deep commitment to serving my neighbors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a current Planning Commissioner, I actively participate in community programs, city events, and volunteer opportunities because I believe strong communities are built through service, collaboration, and civic engagement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I have built a career in Human Resources, helping people with compassion, integrity and accountability. The same values I will bring to the City Council by, being transparent, and working together to find solutions that improve our quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work to strengthen public safety, keep our neighborhoods clean, expand opportunities for our youth, support local businesses, and ensure our seniors receive the resources they deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am ready to serve with honesty and dedication. I would be honored to earn your trust, support and your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Veronica Peral Bernabe",
+      "statement": {
+        "by": "Veronica Peral Bernabe",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 52"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Community Insurance Professional"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Veronica Bernabe. It is both an honor and a privilege to ask for your support and your vote for City Council of Maywood."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I proudly called city of Maywood my home for the past three years. I was raised in the neighboring communities of Huntington Park and Bell, where I learned the importance of hard work, respect, family, faith and serving others and dedication values that continue to guide me today."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our city deserves leadership built on integrity, transparency, accountability and strong values. I am committed to listening to our residents, working together, making thoughtful decisions that strengthen our community and working tirelessly to improve the quality of life for every family in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a woman of faith, I know God's will be done, and if I am given the opportunity to serve as your Councilwoman, I will work faithfully, honestly, and with dedication to represent every member of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your trust, your support, and your vote. Together, we can build a stronger, safer, and more united future for our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your consideration and support."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

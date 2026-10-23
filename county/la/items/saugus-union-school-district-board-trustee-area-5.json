@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Saugus Union School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:16Z",
+  "candidates": [
+    {
+      "choice": "Cindy Larae Hallman",
+      "statement": {
+        "by": "Cindy Larae Hallman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 68"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired Educator/Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cindy Hallman believes every child is more than a test score. They have a name, a story, unique strengths, and challenges that deserve to be understood. As a Saugus School District Board Member and lifelong educator, she will work to ensure that every student receives the support, encouragement, and challenge they need to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cindy is not running for a political position: she is running to continue the work that has been her passion for 40 years – as a teacher, principal, and university professor – advocating for children and helping educators give every student the opportunity to succeed. She sees the role of board members to include all stakeholders to ensure that student learning is the utmost priority."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cindy's passion is simple; she wants every child to have the chance to thrive. She wants the stakeholders in the district to see the whole child, support the teachers, challenge the students, and never lose sight of individuals behind every desk."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "\"I would appreciate your vote to ensure that the educational experience for each student, parent, and educator is the highest priority of the Saugus Union School District.\""
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Christopher Trunkey",
+      "statement": {
+        "by": "Christopher Trunkey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to represent you on the Saugus Union School District Governing Board since 2014."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Last year, 6 of our elementary schools were recognized by the California Department of Education as Distinguished Schools including Cedarcreek, Rosedell, and Plum Canyon."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district was recognized in a national Harvard study For post-covid academic achievement in both English Language Arts and Mathematics (1 of only 11 in the state of California)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "New classroom buildings have been opened on the campuses of Rosedell (2025), Plum Canyon (2020), and Skyblue (2022). In addition, Cedarcreek opened a new multi-purpose room building (2021) and instructional garden with a culinary arts program (2025)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I look forward to continuing my commitment to excellence in elementary education for all students and respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience. Commitment. Results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Christopher Trunkey\nSaugus Union School District\nGoverning Board Member, Trustee Area 5"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.trunkeyforsaugus.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

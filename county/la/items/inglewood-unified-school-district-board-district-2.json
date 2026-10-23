@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Inglewood Unified School District Board, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:06Z",
+  "candidates": [
+    {
+      "choice": "Joe W. Bowers",
+      "statement": {
+        "by": "Joe W. Bowers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Education Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Inglewood Unified School District Board of Education Trustee Seat 2 because every child deserves an excellent education, and our community deserves experienced leadership committed to student achievement, fiscal responsibility, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to Inglewood Unified is personal. My son attended school in the district, and my wife served as president of the Board of Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For years, I have advocated for stronger public schools through community engagement and public policy. I co-founded the Education Equity Coalition, serve as the Inglewood Area Ministers Association's liaison to the school district, serve on a district committee, and work with community leaders, board members, district administrators, and state legislators to strengthen our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A Stanford graduate with a B.S., M.S. in Engineering, and an MBA, I led engineering, business, and strategic planning initiatives for Fortune 500 companies, including IBM, Exxon, and The Coca-Cola Company. As a contributing editor for California Black Media, I write about education policy, school finance, and school governance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will listen, ask tough questions, make informed decisions, and always put the interests of students and taxpayers first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

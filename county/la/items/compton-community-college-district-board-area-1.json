@@ -1,0 +1,88 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Compton Community College District Board, Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:59Z",
+  "candidates": [
+    {
+      "choice": "Andres Ramos",
+      "statement": {
+        "by": "Andres Ramos",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 40"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since you first elected me, Compton College has come a long way. Together we earned the College's full accreditation, strengthened the District's finances, renovated and built new facilities, expanded the services offered at our Student Health Center, and grew enrollment and graduation rates year over year since the pandemic low."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "But our work is not finished. I will continue to prioritize:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "College Affordability"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rising costs are putting higher education out of reach for too many families. I will keep making sound fiscal decisions that put students first – protecting our campus food pantries, free daily cafeteria meals, laptop and hotspot loan programs, expanding the number of scholarships awarded."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Academic and Career Guidance"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Enrolling is not enough – students need to graduate ready for what is next. I will keep pushing to raise graduation rates and ensure every student has the counseling they need to transfer to a four-year university or the qualifications needed for jobs that pay a livable wage, while saving time and money."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Facilities"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our campus is finally becoming the college it always deserved to be. I will keep a close eye on ongoing construction, ensure bond dollars are spent wisely, and prioritize local hiring. We are set to become the first community college in Los Angeles County to have on campus student housing next year, 2027! Next, we are bringing a 24-hour full-service urgent care facility to campus – serving students and the broader community alike."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You have entrusted me for years to move Compton College forward; I have fought for you in Sacramento and in DC to ensure this continues to be the work that improves the future of Compton College students and staff. I humbly ask for your vote to keep that work going for years to come. Thank you."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Huntington Park — Measure HP (Term Limits)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/huntington-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:24:01Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall an ordinance be adopted to establish a lifetime limit of two (2) terms for members of the City Council, where a partial term of more than two (2) years counts as a full term, and a partial term of two (2) years or less does not count against the limit? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Eduardo Martinez, Mayor, City of Huntington Park; Nancy Martiz, Council Member, City of Huntington Park ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Hp",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "PREPARED BY THE CITY ATTORNEY OF THE CITY OF HUNTINGTON PARK"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council of the City of Huntington Park has placed Measure HP on the ballot to ask the voters to amend Title 2, Chapter 9 of the Huntington Park Municipal Code regarding city council term limits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Currently, the Huntington Park Municipal Code limits city council members to serving three (3) terms. However, the existing law contains a reset provision: if an individual sits out of office for at least one municipal election cycle, their term counter resets to zero, allowing them to run for and serve up to three additional terms."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved by a majority of voters, Measure HP would eliminate this reset provision and establish a strict limit of two (2) terms during an individual's lifetime. This would operate as an absolute lifetime maximum. Once an individual has served two terms, they would be permanently disqualified from running for, being elected to, or being appointed to the City Council again, regardless of any time spent out of office."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure also establishes specific rules for how terms are calculated:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- ",
+          {
+            "strong": [
+              "Partial Terms: "
+            ]
+          },
+          "A partial term (resulting from an appointment or a special election to fill a council vacancy) will only count as a full term if the individual serves more than two consecutive years in that term. A partial term of office consisting of two years or less will not count against the lifetime limit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- ",
+          {
+            "strong": [
+              "By-District Elections: "
+            ]
+          },
+          "Moving from one voting district to another within the city will not reset an individual's term limit counter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Pursuant to California Government Code Section 36502(b), this measure applies prospectively only. It will not affect any person currently serving a term of office until that term is completed, and terms served prior to November 3, 2026, will not count toward the new lifetime limit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"Yes\" vote will establish a two-term lifetime limit and eliminate the reset provision. A \"No\" vote will retain the current three-term limit with the reset provision."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

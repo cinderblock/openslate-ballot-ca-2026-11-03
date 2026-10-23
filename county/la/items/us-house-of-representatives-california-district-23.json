@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 23",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-23",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:30Z",
+  "candidates": [
+    {
+      "choice": "Tessa Lynn Hodge",
+      "statement": {
+        "by": "Tessa Lynn Hodge",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "We need new leadership in Washington. We need someone who will tackle the affordability crisis. We need someone who will fight for homeowners when homeowner insurance companies refuse to do business here in our state. We need someone who will fight for our rural communities as we see hospitals and schools closing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I get it. I'm a lifelong resident of our district and my husband and I have called this community home our entire lives, so I know the struggles we're all dealing with."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why I'm in this fight. To be our voice in Washington.\nI'm proud to be endorsed by Republican and Democratic leaders, as well as many independents. I will be our voice in Washington.\nAs a Licensed Clinical Social Worker, I have seen the struggles of those in our community, and have worked to make our communities a safer place for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner, I know what it's like to struggle with your bills. I know how hard it is to support your family. As the great granddaughter of immigrants from Mexico, I understand the pain and fear a lot of us are facing now.\nWe desperately need change here in our communities. We cannot go with the status quo."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote.\nTessa is a Licensed Clinical Social Worker who has worked in community based mental health, medical social work, and policy and legislation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit www.TessaForCA.com for more information."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jay Obernolte",
+      "statement": {
+        "by": "Jay Obernolte",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I started a successful business from my college dorm room over 30 years ago. Since then, I've created hundreds of high-paying jobs and raised my family in our community. I ran for office because I worried my children couldn't live the same American Dream, even if they worked as hard as I did, because our government isn't working for us. I'm fighting to change that in Washington."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hardworking Californians suffered when reckless government spending drove up inflation to a 40-year high. That's why I've fought to reduce inflation by passing commonsense reforms to eliminate fraud and abuse, cutting over $1.6 trillion in wasteful spending."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While Sacramento politicians raised our taxes on gas and healthcare, I fought for the Working Families Tax Cuts. That stopped a $1,500 per year tax increase on taxpayers, eliminated taxes on overtime, tips, and Social Security, and increased the child tax credit for families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When soft-on-crime politicians allowed human trafficking and drugs to pour into our community, I fought to secure our border and passed laws holding fentanyl poisoners accountable. Since then, drug overdoses have fallen 30%."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm also deeply committed to fighting for those who fought for us. That's why I worked with both Republicans and Democrats to expand resources for Veterans and give our soldiers a well-deserved raise."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe that America's best days are still ahead of us. I would be honored to earn your vote and continue fighting for you in Washington. Learn more about me and my values at ElectJay.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

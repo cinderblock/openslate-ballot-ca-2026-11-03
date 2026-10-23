@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 31",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-31",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:35Z",
+  "candidates": [
+    {
+      "choice": "Gil Cisneros",
+      "statement": {
+        "by": "Gil Cisneros",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a United States Navy veteran, former Under Secretary of Defense, and your Congressman, I've learned that leadership is measured by results. I've been committed to serving our country, standing up for working families, and delivering real investments that strengthen communities across the 31st congressional district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Families continue to face rising costs. That's why I've fought to secure over $18 million dollars for local transportation, public safety, water, and community improvement projects that create jobs and deliver lasting benefits throughout our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the son of a Vietnam veteran exposed to Agent Orange, I know firsthand the sacrifices military families make. My father's struggle with health challenges fuels my commitment to ensuring that every veteran receives the care and benefits they have earned. I'll continue fighting to protect veterans' healthcare, and expand access to affordable, high-quality healthcare for every family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Keeping our communities safe requires supporting law enforcement while investing in prevention, mental health resources, and efforts to reduce crime before it happens. I believe public safety and accountability go hand in hand, and I'll continue working with local leaders to ensure every family feels safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our democracy and our fundamental freedoms continue to face important challenges. I remain committed to protecting the right to vote, defending reproductive freedom, safeguarding Social Security and Medicare, and ensuring every family has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is still more work to do. I would be honored to continue serving as your Congressman and respectfully ask for your support."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

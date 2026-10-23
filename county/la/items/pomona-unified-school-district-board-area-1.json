@@ -1,0 +1,132 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pomona Unified School District Board, Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:29Z",
+  "candidates": [
+    {
+      "choice": "Christine Raquel Cruz-Arvayo",
+      "statement": {
+        "by": "Christine Raquel Cruz-Arvayo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired School Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a \"people first\" approach, I have welcomed the opportunity to influence the culture of Pomona Unified School District schools and promote student academic achievement and personal growth for the past 30 years. I have an unrelenting passion for helping students succeed academically, socially, and personally. My work as a high school English and Health teacher, Director of Student Activities, ASB Advisor, Resource Teacher, and a Program Administrator in the Secondary Education Department has helped students make the most of their educational experience and prepare for post-secondary education or the workforce."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have also had the privilege of serving as a member of the San Antonio ROP Board for 12 years. My qualifications combine strong work values with a solid education and work history that aligns closely with Pomona Unified School District's commitment to student achievement. I respectfully ask for your support."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lisa C. Nashua",
+      "statement": {
+        "by": "Lisa C. Nashua",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: College Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lisa Nashua has been a Pomona resident for over two decades, including ten years developing and implementing community-based programs in the visual and performing arts in Pomona. She is committed to pipelining students from K-12 to college to receive a four-year degree or Career Technical Education of their choice. It has been her privilege to serve as a member of the PUSD Board of Education representing trustee area 1 for the last 3 ½ years. During this time the district has achieved a decade high of a 92.8% graduation rate on the state of CA school dashboard. Career and Technical education developed and implemented 39 programs, including high-paying careers in its award-winning health career ladder. As a trustee, Dr. Nashua has enthusiastically supported music program expansion across the district and cultural enriching programming. Dr. Nashua remains committed to supporting the district's teachers, staff and students with access to quality education in safe facilities. This commitment extends to continuing to implement strategies to achieve transparency and accountability to our community and their trust to build and renovate schools to benefit our children."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "John Mendoza",
+      "statement": {
+        "by": "John Mendoza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Tax Payer Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our educational institutions across California are currently facing significant challenges and PUSD is no exception. Conflicting state and federal economic pressures are threatening PUSD funding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "PUSD has historically submitted bond measures and property tax ballot measures initiatives to generate the loss of revenue. Trump has declared a war on education, children of immigrants and sciences."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In order to off set revenue loss PUSD regularly submits bond measure in which property tax payers have yet to see tangible improvements in school facilities. Instead in Pomona numerous school structures remain vacant and abandoned creating city blight."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a candidate I advocate for accountability regarding our tax dollars. School district funds should be distributed equitable, as the prioritization of PUSD facilities in Diamond Bar and Philips Ranch is not fair."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "PUSD Measure UU was approved by 70.56 % of PUSD voters in 2024 general election authorizing $385.000.000 in bonds leveling $60.00 per $100.000 of assessed valuation generating $22.500.000 . Measure UU provided no exemption for seniors, handicap and low in property owners struggling."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In PUSD district 88 .2% student's enrollment of 19.005 are classified as socially economic disadvantage."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a past Water Board official and past City of Pomona commission member I ask for your vote"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote 4 Mendoza"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

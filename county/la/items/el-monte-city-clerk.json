@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Monte City Clerk",
+    "kind": "race",
+    "jurisdiction": "us/ca/el-monte",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:30Z",
+  "candidates": [
+    {
+      "choice": "Gabriel Ramirez",
+      "statement": {
+        "by": "Gabriel Ramirez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: City Clerk, City of El Monte"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Proud lifelong resident of El Monte\n- Proud son of working-class, immigrant parents from México.\n- Proud son of a union household (my dad, a retired grocery worker, is a Teamster)\n- Proud product of public schools: Shirpser, Rio Vista, Gidley, Rosemead High School, Citrus College, Cal State LA."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Community volunteer: El Monte Police Department Explorers, El Monte Fireworks Committee, local food banks, homeless shelters, union organizing, immigrant rights."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "EI Monte is my hometown, and I care deeply about our community. I'm here to serve you, not corporate interests or others seeking special favors from City Hall. I refuse their money. I'm a clean-money, good-government candidate. I'm not part of the corrupt political Establishment that dominates El Monte politics and politics in general. I owe no one except you, my conscience, and future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your City Clerk the past four years has been the honor of my life. I have worked to uphold the responsibilities of this office with honor, integrity, and ethics. I remain committed to protecting the integrity of our elections, maintaining public records, and providing responsive service to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so I can continue serving you as El Monte City Clerk with professionalism, transparency, and dedication everyday."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jerry Velasco",
+      "statement": {
+        "by": "Jerry Velasco",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a long-time El Monte resident, homeowner, and former Councilman, Mayor Pro Tem, Treasurer and Planning Commissioner, I am now running for City Clerk, to build on the strong record that I established serving the City for nine years, which included bringing additional resources to the City, improving community programs for children and seniors, and providing public safety services, which produced the lowest crime record in 30 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former council member, I focused on making responsible financial decisions, protecting vital city services, enhancing the arts and culture, and preparing our community to weather challenging circumstances."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an elected City Clerk, I will help City Council to keep all our fire stations open, fully funding our police department, protecting vital services, and the creation of more city parks."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an elected City Clerk, I will make it my priority to attend all city council meetings, prepare all official city council minutes, and will maintain all city ordinances, resolutions, and other city documents, oversee the publication of legal and public notices, public records requests, oversee the elections and administrating oaths. I respectfully ask that you consider voting for Jerry Velasco for City Clerk. Together, we will continue to thrive!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "JERRY VELASCO FOR CITY CLERK\n323-793-0284\nvelasco@aol.com\nFPPC ID#1491638"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

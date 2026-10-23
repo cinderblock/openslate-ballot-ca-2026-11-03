@@ -1,0 +1,178 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 56",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-56",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:27Z",
+  "candidates": [
+    {
+      "choice": "Jessica Martinez",
+      "statement": {
+        "by": "Jessica Martinez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Do NOT vote for me if you want:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "High taxes"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "High crime"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "High cost of living"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Homeless men, women and children on the street"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Boys in girls' sports and locker rooms"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote for me if you want:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Low taxes"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Criminals off the streets"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Clean streets"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Good jobs"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "To stop the radical agenda in schools"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is a proverb that says, \"When the wicked are in power, the people groan.\" Californians are groaning under the weight of high taxes that fund fraud and waste. Over-regulation has made housing unaffordable. We groan when we see houses burnt to the ground and a government that is unresponsive. We voted to stop criminals and our California government overruled us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring back high paying jobs. I will make housing affordable again by encouraging entrepreneurs and builders to do what they do best: create wealth, provide opportunities and build homes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my time as a city council member, I worked to ensure that the homeless had a place to stay, were of the sidewalks and out of the parks. I worked to reduce crime by building our police force. As a board member of the Puente Hills Habitat Authority, I was instrumental in securing the 'Heli-tank' that firefighting helicopters are using to quickly extinguish fires. I worked to ensure that our city workers were not forced to take the COVID vaccination."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We can have a society that benefits everyone. Si se puede."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for a better tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Non English translation available at: Martinezforassembly.org"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

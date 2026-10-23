@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Norwalk-La Mirada Unified School District Board, Trustee Area 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:45Z",
+  "candidates": [
+    {
+      "choice": "Christopher Staples",
+      "statement": {
+        "by": "Christopher Staples",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 53"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Chris Staples and I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe education is a partnership between the parents, teachers, and school staff. Living in the NLMUSD for 23 years, I have been involved at all our campuses and it is my belief that if there is something lacking or can be done better, you do not move to a different school, you step up and make improvements."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While on the Board, I championed the new Hutchinson Band Room, promoted expansion of services and opportunities for all students, and worked constantly to support all parents, all students and all teachers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When schools and parents work together, students are supported from all around. I've always prioritized parent-school partnerships, and I want to continue strengthening and uplifting parents' voices in their child's education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My goals are to continue increasing CTE (Career Technical Education) opportunities, build upon partnerships with local Community Colleges and Trade Organizations to expose our students to trades and its internship opportunities, and keep increasing opportunities and career options for all our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your consideration, I look forward to serving our parents and students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "chris@staplesforschoolboard.com\nwww.staplesforschoolboard.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Malaika Ware",
+      "statement": {
+        "by": "Malaika Ware",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hi, my name is Malaika Ware. I am a woman of faith, a mother of six children, all of whom were educated in the Norwalk-La Mirada Unified School District, and a wife of a Biola professor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a Bachelor of Arts in Psychology, a Master of Science in Counseling/Counselor Education, and a California Pupil Personnel Services Credential. Having served as a university lecturer in Human Development, substitute teacher, high school coach, and family support specialist, I now ",
+              {
+                "strong": [
+                  "prepare students for college and career "
+                ]
+              },
+              "as a high school counselor. I understand the academic, social, and emotional needs of children from diverse backgrounds."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My mission is simple: to ",
+              {
+                "strong": [
+                  "seek the welfare "
+                ]
+              },
+              "of my community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our schools must partner with families to provide every student with a rigorous education in a safe, supportive environment while operating with transparency and accountability. Drawing on my professional experience and my perspective as a parent, I will work to expand opportunities for all students, support families, and advocate for the success and well-being of every child in our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to serve the families of NLMUSD as your District 6 Trustee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "See more at www.vote4malaika.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clarita Community College District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:50Z",
+  "candidates": [
+    {
+      "choice": "Reza Rassool",
+      "statement": {
+        "by": "Reza Rassool",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 63"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Nonprofit Chair and CEO"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a long-time Santa Clarita Valley resident and parent of four sons who attended our local public schools. I am running for College of the Canyons Board of Trustees, Area l, to keep our college affordable, high-quality, and truly student-centered."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "CoC has recently faced serious questions about how millions of dollars in facilities contracts were awarded and whether funds were misused or misappropriated. Independent legal reviews and a forensic audit are beginning to uncover long-standing problems in contracting and oversight. I believe our community deserves strong, transparent governance, full public reporting, and clear reforms so that students, employees, and taxpayers can trust how decisions are made."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an educator and technology leader, I teach as an affiliate professor and lead a nonprofit AI lab focused on preparing students and working adults for the jobs of the future. My experience with shared governance, budgeting, and long-term planning will help COC navigate rapid change while protecting students and taxpayers. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Darlene Trevino",
+      "statement": {
+        "by": "Darlene Trevino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your elected Board Trustee, it's an honor to represent our families and students. I was once a College of the Canyons student and went on to build a successful law practice. Serving the community that helped shape my future is personal to me. I remain committed to providing students with an affordable, high-quality education through accountable, transparent leadership. Here's my record and priorities:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Students First"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Ensure access to an affordable, high-quality education for every student.\n- Prioritize funding for more classes and the tools students need.\n- Strengthen the Associated Student Government to build future leaders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Transparency and Accountability"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Advance transparency in public funding through audits and regular status reports.\n- Hold top administrators accountable and hire leaders who take ownership and act with integrity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Delivering Results"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Spearheaded the hiring of our new Superintendent.\n- Championed the development of our Advanced Technology Center to expand workforce training in advanced manufacturing, welding, and robotics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While we've made meaningful progress, our work is far from finished. With your support, we can continue building an even stronger College of the Canyons for today's students and generations to come. I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Trevino4SantaClarita.com\ndarlene@trevino4santaclarita.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

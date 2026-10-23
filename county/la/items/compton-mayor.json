@@ -1,0 +1,130 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Compton Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/compton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:06Z",
+  "candidates": [
+    {
+      "choice": "Andre Spicer",
+      "statement": {
+        "by": "Andre Spicer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 44"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember and Entrepreneur"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Compton is standing at a crossroads, and the decision voters make this November will shape our city for the next decade."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I did not run for office to build a political career. I ran because Compton deserved someone willing to do the work. In four years as your District 2 Councilman, I have delivered for this community because the work needed to be done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have never waited for things to be easy before showing up for Compton. Real leadership is tested under pressure, and I have proven I will fight for what is right, stand firm, and keep moving forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This is not a typical election. It is a decision about what kind of city Compton will become. The momentum we have built is real. The opportunity ahead is real. The next four years will determine whether we seize that opportunity or return to the same cycle of stagnation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Compton has the talent, history, and resilience to rise. What we need now is leadership willing to take us from where we are to where we know we can be."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "From Now to Next. This is our moment. Let's take it."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Andre Spicer "
+                ]
+              },
+              "\n",
+              {
+                "strong": [
+                  "District 2 Councilman"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Emma Sharif",
+      "statement": {
+        "by": "Emma Sharif",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am honored to seek re-election as Mayor of Compton. Together, we have delivered real results that strengthen our infrastructure, improve public safety, and expand opportunity for every resident."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the past term, I fought for and secured $12 million in state funding to restore the Artesia Bridge–protecting a vital corridor for families and businesses. We enhanced the Compton Fire Department with a new fire engine and improvements to our fire station, ensuring faster response times and better protection."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety remains a top priority. Through collaboration with the Los Angeles County Sheriff's Department, we brought enhanced patrols and strengthened safety measures throughout our neighborhoods. We also launched a $35 million infrastructure improvement program focused on long-overdue road repairs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Understanding that opportunity begins with access, we launched a groundbreaking digital equity initiative to expand high-speed internet citywide. We created Compton's first Arts Commission to uplift culture and creativity, built hundreds of new housing units, and worked with regional partners to address homelessness with compassion and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our progress is real–but our work is not done. I am committed to building a safer, stronger, and more connected Compton for all. For more information-reelectmayorsharif.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

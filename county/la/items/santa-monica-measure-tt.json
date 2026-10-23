@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Monica — Measure TT (Establish Major Events Period for the Existing Transient Occupancy Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-monica",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:24:04Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "MEASURE TT: Shall the measure, which maintains the existing transient occupancy tax rates; authorizes the City Council to establish Major Event Periods, as defined, when the tax applies to lodging paid for or obtained by corporate entities for stays over 30 days, and to adjust the hotel and motel tax rate for such stays; clarifies that refunds require a natural person to complete at least thirty-one consecutive days of occupancy, and authorizes administrative regulations, be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Santa Monica Firefighters Local 1109; Manju Raman; Richard Bloom, Fmr Mayor, Assemblymember; Jesse Zwick; Natalya Zernitskaya ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Tt",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The City of Santa Monica imposes a Transient Occupancy Tax (“TOT”) on lodging charges. The current rates are 15% for hotels and motels and 17% for home-shares. TOT is a general tax; its revenue may be used for any municipal purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Current law defines a “transient” to include an individual, corporation, and other organization obtaining lodging for 30 days or less. Lodging providers collect TOT on those rentals and may return it if the occupant later completes 31 consecutive days in the same room."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure would retain the existing tax rates and amend the definition of “transient.” A natural person would remain a “transient” only for stays of 30 days or less."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure provides that a corporation or other legal entity (“Corporate Entity”) is a “transient” subject to initial TOT collection when it pays or is obligated to pay any portion of a room rental, exercises a right of occupancy, or is entitled to occupancy under an agreement, regardless of booking length. For a Corporate Entity booking lasting more than 30 days, TOT may be returned if the same natural person occupies the same room for at least 31 consecutive days. By contrast, a 45-day Corporate Entity booking occupied by three different individuals for 15 days each would not qualify for return because no individual occupied the same room for at least 31 consecutive days."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure further authorizes the City Council, by resolution, to establish a Major Event Period for a major event or related events reasonably expected to materially increase tourism or hotel demand in the City or surrounding region over an extended period. The period could begin before and end after the event. During a Major Event Period, a hotel would not be required to return TOT imposed on a Corporate Entity, regardless of booking length. In addition, during all or part of the period, the Council could temporarily set the hotel and motel TOT rate for Corporate Entity bookings of any length at any rate from 0% through 15%. The 15% rate would automatically resume when the adjustment expires. The measure would not authorize reducing the 17% home-share rate."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Finance Director could establish exemptions for lodging paid in whole or in part by a Corporate Entity when a natural person occupies or has the right to occupy it for at least 31 consecutive days. Such exemptions may apply when the occupancy is necessitated by displacement from a residence caused by fire, natural disaster, or other casualty; extended medical treatment; comparable circumstances beyond the occupant’s control; or other approved grounds. The Finance Director also could adopt administrative rules and documentation requirements for returns, refunds, and credits. Claims would remain subject to a one-year deadline."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure was placed on the ballot by the Santa Monica City Council. A “yes” vote favors adoption; a “no” vote opposes adoption. A majority of votes cast on the measure is required for passage."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "HEIDI VON TONGELN\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure TT. If you desire a copy of the Measure, please visit santamonica.gov/elections/2026-11-03 or call the Santa Monica City Clerk's Office at 310-458-8211 and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rio Hondo Community College District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:37Z",
+  "candidates": [
+    {
+      "choice": "Rosaelva Lomeli",
+      "statement": {
+        "by": "Rosaelva Lomeli",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a teacher for more than 29 years and your Rio Hondo Community College Trustee for the past eight years, I have dedicated my career to expanding educational opportunities for students. Many of my students continue their education at Rio Hondo College, giving me firsthand insight into the important role our college plays in changing lives and strengthening our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my service on the Board, Rio Hondo College has remained fiscally strong while making significant investments in its future. I supported the successful passage of Measure RH to modernize our campus, including new Science and Math facilities and student housing. I also supported launching the High Road Training Partnership to expand workforce education and strengthen partnerships with local employers. Together, we have maintained healthy financial reserves while investing responsibly in student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear: fiscal responsibility, student success, workforce education, work-based learning, and strong university transfer opportunities. I remain actively engaged throughout our communities, listening to students, employees, and residents to ensure Rio Hondo College continues to meet the needs of those we serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue building opportunity through responsible leadership, educational excellence, and a strong future for Rio Hondo College."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Manuel Urteaga",
+      "statement": {
+        "by": "Manuel Urteaga",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your Rio Hondo College Trustee, my mission will not simply be to achieve results, but to create an educational experience that transforms the lives of our students, supports our faculty and staff, and strengthens our entire community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a husband and father, I will work to restore trust and confidence in Rio Hondo College through transparent leadership, fiscal responsibility, respect, and accountability. Taxpayers and students deserve to know that their money is being managed responsibly and that decisions are being made in the best interests of the College, not special interests."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to ending wasteful spending, unnecessary construction delays, cost overruns, and poor oversight in Rio Hondo College's building program. As a business owner and board member of the Rio Hondo College Foundation, I understand the importance of accountability, responsible budgeting, and delivering results. I will provide strong, independent oversight of the $442 million Measure RH bond approved by voters in 2024 and demand that every dollar is accounted for. These funds must deliver the classrooms, facilities, technology, and campus improvements promised to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a college professor, I understand firsthand the importance of providing students with the classes, resources, support, and opportunities they need to succeed. I will advocate for expanding course availability, improving aging facilities, strengthening career and technical education, supporting successful transfers to four-year universities, and creating stronger partnerships with local businesses and employers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rio Hondo College should be a leader in preparing students for the jobs and careers of tomorrow. We must provide students with practical skills, valuable credentials, career pathways, internships, and workforce opportunities that lead to good-paying jobs and long-term success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee and Rio Hondo alumni, I will bring independent leadership and make informed financial decisions that put students first. Together, we can restore public confidence, strengthen academic excellence, improve our campus, and ensure Rio Hondo College remains a source of opportunity and pride for generations to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My Priorities\n- Put Student Success First\n- Restore Transparency & Accountability\n- Protect Taxpayer Dollars\n- Strong Oversight of Measure RH Bond Funds\n- Expand Classes & Student Opportunities\n- Modernize Campus Infrastructure\n- Strengthen Workforce Development & Career Pathways\n- Build Business & Community Partnerships\n- Independent, Ethical Leadership"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For additional information about my vision and qualifications visit: www.urteagaforriohondo.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

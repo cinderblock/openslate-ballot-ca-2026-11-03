@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Bellflower City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/bellflower",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:27Z",
+  "candidates": [
+    {
+      "choice": "Wendi Morse",
+      "statement": {
+        "by": "Wendi Morse",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud Bellflower resident, City Councilmember, business owner, and longtime community volunteer, I understand the challenges and opportunities facing our city. My service with Little House Inc., and Calvary Bellflower's Celebrate Recovery Ministry, has shaped my commitment to practical, community-focused solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My Priorities:\n- Public safety\n- Homelessness solutions\n- Responsible economic development\n- Senior and youth services"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strengthening Bellflower\nOn the City Council, I have supported projects that strengthen Bellflower, expand resident services, and encourage responsible growth, including the Senior & Youth Oak Center, Chick-fil-A, Chipotle, Firehouse Subs, and Northgate Market (2027)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Service and Experience\nMy experience supervising senior living facilities helps me advocate for vulnerable residents with care and respect. Through Bellflower Kiwanis, I have also supported local youth through Key Clubs and scholarship fundraising."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A Commitment to Bellflower's Future\nWith my husband, Allan, and our children, Gary and Alli, I am deeply invested in a safe, welcoming city with opportunities for families, seniors, young people, businesses, and every resident."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue working to enhance public safety, support practical homelessness solutions, and encourage responsible economic growth so every Bellflower resident can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Your support is invaluable, and I am honored to serve you. Please vote Wendi Morse."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Aaron K. Drake",
+      "statement": {
+        "by": "Aaron K. Drake",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 67"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Law Enforcement Professional"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Bellflower voters. I would be Honored to receive your vote and represent our community as a member of the ",
+              {
+                "strong": [
+                  "Bellflower City Council District-1"
+                ]
+              },
+              ". I have resided in Bellflower for over 30+ years and raised my family here. I have served Honorably on several Commissions and Committees over the past years and I have the experience to serve on the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a member of the City Council, my goals are to work together with our community to improve our programs and to make our community even safer. I'm a strong supporter of law enforcement and I will work to address the concerns of our community. Progress has been made in many areas and new businesses are starting to open in our city. I intend to continue making recommendations that will improve our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On occasions, I can be found in the community meeting, talking to and listening to their concerns. I enjoy getting to know not only our Bellflower residents, but business owners as well. I'm positive we can work together to make our community even better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote for the ",
+              {
+                "strong": [
+                  "Bellflower City Council District-1"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Facebook – https://www.facebook.com/aaron.drake.5209/"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "E-Mail – Drake8469@yahoo.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Paramount — Measure P (Public Safety, Environment, Streets, and Business Improvement)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/paramount",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:35Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "City of Paramount Public Safety, Environment, Streets and Business Improvement Measure"
+            ]
+          },
+          " Without taxing residential property owners or renters, shall the ordinance to fund services for Paramount 911 response/public safety; reducing crime; responding to business burglaries; addressing street racing; monitoring/improving water/air quality; repairing streets/potholes; supporting businesses by annually levying between 8¢ and 13¢ per square foot on industrial/commercial properties only, with annual adjustments up to 3%, raising approximately $4,000,000 annually until ended by voters, requiring audits, spending disclosure, local control, be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Brenda Olmos, Mayor; Robert Luna, Sheriff; Coalition for Clean Air; J. Perez, Business Owner; MUSA nonprofit ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "fullText": {
+    "title": "Full Text of Ballot Measure P",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF PARAMOUNT ADDING CHAPTER 3.38 TO THE PARAMOUNT MUNICIPAL CODE TO AUTHORIZE THE LEVY OF A SPECIAL PARCEL TAX TO FINANCE ROADS AND INFRASTRUCTURE, PUBLIC SAFETY SERVICES, ENVIRONMENTAL SERVICES, AND BUSINESS REINVESTMENT PROGRAMS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "THE PEOPLE OF THE CITY OF PARAMOUNT DO HEREBY ORDAIN AS FOLLOWS:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 1"
+            ]
+          },
+          ". A new Chapter 3.38 of Title 3 of the Paramount Municipal Code is hereby adopted to read as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "\"CHAPTER 3.38 SPECIAL PARCEL TAX"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.010 Authority."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Pursuant to the authority of Government Code Section 50075 et seq., and Article XIIIA, Section 4 of the California Constitution, a special parcel tax is hereby levied by the City of Paramount for each fiscal year on all nonexempt parcels of real property in the City. It is the sole purpose and intent of this Chapter to impose a special parcel tax for the specific purposes set forth in Section 3.38.060 of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.020 Special Parcel Tax Imposed."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. A special parcel tax, at the rates and for the duration set forth in this Chapter, for the purposes specified in Section 3.38.060 of this Chapter, shall be imposed on all nonexempt parcels of real property in the City for each fiscal year (the period beginning July 1 and ending the following June 30), commencing with fiscal year 2027-28."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.030 Tax rate."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The maximum amount of the special parcel tax to be imposed on each parcel of nonexempt real property pursuant to this Chapter, depending on its use and classification, is as follows:"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "text": []
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": []
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": []
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": []
+            },
+            {
+              "text": []
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Notwithstanding Section 3.38.030.A, the special parcel tax shall be levied at sixty-five percent (65%) of the rate otherwise applicable under Section 3.38.030. A in fiscal year 2027–2028, eighty percent (80%) of that rate in fiscal year 2028–2029, and one hundred percent (100%) of that rate beginning in fiscal year 2029–2030 and in each fiscal year thereafter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. The City Council may, by resolution, levy the special parcel tax at a rate that is less than the maximum rate authorized by this Chapter for such period of time as determined by the City Council. If the City Council does not adopt a resolution establishing a lower rate, the special parcel tax shall be imposed at the maximum rate permitted under this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.040 Annual Adjustment."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Beginning with fiscal year 2030-2031 and for each fiscal year thereafter, the maximum amount of the special parcel tax shall increase by the lesser of (i) three percent or (ii) the percentage by which the Consumer Price Index for All Urban Consumers (CPI-U, Los Angeles Area) prepared by the Bureau of Labor Statistics of the United States Department of Labor for the Los Angeles-Riverside-Orange County region for the twelve-month period ending on March 31 immediately prior to the beginning of the fiscal year. Should the CPI-U, Los Angeles Area cease to be published in its entirety, or on a periodic basis ending on March 31, then the Finance Director shall select a comparable successor index thereto."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.050 Classification of Parcels."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The records of the Los Angeles County Assessor as of January 1st of each year, or such other date established by the Finance Director, shall be used to determine the land use category for each parcel for the calculation of the special parcel tax applicable to that parcel in the following fiscal year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Where a parcel includes a combination of residential, industrial and commercial improvements, the square footage of the entire surface area of the parcel shall be apportioned proportionally to the square footage of the footprints of the different types of improvements of the parcel. Square footage apportioned to \"residential\" use shall be excluded from the calculation of the tax. If a building is developed for more than one use (as in a mixed-use residential development with ground floor retail space), for purposes of the preceding sentence, the square footage of the footprint of the mixed use structure shall be divided amongst the uses proportionally to the building square footage of such building."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. Notwithstanding Section 3.38.050.A, if the Finance Director determines that the Assessor's classification does not accurately reflect the parcel's land use category, the parcel may be reclassified based on information the Finance Director determines to be reliable, including, but not limited to, zoning, land use approvals, building permits, certificates of occupancy, business license records, or other available records. That determination shall govern for purposes of administering and levying the special parcel tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.060 Special Fund, Use of Tax Proceeds."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The proceeds of the special parcel tax imposed by this Chapter shall be placed in a special fund, which shall be created and designated the \"City of Paramount Parcel Tax Special Fund\", and shall be applied solely to pay for (i) roads and related infrastructure, including pavement repairs and improvements, (ii) public safety services, including street takeover abatement and prevention and business burglary prevention and response, (iii) environmental services, including air quality monitoring, stormwater permit compliance, illegal dumping cleanup, graffiti abatement, and organics diversion, and (iv) business reinvestment programs, including compliance grants and security support, within the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. All revenue generated from the special parcel tax shall be spent on the programs, services, or improvements set forth above within the City of Paramount."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.070 Collection."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The special property tax shall be collected by the County of Los Angeles on behalf of the City in the same manner and at the same time as ordinary property taxes, and shall be subject to the same penalties and procedures in case of delinquency as provided for such taxes. The special tax shall constitute a lien upon the property upon which it is levied until it has been paid."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. To the extent any parcel subject to the special parcel tax does not receive a property tax bill from the County of Los Angeles, the Finance Director may establish procedures for the billing, collection, remittance, and enforcement of the tax due from such parcel. Such procedures may provide for collection by the City or by another governmental entity, provided that any such method is consistent with applicable law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.080 Exemptions."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The following parcels shall be exempt from the special parcel tax imposed by this Chapter:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Any parcel that is exempt from the special parcel tax pursuant to any provision of the United States Constitution, California Constitution, or California State law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Any parcel of property which is classified as solely in residential use."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Where a parcel is exempted from the special parcel tax under Section 3.38.080.A. 1., the special parcel tax shall be imposed on any taxable possessory interest in the parcel based on the characteristics of that possessory interest."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. The City Council, by resolution, may adopt additional exemptions to the special parcel tax imposed by this Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.090 Administrative Determinations; Appeal Procedures"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The Finance Director shall administer this Chapter and resolve any inquiries or disputes from a taxpayer regarding the special parcel tax. Any person aggrieved by an administrative determination of the Finance Director may appeal such determination to the City Manager. Appeals of any determination of the Finance Director shall be submitted in writing to the City Clerk no later than December 1st of the fiscal year for which the tax is imposed. The City Manager shall consider the appeal and issue a decision to the appellant in writing."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.100 Corrections, Cancellations and Refunds"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. On order of the Finance Director, or the City Manager acting upon an appeal, the tax amount may be corrected for any parcel. The Finance Director shall notify the applicable tax collector of any such adjustment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.110 Annual Report and Audit."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The Finance Director, as chief fiscal officer of the City, shall annually file with the City Council a report regarding the amount of special parcel tax revenues collected and expended and the status of any project required or authorized to be funded with the special parcel tax revenues, as required by California Government Code Section 50075.3, as such law may be amended from time to time."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. By no later than December 31 of each year, commencing on December 31, 2028, independent auditors shall review whether the tax revenues collected pursuant to this Chapter are collected, managed and expended in accordance with the requirements of this Chapter. This audit may be conducted in conjunction with the City's annual audit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "3.38.120 Duration of"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "Special Parcel Tax."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The authority to levy the special parcel tax shall remain in effect unless a later ordinance is adopted and approved by two-thirds of the voters of the City voting thereon that either repeals the special parcel tax or establishes a date that the authority to levy the special parcel tax shall terminate.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 2. Amendment and Implementation."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council shall be empowered, by three (3) affirmative votes of its members, to amend this Ordinance to carry out the general purposes of this Ordinance, to conform the provisions of this Ordinance to applicable state law, to modify the methods of collection, or to assign the duties of public officials under this Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "In no event shall the City Council amend this Ordinance to increase the maximum amount of the special parcel tax established in Section 1 of this Ordinance, unless approved by two-thirds of the voters voting thereon."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council, by resolution, may adopt procedures or definitions for the implementation or administration of the special parcel tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 3. Severability."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If any provision of this Ordinance or the application thereof to any person or circumstances is held invalid or unconstitutional by any court of competent jurisdiction, such invalidity or unconstitutionality shall not affect any other provision or applications, and to this end the provisions of this Ordinance are declared to be severable. The City Council, and the electorate by referendum, do hereby declare that they would have adopted this Ordinance and each section, subsection, sentence, clause, phrase, part or portion thereof, irrespective of the fact that any one or more sections, subsections, clauses, phrases, parts or portions thereof, be declared invalid or unconstitutional."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 4. Two-Thirds Approval; Effective Date."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Ordinance shall be adopted and become effective only if approved by two-thirds of the voters voting thereon, at an election to be held on November 3, 2026. This Ordinance shall take effect immediately upon approval by the voters and shall remain in effect until repealed by the voters of the City of Paramount."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 5. Oversight."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "To ensure transparency and accountability in the use of revenues generated by the special parcel tax, the City shall establish an Independent Oversight Committee (the \"Committee\"). The terms, composition, and specific duties of the Committee shall be established by resolution of the City Council; however, the Committee shall consist of members representing the business and residential communities within the City. The City Council shall appoint Committee members in a manner that encourages broad and balanced community representation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Committee shall meet at least once each calendar year. At these meetings, the Committee shall review the annual report required by subchapter 3.38.110 and may provide input and recommendations to the City Council regarding the future use of funds consistent with the purposes of this measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Committee shall serve in an advisory capacity only and shall not have independent authority to direct the expenditure of funds. All meetings of the Committee shall be open to the public and conducted in accordance with applicable provisions of the Ralph M. Brown Act."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 6. Execution."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Mayor is hereby authorized to attest to the adoption of this Ordinance by the voters of the City by signing where indicated below."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "I hereby certify that the foregoing Ordinance was PASSED, APPROVED AND ADOPTED by the people of the City of Paramount voting on the 3rd day of November 2026."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure P",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure P is the “City of Paramount Public Safety, Environment, Streets and Business Improvement Measure.” If approved by the voters, it would adopt a new Paramount Special Parcel Tax Ordinance (the “Parcel Tax Ordinance”)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved, Measure P would authorize the City to levy an annual special parcel tax on commercial and industrial properties to pay for designated programs and services at the following maximum rates:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) $0.08 per square foot on commercial parcels.\n(2) $0.11 per square foot on industrial parcels.\n(3) $0.13 per square foot on vacant commercial and vacant industrial parcels."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The parcel tax would not apply to residential property. Parcels that are constitutionally or statutorily exempt from parcel taxes would also be exempt. The City Council could adopt additional exemptions by resolution."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City estimates that this Measure would generate approximately $4,000,000 annually in new local revenue. The tax rates above would be phased in over a three-year period with 65% of the full rate in year one, 80% of the full rate in year two, and 100% of the full rate in year three. After year three, beginning in fiscal year 2030-2031, the tax rates above would increase annually by up to 3% to adjust for inflation. The City Council may levy the tax at a rate less than the maximum authorized by the Parcel Tax Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Because Measure P would be a special tax, the tax revenue could only be spent for the specific purposes authorized by the voters. The Parcel Tax Ordinance states that the City would be allowed to use the tax proceeds to provide funding for roads and related infrastructure, including pavement repairs and improvements; public safety services, including street takeover abatement and prevention and business burglary prevention and response; environmental services, including air quality monitoring, stormwater permit compliance, illegal dumping cleanup, graffiti abatement, and organics diversion; and business reinvestment programs, including compliance grants and security support, within the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proceeds from the parcel tax established by this Measure would be deposited into a special fund maintained by the City for use on the foregoing programs and services. A City-created Oversight Committee would monitor the revenues collected and expended and issue recommendations to the City Council regarding the use of funds."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Parcel Tax Ordinance would remain in effect unless and until ended by the voters. Measure P was placed on the ballot by a unanimous vote of the City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The California Constitution requires that the proposed special tax be approved by two-thirds of the voters voting on the Measure. A “yes” vote on Measure P is to adopt the Parcel Tax Ordinance. A “no” vote on Measure P is to not adopt the Parcel Tax Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "NICHOLAS R. GHIRELLI\nCity Attorney"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

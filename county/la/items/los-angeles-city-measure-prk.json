@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:24Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CITY DEPARTMENT OF RECREATION AND PARKS BUDGET. CHARTER AMENDMENT PRK."
+            ]
+          },
+          " Shall the City Charter be amended to increase the minimum budget allocated to the Department of Recreation and Parks, phased in over ten years until it is double the current minimum budget allocation, with exceptions for fiscal emergencies? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " LA City Councilmembers, Monica Rodriguez, Imelda Padilla & Ysabel Jurado; LA City Controller, Kenneth Mejia; Father Greg Boyle ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

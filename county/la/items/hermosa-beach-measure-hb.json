@@ -1,0 +1,118 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hermosa Beach — Measure HB (Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/hermosa-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:55Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure to adopt a one-half percent (0.5%) local transactions and use (sales) tax providing approximately two million dollars ($2,000,000) annually until ended by voters (with citizens' oversight, independent audits, public reporting, and all funds remaining under local control) to maintain public safety services; repair and maintain streets, sidewalks, storm drains, parks, public facilities, and other infrastructure; address long-term fiscal sustainability; and support other general governmental purposes be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Michael Keegan and Rob Saemann, Hb Councilmembers; Maggie Bove-LaMonica, School Boardmember; Richard Koenig; Annie Seawright ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Dean Francois, HB Councilmember; George Barks, HB Ex Mayor; Mike Sribney, Brian Sheil & Richard O'Reilly, HB Small Biz Owners"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Hb",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CITY OF HERMOSA BEACH"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "MEASURE HB – ONE-HALF CENT (0.50%) LOCAL TRANSACTIONS AND USE (SALES) TAX"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Measure would adopt a one-half cent (0.50%) local transactions and use (sales) tax within the City of Hermosa Beach (“City”)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved, the Measure would authorize the City to impose the tax in accordance with the Transaction and Use Tax Law commencing with Section 7285.9 of the California Revenue and Taxation Code. The tax would be administered and collected by the California Department of Tax and Fee Administration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The tax proceeds would be deposited into the City's General Fund and could be used for any lawful governmental purpose. The Measure estimates that the tax would generate approximately two million dollars ($2,000,000) annually, although actual revenues would depend on taxable sales activity within the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure would not dedicate revenues to any specific project or expenditure and would remain in effect unless repealed by the voters."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- A \"yes\" vote on Measure HB is a vote to authorize the City to impose a one-half cent (0.50%) local transactions and use (sales) tax for general governmental purposes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- A \"no\" vote on Measure HB is a vote against authorizing the City to impose the proposed one-half cent (0.50%) local transactions and use (sales) tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure HB will be approved if it receives a majority vote (50% plus one) of the votes cast."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure HB. If you desire a copy of the measure, please call the City's elections official at (310) 318-0204 and a copy will be mailed to you at no cost."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "JASON BALTIMORE\nInterim City Attorney"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

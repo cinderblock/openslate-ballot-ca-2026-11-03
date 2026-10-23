@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Walnut Valley Water District Board, Division 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:54Z",
+  "candidates": [
+    {
+      "choice": "Brian Worthington",
+      "statement": {
+        "by": "Brian Worthington",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Chair, Diamond Bar Planning Commission"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chair of the Diamond Bar Planning Commission and a long-time Diamond Bar resident, I have dedicated my public service to ensuring our community grows responsibly. Now, I am running for the Walnut Valley Water District Board, Division 2, to bring that same balanced, strategic leadership to our water management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Safe, reliable, and affordable water is fundamental to our local economy and quality of life. My experience of vetting infrastructure projects equips me to protect your tax dollars and address our region's complex water challenges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the Water Board, my priorities will be:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Strategic Infrastructure: "
+                ]
+              },
+              "Modernizing aging pipelines and pump systems systematically to prevent expensive emergency repairs.\n- ",
+              {
+                "strong": [
+                  "Fiscal Oversight: "
+                ]
+              },
+              "Exercising strict financial discipline to keep water rates fair, transparent, and predictable.\n- ",
+              {
+                "strong": [
+                  "Supply Resilience: "
+                ]
+              },
+              "Strengthening partnerships to diversify our imported water supply and expand local conservation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proudly endorsed by Division 2 Director Ed Hilden, Diamond Bar Mayor Steve Tye, Mayor Pro-Tem Ruth Low, and Former Mayor Nancy Lyons."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to receive your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Michael Braun",
+      "statement": {
+        "by": "Michael Braun",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 51"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Professor of Criminal Justice"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Water is one of our community's most essential public services. I am running for the Walnut Valley Water District Board of Directors, Division 2, to help ensure that every household and business receives safe, reliable water at a fair and affordable rate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a professor of criminal justice with a Ph.D., my work requires me to evaluate evidence, examine complex systems, promote public accountability, and make decisions based on facts rather than politics. I will bring that same independent, analytical approach to the Water District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are responsible budgeting, transparent decision-making, long-term infrastructure planning, and careful preparation for drought, emergencies, and changing water-supply conditions. I will ask hard questions before rate increases or major expenditures are approved and support investments that improve reliability, reduce waste, and protect future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public agencies work best when residents understand how decisions are made and know their concerns are being heard. I will listen, communicate clearly, and put the interests of Division 2 residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

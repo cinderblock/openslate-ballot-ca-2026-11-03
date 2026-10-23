@@ -1,0 +1,173 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Marino City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-marino",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:31Z",
+  "candidates": [
+    {
+      "choice": "Shelley Boyle",
+      "statement": {
+        "by": "Shelley Boyle",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Non-Profit Executive Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Born and raised in San Marino, I am honored to be a candidate for City Council in the community that has shaped my life. Growing up here gave me a deep appreciation for the values, traditions, and sense of community that make San Marino such a special place."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past eight years, I have had the privilege of serving on the San Marino Planning Commission, working to thoughtfully balance growth with preserving the character of our city. I am committed to protecting our historic homes, preserving our urban forest, supporting responsible economic development, and ensuring that future decisions reflect the priorities of our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our community evolves, we must embrace opportunities that strengthen San Marino while safeguarding the qualities that define it. I believe we can honor our history, invest wisely in our future, and maintain the exceptional services and sense of community that residents expect. I would be grateful for your support and the opportunity to serve San Marino as a member of the City Council."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "John Dustin",
+      "statement": {
+        "by": "John Dustin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 62"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Quality Improvement Specialist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been proud to call San Marino home since 1969. As a graduate of Carver Elementary, Huntington Middle School, and San Marino High School, I have deep roots in this community. It has been especially meaningful to watch my daughter, Stepahanie, follow that same path and graduate from those same schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service has been a central part of my life. I have had the privilege of service three years on the Design Review Committee and eight years on the Planning Commission. I have also volunteered with the San Marino Community Emergency Response Team (CERT) since 2011 and have been a member of the San Marino Grad Night construction crew since 2013."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I work in the health insurance industry, specializing in quality improvement and data analysis. My work requires navigating state and federal regulations and collaborating with regulatory agencies to ensure accountability and excellence."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife, Atlántida, and I are members of Ss. Felicitas and Perpetua Church, and we are grateful to be part of such a special community. I am committed to preserving San Marino's unique character, beauty, and small-town spirit, and I would be honored to continue serving the residents of San Marino."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Tony Chou",
+      "statement": {
+        "by": "Tony Chou",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 38"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Wealth Advisor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Marino Native and Alumni of San Marino High School\nPrevious Mayor and Councilmember\nPast President Chinese Club of San Marino\nPast Chinese School Chair\nVolleyball Coach at San Marino High\nSan Marino Rotarian"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Calvin Lo",
+      "statement": {
+        "by": "Calvin Lo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 56"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Self-Employed"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the incumbent, it has been a privilege to serve the residents of San Marino. Since making San Marino my home in",
+              " 2007, I have experienced firsthand what makes our community exceptional: outstanding schools, safe neighborhoods, beautiful parks, and engaged residents who care deeply about our city's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my time on the City Council, I have worked to promote fiscal responsibility, preserve the character of our neighborhoods, strengthen public safety, and support high-quality city services. I believe local government works best when it is transparent, respectful, and focused on practical solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Marino's success is built on thoughtful planning and responsible leadership. I remain committed to protecting our quality of life, maintaining the City's long-term financial strength, investing wisely in our infrastructure, and ensuring our community remains one of the best places to live and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to continue serving our residents with integrity, accountability, and dedication. I respectfully ask for your support and your vote so that, together, we can continue building an even stronger future for San Marino."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

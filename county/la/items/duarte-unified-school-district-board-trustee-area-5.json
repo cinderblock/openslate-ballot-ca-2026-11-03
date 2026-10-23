@@ -1,0 +1,113 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Duarte Unified School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:20Z",
+  "candidates": [
+    {
+      "choice": "Reyna E. Diaz",
+      "statement": {
+        "by": "Reyna E. Diaz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 69"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Governing Board Member, DUSD Trustee 5"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For almost three decades, it has been my privilege to serve the students, families, and community of Duarte Unified School District. Throughout my years on the Board of Education, I have remained committed to putting students first and ensuring every child has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "One of the greatest honors has been earning the trust of families. Over the years, I have had the opportunity to listen to parents' questions, concerns, and challenges, helping families navigate the school system and connect with the resources their children need to succeed. Listening and being accessible, responsive, and accountable to our community has always been very important to me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "One of my greatest joys each year is standing on the graduation stage and presenting diplomas to our students. That moment represents years of hard work, perseverance, and the shared commitment of families, our educators, and our community. It reminds me why I chose to serve and why I remain dedicated to helping every Duarte student achieve their dreams."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am also proud of the progress we have made in strengthening our schools. Thanks to the community's support of our bond, we have modernized campuses and created 21st-century learning environments that will benefit our students for generations to come. These improvements, along with the Board's thoughtful decision to transition our elementary schools to K–8"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lizbeth Aquino",
+      "statement": {
+        "by": "Lizbeth Aquino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a proud graduate of Duarte Unified School District, I know firsthand how a strong public education can shape a student's future. The lessons I learned in Duarte's classrooms inspired me to continue my education as a first-generation college student and dedicate my career to serving the community that helped raise me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For years, my career has centered on public service and working directly with",
+              " youth, and families. I have planned, managed educational and recreational programs, developed community partnerships, managed public funds, coordinated large-scale community events, and worked alongside educators, parents, nonprofit organizations, mental health professionals, libraries, local businesses, along",
+              " public safety agencies to connect families with meaningful resources and opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience has taught me that every decision made by a school district is far beyond the classroom. It affects families, teachers, employees, and the future of our community. It has also shown me that strong schools are built through collaboration, accountability, transparency, and responsible leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working directly with students has",
+              " allowed me to see both their incredible potential and the challenges many families face. I have worked with children of all abilities, supported teens through after-school and leadership programs, partnered with families during difficult situations, and helped create environments where youth feel safe, supported, and empowered to succeed. As a first-generation college student, I understand that every student's path looks different. Success should never be determined by a family's income, background, or circumstances. Every child deserves access to excellent teachers, safe schools, modern learning opportunities, extracurricular activities, the academic and emotional support needed to thrive. If elected, I will be a strong voice for parents by ensuring they have meaningful opportunities to participate in their children's education. I will advocate for our teachers and classified employees by supporting the tools, staffing, and resources they need to help students succeed. I will also work to strengthen partnerships between our schools and the organizations that already serve Duarte families because education extends beyond the classroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leadership is about listening before leading."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Duarte Unified has incredible potential. I believe our best days are ahead of us when we work together with integrity, and a shared commitment to student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am not running because I have all the answers. I am running because I have dedicated my career to serving others. I would be honored to bring that same commitment, experience, and leadership to the Duarte Unified School District Board of Education."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

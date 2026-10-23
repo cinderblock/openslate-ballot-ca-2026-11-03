@@ -1,0 +1,144 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Baldwin Park Unified School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:31Z",
+  "candidates": [
+    {
+      "choice": "Laura A. Franklin",
+      "statement": {
+        "by": "Laura A. Franklin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My commitment has been to serve children, families, and the Baldwin Park community with compassion, integrity, and accountability. As a second-generation Baldwin Park resident, a parent and now a grandparent, I understand the importance of strong public schools and the lasting impact that caring educators, mentors, and community leaders have on a child's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 30 years, I have dedicated my life to mentoring children, youth, and young adults through education, coaching, faith-based leadership, and community service. I have worked alongside students from diverse backgrounds, helping them build confidence, develop life skills, overcome challenges, and recognize their potential. I believe every student deserves to feel seen, valued, supported, and prepared for success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Baldwin Park Housing Commissioner, Chair of the Baldwin Park's Oversight Committee, Board Trustee, nonprofit leader, mother of veterans, and two-time breast cancer survivor, I have learned that resilience, collaboration, and responsible leadership create stronger communities. I am committed to advocating for academic excellence, student wellness, safe learning environments, fiscal responsibility, and meaningful 1 partnerships between schools, families, and the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can ensure every student has the opportunity to learn, thrive, and achieve their dreams while building a stronger future for Baldwin Park."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "John B. De Leon",
+      "statement": {
+        "by": "John B. De Leon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 43"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney IV, State of California"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a father of 4 BPUSD students and my focus is on ensuring student success. As a BPUSD Board Member, I've encouraged kids to read and advocated for phonics-based instruction. I've championed creating mentorship programs, expanding CTE courses, strengthening BPUSD's athletics and arts departments, and ensuring access to AP and early college classes. Every student deserves the opportunity to pursue the college or career of their choice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a state attorney, I know the problems our students face: social media addiction, financial illiteracy, unethical AI use, unhealthy screen time, and an economy where life's necessities are increasingly unaffordable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This is why I support helping working parents by providing quality programs for students year-round with free after-school programs, expanded before-school care, and immersive summer field trips. Our families deserve these important supports."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an immigrant, raised by a single mother, and a graduate of BPUSD. I know that education is the path to prosperity. As iron sharpens iron, so too do our kids make each other better. Thank you for trusting me over these last four years and I hope you will support me over the next four because the needs of our students must always come first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "JohnBdeLeon.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Christina Lucero",
+      "statement": {
+        "by": "Christina Lucero",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Having been raised in Baldwin Park, I have always believed and still do that education is the key to giving our children the best possible life. This is why experience matters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience will keep our budget in control... Small decisions can hurt our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience will see that we need to plan for the future and if there are fewer students in our district we still need to provide quality education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience means that we do not have all the answers and must listen to parents, employees, students and the community because as the world and our lives change we must also change."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And most of all having experience has taught me that we need to go back to some basics. But in our world today they also need skills that we did not even dream of."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need to be sure that they become whole, intelligent, well educated adults."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

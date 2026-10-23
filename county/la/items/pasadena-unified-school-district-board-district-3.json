@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pasadena Unified School District Board, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:23Z",
+  "candidates": [
+    {
+      "choice": "Michelle Richardson Bailey",
+      "statement": {
+        "by": "Michelle Richardson Bailey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Board Member, Pasadena Unified School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear District 3 Neighbors,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your school board representative has been one of the greatest honors of my life. Every decision I make begins with one question: Will this help our students thrive?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Student success depends on a strong instructional core, students, teachers, parents, meaningful relationships, and culturally relevant curriculum, as well as the dedication of classified staff, and every employee who supports learning. When we invest in our people through thoughtful planning, professional development, competitive compensation, and adequate staffing, our school community prospers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To benefit our district, we passed Measure J, Bond Measures O and R, and Parcel Tax Measure EE. I have worked to promote equitable schools, provide meaningful resources for our neediest students, and stronger representation for our diverse community. I also authored unanimous Board resolutions affirming PUSD's commitment to Black and Latinx students, helping establish Ethnic Studies and the Immersive Reading Academy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the next four years, I will work to prioritize classrooms, elevate student voice, strengthen accountability, and continue to advance workforce housing and vocational education, confront inequity, and champion inclusive schools where every student feels valued."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With Gratitude, I humbly ask for your vote on November 3, 2026."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Michelle Richardson Bailey"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Veronica Elias",
+      "statement": {
+        "by": "Veronica Elias",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Veronica Elias, Ed.D., a PUSD parent and 25-year educator who most recently served as a school principal, leading my school to 2026 California Distinguished School recognition."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've spent my career making difficult decisions, balancing budgets, supporting teachers, improving student outcomes, and always putting students first. I understand how every board decision directly affects classrooms, families, and our district's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "PUSD faces significant financial challenges, declining enrollment, and persistent absenteeism. Our community deserves leadership that is honest, transparent, and focused on long-term solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will advocate for an independent review of district administrative spending before additional classroom cuts are considered, support meaningful strategies to improve enrollment and attendance, and insist on transparent, accountable governance that earns our community's trust."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As both an educator and a parent, I'll bring experienced, accountable leadership to help PUSD move forward with transparency, stability, and an unwavering commitment to students."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

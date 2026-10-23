@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Whittier City School District Board, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:21:21Z",
+  "candidates": [
+    {
+      "choice": "Andrew Roble",
+      "statement": {
+        "by": "Andrew Roble",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a proud father, Los Angeles County Behavioral Health Commissioner, and longtime community advocate, I am committed to serving the families of Whittier."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a blue-collar worker and union leader, I have dedicated my career to improving workplace safety, strengthening our community, and advocating for working families. Through my service on the Los Angeles County Behavioral Health Commission, I have worked with local leaders to expand access to mental health resources and programs that support children, students, and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Whittier City School District Board of Education because every student deserves a safe, supportive, and academically excellent learning environment. I will work to strengthen school safety, support our teachers and classified employees, promote student achievement, expand access to student mental health services, and ensure responsible stewardship of taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe school board members must be transparent, accountable, and focused on student success. I will work collaboratively with parents, educators, staff, and our community to make thoughtful decisions that prepare students for lifelong success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Whittier City School District Board of Education, Area 5."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Linda L. Small",
+      "statement": {
+        "by": "Linda L. Small",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 65"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "\"Together, we've accomplished much. Together, we'll achieve even more.\""
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 21 years, I've served the students, families, employees, and community of the Whittier City School District. I remain passionate about ensuring every child has the opportunity to learn, grow, and succeed in safe, innovative, and inspiring schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe lasting success is built through trust, collaboration, and strong relationships. I have worked diligently to build productive partnerships with our employees and labor groups, city leaders, higher education partners, and community organizations---because when we work together, our students benefit."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have achieved meaningful results: passing a a $99 million school facilities bond; earning prestigious National Blue Ribbon, California Distringuished, Apple Distinguished, AVID Showcase, and Schools to Watch recognitions; expanding Dual Enrollment, Dual Immersion, and Musical Theatre programs; securing more than $11 million in competitive grants; investing in modern classrooms, technology, playgrounds, and campus improvements; and protecting employee healthcare benefits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of what we have accomplished, our best work is still ahead. I am committed to providing experienced leadership during the transition to a new superintendent, ensuring continuity as we deliver our $99 million bond projects, advancing academic achievement, strengthening special education programs, and providing collaborative Board leadership focused on student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote on November 3, 2026, so together we can continue building a stronger future for every child in Whittier."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

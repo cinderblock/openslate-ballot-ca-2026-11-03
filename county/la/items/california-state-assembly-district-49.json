@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 49",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-49",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:24Z",
+  "candidates": [
+    {
+      "choice": "Mike Fong",
+      "statement": {
+        "by": "Mike Fong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Mike Fong"
+                ]
+              },
+              " is a community leader and former Community College Trustee who represents the San Gabriel Valley in the State Assembly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our State Assemblymember, Mike has secured new funding for projects in our district and authored important legislation to help local schools and small businesses. He's also fighting to:\n-",
+              {
+                "strong": [
+                  "Create good-paying jobs"
+                ]
+              },
+              " by encouraging innovation.\n-",
+              {
+                "strong": [
+                  "Reduce the cost of living"
+                ]
+              },
+              " for families struggling with gas, groceries and rent.\n-",
+              {
+                "strong": [
+                  "Ensure fast 911 response times"
+                ]
+              },
+              " and strengthen natural disaster preparedness.\n-Secure ",
+              {
+                "strong": [
+                  "more spots at UC & CSU schools"
+                ]
+              },
+              " for local students.\n-",
+              {
+                "strong": [
+                  "Build affordable housing"
+                ]
+              },
+              " and work to reduce homelessness."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Prior to his election to the State Assembly, Mike worked to increase student access to higher education and expand workforce training at nine local community colleges, including East Los Angeles College in Monterey Park. Mike also served as an Alhambra City Commissioner and on the board of Goodwill Southern California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mike's campaign is strongly supported by groups representing local firefighters, teachers, nurses, law enforcement officers, and small businesses because he's an effective and responsive leader."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "\"I ran for State Assembly because I want to help our communities by solving problems, both big and small. From constituents who need help with state services, to challenges like homelessness, affordability, and community safety. As your State Assemblymember, I am working every day to deliver results for the San Gabriel Valley. I'd be honored to once again earn your vote.\"",
+              {
+                "strong": [
+                  " -Mike Fong"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Questions? Email Mike at Mike@MikeFong.org or visit www.MikeFong.org"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

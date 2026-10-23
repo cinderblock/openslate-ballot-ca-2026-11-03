@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure SC (Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:28Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CAMPAIGN FINANCE RULES RELATED TO BOARD OF EDUCATION ELECTIONS. CHARTER AMENDMENT SC."
+            ]
+          },
+          " Shall the Los Angeles City Charter be amended to clarify the campaign finance rules for Board of Education elections and allow for changes by ordinance? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Councilmember, Adrin Nazarian; LAUSD Board Member, Nick Melvoin; League of Women Voters of Greater LA; CA Common Cause ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

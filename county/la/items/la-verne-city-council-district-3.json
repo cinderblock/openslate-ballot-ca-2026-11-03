@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Verne City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/la-verne",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:41Z",
+  "candidates": [
+    {
+      "choice": "Meshal Kashifalghita",
+      "statement": {
+        "by": "Meshal Kashifalghita",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 50"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Army Reserve Officer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Councilmember, it has been my honor to serve our community with integrity, transparency, and a commitment to putting residents first. Together, we have worked to strengthen public safety, support local businesses, improve our neighborhoods, and make thoughtful decisions that protect the quality of life that makes our city such a special place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am seeking your vote for re-election because there is still important work to do. I will continue to be an accessible, accountable leader who listens to residents, works collaboratively, and makes decisions based on what is best for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience in public service, military leadership, and local government has prepared me to address the challenges ahead while planning responsibly for our city's future. I remain committed to fiscal responsibility, public safety, maintaining our parks and infrastructure, supporting our local economy, and preserving the character of our neighborhoods. Together, we can continue building a safe, strong, and thriving community for every resident."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Richard Bowen",
+      "statement": {
+        "by": "Richard Bowen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 73"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired/Business/Professional"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to run for La Verne City Council.\nAs a 43-year La Verne resident, married for 48 years, with 2 children, I have followed the city council actions closely over the last 10 years. I have conservative values but listen to all sides presented before making decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our citizens DESERVE to have OUR voices heard. I will vote based on information vs. the potential bias of council members or city management. The city should SERVE THE PEOPLE, not the other way around."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support the Police, Fire and all the hard-working employees of our great city and understand that we have financial pressure to continue to support our full-service city. I will work tirelessly to keep our city prosperous, financially sound and SAFE and will work together with all council members to support our CITIZEN's needs versus private groups or city management demands. I am NOT a politician. I bring 46 years of professional business management to this position."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a resident wishing to make a positive difference in the city I love. To have raised my family and live a wonderful life. I appreciate your support and respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

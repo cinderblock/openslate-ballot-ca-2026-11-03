@@ -1,0 +1,68 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Antelope Valley-East Kern Water Agency Board, Division 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:27Z",
+  "candidates": [
+    {
+      "choice": "Brian Gorrindo",
+      "statement": {
+        "by": "Brian Gorrindo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Brian Gorrindo, and I am honored to be a candidate for the Antelope Valley-East Kern Water Agency Board of Directors, District 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a nearly lifelong resident of Leona Valley and have deep roots in our rural community. For the past 27 years, I have proudly served in the fire service and currently work as a Fire Captain, where I have built a career centered on leadership, accountability, and serving others. My wife and I raised our two children in Leona Valley, where we also own and operate a local cattle business."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Like many of you, I value the rural lifestyle that makes our community such a special place to call home. I understand the importance of protecting our agricultural heritage while ensuring a reliable and sustainable water supply for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work to keep AVEK fiscally responsible, promote long-term water sustainability, and advocate for policies that support our agricultural community and rural residents. I believe thoughtful planning, sound financial stewardship, and transparent decision-making are essential to meeting the water needs of our growing region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote and serve the residents of District 3."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jay A. Tremblay",
+      "statement": {
+        "by": "Jay A. Tremblay",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Having Lived, built and run the Lazy \"T\" Ranch for over 50 years I am asking for your vote and support to continue to fill the vacant seat I was appointed to last year (Division 3). As a member of the Water Rate Committee keeping the increases to a minimum for the next 3 years. And for the first time in over 20 years lowering the property tax rate by 5%. I let the ranch and my conservative values speak for themselves."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

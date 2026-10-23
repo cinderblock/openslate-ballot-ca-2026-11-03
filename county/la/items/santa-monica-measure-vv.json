@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Monica — Measure VV (Expand Just Cause Eviction Protections)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-monica",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:18Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "MEASURE VV: Shall Article XXIII of the City Charter related to housing policies be amended to extend existing eviction protections to tenants renting single-unit dwellings and condominiums and require that for owner occupancy evictions from non-rent controlled units, the owner must intend in good faith to occupy the unit within 60 days after the tenant vacates and for at least 2 years thereafter? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Ellis Raskin, Councilmember; Barry Snell, Councilmember; Kay Ambriz, Rent Bd. Vice Chair; Soledad Marcial ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Vv",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure VV amends Santa Monica’s “Housing Policies” eviction protections, Article XXIII of the Santa Monica City Charter (“HPCA”), by (i) extending eviction protections to single-unit dwellings and condominiums; and (ii) aligning owner occupancy eviction requirements in the HPCA and Santa Monica Rent Control Charter Amendment (“RCCA”). Measure VV was placed on the ballot by the Santa Monica City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Both the RCCA and the HPCA prohibit evictions except as provided by law. The RCCA does so for rent-controlled units and the HPCA does so for most other units."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The HPCA excludes single-unit dwellings and condominiums from eviction protections. Measure VV extends HPCA eviction protections to tenants in single-unit dwellings and condominiums."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The HPCA requires that for an owner to evict a tenant for owner occupancy, the owner or relative must intend to occupy the unit for at least one year and begin occupancy within 30 days of tenant vacancy. Measure VV amends the HPCA to align it with the RCCA by increasing these timeframes to require that the owner or relative must intend to occupy the unit for at least two years and begin occupancy within 60 days of tenant vacancy."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "HEIDI VON TONGELN\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure VV. If you desire a copy of the Measure, please visit santamonica.gov/elections/2026-11-03 or call the Santa Monica City Clerk's Office at 310-458-8211 and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

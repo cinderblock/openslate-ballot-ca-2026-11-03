@@ -1,0 +1,114 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Saugus Union School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:11Z",
+  "candidates": [
+    {
+      "choice": "Natalie Epstein",
+      "statement": {
+        "by": "Natalie Epstein",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a motherof four kids in this district, and every morning when I drop my school aged children off, I think about whether they're truly safe. That's why I'm running, because our schools need real safety: working cameras that are actually monitored, visible security guards, a true single point of entry, and those same standards carried into after-school programs too, where the same level of care isn't always guaranteed. I also want to bring more focus to mental health resources, enough counselors so no child falls through the cracks, and real enforcement of anti-bullying policies, not just words in a handbook. Just as important, I want to actually listen to parents and teachers on issues that have gone unanswered for too long. I work in corporate tech and know how to turn that lived experience into real, enforceable policy, not just talking points. I'm running because I want our kids to feel as safe as we all assume they already are."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Larry Grable",
+      "statement": {
+        "by": "Larry Grable",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner/Attorney/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Good schools aren't made by accident. I am running because I believe good schools are built through thousands of thoughtful decisions made over many years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a business and patent attorney, small-business owner, husband, and father, I have spent more than twenty-five years helping inventors, entrepreneurs, and owners solve complex problems and make thoughtful decisions when the outcome matters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife, Christy, and I chose Santa Clarita because of its outstanding schools and strong sense of community. Together, we raised two children here and experienced the opportunities excellent public schools create."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Board member, I will listen, ask thoughtful questions, respect differing viewpoints, and work collaboratively with parents, educators, staff, and the community to help every student reach their full potential."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kevin Kim",
+      "statement": {
+        "by": "Kevin Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 49"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chairman of the Bridgeport Elementary School Site Council, a member of the Asset Management Committee for the Saugus Union School District, and father of two alums and one current student- I have seen firsthand the hard work put in by parents, teachers and administrators to provide a great education for our children. But I have also seen issues that need improving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a member of the Board, I will work hard to ensure transparency in our decision making process so everyone understands why we make the choices that we do. I will ask questions of everyone working with the Board so I understand where they are coming from. I will focus on sustainability and making sure that we are wise with our resources. Even the best programs or teachers cannot be sustained if we cannot pay for them, especially with potential budget cuts looming. These actions will create a process the can be trusted."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a community, we have an obligation to our children to provide them with an education that will help them take on the world. I want this for my child and for your child, and I will work tirelessly to make that happen."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

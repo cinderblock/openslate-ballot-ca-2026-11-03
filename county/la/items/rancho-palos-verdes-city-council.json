@@ -1,0 +1,448 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rancho Palos Verdes City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/rancho-palos-verdes",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:11Z",
+  "candidates": [
+    {
+      "choice": "Matthew Brach",
+      "statement": {
+        "by": "Matthew Brach",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When my time on the RPV Planning Commission ended, I figured I was done with public service. I was looking forward to being a resident again."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That lasted about a month."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "RPV has real problems ahead. The landslide is one. Wildfire risk is another. Then there are roads, burglary, development, and rules coming out of Sacramento."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I served as president of the PVPUSD Board of Education, president of SoCal ROC, and vice chair of the RPV Planning Commission. I know budgets, staff reports, public hearings, and the need to weigh both sides before making a decision."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My approach is simple. I listen first. I read the material and ask questions. Then I make the decision and own it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want RPV to stay RPV. That means protecting neighborhood character. Local decisions should stay local whenever they can. My record reflects that. I have supported quick local action when it was needed. I also pushed back when state rules stopped making sense for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because experience matters here. The job is difficult. It is not new to me. I know the work. I know RPV. I would be honored to serve on the City Council."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Michele Patrick Carbone",
+      "statement": {
+        "by": "Michele Patrick Carbone",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 71"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Health Care Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My husband and I have proudly called Rancho Palos Verdes home since 2010. I love this community and have become increasingly involved because I believe our residents deserve to have their voices heard and their interests represented."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My professional career has been dedicated to healthcare, quality, compliance, and responsible management. I hold several degrees in Administration and Quality Assurance. Throughout my career, I have held senior leadership positions at several of Los Angeles' distinguished hospitals, gaining extensive experience in healthcare management, quality, compliance, and fiscal responsibility and now run my own healthcare consulting business."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience has taught me the importance of accountability, fiscal responsibility, careful decision-making, and listening to the people affected by those decisions. I understand budgets, regulations, compliance, and what it takes to identify a problem, develop a plan, and follow through."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As I care deeply about our community, I'm looking for an opportunity to serve my neighbors and bring my professional experience and perspective to City Council. I want to be a councilmember who listens to residents, asks the difficult questions, looks carefully at the facts and the financial impact, and makes decisions with the community and homeowners first."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David Chura",
+      "statement": {
+        "by": "David Chura",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Technology CEO"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote for Experience and Proven Leadership."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family has proudly called Rancho Palos Verdes home for 27 years. Our daughters were educated here, and our church community is here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Experience. "
+                ]
+              },
+              "I have served six years on the Planning Commission, including two as Chairman, served on key subcommittees, led traffic safety initiatives, and introduced technology to address landslide challenges. The City Council has honored me for ",
+              {
+                "strong": [
+                  "\"inspired innovation in a time of crisis.\""
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Leadership. "
+                ]
+              },
+              "As a technology executive and entrepreneur, I have built successful startup companies, run diverse organizations and managed large budgets. I accept responsibility, value accountability, and deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service must also produce measurable results:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Fiscal Responsibility: "
+                ]
+              },
+              "Landslide costs continue to consume nearly 50% of the City's budget, leaving a backlog of critical programs unfunded. It is far from over. I will reduce costs through innovation, restore city services, and maximize state and federal funding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Public Safety: "
+                ]
+              },
+              "I will strengthen our partnership with the Sheriff and continue improving traffic safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Community Character: "
+                ]
+              },
+              "I will defend our city's control over land use and resist state overreach. I respect our neighborhood compatibility, view preservation, and privacy ordinances."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Infrastructure: "
+                ]
+              },
+              "I will prioritize road safety, improve drainage, and expand wireless communications."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "www.ElectDavidChura.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Tina Funiciello",
+      "statement": {
+        "by": "Tina Funiciello",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 48"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Tina L. Funiciello, Esq. I am honored to be a candidate for the Rancho Palos Verdes City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am passionate about serving as a City Council member because of my belief in the values our community embraces, like safety, maintaining property values, and preservation of our beautiful land."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've lived here my entire life and have developed a deep understanding of our community, having actively involved myself in a variety of committees with my children's schools and my church, coordinating numerous events, managing funds, and organizing. I have unique experience and insight into our city's educational needs. This equipped me with the skills needed to contribute to the council effectively."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My career as an attorney gave me practical skills in problem solving, research and communication."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm known for my integrity, dedication, and team collaboration. I'm committed to bringing these values to this role. My approach is always to fully research issues, communicate effectively, and bring common-sense solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, my primary goals are:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Upholding our General Plan;"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Implementation and creation of policy serving our public's interests;"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Keeping RPV in accordance with our founders' original intent - open spaces and under developed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your consideration."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jessica Patton Vlaco",
+      "statement": {
+        "by": "Jessica Patton Vlaco",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Accounting and Finance Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong resident of Rancho Palos Verdes. I attended PVPUSD schools. My husband and I raised our three children here. It is a wonderful place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have a long history of involvement in the community in leadership roles in the PTA and Booster Club. I was a long-time soccer coach and referee before switching to volleyball. I volunteered for many years as a coach and now most recently as the PV Site Director/Clinician for the United States Youth Volleyball program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Always eager to get involved and stay current on things going on in the city, I applied for and was appointed to the city's Traffic Safety Committee and then the Finance Advisory Committee. Currently I serve on the board of CHOA."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In my professional career I have served in senior level accounting and finance positions for a variety of public and private companies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a council member, my priorities would include preserving public safety and the quality of life here in RPV while maintaining sound fiscal policies. I will work with staff to continue looking for technical and financial assistance for the landslide area."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "jessicavlaco.4rpv@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "John Cruikshank",
+      "statement": {
+        "by": "John Cruikshank",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote John Cruikshank for Rancho Palos Verdes City Council – November 3"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a husband, father, civil engineer, local business owner, and community volunteer. I previously served as Mayor, two-term City Councilmember, and Planning Commissioner, and hold bachelor's and master's degrees from USC."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We love Rancho Palos Verdes for its views, quiet nights, strong neighborhoods, and neighborly bonds. These qualities require practical, resident-first leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your former Councilmember I fought for the highest quality of life. As a business owner I know how to balance budgets and deliver results. As a volunteer, I've served on local boards and as an advanced soccer referee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running to protect and enhance our city with these commitments:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Be your independent voice at City Hall\n- Maintain excellent Sheriff and Fire services\n- Keep the City free of budget deficits\n- Hold utility companies accountable\n- Strengthen ties with neighboring cities\n- Simplify City processes"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proudly endorsed by past and current City leaders and neighbors, I will bring measured, determined leadership focused on results and preserving what makes RPV special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote on November 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "John Cruikshank"
+                ]
+              },
+              "\nwww.johncruikshank.us"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

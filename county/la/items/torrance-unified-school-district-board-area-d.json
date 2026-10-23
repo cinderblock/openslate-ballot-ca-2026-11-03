@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Torrance Unified School District Board, Area D",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:27Z",
+  "candidates": [
+    {
+      "choice": "Jennifer Mak",
+      "statement": {
+        "by": "Jennifer Mak",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired School Administrator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, I have been guided by a simple belief - sustainable progress comes from building trust, working together, and maintaining an unwavering commitment to student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family has proudly called the Torrance community home for nearly 30 years. Our three adult children graduated from Torrance Unified after attending Riviera Elementary, Richardson Middle, and South High School. As both an educator and TUSD parent, I understand the importance of strong public schools and their impact on students and the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my 38-year career in public education, I have served as a teacher, instructional coach, assistant principal, principal, school support administrator, and Community of Schools administrator. As an elementary principal, I led a California Gold Ribbon and Title I Academic Achievement Award-winning school. I later partnered with 11 of the district's lowest-performing schools to strengthen instruction and improve student outcomes. As a Community of Schools Administrator, I supported 16 schools serving approximately 7,000 students, focusing on instructional leadership, school improvement, and student achievement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to ",
+              {
+                "strong": [
+                  "putting students first, empowering educators, and strengthening partnerships with families. "
+                ]
+              },
+              "It would be an honor to bring my experience and collaborative leadership to the Torrance Unified School District Board of Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Warm regards,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jennifer Mak\nRetired School Administrator\njennsifermakforschoolboard@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ryan Rauzon",
+      "statement": {
+        "by": "Ryan Rauzon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "We chose Torrance for one reason: great public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We're the proud parents of three wonderful kids: one a South High graduate, another starting his senior year, and our youngest still in middle school – with high hopes for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When our schools need a hand, I show up. PTA? I served a term as president, along with other positions over the years. School Site Council? Yep."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the husband of a teacher, I learned a one-size-fits-all education doesn't work for our kids. Struggling students need support to reach their goals."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We must help students make the connection between what they're learning today and the skills they'll need in college and careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I know that great teaching happens in classrooms, and that's where our tax dollars belong, not offices or bloated bureaucracies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Torrance Unified can become the jewel of the South Bay, but our schools can't do it alone. Public institutions only succeed when we all do our part."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In my time as a small-business owner, consultant and community organizer, I've built a reputation for rolling up my sleeves and tackling problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

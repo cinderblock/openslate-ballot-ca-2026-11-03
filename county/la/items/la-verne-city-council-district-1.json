@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Verne City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/la-verne",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:39Z",
+  "candidates": [
+    {
+      "choice": "Thomas D. Allison",
+      "statement": {
+        "by": "Thomas D. Allison",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney/Law Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are simple: make La Verne safer, strengthen community life, preserve our small-town character, spend wisely, support local businesses and organizations, and ensure every tax dollar delivers measurable value."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I am an attorney, professor, and governance expert. My experience owning a business and nonprofit organization, practicing family law, and earning degrees in business, law, and public administration have prepared me to make thoughtful, fiscally responsible decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have and will continue to serve our community. Examples of my service include Planning Commission, Committee on Cultural Awareness and Social Inclusion, General Plan Advisory Committee, coaching AYSO soccer, and teaching at the University of La Verne."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will listen first, work collaboratively, study the facts, vote independently, explain every vote, and faithfully represent District 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council because I love this city and believe our best days are ahead. For more than twenty years, La Verne has been my home. My wife and I are raising our young family here, and our children inspire me every day to devote my best talents to preserving and strengthening the community they will inherit. Learn more at ThomasForLaVerne.com (http://thomasforlaverne.com/). It would be my honor to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steven Frank Johnson",
+      "statement": {
+        "by": "Steven Frank Johnson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 64"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Insurance Broker"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Steven Frank Johnson, and I am asking for your vote for La Verne City Council District 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have attended La Verne public schools, graduated from Bonita class of 1979, the University of La Verne 1983 and became a self-employed insurance Broker in 1983. I am a 42-year member of the La Verne Rotary Club serving as President Twice. I have served on the La Verne City Council 2003 to 2011 and currently serve as your District 1 council member. My mother, Nadine Johnson resides at Hillcrest Homes where I served on their Board of Directors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife, Lori Castellano and I received the CALIFORNIA CONGRESS OF PARENTS, TEACHERS AND STUDENTS, INC Honorary Service Award presented by the Bonita Council (2007)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be my honor to serve to serve District 1 with my guiding principles,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Rotary FOUR-WAY TEST:\n1. IS IT THE TRUTH?\n2. IS IT FAIR TO ALL CONCERNED?\n3. WILL IT BUILD GOODWILL and BETTER FRIENDSHIPS\n4. WILL IT BE BENEFICIAL TO ALL CONCERNED"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your consideration!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

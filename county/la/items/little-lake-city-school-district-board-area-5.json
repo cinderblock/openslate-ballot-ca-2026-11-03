@@ -1,0 +1,139 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Little Lake City School District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:56Z",
+  "candidates": [
+    {
+      "choice": "Scherise R. Acosta",
+      "statement": {
+        "by": "Scherise R. Acosta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: School Attendance Clerk"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong member of this community, where four generations of my family have attended Little Lake City School District's schools, including my granddaughter today at Cresson Elementary. I work as a school attendance clerk for the Los Angeles Unified School District and have served as a City of Norwalk Social Services Commissioner for seven years. I have volunteered extensively in local schools, including rebuilding the Santa Fe High School cheer booster club after it was lost during the pandemic, and serving as its president for two years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Little Lake City School Board because every child deserves a boardmember that puts students first. I am committed to ensuring our schools have the resources needed for academic success, including support for special education and manageable class sizes. I will bring transparency and real communication to the board, so parents always understand how decisions are made. I also believe in fiscal responsibility paired with modern, well-maintained schools built to serve our students for years to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent, grandmother, and lifelong community volunteer, I understand what our schools need because I have lived it. I ask for your vote so I can bring steady, trustworthy leadership to our Governing Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit www.scheriseacosta.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dora Sandoval",
+      "statement": {
+        "by": "Dora Sandoval",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Economy Efficiency Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a former Little Lake City School Board Member and longtime community leader. My husband and I raised our three daughters in this district, and our family has always been committed to serving our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for ",
+              {
+                "strong": [
+                  "Little"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Lake City School District Trustee Area 5 "
+                ]
+              },
+              "to",
+              {
+                "strong": [
+                  " ensure fiscal responsibility, accountability, and transparency while advocating for students, parents, teachers, classified staff, and our community."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my service on the School Board from 2015 to 2020, I helped secure more than $200,000 in funding, including $125,000 to improve William Orr Elementary School and the Sara Mendez Park playground. I believe every decision should be guided by what is best for students and by responsible stewardship of taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will listen to our community, ask the tough questions, make informed decisions, protect taxpayer dollars, and stand up for students, families, teachers, and classified staff with honesty, integrity, and transparency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by the Little Lake Educational Association (LLEA), the teachers who serve our students every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote on November 3.Together, we can build a stronger future for every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you and God Bless"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dora Sandoval"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

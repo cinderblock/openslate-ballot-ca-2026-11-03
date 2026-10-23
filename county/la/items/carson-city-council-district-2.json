@@ -1,0 +1,105 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carson City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/carson",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:47Z",
+  "candidates": [
+    {
+      "choice": "Jim Dear",
+      "statement": {
+        "by": "Jim Dear",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Council Member/Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Carson City Council Member, and English, Government & History Public School Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbors,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "It's been a privilege and honor to be your Councilmember and true public servant. "
+                ]
+              },
+              "As the most accountable, transparent, and best qualified candidate, with a record of accomplishments like bringing economic development, improved public safety, and jobs to Carson, I respectfully ask for your vote on or before November 3rd, 2026."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Some of my ideas & achievements:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Public Safety"
+                ]
+              },
+              " first.\n- ",
+              {
+                "strong": [
+                  "Resurfacing \"all\""
+                ]
+              },
+              " public streets.\n- ",
+              {
+                "strong": [
+                  "Completely revamping"
+                ]
+              },
+              " our Building & Safety Department and Plan Check Services.\n- My ",
+              {
+                "strong": [
+                  "Smart Growth Plan"
+                ]
+              },
+              " has lead to our huge city reserve fund."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to you remains strong, and my dedication to improving your quality of life is unsurpassed. I bring honest government. Supported by residents just like you, Educators, Fire Fighters, Law Enforcement, Nurses, Care Givers, Business and Organized Labor, Environmentalists, Students, City Employees, Community Leaders, City Commissioners and the Carson Alliance 4 Truth. My common sense, qualifications, & experience make me the best choice for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am very hard working, known for getting results. Together, we'll improve public safety, reduce homelessness, curtail graffiti, expand youth services, protect Senior Citizens & Mobile home residents and everyone. My door is open. Phone: (424) 440-4003 or call City Hall. E-mail: dearforcouncil2@gmail.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sincerely, Jim Dear"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Irwindale City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/irwindale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:37Z",
+  "candidates": [
+    {
+      "choice": "Hector Ortiz",
+      "statement": {
+        "by": "Hector Ortiz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your Council Member, I have always served with honesty, transparency, integrity, and a commitment in prioritizing the residents of Irwindale first. Together, we have strengthened our community by supporting public safety, maintaining quality city services, improving our parks and infrastructure, and protecting the small-town values that make Irwindale such a special place to call home. I believe in responsible leadership, careful financial stewardship, and making decisions that benefit both today's residents and future generations. While we have accomplished much, there is still more important work ahead. I remain committed to listening to our community, working collaboratively, and ensuring Irwindale continues to thrive. I respectfully ask for your vote and together, we can build an even stronger City of Irwindale."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Marguerite S. Lopez-Sapien",
+      "statement": {
+        "by": "Marguerite S. Lopez-Sapien",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It's time for a change that matters!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong resident and former Parks & Recreation Commissioner for over a decade, I will provide strong adaptive leadership for the City of Irwindale. My planning, organizing, directing, and leadership style will be based on ethical decision-making/principles. I have the knowledge and foresight to lead Irwindale into the future, so the residents and businesses can prosper for future generations. I promise a transparent city government held to highest ethical standards. The residents' safety and quality of life is always my top priority. My leadership will provide for a better future for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm asking for our community's support and vote this election, Tuesday, November 3rd, 2026."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "May God bless America, our community, and our families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Respectfully,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Marguerite S. Lopez-Sapien"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maricela Romero Frymark",
+      "statement": {
+        "by": "Maricela Romero Frymark",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve as the Chair of our City's Planning Commission. Thank you for your trust and support over the years. I am proud to now run for Irwindale City Council because I believe our city deserves thoughtful leadership that considers all residents and holds our City to a high standard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are simple: encourage smart growth that brings quality businesses and local jobs, maintain balanced budgets, keep our neighborhoods safe, invest in our youth, seniors, and families, focus on housing opportunities, and make sure City departments are open, accountable, and accessible to every resident and community partner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I serve in an executive leadership role where I help develop education policies that affect students, solve difficult problems, and build partnerships that strengthen our schools and community. I remain active in our local schools by serving on PTA boards and district committees, advocating for our students and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because I care deeply about Irwindale. I will listen, lead with integrity, and work",
+              " collaboratively to preserve what makes Irwindale special, while building a stronger future for the next generations. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With gratitude,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Maricela"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

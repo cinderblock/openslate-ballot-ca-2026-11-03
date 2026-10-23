@@ -1,0 +1,103 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pasadena Area Community College District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:16Z",
+  "candidates": [
+    {
+      "choice": "Steve Gibson",
+      "statement": {
+        "by": "Steve Gibson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dr. Steve Gibson has served as Area 3's Pasadena City College Trustee since 2022. A proud PCC graduate (AA, 2010), he went on to earn a Master's in Communications and a PhD in Education. PCC changed his life, and he has worked every day to ensure it does the same for the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the Board, Gibson has fought to strengthen PCC Northwest at John Muir High School, expand career and workforce training, and keep college affordable and accessible.\nWhen the Eaton Fire devastated Altadena and Northwest Pasadena, Gibson's family lost their home. Like so many neighbors, they chose to stay and rebuild. He knows this community's grief and resilience personally, and he championed PCC's recovery efforts, including establishing the construction trades lab and fire academy to train the workers who will rebuild and protect our community.\nA lifelong educator and community organizer, Gibson has spent his career fighting for healthcare access, climate justice, housing, and community empowerment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "\"It has been the honor of my life to serve this community. There is more work to do, and I respectfully ask for your vote.\" — Steve Gibson"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "stevegibson4pcc.com | sagauthor@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David Coher",
+      "statement": {
+        "by": "David Coher",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Pasadena City College is a door we must keep open. I walked through one like it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I began my education at a community college, then transferred on scholarship to USC and earned my law degree from Georgetown. I worked my way through school, and I have never forgotten who held those doors open for me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today I work as a mediator, helping people who deeply disagree hear each other and build agreements that last. As a business leader, I led large organizations and answered for balancing budgets. I have served our community on the Pasadena Planning Commission, the Pasadena Board of Zoning Appeals, and the 2021 Pasadena Redistricting Task Force, and today I serve as Board President of the Arroyos and Foothills Conservancy (for identification purposes only)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will keep three commitments. I will measure affordability by the true cost of attending, including books, transportation, food and housing, because those costs push students out before they finish. I will expand career training that leads directly to good jobs. And I will insist on transparent budgets and plain answers to taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our neighborhoods are still rebuilding. PCC should help lead that work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "— David\n",
+              {
+                "strong": [
+                  "Coher4PCC.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

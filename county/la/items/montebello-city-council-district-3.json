@@ -1,0 +1,150 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Montebello City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/montebello",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:30Z",
+  "candidates": [
+    {
+      "choice": "Marie Ledezma",
+      "statement": {
+        "by": "Marie Ledezma",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Paralegal/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Marie Ledezma, and I am one of you. Fluent in Spanish, a parent, a grandparent, a hard worker (paralegal and small business owner), and proud Montebello resident. For over ten years, I've invested time, money, and energy in this city-volunteering, attending City Council meetings, and holding our leaders accountable through advocacy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 3 needs a leader with persistence, poise, and passion- qualities I've developed alongside other strengths. As a senior paralegal, I listen, research, and solve complex problems under pressure. As a business owner, I understand the realities of entrepreneurship. As a mother and grandmother, I know what families and seniors need to thrive. These experiences prepare me to lead with competence and compassion."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will lead with transparency and unwavering accountability. I will make decisions that prioritize Montebello first, firmly guided by ethics and law. Advocate for ordinances that work, cut red tape, and expand economic opportunities. I will fight for a beautiful Montebello by protecting our green spaces and rebuilding aging infrastructure. I am committed to building strong partnerships with city leaders, businesses, and first responders, to better serve and protect our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to serve District 3"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Elva Osorio",
+      "statement": {
+        "by": "Elva Osorio",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Nonprofit Technical Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a local business owner on Whittier Boulevard, nonprofit technical consultant, and proud neighbor, I want to build a Montebello where people can stay, invest, and thrive for generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our neighbors shouldn't feel forced out by high costs or broken streets. My goal is keeping our community together through practical leadership. I will address homelessness with balance: combining mental health help and shelter with real safety rules."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We must fix our city's basics. I will prioritize repairing local roads, stopping unfair parking tickets, and fixing traffic lights on Whittier and Beverly so drivers aren't stuck at red lights. To support local families, I will focus on quicker emergency response times, Dial-a-Ride, and expanding programs for youth and seniors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Using my technical background, I will audit city spending, demand accountability across city services, cut red tape for small businesses, and make downtown a safe, active hub."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I don't answer to career politicians. My door is always open at my shop in the Goddess Mercado Bazaar. I respectfully ask for your vote for District 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Elva \"Sammy\" Osorio"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ana Torres",
+      "statement": {
+        "by": "Ana Torres",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Montebello Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Ana Torres, and Montebello has been my home for over 30 years. As a Mexican immigrant, mother of two, local business owner, and community advocate, I understand the value of hard work, perseverance, and service to others."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned my Associate's degree from East Los Angeles College and both my Bachelor's and Master's degrees in Sociology from California State University, Los Angeles. I spent over 14 years serving students and families through the Los Angeles Community College District before investing in my own city by opening Organica Juice Bar, Montebello's first organic juice bar. My goal has always been to create opportunities that improve the health and well-being of our community while supporting local economic growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, I have worked to bring people together, build meaningful partnerships, and serve with integrity. I am running for City Council to continue that work. Montebello deserves honest, transparent leadership that puts residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities include supporting public safety, strengthening local businesses, improving city services, investing in youth and seniors, and ensuring responsible stewardship of taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your trust and your vote as we work together to build a better Montebello."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

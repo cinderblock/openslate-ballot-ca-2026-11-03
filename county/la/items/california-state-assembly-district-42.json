@@ -1,0 +1,88 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 42",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-42",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:19Z",
+  "candidates": [
+    {
+      "choice": "Deborah Klein Lopez",
+      "statement": {
+        "by": "Deborah Klein Lopez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I'm ",
+              {
+                "strong": [
+                  "Deborah Klein Lopez"
+                ]
+              },
+              ",",
+              " and I'm running for State Assembly because California needs a fighter who is an experienced leader when the stakes are high. I'm the only candidate in this race with a proven record of creating jobs, lowering costs, tackling crises, reducing crime, and improving public safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proud to be endorsed by:\n- Los Angeles County Firefighters\n- Sheriff Robert Luna and law enforcement leaders\n- California Nurses Association\n- Planned Parenthood Central Coast Action Fund\n- State Senator Henry Stern\n- Assemblywoman Jacqui Irwin"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was elected to the Agoura Hills City Council just two days before the Woolsey Fire. I helped lead recovery efforts, improve emergency preparedness, cut red tape, and make our neighborhoods safer and more resilient. ",
+              {
+                "strong": [
+                  "As we face more extreme wildfires, rising costs, and a home insurance crisis, we need leadership that has been tested."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up here, raised my children here, and have spent my career fighting to make this region stronger. As Chair of Clean Power Alliance, I helped create thousands of good-paying jobs, lower energy costs, and expand clean energy. I've strengthened local schools, ",
+              {
+                "strong": [
+                  "supported public safety"
+                ]
+              },
+              ",",
+              " and delivered results by bringing people to the table."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a working mom determined to help residents afford to live here, I will stand up to Trump to make California more affordable. ",
+              {
+                "strong": [
+                  "I'll focus on reducing the high cost of healthcare, prescription drugs, energy, housing, food, and gas."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm ready to deliver on day one, and I'd be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.deborahkleinlopez.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

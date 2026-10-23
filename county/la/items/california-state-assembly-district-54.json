@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 54",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-54",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:26Z",
+  "candidates": [
+    {
+      "choice": "Alexandra Briseno",
+      "statement": {
+        "by": "Alexandra Briseno",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Alexandra Briseno\nwww.Briseno54.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "California families are working harder and paying more for nearly everything—from housing, groceries, gas, utilities, and healthcare to the cost of raising a family or operating a business. I am running for State Assembly District 54 because Sacramento decisions have real consequences in our homes, workplaces, and communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an electrical engineer and community and policy advocate, I bring technical expertise, practical problem-solving, and firsthand experience engaging decision-makers. My background gives me a clear view of how policies impact infrastructure, energy reliability, utility costs, and household budgets. I know the",
+              " value of identifying what is not working before asking Californians to pay more for it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the State Assembly, my priorities will be making California more affordable, reducing unnecessary costs on working families, protecting taxpayers, improving public safety, strengthening healthcare access and education, and supporting reliable infrastructure. We must review the laws, taxes, fees, and regulations driving up the cost of living so families never have to choose between paying a utility bill, filling a gas tank, or buying groceries. At the same time, we must protect our local economy and keep good jobs rooted right here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 54 includes diverse communities with different needs, but every neighborhood deserves strong representation. I will listen to renters, homeowners, workers, parents, seniors, and community leaders to ensure their voices guide our state laws. Effective public policy requires command of details, foresight, and a commitment to results. California does not need more promises; it needs better decisions."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

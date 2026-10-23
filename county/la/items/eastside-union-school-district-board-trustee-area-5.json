@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Eastside Union School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:33Z",
+  "candidates": [
+    {
+      "choice": "Anouk Harvey",
+      "statement": {
+        "by": "Anouk Harvey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The schools we build today will shape what is possible for Eastside's children tomorrow. My educational journey began in the Antelope Valley, and I have chosen to build my career in service to this community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I attended Lancaster Baptist School and SOAR High School, earned Associate Degrees in Liberal Arts and Humanities and Social and Behavioral Sciences from Antelope Valley College, and graduated from UCLA with a Bachelor's degree in Sociology and a minor in Spanish. Since then, I have taught 4th, 6th, and currently 7th grade."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the classroom, I have watched educators set high expectations, meet students where they are, and work tirelessly to help them reach the standard. I also know that adjusting some policies could make a huge difference."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need greater consistency for students, stronger communication with families, greater appreciation for teachers and staff, and programs chosen for their results, not simply because they satisfy a requirement. Our schools should also help children develop confidence, emotional intelligence, and pride in learning from an early age."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Deputy Mayor, I am helping lead a citywide effort focused on third-grade literacy and measurable student outcomes. Eastside students deserve a district as ambitious about their futures as they are capable of becoming."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Julie Ann Bookman",
+      "statement": {
+        "by": "Julie Ann Bookman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Julie Bookman has lived in the Antelope Valley since 1966, and attended Eastside School from third grade through eighth grade. After attending Antelope Valley High School, she earned a Bachelor of Science degree in Agronomy from Cal Poly Pomona, and a Master of Arts degree in Education from Chapman University."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After graduating from Cal Poly Pomona, Mrs. Bookman worked as a State Traffic Officer for the California Highway Patrol. Once she started a family, Mrs. Bookman began working as a teacher for the Eastside Union School District, two years as a sixth grade teacher, and two years as a second grade teacher. Mrs. Bookman then moved to Antelope Valley Union High School District to teach Biology."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mrs. Bookman retired in 2019 from the Antelope Valley Union High School District where she taught Biology, Forensic Biology, Anatomy and Physiology at several high schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mrs. Bookman is married and lives on a working ranch on the east side of Lancaster. She has two adult children, both of whom attended Tierra Bonita Elementary School and Cole Middle School. Both earned Bachelor degrees, one from Cal Poly Pomona and one from Cal State Fullerton. She has three grandchildren that she loves to spend time with."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mrs. Bookman has always considered education as a way for students to open doors to opportunities. She is dedicated to supporting the education of the students in the Eastside community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:21Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CITY INFRASTRUCTURE, BUDGET, FINANCE, AND CONTRACTING. CHARTER AMENDMENT LA."
+            ]
+          },
+          " Shall the City Charter be amended to: establish a capital infrastructure plan and two-year budget cycle for the City; increase the authority of the Director of Public Works and allow for the elimination of or changes to the Board of Public Works; remove restrictions prohibiting the City from engaging in business enterprises and mortgaging City-owned property; and change certain contracting rules and procedures? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " City Controller, Mejia; City Councilmembers, Yaroslavsky & Blumenfield; Fmr. City Controller, Galperin; Investing in Place ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Monica Rodriguez, Los Angeles City Councilwoman, District 7"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Huntington Park City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/huntington-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:13Z",
+  "candidates": [
+    {
+      "choice": "Karina Macias",
+      "statement": {
+        "by": "Karina Macias",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Healthcare Provider/City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Huntington Park is my home. For more than 30 years, I have lived in this community, attended our local schools, and dedicated myself to serving the residents of our city. It has been an honor to serve as your City Councilmember, and I remain committed to protecting taxpayers, strengthening our neighborhoods, and putting residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have delivered results:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- As Mayor, I eliminated over $1 million in unnecessary special-interest contracts, ensuring taxpayer dollars were spent responsibly.\n- Maintain balanced city budgets that protected programs for seniors and families.\n- Supported bringing new businesses, including Target, Ross, Smart & Final, CVS, and Raising Cane's, creating jobs and expanding shopping opportunities.\n- Helped secure funding to improve local parks and Senior and Youth programs at Veterans Park, Circle Park, Keller Park, and the Salt Lake Park Recreation Center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I voted against unnecessary fees on homeowners who rent-out rooms or ADUs, and I opposed giving the City Manager authority to spend up to $300,000 without City Council approval because accountability and transparency matter."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a Bachelor's Degree in Psychology and Political Science from Mount Saint Mary's University and a Master's Degree in International Studies from Chapman University. I respectfully ask for your vote so we can continue moving Huntington Park forward together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you and God Bless."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote EXPERIENCE, Vote Karina Macias"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nancy Martiz",
+      "statement": {
+        "by": "Nancy Martiz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running to represent my neighbors in District 2, within the City of Huntington Park. I've lived on Newell Street for the last decade and my neighbors will often find me at Salt Lake Park, at the local cafe, supporting the arts, planting trees, or running around HP. I am invested in the well-being of my neighbors, my city, and my region. For the past 15 years I have been a professional in Human Resources & Employee Benefits. I have a B.A in Government, and an M.A. in Public Policy & Administration. Serving as a council member is how I contribute to the community I love. I was appointed as a Huntington Park City council member in April 2025 and I am committed to finishing what I started. Over the past year as a council member I have been a loud advocate for protecting our immigrant neighbors, keeping neighbors housed, investing in our aging infrastructure, and restoring our parks. I believe Huntington Park has not reached its fullest potential and we deserve better. I will keep fighting for green spaces, clean air, fair housing policies, and safe streets for all. With your support I will continue fighting for the working families of Huntington Park."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

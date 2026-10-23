@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Monica — Measure RR (Eviction Tenant Protections)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-monica",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:17Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "MEASURE RR: Shall the City Charter be amended to prohibit evictions based on non-payment of rent when a tenant owes less than one month of the average of fair market rents, set annually by the U.S. Department of Housing and Urban Development, for ZIP codes in Santa Monica? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Mayor Caroline Torosis; Rent Board Cmr. Kay Ambriz; CM Ellis Raskin; Jennifer Kennedy; Irma Carranza ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Rr",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure RR amends the Santa Monica Rent Control Law, Article XVIII of the Santa Monica City Charter (“RCCA”) and the City’s “Housing Policies” eviction protections, Article XXIII of the Santa Monica City Charter (“HPCA”) by limiting evictions based on non-payment of rent when a tenant owes less than a threshold amount of rent. Measure RR was placed on the ballot by the Santa Monica City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Both the RCCA and the HPCA (together, “RCCA-HPCA”) prohibit evictions except as provided by law. The RCCA does so for rent-controlled units and the HPCA does so for other units, excluding single-unit dwellings and condominiums."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The RCCA-HPCA allow landlords to evict tenants when a tenant owes any amount of rent. Measure RR amends the RCCA-HPCA to prohibit evictions based on non-payment of rent unless (1) the tenant owes more than the average of the Small Area Fair Market Rents set annually by the U.S. Department of Housing and Urban Development for equivalent sized rental units in the five ZIP Codes located wholly or partially within the City of Santa Monica and (2) the written notice demanding the tenant pay the unpaid rent or move out states the number of bedrooms in the tenant’s rental unit and the average Small Area Fair Market Rent amount for an equivalent sized rental unit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure RR does not affect a landlord’s right to collect unpaid rental debt from a tenant through means other than eviction."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "HEIDI VON TONGELN\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure RR. If you desire a copy of the Measure, please visit santamonica.gov/elections/2026-11-03 or call the Santa Monica City Clerk's Office at 310-458-8211 and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

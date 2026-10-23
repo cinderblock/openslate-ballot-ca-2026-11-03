@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Azusa City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/azusa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:16Z",
+  "candidates": [
+    {
+      "choice": "Edward J. Alvarez",
+      "statement": {
+        "by": "Edward J. Alvarez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 61"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember/Federal Auditor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbors,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I thank you for your confidence in me to serve as a Councilmember for the past 13 years. I am proud of what we have accomplished through the years, such as developing the downtown and bringing a variety of local businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In those years, we have also taken a financial budget with no reserve funds, to a reserve of over $50M and have invested heavily in capital improvement projects such as our Library, Senior Center, and soon the Woman's Club, to name a few."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I continue to work as a Federal Auditor and I am a Certified Fraud Specialist, a small business owner in Azusa, and retired from the US Navy. I also am a graduate with a Masters in Business Administration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to continue to serve the Azusa community and steadily increase our reserve funds and bring more businesses to Azusa and maintain a balanced budget. We have also worked to increase community events to help make Azusa a great place to work, live, and play."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to have your support on November 3, 2026."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

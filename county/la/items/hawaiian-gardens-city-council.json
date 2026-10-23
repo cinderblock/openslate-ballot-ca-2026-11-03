@@ -1,0 +1,236 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hawaiian Gardens City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/hawaiian-gardens",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:59Z",
+  "candidates": [
+    {
+      "choice": "Luis Roa",
+      "statement": {
+        "by": "Luis Roa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent/Payroll Specialist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, you placed your trust in me to serve on the Hawaiian Gardens City Council. It has been an honor to earn that trust every day, and I am grateful for the opportunity to represent the community my family and I are proud to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we've accomplished a great deal. During the COVID-19 pandemic, our city continued providing essential services while supporting residents through an unprecedented time. Since then, we've invested in street beautification, infrastructure improvements, the renovation of our community gymnasium, expanded community programs, and other projects that will benefit residents for years to come. We've also remained fiscally responsible, carefully managing taxpayer dollars while protecting the city's long-term financial stability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the City Council has allowed me to listen to residents, understand different perspectives, and work alongside my fellow councilmembers and city staff to solve problems. I believe the best decisions come from listening first and working together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to continue serving Hawaiian Gardens. Thank you for your trust, support, and the privilege of representing our community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dandy De Paula",
+      "statement": {
+        "by": "Dandy De Paula",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 51"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent/Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe leadership is about service, accountability, and creating opportunities for every resident to succeed. As your Councilmember, I have supported initiatives in making Hawaiian Gardens a safer, stronger, and more vibrant community by prioritizing public safety, supporting violence prevention efforts, and building strong partnerships with law enforcement, schools, community organizations, and residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have championed programs that support families, empower students, create opportunities for our youth, and ensure our seniors have the support, respect, and resources they deserve. I have also supported efforts to keep our streets clean, improve our neighborhoods, and create a welcoming environment that attracts businesses and encourages economic growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "By collaborating with local businesses, community leaders, and residents, we have made meaningful progress together. I remain committed to listening to our community, addressing challenges, and delivering results. Together, we can continue building a Hawaiian Gardens where families thrive, seniors are valued, businesses prosper, and every resident feels proud to call our city home."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Luis Gonzalez",
+      "statement": {
+        "by": "Luis Gonzalez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Accounting Technician"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong public servant and 35-year resident of Hawaiian Gardens, I am committed to serving our community with integrity, accountability, and common-sense leadership. As an Accounting Technician, I understand the importance of fiscal responsibility, transparency, and ensuring taxpayer dollars are spent wisely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 10 years, I have proudly volunteered as a Hawaiian Gardens Little League coach, mentoring our youth and teaching teamwork, responsibility, respect, and good sportsmanship while building lasting relationships with local families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are improving public safety, supporting local businesses, attracting responsible new businesses, and enhancing the quality of life for every resident."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Safe neighborhoods are the foundation of a strong community. I will support our law enforcement and first responders while encouraging partnerships that help keep our streets, parks, neighborhoods, and businesses safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work to strengthen our local economy by supporting small businesses, encouraging responsible investment, creating opportunities for job growth, and preserving the character of Hawaiian Gardens."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will listen to residents, work collaboratively, and focus on practical solutions that improve our city today while preparing for tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Hawaiian Gardens City Council."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jesus Mendoza",
+      "statement": {
+        "by": "Jesus Mendoza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: UPS Package Handler"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a long-time resident of Hawaiian Gardens, that has worked and dedicated several years of my life to my community. As a city employee, my responsibilities were serving our seniors, residents and our youth. I would be humbled and honored to be given your support. By voting me into our Hawaiian Gardens City Council, I would prioritize Public Safety, Senior and Adult programs, Community Services, Youth Programs and City staffing."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maria Teresa Del Rio",
+      "statement": {
+        "by": "Maria Teresa Del Rio",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 43"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Council Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past six years, I have had the honor of serving our community as a Council Member. This experience has been one of the most meaningful commitments of my life, and I am proud of the work I have done on behalf of our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my six years in office, I have supported and approved initiatives that created positive changes, improved our community services, strengthened our neighborhoods, and enhanced the quality of life for our families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I take my responsibility as an elected official seriously. I listen to residents, study the issues, and make decisions based on what I believe is best for our community and its future. Leadership requires integrity, accountability, courage, and a willingness to stand up for what is right and that is exactly what I will continue doing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for reelection because there is more work to do. I will continue advocating for our residents, supporting responsible growth, improving our city, and creating opportunities for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am asking for your vote and your continued trust on November 3rd, 2026. Thank you."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

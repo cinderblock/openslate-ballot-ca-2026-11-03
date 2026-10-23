@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Little Lake City School District Board, Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:54Z",
+  "candidates": [
+    {
+      "choice": "Adriana C. Mitre",
+      "statement": {
+        "by": "Adriana C. Mitre",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have over 30 years of experience in construction accounting with added experience in human resources. In my current position as HR and payroll, I have learned to interact, communicate and team up with employees to build courses of action. I can bring this valuable set of skills to our district. Especially after the 10-day strike that demoralized our teachers and students. Little Lake deserves better and I will fight for transparency and collaboration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring to the school board an open mind and an honest commitment for a better future. I grew up in Norwalk, attended Little Lake schools and have lived in Santa Fe Springs for over 20 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the only candidate running in Area 2 that is endorsed by Little Lake Teachers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a concerned community member, taxpayer and mother, I recognize that our entire community shares in the responsibility of providing an exceptional education to our children and grandchildren to prepare them for the future. I truly believe that the current voter perspective in California, supports an increase to awareness. If elected, I will work together with the board, district administration and parents to bring action and transparency to our district."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gabriel J. Jimenez",
+      "statement": {
+        "by": "Gabriel J. Jimenez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Planning Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strong schools build strong communities. That belief has guided my commitment to Little Lake City School District and Santa Fe Springs throughout my life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My passion for education was inspired by my mother, Rebecca Jimenez, who dedicated 31 years to serving students and families as a bilingual teacher in Little Lake City School District. My siblings and I attended Little Lake schools, where I learned the value of hard work, service, and giving back to the community that shaped me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong Santa Fe Springs resident and local business owner, I have proudly served as a Little Lake City School District Board Member, Chair of the Santa Fe Springs Planning Commission, Chair of the Heritage Arts Advisory Committee, Chair of the Little Lake City School District Bond Committee, Santa Fe High School varsity baseball coach, and mentor for the Santa Fe High Business Academy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I raised three children who attended Little Lake schools, and today my grandchildren continue that tradition. I understand the priorities and challenges families face because I have experienced them myself."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every decision should put students first and reflect the values of the families we serve. Together, we can build on Little Lake's strong foundation and ensure every student has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Gabriel J. Jimenez"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Burbank City Treasurer",
+    "kind": "race",
+    "jurisdiction": "us/ca/burbank",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:30Z",
+  "candidates": [
+    {
+      "choice": "Krystle Palmer",
+      "statement": {
+        "by": "Krystle Palmer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 43"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: City Treasurer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to serve as your Burbank City Treasurer since 2019. Every day, my mission is simple: to safeguard your hard-earned tax dollars and generate the investment returns that fund the vital city services that the people of Burbank deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since I took office, we have achieved extraordinary results together. Through active, disciplined management, we have grown Burbank's investment portfolio from $430 million in 2019 to $750 million today. This $320 million increase means more resources for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Recognizing our track record, my peers across the state recently elected me President of the California Municipal Treasurers Association. I am proud to represent Burbank, and this role will allow me to bring innovative ideas, valuable partnerships, and proven best practices back into our treasury."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank is my home and my three children attend our local public schools. Drawing on my professional background in management consulting and investments, I have worked tirelessly to earn your trust through responsible leadership, sound decisions, and measurable results. I will continue to be your disciplined steward and fiercest advocate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our momentum is strong, but our work is just beginning. I respectfully ask for your vote so we can continue protecting Burbank's financial future, together."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

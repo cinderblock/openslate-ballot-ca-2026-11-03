@@ -1,0 +1,946 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pasadena — Measure PFD (Firefighter/Paramedic Emergency Medical/Wildfire)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/pasadena",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "City of Pasadena 911 Firefighter/Paramedic Emergency Medical/Wildfire Preparedness/Response Measure."
+            ]
+          },
+          " To help maintain fire, paramedic, 911 response; prepare for/respond to wildfires/earthquakes/medical emergencies; recruit/retain well-trained firefighters; maintain lifesaving equipment/fire alert communication; shall City of Pasadena's measure annually levy 19¢ per square foot of improved property, with low-income senior exemption, providing approximately $22,100,000 annually, expiring after 14 years, requiring accountability, independent audits, oversight, public spending disclosure; all funds must be used to support local fire protection/emergency medical response services, be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Pasadena Firefighters Association; Victor M. Gordo, Pasadena Mayor; Gale Kohl, Owner, Gale's Restaurant; Giancarlo DiMassa, MD ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Pasadena Foothill Association of Realtors"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "fullText": {
+    "title": "Full Text of Ballot Measure Pfd",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "AN ORDINANCE OF THE CITY OF PASADENA ADDING CHAPTER 4.110 TO TITLE 4 OF THE PASADENA MUNICIPAL CODE, PASADENA FIRE, WILDFIRE, EMERGENCY PREPAREDNESS AND RESPONSE PARCEL TAX, SUBJECT TO THE APPROVAL OF TWO-THIRDS OF THE VOTES CAST BY VOTERS VOTING UPON THE PROPOSAL WITHIN THE CITY OF PASADENA"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the Pasadena Fire Department has served residents for more than 135 years, providing essential fire protection, paramedic care, rescue operations, wildfire mitigation, and all hazard emergency response; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " modern fire and emergency medical response requires an integrated public safety system that includes professionally trained firefighters and paramedics, properly located and well maintained fire stations, modern engines and rescue ambulances, reliable emergency communications technology, lifesaving equipment, prevention programs, and sufficient staffing to respond effectively to multiple emergencies, including enhancements to wildfire readiness, brush and debris removal, and other life-safety programs; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " many Pasadena fire stations, some built more than sixty years ago, require substantial modernization, reconstruction, or full replacement in order to accommodate current emergency response apparatus, operational needs, staffing levels, and industry standard safety requirements; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " fire stations are critical public safety infrastructure that must remain operational before, during, and after earthquakes, wildfires, major storms, and other natural or human caused disasters, yet deferred capital investment jeopardizes seismic resilience, operational readiness, and the Fire Department's ability to provide life saving emergency response; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " wildfire, windstorm, and climate driven emergency risks have increased, as illustrated by incidents such as the Eaton Fire, necessitating expanded prevention, mitigation, detection, communications, equipment upgrades, and resilient facilities capable of supporting sustained emergency operations; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " emergency medical service (EMS) calls now comprise the majority of Fire Department responses, requiring modernized facilities, upgraded lifesaving equipment, enhanced communications systems, and adequate staffing to maintain timely paramedic service and 911 emergency medical response; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ", wildfire prevention and mitigation are fundamental components of public safety and require sustained investments in brush inspections and clearance, fire prevention programs, public education, early detection, emergency communications systems, firefighting resources, and rapid response capability; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the Pasadena Fire Department's long term planning has identified the need to modernize and replace aging fire stations, expand emergency response staffing and apparatus, increase EMS capacity, and maintain reliable citywide emergency coverage, including reconstruction of Fire Stations 33 and 37, construction of an additional fire station, development of a training center and Fire headquarters, modernization of the City's 911 emergency response system, and addition of critical personnel, equipment, and operating resources; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the Pasadena Fire Department's 2026–2036 Strategic Plan establishes priorities to ensure that Department facilities, apparatus, equipment, training, staffing, and technology meet current industry standards, support future infrastructure needs, and achieve or exceed national standards for emergency response; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " delaying necessary fire station improvements, apparatus replacement, communications system upgrades, and other public safety investments increases future costs and may limit the City's ability to respond effectively to growing emergency service demands; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the City has balanced recent General Fund budgets using one-time revenues and reserves, while ongoing expenditures and service demands continue to grow faster than ongoing revenues, limiting the City's ability to finance long term Fire Department infrastructure and operational needs through existing resources alone; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the City Council has identified modernization of Fire Department facilities, enhanced fire prevention programs, emergency response staffing, training facilities, equipment, and long-term capital planning as essential public safety priorities for the Pasadena community; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " a special parcel tax is an appropriate and necessary funding mechanism to support essential public safety infrastructure, providing stable, locally controlled revenue exclusively for Fire Department capital improvements and enhanced emergency response services; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " dedicated parcel-tax revenues will be deposited into a special fund and used exclusively for capital and operational needs. These funds will support the construction, repair, replacement, and modernization of fire stations, Fire headquarters, training facilities, communications systems, apparatus, equipment, and other essential capital improvements. Additionally, parcel-tax revenues may be used for debt service related to these capital expenditures, enabling the City to responsibly finance major infrastructure projects and maintain fiscal sustainability. The funds will also be used to enhance emergency response, fire protection, emergency medical response, wildfire readiness, brush and debris removal, and other life-safety programs; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the Measure would require annual independent financial audits, public disclosure of all Measure revenues and expenditures, and periodic reports demonstrating that proceeds have been used only for voter authorized purposes; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the City Council desires to submit to the qualified voters of the City a measure authorizing a special parcel tax (City of Pasadena 911 Firefighter/Paramedic Emergency Medical/Wildfire Preparedness/Response Measure) to fund the fire protection, emergency medical response, wildfire prevention, and fire facility and equipment needs described herein; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS"
+            ]
+          },
+          ",",
+          " the City Council wishes to submit this City of Pasadena 911 Firefighter/Paramedic Emergency Medical/Wildfire Preparedness/Response Measure to the voters at the November 3, 2026 Municipal Election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "NOW, THEREFORE, "
+            ]
+          },
+          "the People of the City of Pasadena ordain as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 1. "
+            ]
+          },
+          "Chapter 4.110 of the Pasadena Municipal Code is hereby added with the following:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "\"Chapter 4.110 PASADENA WILDFIRE, EMERGENCY PREPAREDNESS AND RESPONSE PARCEL TAX"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTIONS:"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.110 Short title."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.120 Definitions."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.130 Exemptions."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.140 Special Tax."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.150 Purpose. "
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.160 Parcel Tax Fund Allocation and Baseline"
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.170 Tax rate."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.180 Adjustments and refunds."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.190 Oversight, Audit, and Public Disclosure. "
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.200 Amendments."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.210 Severability."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.220 Effective date."
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.230 Debt Service Completion Requirement Upon Recall or Repeal"
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "4.110.240 Sunset Provision"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.110 Short Title"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This chapter shall be known and may be cited as the \"Pasadena Fire, Wildfire, Emergency Preparedness and Response Parcel Tax.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.120 Definitions"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The following words and phrases whenever used in this chapter shall be construed as defined in this section:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. \"Fire Department\" means the Pasadena Fire Department and its facilities, apparatus, operations, and emergency-response services."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. \"Parcel\" means a unit of real property as shown on the last equalized assessment roll of Los Angeles County."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. \"Pasadena Fire, Wildfire, Emergency Preparedness and Response Parcel Tax Fund\" means the special fund in which money collected pursuant to this chapter shall be deposited."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. \"Capital Improvements\" means the construction, repair, replacement, modernization, or expansion of Fire Department facilities and infrastructure. This includes fire stations, training centers, Fire headquarters, emergency response facilities, seismic retrofits, facility upgrades, technology systems, acquisition of fire apparatus, rescue ambulances, emergency medical equipment, equipment for brush and debris removal, and debt service related to these capital expenditures."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "E. \"Baseline Service Level\" means the average annual Fire Department budget for the three fiscal years prior to the effective date of this ordinance, and the front-line services provided by the Fire Department as of the effective date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.130 Exemptions"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Nothing in this chapter shall be construed as imposing a tax upon any person when imposition of such tax would be in violation of either the Constitution of the United States or the Constitution of the State of California."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. The tax imposed by this chapter shall not be levied upon the federal government, the state government, any state agency, or any local governmental agency."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. The tax imposed by this chapter shall not be levied upon a parcel of property or improvement to property which is owned by a religious facility or community service organization which qualifies for an exemption from ad valorem taxation under California law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. The tax imposed by this chapter shall not be levied upon any owner if such owner receives a senior citizen or disability exemption from the utility user's tax imposed by Chapter 4.56 of the Pasadena Municipal Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "E. The tax imposed by this chapter shall not be imposed upon any owner if such owner's annual household income does not exceed the U.S. Department of Housing and Urban Development (HUD) Very Low (50%) Income Limit for Los Angeles–Long Beach–Glendale for the calendar year for which the exemption is claimed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.140 Special Tax"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. A special parcel tax is hereby imposed upon each parcel within the City of Pasadena for the purposes set forth in this chapter at the rate specified in Section 7."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. This tax is enacted under the authority of Section 301 of the Charter of the City of Pasadena, other authority held as a charter city, and, independently thereof, under California Government Code Sections 50075–50077.5."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.150 Purpose"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The purpose of this special tax is to provide funds to the City to pay:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Capital improvements for the Fire Department, including reconstruction of Fire Stations 33 and 37 within the first ten years, and the construction of an additional fire station, training centers and Fire headquarters, essential safety infrastructure, rescue ambulances, fire apparatus, equipment;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Enhancements to emergency-response, fire-protection, emergency medical response, wildfire readiness, brush and debris removal, and other life safety programs above the established baseline;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. Costs of enforcement and administration of the tax, including refunds."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. City costs of enforcement and administration, including refunds, shall be paid from the special tax revenue."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.160 Parcel Tax Fund Allocation and Baseline"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Establishment of Special Fund; Exclusive Use of Parcel Tax Funds"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "There is hereby established a special fund entitled the Pasadena Fire, Wildfire, Emergency Preparedness and Response Parcel Tax Fund (\"special fund\"). Money collected pursuant to this chapter shall be deposited into said special fund and shall be used exclusively to:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Construct, repair, replace, or modernize fire stations, training centers, Fire headquarters, fire apparatus, other essential emergency response equipment, brush and debris removal equipment, and other essential public safety infrastructure, including debt service related to these capital expenditures;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Enhance emergency-response, fire protection, paramedic service, wildfire readiness, brush and debris removal, and life safety programs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Nothing in this section shall prevent disbursements from this special fund to reimburse the general fund if, and only if, money has been advanced from the general fund to pay for the uses provided for in this chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Capital Improvement Prioritization"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall prioritize funding of Fire Department capital improvements using proceeds of the Pasadena Fire, Wildfire, Emergency Preparedness and Response Parcel Tax (\"Parcel Tax\") until completion. This prioritization does not obligate the City to maintain any specific General Fund appropriation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. Eligible Uses and Service Levels"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Eligible uses of Parcel Tax funds include enhancements to service levels above the established baseline, including but not limited to:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Staffing and deployment improvements\n- Professional training and certification\n- Upgrades to technology, communications, and alerting systems\n- Prevention and wildfire mitigation programs\n- Brush and debris removal\n- Enhancements to emergency medical service response\n- Maintenance and modernization of lifesaving equipment\n- Recruitment and retention of qualified firefighters\n- Facility upgrades to support emergency preparedness and response"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Operating funds are supplemental and may vary annually based on City Council priorities and approved by the City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. Carryover of Funds"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Any money raised by the Parcel Tax, including interest accrued thereon, that remains unencumbered at the end of any fiscal year may only be used in a succeeding fiscal year for the purposes stated in this chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.170 Tax Rate"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. For each fiscal year, the special tax rate shall be $0.19 per square foot of improved property."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. The special tax shall be due in two equal installments in accordance with Los Angeles County Tax Collector procedures."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.180 Adjustments and Refunds"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Requests for adjustments of this tax may be filed with the director of finance. Upon sufficient evidence of error in the computation of the tax as to any taxpayer, the director of finance or their designee shall cause the tax to be recalculated as to that taxpayer, and shall so advise the Los Angeles County Tax Collector or other appropriate official."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Whenever it is alleged that the amount of any tax has been overpaid or paid more than once or has been erroneously or illegally collected or received by the City under this chapter, the refund procedure shall be as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. No claim for refund of tax payment shall be allowed in whole or in part unless filed with the city clerk within a period of three years from the date of the claimed overpayment, and signed by the taxpayer on behalf of whom it is filed; no class or representative claim shall be permitted. All such claims for refund of the amount of the overpayment must be filed on forms furnished, and in the manner prescribed by the finance department. Refunds may be made solely from the special tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. In the event the director of finance denies a claim for a refund, they shall notify the claimant pursuant to California Government Code Section 913."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. The director of finance shall have the power to settle claims involving the special tax, and the power to accept and record underpayments or overpayments of such tax. The director of finance shall have the authority to make refunds of this tax as provided in this chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. If the County of Los Angeles does not collect any tax due under this chapter, then the director of finance shall have the power and duty to do so. In such cases, an assessment may be made against the owner of a parcel and improvements in the manner provided by law. Any unpaid tax due under this chapter shall be subject to all remedies provided by law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.190 Oversight, Audit, and Public Disclosure"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Annual Independent Audit"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The special tax shall be subject to an annual independent financial audit conducted by a certified public accountant. The purpose of the audit shall be to confirm that all revenues have been deposited in the special fund and expended solely in accordance with this chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Annual Report"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The director of finance shall annually provide a report on the receipt and expenditure of revenues collected under this chapter, consistent with Government Code Sections 50075.1(d) and 50075.3. The annual report shall include:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Total revenues collected under the Parcel Tax;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Total expenditures from the special fund, categorized by capital improvements and operating enhancements;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The status of Fire Department capital improvement projects;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. Verification that Parcel Tax funds supplemented and enhanced Fire Department services above the established baseline service level; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. Any fund balances carried forward to the subsequent fiscal year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The annual report shall be presented to the City Council and posted on the City's public website."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. City Council Oversight"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council shall exercise oversight of Parcel Tax expenditures by adopting and, as necessary, amending the eligible uses through resolution. The City Council shall ensure all expenditures conform to the allowable uses set forth in this chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. Timing"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The annual independent audit and the annual report shall be completed and made available to the City Council and the public in accordance with Pasadena Charter Section 907.5."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.200 Amendments"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council is hereby authorized to amend the provisions of this ordinance without voter approval in any manner which does not extend the special tax to a taxpayer who would otherwise not pay it or increase the amount of the tax beyond the amount authorized by this ordinance. Any amendment to this ordinance which extends the special tax to a taxpayer who would otherwise not pay it or increases the amount of the tax beyond the maximum tax rates authorized by this ordinance may be approved only by a vote of the people of Pasadena."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.210 Severability"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If any section, subsection, paragraph, subparagraph or item of this ordinance or the application thereof is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, the validity of the remaining portions of the ordinance, the application thereof, and the tax imposed shall not be affected thereby but shall remain in full force and effect, it being the intention of the City Council and the voters to adopt each and every section, subsection, paragraph, subparagraph or item regardless of whether any other section, subsection, paragraph, subparagraph or item or the application thereof is held to be invalid or unconstitutional."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.220 Effective Date"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This ordinance, which establishes the Pasadena Fire, Wildfire, Emergency Preparedness and Response Parcel Tax (adding Chapter 4.110 to Title 4 of the Pasadena Municipal Code), shall be submitted to the voters of the City of Pasadena at the General Municipal Election to be held on November 3, 2026. The special parcel tax described herein shall be levied only if this ordinance is approved by not less than two-thirds of the votes cast by voters voting on the special tax proposal set forth in the ordinance. If approved by the requisite number of votes, Chapter 4.110 shall be incorporated into the Pasadena Municipal Code and become effective as specified in this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.230 Debt Service Completion Requirement Upon Recall or Repeal"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Notwithstanding any voter-initiated recall, repeal, amendment, or other action affecting this Ordinance, the provisions of this Ordinance authorizing, securing, or otherwise relating to the issuance, repayment, or administration of any indebtedness, including but not limited to bonds, notes, or other financing instruments, shall remain fully in force and effect until all such indebtedness, together with interest and any premiums or obligations related thereto, has been fully paid, redeemed, or legally defeased. No recall, repeal, amendment, or other voter action shall impair the obligation of the City to fulfill all debt service requirements previously authorized under this Ordinance, and the terms of this Ordinance shall continue to govern such obligations until satisfied in full."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.110.240 Sunset Provision"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The special parcel tax established by this ordinance shall automatically expire 14 years after its effective date, unless extended by a subsequent ordinance approved by the voters of the City of Pasadena. Upon expiration, no further taxes shall be levied pursuant to this chapter, and any remaining funds shall be used exclusively for the purposes authorized herein until expended.\""
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Pfd",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The \"City of Pasadena 911 Firefighter/Paramedic Emergency Medical/Wildfire Preparedness/Response Measure\" was placed on the ballot by the Pasadena City Council. If approved by two-thirds of Pasadena voters, the Measure would establish a dedicated and restricted special parcel tax to fund both the operational and capital needs of the Pasadena Fire Department. Revenues from the Measure would be deposited into a special fund and used exclusively to support critical emergency response services, including firefighter and paramedic staffing, wildfire readiness, and brush and debris removal, as well as essential capital improvements such as the construction, repair, replacement, and modernization of fire stations and fire facilities, emergency alerting communications systems, ambulances, apparatus, and other public safety infrastructure and equipment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Measure is a special tax. The Measure establishes a fixed parcel tax rate of 19 cents per square foot of improved property. Low-income exemptions, including low-income seniors, are available for qualified property owners. The Measure is estimated to generate approximately $22.1 million annually and will automatically expire after 14 years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Measure would provide additional funding above the current baseline to expand wildfire-mitigation efforts, enhance paramedic and 911 response capability, support maintenance and modernization of lifesaving equipment, and enable the Fire Department to carry out capital improvements necessary to maintain reliable emergency response operations. This additional revenue is intended to enhance, supplement, or expand services and infrastructure beyond existing levels."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved, the Measure requires annual independent financial audits, public spending disclosure, and City Council oversight to ensure transparency and compliance. All funds must be used exclusively for local fire protection, emergency medical response, wildfire preparedness, brush clearance programs, emergency alert communications systems, and related operational and capital needs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If the Measure is not approved, the City will not have access to this dedicated funding source. Without additional funding, the City may face limitations in sustaining or expanding wildfire mitigation programs, brush clearance work, or needed capital improvements. The City would continue relying on available resources to meet increasing public safety demands."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"yes\" vote approves the special parcel tax at a fixed rate of 19 cents per square foot of improved property, dedicated exclusively to local fire protection, emergency medical response, wildfire preparedness, and related public safety purposes, with accountability requirements and a 14 year sunset."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"no\" vote rejects the special parcel tax, leaving the City to fund fire and emergency services with available resources only."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "MICHELE BEAL BAGNERIS\nCity Attorney/City Prosecutor"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "THE ABOVE STATEMENT IS AN IMPARTIAL ANALYSIS OF MEASURE PFD. YOU MAY FIND THE MEASURE AND INFORMATION RELATED TO THE MEASURE ON THE CITY OF PASADENA WEBSITE AT www.CityofPasadena.net/elections AND THE CITY OF PASADENA'S MEASURE INFORMATION WEBSITE AT https://www.cityofpasadena.net/MeasurePFD"
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

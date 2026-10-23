@@ -1,0 +1,266 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clarita City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clarita",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:40Z",
+  "candidates": [
+    {
+      "choice": "Jeffrey Berman",
+      "statement": {
+        "by": "Jeffrey Berman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 66"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Screenwriter/Producer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Clarita doesn't need someone promising change. We chose this city because we love it, and the last thing it needs is a candidate treating it like a problem to fix. What it needs is someone who wants to protect what works and improve what doesn't. That's not a slogan. That's the job."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Five years ago my family put down roots here. My grandchildren attend school here, and I want them, and every family, to enjoy a safe, responsible, and well-managed community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My background as a writer, producer, and director has taught me how to solve problems, manage budgets, and bring people together. That's the kind of accountability I will bring to the City Council: less talk, more follow-through."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In talking with residents across District 4, I've heard concerns about traffic, responsible growth, and protecting our quality of life. My commitment is simple: listen, make informed decisions, and always put the interests of the people first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Local government works best when it remembers why residents chose to live here in the first place."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote and the opportunity to serve my neighbors in District 4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jeffrey Berman"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Valerie Bradford",
+      "statement": {
+        "by": "Valerie Bradford",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for Santa Clarita City Council District 4 because our city needs leaders who put people over politics and listen before they lead. Our families deserve a city government that is transparent, accountable, and responsive to the people it serves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than two decades, Santa Clarita has been where my husband and I have built our lives and where I have dedicated myself to serving others. That means encouraging responsible economic growth, strengthening opportunities for small businesses, and making sure residents have a voice in the decisions that affect their lives. The best solutions come from bringing people together and putting our community's interest first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As founding President of a local nonprofit, I worked to build partnerships and strengthen community. My 24 years in Human Resources helped me solve problems and navigate challenges. My degree in Small Business Management and Entrepreneurship from College of the Canyons gave me insight into the needs of local businesses and working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I remain committed to serving others through volunteer work feeding the hungry and assisting individuals experiencing homelessness. I am ready to bring that same commitment, experience, and servant leadership to Santa Clarita's City Council."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nick Somers",
+      "statement": {
+        "by": "Nick Somers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a small business owner, husband, father of two, and proud Santa Clarita resident for more than 14 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over 25 years, I've built a career creating jobs in the film industry while dedicating my life to serving others. As a licensed Emergency Medical Technician and volunteer first responder for more than a decade, I currently serve with both the Santa Clarita Valley and LAPD Search & Rescue Teams, helping rescue injured hikers and accident victims, and search for missing children, seniors, and other at-risk individuals."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a cancer survivor since age 21, I've never taken a day for granted. That experience strengthened my commitment to serving others and giving back to the community my family proudly calls home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for City Council to bring thoughtful leadership that listens to constituents, encourages fiscal responsibility, and brings common-sense decision-making to City Hall. I'll work to support public safety, strengthen local businesses, encourage responsible growth, invest in our neighborhoods, and protect the quality of life that makes Santa Clarita such a special place to live and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote for Santa Clarita City Council, District 4."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Laurene Weste",
+      "statement": {
+        "by": "Laurene Weste",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mayor City of Santa Clarita"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving Santa Clarita is my passion, building on nearly three decades of service on the Santa Clarita City Council. As your Councilmember and multi-term Mayor, I've ",
+              {
+                "strong": [
+                  "worked to keep our Saugus neighborhoods safe, financially secure, "
+                ]
+              },
+              "and ",
+              {
+                "strong": [
+                  "true to their character."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We've grown budget reserves to $27 million and delivered a balanced, on-time city budget every year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've expanded our protected open space to 16,000 acres with a 150-mile trail system, securing a $1.4 million state grant to grow it. This includes the ",
+              {
+                "strong": [
+                  "720-acre Haskell Canyon Open Space "
+                ]
+              },
+              "with a new 380-acre bike park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm leading the opposition to a poorly sited State courthouse near McBean Parkway, and I helped defeat the LA County prison proposed in Saugus."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We just completed ",
+              {
+                "strong": [
+                  "David March Park, "
+                ]
+              },
+              "finished the build-out of our beautiful ",
+              {
+                "strong": [
+                  "Central Park, "
+                ]
+              },
+              "and opened the ",
+              {
+                "strong": [
+                  "Canyon Country Community Center."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is more to do. I'll keep advocating for veterans and senior housing, work to create a ",
+              {
+                "strong": [
+                  "Saugus community center and library, "
+                ]
+              },
+              "and preserve our homes and family lifestyle that makes our community special — keeping District 4 safe and thriving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been the honor of my life serving Santa Clarita, and I'd be grateful for your vote in District 4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Laureneweste.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

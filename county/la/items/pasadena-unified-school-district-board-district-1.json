@@ -1,0 +1,186 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pasadena Unified School District Board, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:21Z",
+  "candidates": [
+    {
+      "choice": "Kimberly Kenne",
+      "statement": {
+        "by": "Kimberly Kenne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proud to have served you as a PUSD board member for the last 15 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm focusing on our students' academic success and positive mental health following the Eaton Fire and advocating for additional state funding for Altadena post-fire."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have spent over 2 decades both as a parent leader and as an advocate for educational reform."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the best qualified and most experienced candidate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a PUSD board member and Altadena resident, I have worked to keep funding in the classroom. I've prioritized quality instruction with experienced teachers and the latest technology. I am a strong supporter of neighborhood schools and I put student interests first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My own children have attended Blair Middle School, Eliot Middle School, Burbank Elementary and Longfellow Elementary."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the last four years, I have worked to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Increase public access to information on district spending, especially for legal fees and consultant fees\n- Base decisions for programs and expenditures on data and results"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your representative, I will continue to work to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Increase opportunities for all students\n- Engage families as partners in their child's education\n- Enforce fiscal stability of student programs so they can thrive even in challenging financial times"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'd be honored to have your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Felita Kealing",
+      "statement": {
+        "by": "Felita Kealing",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 63"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Assistant Coordinator of Marketing/Student Recruitment/Community Relations"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Felita Kealing is running for the Pasadena Unified Board of Education, District 1, because she believes strong schools build strong communities—and District 1 deserves both."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "A LEADER WHO BRINGS PEOPLE TOGETHER"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A proud Pasadena Unified graduate, parent of two PUSD graduates, school employee, and longtime community leader, she has long served the district that helped shape her."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For decades, Felita has united families, educators, nonprofits, and community partners to strengthen public education. She helped establish the Pasadena Unified African American Parent Council, led the Pasadena Educational Foundation Board, organized literacy and school supply initiatives, and continues to support students and families every day as Assistant Coordinator of Marketing, Student Recruitment, and Community Relations at Thurgood Marshall Secondary School."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "READY TO REBUILD"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After losing her family's Altadena home in the Eaton Fire, Felita understands firsthand the challenges many District 1 families face. She believes schools are at the heart of rebuilding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Felita is committed to strengthening family engagement, supporting educators and staff, expanding opportunities for every student, and ensuring every child feels seen, supported, and inspired to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Board of Education Member, Felita will lead with compassion, collaboration, and an unwavering commitment to the students and families of Pasadena Unified."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Learn more at HealingWithKealing.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

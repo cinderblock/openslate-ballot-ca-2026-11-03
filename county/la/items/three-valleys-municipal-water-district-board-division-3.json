@@ -1,0 +1,132 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Three Valleys Municipal Water District Board, Division 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:25Z",
+  "candidates": [
+    {
+      "choice": "Sherry Shaw",
+      "statement": {
+        "by": "Sherry Shaw",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Three Valleys Municipal Water District faces significant challenges, including rising infrastructure replacement costs, rate pressures, and the emerging threat of golden mussel infestation. Experienced leadership is essential to meet these challenges while maintaining reliable, affordable water service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As General Manager of Walnut Valley Water District, one of Three Valleys' member agencies, I worked closely with Three Valleys staff on budgets, rate planning, and long-term infrastructure investments. I understand the financial impacts of Metropolitan Water District's changing rate structure, declining water sales, and the need to balance responsible investment with rate stability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My engineering and management experience has provided a strong understanding of capital improvement planning, infrastructure replacement, and the importance of sound financial stewardship. I have also remained actively engaged in regional water issues, including the golden mussel infestation, the Pure Water Project, the State Water Conveyance Project, and Colorado River water supply negotiations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Earlier in my career, I prepared the City of La Verne's Water Master Plan, providing firsthand experience with long-range water planning and resource management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With more than 35 years of engineering and water industry experience, I am committed to protecting our water supplies, maintaining reliable infrastructure, supporting the development of future leaders, and ensuring responsible stewardship of the public's resources for the communities served by Three Valleys Municipal Water District."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jeff Hanlon",
+      "statement": {
+        "by": "Jeff Hanlon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Elected in 2022, it has been my pleasure to serve on the board of Three Valleys Municipal Water District. In that time, I have built positive relationships with fellow board members, represented the district in regional decision-making, and budgeted for needed projects while keeping costs low. This is a critical time in which we must reinvest in our water delivery and storage infrastructure and consider the most fair and equitable funding mechanisms to do so. If elected again, I will continue to advocate for more water delivery and storage in our groundwater basins for use during times of drought. We must continue to invest in storm water capture, regional conservation, and wastewater recycling to ensure that our communities can thrive in this century and the next."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Monica Aleman Gibbs",
+      "statement": {
+        "by": "Monica Aleman Gibbs",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Water Consultant/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hello Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our region faces urgent water challenges: aging infrastructure, groundwater contamination, and rising costs that hit ratepayers hardest. I'm running for the Three Valleys Municipal Water District Board because we need leadership that knows our local water systems and understands their complexities, not politics as usual."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've spent my career working across local, state, and federal agencies, bringing community voices directly into water policy decisions. From contamination compliance to watershed restoration, I've led projects throughout the San Gabriel Valley corridor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My hands-on experience with EPA mandates, Army Corps regulations, and multi-agency funding battles gives me a rare and practical understanding of how to secure resources and hold agencies accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fiscal responsibility matters. Every dollar ratepayers contribute must go toward real solutions like contamination cleanup, infrastructure reliability, and water security—not bureaucratic waste. As a water consultant, I know the funding pipelines because I've navigated them for years. As an educator, I am committed to keeping our community informed on how tax dollars are spent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family put down roots here because we believe in this community. It's personal to me, and I'll fight for clean, reliable water for every family in our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your consideration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Monica"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

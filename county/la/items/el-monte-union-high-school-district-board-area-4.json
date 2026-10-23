@@ -1,0 +1,162 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Monte Union High School District Board, Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:39Z",
+  "candidates": [
+    {
+      "choice": "Florencio Briones",
+      "statement": {
+        "by": "Florencio Briones",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve as your Trustee. Throughout my service, my focus has remained the same: ",
+              {
+                "strong": [
+                  "student needs must be at the center of every discussion and every decision we make."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I expanded college access through partnerships with Rio Hondo College and Pasadena City College, enabling students to earn college credit in high school. I supported establishing wellness centers across our campuses, expanding the Board to include two Student Board Members, and strengthening services for parents and families through our Family and Community Engagement Center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also supported major investments in classrooms, athletic facilities, outdoor spaces, accessibility, and essential campus infrastructure. We have updated the District's Facilities Master Plan to guide future improvements across our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a graduate of Mountain View High School, Pasadena City College, and Cal Poly Pomona, my educational journey guides my commitment to every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our work is not finished. I will continue expanding college and career pathways, strengthening academic and mental-health support, completing critical school improvements, and protecting the District's long-term financial stability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Good policy, not politics, remains my priority. ",
+              {
+                "strong": [
+                  "I am prepared to continue leading with experience, integrity, and an unwavering commitment to our students, employees, families, and community"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jacqueline Yvette Castañon",
+      "statement": {
+        "by": "Jacqueline Yvette Castañon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 39"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am",
+              {
+                "strong": [
+                  " JACQUELINE CASTAÑON"
+                ]
+              },
+              ", a Special Education educator with 14 years serving students with special needs, leader with the California School Employees Association (CSEA), and proud parent of four. My children and I are products of our public schools. I am a lifelong El Monte resident, attended Miramonte Elementary, Kranz Intermediate, and graduated from El Monte Union High School District. I earned my Associate degree in Administration of Justice from Rio Hondo College and am currently attending Grand Canyon University for my teaching degree."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "1."
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "SCHOOL SAFETY"
+                ]
+              },
+              ": Absolute protection from sexual abuse with zero-tolerance and accountability, plus safety officers, safe classrooms, clean restrooms, bully-free campuses, and mental health support.\n",
+              {
+                "strong": [
+                  "2."
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "SPECIAL EDUCATION"
+                ]
+              },
+              ": Highly qualified teachers, ongoing professional development, smaller caseloads, inclusive classrooms, and transition plans to college, career, and independent living.\n",
+              {
+                "strong": [
+                  "3. PARENT ENGAGEMENT"
+                ]
+              },
+              ": Strengthen parent advisory councils and English learner committees, improve two-way communication, and expand translation, childcare, and evening meetings.\n",
+              {
+                "strong": [
+                  "4. CAREER AND TECHNICAL EDUCATION (CTE)"
+                ]
+              },
+              ": Expand hands-on programs to good-paying jobs: Construction, Carpentry, Electrician, Refrigeration, Industrial Maintenance, Welding, Mechanic, Plumbing, Heating and Air Conditioning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support. Vote ",
+              {
+                "strong": [
+                  "JACQUELINE CASTAÑON"
+                ]
+              },
+              " for El Monte Union High School District."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

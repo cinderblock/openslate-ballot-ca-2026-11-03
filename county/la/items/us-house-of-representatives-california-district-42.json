@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 42",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-42",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:41Z",
+  "candidates": [
+    {
+      "choice": "Robert Garcia",
+      "statement": {
+        "by": "Robert Garcia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "From Long Beach to Orange County, everyone in our community wants the same things: A safe community. A better future for our kids. Leaders who focus on helping working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my two terms in Congress, I have kept these principles at the center of every vote I have taken and every bill I have introduced."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities include:\n- Creating good paying jobs and lowering costs\n- Keeping our communities safe\n- Improving public education\n- Protecting the environment and our coast\n- Affordable housing & health care\n- Fighting government corruption"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My record of results:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working with local governments, I have helped secure over $500 million in federal grants for programs and projects including infrastructure improvements, environmental initiatives, community health care programs, and public safety support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have assisted more than 20,000 local residents who needed help with federal agencies including Passport Services, Veterans Affairs, Social Security, Immigration support and the IRS."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the new lead Democrat on the House Oversight and Government Reform Committee, I help lead investigations into government corruption, including the release of the Epstein Files. We are also focused on modernizing government services so the Federal Government can serve our community better and more efficiently."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My endorsements include California's firefighters, teachers, health care workers and over 100 members of Congress and local officials."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to receive your vote. Thank you."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

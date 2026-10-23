@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Little Lake City School District Board, Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:51Z",
+  "candidates": [
+    {
+      "choice": "Susana Ramirez",
+      "statement": {
+        "by": "Susana Ramirez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 36"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Administrative Assistant of ELOP Expanding Learning Opportunities Program"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Susana Ramirez, and I am honored to be a candidate for Little Lake City School District School Governing Board, Trustee Area No. 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have the privilege of working in education while also being the parent of children who are currently attending Little Lake City School District. As both a former district employee and a current parent, I bring a unique perspective and firsthand understanding of the needs of our students, families, and staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every child deserves a safe, welcoming, and supportive learning environment where they have the opportunity to learn, grow, and succeed. Strong schools are built through collaboration, transparency, and a shared commitment to putting students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will listen to the voices of our families, staff, and students and make thoughtful, informed decisions, bringing success and well-being to every child. I am committed to supporting academic excellence, fostering positive school cultures, and strengthening the partnerships between our schools and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to serve our community as a member of the Little Lake City School District. I respectfully ask for your support and the opportunity to help build an even stronger future for all of our students."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Eliana Tapia",
+      "statement": {
+        "by": "Eliana Tapia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 56"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired Police Detective"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Eliana Tapia, and I am running for Little Lake School District Governing Board, Trustee Area 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have proudly called Santa Fe Springs home for the past 29 years. I am a U.S. Navy veteran, a retired Police Detective, and the proud mother of three young boys. I am actively involved in our community by volunteering at my children's school and local youth sports."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My decision to run for the School Board was inspired by the recent 10-day teachers' strike. That experience made it clear that our community deserves greater transparency, open communication, and a stronger voice in the decisions that impact our schools. We must carefully examine district spending and future funding to ensure the Little Lake School District remains financially strong and sustainable for generations to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Board Member, I will ask the tough questions, make informed decisions, and clearly communicate those decisions to our community. I believe accountability and transparency are essential to earning the trust of the families we serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be the only Area 1 candidate endorsed by the Little Lake Education Association teachers, and I respectfully ask for your support on Election Day, November 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a stronger future for every student in the Little Lake City School District."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

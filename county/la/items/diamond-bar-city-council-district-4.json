@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Diamond Bar City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/diamond-bar",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:20Z",
+  "candidates": [
+    {
+      "choice": "Chia-Yu Teng",
+      "statement": {
+        "by": "Chia-Yu Teng",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Medical Doctor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Diamond Bar City Council has been the honor of my life. It has deepened my understanding of what matters most to our residents: quality of life, safe neighborhoods, responsible government, and a prosperous future. I am running to build on that work with proven leadership and a clear vision."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment rests on four priorities. First, safety comes first. I will support well-staffed and equipped law enforcement and rapid emergency response so families feel protected on every street, park, and school."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Second, I will guard your tax dollars with discipline. Long-term stability comes from responsible budgeting, not from raising taxes on hardworking families and small businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Third, a thriving local economy fuels our quality of life. I want Diamond Bar to be a place where small businesses flourish, and entrepreneurs feel welcome."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fourth, protecting our environment safeguards our health and future. I will work to preserve the green spaces and natural beauty that make our city special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Each of these priorities reinforces the other; together they create a Diamond Bar that is safe, financially sound, and vibrant. I would be honored to earn your vote. Join me in building a stronger Diamond Bar for generations to come."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lee Mao",
+      "statement": {
+        "by": "Lee Mao",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to be a long-time Diamond Bar resident, small business owner, and dedicated community volunteer. My wife and I moved here in 1993, where we raised our daughter and built our life in this wonderful city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over 30 years, I have owned and operated a business, giving me real world experience in budgeting, financial responsibility, and problem solving skills that are especially important as Diamond Bar faces ongoing fiscal challenges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I currently serve as a Planning Commissioner and have also served on the Parks and Recreation Commission, providing hands-on experience in land use, community services, and city operations. I am also actively involved with the Diamond Bar Friends of the Library, Diamond Bar Community Foundation, and Local service organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council to bring strong fiscal responsibility, ensure public safety, improve traffic flow, and promote a healthy, active community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to fighting for you-listening to residents, making thoughtful decisions, and putting our community first. I respectfully ask for your vote so we can keep Diamond Bar a safe, vibrant, and thriving place to live."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

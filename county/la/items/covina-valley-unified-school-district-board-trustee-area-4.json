@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Covina-Valley Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:07Z",
+  "candidates": [
+    {
+      "choice": "Simon Wright",
+      "statement": {
+        "by": "Simon Wright",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 49"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Property Management"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the incumbent member of the Covina-Valley Unified School District Board of Education, a parent, and local business owner, I am committed to ensuring every student has the opportunity to succeed while protecting the district's long-term financial future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our employees are the foundation of student success. I have worked to strengthen relationships with our teachers, classified staff, and administrators by promoting collaboration, respect, and open communication."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have provided strong fiscal oversight by making responsible decisions that maximize the use of community resources. I have supported innovative strategies to leverage district property to generate ongoing revenue for our schools. Together, we have also invested more than $70 million in school facilities, modernizing campuses and creating safe, engaging learning environments where students can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud of the significant academic progress our students continue to make. By maintaining high expectations and expanding innovative programs, including outstanding Career Technical Education pathways, we are preparing students for success in college, careers, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue serving as your Board Member so we can build on our successes, invest in our students, support our outstanding employees, and keep Covina-Valley among California's premier school districts."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gary C. Rodriguez",
+      "statement": {
+        "by": "Gary C. Rodriguez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Gary Rodriguez, and I have been proud to call the Covina-Valley Unified School District community home for more than 30 years. My wife and I raised our three children here, all of whom graduated from Covina-Valley Unified schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a United States Marine Corps veteran, parent, and former Board of Education member, I bring a broad and informed perspective to our district. I believe every student deserves a high-quality education, and that taxpayers deserve responsible stewardship of their tax dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running to provide experienced leadership that is willing to make the difficult but necessary decisions. I have consistently done so in the best interest of our students and district. I support responsible budgeting and do not believe our community should take on additional bond debt. We must make the most effective use of our existing resources while maintaining a strong focus on student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can strengthen our schools, ensure the safety of our students, teachers, and staff, and prepare every student for a successful future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Gary C Rodriguez"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

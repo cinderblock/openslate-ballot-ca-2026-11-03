@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carson City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/carson",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:48Z",
+  "candidates": [
+    {
+      "choice": "Arleen Bocatija Rojas",
+      "statement": {
+        "by": "Arleen Bocatija Rojas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It's been an honor representing you and your family in District 4. As the daughter of Filipino immigrants and growing up in Carson, I learned hard work, resilience, and community service are what matter most. These values guided my 35-year career in law enforcement, in the Secret Service and everyday as your Councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have made Carson safer by expanding surveillance cameras, license plate readers, drone patrol, and a task force targeting illegal street takeovers. We expanded code enforcement and partnered closely with our Sheriffs. We broke ground on multiple affordable housing projects and Carson's 157-acre project is finally moving forward. We continue to fight for union jobs to make Carson affordable. Fortifying programs for our youth and seniors and providing education against cybercrimes, substance abuse, elderly fraud, gang violence and mental health awareness."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We built a strong foundation, a safer Carson, a thriving business sector, champion clean energy and innovative technology, but our work is not done. I ask for your vote to Re-Elect me so I keep working hard to ensure our residents thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We're stronger when we stand together. Let's continue to Elevate Carson!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Your Voice,\nArleen Bocatija Rojas\nCouncilmember, District 4"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

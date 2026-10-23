@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pasadena Unified School District Board, District 7",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:19:25Z",
+  "candidates": [
+    {
+      "choice": "Cynthia Torres",
+      "statement": {
+        "by": "Cynthia Torres",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 68"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Education Services Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Pasadena School Board because I believe every decision we make centers on the question: what will best serve our students?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Pasadena has a proud tradition of strong public schools, deeply engaged families, dedicated educators, and community members who care about every child's success. That spirit is one of our District's greatest strengths."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe I can contribute meaningfully to the District's strategy and performance. In 2018–2019, I served on the District's Bond Oversight Committee, where I contributed to careful stewardship of taxpayer-supported investments in our schools. I have previous deep experience with school district finance, an area that is especially important now."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our District's finances are under real pressure. Declining enrollment, the end of one-time pandemic relief, rising costs, and the devastating effects of the Altadena fire have created difficult challenges. Assuring fiscal stability requires disciplined budgeting and a plan that protects students and our schools' long-term health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is time to think boldly about opportunity. I want to focus on revenue generation and strengthening the District's prospects through fundraising, sponsorships, deeper partnerships with our municipalities, and renewed community confidence."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can meet this moment with a shared commitment for every student's future."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dennis J. McNamara",
+      "statement": {
+        "by": "Dennis J. McNamara",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 72"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired Finance Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our primary District-wide objective is achieving universal academic proficiency across core subjects. Although we face serious challenges, this objective must drive every decision. Indeed, it is our obligation to the children and families of generations to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We must set a vision with our full community that contemplates the next 25 to 50 years, not just the next budget cycle. This will allow us to stabilize our campus infrastructure, increase funding predictability, enrich curricula, and truly focus on classroom resourcing and results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My skill set fits this challenge. I bring decades of successful executive leadership. As an investment manager, I was transparently accountable for client results. As a senior executive, I was responsible for staffing, systems, and meeting budgets. Highly visible. Highly accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to public education is deep. We sent our children to public schools, and I have served as a second grade math tutor at Washington Elementary for the past three years. I chair the Citizens' Oversight Committee for PUSD's $1.4 billion school modernization program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a BA and MBA from the University of Chicago. I am a Chartered Financial Analyst."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your support."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

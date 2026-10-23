@@ -1,0 +1,69 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Diamond Bar City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/diamond-bar",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:17Z",
+  "candidates": [
+    {
+      "choice": "Steve Tye",
+      "statement": {
+        "by": "Steve Tye",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Diamond Bar is a wonderful place to live, work and play. It has been my privilege to be part of the fabric of Diamond Bar since we moved here in 1983. I have worked diligently to ensure that public safety will continue to be the top priority in Diamond Bar – you can count on me to be sure it always will be. Traffic is an issue in Diamond Bar, and we are seeing progress with the 57/60",
+              " freeway \"Big Fix\" that will keep cars on the freeway and off our streets. A lot has been done, and there is still a lot to do. People are seeking courage and leadership in elected officials - your vote and support can help me continue to provide this in Diamond Bar. I would appreciate your vote on November 3. Thank you for your continued support and consideration."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ruben Torres",
+      "statement": {
+        "by": "Ruben Torres",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Banker/Planning Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have called Diamond Bar home for more than 40 years. After attending local schools and earning my bachelor's and MBA degrees from the University of La Verne, my wife and I chose to raise our family here because of Diamond Bar's safe neighborhoods, outstanding schools, beautiful open spaces, and strong sense of community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 20 years, I have built a career in banking and financial services, leading teams, helping organizations grow, and making sound financial decisions. My commitment to our community includes serving as a Diamond Bar Planning Commissioner, a board member of the Diamond Bar Community Foundation, and a board member of the San Gabriel Valley Regional Chamber of Commerce. I have also dedicated more than two decades to supporting local youth sports programs, serving in volunteer leadership roles that help provide opportunities for our young athletes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a 17-year member of the Diamond Point HOA Board, including serving as its current President, I have worked to expand community programs, improve communication, and promote transparency and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, my priorities will be public safety, responsible economic development, maintaining our infrastructure, addressing homelessness, and ensuring residents always have a voice. Most importantly, I will listen, lead with integrity, and work to keep Diamond Bar a community we are proud to call home."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

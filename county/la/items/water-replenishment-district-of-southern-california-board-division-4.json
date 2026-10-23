@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Water Replenishment District of Southern California Board, Division 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:21:05Z",
+  "candidates": [
+    {
+      "choice": "Sergio Joseph Calderon",
+      "statement": {
+        "by": "Sergio Joseph Calderon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "In 2022, the voters honored me by electing me as their public servant and Director of the Water Replenishment District of Southern California, Division 4. Since taking office, I have worked to protect our groundwater by keeping it safe, sustainable, and affordable. Today, groundwater remains the most affordable water supply in SoCal."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher, healthcare professional, and lifelong resident who lives and works within Division 4, I understand our communities' needs firsthand."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2026, I was unanimously appointed Board President, reflecting the Board's confidence in my leadership, integrity, and commitment to public service. This distinction gives the communities I represent a strong voice in shaping the future of our regional water supply."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my term, I helped secure more than $90 million in federal and state funding to address toxins known as PFAS, or \"forever chemicals,\" improve groundwater quality, and strengthen water infrastructure."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I remain committed to government accountability, fiscal responsibility, and protecting taxpayers while safeguarding our most valuable natural resource."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proven experience matters. I respectfully ask for your vote to continue providing experienced, honest leadership while working to ensure a safe, reliable, and affordable groundwater supply for today's families and generations to come."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jorgel Chavez",
+      "statement": {
+        "by": "Jorgel Chavez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 29"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Water Policy Analyst"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Water Policy Analyst and Southeast Los Angeles resident, I am running for the Water Replenishment District to bring new, accountable leadership to our communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the first in my family to graduate from college. I earned two associate degrees from Long Beach City College before graduating cum laude from the University of Southern California with a bachelor's degree in Political Science, a minor in Communications, Policy, and Law, and a Master of Public Administration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor of Bell Gardens, I led and advanced major infrastructure projects, including the opening of our regional aquatic center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our communities have been represented by the same person for 20 years, since I was 9 years old. I believe it is time for new leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-Protect clean, reliable, and affordable water."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-Hold data centers accountable so they do not harm our water supply or force families to pay higher costs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-Protect groundwater through recycling, conservation, stormwater capture, and replenishment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-Work with cities and fire departments to strengthen water infrastructure and ensure water is available during wildfires and emergencies such as the Lineage warehouse fire."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for you to vote for me, Jorgel Chavez."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

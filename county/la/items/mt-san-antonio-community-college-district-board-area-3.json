@@ -1,0 +1,81 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mt. San Antonio Community College District Board, Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:40Z",
+  "candidates": [
+    {
+      "choice": "Armando Barajas",
+      "statement": {
+        "by": "Armando Barajas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: School Principal/Veteran/Coach"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "As a proud Mt. San Antonio College alumni who transferred to the University of Southern California and later earned his master's degree from Harvard University, Armando Barajas is living proof of the life-changing opportunities that Mt. SAC makes possible."
+                ]
+              },
+              " His educational journey reflects the transformative power of Mt. SAC and fuels his unwavering commitment to ensuring every student has the same opportunity to achieve their dreams."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A lifelong public servant, ",
+              {
+                "strong": [
+                  "Armando Barajas"
+                ]
+              },
+              " has dedicated his career to empowering others as a ",
+              {
+                "strong": [
+                  "school principal, teacher, soccer coach,"
+                ]
+              },
+              " and proud ",
+              {
+                "strong": [
+                  "U.S. Army veteran"
+                ]
+              },
+              ". Throughout his career, he has led with integrity, strengthened schools, inspired students, and built lasting partnerships that expand educational opportunities for young people and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a ",
+              {
+                "strong": [
+                  "Mt. San Antonio College Trustee,"
+                ]
+              },
+              " Armando will be a passionate advocate for student success by prioritizing campus safety, academic excellence, workforce development, fiscal responsibility, and affordable pathways to four-year universities, high-demand careers, and lifelong success. He believes every student deserves access to a world-class education, innovative programs, and the support necessary to reach their fullest potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can ensure Mt. SAC remains one of America's premier community colleges, expanding opportunity, transforming lives, and preparing the next generation of leaders for success."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

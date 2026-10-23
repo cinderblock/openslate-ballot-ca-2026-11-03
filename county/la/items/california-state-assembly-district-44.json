@@ -1,0 +1,115 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 44",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-44",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:21Z",
+  "candidates": [
+    {
+      "choice": "Nicholas \"Nick\" Schultz",
+      "statement": {
+        "by": "Nicholas \"Nick\" Schultz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to represent you in the California State Assembly since 2024."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In my first term I have secured funding for projects in our district. I have also authored important legislation to reduce administrative costs for schools, protect our environment, and make it easier to build housing. In my role as Chair of the Assembly's Public Safety Committee, I remain on the frontlines of the fight to make communities safer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My agenda in the Assembly includes:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "-Helping families "
+                ]
+              },
+              "navigate the rising costs of groceries, gas, and utilities.\n",
+              {
+                "strong": [
+                  "-Building housing "
+                ]
+              },
+              "and lowering barriers for first-time homebuyers:\n",
+              {
+                "strong": [
+                  "-Fighting climate change "
+                ]
+              },
+              "and working to reduce air pollution.\n",
+              {
+                "strong": [
+                  "-Improving schools "
+                ]
+              },
+              "and expanding access to higher education.\n",
+              {
+                "strong": [
+                  "-Reducing crime "
+                ]
+              },
+              "and keeping our neighborhoods safe.\n",
+              {
+                "strong": [
+                  "-Expanding healthcare "
+                ]
+              },
+              "access to ensure every Californian has coverage."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Prior to my election to the Assembly, I worked as a Deputy Attorney General for the California DOJ where I helped prosecute criminal cases related to public corruption, human trafficking, and financial fraud. I also served as a City Councilmember and Mayor in Burbank."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My campaign has earned endorsements from groups representing local teachers, firefighters, nurses, librarians, grocery workers, and small business owners. I'm also supported by elected and community leaders throughout Burbank, Glendale, and Los Angeles."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You can learn more about my background and priorities by visiting www.VoteNickSchultz.com or contact me directly at Nick@VoteNickSchultz.com. I would be honored and grateful to earn your vote and to continue representing you in our state capitol."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Nick Schultz"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

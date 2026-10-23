@@ -1,0 +1,69 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 41",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-41",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:17Z",
+  "candidates": [
+    {
+      "choice": "John Harabedian",
+      "statement": {
+        "by": "John Harabedian",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to serve as your State Assemblymember since 2024."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our communities have faced daunting challenges: devastating wildfires tore through portions of Los Angeles County, rising prices have squeezed family budgets, and our state's housing crisis continues. I am working every day to help the people I serve navigate these challenges, while I'm also fighting to change laws to solve the underlying causes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Among many efforts, I am working to:\n-Make it easier to build starter homes for working families.\n-Ensure firefighters have the tools and equipment they need.\n-Improve access to high quality healthcare.\n-Help wildfire victims rebuild their homes and businesses.\n-Invest in public schools, universities, and job training.\n-Keep our neighborhoods safe and combat violent crime."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My campaign has been endorsed by groups representing local teachers, nurses, firefighters, librarians, college professors, construction workers, small business owners, and retirees. I hope to earn your vote and continue advocating for our Foothill and High Desert communities in the State Assembly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "John Harabedian\nwww.JohnHarabedian.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "ABOUT JOHN HARABEDIAN –"
+                ]
+              },
+              " John is an attorney and longtime community leader who previously served as a local Mayor and City Councilmember. His professional experience includes serving as a prosecutor for the Los Angeles County District Attorney's Office and working for Stanford's Immigrants' Rights Clinic and the Equality Pro Bono Project. John earned his bachelor's degree at Yale University, master's degree from Oxford University, and law degree from Stanford University. He lives in Pasadena with his wife, Young-Gi, and their three children."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

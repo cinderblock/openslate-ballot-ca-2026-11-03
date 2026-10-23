@@ -1,0 +1,113 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Montebello City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/montebello",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:33Z",
+  "candidates": [
+    {
+      "choice": "Ricardo Alonzo",
+      "statement": {
+        "by": "Ricardo Alonzo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 42"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Engineer/Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "18 months ago, on January 29th, 2025, I was appointed to represent District 5 in South Montebello. Here is a list of our accomplishments you can see for yourself in South Montebello:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A police community resource center. Park rangers. Refurbished park restrooms. A community garden. Repaved streets. The Bluff Road Fence Project. The city's first sponsored Christmas event down here, plus the ones I put on myself. Before me, this side of town waited for necessities, while the north was bathed in luxuries. I also voted against a development that would have added residents without the services to carry them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I do not perform. I do not run this seat from a phone screen. I read every staff report, I ask my questions in open session where the record catches them, and I vote my own way. No theatrics. No dramatics. Just policy. That was the deal when I came in and it has not changed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This is what I have done. I can do more."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "James Santana",
+      "statement": {
+        "by": "James Santana",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Caretaker/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Montebello is my community. It gave me my education, my first job, and my first chance to serve. Today I own a home here, run a small business here, and hope to raise a family here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I started in local politics as a teenager, organizing students for a local school bond. Since then, I have chaired the Parks and Recreation Commission, founded Montebello United, where neighbors gather to understand the decisions shaping our city, and built more than twenty years of business and community service experience."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 5",
+              " carries more than its share. Homes sit beside small shops and heavy industry, and major projects are coming. We deserve a councilmember chosen by residents and present in our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On every contract and every budget, I will ask one question first: does this benefit the people who live and work here?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will advocate for development that grows with residents, not around them. I will establish a commission for seniors, caregivers, and aging families. I will hold monthly District 5",
+              " office hours. I will support small businesses, renters, and working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am ready to serve District 5",
+              " and all of Montebello. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

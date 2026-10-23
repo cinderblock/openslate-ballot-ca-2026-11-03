@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Bellflower Unified School District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:41Z",
+  "candidates": [
+    {
+      "choice": "Brad W. Crihfield",
+      "statement": {
+        "by": "Brad W. Crihfield",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, I ran for school board as the father of two daughters attending schools in the Bellflower Unified School District. I was committed to securing the best possible education for my kids and yours. During that campaign, we found common ground and you honored me with your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "From my first day in office, I made school safety my highest priority. I championed improvements including expanded campus security, upgraded security camera systems, and vape detection technology."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have fiercely advocated for students with special needs, fighting to expand resources and strengthen services. I have also consistently supported our teachers and classified staff. When the people serving our students have the resources and support they need, our students are the ones who benefit."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the elected representative for the Lakewood portion of our district, I heard your call for and championed the creation of a state-of-the-art sports complex at Mayfair. With my colleagues, we delivered a long-desired and lasting investment that benefit students, families, and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to serve as your Trustee. If re-elected, I recommit to putting our students first, with a safe place to learn and academic programs that sets them up for success."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Todd J. Roberts",
+      "statement": {
+        "by": "Todd J. Roberts",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a professor of biology at a local college with more than 30 years of experience in higher education and community partnership work. As a first-generation college graduate, I have dedicated my career to expanding access, strengthening student pathways, and supporting collaborative governance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a B.S. in Biology from UC Davis, an M.S. from the University of Georgia, and a Ph.D. in Animal and Dairy Science from the University of Georgia. I enjoy teaching, developing curriculum, and creating learning experiences that help students succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My leadership experience includes serving as department chair in Natural Sciences, Health & Kinesiology, Academic Senate Vice President, and an AFT campus representative on the negotiating team. These roles have strengthened my work in curriculum development, faculty mentorship, program review, and responsible stewardship of educational resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I approach public service with a focus on listening, collaboration, and clear communication. Thank you for taking the time to read."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Dr. Todd"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Todd J. Roberts, Ph.D."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

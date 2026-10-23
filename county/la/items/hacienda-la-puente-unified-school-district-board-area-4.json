@@ -1,0 +1,130 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hacienda La Puente Unified School District Board, Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:58Z",
+  "candidates": [
+    {
+      "choice": "Gino Kwok",
+      "statement": {
+        "by": "Gino Kwok",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As HLPUSD Board President and immigrant — born in El Salvador to Chinese parents — I've given everything to make sure our kids get the best education possible. Here's what I've delivered in 13 years on the Board:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Raised $850,000 for the Wilson High School Media Center"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Raised $450,000 to build the District Soccer Field"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Donated 250+ Scholarships (over $60,000) across every School and High School Band Program"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Donated over 1,000 Musical Instruments"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Presented 20+ College Workshops to help our Kids Get Into College"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Created Spanish and Korean Dual Immersion Programs; Expanded Chinese Dual Immersion"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- US National Blue Ribbon Schools -- Wilson High, Mesa Robles, and Wedgeworth"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Grazide Elementary -- Top 6% of U.S. Elementary Schools"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Newton Middle School -- National School to Watch"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Built Hacienda Heights Community Center with LA County"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Delivered Free Breakfast, Free SAT Testing for every Student"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Championed STEM and Technical/Trade Programs"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Attended elementary, middle, and high school in HLPUSD. My only child graduated from HLPUSD. Because of HLPUSD, I earned a USC Law School Scholarship, and have practiced as a trial attorney for 25+ years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let's make HLPUSD the Best!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every Dollar MUST be SPENT on our KIDS!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "HONORED to have Your VOTE!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ginokwok.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

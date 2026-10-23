@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Senate, District 34",
+    "kind": "race",
+    "jurisdiction": "us/ca/sd-34",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:21Z",
+  "candidates": [
+    {
+      "choice": "Rhonda Shader",
+      "statement": {
+        "by": "Rhonda Shader",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I'm a community advocate with a long record of public service. I was elected to the Placentia City Council in 2016, served two terms as Mayor, and launched Placentia's first Fire Department."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've been a champion for fiscal responsibility. When I took office, our city had $49 in reserves. I made the necessary decisions to get Placentia's financial house in order, and that's exactly the discipline Sacramento is missing. I encouraged a culture supportive of local small businesses and development that brought substantial economic improvements to our city, and I prioritized public safety by making sure fire and police had the tools they needed to keep residents safe, with some of the fastest response times in the county."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring practical, real-world experience to public office. I am a local small business owner. My experience in building a small business will help me change the way Sacramento politicians do their business, by fighting for local small business and working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear: bringing down the cost of living, keeping our neighborhoods safe, standing up for small businesses, and rooting out the waste, fraud, and abuse draining our tax dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I live in Placentia with my husband of 25 years and am a proud parent and grandparent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running to make Sacramento work for you, not the other way around. I would be honored to earn your vote for State Senate."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Avelino Valencia",
+      "statement": {
+        "by": "Avelino Valencia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for State Senate to empower working families, uplift our most vulnerable neighbors, and ensure state government is focused on doing the most good for the greatest number of people."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My agenda includes working to:\nBuild more housing and help first-time homebuyers.\nImprove public schools and lower the costs of college.\nLower homelessness by focusing on mental health and addiction.\nProtect our environment and ensure cleaner air.\nHelp Orange County businesses create good-paying jobs.\nImprove transparency and combat political corruption."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in Orange County as the son of immigrant parents who built a successful small business. After playing and coaching college football, I returned home to devote my life to public service. Prior to my election to the State Assembly, I was an Anaheim City Councilmember and served in various roles in state government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a bachelor's degree from San Jose State University and a master's degree in Public Management from Johns Hopkins University. My high school sweetheart and now wife, Dr. Monica Valencia, is a local elementary school principal."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My endorsers include the California Teachers Association, California Professional Firefighters, and United Nurses Associations of California. I'm also honored to have the support of elected, community, education, and business leaders from across Southern California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You can learn more about me at www.AvelinoValencia.com and contact me at Avelino@AvelinoValencia.com with any questions or ideas. I hope to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Service,\nAvelino"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

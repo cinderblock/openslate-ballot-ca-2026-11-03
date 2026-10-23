@@ -1,0 +1,659 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles County — Measure A (Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:22:47Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "LOS ANGELES COUNTY CHARTER AMENDMENT REITERATING GOOD FAITH NEGOTIATION OBLIGATIONS AND ESTABLISHING IMPARTIAL BINDING ARBITRATION FOR CERTIFIED PUBLIC SAFETY EMPLOYEE DISPUTES"
+            ]
+          },
+          " Shall the measure amending the Los Angeles County Charter to prohibit strikes by district attorney investigators, medical examiners, and lifeguards; their supervisors; and nonadministrative civilian employees working in the Fire Department, Sheriff's Department, and the Department of Medical Examiner, reiterate existing legal obligations for good faith negotiations, and establish an impartial binding arbitration process for resolving labor disputes with certified public safety employee organizations representing County employees including firefighters, sheriffs, and the abovementioned employees, as specified in the charter amendment ordinance, be adopted? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " LA County Firefighters Local #1014; Association of LA Deputy Sheriffs; LA/OC Building Trades Council ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "Impartial Analysis of Measure a",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure A (Measure) is a proposed amendment to the Charter of the County of Los Angeles (County) placed on the ballot by ordinance and resolution of the County Board of Supervisors. The Measure would amend the County Charter to establish a binding arbitration process for resolving disputes between the County and labor organizations certified by the Los Angeles County Employee Relations Commission as representing County employees in bargaining units specified in the Measure (collectively, the Parties). County employees represented by these bargaining units include firefighters, deputy sheriffs, sworn law enforcement supervisors and managers, lifeguards, and civilian employees working for the County Fire Department, Sheriff's Department, and Department of the Medical Examiner."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved by a majority of voters voting on the Measure, this Measure would:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Add Section 47.8 to the County Charter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Reiterate the Parties' existing legal obligations to negotiate in good faith on matters related to wages, hours, and other working conditions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Prohibit strikes by district attorney investigators, medical examiners and lifeguards, and reiterate the existing prohibition on strikes by deputy sheriffs and firefighters."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Require the following procedures if disputes or controversies related to wages, hours, and other working conditions remain unresolved:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Submission of the unresolved disputes or controversies to a three-member Board of Arbitrators panel for resolution."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Each Party will appoint one arbitrator to the panel. A third arbitrator will be selected based on agreement by the Parties, or if the Parties cannot agree, either party may request the State Mediation and Conciliation Service to provide a list of seven qualified arbitrators. If the Parties cannot agree to one of the seven persons, the Parties will alternately strike names from the list until one name remains. The third arbitrator will serve as the Chairperson of the Board of Arbitrators. Alternatively, the Parties may waive the appointment of party - appointed arbitrators and proceed with a single arbitrator agreed to by the Parties."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Proceedings to be conducted in conformance with, subject to, and governed by Title 9 of Part 3 of the California Code of Civil Procedure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- The Board of Arbitrators may exercise its discretion to meet privately with the Parties to mediate issues in dispute prior to arbitration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- The Board of Arbitrators shall hold hearings, receive evidence from the parties, allow for public input and cause a transcript of the proceedings to be prepared."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- If no agreement is reached prior to the conclusion of the arbitration hearings, each Party is directed to submit a final offer of settlement on each remaining issue in dispute."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- The Board of Arbitrators, by majority vote, selects which final offer to impose for each issue based on specified criteria."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- The Board of Arbitrators provides its decision to the Parties. The decision will not be disclosed publicly at that time, and the Parties have 30 days to meet privately to resolve their differences. Any agreements reached by the Parties during that period are incorporated into the Board of Arbitrators' final decision. After 30 days, unless extended by mutual agreement, the decision becomes public, final, and is binding on the Parties. No further action by the County Board of Supervisors or by the electorate to confirm or approve the decision is permitted or required."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "- Require the Parties to equally share the cost of arbitration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "OPTIONAL YES/NO QUESTION SUMMARY:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"YES\" vote is a vote to amend the Charter of the County of Los Angeles to establish a binding arbitration process for resolving disputes between the County and certain labor organizations representing County employees including firefighters, deputy sheriffs, sworn law enforcement supervisors and managers, lifeguards, and civilian employees working for the Fire Department, Sheriff Department, and the Department of the Medical Examiner, among other represented County employees."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"NO\" vote is a vote to not amend the Charter of the County of Los Angeles, which means there will be no binding arbitration process established for resolving disputes between the County and certain labor organizations representing County employees, and that the labor negotiation process between the County and those labor organizations will remain unchanged."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "County Auditor-controller's Fiscal Impact Statement – Measure a"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Los Angeles County Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes Measure"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure amends the Charter of the County of Los Angeles (County) to establish an impartial binding arbitration process for resolving labor disputes between the County and certified public safety employee organizations. The measure prohibits strikes by covered public safety employees. For firefighters and peace officers, this reiterates an existing prohibition on striking under State law, and extends a comparable prohibition to other covered classifications not otherwise subject to one. The measure also reiterates the existing requirement for good faith negotiations on wages, hours, and other terms and conditions of employment, and provides that unresolved impasses are submitted to either a three-member Board of Arbitrators or a single neutral arbitrator. The decision on disputes submitted to arbitration will be final and binding. Costs of arbitration proceedings are shared equally by the parties."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure does not directly affect County revenues. With respect to expenditures, this measure will primarily result in two areas of potential impact. The first involves direct administrative costs of arbitration, including arbitrator fees, legal fees, and staff support, which could total tens of thousands to millions of dollars depending on the complexity and duration of the arbitration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The second and more significant fiscal impact of the measure involves the transfer of final authority over covered employee compensation, benefits, and conditions of employment to a Board of Arbitrators. The County has no prior experience with binding arbitration for these covered employees and no historical data from which to estimate whether arbitrated outcomes would be more or less costly than outcomes under the existing bargaining process. Accordingly, we have no basis on which to predict whether arbitrated outcomes pursuant to this measure would result in higher or lower future labor costs than the existing bargaining process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The County's current annual expenditures for compensation (salaries and benefits) for covered public safety employees are approximately $4.1 billion. If arbitration results in higher or lower labor costs for covered employees than the current bargaining process, then the County may experience material increases or savings in wage and benefit costs. In addition, if County labor agreements not covered by this Charter amendment include parity clauses requiring wage and benefit reciprocity, then arbitration results may also apply to employees under those agreements. These amounts cannot be estimated because they depend on future arbitration decisions that cannot be predicted."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "In accordance with Elections Code Section 9160, the scope of this fiscal impact statement has been limited to the measure's effect on revenues and expenditures."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "OSCAR VALDEZ\nCounty Auditor-Controller"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "Dawyn R. Harrison, County Counsel"
+  },
+  "fullText": {
+    "title": "Proposed Ordinance of Measure a",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "An ordinance calling a special election to be held on November 3, 2026, throughout the County of Los Angeles for the purpose of voting upon an amendment to the Charter of the County of Los Angeles relating to binding arbitration for certain certified public safety employee organizations and directing the consolidation of the election with the statewide general election to be held on the same day."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors of the County of Los Angeles ordains as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 1."
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "Call of Election and Purpose."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A special election is hereby called, proclaimed, and ordered to be held on November 3, 2026, for the purpose of voting upon a proposed amendment to the Charter of the County of Los Angeles."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 2. Form of Measure."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The exact form of the measure as it is to appear on the ballot and the complete text of the proposed Charter amendment is as follows:"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "text": []
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": []
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "MEASURE A"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure (A) will become effective only if submitted to the voters at the election held on November 3, 2026, and only after approval by a majority of the qualified voters voting in the election on the issue."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Charter amendment will take effect as provided for in sections 23713 and 23714 of the Government Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 3."
+            ]
+          },
+          " Article X, Section 47.8 is hereby added to read as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 47.8"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Declaration of Policy. It is hereby declared to be the policy of the County of Los Angeles that strikes by firefighters, deputy sheriffs, sworn law enforcement supervisors and managers, lifeguards, and civilian employees working for the Fire Department, Sheriff's Department, and Department of the Medical Examiner and are not in the public interest and are prohibited. As set forth in this section, a method shall be adopted for peaceably and equitably resolving labor disputes that might otherwise have led to strikes. This method shall be referred to in this section as \"interest arbitration.\" Any employee covered by this section who willfully participates in an illegal strike or work stoppage shall be subject to disciplinary action up to and including termination from employment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Employees Covered."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. This section shall apply to labor organizations certified by the County's Employee Relations Commission (established pursuant to Chapter 5.04 of the Los Angeles County Code) as representing employees in the following bargaining units:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a. Bargaining Unit 601"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b. Bargaining Unit 602"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "c. Bargaining Unit 603"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "d. Bargaining Unit 604"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "e. Bargaining Unit 611"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "f. Bargaining Unit 612"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "g. Bargaining Unit 614"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "h. Bargaining Unit 621"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "i. Bargaining Unit 631"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "j. Bargaining Unit 632"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "k. Bargaining Unit 641"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "l. Bargaining Unit 642"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "m. Bargaining Unit 411"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "n. Bargaining Unit 412"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. For purposes of this section, the labor organizations described in Subsection B.1 shall hereinafter be referred to as \"Certified Public Safety Employee Organizations\" and any employee described in this subdivision may be designated as a \"public safety employee\" and collectively as \"public safety employees.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. Obligation to Negotiate in Good Faith. The County, through its duly authorized representatives, shall negotiate in good faith with Certified Public Safety Employee Organizations on all matters relating to wages, hours, and other terms and conditions of employment, including the establishment of procedures for the resolution of grievances concerning the interpretation or application of a negotiated agreement. Unless and until agreement is reached through negotiations between authorized representatives of the County and the applicable Certified Public Safety Employee Organization, respectively, or a determination is made through the impartial arbitration procedure hereinafter provided, no existing wages, hours, or other terms and conditions of employment for said public safety employees in the Certified Public Safety Employee Organizations shall be eliminated or changed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. Impasse Resolution Procedures."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Mediation and Fact-Finding in Chapter 5.04 Not Applicable. The mediation and fact-finding provisions of the Employee Relations Ordinance, as set forth in Chapter 5.04 of the Los Angeles County Code, shall not apply to negotiation impasses involving Certified Public Safety Employee Organizations."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Applicability of Interest Arbitration. All disputes or controversies pertaining to the renewal of a Certified Public Safety Employee Organization's memorandum of understanding covering wages, hours, and other terms and conditions of employment that are not uniquely within the jurisdiction of a memorandum of understanding providing fringe benefits, and which remain unresolved after good faith negotiations between the County and a Certified Public Safety Employee Organization shall be submitted to a three-member Board of Arbitrators for resolution."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. Selection of Interest Arbitration Board of Arbitrators. Representatives designated by the County and representatives of the Certified Public Safety Employee Organization involved in the dispute shall each appoint one arbitrator to the Board of Arbitrators within seven (7) days after either party has notified the other, in writing, that it desires to proceed to arbitration. The third member of the Board of Arbitrators shall be selected by agreement between the County and the Certified Public Safety Employee Organization and shall serve as the neutral arbitrator and Chairperson of the Board."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "In the event that the County and the Certified Public Safety Employee Organization involved in the dispute cannot agree upon the selection of the third, neutral arbitrator within ten (10) days from the date that either party has notified the other that it has declared an impasse, either party may then request the State Mediation and Conciliation Service to provide a list of seven (7) persons who are qualified and experienced as labor arbitrators. If the County and the certified Public Safety Employee Organization cannot agree within seven (7) days after receipt of such list on one of seven (7) persons to act as the neutral arbitrator, they shall alternately strike names from the list of nominees until one name remains and that person shall then become the neutral arbitrator and Chairperson of the Board of Arbitrators."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Alternatively, the parties may agree to waive the appointment of party-appointed arbitrators and proceed with a single neutral arbitrator. If the parties agree to the appointment of a single neutral arbitrator, the single neutral arbitrator shall fulfill the duties and responsibilities of the Board of Arbitrators and Chairperson of the Board of Arbitrators, as are applicable and set forth in this section."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. Interest Arbitration Hearing Procedures and Decision."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a. Any interest arbitration proceeding convened pursuant to this section shall be conducted in conformance with, subject to, and governed by Title 9 of Part 3 of the California Code of Civil Procedure, as may be amended from time to time. The Board of Arbitrators shall hold hearings, receive evidence from the parties, allow for public input and cause a transcript of the proceedings to be prepared. The Board of Arbitrators, in the exercise of its discretion, may meet privately with the parties and shall mediate or \"med-arb\" issues in dispute prior to arbitration. The Board of Arbitrators may also adopt such other procedures that are designed to encourage an agreement between the parties, expedite the arbitration hearing process, or reduce the costs of the arbitration process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b. The rules of evidence prevailing in judicial proceedings may be considered, but are not binding, and any oral testimony or documentary evidence or other data deemed relevant by the Chairperson of the Board of Arbitrators may be received in evidence. A recording of the proceedings shall be taken. The Board of Arbitrators has the power to administer oaths, require the attendance of witnesses, and require the production of such books, papers, contracts, agreements, and documents as may be deemed by the panel to be material to a just determination of the issues in dispute."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "c In the event no agreement is reached prior to the conclusion of the arbitration hearings, the Board of Arbitrators shall direct each of the parties to submit, within such time limit as the Board of Arbitrators may establish, a last offer of settlement on each of the remaining issues in dispute. The Board of Arbitrators shall decide each issue by majority vote by selecting whichever last offer of settlement on that issue it finds most nearly conforms to those factors traditionally taken into consideration in the determination of wages, hours, benefits, and terms and conditions of public and private employment, including, but not limited to the following: the cost of living; recruitment and retention; workload and productivity; the interests and welfare of the public; the wages, hours, benefits, and terms and conditions of employment of California state and local public employees performing similar services; the financial condition and obligations of the County and its ability to meet the multi-year ongoing costs of the decision of the Board of Arbitrators, and the recommendations of the Government Finance Officers Association; and other factors not confined to the foregoing that are traditionally taken into consideration in the determination of wages, hours, and other terms and conditions of employment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. Post-Hearing Process. After reaching a decision, the Board of Arbitrators shall mail or otherwise deliver a true copy of its decision to the parties. The decision of the Board of Arbitrators shall not be publicly disclosed and shall not be binding until thirty (30) days after it is delivered to the parties. During that thirty (30) day period the parties shall meet privately and attempt to resolve their differences. Any agreements reached during the thirty (30) day period shall be incorporated into the decision of the Board of Arbitrators. At the conclusion of the thirty (30) day period, which may be extended by mutual agreement between the parties, the decision of the Board of Arbitrators shall be publicly disclosed and shall be binding on the parties. The County and the Certified Public Safety Employee Organization shall take whatever action is necessary to carry out and effectuate the arbitration award. No other actions by the Board of Supervisors or by the electorate to confirm or approve the decision of the Board of Arbitrators shall be permitted or required."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "6. Expenses of Interest Arbitration. The expenses of any arbitration proceeding convened pursuant to this section, including the fee for the services of the Chairperson of the Board of Arbitration and the costs of preparation of the transcript of the proceedings, shall be borne equally by the parties. All other expenses which the parties may incur individually are to be borne by the party incurring such expenses."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "E. Employee Relations Commission. The Employee Relations Commission, as created in Chapter 5.04 of the Los Angeles County Code, shall have the authority to administer the provisions enacted by this measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "F. Relationship to Chapter 5.04 of the Los Angeles County Code. This section supplements the provisions of the Employee Relations Ordinance as set forth in Chapter 5.04 of the Los Angeles County Code. Where there is a conflict between the provisions of this measure and those of the Employee Relations Ordinance, the provisions of this section shall control."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "G. Severability. If any section, subsection, sentence, clause, phrase, or application of this measure is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions or applications of this measure. The electors hereby declare that they would have passed this measure and each and every section, subsection, sentence, clause, or phrase not declared invalid or unconstitutional without regard to whether any portion of the measure would be subsequently declared invalid or unconstitutional."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "H. Conflicting Measures. If this measure and one or more County measures adopted at the same election conflict, the measure receiving the highest number of affirmative votes shall control."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "I. Legal Defense. If approved by a simple majority of voters, and thereafter challenged in a court of competent jurisdiction, the County shall defend this measure in such court of competent jurisdiction. The People of the County by approving this measure by a simple majority of voters hereby declare that the proponent(s) of this measure have a direct and personal stake in defending this measure from constitutional or statutory challenges to this measure's validity or implementation. In the event the County fails to defend this measure, or the County fails to appeal an adverse judgment against this measure, in whole or in part, in any court of competent jurisdiction, this measure's proponent(s) shall be entitled to assert his, her, or their direct personal stake by defending this measure's validity and implementation in any court of competent jurisdiction and shall be empowered by the People through this measure to act as agents of the People of the County, and the County shall indemnify the proponents(s) for reasonable attorneys' fees."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "J. Codification; Numbering; Non-substantive Edits. If approved by the voters, this measure shall be codified in the Los Angeles County Charter. The chapter, article, and section numbers set forth in this measure are for reference only and the County is authorized to assign alternative chapter, article, and section numbers, and to make nonsubstantive formatting, typographical, and cross-reference corrections as necessary to effectuate this measure without changing its substance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 4. Legal Effect of Inoperative Provisions."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "In the event that the amendment to the Charter of the County of Los Angeles contained in this measure is rendered inoperative because of the actions of any court, legislative or other body, or for any other reason, the provisions of the County Charter in effect on November 2, 2026, will remain in full force and effect."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 5. Legal Effect of Invalid Provisions."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If any section, subsection, subdivision, paragraph, sentence, clause, phrase, or word of this proposition is for any reason held to be invalid or unenforceable, such invalidity or unenforceability will not affect the validity or enforceability of the remaining sections, subsections, subdivisions, paragraphs, sentences, clauses, phrases, or words of the Los Angeles County Charter. The voters of the County declare that they would have independently adopted each section, subsection, subdivision, paragraph, sentence, clause, phrase, or word of this measure irrespective of the fact that any one or more other sections, subsections, subdivisions, paragraphs, sentences, clauses, phrases, or words are declared invalid or unenforceable."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 6. Consolidation."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The special election will be consolidated with the general election to be held on Tuesday, November 3, 2026. The measure will be placed on the same ballot as that provided for the general election. The precincts, polling places or vote centers, and precinct board members will be the same as provided for the Statewide general election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 7. Proclamation."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Pursuant to section 12001 of the Elections Code, the Board of Supervisors of the County hereby PROCLAIMS that a special Countywide election will be held on Tuesday, November 3, 2026, to vote upon the Charter amendment described in Section 1 of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 8. Effective Date."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This ordinance will take effect pursuant to section 9141(a) of the Elections Code and section 25123(a) of the Government Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 9. Authority."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This ordinance is adopted pursuant to sections 23720, 23730, and 23731 of the Government Code, and sections 9141, 10402, 10403, and 12001 of the Elections Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 10. Publication."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This ordinance must be published once before the expiration of fifteen (15) days after its passage in a daily newspaper of general circulation, printed, published, and circulated in the County pursuant to section 25124 of the Government Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Executive Officer of the Board of Supervisors is ordered to file a copy of this ordinance with the Los Angeles County Registrar-Recorder/County Clerk at least eighty-eight (88) days prior to the day of the election."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

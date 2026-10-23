@@ -1,0 +1,162 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "West Covina City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/west-covina",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:34Z",
+  "candidates": [
+    {
+      "choice": "Ollie Cantos",
+      "statement": {
+        "by": "Ollie Cantos",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: West Covina Councilman/Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Government exists to serve the people and not the other way around. As fellow residents, this is OUR community. We collectively shop at the same stores, eat at the same restaurants, send our kids to the same schools, enjoy the same parks and open spaces, and otherwise live our daily lives ... together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, you sent me to City Hall to be your voice. I have been working tirelessly ever since, standing up for commonsense solutions, win or lose."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Because of our collective efforts, solidly built on trust, mutual respect, and LISTENING to residents, \"Promises made, promises kept.\""
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lower homelessness, better parks, strong police and fire departments, successful collaboration with schools, thriving businesses, improved infrastructure, support for seniors, higher volunteerism via community service, and more."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Best of all, it is not because of what *I* did but rather because of what WE did! Driven by a genuine spirit of caring, I KNOW we can do more."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our town is great, because we MAKE it that way. Driven and inspired by what we KNOW we can become, we may rise to be our best, building a future of which we may all be proud."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join us! See www.OllieCantos.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Pauline Pezza",
+      "statement": {
+        "by": "Pauline Pezza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Executive/Nonprofit Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a business executive with an MBA and more than 30 years of experience, I know how to manage budgets, ask hard questions, and deliver results. I currently serve as Vice President of an engineering firm that provided MEP engineering services for Porto's Bakery. My approach to work is simple: be accurate, follow the rules, and get things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For almost 15 years, I have also served our community through nonprofit and volunteer work, because I believe in giving back to the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want to make our beautiful West Covina an even better place to raise a family. I want to be a voice for our community and fight for:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Safe neighborhoods with well-kept parks and community spaces;\n- Support for our local small businesses;\n- Greater transparency in city spending;\n- Responsive government that resolves residents' concerns quickly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring the same discipline I use in business to City Hall and work hard to serve District 4 better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote. Please let me be your voice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please contact me at Cell# (626)236-2499 or PaulinePezza4WestCovina@gmail.com."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Danny Roman",
+      "statement": {
+        "by": "Danny Roman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 69"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired LAPD Sergeant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a proud father, grandfather, West Covina homeowner, and a retired Los Angeles Police Department Sergeant with more than two decades of public-safety leadership experience. In my professional and personal life, I have built a reputation on professionalism, integrity, and steady decision-making under pressure. Today, I am running for West Covina's City Council District 4 seat because I believe I can play a critical role in improving organizational accountability in West Covina. I would like to protect our public resources, and expand partnerships between our residents, local businesses, and City departments. Through transparency, consistent communication, and collaboration, we can build a more vibrant City. I have seen it, first-hand, in the vulnerable neighborhoods I grew up in, and in the communities I would eventually look after as a young police officer on patrol. I'd be grateful for your trust in me and, respectfully, ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

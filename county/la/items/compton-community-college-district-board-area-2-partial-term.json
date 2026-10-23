@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Compton Community College District Board, Area 2, Partial Term",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:04Z",
+  "candidates": [
+    {
+      "choice": "Nicole J. Jones",
+      "statement": {
+        "by": "Nicole J. Jones",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dr. Nicole J. Jones is a proven leader committed to education, accountability, and public service. As a former Trustee and Board President of the Compton Community College District, she helped strengthen governance, expand educational opportunities, and promote responsible use of public resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dr. Jones has held leadership roles in higher education, state government, and the nonprofit sector, building partnerships that support student success, workforce development, and economic opportunity. She has also taught at the university level, preparing future leaders and professionals for success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dr. Jones believes every student deserves an affordable, high-quality education that leads to college transfer, career growth, or workforce certification. She is committed to academic excellence, workforce pathways, student success, fiscal responsibility, transparency, and strong community partnerships."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With decades of leadership experience, Dr. Jones will continue working to ensure Compton College remains a place where students achieve their goals and build brighter futures. ",
+              {
+                "strong": [
+                  "Vote Dr. Nicole J. Jones for Compton Community College District Board of Trustees, Trustee Area 2."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

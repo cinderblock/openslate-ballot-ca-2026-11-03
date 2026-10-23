@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Nietos School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:05Z",
+  "candidates": [
+    {
+      "choice": "Evelyn Mendez Avdalyan",
+      "statement": {
+        "by": "Evelyn Mendez Avdalyan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Legal Assistant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Evelyn M. Avdalyan"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Candidate for the Los Nietos School District Governing Board"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to seek re-election to the Los Nietos School District Governing Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past 25 years, I have proudly called Whittier home. My husband and I have one son who attended schools in the Los Nietos School District. Throughout his education, I was actively involved in our school community, serving for many years on the Parent Teacher Club and the School Site Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every child deserves a strong educational foundation, and I remain committed to supporting the success, well-being, and future of every student in our district. If re-elected, I will continue to serve with integrity, listen to our community, and work diligently to ensure that Los Nietos students receive the quality education they deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your trust, your support and your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Christian Ibarra",
+      "statement": {
+        "by": "Christian Ibarra",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Christian Ibarra. I have lived in the Los Nietos community for 16 years. My children have attended district schools from kindergarten through middle school, and one is currently enrolled."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a U.S. Navy veteran, statistician, data scientist, and parent of two children with special needs. These experiences taught me to listen carefully, study the facts, ask difficult questions, and work with others to solve problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because our community deserves accountable leadership. Board members should review proposals carefully, question major expenditures, communicate with parents and employees, and base decisions on evidence."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are stronger support for special education, teachers, and school staff; better communication with families; responsible use of district funds; safe schools; and improved academic outcomes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "One board member cannot solve every problem alone. I will prepare for meetings, listen directly to parents and employees, raise their concerns publicly, and explain my decisions honestly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a parent who wants every student to receive the same care, opportunity, and quality education I want for my own children. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

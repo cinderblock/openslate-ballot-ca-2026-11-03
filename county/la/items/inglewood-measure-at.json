@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Inglewood — Measure AT (Amend the Admissions Tax for Large Venues)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/inglewood",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:11Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Ordinance To Amend the Admissions Tax for Large Venues."
+            ]
+          },
+          " Shall the ordinance amending the City's admissions tax on large venues to establish tiered rates of 10% and 2.5% based on venue seating capacity, and to remove the existing annual cap on admissions tax revenue, resulting in increased general fund revenues, be approved? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " None submitted ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Lisa Collins; Edna Cabrera; 77th St. Block Club Captain Krystal Alexander"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

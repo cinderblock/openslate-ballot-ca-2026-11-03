@@ -1,0 +1,821 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Burbank City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/burbank",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:46Z",
+  "candidates": [
+    {
+      "choice": "Jackie Waltman",
+      "statement": {
+        "by": "Jackie Waltman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired Parole Agent/Child Protective Service Worker"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have dedicated my career to serving and protecting our community. With more than 20 years in Child Protective Services and 30 years in law enforcement, I have worked to protect children, support families, uphold public safety, and solve complex community challenges with fairness, compassion, and integrity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to public service extends beyond my career. I have proudly served on Burbank's Tenant-Landlord Commission, helping resolve issues affecting both renters and property owners. I currently serve on the Civil Service Commission, where I work to ensure fairness, accountability, and excellence in City employment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "These experiences have prepared me to make thoughtful, informed decisions that put Burbank residents first. As your City Council member, I will focus on maintaining safe neighborhoods, supporting our police, fire, and emergency services, practicing responsible fiscal stewardship, improving infrastructure, protecting local businesses, and preserving the high quality of life that makes Burbank a great place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe leadership begins with listening, treating everyone with respect, and making decisions based on facts, not politics. I will bring decades of experience, proven judgment, and an unwavering commitment to honest, transparent, and accountable government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to serve on the Burbank City Council."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Samantha Wick",
+      "statement": {
+        "by": "Samantha Wick",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Nonprofit Grant Writer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have called Burbank home for more than 23 years and have dedicated my career to serving our community. I currently serve on the Burbank Planning Commission and previously served on the Burbank Heritage Commission, including two years as Chair."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a Bachelor of Science in Urban Planning and a career in nonprofit leadership, I bring practical experience in housing, land use, responsible development, historic preservation, and community engagement. I also founded Burbank's original Buy Nothing Group, connecting thousands of neighbors through community and service, and serve as the Planning Commission liaison to the Art in Public Places Commission."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked alongside residents, businesses, and community organizations to help keep Burbank a safe, welcoming, and vibrant place to live. I believe in listening to our community, making thoughtful decisions, and leading with transparency, integrity, and common sense."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When I'm not serving Burbank, I enjoy hiking local trails and volunteering to help rescue animals. Learn more at SamanthaWick.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Samantha Wick"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Eddy Polon",
+      "statement": {
+        "by": "Eddy Polon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Housing Advocate/Screenwriter"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank is a city people love because it has long offered something rare: a place where working people and young families could put down roots and build a future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That opportunity has been slipping away. Let's bring it back."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There are no magic bullets, but the job of the City Council is to move our city forward. Right now, we spend too much time and money stopping projects, delaying decisions, and settling for the least ambitious solution."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To protect what we love about Burbank, we need to remember what brought us here. Burbank is a place where working people can build a life, a family can buy a home, and a small business can grow. Those doors were open for us. Let's open them for the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That means more housing, real paths to homeownership, stronger support for local businesses, and a City Hall willing to act with urgency to make our streets safer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council to listen closely, ask hard questions, and turn good ideas into action."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank can preserve what makes it special by making opportunity possible again for generations to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join me in building a better Burbank."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "EddyPolon.com | @EddyPolon"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jt Parr",
+      "statement": {
+        "by": "Jt Parr",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 38"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Comedian"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is JT Parr, and I am running for City Council in the great city of Burbank. I want to build more housing, expand and improve public transportation, and create more places where people can hang out without spending money."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank is a great city today, and I want to make sure it's a great city tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am not seeking endorsements. I'm running because these issues matter to me, and I want to have skin in the game. If my policies align with yours, vote for me."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nikki Perez",
+      "statement": {
+        "by": "Nikki Perez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 31"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Burbank City Council Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank City Councilmember Nikki Perez has been our champion and friend at city hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "She has fought for renters struggling to remain in their homes, helped secure millions of dollars for homeless services, expanded support for local nonprofits, invested in Burbank's firefighters and emergency response teams, and she was recently appointed to the California Film Commission where she's working to increase entertainment jobs that support thousands of local households."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nikki Perez is a renter, a working mother, and a lifelong Burbank resident raising her family in the same community that raised her. She understands the pressure of rising rent, childcare, grocery bills, and job uncertainty because her family lives those pressures every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nikki",
+              " Perez is running for re-election to continue her work on establishing rent control, create incentives that make childcare more affordable, expand park access and community programs, and continue funding local organizations through the Burbank Community Grant Program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nikki Perez will keep Burbank's emergency services exceptional, ensure Burbank Water and Power and Forestry emergency response teams have the staffing they need, protect immigrant residents from the use of local resources for federal immigration enforcement, and continue to defend the dignity and rights of transgender and LGBTQ+ residents. To learn more, visit: nikkiperez.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nikki Perez, Burbank City Councilmember"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jonathan Ontiveros",
+      "statement": {
+        "by": "Jonathan Ontiveros",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 38"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Senior Civil Engineering Assistant, Los Angeles County Public Works"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank is more than my hometown, it is where my parents built our family's foundation over 40 years ago, where my wife and I met, and where we are raising our three sons. From ABC Preschool House and John Burroughs HS, to starting my career at Geocon West, this community has shaped who I am."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With over a decade of experience in the civil engineering industry, including three years as a Civil Engineering Assistant with LA County Public Works, I have dedicated my career to building resilient, sustainable infrastructure. As a labor union director, I fight for a better quality of life for members and their families. But as your next City Council Member, I will have the opportunity to guide Burbank's growth and keep our community thriving for generations to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities focus on modernizing our housing approach to keep Burbank accessible while preserving neighborhood character, strengthening relationships with businesses of all sizes to protect local jobs and uphold our status as the Media Capital of the World, all while ensuring our streets, parks, and neighborhoods remain safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I offer proven leadership, practical solutions, and deep community roots. I would be honored to earn your vote this November."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David Phillip Donahue",
+      "statement": {
+        "by": "David Phillip Donahue",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner, I am running for City Council to provide experienced, non-partisan leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My community engagement goes back over 35 years, my service has included chairing the Crisis House Anti-Slavery Program to combat human trafficking, advocating for natural resource protections as President of a local Council of Divers, and raising funds for the Boys & Girls Club. I previously served as President of Vision Burbank and President of the Burbank Fair Housing PAC."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a Burbank Chamber of Commerce member and serve on the Burbank Association of Realtors Legislative Committee. I want to ensure we retain the charm and personality of Burbank, which is why it is important to push back against government overreach when it comes to removing 2 lanes of traffic on Olive Ave. I will advocate for increased incentives for local production, reducing the hoops required for tax credits, and reducing permit fees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am fighting for your property rights and against multistory apartments without required parking, which will result in over $1 billion in local infrastructure improvements."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to have your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nolan Southerland",
+      "statement": {
+        "by": "Nolan Southerland",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 44"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Film Editor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe Burbank belongs to everyone. It is made of tenants, families, immigrants, and every individual that lives, works, and contributes here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've lived in Burbank with my family for over a decade. My kids attended BUSD schools from elementary through high school. I'm a proud member of the Motion Picture Editors Guild, IATSE Local 700, and have worked at many Burbank studios."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Costs are too high, particularly for rent and home ownership. Services aren't meeting the needs of many residents, including public transit and youth programs. We can make better policy choices that ease the burden for everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For years, I've worked to advocate rent stabilization and broaden tenant protections as a member of the Burbank Tenants Union, organized to defend our community from ICE and mass surveillance as a leader of Burbank Community Defense, and pushed our city to have better services that benefit all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our city is stuck between the needs of the community and the greed of the powerful. I don't take money from landlords, corporations, fossil fuel companies, or law enforcement. My name is Nolan Southerland, and I am running to shift the balance of power because Burbank belongs to all of us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.nolanforburbank.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Robbie Brody",
+      "statement": {
+        "by": "Robbie Brody",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 67"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Administrative Law Judge"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family and I have called Burbank home since 1999. My daughter attended Huerta Middle School and John Burroughs High School, and I have been deeply involved in our community for many years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I currently serve as Vice-Chair of the Burbank Parks & Recreation Board and previously chaired the Burbank Water & Power Board and the Art in Public Places Committee. I have also volunteered with Burbank Libraries, Burbank Arts, Burbank Sister Cities, the Jocelyn Center, Burbank Animal Shelter, and Stough Canyon Nature Center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Administrative Law Judge for the State of California, and previously as Deputy Director of Litigation at Bet Tzedek Legal Services, I have spent my career solving complex problems, listening carefully, and seeking fair and practical solutions. I have also served as a court-appointed arbitrator and mediator."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council because I believe Burbank deserves experienced, thoughtful and independent leadership. I will work to preserve the character of our neighborhoods, maintain excellent city services, support our parks, libraries and local businesses, and ensure that Burbank remains a welcoming community for families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After more than 25 years of calling Burbank home, I am ready to give back through service on our City Council."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Chris Yoosefi",
+      "statement": {
+        "by": "Chris Yoosefi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am built to serve. True leadership begins with respecting what makes a community special and protecting the character that makes it home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank is unique because it still feels connected. It's a place where neighborhoods matter, local businesses have personality, and people take pride in their city. It's why my family and I chose Burbank."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my life, service has been a constant. As a U.S. Navy Hospital Corpsman, I learned that service is not about recognition—it's about being the person others count on when it matters most. That responsibility continues to shape how I approach every challenge."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank already has the creative elements but needs leadership to bring the right people together and turn possibilities into results. Building businesses has taught me that progress does not happen by accident: it happens when people take ownership and follow through."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can Dream Burbank—a future that protects the character we love while addressing our most important issues and creating the environment our next generation deserves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vision 2030 is our collaborative mission to think outside the box and harness Burbank's creativity for a brighter future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve this community and ready to help get things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.yoosefiserves.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mike Van Gorder",
+      "statement": {
+        "by": "Mike Van Gorder",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Governmental Analyst"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hi Burbank! You might know me as \"the guy that fights ICE on Instagram,\" or as the organizer of the protest that got Jimmy Kimmel back on the air. Professionally, I've built my career fighting for economic justice, earning a Master's Degree in Housing and Community Economic Development from UCLA (during COVID, no less) to become a housing policy expert recognized statewide. Fighting for American values takes many forms, and this moment demands both a polished professional and a tenacious public advocate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I have two girls in Burbank public schools. We love raising our family here, but like too many Burbankers, we spend over half our income on our home. Average Burbank home prices are above a million dollars, and our average two-bedroom rent is $2,949, an increase of 13% from two years ago. Working families are getting crushed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm what City Council has been missing—the last piece of the progressive puzzle that will lock in the majority to deliver improvements to Burbankers' lives. We need serious protections for renters, better wages and benefits to our community, and long-term planning foresight to give our kids the chance to thrive right here in Burbank."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And abolish ICE!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Hovanes Tonoyan",
+      "statement": {
+        "by": "Hovanes Tonoyan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 30"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Cybersecurity Project Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I, Hovanes Tonoyan, a lifelong Burbank resident, graduated from Burbank High School, studied political science at UC Berkeley, and dedicated my entire career to public service and our local industries."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will be attending USC for my MBA, Class of 2029."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council on a simple promise: preserve what makes Burbank special, protect the services residents count on, and transform our city thoughtfully for the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That means public safety that is prepared and responsive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Water and power rates families can afford."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A budget that keeps your money in your pocket."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Housing decisions that respect existing neighborhoods while giving renters real protections and young families a way to stay."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A city hall that is transparent and accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "What makes me different? I never give up."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2024, with no political machine behind me, 5,670 of our fellow neighbors rose up and voted for me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Talk about a power move."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 2026, with three seats open, we finish the mission."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the face of county, state, and federal overreach, our city needs an advocate more than ever."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I answer to you and no one else."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to have your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Read my full platform at votehov.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fight On!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Tamala Takahashi",
+      "statement": {
+        "by": "Tamala Takahashi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 54"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Clinical Therapist/Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a 27-year resident of Burbank, clinical therapist specializing in neurodivergence, and parent of three young adults. It has been an honor to serve as Mayor this year and on City Council for the past four years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the next four years, I will continue to focus on:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Economy:"
+                ]
+              },
+              " Supporting small and micro businesses that define Burbank's character while strengthening local workforce development and job creation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Sustainability:"
+                ]
+              },
+              " Expanding clean energy innovation, water conservation, air quality, and urban heat reduction initiatives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Housing:"
+                ]
+              },
+              " Increasing housing security and availability for our workforce, seniors, and low- and middle-income families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Creative Industries:"
+                ]
+              },
+              " Protecting our media identity while investing in diverse local arts, culture, and production."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Infrastructure & Transit:"
+                ]
+              },
+              " Improving street safety, bike routes, and accessible local transportation network options for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Mental Health:"
+                ]
+              },
+              " Supporting nonprofits and programs that improve emotional health and community connection citywide."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also represent Burbank on regional elected leadership boards (SFVCOG, SCAG, CalCities, NLC), ensuring our voice is at the table. I would be honored to continue doing so."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Burbank is a unique community, and I would be proud to continue serving you."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

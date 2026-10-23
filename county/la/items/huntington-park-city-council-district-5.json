@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Huntington Park City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/huntington-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:12:18Z",
+  "candidates": [
+    {
+      "choice": "Arturo Flores",
+      "statement": {
+        "by": "Arturo Flores",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Huntington Park has always been a city built on hard work, family, and resilience. During challenging times, our community has shown that when we stand together, we are stronger than any obstacle we face."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilman, I have worked to ensure our city responds with compassion, leadership, and respect for the constitutional rights of every resident. I will continue advocating for policies that protect our community from unlawful immigration enforcement actions, strengthen trust between residents and local government, and ensure families are treated with dignity and respect."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our future also depends on investing in the people who call Huntington Park home. I remain committed to supporting public safety, revitalizing Pacific Boulevard to create jobs and economic opportunity, expanding housing options for working families, seniors, veterans, and young professionals, and developing citywide childcare programs that help parents succeed while giving every child a strong start."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The challenges we face will not divide us–they will bring us together. By supporting one another, protecting our neighbors, and investing in our future, we can build a safer, stronger, and more united Huntington Park where every family has the opportunity to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can continue moving our city forward–together."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Celia Beatriz Rivas",
+      "statement": {
+        "by": "Celia Beatriz Rivas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: City Commissioner/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Celia Rivas, I am a dedicated community leader, small business owner, and public servant committed to strengthening the City of Huntington Park. I currently serve as the City's Health and Education Commissioner, where I work to promote community wellness, educational opportunities, and civic engagement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 25 years I have owned and operated a successful insurance agency and business services company, helping individuals, families, and small businesses protect their future while creating economic opportunities within the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Originally from Chalatenango, El Salvador, I have built my life on the values of faith, integrity, hard work, and service. She understands the challenges that working families and local businesses face because she has lived and worked alongside them for decades."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm currently in my second year of studying Law at Universidad Gerardo Barrios (UGB), expanding my knowledge to better serve the community and advocate for transparent, and accountable government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a candidate for Huntington Park City Council, my priorities are to improve public safety, keep our neighborhoods clean and attractive, support local businesses, and create opportunities that strengthen our local economy. I am committed to responsible leadership, fiscal accountability, and ensuring Huntington Park remains a safe, thriving, and welcoming community for all residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote CELIA RIVAS"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

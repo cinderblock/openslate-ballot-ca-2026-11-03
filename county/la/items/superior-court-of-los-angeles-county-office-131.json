@@ -1,0 +1,111 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Superior Court of Los Angeles County, Office 131",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:16Z",
+  "candidates": [
+    {
+      "choice": "Donna Tryfman",
+      "statement": {
+        "by": "Donna Tryfman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "DONNA TRYFMAN"
+                ]
+              },
+              " has devoted more than 30 years to serving the people of Los Angeles County with integrity, fairness, and an unwavering commitment to justice. A veteran Deputy Public Defender in the Major Cases Unit, she has handled the most serious and complex felony cases, supervised attorneys at the nation's largest juvenile courthouse, and currently serves as a Temporary Judge."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Donna's distinguished career earned her the ",
+              {
+                "strong": [
+                  "2025 Gideon Award as Felony Attorney of the Year"
+                ]
+              },
+              ", recognizing excellence in felony defense and public service. She has the experience, judgment, and temperament to serve effectively from day one."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Donna has earned an exceptionally broad coalition of support from judges, prosecutors, defense attorneys, labor organizations, community leaders, and organizations committed to a fair and ethical judiciary. She is proudly endorsed by the ",
+              {
+                "strong": [
+                  "Association of Deputy District Attorneys, Mexican American Bar Association, Western States Regional Council of Carpenters, UNITE HERE Local 11, Stonewall Democratic Club, Citizens for Accountable Leadership,"
+                ]
+              },
+              " and many others."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Independent newspaper editorial boards also concluded Donna is the best choice, endorsing her in the ",
+              {
+                "strong": [
+                  "Los Angeles Daily News, San Gabriel Valley Tribune, Press-Telegram, The Sun,"
+                ]
+              },
+              " and the ",
+              {
+                "strong": [
+                  "Metropolitan News-Enterprise"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote Donna Tryfman for Judge."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "www.TryfmanForJudge2026.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David Ross",
+      "statement": {
+        "by": "David Ross",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have devoted my professional life to public service and strengthening confidence in our justice system. As a Deputy Public Defender for 31 years, I have litigated 113 jury trials, 2000+ preliminary hearings, and represented l0,000 people, ensuring every individual is treated with dignity, respect, and fairness. Few candidates bring experience in court, the newsroom, and in Congress. Before becoming an attorney, I was a TV reporter and documentary producer, telling stories of communities whose voices were unheard. I served on Capitol Hill, where I learned how government affects working families and the communities our courts serve. These experiences gave me a broad perspective on the law, government, and people who depend on both. Justice requires legal knowledge, integrity, compassion, and the ability to listen carefully before making decisions. I have worked with judges, prosecutors, victims, witnesses, and thousands of ordinary Angelenos, giving me a well-rounded understanding of the challenges facing our courts. I bring a lifetime of public service, extensive courtroom experience, and proven commitment to fairness, accountability, and equal justice to the Los Angeles Superior Court. I will uphold the Constitution, apply the law impartially, and work every day to earn and maintain the public's trust."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

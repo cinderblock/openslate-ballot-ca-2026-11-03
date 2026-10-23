@@ -1,0 +1,609 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hermosa Beach City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/hermosa-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:22:42Z",
+  "candidates": [
+    {
+      "choice": "Raymond Jackson",
+      "statement": {
+        "by": "Raymond Jackson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilmember & Former Mayor, City of Hermosa Beach/California Coastal Commissioner/Colonel U.S. Army (Retired)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A lifelong public servant, I proudly wore our nation's uniform for over thirty years, retiring as an Army Colonel. For the past eleven years, I have been equally proud to serve our \"Best Little Beach City\" by coaching hundreds of our kids, volunteering with our School District and dozens of local organizations, and, for the past five and a half years, serving as your City Councilmember and Mayor, in elected regional leadership roles, and as your state-appointed California Coastal Commissioner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving Hermosa Beach has been the honor of a lifetime. Together, we have accomplished so much, but our most important work still lies ahead."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our city is at a pivotal moment, and the need for competent, experienced leadership has never been greater. The decisions we make today will shape Hermosa Beach for generations to come. That is why I remain committed to thoughtful leadership grounded in fiscal responsibility, public safety, smart and measured growth, and protecting the character, quality of life, and values that make our community so special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote once again and continue serving with integrity, experience, common sense, and action."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your trust, your support, and the privilege of serving our community. Together, let's keep Hermosa Beach moving onward and upward."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dean Francois",
+      "statement": {
+        "by": "Dean Francois",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent Hermosa Beach Councilmember/Retired Federal Budget Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on Hermosa City council is a privilege. I'm committed to independent, accessible leadership that puts residents first and protects our small-town character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Public Safety"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Pioneered stronger ",
+              {
+                "strong": [
+                  "e-bike"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "enforcement"
+                ]
+              },
+              " including increased fines and confiscation"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Approved illegal camping regulations"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- City Council delegate to League of California Cities, appointed by League President to Public Works Policy Committee - ",
+              {
+                "strong": [
+                  "E-Bike Task Force"
+                ]
+              },
+              " working on statewide legislation and Santa Monica Bay Restoration Commission as South Bay Council of Governments delegate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Fiscal Stewardship"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Only councilmember to put taxpayers first by ",
+              {
+                "strong": [
+                  "opposing sales tax hike"
+                ]
+              },
+              " and management bonuses"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Reduced consultants including those promoting taxes, streamlined management, refurbished City Hall and beach bathrooms not multi-million dollar rebuilds"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Business Advocacy"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Led cutting red tape to activate vacant commercial spaces, streamlined permitting, reduced outdoor dining fees, preserved free parking for customers"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Protecting Hermosa Beach"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Only councilmember who protected ",
+              {
+                "strong": [
+                  "residential parking,"
+                ]
+              },
+              " free holiday, Lot E and morning parking"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Improved Housing Element stopping increased building heights"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Fought for short-term rental taxes"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Led banning Coastal Commission Beach advertising waivers countywide and only councilmember opposing Coastal Commission VIP beach waivers"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-Sole candidate with early endorsements from ",
+              {
+                "strong": [
+                  "Sierra Club"
+                ]
+              },
+              " and California League of Conservation Voters"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Accountable Leadership"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Protected public comment, reinstated community forums, fought for civility/professionalism at City Hall"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm your independent voice ensuring civility, asking tough questions to keep Hermosa Beach safe, financially responsible, business-friendly, and environmentally protected."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dean4Council.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "(310) 938-2191"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for the vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Contact me anytime."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Elka Worner",
+      "statement": {
+        "by": "Elka Worner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hermosa Beach has been my home since I was seven years old. When my family immigrated from Germany, this community welcomed us and gave us the opportunity to build a life here. I grew up here, raised my daughter here, and I've spent my life giving back to the community that has given so much to my family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leadership isn't measured by campaign promises. It's measured by showing up, solving problems, and getting things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Here's what I've already done:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Led a campaign to stop a proposed 50-foot development near the beach\n- Founded HB SAFE, Hermosa Beach's first homeless outreach program\n- Serve as a Parks and Recreation Commissioner\n- Work in a downtown Hermosa small business and support policies that help businesses succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an award-winning journalist and former press secretary for the LA District Attorney's Office, I've built my career by listening, asking tough questions, and finding practical solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "As your councilmember, I'll keep Hermosa safe, make smart decisions with your tax dollars, and plan responsibly for the future. I believe Hermosa's best days are still ahead. I'd be honored to earn your vote."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Elkaforhermosa.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maggie Bove LaMonica",
+      "statement": {
+        "by": "Maggie Bove LaMonica",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Boardmember, Hermosa Beach City School District/Non-profit Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hermosa residents deserve experienced, responsible, and pragmatic leadership at City Hall. Born and raised in Hermosa Beach, I have dedicated my career to public service, public policy, and law. Over the last 13 years on the Hermosa School Board, including three as Board President, I successfully managed $100M budgets, maintained strong reserves through COVID-19, and spearheaded $87M in facility bonds to modernize our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities for Hermosa Beach include:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Common-Sense Governance:"
+                ]
+              },
+              " Streamlining permit and zoning timelines using a data-driven system to provide predictability for residents and business owners."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Fiscal Responsibility:"
+                ]
+              },
+              " Using proven fiscal discipline to transition from reactive budgeting to sustainable, long-term infrastructure and financial planning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Protecting Our Community:"
+                ]
+              },
+              " Preserving our unique beach-city character while ensuring a safe, modern future that supports youth, renters, homeowners, and seniors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have lived every stage of life here—from renting as a young professional to buying a home, raising a family, and supporting aging parents. I know our community's needs firsthand and would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at Maggie4Hermosa.org/ email Maggie4hermosa@gmail.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you, Maggie"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Eric Horne",
+      "statement": {
+        "by": "Eric Horne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Wildfire Policy Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need new leadership to tackle our city's fiscal crisis and protect what makes Hermosa special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in Hermosa Beach, attending ",
+              {
+                "strong": [
+                  "Hermosa Valley, Mira Costa, and El Camino "
+                ]
+              },
+              "before starting my career in public service and eventually earning a ",
+              {
+                "strong": [
+                  "Harvard MBA."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience has prepared me for City Council: as the ",
+              {
+                "strong": [
+                  "Food and Drug Administration's liaison to Congress"
+                ]
+              },
+              ", I strengthened ",
+              {
+                "strong": [
+                  "oversight over $1 billion"
+                ]
+              },
+              " in drug safety funding and helped ",
+              {
+                "strong": [
+                  "save taxpayers $20 million"
+                ]
+              },
+              " by consolidating facilities. Today, I run the California Chapter of Megafire Action, advancing legislation to cut red tape for controlled burns and deploy technology to protect communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hermosa faces real challenges: a structural deficit with increasing County Fire costs, an aging pier with no funding plan, and struggling businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need fiscal discipline and fresh ideas:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1) ",
+              {
+                "strong": [
+                  "Save taxpayers and local businesses money"
+                ]
+              },
+              ": use new technologies to modernize permitting, overtime staffing, and administrative work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "2) ",
+              {
+                "strong": [
+                  "Establish a Pier Fund"
+                ]
+              },
+              ": levy a surcharge tax on short-term rentals (Airbnbs) and secure state/federal dollars to fund our pier's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "3) ",
+              {
+                "strong": [
+                  "Protect public safety"
+                ]
+              },
+              ": shield police and fire from budget cuts and diversify patrols on speeding, e-bikes, and quality-of-life issues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can make government work better for ",
+              {
+                "strong": [
+                  "you"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "eric@ericforhermosa.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Rob Saemann",
+      "statement": {
+        "by": "Rob Saemann",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Hermosa Beach City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife Katie and I have been blessed to call Hermosa Beach home for 52 years. As a general contractor for five decades. I've built and remodeled homes and businesses across Hermosa. I get things done, on time and on budget."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My qualifications:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Your Councilmember since 2022; Mayor in 2026\n- Board Member, South Bay Cities Council of Governments\n- 8 years as Planning Commissioner\n- 2 years as Public Works Commissioner\n- President, Hermosa Beach Kiwanis Club"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I worked to begin a turnaround at City Hall. Spending gets real scrutiny, stalled projects are getting finished, and we are rebuilding a culture of cooperation. There is more to do."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When re-elected, I will work for:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Careful investment in infrastructure that keeps Hermosa safe, beautiful and economically vibrant\n- Protecting public safety while building community trust\n- Local control over decisions that belong here in Hermosa\n- Smart financial choices that make taxpayer dollars go further"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Big decisions are ahead: saving our Pier, tough budget negotiations, major infrastructure work. My unique experience with construction, land use, budgets, and governance really matters now."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I pledge to donate my entire council salary to local projects and good causes. I ask for your trust and your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

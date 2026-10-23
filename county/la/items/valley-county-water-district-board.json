@@ -1,0 +1,154 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Valley County Water District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:20:51Z",
+  "candidates": [
+    {
+      "choice": "Lenet Pacheco",
+      "statement": {
+        "by": "Lenet Pacheco",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue serving on the Valley County Water District Board of Directors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since first being elected in 2009, I have worked to ensure our community receives safe, reliable, high-quality, and affordable drinking water while protecting the District's long-term financial stability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Director, I have supported responsible budgeting, transparent governance, infrastructure improvements, emergency preparedness, and long-range planning. My decisions have always been guided by fiscal responsibility, accountability, and the best interests of our ratepayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "California's water systems face increasing challenges, including aging infrastructure, water supply reliability, rising costs, cybersecurity, and changing regulations. These issues require experienced leadership, careful planning, and cooperation with local and regional partners to protect our community's water future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner and longtime community volunteer, I understand the importance of responsible financial management, public accountability, and responsive customer service. My experience has reinforced the value of listening to residents, making informed decisions, and planning for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your representative, I will continue working to maintain reliable water service, protect the District's financial strength, invest responsibly in our infrastructure, and serve every customer with integrity, experience, and dedication."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David L. Muse",
+      "statement": {
+        "by": "David L. Muse",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for re-election to the Valley County Water District Board of Directors. During my nine years of service, including my current role as Board President, I have remained committed to protecting our community's water resources through fiscal responsibility, transparency, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have kept Valley County Water District's rates among the lowest in the San Gabriel Valley while continuing to provide drinking water that meets or exceeds all state and federal quality standards. We have also replaced more than 10 miles of aging water pipelines to strengthen the reliability of our water system."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our Board expanded customer programs such as the Affordable Rate Program and 360 Water Tracking, helping families detect leaks and lower water bills. Through our partnership with Baldwin Park Unified School District and the District's Aqua Academy, we continue educating students about water conservation and environmental stewardship."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud of what we have accomplished, but there is more to do. With your support, I will continue protecting our water supply, investing wisely in our infrastructure, and providing safe, reliable, and affordable water service for every customer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Endorsed by local community leaders, educators, public safety professionals, and neighbors committed to responsible leadership."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jiamin Li",
+      "statement": {
+        "by": "Jiamin Li",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 34"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Medical Aesthetic Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner, I understand the importance of responsibility, accountability, and serving the community. I came to the United States with the dream of building a better future through hard work, and I am grateful to call Baldwin Park my home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working with people from many different backgrounds has taught me the value of listening, respect, and compassion. I believe every resident deserves to have their voice heard and to receive fair representation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a member of our diverse community, I want to learn, serve, and give back. I believe responsible leadership begins with honesty, transparency, and careful decision making. If elected, I will work diligently, continue learning, and always put the interests of our residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to protecting our community's resources, supporting responsible water management, maintaining reasonable water rates, and ensuring that future generations continue to have safe and reliable water service. My goal is simple: to serve with integrity and help build a stronger community for everyone."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

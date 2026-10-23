@@ -1,0 +1,130 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Camino Community College District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:35Z",
+  "candidates": [
+    {
+      "choice": "Myloc Dinh",
+      "statement": {
+        "by": "Myloc Dinh",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "MyLoc Dinh, Your Current El Camino College Board Member"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a mother concerned about educational opportunities for our children, and as a parent involved in my local PTA, it was my true honor to be appointed to the El Camino College Board. My law degree and experience working in government have enabled me to make meaningful contributions on the El Camino College Board:\n- Overseen a budget of over $180 million\n- Built strong reserves\n- Grown student enrollment\n- Achieved top 10 ranking for transfers to higher learning (UC, CSU, USC, LMU)"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This year, I was proud to play a role in celebrating new accomplishments for El Camino:\n- Offering two-year actuarial science degrees (first in the country for community colleges)\n- A first-of-its-kind dual enrollment program, where students earn both a high school diploma and an associate degree from El Camino."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In a short amount of time, I have been able to make a real difference on the El Camino College Board. I'm asking for your vote to continue my work of delivering on our mission: responsible fiscal stewardship, student achievement, career development, and lifelong learning for our whole community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "MyLoc Dinh\nCurrent El Camino College Board Member\nMyLocDinh.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Keicy Chung",
+      "statement": {
+        "by": "Keicy Chung",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 62"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Business Owner/Student"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education should not begin at 18 or end at retirement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the owner of an IT consulting business for more than 30 years and an El Camino College student for over 25 years, I understand the important role El Camino College plays in serving students, working adults, and retirees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our population ages, El Camino College has an opportunity to expand access and participation by serving more learners at every stage of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For high school students, I support stronger dual-enrollment opportunities and enrichment programs, including musical instruments, performing arts, athletics, robotics, academic competitions, and engineering challenges. These pursuits often require years of dedication and can lead to scholarships, higher education, professional achievement, and lifelong careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For seniors and retirees, I support lifelong learning focused on health, wellness, technology literacy, personal enrichment, and hobbies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support workforce programs that provide hands-on experience with campus technology infrastructure and IT operations, preparing students for high-demand careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As El Camino College considers future capital investments and bond-funded projects, I will advocate for rigorous oversight, clear priorities, measurable outcomes, and transparent reporting to ensure taxpayer dollars deliver meaningful value to students and the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

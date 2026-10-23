@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Whittier City School District Board, Seat 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:25Z",
+  "candidates": [
+    {
+      "choice": "Christine Chacon Kennedy",
+      "statement": {
+        "by": "Christine Chacon Kennedy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Serving our district has never been about recognition but always about creating opportunities, strengthening our schools, and leaving a lifelong legacy our children will be proud of as they are the heart of EWCSD. Their future deserves experienced and honest leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Being a Board Member is more than a title. It is a commitment to serve, putting students first, listening to families, leading with integrity, and protecting every taxpayer dollar. Every vote I cast is guided by one question: What is best for our students, district, and community?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This commitment has guided my work to establish a Student Board Member, launch district spelling bee and speech contests, support the restoration of the historic Emma Wicker Auditorium, and create our annual Engage East Whittier event that brings our community together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe leadership means preparing students for life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That is why I continue to champion innovative opportunities, including school garden centers where students can learn about sustainability, nutrition, and caring for our environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build stronger schools and brighter futures for every child. I respectfully ask for your vote. On Election Day, remember: Christine Chacon Kennedy –leading the way, right from the start."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Michael Ramos",
+      "statement": {
+        "by": "Michael Ramos",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: District Sales Rep"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Michael \"Mike\" Ramos, and I am running for the East Whittier School Board. East Whittier is part of my story: As I am a former East Whittier School District student, and my family's connection continued when my nephew attended district schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I currently work as a state employee and serve as a union leader and community advocate. For six years, I have served on my union's District Labor Council and participated in collective bargaining. That experience has taught me to listen carefully, review information, ask difficult questions, work through disagreements, and make responsible decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a board member, I would focus on student achievement, safe and supportive schools, and responsible use of district resources. I would ask for clear information before major decisions, support transparent communication with families and employees, and review whether district programs and spending are producing meaningful results for students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe board members should be prepared, accessible, and accountable to the community they serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am seeking the opportunity to give back through public service. I would bring experience, perspective, and a commitment to thoughtful decision."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Michael Ramos East Whittier School Board"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

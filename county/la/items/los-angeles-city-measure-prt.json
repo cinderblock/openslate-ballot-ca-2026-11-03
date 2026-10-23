@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure PRT (City Airports, Harbor, and Water and Power Departments)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:25Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CITY AIRPORTS, HARBOR, AND WATER AND POWER DEPARTMENTS. CHARTER AMENDMENT PRT."
+            ]
+          },
+          " Shall the City Charter be amended to: require the Harbor Department to allocate funds for waterfront public access projects; require disclosure of workforce impacts for certain Harbor Department leases and agreements; increase maximum terms for certain leases; and change the composition requirement for the Airport Commission? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Tim McOsker, LA City Councilmember; Imelda Padilla, LA City Councilwoman; Traci Park, LA City Councilwoman ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

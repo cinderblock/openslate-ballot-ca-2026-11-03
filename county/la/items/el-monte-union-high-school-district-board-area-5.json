@@ -1,0 +1,149 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Monte Union High School District Board, Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:41Z",
+  "candidates": [
+    {
+      "choice": "Ricardo Padilla",
+      "statement": {
+        "by": "Ricardo Padilla",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Public School Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am ",
+              {
+                "strong": [
+                  "RICARDO PADILLA"
+                ]
+              },
+              ", a Public School Educator with 30 years of experience, School Counselor, Parent, and your current School Board Member. My experience includes serving as a Teacher, Summer School Principal, AVID Coordinator, and School Counselor. I have dedicated my career to serving students and families in public schools. I hold the following degrees in education: Associate of Arts, Bachelor of Arts, Master of Arts, and Teaching, Counseling, and Administrative Credentials."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your school board member, I am committed to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "1. Career Technical Education (CTE)"
+                ]
+              },
+              "\nExpand programs such as, Construction, Carpenter, Electrician, Refrigeration, Industrial Maintenance, Welding, Mechanic, Plumbing, HVAC, Forklift/Warehouse, CNC Operator\n",
+              {
+                "strong": [
+                  "2. Attendance"
+                ]
+              },
+              "\nlncentivize students and Parents for improved and excellent attendance with gift cards, field trips, free yearbooks, free prom tickets, graduation tickets, grocery/gas cards and Parent field trips.\n",
+              {
+                "strong": [
+                  "3. Parent Engagement"
+                ]
+              },
+              "\nIncrease Parents making decisions. Strengthen Superintendent Parent Advisory, LCAP, Parent Committee, SSC, ELAC, DELAC.\n",
+              {
+                "strong": [
+                  "4. School Safety"
+                ]
+              },
+              "\nProvide mental health support, bully-free campuses, safety officers, clean restrooms, safe classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support.\nVote ",
+              {
+                "strong": [
+                  "RICARDO PADILLA "
+                ]
+              },
+              "for El Monte Union High School District."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Raul Pardo",
+      "statement": {
+        "by": "Raul Pardo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 64"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Longshoreman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher, coach, City Council member, Public Health Commissioner, Mayor, and board member of local health and economic development organizations, I have dedicated my career to serving our community. This experience has prepared me to be an effective and responsible member of the El Monte Union High School District Board of Trustees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "My priority will always be our students"
+                ]
+              },
+              ".",
+              " I will support strong academic programs, modern technology, career technical education, and partnerships with colleges, labor organizations, and local employers. Every student should graduate prepared for college, an apprenticeship, or a family-supporting career."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will also work to recruit and retain exceptional teachers and staff, maintain safe and clean campuses, and ensure our schools are free from discrimination, harassment, and intimidation. Our employees deserve the resources and support they need to help every student succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "As a trustee, I will insist on transparency, fiscal responsibility, and accountability. Educational dollars must be used efficiently and directly for the benefit of students—not for personal interests or political agendas."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am prepared to lead with experience, integrity, and an unwavering commitment to our students, employees, families, and community. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Whittier City School District Board, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:21:18Z",
+  "candidates": [
+    {
+      "choice": "Norma Natalie Rodarte",
+      "statement": {
+        "by": "Norma Natalie Rodarte",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have proudly served the Whittier City School District for 33 years, serving alongside educators, staff, students and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My five children attended Whittier City Schools, and now my grandchildren as well."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Most important, is my experience of serving with dedicated professionals educating our students. I believe every decision made by our District Board should be guided by what is best for our students. And that includes following our state education guidelines and not allowing inappropriate outside influences interfere with their education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will strive to put student interests first, by supporting academic excellence, safe and welcoming schools, responsible fiscal management, and transparent leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- My goals are to ensure that teachers and staff have the resources they need to help children reach their full potential\n- That Special Needs students are a priority and treated as such.\n- Schools are safe academic environments"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring integrity, experience, accountability, and a strong work ethic to our Board of Trustees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why I have been endorsed by WETA - Whittier Elementary Teachers Association; and CSEA -California School Employees Association; as well as numerous parents, trustees, and community leaders. Please support NORMA RODARTE FOR WHITTIER CITY SCHOOL DISTRICT. Thank you for your consideration!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Richard Hever",
+      "statement": {
+        "by": "Richard Hever",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It's a tremendous honor to serve the Whittier City School District community. As an incumbent member of the Board of Education, I remain committed to ensuring that every student has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, the WCSD community successfully passed a ",
+              {
+                "strong": [
+                  "$99 million school facilities bond"
+                ]
+              },
+              ", allowing us to modernize and improve our schools. During my tenure on the Board, our district has celebrated remarkable achievements, including ",
+              {
+                "strong": [
+                  "National Blue Ribbon"
+                ]
+              },
+              ", ",
+              {
+                "strong": [
+                  "(2) California Distinguished Schools"
+                ]
+              },
+              ", and ",
+              {
+                "strong": [
+                  "(2)"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "State and National Schools to Watch"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "WCSD has established a ",
+              {
+                "strong": [
+                  "Dual Enrollment Program"
+                ]
+              },
+              " with ",
+              {
+                "strong": [
+                  "Rio Hondo College"
+                ]
+              },
+              ", expanded our Performing Arts pathway to include ",
+              {
+                "strong": [
+                  "TK-8th grade"
+                ]
+              },
+              ", and enhanced our middle school elective offerings by adding more ",
+              {
+                "strong": [
+                  "STEAM"
+                ]
+              },
+              " and ",
+              {
+                "strong": [
+                  "Career Technical Education"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "(CTE)"
+                ]
+              },
+              " courses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Whittier City School District Board is more than a position to me—it is a calling. I truly believe God has called me to lead and serve this community, and I approach every decision with humility, integrity, and a heart for our students, staff and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your trust and respectfully ask for your vote so that I may continue serving the Whittier City School District with dedication, compassion, and purpose."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by\nDr Brad Mason\nRev Jim Ortiz\nRev Ralph De La Torre"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

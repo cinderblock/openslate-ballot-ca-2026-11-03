@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Burbank Unified School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:47Z",
+  "candidates": [
+    {
+      "choice": "Paul Gerard",
+      "statement": {
+        "by": "Paul Gerard",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: College Professor/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trustee of the Burbank Board of Education, I will work to ensure that there are strategic plans that support student achievement by keeping the education of Burbank's youth as the top priority of the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will be an advocate for students, parents, all staff, and community stakeholders. I will listen, work collaboratively, and encourage more partnerships with parent groups, local businesses, and the City of Burbank."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work with the district leadership team and the entire community to face the challenges of declining enrollment while keeping our educational programs, school facilities, and staff compensation at the highest levels possible."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trustee, I understand that I have a legal responsibility to conduct myself ethically. I promise to be honest with the entire community and as transparent as the law allows."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will ensure that all expenses are aligned with goals that support student achievement and that every effort is made to have honesty and transparency about the district's finances supported by accurate auditing of every dollar spent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Contact Paul at GerardForBUSD@protonmail.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

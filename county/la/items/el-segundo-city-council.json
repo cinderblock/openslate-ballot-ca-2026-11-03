@@ -1,0 +1,158 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Segundo City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/el-segundo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:45Z",
+  "candidates": [
+    {
+      "choice": "Chris Pimentel",
+      "statement": {
+        "by": "Chris Pimentel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 49"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Technology Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the Mayor of El Segundo and led the solution to the nearly $400 million dollar pension and retiree medical crisis. I will continue to champion the safety, security, and disaster preparedness of the residents of this city. In the next four years we will advance our housing goals so that our children and young professionals have a place to call home. We will continue to grow our state-leading economy while defending El Segundo's small-town character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The next four years will challenge us as we build solutions to the critical needs of the environment, incorporate advancing technology, and nurture our diverse community. As the delegate to many of our regional and county organizations, I will continue to shape smart policy, advocate for our city, and resist impractical or poorly considered laws."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my term we have fixed the long-term budget, revitalized our diverse economy, built the safest city in the region, championed emergency response, rebuilt three playgrounds, completed the Plunge, welcomed an NFL team, and improved the environmental compliance of our neighbors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You trusted me then, and I hope to earn your trust again."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ryan W. Baldino",
+      "statement": {
+        "by": "Ryan W. Baldino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 51"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Council Member/Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Twenty-five years ago. I fell in love with El Segundo when my wife began teaching music at Richmond Street School. We moved here soon after and raised our two sons in this remarkable community. I'm running for re-election to continue serving the town that's given us so much."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an attorney with more than two decades of experience resolving complex disputes, I bring practical, independent judgment to every decision. Before being elected to City Council, I served 14 years on the Planning Commission and chaired the School Bond Citizens Oversight Committee. In 2024, my fellow Council Members honored me by selecting me as Mayor Pro Tem."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Council Member, I've",
+              " kept our budget balanced, supported our first responders, and spent taxpayers' dollars responsibly. I created the Hyperion Ad Hoc Subcommittee, helping pass AB 1216 to require permanent air quality monitoring and public reporting. I've championed long-overdue park improvements, including the plunge renovation and adding new green space at Hilltop Park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proud of what we've accomplished together, and I respectfully ask for your vote so I can continue working for El Segundo."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "John Pickhaver",
+      "statement": {
+        "by": "John Pickhaver",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 36"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Nonprofit CEO/Coach"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a community organizer, nonprofit leader, and Chair of the Arts & Culture Committee, I've worked to solve problems, strengthen our community, and build trust between residents and City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I led the effort to bring greater transparency to the now-withdrawn charter city proposal, helped mobilize residents to defeat a planned data center, advocated for better pedestrian safety, and organized community events that brought neighbors together. Through this work, I've",
+              " sought to ensure underrepresented voices aren't just heard, but included in the decisions that shape El Segundo because I believe local government works best when the people participate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The strongest leaders don't just make policy. They create opportunities for residents to shape it. That's the kind of leadership I'll bring to City Hall. I'll listen before I act, consider competing perspectives, and make thoughtful, transparent decisions in collaboration with residents, businesses, local organizations, and my fellow elected officials."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your support, we'll create an El Segundo that's a community of opportunity where young people can build their future, seniors can remain in the town they love, and teachers, first responders, and other essential workers can call El Segundo home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at johnpickhaver.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

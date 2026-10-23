@@ -1,0 +1,94 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 46",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-46",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:22Z",
+  "candidates": [
+    {
+      "choice": "Jesse Gabriel",
+      "statement": {
+        "by": "Jesse Gabriel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Jesse Gabriel is fighting to make California more affordable, defend democracy, and protect us from the Trump Administration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a member of the California State Assembly, Jesse has been a champion for children, working families, reproductive freedom, small businesses, gun safety, and the environment. He has fought to create jobs, build more affordable housing, cut red tape, and lower the cost of living."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jesse has been a leader in protecting democracy and standing up to the Trump Administration, and fought to pass Proposition 50 – the Election Rigging Response Act."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jesse has championed new laws to require local governments to act with much greater urgency to address our homelessness crisis. He also has delivered critical funding for housing and mental health services while requiring stronger accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jesse has been a national leader in the fight to end gun violence and authored a groundbreaking law which taxes gun industry profits to fund proven community and school safety measures."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jesse previously worked as a constitutional rights attorney where he successfully sued the Trump Administration to protect Dreamers and the DACA program. He also represented Holocaust survivors, victims of domestic abuse, and communities facing hate crimes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A longtime environmental activist and Jewish Federation volunteer, Jesse lives in the Valley with his wife and their three sons."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Jesse Gabriel is endorsed by the Democratic Party, the Los Angeles County Federation of Labor, nurses, educators, firefighters, and community leaders."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote Jesse Gabriel for State Assembly."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Please visit www.JesseGabriel.com for more information."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

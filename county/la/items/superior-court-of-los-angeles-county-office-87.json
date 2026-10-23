@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Superior Court of Los Angeles County, Office 87",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:14Z",
+  "candidates": [
+    {
+      "choice": "David DeJute",
+      "statement": {
+        "by": "David DeJute",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Since graduating from Harvard Law School, ",
+              {
+                "strong": [
+                  "David DeJute"
+                ]
+              },
+              " has practiced at the highest levels of the legal profession, teaching future attorneys at Pepperdine Caruso School of Law, overseeing litigation for Sony Pictures Entertainment, directing a legal clinic providing free legal help for Californians damaged by the Woolsey, Eaton and Palisades wildfires, and serving as an Assistant United States Attorney, where he was honored to represent President Barack Obama."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "David is the only candidate in this race endorsed by the Los Angeles County Democratic Party. He has also earned the support of Stonewall Democratic Club, HONOR PAC, Avance Democratic Club, CAL and a broad coalition of elected officials and community leaders throughout Los Angeles County, including his former opponent in this race, Sharee Sanders Gordon."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "David believes our courts should reflect the people and communities they serve. He and his husband, Eric, have shared forty years together while raising their son, Drake. Along with his distinguished legal career, those experiences have given David a broad perspective and a deep appreciation for the diverse communities that make Los Angeles County unique."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for a judge whose experience, values, and life reflect Los Angeles and the City we want it to be."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Anthony (A.J.) Bayne",
+      "statement": {
+        "by": "Anthony (A.J.) Bayne",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 60"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Deputy Public Defender"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Anthony \"A.J.\" Bayne was rated \"Well Qualified\" by the Los Angeles County Bar Association's Judicial Elections Evaluation Committee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bayne has practiced law for more than 31 years, including 26 years as a Los Angeles County Deputy Public Defender. He spent roughly 19 years handling cases in the Compton courthouse and currently serves as a Deputy Public Defender IV. He has served as lead counsel in more than 100 jury trials to verdict, including murder, robbery, and other serious felony matters. Bayne previously served as a Deputy in Charge, supervising and mentoring attorneys, and has experience handling juvenile delinquency matters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bayne holds a J.D. and an LL.M. in Taxation, the latter earned with honors and is admitted to the State Bar of California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bayne is endorsed by more than 30 sitting and retired judicial officers, the Police Officers Research Association of California, UNITE HERE Local 11, the ILWU Southern California District Council, the Southern California News Group (including the Los Angeles Daily News, Daily Breeze, Long Beach Press-Telegram, Pasadena Star-News, and San Gabriel Valley Tribune), La Opinión, the Metropolitan News-Enterprise, the Mexican American Bar Association, and La Defensa."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bayne believes the law should be applied neutrally, fairly, and with respect for everyone who appears in court."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

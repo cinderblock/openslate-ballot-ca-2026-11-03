@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Claremont Unified School District Board, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:58Z",
+  "candidates": [
+    {
+      "choice": "Krista Elhai",
+      "statement": {
+        "by": "Krista Elhai",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong member of the Claremont community, a product of Claremont schools, a former CUSD teacher for 27 years, and a parent of three CUSD graduates, I understand what makes our district special - and what it needs to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 40 years, I have served students and educators through public education and nonprofit leadership. As a national board member overseeing multi-million-dollar budgets, I have built consensus, asked tough questions, and made responsible decisions that strengthen organizations while keeping people at the center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work to restore long-term fiscal stability, address declining enrollment by making Claremont Unified a destination district, and strengthen partnerships with educators, employee groups, families, and city leaders. I support innovative learning through thoughtful AI integration and research-based technology policies that encourage healthy screen time habits. I also believe we should prioritize student well-being, strengthen the school community, and explore environmentally sustainable improvements to our campuses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring transparency, collaboration, accountability, and practical leadership to every decision. Together, we can preserve what makes Claremont Unified exceptional while preparing our schools for the opportunities ahead."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote. Learn more at ",
+              {
+                "strong": [
+                  "krista4claremont.com"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kathryn Dunn",
+      "statement": {
+        "by": "Kathryn Dunn",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Appointed Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Championing for investments that improve success for all students has been the standard for every action during my first term on the CUSD Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I supported the Family Resource Center, establishing mental health centers at the middle and high schools, expanding Dual Language Immersion and the IB Middle Years Programme, and adding Registered Behavior Technicians to support teachers and students receiving special education services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I approved a three-year technology improvement plan, a highly impactful middle school no-cell-phone policy and construction of a girls' softball field and locker room."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We balanced an $11 million deficit, and our teachers got well-deserved raises."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Baldy View ROP Commission President, I believe we should invest more in career-technical education and develop partnerships with businesses so that our students gain essential career skills."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I listen attentively to parents, teachers and community members. As a special education parent, former newspaper editor, and communications consultant, my experience is rooted in thoughtful analysis, building consensus and optimizing outcomes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When elected officials are doing great work, they deserve another term. Claremont's schools are stronger, more inclusive, and better prepared for the future. The results speak for themselves. I have served with integrity and heart, and I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

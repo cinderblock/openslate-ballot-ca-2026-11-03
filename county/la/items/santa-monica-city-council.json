@@ -1,0 +1,732 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Monica City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-monica",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:04Z",
+  "candidates": [
+    {
+      "choice": "Ashley Oelsen",
+      "statement": {
+        "by": "Ashley Oelsen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Scientist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for Santa Monica City Council because I believe the best decisions are made by bringing people together, listening first, following the facts, and having the courage to change course when the evidence demands it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I pay rent here. I raise my child here. I face the same housing pressures and everyday challenges as thousands of my neighbors. I have the same stake in Santa Monica's future as the people I'm asking to represent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Long before I became a candidate, I was already doing the work, showing up at City Hall, on our beaches, at regulatory hearings, and in our neighborhoods. As a Scientist and serving Santa Monica as Commissioner for Sustainability, Environmental Justice, and the Environment, I've built my career and public service by asking tough questions, examining evidence, and solving complex problems. I've learned that the best solutions come from listening before deciding and working with people, not around them. That's the standard I'll bring to every decision I make as your Councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I don't owe special interests. I owe this community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ericka Lesley",
+      "statement": {
+        "by": "Ericka Lesley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I'm Ericka Lesley, and I'm running for Santa Monica City Council because I believe our city is strongest when every resident has the opportunity to succeed. As a current Rent Control Board Commissioner and longtime community advocate, I've worked to protect renters, expand affordable housing, support working families, and strengthen our local economy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I know that affordability, economic opportunity, and thriving neighborhoods go hand in hand. We need practical solutions that help small businesses grow, create good-paying jobs, keep housing within reach, and ensure longtime residents can continue to call Santa Monica home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to public service is rooted in lived experience and a belief that government should listen, lead with integrity, and put people first. I'm running to bring community voices to City Hall, build partnerships that deliver results, and create a Santa Monica where everyone has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a city that is more affordable, more inclusive, and full of opportunity for every resident. I'm Ericka Lesley, and I ask for your support for Santa Monica City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Because this seat belongs to the community."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lana Negrete",
+      "statement": {
+        "by": "Lana Negrete",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Businessowner/Non-profit founder"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been the honor of my life to serve the community that raised me as your City Councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong Santa Monica resident, small business owner, nonprofit founder, renter, wife, and mother. My family's roots run deep here, and I understand the challenges facing our neighborhoods, local businesses, and families because I live them every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, I helped lead Santa Monica through the Palisades Fire response while keeping residents informed through regular updates and open communication. I launched People's Academy because I believe government should be transparent, accessible, and accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have championed common sense public safety policies, consistently supported our police officers and firefighters, cut unnecessary red tape for small businesses, and advocated for a common sense, accountable approach to homelessness that prioritizes treatment, mental health care, recovery, and safer neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While serving on the Council, I underwent treatment for breast cancer and never missed a Council meeting. That experience reinforced my belief that leadership means showing up, listening, and doing the work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can continue building a safer, cleaner, more transparent, and more prosperous Santa Monica together."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Phil Brock",
+      "statement": {
+        "by": "Phil Brock",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Businessperson/Community Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "I am your neighbor."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Born and raised in Santa Monica, I grew up on these beaches, body-surfed these waves, and played on these fields. This city is",
+              {
+                "strong": [
+                  " my home, my community, my life. "
+                ]
+              },
+              "That is why I am running."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Our city is at a crossroads."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Crime and homelessness demand ",
+              {
+                "strong": [
+                  "urgent, practical solutions & accountability— not idle promises."
+                ]
+              },
+              " I consistently fought to expand our police force and provide real safety for our residents and visitors while vocally pressing federal, state, and county officials to be more responsive. ",
+              {
+                "strong": [
+                  "I will not stop."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We will go ",
+              {
+                "strong": [
+                  "toe-to-toe with Sacramento"
+                ]
+              },
+              " to regain our right to determine our own zoning while adding the",
+              {
+                "strong": [
+                  " affordable housing"
+                ]
+              },
+              " our longtime senior and low-income residents must have."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Here is what I believe — without apology."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This election is about ",
+              {
+                "strong": [
+                  "taking back our city"
+                ]
+              },
+              " from developers who want to demolish our way of life for their profit. Our green spaces are",
+              {
+                "strong": [
+                  " the lungs of Santa Monica"
+                ]
+              },
+              " — we will protect them always. Our small businesses are",
+              {
+                "strong": [
+                  " the soul of this city."
+                ]
+              },
+              " No one gets left behind. ",
+              {
+                "strong": [
+                  "Common Sense!"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Monica's best days are ahead — ",
+              {
+                "strong": [
+                  "if we have the courage to demand them."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "I am Phil Brock. Pro-resident. Pro-local business. Pro-safety. Pro-Santa Monica."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "BrockTheVote.org"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Daniel Ivanov",
+      "statement": {
+        "by": "Daniel Ivanov",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 30"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Santa Monica Rent Control Board Chair/Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbors,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for City Council because Santa Monica should be a place where people can build a life, not just get by."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm the son of immigrants who came to this country with very little and worked multiple jobs to give our family a shot at something better. That upbringing taught me what it takes to move forward against real odds, and it's shaped everything I've done since, as an attorney working on complex legal and policy issues, and as Chair of the Santa Monica Rent Control Board, where I've helped protect one of the strongest tenant protection systems in California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Like so many residents, I rely on the protections that make it possible to live here. I've seen how quickly rising costs can push people out, and how fragile that stability has become for working families, young professionals, and longtime residents alike."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Monica faces real challenges: the cost of living keeps climbing, small businesses are struggling to recover, and residents deserve clean, safe neighborhoods they're proud to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe the answer isn't more division, it's bringing people together to actually solve problems. I'd be honored to earn your vote on November 3, 2026. Learn more about my campaign at www.electdannyivanov.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Eli Gill",
+      "statement": {
+        "by": "Eli Gill",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age:43"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Business Operations Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "I'm Eli Gill"
+                ]
+              },
+              ". Santa Monica has been my home for more than 20 years. It is where my wife and I are raising two children in public schools, living in a rent-controlled apartment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council because ",
+              {
+                "strong": [
+                  "I want our children to inherit a city as full of opportunity as the one that welcomed us"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That means ",
+              {
+                "strong": [
+                  "affordable housing, strong tenant protections, great public schools, safe streets, thriving local businesses,"
+                ]
+              },
+              " and",
+              {
+                "strong": [
+                  " clean, welcoming public spaces"
+                ]
+              },
+              ". It also means a city government that listens and delivers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After a fatal collision at 19th and Idaho, I worked with neighbors to win four-way stops and make our intersections safer. That experience showed me what is possible when neighbors come together and refuse to accept that nothing can change."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring the perspective of a renter, public-school parent, neighborhood advocate, and business operations leader."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proudly endorsed by ",
+              {
+                "strong": [
+                  "Santa Monica Forward"
+                ]
+              },
+              ", former Mayors ",
+              {
+                "strong": [
+                  "Gleam Davis"
+                ]
+              },
+              " and ",
+              {
+                "strong": [
+                  "Pam O'Connor"
+                ]
+              },
+              ", and Councilmembers",
+              {
+                "strong": [
+                  " Jesse Zwick "
+                ]
+              },
+              "and",
+              {
+                "strong": [
+                  " Barry Snell"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe Santa Monica's best days are ahead. ",
+              {
+                "strong": [
+                  "Together, we can build a safer, more affordable, vibrant city where everyone can enjoy an exceptional quality of life."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Brett Morrow",
+      "statement": {
+        "by": "Brett Morrow",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 44"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Health Official/Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a husband, dad, renter, public health leader, former congressional staffer, and member of the Housing and Human Services Commission. I am running to help build a safer, more affordable, and more inclusive Santa Monica."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 25 years, I have advanced progressive values as an activist, volunteer, and public servant. I have worked to protect workers, improve public health, strengthen the social safety net, and help communities navigate complex challenges. I know how to build partnerships, secure resources, and turn ideas into results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "- Affordability: "
+                ]
+              },
+              "Protect renters, make housing more affordable, and ease the cost of living.\n- ",
+              {
+                "strong": [
+                  "Safe, healthy neighborhoods: "
+                ]
+              },
+              "Improve public safety, address homelessness, strengthen mental health and addiction services, and keep our streets, parks, and public spaces clean.\n- ",
+              {
+                "strong": [
+                  "A stronger local economy: "
+                ]
+              },
+              "Support workers, small businesses, and a vibrant Downtown.\n- ",
+              {
+                "strong": [
+                  "Effective government: "
+                ]
+              },
+              "Bring transparency, accountability, collaboration, and practical problem-solving to City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by Assemblymember Rick Zbur, five of Santa Monica's seven City Councilmembers, along with members of the Santa Monica College Board, Rent Control Board, and dozens of leaders across our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.brettmorrowforcitycouncil.com\nInstagram/TikTok/Facebook: @OnlyInSantaMonica"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Caroline Torosis",
+      "statement": {
+        "by": "Caroline Torosis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 40"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mayor/Consumer Protection Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm your Mayor, Caroline Torosis, and I'm asking for your vote to keep Santa Monica moving forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, our city faced a budget shortfall, a struggling downtown, and concerns about safety and affordability. Today, Santa Monica is finally turning a corner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We're cutting red tape and waiving fees so local businesses can open and grow. We've reduced violent crime and burglary to their lowest level in over a decade, so residents and visitors feel safe. We're bringing events downtown, so everyone has more reasons to visit, shop, and dine."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a workers' rights attorney who served six years on the Rent Control Board. As your Councilmember, I've expanded legal help for renters facing eviction and delivered financial assistance that kept more than 250 low-income seniors in their homes. For the first time in over 20 years, every funded police officer position is filled. And while Los Angeles' unhoused population has risen, we've reduced the people living on our streets by nearly a fifth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There's more to do. I'll keep fighting to make Santa Monica safe, clean, affordable and fun. I'd be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by Congressmember Ted Lieu, Senator Ben Allen, and Assemblymember Rick Zbur."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Doug Trussler",
+      "statement": {
+        "by": "Doug Trussler",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Businessman/Coach/Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a 25-year resident of Santa Monica, a husband, a father, and someone who cares deeply about our city. In 2001, I moved to Santa Monica and co-founded an investment firm headquartered near the Promenade that has since partnered with over 45 growing businesses, with a particular focus on healthcare and renewable energy. Over my 35-year career in investing and business management, I have served on more than 50 corporate boards, held CEO, COO, or CFO roles on more than 25 occasions, and managed organizations of all sizes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Monica is not just where I work—it is my home, the community where my wife and I are raising our family, and the place where I hope my children will choose to stay. It is also where I have proudly served the community through AYSO Region 20 as a board member, coach, referee, field manager, and commissioner."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running with a specific mission: to restore Santa Monica's financial strength so that our city can be one of the most socioeconomically diverse, vibrant, and livable communities in America. My priorities are: fiscal transparency and long-term financial discipline, tourism and local businesses, homelessness, public safety, and housing. Visit www.doug4santamonica.com for more information."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lindsay Davis",
+      "statement": {
+        "by": "Lindsay Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 44"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Yoga Instructor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Lindsay Davis, also known as Daisy the Venice Healer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been a member of this community for most of my life, and for nearly a decade I have dedicated myself to creating spaces rooted in connection, healing, service, and environmental stewardship."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My vision for Santa Monica is built on three pillars: Awakening, Biodiversity, and Fellowships. I believe thriving communities begin with personal growth, healthy ecosystems, and meaningful human relationships."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Through community-led and volunteer-run biodiverse food forests, healing circles, beach cleanups, mentoring and service, I have worked to nurture the heart of our community. I bring a spirit of care, compassion and a mothering presence focused on helping people feel connected and valued."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can restore our environment, strengthen neighborhood bonds, reduce isolation, and create a Santa Monica where every resident has the opportunity to belong, contribute, and flourish."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

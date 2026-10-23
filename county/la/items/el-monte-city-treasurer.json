@@ -1,0 +1,162 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Monte City Treasurer",
+    "kind": "race",
+    "jurisdiction": "us/ca/el-monte",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:34Z",
+  "candidates": [
+    {
+      "choice": "Maria Santay",
+      "statement": {
+        "by": "Maria Santay",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 27"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Licensed Insurance Agent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud lifelong resident of El Monte, I can say El Monte is home for many of us. As a proud daughter of immigrants, mother of 2, and neighbor, I, ",
+              {
+                "strong": [
+                  "Maria Santay, "
+                ]
+              },
+              "understand the significance of hard work and securing stability for our families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past decade, I have been dedicated to serving others across the service industry. Today, as a benefits advisor and licensed insurance agent, I get to work with private and public employees, helping them protect and secure their families, financially. These past 4 years have built and strengthened my ability to serve with responsibility and earn the trust of those who I serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for El Monte City Treasurer because I ",
+              {
+                "strong": [
+                  "believe"
+                ]
+              },
+              " that our El Monte residents deserve transparent, responsible, and accountable leadership. Every El Monte resident should be confident that their hard earned, tax payer dollars are being responsibly managed and properly allocated to our city's tomorrow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My goal is to serve the community where I was raised; with honesty and transparency while ensuring public funds are being properly allocated. This is our chance to build a stronger, more financially secure and transparent El Monte where we can continue to grow."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maryann G. Barrios",
+      "statement": {
+        "by": "Maryann G. Barrios",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired Analyst"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Maryann Barrios. I am a retired analyst who has lived in El Monte for the better part of 45 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a bachelor's in business administration (accounting option) and a California CPA certificate (Inactive). I have worked in the non-profit sector for the bulk of my career, and worked in various positions, at various levels of management, and have been responsible for financial statements, government reports and various analytical reports."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would like to serve as City Treasurer because over the years I have been given a good life here in the city. My children grew up here, and my husband's businesses were/are here. El Monte has given us much, and now I have the time and ability to use my talents and pay forward what I was given."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I firmly believe that my background, education and work ethic would truly add value to the City of El Monte."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote for Maryann G. Barrios for El Monte City Treasurer on or before November 3! Thank you."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Xiaohu Meng",
+      "statement": {
+        "by": "Xiaohu Meng",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 53"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With more than 25 years of experience in finance, budgeting, accounting, and public service, I have dedicated my career to fiscal responsibility, transparency, and accountability. I earned bachelor's and master's degrees from Nankai University and a master's degree from UW with studies in Computer Science and Accounting. Through my professional career, business experience, and service in my homeowners association, I have managed budgets, strengthened financial oversight, and promoted responsible governance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Treasurer, I will work to protect public funds, increase financial transparency, oppose unnecessary tax increases, support affordable housing, and ensure City Hall serves residents, not special interests, with integrity and accountability. I am committed to providing clear financial reporting, promoting prudent investment of city funds, and ensuring careful oversight of taxpayer resources. Strong fiscal management is essential to safeguarding taxpayer dollars while maintaining the quality services our community depends on."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe government should be open, accountable, and responsive to the people it serves. Through honest leadership, sound financial management, and active community engagement, we can build a stronger, more transparent, and financially responsible city government that serves every resident with integrity. I would be honored to earn your trust and your vote for City Treasurer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.votejeffmeng.com - (626) 863-8814 - citytreasurer3@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

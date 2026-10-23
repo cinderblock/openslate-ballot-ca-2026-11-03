@@ -1,0 +1,156 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clarita City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clarita",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:35Z",
+  "candidates": [
+    {
+      "choice": "Brett Haddoak",
+      "statement": {
+        "by": "Brett Haddoak",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Software Engineer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've called Santa Clarita home my entire life, and my family's roots in our community span over five decades. My grandfather helped build our region's infrastructure, working on the Castaic Lake Dam and the 5 and 14 freeways. My mother spent nearly 20 years serving Santa Clarita students in our public schools. Today, my wife and I are raising our daughter in this community that has given so much to our family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner and software engineer for over 20 years, I've built practical solutions to complex problems. It's that perspective that will allow me to successfully serve this city that I love. Growing up here has given me a firsthand understanding of Santa Clarita's opportunities and challenges. We need better access to emergency healthcare, more quality local jobs, less time spent in traffic, and effective solutions to homelessness."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've worked on many of these issues already, volunteering over 1,000 hours with Bridge to Home, serving on Santa Clarita's Homelessness Task Force, and developing software supporting the Shared Housing Program. I hope to continue my service to our community on the City Council, solving problems and delivering results that strengthen our community for the next generation."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Denise Lite",
+      "statement": {
+        "by": "Denise Lite",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 56"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Family Legal Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for Santa Clarita City Council for simple reasons: I live here, I'm raising my family here, and I care deeply about keeping this city the special place it is for the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Clarita is one of the safest, cleanest cities in California, and I intend to keep it that way. As a Family Legal Advocate and businesswoman, I've spent my career helping people through some of the hardest moments of their lives. I'm proud to have served this community on the Planning Commission and on numerous local nonprofit boards."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have real challenges ahead. Thousands of new homes are coming, and traffic is a growing concern. I support responsible growth, paired with the infrastructure, roads, and trails to do it right. And I'll always stand with our firefighters and sheriff's deputies who keep our families safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This isn't a stepping stone for me. I'm not seeking higher office, and I don't need the salary. I am doing this because I care so I'll donate a portion of my council stipend back to local nonprofits that make this community great."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll show up, I'll do the work. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Denise Lite\nElectDeniseLite.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gloria Mercado-Fortine",
+      "statement": {
+        "by": "Gloria Mercado-Fortine",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator/Business Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a life-long resident of Santa Clarita I care deeply about our city and our quality of life. Santa Clarita is a great place to live, work and raise a family. As an educator, public servant, small business owner and nonprofit leader, I have dedicated myself to helping build this community. As a former Hart School District Governing Board member, for 16 years, I worked on the passage of two school bonds to build schools and provide successful quality education. I advocated partnerships with College of the Canyons and businesses. I worked as a teacher, principal and district level administrator for the second largest school district in the nation, Los Angeles Unified School District, overseeing 125 schools, with a budget of over 150 million dollars. As past president of the SCV Sheriff's Foundation I have worked to provide resources that support public safety and protect families, seniors, neighborhoods and businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Crime Prevention and Traffic safety\n- Smart growth and Sustainable Public Infrastructure\n- Economic Development\n- Environment and Open Space\n- Responsive and Transparent Leadership"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work collaboratively to bring people together, find common ground and deliver practical solutions that improve people's lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will be honored to have your vote. Gloriaforsantaclarita.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

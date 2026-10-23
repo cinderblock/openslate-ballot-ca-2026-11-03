@@ -1,0 +1,138 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Glendora City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/glendora",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:52Z",
+  "candidates": [
+    {
+      "choice": "Karen K. Davis",
+      "statement": {
+        "by": "Karen K. Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 64"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Pastor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family and I have enjoyed being in Glendora for more than 30 years. For the past 21 years, it has been my privilege to serve on your City Council, always putting our community first. During that time, we've strengthened Glendora by investing in what matters most: public safety, maintaining streets and renovating parks, responsible budgeting, and projects that improve everyday life, including the Glendora Public Market, Urban Trails, Village enhancements, transportation connections to the A Line, and the Diamond Ridge Center. I believe a strong community is one where people of every age and every neighborhood have the opportunity to thrive. That's why I've supported quality parks, local businesses, open space preservation, improved city facilities, and a variety of housing options so that more people can build their future in Glendora. As your councilmember, I will continue listening, leading with integrity and compassion, and making thoughtful decisions that protect what makes Glendora unique while preparing for the future. I respectfully ask for your vote on November 3, 2026, so together we can continue building a safe, welcoming, and thriving Glendora for generations to come."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lindsey Morgan",
+      "statement": {
+        "by": "Lindsey Morgan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 43"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Realtor/HS Cheer Coach"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Lindsey Morgan, and I am proud to call Glendora home. As a parent of two children, one completing high school in the Glendora public school system and another attending a local private school I understand the importance of strong schools, safe neighborhoods, and a connected community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love Glendora's small-town charm, rich history, and close-knit spirit. If elected to represent District 4, I will be a voice for every resident, no matter what side of the freeway you call home. My priorities include creating safer outdoor spaces for children and families, supporting dog parks, and improving lighting in neighborhoods and public areas to enhance safety for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will also advocate for greater understanding and discussion regarding long-standing school district boundary concerns affecting the south side of Glendora and the Charter Oak area, with the goal of exploring solutions and providing clarity for families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Glendora is a special community, and I believe we are strongest when we work together. I would be honored to serve in District 4 and help preserve the character, safety, and unity that make our city such a wonderful place to live."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ralph Munoz",
+      "statement": {
+        "by": "Ralph Munoz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 50"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Attorney/Business Owner/Community Leader"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 41 years, Glendora has been my home, where my wife and I have raised our family and where I have dedicated time serving our community. As an attorney, community volunteer, and local leader, I have dedicated my career serving others through thoughtful leadership, sound judgment, and a commitment to doing what is right."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am seeking your support for Glendora City Council because our city deserves leadership that is accessible, accountable, fiscally responsible, and guided by both the law and our community's values. I believe every decision should be made with integrity, transparency, and a commitment to serving our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "One of Glendora's greatest needs is maintaining and improving our infrastructure while protecting taxpayers. As an attorney with a Master's Degree in Public Health from Loma Linda University, experience as a businessman and developer, and leadership as Chair of the Damien High School Consultative Board, I will bring sound judgment, strategic fiscal planning, and collaborative leadership to the City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will support our first responders, maintain and improve our streets, parks, and public infrastructure, encourage responsible economic growth while preserving Glendora's unique character, and always put our residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

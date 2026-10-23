@@ -1,0 +1,672 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rosemead — Measure RC (City Charter)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/rosemead",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:22:46Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the City of Rosemead Charter be adopted to establish Rosemead as a charter city to have more authority over municipal affairs, imposing term limits on City Councilmembers, establishing the position of City prosecutor, permitting use of City funds for economic development, continuing following California law for limiting compensation for Councilmembers, and giving the City Council authority to adopt an ordinance giving veterans and disabled veterans preference in awarding contracts? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Mayor Sandra Armenta; Councilman Steven Ly ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Barbara Murphy; Nancy Eng; Frances Chavez"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "fullText": {
+    "title": "Full Text of Ballot Measure Rc",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "EXHIBIT A"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CITY OF ROSEMEAD\nCITY CHARTER"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "PREAMBLE"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "We, the people of Rosemead enact this Charter to preserve and enhance the economic and social quality of life in our community. Resolutely committed to the belief that local government has the closest affinity to the people governed, and firm in the conviction that the economic and fiscal independence of our local government will promote the health, safety and welfare of all the citizens of this City. We do hereby exercise the express right granted by the Constitution of the State of California to enact and adopt this Charter for the City of Rosemead and to ensure that all municipal affairs that may be controlled by the City as a local control shall be."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "ARTICLE 1\nGOVERNANCE"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.1. Incorporation and Succession"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall continue to be a municipal corporation known as the City of Rosemead. The boundaries of the City of Rosemead shall continue as now established until changed in the manner authorized by law. The City shall remain vested with and shall continue to own, have, possess, control and enjoy all property rights and rights of action of every nature and description owned, had, possessed, controlled, or enjoyed by it at the time this Charter takes effect, and is hereby declared to be the successor of same. It shall be subject to all debts, obligations and liabilities, which exist against the City at the time this Charter takes effect. All lawful ordinances, resolutions, rules and regulations, or portions thereof, in force at the time this Charter takes effect and not in conflict with or inconsistent herewith, are hereby continued in force until the same have been duly repealed, amended, changed or superseded by proper authority."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.2. Council-Manager Form of Government"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The municipal government established by this Charter shall be known as the \"Council-Manager\" form of government."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.3. Governing Body"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall be governed by a City Council composed of five Council Members. The adoption of this Charter shall not in any way alter the current terms of sitting Council Members or the date of elections for City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.4. City Council Salaries"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Council Members shall receive compensation for their services in accordance with the provisions of State law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.5. Eligibility for City Council"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Only persons meeting the requirements set forth in the general laws of the State of California shall be eligible to run for City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.6. Elections for City Council Members"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "All elections shall be held in accordance with the provisions of the California Elections Code governing municipal elections."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.7. Council Vacancies"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The determination as to when a Council Member has vacated their Council seat and the process for filling such vacancy shall be as set forth in the California Government Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 1.8. Term Limits"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The purpose of this section is to create more competitive elections by ensuring that periodically the advantages of incumbency of a City Council Member will yield to increased citizen participation in seeking elective office."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "No person shall be a candidate for election to the office of City Council Member after having served as a City Council Member for five consecutive or non-consecutive four-year terms, either by election or appointment. This section shall apply prospectively only, and neither the current term as of the effective date of this Charter, nor any prior terms, of sitting Council Members shall be counted as one of the five consecutive four-year terms described herein."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Any person who, either by appointment or election, serves a partial term of office as a member of the City Council shall be deemed, for the purpose of this section, to have served a full four-year term. Any member of the City Council who resigns or is removed from office during a term shall be deemed to have served a full term."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "ARTICLE 2 "
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "MUNICIPAL AFFAIRS"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.1. Municipal Affairs"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council may adopt and enforce all ordinances, resolutions, rules and regulations in respect to municipal affairs, subject only to restrictions and limitations provided in this Charter, the United States and California Constitutions and applicable, laws and decisions of courts with competent jurisdiction. With respect to any municipal affair not expressly addressed in this Charter, until such municipal affair is expressly addressed in this Charter, or until the City legislates over such municipal affair by the adoption of an ordinance(s), the general laws of the State of California shall govern."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.2. Powers of the City"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This City shall have all powers that a City can have under the Constitution and laws of the State of California as fully and completely as though they were specifically enumerated in this Charter. The enumeration in this Charter of any particular power, duty or procedure shall not be held to be exclusive of, or any limitation or restriction upon, this general grant of power."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall have the power to make and enforce all laws and regulations in respect to municipal affairs, subject only to such restrictions and limitations as may be provided in this Charter and in the Constitution of the State of California. The City shall also have the power to exercise, or act pursuant to any and all rights, powers, privileges or procedures, heretofore, or hereafter established, granted or prescribed by any law of the State, by this Charter, or by other lawful authority, or which a municipal corporation might or could exercise, or act pursuant to, under the Constitution of the State of California. The enumeration in this Charter of any particular power shall not be held to be exclusive of, or any limitation upon, the generality of the foregoing provisions. This Charter shall be liberally construed to vest the City with all legal authority and powers necessary to protect the health, safety and general welfare of all of the citizens of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "No person, firm or corporation shall ever exercise any franchise, license, permit, easement, privilege or other use, except in so far as he or it may be entitled to do so by direct authority of the Constitution of the State of California, or of the Constitution or laws of the United States, in, upon, over, under or along any street, highway or other public place in the City unless they shall have first obtained a grant therefor in accordance with the provisions of this Charter. Franchises shall be granted by the City Council only in the time and manner, and for such purposes, as may be prescribed or authorized by the constitution or by applicable laws of this state."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City may exercise all or any of the powers herein set forth singly or jointly with other public agencies in the manner provided by general law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.3. Enterprises"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall have the power to engage in any enterprise deemed necessary to produce revenues for the general fund or any other fund established by the City Council to promote a public purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.4. Economic Development"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall encourage, support, and promote economic development and community development in the City. The City shall have the power to utilize revenues from the general fund to encourage, support and promote economic development. The City may undertake economic development activities for the purpose of promoting the general health and welfare of the inhabitants of the City, job creation, improving market rate and affordable housing options, improving retail and commercial options, improving dining, entertainment and recreation options, and improving the City's tax base thereby furthering the City's ability to enhance and provide municipal services to its residents. The economic development activities authorized by this section are municipal affairs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.5. Officers and Employees"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council may, by ordinance, establish a merit system for City employees. Such system may include provisions for the method of the selection of employees, the classification, advancement, suspension, discharge, termination of such employees, and the consolidation and elimination of positions. The said merit system shall apply as to each office or position of employment with the City, except:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Elective and appointive officers;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Part-time or temporary officers and employees; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. Members of boards and commissions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Such system may be established or amended, by ordinance of the City Council, from time to time, as may be required in the discretion of the City Council in the public interest."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.6. City Prosecutor"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall have the authority to establish an office of City Prosecutor. Such establishment will be by adoption of ordinances and resolutions which direct the City Attorney or another qualified attorney to prosecute on behalf of the people any or all criminal cases arising from violation of the provisions of this Charter, City ordinances and such state misdemeanors as the City has the power to prosecute, unless otherwise provided by the City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.7. Fines, Penalties and Cost Recovery"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall have the power to enact ordinances providing for different penalties for violations of its ordinances, and/or this Charter, and to prescribe in such ordinances, forfeitures, penalties and punishments for the violation thereof, which punishment shall be by fine or imprisonment, or by both fine and imprisonment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 2.8. General Law Powers"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Nothing in this Charter shall be construed to prevent or restrict the City from exercising any and all rights, powers and privileges heretofore or hereafter granted or prescribed by the general law of the State of California. All general law powers of cities in California are hereby declared to be possessed by the City. In the event of any conflict between the provisions of this Charter and the provisions of the general laws of the State of California, the provisions of this Charter shall control."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "ARTICLE 3"
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "Fiscal Matters"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 3.1. Purchasing and Contracts"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council may, by ordinance, adopt purchasing and contracting procedures, thresholds and requirements within its municipal affairs authority."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 3.2. Preference for Veterans"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council may, by ordinance, adopt purchasing and contracting procedures, which give to veterans and disabled veterans a credit of additional points, preference or increased grading in the determination of awards of contracts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Documentary proof of eligibility for Veteran's Preference Credits and exemption from the eligibility limitation must be submitted prior to approval of the City. In the case of a tie grade between a veteran and non-veteran, the veteran shall be ranked highest."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 3.3. Reductions Prohibited"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Revenues raised and collected by the City shall not be subject to subtraction, retention, attachment, withdrawal or any other form of involuntary reduction by any other level of government."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 3.4. Mandates Limited"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "No person, whether elected or appointed, acting on behalf of the City shall be required to perform any function which is mandated by any other level of government, unless and until funds sufficient for the performance of such function are provided by said mandating authority."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "ARTICLE 4 "
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "AMENDMENT"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "4.1 Amendment"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Charter and any of its provisions may be amended by a majority vote of the electors voting on the questions. Amendment, revision or repeal may be proposed by initiative or by the governing body."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "ARTICLE 5 "
+            ]
+          },
+          "\n",
+          {
+            "strong": [
+              "INTERPRETATION"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 5.1. Construction and Interpretation"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The language contained in this Charter is intended to be permissive rather than exclusive or limiting and shall be liberally and broadly construed in favor of the exercise by the City of its power to govern with respect to any matter which is a municipal affair."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 5.2. Severability"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If any provision of this Charter should be held by a court of competent jurisdiction to be invalid, void or otherwise unenforceable, the remaining provisions shall remain enforceable to the fullest extent permitted by law."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney Impartial Analysis of Measure Rc",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure RC, which was placed on the November 3, 2026, ballot by the City Council, asks whether voters wish to adopt a charter for the City of Rosemead (“City”). If approved, the City would become a “charter city” where the proposed charter would operate as the City’s “constitution”."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "California has two kinds of cities: general law and charter. General law cities are governed by general law—meaning State law—and only have those powers defined by the State Legislature. The California Constitution authorizes charter cities. Charter cities have greater control over their “municipal affairs”, but must follow general laws regarding matters of “statewide concern”, which include laws relating to open meetings, public records, environmental protection, bargaining with employee associations, and certain housing and zoning matters. All cities must comply with U.S. and California constitutions. Although the State Legislature may define what constitutes “statewide concern”, courts ultimately decide whether a matter is a “statewide concern”."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If adopted, the proposed charter would:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Form of Government: Continue the City’s council-manager form of government."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. City Council Term Limits: Impose term limits of five consecutive or non-consecutive four-year terms on City Councilmembers, which would apply prospectively, with partial terms counting as full terms. Although general law cities may impose term limits, the City currently has no term limits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. City Prosecutor: Authorize the City to establish the office of City Prosecutor, which would have the authority to prosecute violations of the City’s ordinances and certain State misdemeanors. As a general matter, general law cities only have the authority to prosecute violations of their ordinances and certain crimes with consent from the District Attorney."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. Economic Development: Authorize the City to utilize its general fund revenues upon economic development in the City. General law cities have limited authority to support economic development projects."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. Purchasing and Contracts; Veterans Preferences: Authorize the City to adopt its own purchasing and contracting procedures by ordinance, rather than following State requirements. This includes purchasing and contracting that give veterans and disabled veterans a credit of additional points when the City is awarding contracts. General law cities may only grant preferences to disabled veterans."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The charter would not affect Councilmember compensation or elections. If adopted, the charter can only be amended by a majority vote of the City’s voters."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “YES” vote on Measure RC is a vote to adopt the charter and become a charter law city."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A “NO” vote on Measure RC is a vote against adopting the charter and the City would remain a general law city."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Measure will be effective only if a majority (50% + 1) of voters voting on the Measure vote in its favor."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "RACHEL RICHMAN\nCity Attorney\nCity of Rosemead"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of the Measure. If you desire a copy of the Measure, please call the City of Rosemead’s City Clerk’s Office at (626) 569-2100 and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

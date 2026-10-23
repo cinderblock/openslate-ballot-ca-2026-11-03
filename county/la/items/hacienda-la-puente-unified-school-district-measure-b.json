@@ -1,0 +1,65 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Hacienda La Puente Unified School District — Measure B (School Board Term Limits)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:22:52Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall members of the Board of Education of the Hacienda La Puente Unified School District be limited to serving no more than two (2) four-year terms during their lifetime regardless of the trustee area represented? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " None submitted ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "Impartial Analysis of Measure B",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure was placed on the ballot by the governing board (Board) of the Hacienda La Puente Unified School District (District). If approved by a majority of the votes cast on the measure, this measure will establish a limit on the number of terms an elected Board member may serve to two (2) full four-year terms during their lifetime."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "There is currently no limit on the number of terms that an elected member may serve on the Board. This measure establishes a limit on the maximum number of terms an elected member may serve on the Board to two (2) full four-year terms during that elected member's lifetime, regardless of the trustee area represented."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved, this measure will apply prospectively and any full four-year term served on or after November 3, 2026 will count toward the term limit."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 2,
+        "text": [
+          "NO ARGUMENT FOR OR AGAINST THIS MEASURE WAS SUBMITTED"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "Dawyn R. Harrison, County Counsel"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pico Rivera City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/pico-rivera",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:14:03Z",
+  "candidates": [
+    {
+      "choice": "Johnny Garcia",
+      "statement": {
+        "by": "Johnny Garcia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My heart and passion is Pico Rivera. It is not just my hometown; it is where I was educated, married my wife, purchased our home, raised my family, and continue to serve the community I love."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since being elected to the City Council, I have served as Mayor and represented Pico Rivera on the Los Angeles County Sanitation Board. In both roles, I have worked with commitment, integrity, and a deep respect for the residents who trust us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have strengthened Pico Rivera's financial future, maintained strong reserves, earned an AA credit rating, and adopted balanced budgets investing in public safety, streets, parks, and infrastructure. We have secured major grant funding, advanced improvements to Smith Park Aquatic Center, Rio Hondo Park, street resurfacing, and water system upgrades, while supporting new businesses, housing, and projects that improve life for families, seniors, and youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities: safe streets, clean water, and parks; responsible economic development; strong public safety; and fiscal responsibility and transparency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue working hard, staying humble, listening to residents, and putting Pico Rivera first. With your vote, I would be honored to keep serving and building a stronger, safer, more prosperous Pico Rivera."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gustavo V. Camacho",
+      "statement": {
+        "by": "Gustavo V. Camacho",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your Mayor, it has been the honor of my life to serve the residents of Pico Rivera. Together, we have strengthened our city's financial future by maintaining balanced budgets, building strong financial reserves, and making responsible decisions that protect taxpayer dollars while investing in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have improved public safety, welcomed new businesses and investment, created a new dog park, enhanced neighborhoods through citywide landscape beautification, and launched ongoing road improvements across the city. My commitment to strong financial management and responsible planning has contributed to property values increasing at a higher rate than many neighboring cities, reflecting continued confidence in Pico Rivera's future. The new Smith Park Aquatic Center is under construction, and the revitalization of Whittier Boulevard will bring new businesses, create jobs, and expand opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rio Hondo Park will soon begin its long-awaited reconstruction, adding another important community improvement and creating new recreational opportunities for families to enjoy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of what we have accomplished together, I remain committed to transparent leadership, fiscal responsibility, safe neighborhoods, and continued investment in projects that enhance our community. I respectfully ask for your vote so we can continue moving Pico Rivera forward together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.GustavoCamacho.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Genaro Moreno",
+      "statement": {
+        "by": "Genaro Moreno",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Service"
+                ]
+              },
+              " has been the foundation of my life, and I believe leadership begins with ",
+              {
+                "strong": [
+                  "honesty"
+                ]
+              },
+              ",",
+              {
+                "strong": [
+                  " listening, serving, and bringing people together."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than ",
+              {
+                "strong": [
+                  "20 years"
+                ]
+              },
+              ", I have proudly served as a ",
+              {
+                "strong": [
+                  "law enforcement officer"
+                ]
+              },
+              " with the ",
+              {
+                "strong": [
+                  "Los Angeles School Police Department"
+                ]
+              },
+              ". As a longtime ",
+              {
+                "strong": [
+                  "Pico Rivera resident"
+                ]
+              },
+              ", ",
+              {
+                "strong": [
+                  "father,"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Realtor"
+                ]
+              },
+              ", and founder of ",
+              {
+                "strong": [
+                  "Angela's Wings"
+                ]
+              },
+              ", I have helped families achieve ",
+              {
+                "strong": [
+                  "homeownership"
+                ]
+              },
+              ", supported efforts that helped make ",
+              {
+                "strong": [
+                  "Pico Rivera's dog park"
+                ]
+              },
+              " a reality, improved the lives of ",
+              {
+                "strong": [
+                  "animals"
+                ]
+              },
+              ", and provided ",
+              {
+                "strong": [
+                  "scholarships"
+                ]
+              },
+              " to local students pursuing careers in ",
+              {
+                "strong": [
+                  "veterinary medicine"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My ",
+              {
+                "strong": [
+                  "faith in God"
+                ]
+              },
+              " has taught me the values of ",
+              {
+                "strong": [
+                  "compassion, humility, integrity, and service"
+                ]
+              },
+              "."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work to:\n- ",
+              {
+                "strong": [
+                  "Reduce crime"
+                ]
+              },
+              " and ",
+              {
+                "strong": [
+                  "strengthen public safety"
+                ]
+              },
+              ".\n- Increase ",
+              {
+                "strong": [
+                  "transparency and accountability"
+                ]
+              },
+              " in city government.\n- Support our ",
+              {
+                "strong": [
+                  "small businesses"
+                ]
+              },
+              " and create ",
+              {
+                "strong": [
+                  "opportunities for our youth"
+                ]
+              },
+              ".\n- Promote ",
+              {
+                "strong": [
+                  "responsible animal welfare"
+                ]
+              },
+              ".\n- Protect the ",
+              {
+                "strong": [
+                  "quality of life"
+                ]
+              },
+              " that makes Pico Rivera a wonderful place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Most importantly, I will ",
+              {
+                "strong": [
+                  "listen"
+                ]
+              },
+              ", be ",
+              {
+                "strong": [
+                  "accessible"
+                ]
+              },
+              ", and work alongside residents to ",
+              {
+                "strong": [
+                  "solve"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "problems"
+                ]
+              },
+              ". ",
+              {
+                "strong": [
+                  "Every voice deserves to be heard, respected, and represented."
+                ]
+              },
+              " Together, we can build a ",
+              {
+                "strong": [
+                  "safer, stronger, and more united Pico Rivera"
+                ]
+              },
+              "."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

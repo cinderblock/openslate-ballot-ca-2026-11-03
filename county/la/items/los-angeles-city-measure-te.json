@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure TE (Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:19Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "PROPERTY TRANSFER TAX EXEMPTION FOR VICTIMS OF JANUARY 2025 FIRE DISASTER. PROPOSITION TE."
+            ]
+          },
+          " Shall an ordinance be adopted to provide a one-time exemption from the City's special documentary transfer tax (Proposition ULA) for residential properties that were damaged or destroyed in the Palisades Fire and are sold within five years of the date of the Fire? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Councilmember Park; Mayor Bass; Council President Harris-Dawson; Western States Carpenters; Palisades Community Council ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "Los Angeles City General Municipal Election",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Information regarding the ",
+          {
+            "strong": [
+              "Los Angeles City Measures TE, LA, PL, EE, PRK, PRT, FD,"
+            ]
+          },
+          " and ",
+          {
+            "strong": [
+              "SC"
+            ]
+          },
+          " may be obtained from the City of Los Angeles, City Clerk – Election Division website at ",
+          {
+            "strong": [
+              "clerk.lacity.gov"
+            ]
+          },
+          " or by calling ",
+          {
+            "strong": [
+              "(213) 978-0444"
+            ]
+          },
+          "."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

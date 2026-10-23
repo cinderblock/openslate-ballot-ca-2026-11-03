@@ -1,0 +1,198 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Downey City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/downey",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:25Z",
+  "candidates": [
+    {
+      "choice": "Lissette Rivera",
+      "statement": {
+        "by": "Lissette Rivera",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Business Woman/CEO"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a longtime Downey resident, former City Public Works Committee Member, small business owner, mother of four, and wife of a U.S. Navy veteran, I am committed to serving the community that I proudly call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My record reflects a lifetime of service. As Co-Founder and President/CEO of ",
+              {
+                "strong": [
+                  "WOLF (War On Lethal Fentanyl),"
+                ]
+              },
+              " I have partnered with the Downey Unified School District to provide fentanyl awareness, prevention, and education programs that have reached thousands of students, and school employees, helping protect our youth, families and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council because Downey deserves responsive leadership that puts people first. My priorities are keeping our neighborhoods safe, repairing our streets, sidewalks, and infrastructure, supporting small businesses, and attracting STEM and technology industries that create high-paying jobs and strengthen Downey's workforce, protecting seniors, families, and veterans, and bringing accountability back to City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe in listening to the residents, and making decisions that support our local economy, and preserve the quality of life that will make Downey one of the most transparent cities in California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Together, we can keep Downey safe and moving forward."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you and God Bless."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "lissetterivera.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Carrie Uva",
+      "statement": {
+        "by": "Carrie Uva",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 61"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Estate Planning Attorney & Real Estate Broker"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hi Downey! My name is CARRIE UVA. I have called Downey home for over 60 years. As a Trust Attorney, Real Estate Broker and senior advocate, my life's work is deeply rooted in serving our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chair of the Planning Commission and Measure S & D Oversight Committees, I believe character counts in public service. I bring proven integrity, legal expertise and fiscal accountability to local government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Public Safety: "
+                ]
+              },
+              "Partner directly with the Downey Police Department to prevent crime, recruit and retain qualified officers and strengthen local Neighborhood Watch programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Quality of"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Life: "
+                ]
+              },
+              "Protect our neighborhoods by improving street lighting, increasing community cleanliness and implementing effective traffic-calming measures on residential streets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Balanced Budget: "
+                ]
+              },
+              "Protect taxpayer dollars through vigilant financial oversight. Having monitored city expenditures for years, I will ensure Police and Fire remain fully funded essential priorities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Small Businesses: "
+                ]
+              },
+              "Utilize my experience as past Chamber of Commerce President to cut red tape, streamline permitting and foster a thriving business environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Active with the Community Emergency Response Team (CERT), Kiwanis, and local charities, I will ensure Downey residents have a strong voice at City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote. CARRIE UVA for Downey City Council. 562-417-2068."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.CarrieUvaForDowney.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

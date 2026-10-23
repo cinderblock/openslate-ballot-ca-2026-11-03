@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "William S. Hart Union High School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:21:25Z",
+  "candidates": [
+    {
+      "choice": "Julee Brooks",
+      "statement": {
+        "by": "Julee Brooks",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Education Nonprofit Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Hart Union High School District Board of Trustees because our schools are strongest when guided by leaders who understand our community, listen to families, and put students first. As a Hart District parent with one son at Hart High and another graduating from our district in 2033, I have a long-term stake in our schools and our community's future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a first-generation college graduate and the parent of a child with autism, I know every student's path is different, and I would be honored to bring my experience and collaborative approach to serving our students, families, and educators."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve on the Board of the Santa Clarita Valley Education Foundation, as Fundraising Chair for the Hart High Show Choir Boosters, and previously as a PTA Treasurer. Professionally, I have spent 25 years serving children and schools, currently leading a nonprofit that partners with school districts to serve 30,000 students a year, and I was appointed back to serve on California's Advisory Committee for Before and Afterschool Programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will support safe schools, responsible stewardship of taxpayer dollars, strong support for teachers, academic standards, student mental health, and expanded college and career pathways."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bryan Biggers",
+      "statement": {
+        "by": "Bryan Biggers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I'm Bryan Biggers — a Hart graduate and a Hart dad. My wife and I grew up in Santa Clarita and attended local schools. We're raising our children here, two of them in Hart district schools this year. For 15 years I've coached local kids — AYSO, SCV Flag Football, Flying Phoenix Track Club, and SCV Mountain Bike Team."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also co-founded a local construction company, where I've spent my career managing budgets, meeting deadlines, and answering for results. The Hart board oversees nearly half a billion dollars annually. I understand balance sheets, and I'll ask the hard questions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strong students require strong teachers, solid opportunity, and safe schools. I'll fight for the resources our teachers need, adequate Honors, AP, and Career Technical Education so every student can excel, and campuses that are secure and staffed by those who know and care for our students — because learning doesn't happen if a child doesn't feel safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why parents need a board that listens, provides straight answers, and maintains fiscal accountability. Every student deserves to be safe, respected, and well taught —without exception. I'd be honored to do the job."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

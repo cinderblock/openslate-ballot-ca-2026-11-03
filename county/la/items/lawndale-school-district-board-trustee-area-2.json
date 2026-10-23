@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lawndale School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:17:44Z",
+  "candidates": [
+    {
+      "choice": "Shirley Rudolph",
+      "statement": {
+        "by": "Shirley Rudolph",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My late husband, Councilman Larry Rudolph and I lived our 55 ½ year Married life in Lawndale. We raised our Three Sons here and ALL Five of US Graduated from Lawndale Schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have proven my Dedication and Commitment to Youth by donating 45+ years to Lawndale Little League Baseball; 12 ½ years to the City of Lawndale's Parks, Recreation Social Services Commission; Lawndale Kiwanis Club Charter Board Member and Lawndale High School Key Club Advisor for 14 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "THANK YOU for allowing me to be YOUR Representative on this Board for the past years. I have served YOU well. I have proven my Accessibility to ALL and I have been YOUR VOICE for the Betterment of Education for ALL of Our Students, Our Schools and Our Community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am seeking Re-Election to the Lawndale Elementary School Board because of my continuing interest in the Quality of Life for Lawndale's Young People.\nI need YOUR support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "TOGETHER we can SUCCESSFULLY move our CHILDREN through The 21st CENTURY."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ASK FOR YOUR VOTE"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Varun Tamrakar",
+      "statement": {
+        "by": "Varun Tamrakar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 39"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator/Parent/Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a South Bay father, I'm passionate about improving LESD. My girls went to Mitchell's preschool, Smith Elementary, and currently attend Addams Middle. If elected, I would bring firsthand knowledge of families' experiences in the district today. Since 2019, I've been heavily involved as a volunteer and elected parent leader, and I bring 20 years experience as an educator. With half our students performing below average in math and reading, I will passionately push for more rigorous academics, exciting classroom experiences, and robust family support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "From 2020, I was Smith's PTA President, Parliamentarian and Treasurer. District-wide, I was the Council PTA President and District Parent Advisory Committee President. Last year, I successfully advocated for a new PTA at Addams and a new district program for gifted/high achieving students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every day, as Academic Services Director of a nonprofit learning center, I directly support struggling and low-income students. I provide reading/math, Advanced Placement class, SAT instruction and help students apply to college."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A vote for Sunny puts a current parent/educator in the boardroom. I know how students learn and will be a passionate advocate for parents and students, determined to push LESD to do its best for all students."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

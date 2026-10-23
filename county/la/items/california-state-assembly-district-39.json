@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 39",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-39",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:16Z",
+  "candidates": [
+    {
+      "choice": "Juan Carrillo",
+      "statement": {
+        "by": "Juan Carrillo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Working families in our community are getting squeezed, and too many leaders are out of touch with what that feels like. Good paying local jobs are hard to find. Many parents drive long distances just to make ends meet. Our public schools need to prepare kids for real careers, not just graduation day. And no family should have to delay healthcare because they're worried about the bill."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I came to this country from Mexico looking for opportunity. I worked as a dishwasher to put myself through school, earned a degree, became a city planner and was elected your state Assemblymember. I've never forgotten where I started or who I represent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the Assembly, I've focused on bringing better jobs closer to home, making housing more affordable for working families and seniors, investing in public education, and expanding access to healthcare. I've fought to raise wages and protect workers because no one who works hard should struggle to keep the lights on."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of my work delivering millions back to our community to improve parks, build quality housing, and clean up our neighborhoods, there is still so much more that needs to be done. I will never stop fighting for working families – bringing down the cost of housing, providing access to quality healthcare and ensuring safe neighborhoods and schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am supported by the California Democratic Party, Planned Parenthood, and labor unions representing teachers, nurses, firefighters and healthcare workers. I'd be honored to have your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

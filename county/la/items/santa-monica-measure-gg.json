@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Monica — Measure GG (Amend Santa Monica Rent Control Law)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-monica",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:16Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "MEASURE GG: Shall the City Charter be amended to: affirm the City of Santa Monica's just cause eviction laws; allow Rent Control Board Commissioners to serve up to three terms, including appointed service; annually increase the cap on rent controlled unit registration fees; clarify Rent Control Board authority to regulate timelines for deciding rent adjustment petitions; and permit eviction from affordable housing units for tenants who are not eligible or do not establish eligibility? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " RCB Chair Danny Ivanov; Tracy Condon; Councilman Dan Hall; Juan Matute; Fmr RCB Chair Bruria Finkel ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " None submitted."
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  },
+  "analysis": {
+    "title": "City Attorney's Impartial Analysis of Measure Gg",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure GG amends the Santa Monica Rent Control Law, Article XVIII of the Santa Monica City Charter (“RCCA”) and the City’s “Housing Policies” eviction protections, Article XXIII of the Santa Monica City Charter (“HPCA”) by (i) clarifying term limit provisions for Rent Control commissioners; (ii) amending procedures for increasing the maximum rent control unit registration fee; (iii) clarifying Rent Control Board authority to regulate timelines for issuing decisions on rent adjustment petitions; (iv) providing two just cause grounds for eviction from deed restricted affordable housing units; and (v) affirming local eviction laws prevail over state law. Measure GG was placed on the ballot by the Santa Monica City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The RCCA governs the administration of the Rent Control Board (“RCB”). The RCCA provides that RCB Commissioners may serve no more than two 4-year terms. Measure GG allows Commissioners to serve up to three 4-year terms, counting appointed terms, and treating a partial term of more than two years as one term."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The RCCA provides that the maximum annual unit registration fee for rent controlled units is $288. Beginning in 2028, Measure GG adjusts the maximum annual registration fee by inflation up to 5%, only when inflation is positive."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The RCCA provides that the RCB shall adopt regulations that provide for issuing a decision on any individual rent adjustment petition within 120 days after filing of the petition. Measure GG allows the RCB to adopt regulations extending this timeline for good cause."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Both the RCCA and the HPCA (together, “RCCA-HPCA”) prohibit evictions except as provided by law. The RCCA does so for rent-controlled units and the HPCA does so for other units, excluding single-unit dwellings and condominiums. Measure GG amends the RCCA-HPCA to allow evictions from deed restricted affordable housing units of tenants who (1) are not eligible under the terms of the deed restriction, where the landlord has complied with all applicable guidelines for terminating the tenancy, or (2) fail or refuse to provide proof of eligibility for the deed restricted affordable housing unit when required to do so by the deed restriction, and after the landlord has requested proof of eligibility in writing."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure GG finds that the RCCA-HPCA are more protective than state just cause eviction law and protects the RCCA-HPCA from being pre-empted by less protective state just cause eviction law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "HEIDI VON TONGELN\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Measure GG. If you desire a copy of the Measure, please visit santamonica.gov/elections/2026-11-03 or call the Santa Monica City Clerk's Office at 310-458-8211 and a copy will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/",
+    "by": "City Attorney"
+  }
+}

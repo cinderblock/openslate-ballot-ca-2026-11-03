@@ -1,0 +1,189 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Downey City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/downey",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:22Z",
+  "candidates": [
+    {
+      "choice": "Hector Sosa",
+      "statement": {
+        "by": "Hector Sosa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 52"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Financial Services Professional/Downey Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I grew up in Downey. For nearly 20 years, I have served through Gangs Out Of Downey, Kiwanis, DJAA, and WDLL."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor and Councilmember, I brought stability back to City Hall—staff noted my term was \"one of the most active and engaged in recent history.\""
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Priorities:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Fiscal Responsibility &"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Accountability: "
+                ]
+              },
+              "Chaired the budget subcommittee, delivering Downey's 14th consecutive balanced budget. Voted against Council pay increases and opposed extending term limits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Public Safety &"
+                ]
+              },
+              " ",
+              {
+                "strong": [
+                  "Health: "
+                ]
+              },
+              "Full support for Police and Fire. Initiated Downey's first Men's Mental Health Awareness Fair and first Non-Profit Summit to connect families with support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Small Businesses & Culture: "
+                ]
+              },
+              "Spearheaded a CUP tiered fee structure cutting red tape. Advocated for family-friendly establishments and diverse dining options. Brought the LA Philharmonic to Downey and supported the Downey Symphony and Arts Coalition."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- ",
+              {
+                "strong": [
+                  "Community Outreach & Leadership: "
+                ]
+              },
+              "Attentive to resident concerns, working directly with staff to install needed stop signs. Active leadership on SELACO Workforce Development, ICA, LA County Services Commission, Veterans and Downtown Downey subcommittee, and DFEO Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Supported by Police, Fire, Veterans, and Education Leaders."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dedicated to keeping Downey safe,",
+              " financially sound, and thriving. Re-elect a proven leader.\nVote HECTOR SOSA. 562-413-1533."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.HectorSosaforDowney.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maria Zaragoza",
+      "statement": {
+        "by": "Maria Zaragoza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 50"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Fiscal Analyst/Mother"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Downey resident for over 20 years, I have proudly raised my two children in this community. They are graduates of Downey's public schools, and our family has experienced firsthand what makes our city such a special place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a hardworking mother and Fiscal Analyst, I understand the importance of responsible budgeting, transparency, and making every taxpayer dollar count."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Downey City Council because District 2 deserves leadership that puts residents first. Our community needs a representative who listens, leads with integrity, and focuses on the issues that matter most."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are keeping our neighborhoods safe, repairing streets and infrastructure, supporting local small businesses, protecting seniors and families, and restoring transparency and accountability at City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every resident deserves to be heard. Together, we can strengthen our local economy, preserve the quality of life that makes Downey a great place to live, and ensure our city government is responsive, responsible, and focused on serving the people."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote. Together, we can build a stronger, safer, and more accountable Downey for current and future generations. Thank you, and God bless everyone."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

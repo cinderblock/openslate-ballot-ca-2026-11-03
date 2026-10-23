@@ -1,0 +1,197 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "West Covina City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/west-covina",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:30Z",
+  "candidates": [
+    {
+      "choice": "Leslie Garcia",
+      "statement": {
+        "by": "Leslie Garcia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 27"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Atmospheric Scientist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Leslie Garcia, a lifelong West Covina resident and Atmospheric Scientist running to represent District 2 on our City Council. This City raised me. From volunteering at the West Covina library to founding the Best Buddies chapter at Edgewood High School, I have been serving my community since childhood. These experiences showed me that public service means uplifting people, expanding opportunity, and ensuring everyone has a voice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At City Hall, I will protect residents from federal immigration enforcement by ending the city's contract with Flock Safety, I'll establish clear procedures for city employees, and connect families with legal and emergency aid."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We can make West Covina more affordable by opposing working - class fees like street sweeping tickets, advancing tenant protections and rent stabilization, and partnering with other levels of government to fund public services without bankrupting the city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will propose a ban against data centers that threaten our valuable resources, and quality of life. I will ensure small businesses survive rising costs and economic disruption. I will streamline city processes, revitalize dead spaces, and oppose deals that shift costs onto small businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "West Covina's District 2 deserves leadership grounded in science, integrity, and community, I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Letty Lopez",
+      "statement": {
+        "by": "Letty Lopez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Director/Mayor/Councilwoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a wife, mother, and resident of West Covina, I am honored and grateful to currently serve as your Mayor and Councilwoman of West Covina."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With 25+ years in LA & Pasadena Parks and Recreation with a background as a Community Service Commissioner, I have dedicated my life to serving the people and my community. I plan on continuing that same path as your Councilwoman, using my experience to continue building:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Strong Communities"
+                ]
+              },
+              ":",
+              " Partnering with organizations and schools that build upon great programs to serve our youth and seniors and assist those in need."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Public Safety"
+                ]
+              },
+              ":",
+              " With populations over 100,000, we have been recognized as one of the safest cities in the US during my time in office."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Economic development"
+                ]
+              },
+              ": Launched \"Taste of West Covina\" to promote local businesses and bring in destinations for food, culture, and community like Haven City and Texas Roadhouse."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Safe & Clean Parks"
+                ]
+              },
+              ":",
+              " Through the Parks Master Plan, I will continue my efforts to keep parks clean and safe for our residents to gather and children to play"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote to continue building a safer, stronger, and more vibrant West Covina for generations to come. Re-elect Letty Lopez on November 3rd!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Carlos Yado",
+      "statement": {
+        "by": "Carlos Yado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 42"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Fire Safety Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a West Covina resident, husband, father, soccer coach, and public safety professional, I am committed to preserving what makes West Covina special while building an even stronger future for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 20 years, I have served in leadership roles in fire safety, building safety, code enforcement, and community and economic development. Today, I serve as a Fire Safety Executive with the California State University Chancellor's Office, providing executive leadership for statewide fire and life safety programs that support the safety of more than 530,000 students, faculty, and staff across California's 22 universities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council because West Covina deserves transparent leadership, responsible financial stewardship, safe neighborhoods, thriving local businesses, and well-maintained parks where families can live, play, and prosper."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Growing up in a family-owned business taught me the value of hard work, accountability, and treating people with respect. Those values continue to guide every decision I make."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Council Member, I will listen, lead with integrity, make informed decisions, and always put the interests of West Covina residents first. Together, we can strengthen our neighborhoods, protect taxpayer dollars, and build an even brighter future for West Covina."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

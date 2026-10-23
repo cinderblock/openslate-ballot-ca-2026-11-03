@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Arcadia City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/arcadia",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:10:06Z",
+  "candidates": [
+    {
+      "choice": "Michael Cao",
+      "statement": {
+        "by": "Michael Cao",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Arcadia Councilmember/Cardiologist"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Air Force Major and USC Arcadia cardiologist, my duty and privilege was service to our country and the public."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You honored me to serve as your councilmember for four years, protecting Arcadia. Public safety is our top priority. As Mayor during the 2025 wildfires, I helped coordinate Arcadia's swift and successful efforts to protect ourselves and help our neighbors. Today, crime is low, our budget is balanced, and our community is safe. Arcadia has the highest possible bond rating, AAA. I am proudly endorsed by our partners, the Arcadia Police and Fire associations along with LA County Sheriffs and Peace Officers groups."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2022, I asked for your vote, promising to create a health commission, focus on safety, and build fiscal strength. But most of all, I promised to listen to your voices, reflect, learn and lead."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Promises made. Promises kept."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "But our work is not done. My wife and I want our children to grow up in their lifelong home: a healthy, safe, prosperous Arcadia. We want the same for you and yours, too. Protecting our beautiful city and continuing to serve you would be a great honor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote for Dr. Michael Cao."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steve Rhee",
+      "statement": {
+        "by": "Steve Rhee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Arcadia is more than where my family lives; it is the community we are proud to call home. As a husband, father, small business owner, and longtime volunteer, I know strong cities depend on leaders who will listen and are transparent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 17 years, I have put this belief into action. As President of the Arcadia Education Foundation, I support the top-ranked district in North America. Following the 2025 Eaton Fire, I led a fundraiser raising over $154,000 for 14 displaced teachers. I chaired our Lunar New Year Festival for the last three years and a member with the Chamber of Commerce, Champions Lions Club, and Tournament of Roses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a dedicated problem-solver, I am committed to keeping crime out of Arcadia, addressing homelessness effectively, and maintaining fiscal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My goal is to unite Arcadia around transparency and to listen closely to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to keep our city safe, strong, and thriving."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

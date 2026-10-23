@@ -1,0 +1,106 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 51",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-51",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:18:25Z",
+  "candidates": [
+    {
+      "choice": "Rick Chavez Zbur",
+      "statement": {
+        "by": "Rick Chavez Zbur",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Rick Chavez Zbur has dedicated his life to fighting for equality and justice. As a civil rights leader, environmental lawyer, and now our Assemblymember, Rick has fought tirelessly against President Trump's attacks on our communities and worked to deliver results for working families and small businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the Assembly, Rick has authored critical legislation to protect LGBTQ+ and Jewish students from hate and discrimination in schools, advance civil rights and defend reproductive freedom, combat climate change, expand access to affordable healthcare, and tackle California's housing affordability crisis. And he has fought to stop Trump's ICE raids from terrorizing our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Last year, Rick passed the California Film & TV Jobs Act to create thousands of good-paying union jobs and support small businesses across our district. In 2024, he chaired the Assembly Select Committee on Retail Theft and passed the California Retail Theft Reduction Act to help prevent organized retail crime and keep workers, customers, and small business owners safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Now Rick is running for re-election to ensure that every Californian — regardless of who they are, what they look like, where they were born, or where they live — has the opportunity to get ahead. Because we deserve an Assemblymember who will never back down from a fight."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why Rick is the only candidate for Assembly endorsed by:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nurses,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Firefighters,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Civil Rights Organizations,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Planned Parenthood,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "California Environmental Voters,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Small Business Owners,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And the California Democratic Party."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "By November 3rd, Vote to Re-Elect Rick Chavez Zbur for State Assembly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit rickchavezzbur.com for more information."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

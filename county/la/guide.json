@@ -1,0 +1,20 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "title": "Los Angeles County: candidate statements and local measures, November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Los Angeles County Registrar-Recorder/County Clerk",
+      "uri": "https://www.lavote.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T11:24:07Z",
+    "sources": [
+      "https://apps.lavote.gov/candidate-statements/",
+      "https://isb.lavote.gov/"
+    ]
+  }
+}

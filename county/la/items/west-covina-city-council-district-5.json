@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "West Covina City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/west-covina",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:15:36Z",
+  "candidates": [
+    {
+      "choice": "Fredrick Fred Sykes",
+      "statement": {
+        "by": "Fredrick Fred Sykes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Commissioner/Retired Police"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hello, I am Fredrick Sykes, former Mayor of West Covina, Member of the L.A. County Commission on Human Relations, Member of the Mt. S.A.C. Civilian Oversight Committee and Retired L.A. County Deputy Sheriff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I first came to office during the Great Recession. I inherited a crisis: million-dollar deficits, reduced staffing, and proposals to sell public land."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, those problems have returned. West Covina is again running deficits while spending on an unnecessary City health department, subsidizing a frequently closed Sportsplex, and losing employees to a toxic environment. Corruption and fraud have again placed City assets at risk of sale."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The years I served on the Council were a time of recovery and stability, when many of you chose to build a life here and raise your children. Together, we saved Shadow Oak Park, restored staffing, and brought discipline back to the budget. We didn't impose burdens like weekly street-sweeping parking restrictions. Instead, we created an environment where businesses like Porto's saw West Covina as a jewel."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your support to get back to basics, bring stability to City Hall and put the City back to working for the residents as it did when I was a member of the West Covina City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for Fredrick Sykes!\nwww.FredrickSykes.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Tony Wu",
+      "statement": {
+        "by": "Tony Wu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Councilman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the past four years, we have worked hard to make West Covina a vibrant, safe, and proud city. As your current Councilman, I am proud of what we have accomplished together:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Strengthened City Finances: Increased the City's financial reserves from $9 million to more than $24 million while maintaining a balanced budget through responsible fiscal management.\n- Supported Local Businesses: Attracted new businesses and investment to create jobs, strengthen our local economy, and expand services for residents.\n- Enhanced Public Safety: Hired 20 additional police officers and expanded emergency response capabilities by acquiring one quint truck, two fire engines, and five ambulances.\n- Improved Infrastructure: Invested in parks, streets, traffic improvements, ADA accessibility, and neighborhood beautification to enhance residents' quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the next four years, I will continue working to build a:\n- Safe City – Strengthen public safety to keep our neighborhoods clean, secure, and welcoming.\n- Vibrant City – Deliver responsive, customer-focused city services while supporting economic growth and community development.\n- Proud City – Position West Covina as a premier destination for business, entertainment, education, and the arts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can continue building a safe, strong, and vibrant West Covina."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Tony Wu on November 3!"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

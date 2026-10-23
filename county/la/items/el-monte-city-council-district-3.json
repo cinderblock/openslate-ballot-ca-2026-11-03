@@ -1,0 +1,137 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Monte City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/el-monte",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:11:39Z",
+  "candidates": [
+    {
+      "choice": "Julia Ruedas",
+      "statement": {
+        "by": "Julia Ruedas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Educator/Councilwoman"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong El Monte resident, I am running for City Council District 3 to continue serving our community because we deserve ",
+              {
+                "strong": [
+                  "experienced leadership"
+                ]
+              },
+              " that puts ",
+              {
+                "strong": [
+                  "people first"
+                ]
+              },
+              "!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience as an ",
+              {
+                "strong": [
+                  "Educator, Public Servant, "
+                ]
+              },
+              "and ",
+              {
+                "strong": [
+                  "Policy Analyst",
+                  " "
+                ]
+              },
+              "has prepared me to build on the progress we've made through honesty, collaboration, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we've strengthened neighborhoods, supported local businesses, expanded park improvements, improved public safety and infrastructure, and invested in families and future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe the best decisions come from listening to residents, working collaboratively, and finding solutions that reflect our shared values and move our community forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilwoman, I will continue taking bold action to:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "1. Public Safety: Strengthen community policing and neighborhood security.\n2. Reduce Homelessness and Expand Affordable Housing: Through supportive services and stable housing opportunities.\n3. Infrastructure Improvements: Invest in safer streets, better roads, and cleaner public spaces.\n4. Business Growth: Attract new businesses, support small businesses, and create jobs.\n5. Invest in Families: Senior services, workforce development, and reopen Pioneer Park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support. ",
+              {
+                "strong": [
+                  "TOGETHER, "
+                ]
+              },
+              "we can continue creating meaningful change:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "For our People. For our Future. For El Monte."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote JULIA RUEDAS for El Monte City Council, District 3."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "www.VoteRuedas.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

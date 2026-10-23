@@ -1,0 +1,151 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "William S. Hart Union High School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:21:27Z",
+  "candidates": [
+    {
+      "choice": "Joe Messina",
+      "statement": {
+        "by": "Joe Messina",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was elected to the Hart Board with a mandate to strengthen and expand Career Technical Education (CTE). While the challenge was greater than expected, we've made tremendous progress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The next step is a ",
+              {
+                "strong": [
+                  "true state"
+                ]
+              },
+              "-",
+              {
+                "strong": [
+                  "of"
+                ]
+              },
+              "-",
+              {
+                "strong": [
+                  "the"
+                ]
+              },
+              "-",
+              {
+                "strong": [
+                  "art CTE Center "
+                ]
+              },
+              "that prepares students for successful careers. As Artificial Intelligence changes the workforce, skilled professions such as plumbing, electrical work, welding, construction, culinary arts, cosmetology, healthcare, and others remain essential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we've achieved:\n- Hired a full-time Career Technical Education Director focused on expanding opportunities for students.\n- 92% of Hart District seniors have taken at a CTE course before graduation.\n- Secured millions of dollars in CTE grant funding.\n- Expanded to more than 30 career pathways, including construction, skilled trades, healthcare, technology, and more."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to:\n- Protect your tax dollars and ensure students have the educational and mental health resources they need.\n- Give parents a strong voice and meaningful input in their children's education.\n- Advocate for opportunities for every student–whether they choose a college, trade, military, or another path."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Let's finish what we started "
+                ]
+              },
+              "and ensure every student has the opportunity to discover their passion and build a successful future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Joe4Hart.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Stacy Fortner",
+      "statement": {
+        "by": "Stacy Fortner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Mother/Technology Consultant"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a resident of Valencia, daughter of a school bus driver, and a committed leader in our community, I am running for William S. Hart Union High School District Governing Board to ensure every student has access to a high-quality education that prepares them for success in college, careers, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our schools should provide strong academics, safe learning environments, and opportunities that help students develop the skills needed to thrive in an ever-changing world. As a trustee, I will focus on academic excellence, responsible stewardship of taxpayer dollars, transparency in decision-making, and meaningful engagement with parents, teachers, students, and community members."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our district's success depends on supporting outstanding educators, maintaining fiscal responsibility, and keeping students at the center of every decision. By working collaboratively and listening to the diverse voices of our community, we can continue to strengthen our schools and build confidence in district leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to thoughtful leadership, accountability, and ensuring that William S. Hart Union High School District remains a place where all students can learn, grow, and achieve their potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Electstacyfortner.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

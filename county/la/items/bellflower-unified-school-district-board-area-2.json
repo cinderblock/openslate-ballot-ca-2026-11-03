@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Bellflower Unified School District Board, Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:09:39Z",
+  "candidates": [
+    {
+      "choice": "John Paul Drayer",
+      "statement": {
+        "by": "John Paul Drayer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hi, Bellflower! Four Generations of my family and I attended Bellflower Schools. I graduated from Bellflower High in 1980 and went on to Cerritos College (A.A.),",
+              " CSULB (B.A.),",
+              " & CSUDH with my Masters in Education, CTE, Teaching & Counseling Credentials. In 2012 & 2014 Bellflower residents elected me to the Cerritos College Board. I have over 35 years of experience in Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was instrumental in requesting a full state audit of Bellflower Unified, which uncovered millions being mismanaged while Special Education, Regular Education & Gifted students lacked basic funding."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Platform:\nSchool Safety: Implementing proactive Safety Measures at all schools to learn without fear."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Student Success: Fostering innovative programs to lead to College, Career, & Vocational success!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Balanced Budget: Work together with all Stakeholders to create a 3 year Balanced Budget to prevent a State takeover of the District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Affordability: Working to make quality education affordable for all Bellflower Families, especially before & afterschool programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "johnpauldrayer@icloud.com (562) 331-5028\nI humbly ask for your vote. www.JohnPaulDrayer4BUSD.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Renita Armstrong",
+      "statement": {
+        "by": "Renita Armstrong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I'm Renita Armstrong, running for re-election to the Bellflower Unified School District Board of Education to continue advocating for our students. As a 25-year Bellflower resident, mother of five Bellflower High graduates, and Early Childhood Special Education Specialist with over 30 years of experience, my dedication to our district is both personal and professional."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Unprecedented challenges have required courageous, innovative governance. Every decision I make prioritizes what is best for our entire District, ensuring our students are fully prepared for college and career pathways. Looking ahead, we must work collaboratively alongside our new Superintendent to make the tough decisions needed to improve educational outcomes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nobody knows children better than parents, and nobody works harder for them than teachers. Real progress happens when educators and families have a seat at the table. I will continue prioritizing partnership over politics—bringing parents, teachers, administrators, and community members together through mutual respect rather than conflict."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your support to remain your advocate on the governance team."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Vote Renita Armstrong for Bellflower Unified School District Board of Education."
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

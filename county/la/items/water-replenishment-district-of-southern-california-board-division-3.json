@@ -1,0 +1,209 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Water Replenishment District of Southern California Board, Division 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:21:02Z",
+  "candidates": [
+    {
+      "choice": "Al Austin",
+      "statement": {
+        "by": "Al Austin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Water is our most vital resource, crucial for daily life. Southern California's future is uncertain as traditional water sources like the Colorado River and Sierra snowpacks become less dependable due to climate change."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to serve as your representative on the Water Replenishment District governing board to protect our groundwater and ensure a sustainable future for our communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former three-term city councilmember and current Public Utilities Commissioner in Long Beach, I have provided clean, safe, and reliable water services to nearly half a million residents for over a decade."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities as your next WRD Director will include:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "- Keeping rates affordable\n- Making long-term sustainable investments\n- Building groundwater capacity and resilience\n- Creating local jobs\n- Partnering with community stakeholders"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will champion smart water policies and solutions that connect our communities and guarantee reliable water for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can create a sustainable water future for Southern California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for Al Austin for Water Replenishment District, Division 3."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit AlAustinforWRD.com for more information."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Tracy Burns",
+      "statement": {
+        "by": "Tracy Burns",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Water Replenishment District to bring practical leadership, fiscal responsibility, and accountability to protecting our local water supply."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a retired Los Angeles County Sheriff's Sergeant, local small-business owner, mother, former MOMS Club President, and PTA board member, I have a long history of public and community service. Today, I continue that commitment as a DAR board member and through volunteer organizations serving veterans and youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear: protect the quality and reliability of our groundwater, reduce dependence on expensive imported water, invest wisely in infrastructure, control unnecessary costs, and ensure taxpayer dollars are spent carefully and transparently."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring independent oversight, common sense, and a strong work ethic to the Water Replenishment District, with a commitment to protecting both our water and the families who depend on it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "TracyBurns2026.com"
+                ]
+              }
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mike Murchison",
+      "statement": {
+        "by": "Mike Murchison",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 61"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Water Preservation Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We deserve a future with access to clean, reliable, and affordable drinking water. That's why who represents you on the Water Replenishment District is important. We need a leader with direct experience preserving and protecting Southern California's most valuable natural resource.\nI'm a Long Beach native who attended Wilson High School and USC and have since dedicated my career to bringing together communities, public agencies, and environmental stakeholders to solve complex water infrastructure and conservation challenges.\nI'll use my experience to:\n",
+              {
+                "strong": [
+                  "DELIVER AFFORDABLE WATER:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protect our groundwater basins, invest wisely in replenishment, and ensure a reliable, affordable water supply for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "PROTECT TAXPAYERS:"
+                ]
+              },
+              "\nEvery dollar should be accounted for, spending should be transparent, and infrastructure investments should deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "PLAN FOR TOMORROW:"
+                ]
+              },
+              "\nAs we continue to battle record droughts and climate change, we must create a sustainable system that protects our water resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring practical problem solving, fiscal responsibility, and an independent perspective. I believe in transparent decision making, careful oversight of public funds, and working collaboratively with local cities, water agencies, businesses, and residents to develop long-term solutions that protect our water resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "PROTECT OUR WATER. PROTECT OUR FUTURE."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote. Learn more at VoteMikeMurchison.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

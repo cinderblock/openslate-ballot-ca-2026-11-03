@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Compton Community College District Board, Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:16:02Z",
+  "candidates": [
+    {
+      "choice": "Peter K. Parker",
+      "statement": {
+        "by": "Peter K. Parker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 63"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Retired College Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Peter K. Parker, 63, is a candidate for Compton Community College District Board of Governors, Area 4. A proud product of California's community colleges, Peter earned degrees in liberal arts, human services, comparative literature, and English, then served eighteen years as a full-time English professor at Orange Coast College."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At OCC, Peter served as academic senate president, led semester abroad programs in Paris, and helped build a web of collaboration across campus. He understands shared governance, curriculum, student services, and the real challenges students face."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Peter's life also includes accountability and recovery. Years ago, after experiencing severe legal consequences for bad choices made, he had to rebuild his life one honest choice at a time, one day at a time. Today, with years in recovery, he knows community college can be the facility for second chances, where people rebuild their lives, discover purpose, and turn adversity into opportunity and opportunity into service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Peter is running to put students first: strengthening instruction and services, supporting responsible innovation, expanding opportunity, and helping students complete their goals. With great responsibility comes the duty to listen, act with integrity, and serve the community. Peter will do these things, and he asks for your vote on November 3."
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Juanita Doplemore",
+      "statement": {
+        "by": "Juanita Doplemore",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Juanita Doplemore\nIncumbent, Compton Community College District Board of Trustees, Area 4\nServing as your Board of Trustee President has been one of the greatest honors of my life. Guided by the principles of duty, discipline, and service, I remain committed to expanding opportunity and ensuring Compton College provides affordable, high-quality education for students and families throughout our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your incumbent Trustee, I have supported support initiatives that strengthen academic achievement, expand Career Technical Education and workforce training, modernizing our campus, enhancing dual enrollment with local school districts, improve campus safety, and build partnerships connecting education to careers. I also guided/led supported support for the Compton College Student Housing Project, a transformational investment that will reduce housing insecurity and help students remain focused on completing their education.\nI believe every student deserves access to college regardless of finances. That is why I remain committed to expanding financial aid awareness, increasing college readiness, and creating pathways to high-demand careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If when re-elected, I will continue providing responsible fiscal stewardship, supporting academic excellence, expanding workforce opportunities, and ensuring Compton College remains a source of opportunity for families across Paramount, Bellflower, North Long Beach, Lakewood, Compton, and the communities we serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to re-elect Juanita Doplemore for Compton Community College District Board of Trustees, Area 4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "DOPLEMORE FOR COMMUNITY COLLEGE BOARD 2026, FPPC ID#1445106"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Angeles City — Measure EE (City Ethics, Elections, and Governance)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:23:23Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "CITY ETHICS, ELECTIONS, AND GOVERNANCE. CHARTER AMENDMENT EE."
+            ]
+          },
+          " Shall the City Charter be amended to: increase the authority of the Police Department Inspector General and Fire Department Independent Assessor; prohibit Ethics Commissioners from running for certain elected offices for five years; increase penalties for campaign finance violations; require City Council to meet at least weekly rather than the currently required three days per week; increase referendum petition signature requirements; and make other changes regarding ethics, elections and governance? ",
+          {
+            "strong": [
+              "Supporters:"
+            ]
+          },
+          " Tim McOsker, LA City Councilmember; Katy Yaroslavsky, LA City Councilwoman; Marqueece Harris-Dawson, LA City Councilmember ",
+          {
+            "strong": [
+              "Opponents:"
+            ]
+          },
+          " Monica Rodriguez, Los Angeles City Councilwoman, District 7"
+        ]
+      }
+    ],
+    "source": "https://isb.lavote.gov/"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Monterey Park City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/monterey-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T11:13:38Z",
+  "candidates": [
+    {
+      "choice": "Steven Kung",
+      "statement": {
+        "by": "Steven Kung",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 49"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Filmmaker/Community Organizer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Monterey Park made history by becoming the first city in the nation to ban data centers by popular vote; I was one of the leaders of this movement, and I'm extremely proud of what we accomplished. Together with neighbors and local organizers, I co-founded No Data Center Monterey Park. At rallies and council meetings, I pushed back against corporate lobbyists, demanded transparency from City Hall, and called out the developer's intimidation tactics. I held those in power accountable while building the coalitions needed to win."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This fight showed me what's possible when a community organizes around shared values such as protecting clean air, quiet neighborhoods, and affordability. Winning by a landslide made me dream of all the things we could accomplish with this momentum: enhance the walkability of the city, build more housing, revitalize our downtown, and develop Saturn Park into the neighborhood hub we want it to be. Our victory presents a unique opportunity to realize that vision on city council. I'm running to represent District 5 because I... you... we all love Monterey Park enough to take responsibility for it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Questions? Email kung4mpk@gmail.com or visit www.KungforMPK.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Vinh T. Ngo",
+      "statement": {
+        "by": "Vinh T. Ngo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Age: 52"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Occupation: Monterey Park Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Monterey Park gave my immigrant family the opportunity to prosper, and I've spent my life giving back. I grew up here attending: Monterey Vista, Garvey, Mark Keppel, then earned USC Accounting and Finance degrees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When an industrial data center threatened our neighborhoods, I acted. I brought the emergency moratorium to the Council and launched the legislative process that became Measure NDC - delivering a permanent, 88% voter-approved ban, and making Monterey Park the first city in America to prohibit data centers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You also elected me to keep our neighborhoods safe and our city strong. We delivered:\n- Stronger police and fire departments\n- Over half our streets resurfaced, plus $25 million in infrastructure, water, and sewer upgrades\n- Funding for the Barnes Park Aquatic Center\n- Streamlined permitting and revitalized business corners\n- Three straight balanced budgets with surpluses"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I donate every Council stipend back to our schools, library, police, fire, and local nonprofits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll continue to empower Monterey Park, ensuring it as the best place to Live, Work and Play."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proudly endorsed by Congresswoman Judy Chu, Senator Sasha Renée Pérez, Senator Maria Elena Durazo, Assemblymember Mike Fong, and Supervisor Hilda Solis."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote to re-elect me to City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: VinhtNgo.com"
+            ]
+          }
+        ],
+        "source": "https://apps.lavote.gov/candidate-statements/",
+        "disclaimer": "Statements are volunteered by the candidates and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}
