@@ -11,6 +11,7 @@ export type Block =
   | { type: "table"; caption?: string; rows: { header?: boolean; text: Inline[] }[][] }
   | { type: "img"; file: string; alt?: string };
 export interface Passage {
+  title?: string;
   by?: string;
   blocks: Block[];
   source: string;
@@ -33,6 +34,7 @@ export interface Argument {
   title?: string;
   blocks: Block[];
   signers: Signer[];
+  footnote?: string;
   paid?: boolean;
   funding?: string;
   source: string;

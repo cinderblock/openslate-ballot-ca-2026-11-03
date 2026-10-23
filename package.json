@@ -8,7 +8,8 @@
   "scripts": {
     "fetch-openslate": "bun scripts/fetch-openslate.ts",
     "scrape": "bun scripts/scrape-ca-vig.ts",
-    "check": "bun .openslate/packages/cli/src/index.ts guide check guide",
+    "scrape:sf": "bun scripts/scrape-sf-vip.ts",
+    "check": "bun scripts/check-all.ts",
     "build-site": "bun scripts/build-site.ts",
     "format": "biome format --write .",
     "lint": "biome check ."
@@ -19,6 +20,7 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "parse5": "^8.0.1"
+    "parse5": "^8.0.1",
+    "pdfjs-dist": "^6.4.299"
   }
 }

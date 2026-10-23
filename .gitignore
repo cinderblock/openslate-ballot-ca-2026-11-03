@@ -15,3 +15,7 @@ bun.lockb
 
 # The signed manifest is a CI build artifact, not committed source
 guide/guide.jws
+county/*/guide.jws
+
+# Large originals (county pamphlet PDFs): only their URL and SHA-256 are committed
+.cache/

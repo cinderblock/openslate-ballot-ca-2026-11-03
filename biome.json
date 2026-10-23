@@ -16,6 +16,16 @@
     "formatter": { "quoteStyle": "double", "trailingCommas": "all" }
   },
   "files": {
-    "ignore": ["**/dist", "**/node_modules", "**/.openslate", "orgs/**/signed.slate", "/index.json"]
+    "ignore": [
+      "**/dist",
+      "**/node_modules",
+      "**/.openslate",
+      "**/.cache",
+      "orgs/**/signed.slate",
+      "/index.json",
+      "guide/**",
+      "county/**",
+      "evidence/**"
+    ]
   }
 }
