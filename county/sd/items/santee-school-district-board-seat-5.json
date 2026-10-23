@@ -1,0 +1,108 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santee School District Board, Seat 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "candidates": [
+    {
+      "choice": "Steven Dobesh",
+      "statement": {
+        "by": "Steven Dobesh",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Steven Dobesh is a proud Santee parent of two Carlton Oaks School students, a former U.S. Navy Commanding Officer, and an experienced business leader with a proven record of leadership, fiscal responsibility, and public service.\nAs the father of an 11-year-old son and 9-year-old daughter, Steven understands the importance of providing every child with a safe, supportive, and high-quality education. For the past four years, he has served on the Carlton Oaks School Site Council, working alongside parents, teachers, and administrators to strengthen the school community. During his 21-year Navy career, Steven led high-performing organizations and served in senior leadership positions at sea and at the Pentagon. Today, he serves as President and Chief Financial Officer of an international technology company, overseeing finance, legal affairs, strategic planning, and corporate governance.\nSteven is committed to preserving Santee’s strong schools, supporting teachers, and advancing academic excellence, school safety, fiscal responsibility, transparency, and accountability. He believes every decision should be guided by what is best for students and would be honored to serve the students, families, teachers, and taxpayers of the Santee School District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steven is proudly endorsed by the Santee Teachers Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at www.stevendobeshforsanteeschools.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Uday Sinha",
+      "statement": {
+        "by": "Uday Sinha",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Uday Kumar Sinha and am a parent. I hold masters degree in Computer Science from University of North Texas and have bachelors degree in Electronics and Communication Engineering and have MIT xPro certificate in Designing and Building AI Products and Services from Massachusetts Institute of Technology. I have worked in leading technology companies such as Google, Qualcomm, Meta and more in various roles as Software Engineer for 30+ years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for member of the Board. With my skills and multi-faceted long experience in technology area, I can make significant contribution to advancing school to leading school districts in the state. Students arrive to school daily, hungry to learn and later, they ought to become leaders in society. Future has many challenges and my focus will be to promote policies and opportunities to help achieve their full potential to become what they truly want to achieve and for those who want to become leaders in arts, science, engineering, and society they get instruction and guidance to achieve just that as well through enhanced STEM and ARTS, robotics, scholarship, magnet programs, access to facilities of excellence such in Olympics and more. Thank you for considering me."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Matthew C. McKell",
+      "statement": {
+        "by": "Matthew C. McKell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent, community member, Navy veteran, and experienced leader, I am running for the Santee School Board because every child deserves a safe school, an excellent education, and the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family has been actively involved in Santee schools and the PTA for many years. Professionally, I lead adult education and workforce development programs, preparing people for real-world success. Understanding what employers need at the end of the educational journey gives me valuable perspective to help shape its beginning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "School safety, strong academics, fiscal responsibility, and accountability will be my priorities. I believe students thrive when teachers are supported, families are heard, and decisions are made transparently and responsibly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Artificial Intelligence will transform education and the workforce. Our students should learn to use AI ethically and effectively as a tool that strengthens learning, creativity, and problem-solving—not as a substitute for critical thinking or quality teaching."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring practical leadership, thoughtful decision-making, and a commitment to listening and serving our community. Together, we can ensure every Santee student has the knowledge, character, and opportunities needed to succeed in an ever-changing world."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

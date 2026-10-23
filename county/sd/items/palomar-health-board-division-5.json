@@ -1,0 +1,68 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palomar Health Board, Division 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:21Z",
+  "candidates": [
+    {
+      "choice": "Amanda Christensen",
+      "statement": {
+        "by": "Amanda Christensen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Amanda Christensen, RN, BSN, is a registered nurse with more than 14 years of experience caring for patients and families throughout North County. Throughout her career, she has helped people through some of life’s most difficult moments and understands the healthcare challenges facing local families. Amanda is running for the Palomar Health Care District Board to strengthen community health, improve access to care, and help ensure patients receive high-quality, compassionate healthcare close to home. In addition to her frontline nursing experience, Amanda has served in leadership roles where she supported nursing teams, coordinated patient care during demanding shifts, and helped guide hospital staff through complex situations. These experiences have given her a strong understanding of the importance of collaboration, communication, and supporting the healthcare workforce. As a longtime North County resident, Amanda believes the Health Care District Board should serve not only as responsible stewards of the district, but also as advocates for community wellness and healthcare access. She is committed to building stronger connections between Palomar Health and the communities it serves, supporting healthcare workers, and helping ensure local families have access to trusted care for generations to come."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "John Clark",
+      "statement": {
+        "by": "John Clark",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor and privilege to represent you as your Board Member for the Palomar Health Hospital System over the past eight years. My wife, Mary, and I have six children and twenty grandchildren living in the Poway and Rancho Bernardo communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have more than 40 years of executive experience in the healthcare industry as a business owner operating advanced surgery centers and cancer treatment facilities. I have negotiated complex hospital and healthcare agreements on both the national and international levels. This experience uniquely qualifies me to help ensure a smooth and successful partnership with UC San Diego Health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This knowledge and experience provide me with an in-depth understanding of the financial challenges facing our hospital system. I have worked tirelessly on behalf of our community and all patients and their families to ensure our healthcare facilities provide the highest quality, transparent medical care. I am proud to work alongside some of the most talented physicians, nurses, and support staff in our region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am grateful for the endorsements of medical professionals, public servants, and community leaders. My vision for Palomar Health remains, “You must care to receive good care.”"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.JohnClarkForPalomarHealth.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Padre Dam Municipal Water District Board, Division 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "candidates": [
+    {
+      "choice": "Brian Fordyce",
+      "statement": {
+        "by": "Brian Fordyce",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Santee has been my home for over 35 years. My wife and I raised our family here, serve in our church, and built Fordyce Construction, a company focused on improving local schools and public infrastructure. That’s the experience and commitment I’ve brought to the Padre Dam Board since 2022.\nIn my first term, Padre Dam’s internal operating costs did not require a rate increase on our end. I’m committed to that same fiscal discipline going forward.\nI believe in maintaining infrastructure before it fails to protect reliability and avoid costly emergencies. I also support investing in local water independence through the East County Advanced Water Purification Program, which will provide a new, more reliable local supply. This will reduce our dependence on imported water and help stabilize the cost of our water service over time.\nWater management in our region is becoming more complex — volatile weather, rising imported water prices, changing state regulations, aging infrastructure, and major projects like the Advanced Water Purification Program. There’s no substitute for experience when you’re balancing reliability, costs, and long term obligations.\nI’d be honored to continue serving every Santee ratepayer with steady, commonsense leadership."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bill Woods",
+      "statement": {
+        "by": "Bill Woods",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "East County is my home. I was raised here, built my life here, and raised my family here.\nFor 32 years, I served in law enforcement, protecting the public, managing responsibilities, and earning trust through accountable leadership.\nI am running for the Padre Dam Municipal Water District Board of Directors because safe, reliable, affordable water is essential to every household and business. Families are already stretched by rising costs. I will oppose non-essential internal rate increases, examine every expenditure, and fight to ensure customers pay only what is necessary to provide dependable service. Every dollar must be spent responsibly and transparently.\nMy law enforcement experience taught me to identify risks, prepare for emergencies, protect critical systems, and never take public safety for granted. I will make the security of our water supply and infrastructure a priority, including emergency planning and protection against physical and cyber threats.\nI will also support long-term planning that expands locally controlled water supplies, reduces dependence on imported water, and prepares East County for drought, emergencies, and growth.\nI am not a career politician. I am a public servant, husband, father, and grandfather who will protect your water, your safety, and your wallet."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

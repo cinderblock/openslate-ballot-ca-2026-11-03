@@ -11,6 +11,7 @@
     "scrape:sf": "bun scripts/scrape-sf-vip.ts",
     "scrape:la": "bun scripts/scrape-la.ts",
     "scrape:oc": "bun scripts/scrape-oc.ts",
+    "scrape:sd": "bun scripts/scrape-sd.ts",
     "scrape:alameda": "bun scripts/scrape-alameda.ts",
     "check": "bun scripts/check-all.ts",
     "build-site": "bun scripts/build-site.ts",

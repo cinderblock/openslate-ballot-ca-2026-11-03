@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido Union High School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:43Z",
+  "candidates": [
+    {
+      "choice": "Nina Haines",
+      "statement": {
+        "by": "Nina Haines",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "To Whom it may concern:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Nina Haines and I am running for Escondido Union High School Trustee Area 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A little about me- I have lived in North County over 20 years and have been an Escondido resident for over 8 years. Escondido is my home! Helping people has always been important to me. Although my background has been finance, I started a home care agency for seniors over 14 years ago."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am not a teacher, but in my younger years I tutored children. My background in finance would assist in negotiations for funding while watching the budget. as well as enabling a harmonious relationship with unions and teachers, parents and our youth. My background as a small business owner would also be of help as being a good leader means communicating and listening to people’s needs and doing the right thing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am looking forward to ensuring our public schools provide every single student with a safe environment and a good education so they can be ready for their future. The youth of today will also be the ones running our country some day and I strive to be a good example to them."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-105.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bob Weller",
+      "statement": {
+        "by": "Bob Weller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have four children—one in the Escondido Union High School District and three recent graduates. I’m a father, small businessman, and it is my honor to serve our community on the Governing Board of the Escondido Union High School District. Working together, we have been able to deliver real results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have made academic achievement a priority. In the past four years, we have seen a 27.5% improvement in English Language Arts scores and a 47% improvement in Math scores. We also have continued to support some incredible Career-Technical Education programs—like culinary, auto, computer science, and print/graphic design—that provide students with a real opportunity for post-graduation employment. Teachers are the foundation of academic success. I helped lead the charge for much-deserved salary and benefit increases for our teachers, placing us among the top five highest paying districts in the county."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While these are real improvements, there is still much work to do. Escondido lags behind other communities in academic performance and student outcomes. We must continue to support our teachers, demand academic excellence, and create safe and healthy learning environments for our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to have earned your support to continue working towards these goals. For more information, please visit www.BobWeller.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-105.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

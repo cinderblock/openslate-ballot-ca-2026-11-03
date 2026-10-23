@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fallbrook Union High School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:23:19Z",
+  "candidates": [
+    {
+      "choice": "Tracy Daniel",
+      "statement": {
+        "by": "Tracy Daniel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am proud to be a candidate for the Fallbrook Union High School District Board of Trustees, District 3, because I believe every decision should put students, families, and teachers first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fallbrook is more than the community I live in; it is my hometown. I attended Fallbrook schools from kindergarten through graduation at Fallbrook High School, and my husband and I have built our lives and raised our family here. Today, our youngest child attends Fallbrook High School and participates in both water polo and swim. As longtime residents, we are deeply invested in preserving and strengthening the schools that have shaped our family and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Certified Public Accountant (CPA), I bring professional experience in financial oversight, budgeting, strategic planning, and accountability. I understand the importance of making thoughtful, transparent decisions that protect taxpayer dollars while ensuring students receive the highest quality education possible."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district should be committed to long-term planning that preserves academic opportunities, supports outstanding teachers, and provides students with access to rigorous coursework, career pathways, athletics, arts, and extracurricular activities. Every student should have the opportunity to pursue academic excellence without unnecessary barriers or limited choices."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also believe strong schools are built on trust, collaboration, and open communication. Parents, teachers, staff, and community members deserve a Board of Trustees that listens, values their input, and makes decisions with integrity and transparency. By working together, we can create an environment where students, educators, and families all have the support they need to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to responsible fiscal leadership, careful planning, and keeping students at the center of every decision. My lifelong connection to Fallbrook, my professional experience, and my perspective as both a graduate and parent have prepared me to serve our community with dedication and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Fallbrook Union High School District Board of Trustees, District 3. Together, we can build on our district’s strengths, restore confidence in its leadership, and ensure every student has the opportunity to thrive."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Karen Weisberger",
+      "statement": {
+        "by": "Karen Weisberger",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a mother of a 2026 Fallbrook High School graduate, a 30-year classroom educator, and a member of the FUHSD Citizens Oversight Committee, I am deeply invested in our “Friendly Village.” My service on the oversight committee ensures your bond measure funds are spent transparently, responsibly, and solely on authorized school upgrades."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Having previously served as a school board faculty representative, alongside my decades in the classroom as a teacher, I know how to turn data-driven analysis into inclusive, collaborative decisions. Today, I continue my passion for education as a Special Education Paraprofessional at Live Oak Elementary. My deep civic commitment also extends to the American Association of University Women (AAUW) scholarship committee and the Fallbrook Vintage Car Club."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am eager to bring my unique blend of classroom expertise, fiscal oversight experience, and deep community roots to the board. I will work collaboratively with parents, the superintendent, administration, faculty, and staff, to elevate student achievement, support our hard-working teachers, and ensure absolute budget accountability. I respectfully ask for your vote to serve Fallbrook’s families. Go Warriors!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

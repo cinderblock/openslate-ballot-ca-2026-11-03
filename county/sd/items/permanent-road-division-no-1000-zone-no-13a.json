@@ -1,0 +1,120 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Permanent Road Division No. 1000, Zone No. 13A (Pala Mesa Zone A) — Measure T (Pala Mesa Zone A Permanent Road Division Special Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:25:18Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the County of San Diego, beginning Fiscal Year 2027-28 and annually thereafter, levy a special tax of up to $1,786.00 per developed / $893.00 per undeveloped parcel within Permanent Road Division No. 1000, Zone No. 13A – Pala Mesa Zone A, replacing the existing assessment? The tax may be adjusted by up to 5% annually based on the Los Angeles Construction Cost Index or a comparable Southern California index and remain until modified or dissolved by law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Tax – YES\nTax – NO"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 2/3rds Majority of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-257.pdf#page=83"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “YES” vote is in favor of authorizing the County of San Diego to replace the existing assessment with a special tax of up to $1,786 per developed parcel and up to $893 per undeveloped parcel to fund ongoing road repair and maintenance within the Permanent Road Division."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-257.pdf#page=83"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “NO” vote is against authorizing the County of San Diego to replace the existing assessment with a special tax $1,786 per developed parcel and up to $893 per undeveloped parcel to fund ongoing road repair and maintenance within the Permanent Road Division."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-257.pdf#page=83"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "PERMANENT ROAD DIVISION ZONE 13A PALA MESA SPECIAL TAX"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "MEASURE"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors for the County of San Diego placed this Measure on the ballot."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If this Measure is approved by two-thirds of the votes cast, parcels within Permanent Road Division Zone 13A Pala Mesa shall pay a maximum parcel tax of $1,786 per parcel for each developed parcel and $893 per parcel for each undeveloped parcel commencing in Fiscal Year 2027-2028. The stated purpose of the special tax is to fund ongoing road repair and maintenance, which includes administrative expenses. The special tax will continue to be collected in the Permanent Road Division until amended, repealed or suspended by the Board of Supervisors. The special tax will replace the existing assessment imposed in the Permanent Road Division by repealing Ordinance No. 9171. Total estimated revenue derived from the special tax from the 305 developed and 40 undeveloped parcels currently in the Permanent Road Division for the first fiscal year is $580,450. The special tax is subject to adjustment, not to exceed 5% per fiscal year to account for any inflation as measured by the Los Angeles Construction Cost Index or a comparable Southern California construction cost index."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Ordinance or"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "Measure T. If you desire a copy of the ordinance or measure, please"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "call the district elections official’s office at 858-505-7260 and a copy"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-257.pdf#page=83"
+  }
+}

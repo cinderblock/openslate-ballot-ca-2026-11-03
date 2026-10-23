@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 48",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-48",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:27Z",
+  "candidates": [
+    {
+      "choice": "Jim Desmond",
+      "statement": {
+        "by": "Jim Desmond",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Not for self, but for country. I took that oath at 19 years old when I joined the U.S. Navy, and it’s the same oath I honor every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m Jim Desmond, a proud American, Navy veteran, Engineer, San Diego County Supervisor, retired Airline Pilot, former Mayor and local business owner who always answered the call to serve. Now I’m asking to represent you in Congress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Making gas, groceries, utilities, and homes more affordable are my top priorities. I’ve balanced government budgets without raising taxes and will oppose tax increases in Congress. I focus on solving issues – not politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Washington and Sacramento lost the spirit of service and common sense. They fueled inflation by overspending, now families are priced out of their communities and prescription drug prices skyrocketed. You deserve better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Healthcare should be more affordable and accessible, and I will fight to protect Social Security and Medicare."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need more energy options, lower home interest rates, and to eliminate capital gains tax when you sell your home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve supported law enforcement and fought soft-on-crime policies pushed by a radical agenda. That’s why I’m endorsed by several local law enforcement agencies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Navy veteran, I know our veterans sacrificed for us. I’ll fight to protect their benefits, cut VA wait times, and ensure every veteran and military family gets the care they’ve earned."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Not for self, but for country. That is why I serve and I’m honored to earn your support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "DesmondForCongress.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=48",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Marni von Wilpert",
+      "statement": {
+        "by": "Marni von Wilpert",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Tired of out-of-control costs, a corrupt Congress and Washington’s never-ending chaos?"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "So is Marni von Wilpert."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Marni von Wilpert has spent her life doing what Congress won’t: serving the people and holding the powerful accountable. Marni served in the Peace Corps, prosecuted opioid drug companies and enforced the law for workers’ fair pay. Now, Marni is running to lower costs, fight corruption, rein in Trump and deliver for San Diego County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "An Army veteran’s daughter from North County, Marni von Wilpert’s values are ours – service, fiscal responsibility, results for the middle class. As a San Diego civil prosecutor she sued chemical polluters and price gougers – and won. On the City Council, Marni opposed water/ trash rate hikes and stood with police for faster 911 response times."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In Congress, Marni von Wilpert will put money back in our pockets. She’ll vote to end Trump’s tariffs, foreign forever wars and insurance premium hikes to get the cost of living under control. Marni will expand first-time homebuyer assistance – like the downpayment grants she launched in San Diego – and protect Social Security/Medicare. We can’t let the American Dream slip away."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To get it done, Marni von Wilpert will clean up corruption that’s captured Washington. Marni will ban Congressmembers’ insider stock trading and corporate political money rigging the rules. Marni will stop ICE from terrorizing our communities, defend abortion rights and push back when Trump punishes California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s a simple choice. More of the same corrupt Congress raising costs – or change to clean up Washington and put the middle class first. For change, vote Marni von Wilpert."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements: San Diego Firefighters Association, San Diego Police Officers Association, California Federation of Labor Unions, Planned Parenthood Action Fund."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "MarnivonWilpert.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=48",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

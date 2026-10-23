@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Deer Springs Fire Protection District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:50:39Z",
+  "candidates": [
+    {
+      "choice": "David Leatherberry",
+      "statement": {
+        "by": "David Leatherberry",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Having been personally affected by the Witch Creek and Camp fires, I am deeply sensitive to the importance of vigorous fire protection preparedness. As an attorney, I have built a successful law practice serving more than 1,000 healthcare providers from every region of the state, working with regulatory agencies, defending providers, negotiating contracts, consulting on complex ethical issues, and advising non-profit boards of professional associations. I have been exposed to the physical and mental health needs of first responders who live life putting others first. Owning a 38-bed residential care facility for the elderly near the Paradise Camp fire, I managed the needs of staff, regulators, and families caring for the elderly in a time of crisis, putting safety first. I also serve as the board vice-president for a non-profit San Diego health center committed to conservative fiscal management, transparency and cooperation with federal regulators. I have served as an educator, teaching contract drafting at a San Diego law school, and professional ethics to graduate students pursuing licensing. I live in Hidden Meadows with my wife of 41 years. With your vote, I will listen to the needs of Deer Springs constituents, hearing with compassion, and work toward balanced solutions."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-118.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

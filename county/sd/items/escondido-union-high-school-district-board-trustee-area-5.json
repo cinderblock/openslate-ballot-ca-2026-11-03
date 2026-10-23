@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido Union High School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:32Z",
+  "candidates": [
+    {
+      "choice": "Georgine Tomasi",
+      "statement": {
+        "by": "Georgine Tomasi",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a former teacher, educator, and elected school board member, I have dedicated my career to serving students, supporting families, and strengthening public education. I understand the opportunities and challenges facing the Escondido Union High School District because I have worked in public schools and served the educational community throughout my 45-year career."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My highest priority is student achievement. Every student deserves a safe, supportive learning environment, excellent teachers, and the opportunity to succeed. I believe strong high schools are built through responsible leadership, fiscal accountability, transparency, and collaboration with parents, teachers, staff, and the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to making thoughtful student-centered decisions that promote academic excellence and prepare every graduate for college, career, and life. Together, we can continue building schools that inspire success and reflect our community’s values."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to receive your vote and continue bringing my knowledge and experience in public education to serve the students, families, and community of the Escondido Union High School District."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David Vincent",
+      "statement": {
+        "by": "David Vincent",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is David Vincent. I have spent my career in San Diego’s biotechnology industry, helping develop life-saving medical innovations. I have taught graduate students at San Diego State University, preparing the next generation of biotechnology professionals. Throughout my career, I have also served my community. I have supported endangered species conservation, helped veterans through AMVETS, Veterans of North County, supported Meals on Wheels and Cal-SAFE, and contributed to disease prevention. My wife and I are proud parents of three daughters who attended local public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee on the Escondido Union High School District Governing Board, I am committed to expanding Career Technical Education programs that prepare students for high-demand careers, strengthening academic achievement, and ensuring responsible stewardship of taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the past four years, student performance has improved by 10% in mathematics and 14.7% in English language arts. As a member of the Board’s Math Subcommittee, I have helped lead efforts to analyze these gains, identify what is working, and build on that success so that every student has the opportunity to achieve their full potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I remain committed to putting students first, supporting our teachers, maintaining safe schools, and preparing graduates for success in college, careers, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "David Vincent, B.Sc., MPH, Ph.D."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.votedavidvincent.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

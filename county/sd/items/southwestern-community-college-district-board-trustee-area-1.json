@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Southwestern Community College District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "Robert Moreno",
+      "statement": {
+        "by": "Robert Moreno",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Serving you on the Southwestern College Governing Board has been the honor of my life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Four years ago, I promised to put students first, and I kept that promise."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I voted for four consecutive balanced budgets while expanding educational opportunities for South County students. I helped bring bachelor’s degree programs closer to home, including a new degree in transborder environmental design and a public health partnership with UC San Diego."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nearly 600,000 South County residents live without access to a public university. Our students should not have to leave their families, jobs and communities to complete their education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also supported expanding dual enrollment, allowing Sweetwater Union High School District students to earn college credit before graduation. As a proud graduate of Sweetwater High School, I understand how life-changing that opportunity can be."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by the Southwestern College Education Association (faculty) and California School Employees Association Chapter 524 (classified professionals)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If reelected, I will continue fighting for affordable student housing, competitive pay that retains outstanding employees, and career education that leads directly to good-paying jobs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have made real progress, but our work is not finished. I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Robert Moreno"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Southwestern College Governing Board"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mary Salas",
+      "statement": {
+        "by": "Mary Salas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I know firsthand that a community college education can change the course of a life—because it changed mine."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When I enrolled at Southwestern Community College, I was a 37-year-old divorced single mother with only a high school diploma, limited job skills, and two daughters depending on me. Stepping onto campus was intimidating, but the faculty, staff, and counselors believed in me before I fully believed in myself."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Southwestern was affordable, close to home, and flexible enough to fit around my work schedule, allowing me to earn my associate degree, transfer to San Diego State University, and complete my bachelor’s degree."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That education changed the trajectory of my family’s future. It gave me the opportunity to build a meaningful career, provide greater stability for my daughters, and eventually serve our region as Mayor of Chula Vista and later on the California Community Colleges Board of Governors, where I worked to expand educational opportunities for students across our state."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today as technology rapidly transforms the workforce and employers demand new skills, Southwestern must continue investing in affordable, high-quality education that prepares students for in-demand careers while preserving strong transfer pathways to four-year universities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

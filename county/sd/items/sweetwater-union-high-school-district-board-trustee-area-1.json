@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sweetwater Union High School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "Maria Betancourt-Castaneda",
+      "statement": {
+        "by": "Maria Betancourt-Castaneda",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong National City resident, I attended Olivewood Elementary, National City Junior High School, and Sweetwater High School, and raised my children in our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My dedication to education began as a PTA President advocating for parent empowerment. For 12 years as a National School District Trustee, CSBA Delegate, and advocate in Sacramento and Washington, D.C., I have turned that advocacy into results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trusted steward of public resources, I championed the passage of Measure N and Measure HH. Through these bonds, we transformed our campuses with a focus on safety, modernization, and inclusivity; including redesigning all district playgrounds with state-of-the-art fields and full accessibility for students with disabilities so every child is included."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under my leadership, the district achieved national and state recognition: Environmental Leadership: Earned 2026 California Green Ribbon Schools Green Achiever status; one of only two districts statewide. Academic Excellence: Continuous year-over-year growth. Health & Wellness: Named the nation’s first elementary-only Heart Safe School district, with 100% of schools achieving Platinum and Gold PBIS honors and 90% named America’s Healthiest Schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am ready to bring this proven record of dedicated, student-centered leadership to the Sweetwater Union High School District to ensure high academic standards, modern facilities, safe environments, and empowered families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Fermin Eusebio Jimenez",
+      "statement": {
+        "by": "Fermin Eusebio Jimenez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Raising our children in strong, supportive schools strengthens our community and prepares students for success in college, careers, and life. My name is Fermin Eusebio Jimenez, and I am running for the Sweetwater Union High School District Board of Trustees, Area 1, because every student deserves the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher, United States Navy veteran, and former Hospital Corpsman, I have dedicated my life to serving others. After my military service, I continued serving our nation as a civilian employee and now serve our community as an educator committed to improving public education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district has made meaningful progress, including earning an improved S&P Global credit rating through stronger fiscal management. While that is encouraging, there is still important work ahead. I will focus on improving academic achievement, maintaining fiscal responsibility, and ensuring students and teachers have the resources they need to succeed. Every taxpayer dollar should be invested wisely, transparently, and with students as the top priority."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a bachelor's degree in Political Science from San Diego State University, an associate degree in Paralegal Studies, and proudly serve as Vice Chair of the National School District Bond Oversight Committee. I respectfully ask for your vote so we can build an even brighter future for every student."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

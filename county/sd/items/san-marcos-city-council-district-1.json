@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Marcos City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-marcos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:48Z",
+  "candidates": [
+    {
+      "choice": "Maria Nunez",
+      "statement": {
+        "by": "Maria Nunez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve San Marcos as your Councilmember for the last 8 years. San Marcos is where I grew up, was educated, and where I acquired my work ethic and passion for serving others. In my 45 years in San Marcos, I have experienced both opportunities and inequities. These experiences ground my leadership as an attorney, community advocate, and as your Councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your representative, I have invested in critical infrastructure, expanded access to economic opportunity for businesses and local families, strengthened public safety, and championed housing accessibility. I have supported policies that encourage civic participation, advance equity, promote sustainable economic development, and expand pathways to quality jobs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Too many working families continue to face rising economic pressures, including the challenges of affordable housing and food insecurity. More than ever, I am committed to improving the lives of all San Marcos community members, supporting local businesses, and creating the conditions for our entire community to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There’s still more we can accomplish together. I look forward to working with you in building a stronger, more inclusive, and more prosperous San Marcos. I am committed to continue serving you to ensure everyone enjoys a thriving quality of life."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-120.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

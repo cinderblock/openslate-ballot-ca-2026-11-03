@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Dieguito Union High School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:13:18Z",
+  "candidates": [
+    {
+      "choice": "Amy Flicker",
+      "statement": {
+        "by": "Amy Flicker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Amy Flicker is a former executive, parent advocate, and proud parent of two SDUHSD graduates. Her youngest son is a special needs student, giving her firsthand experience navigating the systems and structures that students with diverse learning needs navigate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Amy has served as PTA President in both EUSD and SDUHSD. Served on the Independent Citizens’ Oversight Committees for EUSD’s Proposition P and SDUHSD’s Proposition AA bond funds. She was selected for the SDUHSD Social Emotional and Wellness Committee, LCAP Committee, Special Education Transition Committee, and Special Education Taskforce. She served as Parent Liaison for both districts on the North Coastal Consortium for Special Education and ultimately joined its Executive Board. NCCSE oversees 14 school districts and is one of the largest SELPAs in California. She served as an Environmental Commissioner for the City of Encinitas, contributing to its Climate Action Plan, Cyclovia and Safe Routes to School programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today she serves as Vice President of Legislation for the California State PTA Ninth District, covering all of San Diego and Imperial Counties, carrying that advocacy to Sacramento and Washington, DC on behalf of our local families and schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Amy would be honored to earn your support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Flickerforschoolboard.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "David Miyashiro",
+      "statement": {
+        "by": "David Miyashiro",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a dedicated educator, proven executive leader, and proud parent of a rising 8th grader in the district, I am deeply committed to the success and well-being of all San Dieguito Union High School District students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over my 27-year career in public education, I have dedicated myself to revolutionizing learning approaches and modernizing school capabilities. My foundational experience spans successful roles as a teacher and principal in elementary, middle, and high schools across Orange and Los Angeles Counties, giving me a comprehensive understanding of student and educator needs at every grade level."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my tenure as Assistant Superintendent in the Encinitas Union School District, I proudly led North County Coastal schools in the adoption of cutting-edge digital learning. I also championed a whole-child approach by establishing a nationally recognized health and wellness curriculum that integrated student yoga, wellness, arts, and culinary programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Currently serving as Superintendent of Cajon Valley Union School District since 2013, and holding a Doctorate in Educational Leadership from UCLA, I have the executive expertise to foster trust, ensure fiscal responsibility, elevate student achievement, and make sound decisions for our community. I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

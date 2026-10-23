@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palomar Health Board, Division 7",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:07Z",
+  "candidates": [
+    {
+      "choice": "Ian Butler",
+      "statement": {
+        "by": "Ian Butler",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a practicing physician with two children living in the hospital district. My son was born at the now-closed birth center at Poway. My aging parents sometimes need hospital services that are now gone. I coach my son’s football team and when a player gets hurt, we no longer have a nearby option for the best care."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Behind every policy and financial decision is a patient counting on us. When you need emergency care, a quality local hospital is the difference between life and death. We have lost many of these needed services in the Poway area over the last decade and I believe better management decisions can restore these to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the last 20 years I have worked not only as a bedside doctor, but also in healthcare management and have used my MBA training to safeguard critical hospital programs. Furthermore collaborating with our nurses both at the bedside and in the board room is necessary to make sure patients get the care they need. If elected, I will work to ensure Palomar Health remains financially strong while bringing back access to outstanding care."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Linda Greer",
+      "statement": {
+        "by": "Linda Greer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For more than 45 years, I have cared for North County families, and today, I’m proud to represent Poway District 7 on the Palomar Health Board of Directors, helping shape the future of healthcare for those same families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a registered nurse, longtime North County resident and mother of nine, I believe healthcare is about more than hospitals, it's about caring for people, strengthening communities and ensuring everyone has access to exceptional care close to home. That belief has guided every decision I’ve made throughout my career and service on the board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud to have helped lead one of the most significant transformations in Palomar Health's history through its partnership with UC San Diego Health, creating new opportunities to access world-class care in North County. I also championed community initiatives like Legacy One Safe Place because healthcare should extend beyond hospital walls."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Now, I’m seeking reelection to continue serving Poway District 7 and advancing that progress. This is a defining moment for Palomar Health, and experienced, collaborative leadership is essential to building a stronger future. I remain committed to thoughtful stewardship, innovation and putting patients first so that future generations can receive high-quality healthcare right here in North County."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

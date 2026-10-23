@@ -1,0 +1,88 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Solana Beach City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/solana-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:16:51Z",
+  "candidates": [
+    {
+      "choice": "Jenna Dellamano",
+      "statement": {
+        "by": "Jenna Dellamano",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’ve lived in Solana Beach for more than 10 years and never thought I would run for Council. However, I am genuinely concerned about several upcoming major development projects that will impact eastside Solana Beach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "High density redevelopment is proposed for the Vons Shopping Center. There is also concern regarding potential development of the Senior Living Facility on Genevieve Avenue and the Executive golf course for dense housing. These projects can harm the livability of our eastside neighborhoods and overwhelm City infrastructure, unless we are engaged."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to advocating for livable neighborhoods, ensuring projects are designed to be compatible with and fit our neighborhoods, and addressing negative impacts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Many residents know me through my work as founder and director of “Solana Beach Backpacks for Kids” and the “Solana Beach Free Farmers Market”. I launched this nonprofit during the pandemic to help local families experiencing food insecurity. My home-based effort has grown into a completely free farmers market every Sunday at La Colonia Park. Through partnerships with local farms, grocery stores, and schools, we successfully recover and distribute thousands of pounds of fresh food every week."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Prior to this, I earned my MBA degree from Northwest Missouri State University, and for more than 20 years I had a career with major financial institutions. I worked with Midwest regional banks auditing business loan portfolios to ensure the banks were fiscally healthy. For over 10 years, I worked for Union Bank as a VP. I managed investment funds for cities, counties, and states, and spent several years investing money from bond proceeds for state and local governments."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My family chose to live in Solana Beach because of its small beach-town character. Our two sons attend school here. I own a business in Solana Beach. I understand firsthand the opportunities and challenges facing our local business community. I have been actively involved in our community for years, and I truly appreciate what makes Solana Beach a great place to live and work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am fiscally conservative and independent. I support a vibrant business community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe residents should have the final say in how our neighborhoods develop, not Sacramento. I support responsible growth and working to ensure that development fits our community. I’m focused on maintaining our small town character and beach feel."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your councilmember, my priority will be to preserve and enhance our quality of life and what we love about our City, while we responsibly develop."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would sincerely appreciate your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.jenna4solanabeach.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-237.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

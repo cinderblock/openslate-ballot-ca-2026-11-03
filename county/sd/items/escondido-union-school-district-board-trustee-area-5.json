@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido Union School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:49:34Z",
+  "candidates": [
+    {
+      "choice": "Frank Huston",
+      "statement": {
+        "by": "Frank Huston",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For the past six years, Frank has proudly served the students, families, and taxpayers of the Escondido Union School District as a Trustee, including serving as President of the School Board. During his leadership, the district strengthened its financial stability while increasing student achievement, proving that responsible budgeting and academic excellence go hand in hand."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Frank believes every student can succeed when held to high expectations and given the support needed to reach their full potential. He is committed to ensuring students make academic progress, receive timely intervention when struggling, and are held accountable for their actions and behavior."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Frank retired from the Escondido Police Department in 2021 after more than 31 years of service. He and his wife have six children, all of whom attended Escondido public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Frank’s proven record reflects integrity, accountability, fiscal responsibility, and dedication to student achievement. He will continue working to provide every child with a high-quality education while safeguarding the district’s financial future."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-430.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bonnie Wagner",
+      "statement": {
+        "by": "Bonnie Wagner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a third generation San Diegan, and resident of Escondido for seven years. I have been a teacher for ten years, three of them in EUSD. I taught before, during and after the pandemic, and I understand the challenges we’re all still working through."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe deeply in the power of public education to lift the potential of younger generations. As a democracy we promise to educate every child to be a productive adult and informed citizen. This creates our medley society of shared values that keeps our streets safer and our economy thriving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Between my Master’s degree in education and my Project Management experience, I can help Escondido schools live up to that promise. I want to focus this elementary district back on our primary mission of teaching foundational skills for the 21st Century in order to lay the groundwork for their success. Our district budget should directly support that mission. I also want to be an experienced voice in decisions about technology use in schools, especially the use of AI tools. Right now there is only one experienced educator on our school board, and you can help me change that."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more about me at www.bonniewagner.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-430.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

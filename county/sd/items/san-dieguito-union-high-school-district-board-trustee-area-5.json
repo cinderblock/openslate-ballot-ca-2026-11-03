@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Dieguito Union High School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:07:26Z",
+  "candidates": [
+    {
+      "choice": "Ginny Merrifield",
+      "statement": {
+        "by": "Ginny Merrifield",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running to bring experienced, student-centered leadership to our schools. I attended public schools, graduated from Princeton University, built a successful San Diego-based business, and raised three children in Carmel Valley public schools. My commitment to education began locally through service on the Del Mar Schools Education Foundation board and a district boundary committee during rapid growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I later co-founded Pacific Ridge School, helping raise $5 million, recruit outstanding leadership, and establish a thriving school serving North County students. I also co-founded and chair e3 Civic High, a public charter school serving mostly low-income, Latino students in San Diego."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve worked directly with educators, school leaders, and families to expand opportunity and help students discover their own path after high school. I’ve seen firsthand the challenges facing teachers, families, and children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When prolonged school closures harmed students, I helped organize families across North County, raise support, and win a statewide lawsuit that reopened California schools in 2021, returning students to classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Excellent schools require high expectations, transparency, accountability, and trust among parents, teachers, administrators, and board members. I will listen carefully, ask hard questions, and work collaboratively to ensure every student has access to a safe, rigorous, and purposeful education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ginny@gmerrifield.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-179.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Justin Moodie",
+      "statement": {
+        "by": "Justin Moodie",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be the Area 5 School Board candidate endorsed by the San Dieguito Faculty Association. Raised in Carmel Valley, I’m now a public high school teacher and father of a future SDUHSD student. It has been a joy to work with students as an instructor in the classroom for the past two decades. Every student deserves excellent public education with engaging learning experiences that lead to strong academic outcomes. I believe in improving the professional development experience for teachers, continuing the culture of excellence that makes our San Dieguito schools the best. My journey with SDUHSD began as a student at Earl Warren JHS and Torrey Pines HS. After university, I began teaching at Carmel Valley MS and Canyon Crest Academy. As a result, I bring a deep understanding of and commitment to our community along with 10 educator credentials, National Board Certification, advanced degrees from UC Berkeley and UC Santa Barbara, and 20 years as a classroom teacher. It would be a true privilege to represent the parents, teachers and youth of San Dieguito, making each decision with our children’s futures in mind. justinmoodie.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-179.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

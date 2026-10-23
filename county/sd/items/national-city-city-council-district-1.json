@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "National City City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/national-city",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:34:34Z",
+  "candidates": [
+    {
+      "choice": "Cindy Lopez",
+      "statement": {
+        "by": "Cindy Lopez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every family deserves the opportunity to live in a safe and prosperous community. I am proud to call National City my home and the place where I am raising my family. Serving our community has strengthened my commitment to ensuring every neighborhood is safe, every family can afford to live here, and every child can look forward to their future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a school board member, I have helped add more MTS bus stop benches throughout the city, expanded the variety of after-school programs across all ten school sites, and protected our air by leading the resolution opposing the proposed fuel transfer station."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for National City Council District 1 because we deserve a government that will listen and fix the basic needs of our neighborhoods. As your Councilmember, I will work to improve our streets and public transportation, expand access to affordable places to live, continue protecting our air, combat human trafficking, and invest in youth programs and career pathways."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring proven leadership, thoughtful decision-making, and a commitment to listening, collaborating, and putting District 1 residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Cindy López www.cindylopezfornc.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-688.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Luz Molina",
+      "statement": {
+        "by": "Luz Molina",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "National City isn’t just my hometown. It’s the community that raised me and inspired my life’s work. After graduating from Sweetwater High School, earning my degree in Molecular Biology from UC Berkeley, and serving in AmeriCorps, my husband and I chose to return home to raise our three sons in the same public schools that shaped our lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your first District 1 Councilmember, I’ve fought for our neighborhoods and delivered results. I secured $3.4 million to fix our streets and improve transit, led the successful fight to stop a proposed fuel depot threatening the health and safety of Westside families and schools, protected clean air, and championed opening the bayfront for our families. I hosted more than 60 town halls because leadership begins by listening."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proudly endorsed by Assemblymember David Alvarez; County Supervisors Paloma Aguirre and Monica Montgomery Steppe; Councilmember Marcus Bush; National School District Trustees Michelle Gates, Maria Betancourt-Castañeda, and Alma Sarmiento; and hundreds of our neighbors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You first elected me City Clerk, then entrusted me to be your Councilmember. Today, I serve as your Vice Mayor. I’ve spent my career fighting for the community that raised me. With your vote, I’ll keep fighting and keep delivering for National City."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-688.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

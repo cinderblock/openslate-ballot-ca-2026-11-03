@@ -1,0 +1,481 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Jamul-Dulzura Union School District — Measure H (Jamul-Dulzura Union School District School Facilities Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:54Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "With no projected increase in current tax rates and to repair/ replace deteriorating roofs, plumbing, dry rot, termite damage, electrical; upgrade aging schools to meet current health/ safety standards; and upgrade classrooms to support student achievement in math, science, technology, reading, writing, shall Jamul-Dulzura Union School District’s measure be adopted authorizing $18,000,000 in bonds at legal rates, levying $30 per $100,000 assessed value (averaging $1,300,000 annually) while bonds are outstanding, with citizen oversight/ audits, all money locally controlled?\nBonds—Yes\nBonds—No"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 55% of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf#page=81"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “YES” vote is in favor of authorizing the District to issue and sell $18,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf#page=81"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “NO” vote is against authorizing the District to issue and sell $18,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf#page=81"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The Board of Education for the Jamul-Dulzura Union School District (“District”) placed this measure on the ballot. If approved by 55% of the votes cast, this measure will authorize the District to issue and sell general obligation bonds in an amount not to exceed $18,000,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure will authorize a levy on the assessed value of taxable property within the geographical boundaries of the District in an amount needed to pay the principal and interest on the bonds each year the bonds are outstanding. The District estimates the average tax rate would be $30 for every $100,000 of assessed valuation, and the highest tax rate would be approximately $30 for every $100,000 of assessed valuation. The tax is anticipated to be collected through fiscal year 2062-2063."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The estimated total debt service, including principal and interest, required to be repaid if the bonds are issued and sold is approximately $43,170,000. Actual amounts may vary depending on the timing of sales, bonds sold at each sale, interest rates, and assessed valuation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure identifies a list of projects at schools and facilities within the District that may be funded from the bond proceeds. Approval of this measure does not guarantee the proposed projects will be funded by the sale of the bonds. The District’s proposal for certain projects may assume receipt of matching State funds subject to appropriation by the Legislature or approval of a statewide bond measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As required by State law, the measure states that the proceeds from the sale of the bonds may be used only for the purposes specified and that the District will establish an independent citizens’ oversight committee and conduct an annual independent performance audit to ensure funds are spent only on the projects listed in the measure. The District must also conduct an annual, independent financial audit of bond proceeds. The District states it has evaluated safety, class size reduction, and information technology needs in developing the projects listed in the measure."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Tax Rate Statement Regarding Proposed Jamul-dulzura Union School District General Obligation Bonds"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An election will be held in the Jamul-Dulzura Union School District (the “District”) on November 3, 2026, to authorize the sale of up to $18,000,000 in bonds of the District to finance school facilities as described in the measure. If such bonds are authorized and sold, principal and interest on the bonds will be payable only from the proceeds of",
+          {
+            "em": [
+              " ad valorem"
+            ]
+          },
+          " tax levies made upon the taxable property in the District. The following information is provided in compliance with Sections 9400-9404 of the Elections Code of the State of California. Such information is based upon the best estimates and projections presently available from official sources, upon experience within the District, and other demonstrable factors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Based upon the foregoing and projections of the District’s assessed valuation, the following information is provided:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The best estimate of the average annual tax rate that would be required to fund this bond issue over the entire duration of the bond debt service, based on estimated assessed valuations available at the time of filing of this statement, is $30 per $100,000. It is currently expected that the final fiscal year in which it is anticipated that the tax will be collected is 2062-63."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The best estimate of the highest tax rate that would be required to fund this bond issue, based on estimated assessed valuations available at the time of filing this statement, is $30 per $100,000 of assessed valuation. This highest rate is projected to apply in fiscal years 2030-31 through 2062-63."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The best estimate of the total debt service, including the principal and interest, that would be required to be repaid if all the bonds are issued and sold is approximately $43,170,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The foregoing tax rates and debt service estimates are for bonds issued only pursuant to this measure. Voters should note the estimated tax rate is based on the assessed value (not market value) of taxable property on San Diego County’s official tax rolls. Property owners should consult their own property tax bills and tax advisors to determine their property’s assessed value and any applicable tax exemptions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The attention of all voters is directed to the fact that the foregoing information is based upon projections and estimates only, which amounts are not maximum amounts or durations and are not binding upon the District. The actual debt service, tax rates and the years in which they will apply may vary from those used to provide the estimates set forth above, due to factors such as variations in the timing of bond sales, the par amount of bonds sold and market interest rates available at the time of each sale, actual assessed valuations over the term of the bonds, and other factors. The date and amount of bonds sold at any given time will be determined by the District based on the need for project funds and other considerations. The actual interest rates at which the bonds will be sold will depend on conditions in the bond market at the time of sale. Actual future assessed valuations will depend upon the amount and value of taxable property within the District as determined by the San Diego County Assessor in the annual assessment and the equalization process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Liz Bystedt\nSuperintendent\nJamul-Dulzura Union School District"
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf#page=81"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure H to repair and upgrade classrooms and school"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "facilities in the Jamul-Dulzura Union School District without increasing"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "existing tax rates."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Some of our classrooms and school facilities were built so long ago that underground pipes and infrastructure are failing, resulting in gas leaks, water leaks, and sewage backups. We need to fix these problems.",
+            {
+              "strong": [
+                " Out of 61 roofs"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "across our schools, 58 are leaking and need replacement, and five"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "portable classrooms are more than 25 years old, falling apart, and"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "plagued by mold."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure H requires a transparent system of accountability, including a project list describing how the money will be spent, a citizens’ oversight committee, and independent audits and public disclosure of how all funds are spent."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure H will give the Jamul-Dulzura Union School District",
+            {
+              "strong": [
+                " access to"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "millions of dollars in State matching funds"
+              ]
+            },
+            " that we would otherwise not qualify for, maximizing the impact of the community’s investment in our schools."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on H to:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Replace wood and support beams that have extensive termite"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "damage and dry rot"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Repair or replace deteriorating roofs, plumbing, gas lines, sewer"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "lines, and electrical systems"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Renovate classrooms and facilities to support high-quality"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "instruction in math, science, reading, writing, and technology"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Upgrade older classrooms to meet current health codes and"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "building safety codes"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Improve student safety and campus security systems, including"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "fencing, cameras, fire alarms, smoke detectors, and emergency"
+                    ]
+                  },
+                  " ",
+                  {
+                    "strong": [
+                      "communication systems"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure H has built-in taxpayer safeguards:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Will not increase existing tax rates"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "All money stays local to repair JDUSD classrooms and facilities"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Independent citizens’ oversight and annual audits"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "No funds can be used for administrator salaries or pensions"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Even if you don’t have school-age children, improving local schools is"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "a wise investment that protects our quality of life and our property"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "values."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on H to support high-quality education in Jamul-Dulzura"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Union School District schools – without increasing taxes!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Dianne Jacob",
+          "title": "Former San Diego County Supervisor"
+        },
+        {
+          "name": "Nadine Bennett",
+          "title": "Former Superintendent, Jamul-Dulzura Union School District"
+        },
+        {
+          "name": "Kyle Harrell",
+          "title": "President, Jamul Soccer; JDUSD Parent"
+        },
+        {
+          "name": "Ami Murofushi",
+          "title": "Local Youth Sports Leader; JDUSD Parent"
+        },
+        {
+          "name": "Chris Manzuk",
+          "title": "Director of Land Management for the Endangered Habitat Conservancy"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf#page=82",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure H",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf",
+      "mediaType": "application/pdf",
+      "page": 82,
+      "sha256": "40ad2734d2123fcc8541416503c2c5e3ffdba00b001743234a97eabefd288a42"
+    }
+  ]
+}

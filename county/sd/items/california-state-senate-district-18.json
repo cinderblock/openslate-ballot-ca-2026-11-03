@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Senate, District 18",
+    "kind": "race",
+    "jurisdiction": "us/ca/sd-18",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "Art Hodges",
+      "statement": {
+        "by": "Art Hodges",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Bishop Art Hodges is a longtime South Bay resident and community leader with more than four decades of executive leadership experience. He and his wife, Rosa, a fourth-generation Mexican American, were high school sweethearts. They have three married children and six grandchildren, all living in Chula Vista."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "His background includes serving as a nonprofit CEO, school principal, adjunct professor, college chancellor, and board member of both a university and an orphanage. He founded WOW Houses for the Homeless and, during COVID, led one of the South Bay’s largest food distribution efforts in partnership with public health and law enforcement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2024, the California State Senate in a Resolution, and the Mayor of Chula Vista in a Proclamation, recognized his leadership and community service. In 2026, he received the San Diego County Abraham Lincoln Exceptional Leadership Award. He also successfully defended constitutional freedoms in landmark cases before the United States Supreme Court."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After retiring from 40 years as a pastor, Bishop Hodges continues serving as bishop to more than 120 churches and 250 pastors across Southern California. Having served Democrats, Republicans, and Independents throughout his ministry—and having been a longtime Independent himself—he believes leadership should put people before politics and service above party, focusing on affordability for working families, practical border solutions, safer neighborhoods, accountable government, and common-sense leadership that listens to local communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s time for new leadership and a fresh direction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bishop Art Hodges respectfully asks for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ArtHodgesForSenate.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=49",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steve Padilla",
+      "statement": {
+        "by": "Steve Padilla",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Steve Padilla fights for working families, stands up for South County and protects California from the chaos and corruption in Washington. Steve Padilla is a former police detective, Chula Vista Mayor and single dad who knows working families need a more affordable California – and he’s fighting to lower costs and raise incomes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve Padilla authored the law to protect ratepayers from skyrocketing electricity costs caused by massive Big Tech data centers. Corporations shouldn’t be allowed to unfairly shift costs onto struggling families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve Padilla passed the ‘Middle Class Pipeline Project’ into law to expand blue-collar apprenticeships and vocational education. For good paying jobs for everyone, not just those with college degrees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve Padilla is leading the charge to clean up the Tijuana River sewage crisis, pushing for federal and state action to fix this disaster. South County deserves the same clean water and safe beaches as the rest of California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve Padilla is standing against the corruption by Trump raising prices, slashing healthcare and targeting hard-working immigrants. He co-authored bills to reduce insurance premium hikes and bar warrantless ICE raids at schools and hospitals."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Steve Padilla is serious about public safety. A former Police Detective, Steve fully funded police in every state budget, led efforts to invest $10 billion in wildfire prevention and cracked down on untraceable ghost guns. Without safety, nothing thrives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With 21 bills signed into law by the Governor, Steve Padilla is the effective fighter South County families count on."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by California Firefighters Local 2881, California Association of Highway Patrolmen, National Union of Healthcare Workers, California Teachers Association, California State Retirees and more at VoteStevePadilla.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=49",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

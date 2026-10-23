@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fallbrook Union High School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:06:34Z",
+  "candidates": [
+    {
+      "choice": "Tauna Rodarte",
+      "statement": {
+        "by": "Tauna Rodarte",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been my privilege to serve as Trustee for the FUHSD for the past three years. I hope to continue focusing on and improving these priorities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Focus on student academic success, personal achievement and emotional satisfaction to continue to increase improvement in 95+% of all categories. Focus on increased attendance, grades, reduced absenteeism, increase graduation rates and acceptances into colleges and trade schools. As the mother of four children who went through public schools, I understand the challenges facing every unique child. I will continue to work to ensure all students receive equal opportunities for academic success, emotional and social growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Secure quality teacher and staff through support, funding, materials and communications. Continue “classroom walks” to share best practices and always work towards improvement in the classrooms. Created opportunities for staff members, from Superintendent, Administration to Teachers to receive awards and recognition. Ensure staff are competitively paid, including health insurance and retirement benefits. Our students need quality teachers and staff in order to achieve success. As the wife of a teacher and as a former para-professional, I understand the necessity of securing the best teachers and staff in order to support our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Encourage active parental/family engagement and involvement in their student’s school life by providing parents with opportunities to participate in dozens of school committees. Create family event opportunities to encourage participation in their child’s school and ensure open communication through various methods, including board meetings. As a parent, I understand the importance of being involved in children’s education. From serving as PTA President, sitting on various school and district committees, to working in the classroom and driving on field trips, parental involvement is a key component to students’ success in school."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Continue to understand school board responsibilities and provide good School Board Governance by ensuring all school board meetings encourage constructive parental/community input. Continue to learn and grow through various opportunities and conferences, in order to serve the board and community as best as possible. It is crucial to understand the legal and ethical components of serving as a Trustee. As Executive Director of a non-profit, I had 15 years leading proper board procedures and my 16 years as a Commercial Construction Sales Executive provided me the necessary experience in managing million-dollar budgets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote so I can continue this necessary work to benefit our students, staff and school district."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-171.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

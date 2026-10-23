@@ -1,0 +1,262 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:35:39Z",
+  "candidates": [
+    {
+      "choice": "Martha Abraham",
+      "statement": {
+        "by": "Martha Abraham",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Our Neighborhoods Are Worthy of Better"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "District 4 residents deserve a strong voice at the table, and I am committed to being that advocate for our communities. The need is visible every day, storm channels left uncleared, homes still flooding after the January 2024 storms, crumbling roads, underperforming schools, lack of green space and neglected parks. I am running to address this pattern of disinvestment and to ensure District 4 receives the attention, investment, and resources our neighborhoods deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My Experience"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "People-centered decision making: As a nurse, I’m trained to listen first, assess real needs, and act with compassion to deliver real results"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Public health expertise: I understand how housing, access to fresh food, quality schools, clean air, and access to green spaces directly affect health."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My Commitment"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "People First:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Restoring trust by bringing residents into the decision-making process, listening, and holding leaders accountable."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Healthy and Engaged Neighborhoods:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "I will push for thoughtful growth and fair investment in public services and housing, ensuring District 4 neighborhoods are places where people don’t just live, but truly thrive."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every decision I make will reflect my guiding principle as a nurse and an advocate: people first, always."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "https://martha4sandiego.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-583.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Henry Foster III",
+      "statement": {
+        "by": "Henry Foster III",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong resident of District 4, where my family has lived for generations and where I have raised my own family. I am a graduate of Lincoln High School and father of two successful adult children. I have grown up in our community, and I know the real difference between empty promises and real investment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I lead with hard work, integrity, and a refusal to let District 4 continue to wait longer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since taking office in April 2024, I've worked to make sure District 4 isn't an afterthought:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strengthening our communities:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Secured federal investment for the Black Arts & Culture District"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Fought for a $25/hour wage for hospitality workers"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Restored small business funding"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Improving quality of life:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Secured full funding for the $37.3 million Oak Park Library"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Restored library and recreation center hours"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Delivered flood relief to get families back into stable housing"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Investing in real safety:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expanded the No Shots Fired violence interruption program"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Restored youth drop-in centers"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Helped establish real civilian oversight of policing"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If re-elected, I will keep fighting so District 4 gets what it has already earned— real investment, real safety, and a city that keeps its promises."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sincerely,\nHenry"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-583.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

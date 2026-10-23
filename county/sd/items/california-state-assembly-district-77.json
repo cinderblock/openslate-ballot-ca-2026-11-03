@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 77",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-77",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:13:18Z",
+  "candidates": [
+    {
+      "choice": "Tasha Boerner",
+      "statement": {
+        "by": "Tasha Boerner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is my honor to represent San Diego County in the California State Assembly. In this role, I’ve authored 35 laws, including historic legislation addressing the climate crisis and pollution, combating discrimination, expanding access to health care, and improving traffic safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "San Diego County is facing an affordability crisis—rising costs are hurting working families. That’s why I authored a new law to prevent unnecessary utility rate increases. I also authored a bill which would require internet companies to offer affordable service for low-income Californians. To tackle the high cost of housing, I authored The Starter Home Revitalization Act, which reduces the barriers to building homes that fit the character of our communities. There is more work to do, and I will keep fighting to make San Diego County more affordable for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe the first job of government is public safety. In the State Assembly, I’ve helped secure new funding for San Diego County firefighters and lifeguards. I’m honored to have the endorsement of groups representing local firefighters and police officers, as well as teachers and nurses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a businesswoman, mother of two, fourth-generation San Diego County resident, and a former City Councilmember and PTA leader. Those experiences make me who I am and give me a deep understanding of our community. As your Assemblymember, I will always have an open door to residents who need help and an open mind to my constituents’ ideas and challenges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote,\nTasha Boerner\nwww.TashaBoerner.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

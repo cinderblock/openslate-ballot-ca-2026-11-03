@@ -1,0 +1,156 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Grossmont Union High School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "candidates": [
+    {
+      "choice": "Charissa \"Chrissy\" McCullough",
+      "statement": {
+        "by": "Charissa \"Chrissy\" McCullough",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Charissa “Chrissy” McCullough. I am a mother, educator, businesswoman, and active parent volunteer dedicated to the future of East County. My faith and love for this community guide my commitment to serving with integrity and compassion."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a mom raising high school-aged children, I understand the hopes and challenges families face and the importance of keeping parents involved in their children’s education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our schools should prioritize academic excellence and student safety while preparing students for life after graduation. Whether students choose college, trade school, military service, or entrepreneurship, they deserve the knowledge, skills, and opportunities to succeed. I believe the arts, athletics, and clubs are essential to a well-rounded education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Having navigated the IEP process, I believe students deserve the support they need, and educators deserve the training and resources to help them succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will be a responsible steward of taxpayer dollars by prioritizing classroom funding and increasing transparency. I will keep the focus on academics, not political agendas, make school activities more affordable, oppose unnecessary taxes and bond measures, and uphold Title IX protections for girls’ sports."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build safe, excellent schools where every student can learn, grow, and succeed."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steve Mull",
+      "statement": {
+        "by": "Steve Mull",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For more than 34 years, I have dedicated my career to helping students succeed. As a classroom teacher, vice principal, and a 20 year school principal, I worked daily with students, parents, teachers, and community members to improve schools and expand opportunities for every child."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have earned the endorsement of teachers who know my commitment to public education. I have the experience, leadership, and proven record to successfully serve on the Grossmont Union High School District Governing Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are simple: put students first, support academic excellence, maintain safe schools, and be a responsible steward of taxpayer dollars. I will protect and strengthen science, technology, engineering, arts, music, career technical education, and athletic programs so every student has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s time to bring professionalism back to the Board. I will promote collaboration, respect, transparency, and decisions centered on students—not politics. I will listen, build consensus, and focus on solutions that strengthen our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With over three decades of educational leadership, the endorsement of teachers, and 20 years of proven success as a principal, I respectfully ask for your vote so we can keep Grossmont schools strong and ensure student success!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jimmy Merino",
+      "statement": {
+        "by": "Jimmy Merino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "A leader that serves, not takes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Grossmont Union High School District community must be heard and represented."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because as a 4th generation San Diegan, raised in East County my entire life of 43 years, and SDSU alumni, I feel a great sense of loyalty and honor because of what this community has given me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "However, now that I have children experiencing the GUHSD firsthand, as a dad and coach, I am saddened at the neglect the students, parents, coaches, and teachers of this community have endured."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Public Adjuster, I fight against insurance companies for a living. I understand what it takes to hold powerful institutions accountable and put power back where it rightfully belongs, the people!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Baseball Coach, serving our community for the last 10 years. I understand whether it’s coaching little league, or Varsity Baseball, one thing is certain, a good coach will always put the kids first, not themselves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a young Inventor, I understand that school resources, such as libraries and music programs are foundational to success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trustee my goal is to build trust between the leadership and the community."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

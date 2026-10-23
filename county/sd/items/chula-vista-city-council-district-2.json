@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chula Vista City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/chula-vista",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "Angelica Martinez",
+      "statement": {
+        "by": "Angelica Martinez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez led the fight to stop City Councilmembers from getting a 70% increase in salary from $64,000 to $110,000 for a part-time job!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez will prioritize completion of Hilltop Park, giving our families a safe place to gather. District 2 deserves a Councilmember who delivers our parks and major projects on time, without delays."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez will put public safety first. Angelica Martinez will focus on adding more police officers to keep our community one of the safest cities in America."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez understands the struggles families are facing with the high cost of living. Martinez will focus on bringing affordable housing to Chula Vista for first-time homebuyers, in addition to more affordable rentals."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez will make life more affordable for families by opposing the mileage tax, gas tax, and increased sales taxes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez supports small businesses and will focus on streamlining the permitting process. As an experienced businesswoman, she understands how to solve problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez is committed to preserving the character of our single-family neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Angelica Martinez believes in getting homeless off the streets – treating them with compassion while requiring accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Chula Vista is home to Angelica Martinez and her husband, where they are raising their three sons."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote Angelica Martinez for Chula Vista City Council!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=61",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jose Preciado",
+      "statement": {
+        "by": "Jose Preciado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by Chula Vista Firefighters, Police and Healthcare Workers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Here’s why: Jose Preciado is keeping Chula Vista moving forward: faster 911, affordable homes, revitalized Bayfront and Third Avenue, clean parks, and more local jobs. He won’t let Washington’s chaos drag us backward. Jose fights on our side and gets results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Getting The Basics Right…. As City Councilmember, Jose Preciado added 7 police officers, 24 firefighters and Fire Station 12. He banned homeless encampments blocking streets by schools and parks. Jose fights for a safe, clean city that works."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fighting For What’s Right… Jose Preciado opposes Trump’s ICE chaos. Jose passed Chula Vista’s Good Neighbor Law to stop warrantless ICE raids on city properties. All families deserve safety and dignity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Taking On Corruption and Rising Costs… Jose Preciado voted against unjustified pay raises for city politicians, blocked surprise evictions and added 289 new homes families can afford. Jose puts working families first, not the rich."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Results Improving Chula Vista… Jose Preciado helped bring the Gaylord Hotel transforming West Chula Vista and creating 7,000 union jobs. He’s upgrading Hilltop Park and Eucalyptus Park and keeping Third Avenue bustling with new shops."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While Washington makes life harder, Jose Preciado makes Chula Vista better. Jose is our Councilman, neighbor and SDSU educator who fights for us and gets results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Keep Chula Vista Moving Forward. VoteJosePreciado.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=61",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

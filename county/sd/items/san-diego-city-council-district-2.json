@@ -1,0 +1,285 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:06Z",
+  "candidates": [
+    {
+      "choice": "Richard Bailey",
+      "statement": {
+        "by": "Richard Bailey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "An Experienced, Independent Civic Leader"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Former Coronado Mayor and current San Diego business owner, Richard Bailey, is committed to addressing the structural deficit through spending and management reforms without raising new taxes and fees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "His proven track record as a successful two-term mayor and business owner gives him the real-world experience needed to balance the budget while implementing new service-delivery models that prioritize fixing the crumbling roads, turning on the streetlights, and cleaning up the parks and public facilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Richard believes nonpartisan, commonsense leadership, focused on good governance policies is the best approach to local government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "B.S. Business Finance"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "M.S. Applied Economics"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Coronado Mayor, 2016 - 2024"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Diego Business Owner"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Financial Analyst at Fortune 500 Company"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Priorities"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Balancing the budget in a financially sustainable manner."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Reopening the Mission Bay restrooms."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Reopening the Ocean Beach Pier."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Delivering higher-quality services for less through managed-competition."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Reforming ADU and parking policies to protect quality of life for neighborhoods."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Implementing a City-Manager model of government to restore professionalism."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In addition to public service, Richard leads an active lifestyle that includes playing beach volleyball, running marathons, and he recently reached the summit of Mount Everest."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at: richardbailey.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nicole Crosby",
+      "statement": {
+        "by": "Nicole Crosby",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Nicole Crosby is San Diego’s voice for a city hall that puts working families first."
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Keeping Communities Safe: As a Deputy City Attorney, Nicole led San Diego’s Gun Violence Restraining Order Program to get illegal guns off our streets. She stood up for victims of elder and domestic abuse, prosecuted slumlords exploiting tenants, protected kids from harassment, and connected vulnerable residents with critical services."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "A Leader Who Gets Things Done: Nicole’s a working mom and immediate past President of the Clairemont Town Council and the Holmes Elementary PTA. She’s always stepped up for her community and will fight for a more affordable San Diego, better transit, and world-class city services."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Accountability That Delivers Results: Nicole stood up against developers abusing ADU loopholes, and spent ten years on her union’s negotiating team securing fair contracts. She'll demand accountability from our government, repair our roads on time, and stop the nickel and diming."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nicole’s endorsements include"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Planned Parenthood Action Fund of the Pacific Southwest"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Assemblymember Dr. Darshana Patel"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Diego County Supervisor Paloma Aguirre"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Diego City Firefighters Local 145"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "and community leaders, labor unions, and elected officials across San Diego."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for Nicole Crosby. She’ll work for you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit www.nicoleforsandiego.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

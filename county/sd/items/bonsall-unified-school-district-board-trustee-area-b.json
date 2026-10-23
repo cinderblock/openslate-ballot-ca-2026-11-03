@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Bonsall Unified School District Board, Trustee Area B",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:05:36Z",
+  "candidates": [
+    {
+      "choice": "Michael Gaddis",
+      "statement": {
+        "by": "Michael Gaddis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Michael Gaddis. Living in Bonsall with my wife, our two children, both of whom attended Bonsall schools, and our little dog Charlie keeps me grounded in the community I have lived in for 17 years. Although I am an attorney and businessman, I have always been an academic at heart and believe strongly in the value of education. My time as Trustee has provided me with a deeper understanding of both the challenges and opportunities facing our district. I have learned that the most important thing to being a Trustee is listening. Everyone should have the opportunity to express concerns, offer ideas, and question the status quo. That is how we create accountability and continue to grow as a district. Today’s students are tomorrow’s leaders. Trustees have the responsibility of shaping and protecting the educational future of our students. I take that responsibility seriously. When I was young, my family did not have a lot, but the schools I attended provided me with stability and hope. I am running for re-election because I want every Bonsall student to believe that with hard work, determination, guidance, and a community willing to invest in them, anything is possible."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-139.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

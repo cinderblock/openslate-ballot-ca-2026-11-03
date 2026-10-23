@@ -1,0 +1,56 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "South Bay Union School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:02Z",
+  "candidates": [
+    {
+      "choice": "Kelly Leiker",
+      "statement": {
+        "by": "Kelly Leiker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent, an educator and a lifelong community member, serving as your school board trustee is an honor. As declining enrollment is impacting our schools, I have provided steady leadership and guidance to help navigate fiscal and structural challenges. Working with the community, I helped create guiding mission, vision and values focused on student success, staff support and community engagement while balancing the realities of financial stabilization. I have successfully advocated for two school bonds to modernize facilities and update our classrooms for future generations. Recognizing that safety is of the utmost importance, I helped prioritize campus initiatives that successfully upgraded access to controls, and installed state-of-the-art campus monitoring systems district wide. Amid serious budget constraints, I fought to maintain competitive wages across every job classification while being fiscally responsible.\nStudents’ academic achievement, attendance, and overall feeling of safety and wellbeing are all making growth. We have successfully stabilized our district, for the near future but there is still lots of work to do. I am ready to keep moving forward. I ask for your vote for re-election to continue protecting our financial health, supporting our staff and providing safe, quality education for all students."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Erika Lowery",
+      "statement": {
+        "by": "Erika Lowery",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent, I understand the need for a fair and rigorous education for every student. Which is why my plan is simple: Accountability. Teachers and the Board are accountable to the parents. You put your children in our care, and you deserve to know what is being taught. Back to basics. Focus on the core educational principles of reading, writing, math, and science to prepare students for higher education. Classroom focused. Support the teachers and encourage family involvement in the school. Our children need to know we care about their education, on every level."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support our students and want them to succeed, now and in the future. I strive to have our basic educational levels reach the highest level for all our students.\nI say this as a mom of a child on an IEP. I will fight for every one of our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Erika Lowery for South Bay Union School District Area 1"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

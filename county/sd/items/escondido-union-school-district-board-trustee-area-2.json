@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido Union School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:27Z",
+  "candidates": [
+    {
+      "choice": "Chris Ranglas",
+      "statement": {
+        "by": "Chris Ranglas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a UCSD IT project manager, Escondido father of four, and active local volunteer, I am running to strengthen the K-8 experience for our children. Raised by a single mother who became a college math teacher, I learned early the transformative power of public education and strong community support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Managing complex budgets and technology implementations daily, I bring proven professional competence to our school district. While passion is essential, running a district funded by taxpayers requires operational discipline, financial accountability, and the ability to deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My platform focuses on three clear priorities: First, achieve academic excellence by prioritizing core fundamentals and mindful, balanced classroom technology. Second, champion well-rounded student success by protecting arts, athletics, and technical vocational pathways. Third, bridge the gap between homes and classrooms by unifying parents and teachers around transparent curriculum and safe facilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by EUSD Board Members Zesty Harper and Joan Gardner (sitting Trustee Area 2 representative). Good intentions are common, but proven execution is rare. I offer a father’s heart and the professional experience needed to elevate our local schools for every family."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Elizabeth Shulok",
+      "statement": {
+        "by": "Elizabeth Shulok",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Escondido Union School Board because our district needs a trustee who will bring transparency, integrity, and real accountability to the boardroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My husband and I chose Escondido to raise our family when we bought our home here over 20 years ago. Our three children have all attended district schools, first Bernardo Elementary and then Quantum Academy, an EUSD school of choice, where they thrived. I support working with the community to expand specialty school choices in our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2023, I launched District Voices of Escondido, an online newsletter that keeps local families informed about what’s happening in our district, because parents deserve to know what’s being decided on their behalf."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the last 14 years, I’ve volunteered in our classrooms, served on multiple district committees including the Superintendent’s Design Team, attended countless board meetings, and worked as an EUSD substitute noon supervisor at multiple elementary schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This is the kind of commitment and firsthand experience I’ll bring to the board, coupled with my analytical, evidence-based approach from a career in software and data science. I’ll ask hard questions, expect clear answers, and always put our students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join me at https://shulok.org"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

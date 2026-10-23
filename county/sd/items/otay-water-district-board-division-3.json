@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Otay Water District Board, Division 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:59Z",
+  "candidates": [
+    {
+      "choice": "Gary Croucher",
+      "statement": {
+        "by": "Gary Croucher",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Currently an Otay Water District Board of Director, that was initially appointed by the San Diego County Board of Supervisors. I have been involved with water related issues for the past 25 years with a simple philosophy – to provide reliable, quality water at an affordable price."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Attention to detail is a must, with an emphasis on Supply, Storage and Conservation. Listening to ratepayers is key in order to properly represent the customers we serve and working with surrounding agencies, while placing our citizen ‘ s needs as our number one priority."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our concerns must be heard at the Local, Regional, State and National level. I am currently the Chairman of the San Diego County Water Authority, on the Colorado River Board of Directors as the Alternate Representative for San Diego County, past Chairman of the San Diego County Fire Borders Committee and San Diego past member of the SANDAG Borders Committee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let your voice be heard, Vote for Gary Croucher."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-666.pdf#page=61",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

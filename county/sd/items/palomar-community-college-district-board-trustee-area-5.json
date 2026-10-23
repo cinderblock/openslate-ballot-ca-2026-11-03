@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palomar Community College District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:21Z",
+  "candidates": [
+    {
+      "choice": "Jennifer Jeffries",
+      "statement": {
+        "by": "Jennifer Jeffries",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have dedicated my career to serving students at every level of education, from teacher to principal, superintendent, and college professor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, I have focused on student achievement, strengthened partnerships with families, employers, and community organizations, and prepared students for lifelong success. As a college professor, I understand the critical role Palomar College plays in developing North County’s workforce and supporting economic growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been elected twice as a Director of the Fallbrook Regional Health District. I recognize the importance of being an elected official serving an inland North County community. In addition, supporting my community through local nonprofits has taught me that strong leadership, accountability, and creating opportunities for students strengthens our communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Palomar College Trustee, I will strengthen workforce pathways, support academic excellence, and ensure responsible stewardship of taxpayer resources. I believe Palomar College should remain affordable, innovative, and responsive to students, employers, and the emerging needs of our region."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can build a stronger future for Palomar College and North County through experienced leadership, sound financial management, and a commitment to student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at JenniferForPalomar.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Michelle Moore",
+      "statement": {
+        "by": "Michelle Moore",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Education opens doors, sustains our economy, and creates opportunities for our entire community. That has been true in my own life and the lives of the numerous students I have taught and mentored."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My career has focused on cybersecurity and national defense. I hold a Master of Science in Management Information Systems, a Master of Legal Studies in Technology Law, and a Doctorate in Public Policy Administration. For over two decades, I worked as a Senior Analyst with the United States Marine Corp, helping protect our military from cyberattacks. I later decided to share my experience with the next generation, becoming a Professor at the University of San Diego and the Academic Director of the Graduate Cyber Security Operations and Leadership Program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Palomar Community College District Trustee, I will focus on expanding career education, strengthening transfer pathways, and ensuring taxpayer dollars are spent responsibly. I will get politics out of the board room and lecture halls and focus on what really matters—student success. Our community colleges play a vital role in preparing students for high-demand careers and four-year universities, and they deserve experienced, thoughtful leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have the endorsement of Palomar Community College President Holly Hamilton-Bleakley, Vice President Yvette Acosta, and Trustee Jacqui Kaiser."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Michelle Moore, PhD"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.MooreForPalomar.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

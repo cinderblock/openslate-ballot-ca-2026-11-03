@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Grossmont Healthcare District Board, Zone 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:00Z",
+  "candidates": [
+    {
+      "choice": "Randy Lenac",
+      "statement": {
+        "by": "Randy Lenac",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "With two decades of healthcare experience, 27 years Marine officer leadership experience, and a lifetime record of honorable public service, I bring experience, leadership, and courage to fight to bring you quality healthcare resources. I have championed technological and program improvements to your Grossmont Hospital. I am committed to provide critical resources to our network of community healthcare providers and I have a passion for developing our youth as the healthcare workforce of the future. As the current Board President, I work with my fellow directors to bring needed healthcare resources to our community and I am proud of our record and achievements over the past 12 years. Dealing with our very challenging healthcare environment will require experienced leadership to work with our community partners in advancing the widest network of health resources to the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That is what you get from me, not squandering your tax dollars on non-healthcare related special interests."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Call or email with questions: (619)889-4622"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "randy.lenac.bigspringsranch@gmail.com\nThe choice is clear. Reelect Randy Lenac for Grossmont Healthcare District"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jennifer Morrissey",
+      "statement": {
+        "by": "Jennifer Morrissey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "With more than 25 years in nonprofit leadership and public service across San Diego County, I am running for the Grossmont Healthcare District Board to broaden access to affordable care, strengthen Sharp Grossmont Hospital, support seniors, and expand health and wellness services in East County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since 2018, I have served as Executive Director of the Mission Trails Regional Park Foundation, building partnerships, overseeing free education programs that serve 6,000 children annually, ensuring access to recreational programs, and guiding park projects. Under my leadership, we were named a California Nonprofit of the Year. At Voices for Children, I advocated for foster youth to ensure their needs were met."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in a healthcare family. My father provides cardiac care in California’s Central Valley, and my mother was a nurse; my parents served in the Peace Corps in Africa, delivering medical care to communities. This upbringing formed my belief that high-quality healthcare must be accessible to all and that providers are accountable to communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have lived in Lemon Grove since 2004 and serve on its Planning Commission. My husband and I have raised our children in East County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote. https://jenniferforgrossmont.com/"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

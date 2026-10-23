@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Senate, District 38",
+    "kind": "race",
+    "jurisdiction": "us/ca/sd-38",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:21Z",
+  "candidates": [
+    {
+      "choice": "Laura Bassett",
+      "statement": {
+        "by": "Laura Bassett",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m Laura Bassett, a lifelong Oceanside resident running to make California affordable for working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This coastal community is home. My husband Taylor and I have been married for 33 years and raised our six children here, staying deeply involved in local theater, service, and the life of our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After earning my accounting degree from the University of Southern California, I built a career grounded in trust and responsibility, working as a licensed real estate professional, a licensed professional fiduciary, and the owner of two local small businesses. I serve as a San Diego County Civil Service Commissioner, a Chamber of Commerce Ambassador, and a Rotarian."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running because the California that families built their lives on has become a California that families can no longer afford. Gas, groceries, rent, insurance, electricity — every cost keeps climbing while Sacramento argues about everything except the issues sitting on our kitchen tables."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the State Senate, I’ll fight to make life more affordable: lower taxes and fees, smarter regulations that bring down the cost of housing and insurance, and real accountability for how our money is spent. I’ll support law enforcement and safe neighborhoods, protect our coastline for the next generation, and return decisions to the communities that know themselves best."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This district doesn’t need more partisanship. It needs balance, and a senator focused on keeping California Safe, Strong, and Sustainable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’d be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "bassettforca.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=49",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Grossmont-Cuyamaca Community College District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:00Z",
+  "candidates": [
+    {
+      "choice": "Mary Gwin",
+      "statement": {
+        "by": "Mary Gwin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Primary election winner with 70% of the vote!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong educator committed to improving public education, currently serving as a full-time college professor at San Diego Mesa College."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Community Colleges provide the on-going education needed for job training, career advancement, personal growth and transfer to a four year college."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue fighting for community colleges to remain affordable, and provide college transfer and career training opportunities, especially for our veterans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to ensure our East County tax dollars are spent wisely, with transparency and accountability. I will advocate to ensure the District continues to receive clean financial audits each year as certified by an independent accounting firm."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My community service includes volunteering at the Monarch School serving unhoused youth, a Stand Down Volunteer in the Veteran’s Village of San Diego, and a Public Library Literacy Tutor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am not a politician seeking higher office. I am a career educator seeking to ensure our East County students receive the college transfer preparation and workforce training they need to be successful members of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by the American Federation of Teachers, the San Diego Labor Council, and current Community College Board Members."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for my election to the Grossmont-Cuyamaca Community College District Governing Board."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

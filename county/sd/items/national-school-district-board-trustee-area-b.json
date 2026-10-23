@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "National School District Board, Trustee Area B",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:57Z",
+  "candidates": [
+    {
+      "choice": "Alma Sarmiento",
+      "statement": {
+        "by": "Alma Sarmiento",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Alma is a life-long resident of National City and mother of six. During her term on the National School District Governing Board she has served several times as Board President as well as Chairman of the South County Joint School Boards Coalition."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alma single-handedly formed the Safe Routes to Schools Committee which has brought in over $1.4 million dollars in safety related improvements to our district. This was much needed money in these tough economic times."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alma’s leadership has contributed to a variety of awards and recognition to our schools. We’ve received several California Distinguished Schools awards, the before and after schools programs have been designated model programs in the state, free dental and vision screenings for all children, and free breakfasts and lunches. Our children have received numerous awards in educational technology from the County Office of Education. The district is also on the California Business for Education Excellence Honor Roll. Alma has fought for the music program over the years and it continues every single year she has served on the board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alma has the experience, energy, integrity, and dedication to our children in National City. Re-elect Alma Sarmiento to the National School District Governing Board."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-695.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

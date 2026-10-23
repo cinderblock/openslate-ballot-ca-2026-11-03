@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Poway Unified School District Board, Trustee Area C",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:24:54Z",
+  "candidates": [
+    {
+      "choice": "Jason Bennett",
+      "statement": {
+        "by": "Jason Bennett",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m a proud father with a son in Poway Unified schools, a former U.S. Marine, and a local business owner committed to our community. For over a decade, I’ve owned and operated Flippin’ Pizza locations locally. Between 2012 and 2022 alone, my businesses contributed more than $100,000 to PUSD classrooms, PTAs, and athletic programs support that continues today."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also serve on the board of PUSD Community Watch, advocating for board transparency, parental rights, and student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your trustee, my priorities are: Restoring American pride in our education system. Returning focus to excellence, ensuring every child builds a strong foundation in reading, writing, and math. Protecting taxpayer dollars through transparent, responsible budgeting that keeps resources in classrooms. Supporting safe schools"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My service in the Marine Corps taught me discipline, integrity, and accountability. As a volunteer, I’ve coached students in soccer, basketball, and football locally. As a business owner, I’ve learned to balance budgets, solve problems, and lead with common sense."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll bring these values to the PUSD Board listening to parents, partnering with educators, making decisions on facts, and always putting students first. Vote for me and we will secure our kids future.\nVisit www.bennettforpusdboard.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-275.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Heather Plotzke",
+      "statement": {
+        "by": "Heather Plotzke",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "During my service on the Poway Unified School Board, I have remained focused on three commitments: striving to prepare students for life after graduation, providing world-class support to families and our employees, and protecting the district’s long-term fiscal health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud of PUSD’s tradition of academic excellence, but our work extends beyond test scores. Our goal for every student is to leave Poway with a diploma and a plan. With all students being general education students first, I have always supported rigorous instruction while advocating for special support services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have also worked to strengthen trust between PUSD, families, and the community with welcoming schools, clear communication, and respectful treatment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Finally, I remain committed to responsible oversight of public resources. Declining enrollment and fiscal pressures require long-range planning and thoughtful decisions that protect classrooms and student opportunities. We must continue improving efficiency while strategically addressing facilities, maintenance, technology, transportation, and staffing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am seeking re-election to build on this work, support every student, strengthen community trust, and ensure PUSD remains strong for generations to come."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-275.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

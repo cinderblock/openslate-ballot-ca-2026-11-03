@@ -1,0 +1,126 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Poway Unified School District Board, Trustee Area D",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:21Z",
+  "candidates": [
+    {
+      "choice": "Daniela Darling",
+      "statement": {
+        "by": "Daniela Darling",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m Daniela Darling, a Hispanic PUSD parent, child therapist, Broadcast Communication graduate, and volunteer running for School Board to put our kids and parents first. I’ve attended Poway Unified board meetings and watched parents plead to be included before decisions are made, only to be left protesting in the parking lot to be heard. That ends when you elect a parent who listens first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our kids are falling behind. We need a return to basics: reading, writing, and math, consistent district-wide behavior standards, and real support for special education families rather than fights over services they are legally owed. Parents deserve a voice before every major decision, not after."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need honesty about money. Poor choices have left our district facing a deficit, and the answer isn’t more bonds, more debt on your back. The solution is making smarter, accountable choices with the money we already have, and showing where every dollar goes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I moved to Poway with great sacrifice for my child’s education. Poway is home to my child and our dogs, Romeo and Snoopy. If you believe our schools can be excellent through accountability and without taxing you deeper into debt, I’d be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jennifer Dahlquist Ramirez",
+      "statement": {
+        "by": "Jennifer Dahlquist Ramirez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am, first, a mother of four. I am also an educator, a founder, and a systems leader. For more than twenty years I have taught across the full education continuum — general and special education, private and public, including seventeen years at a top-ranked California public high school. Few educators have experience across that full range — from the most-resourced communities to the least-resourced. I do."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A district’s failures are structural, not accidental; they hide first where a board lacks training and expertise. Special education is among the most costly systems, the one educational leaders understand the least, but where taxpayer dollars matter most."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Poway holds real strengths and dedicated educators, certificated and classified alike; yet our most vulnerable children, students with disabilities, English learners, and children in poverty continue to be under-served. The signs are there now, yet reactive governance — waiting for a crisis before we act — costs us all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running to change that: to govern closely, to hold the board to its own bylaws, and to account for every dollar."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every child counts, and I count every child."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Michelle O'Connor-Ratcliff",
+      "statement": {
+        "by": "Michelle O'Connor-Ratcliff",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My leadership on the School Board has led to important shifts in Poway Unified’s culture and priorities. As Board President for five years, I’ve championed efforts to build student inclusion and belonging, increase family and community participation, and open student opportunities through innovative educational programming. I have a particular passion for special education excellence."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve forged connections and built trust through parent meetings, attending school events, and collaborating with staff. I’ve also held the District accountable when it has fallen short of its commitments to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an alumna of PUSD, daughter of retired PUSD teachers, and PUSD parent, I’m invested in the continued excellence of our district. With degrees from Stanford University and UC Law SF, I teach Business Law at the University of San Diego and served as a PTA Board member, theatre booster, Girl Scout troop leader, and Special Olympics volunteer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud of the work I’ve helped lead and excited about the positive momentum in Poway Unified. There is still work to be done. I’ll keep pushing the District to do more and do it better, increase family engagement and fiscal accountability, and keep decisions focused on what’s best for students. I respectfully ask for your support and your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Michelle O’Connor-Ratcliff.\nwww.mor4pusd.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oceanside City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/oceanside",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:59Z",
+  "candidates": [
+    {
+      "choice": "Eric Joyce",
+      "statement": {
+        "by": "Eric Joyce",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Oceanside is a city of hard-working, resilient and caring people. I will continue to serve each resident of the city we call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since I joined the City Council, Oceanside has invested over a million dollars a year in new youth programming and hundreds of thousands in neighborhood traffic calming so children can walk to school safely. My office led the coalition of seniors advocating for the Age-Friendly City program to make it easier for everyone to thrive. I’ve hosted dozens of workshops so our people better understand how to make local government work for their families. We’ve navigated the path to put sand back on our beaches and meaningfully disrupt the cycle of homelessness. We’ve done important work, but there’s still much more to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This election is about the future of Oceanside and I believe we can elect a council that works to solve complex problems. We can ensure Oceanside’s multicultural heritage is uplifted and honored rather than sold as a tourist attraction. Together we can make staying in Oceanside a realistic option for working families and do life-changing work in the city we love."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ericjoyce.org"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-150.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

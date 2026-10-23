@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Dieguito Union High School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:13:27Z",
+  "candidates": [
+    {
+      "choice": "Summer Boger",
+      "statement": {
+        "by": "Summer Boger",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am an educator in the Special Education Department of the San Dieguito Union High School District, working part-time throughout our district’s high schools and middle schools. Through this work I have gained direct insight into what our students need and what our teachers face — and it has shaped my three priorities for this board seat."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a holistic health practitioner with more than 25 years of experience serving families in our community, I know firsthand that student health, well-being, and academic success are inseparable. I have also spent the past 10 years advocating for families of children with special needs — helping them understand their rights, find resources, and navigate the system."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My two children graduated from San Dieguito Academy with honors and went on to four-year colleges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are clear: Academic Achievement — High standards, measurable results, transparency, and strong support for our teachers. Budget Accountability — Responsible stewardship of every taxpayer dollar, with resources focused on students and classrooms. College, Career and Life Readiness — Strong college preparation, expanded career and technical education, skilled trades pathways, and mentorship and internship opportunities that prepare every student for life after graduation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "All Families. All Students. All Areas."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Parents’ Choice."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-214.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Helen Doyle",
+      "statement": {
+        "by": "Helen Doyle",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As the parent of three school-aged children, I’m invested in our public schools and community. My active involvement with the PTA and at local School Board meetings has given me valuable insights into the issues that matter to our families. One of my proudest achievements is working with DMUSD parents to successfully campaign for a locked door policy, enhancing the safety and security of campuses. As a Del Mar Schools Education Foundation Director, I work with parents from all nine schools in support of the district-wide STEAM+ program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Outside of my volunteer work in local schools, I’ve had the privilege of advocating for the needs of foster children as a Court Appointed Special Advocate (CASA). I continue that work by training new CASAs to work with compassion and empathy. My work as an engineer taught me complex problem-solving and collaboration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "These experiences have deepened my commitment to ensuring that every child’s voice is heard, and their needs are met. I’m eager to join the San Dieguito Union High School District Board, where I will bring transparent decision-making and consensus-building in furtherance of effective governance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you for your consideration and vote. I look forward to serving the SDUHSD community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.DoyleforSanDieguito.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-214.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

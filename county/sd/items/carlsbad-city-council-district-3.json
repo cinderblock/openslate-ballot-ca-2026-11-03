@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carlsbad City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/carlsbad",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:11:28Z",
+  "candidates": [
+    {
+      "choice": "Priya Bhat-Patel",
+      "statement": {
+        "by": "Priya Bhat-Patel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by Carlsbad Firefighters’ and Police Officers’ Associations, Dr. Priya Bhat-Patel is a public health professional and tireless advocate dedicated to improving our quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Priya grew up in Carlsbad and graduated from Carlsbad public schools. As a working mother of two, Priya knows firsthand the challenges Carlsbad families face and is focused on practical solutions that prioritize our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dr. Bhat-Patel has championed policies to protect taxpayer dollars, helping city reserves grow to 58% of the general fund, above the 40% minimum. She supported stronger housing programs that drove a 66% increase in permanent placements for people experiencing homelessness and a 44% drop in homelessness-related police calls. She led Carlsbad to divest from fossil fuels and invest in clean energy jobs. Priya has strengthened the local economy by expanding the city’s Small Business Liaison Program, and she’s working to launch a Family-Friendly Certified Program that helps Carlsbad businesses better serve families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor Pro Tem and Chair of the North County Transit District, Priya is bringing Carlsbad’s voice to the table and securing the regional resources we deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dr. Bhat-Patel would be honored to earn your vote and continue serving the community she has always called home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.PriyaBhatPatel.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-204.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Wayland T. Lim",
+      "statement": {
+        "by": "Wayland T. Lim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a homeowner in Carlsbad for the past 25 years and have been an active volunteer in my community. I never take for granted the quality of life my family enjoys here, and I choose to run for City Council to ensure that the things we love about Carlsbad are maintained and even enhanced. I have a Masters degree in Education and Performance Improvement. I have helped for—profit and non-profit organizations excel and I will take that experience and knowledge to City Hall. Though I am pro business, I believe it is vital for corporations of all sizes to be mindful of being good citizens. Likewise, if you elect me to City Council, I will be mindful of my purpose and the residents I serve. I will not use any energy for re-election and I am not interested in accepting any PAC or corporate donations. Thank you for your consideration and your vote. Wayland Lim"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-204.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

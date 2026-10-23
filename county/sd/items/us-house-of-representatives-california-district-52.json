@@ -1,0 +1,58 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 52",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-52",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "Juan Vargas",
+      "statement": {
+        "by": "Juan Vargas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "In Congress, Juan Vargas has earned a reputation as one of the hardest-working members — a leader who fights tenaciously for the people of San Diego County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Juan is focused on lowering costs and strengthening middle-class families. During the pandemic, he helped pass the American Rescue Plan, delivering direct relief to working families and expanding the Child Tax Credit. He helped pass the bipartisan Infrastructure Investment and Jobs Act and has brought home over $1 billion in federal funding to improve ports of entry, roads, water systems, and create good-paying local jobs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Juan is fighting to make housing more affordable, lower prescription drug costs, protect Social Security and Medicare, and increase the supply of affordable homes. He voted to extend enhanced Affordable Care Act subsidies to prevent premium increases and make health coverage more affordable. He strongly supports workers’ rights and union jobs and has backed legislation like the PRO Act to protect the right to organize."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Juan secured over $650 million in federal funding to address cross-border pollution in the Tijuana River Valley and has worked to protect our beaches and border communities. He honored our veterans by helping pass the PACT Act, expanding VA benefits and services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Juan grew up on a chicken farm, one of 10 children. He earned a scholarship to college, studied to be a priest, and graduated from Harvard Law School. Juan and his wife, Adrienne, have two daughters, Rosa and Helena."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Juan Vargas fights for us — and delivers results."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=48",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

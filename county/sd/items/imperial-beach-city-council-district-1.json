@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Imperial Beach City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/imperial-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:02Z",
+  "candidates": [
+    {
+      "choice": "Steve Berry",
+      "statement": {
+        "by": "Steve Berry",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for Imperial Beach City Council District 1 because I feel that I can make a positive impact to our entire community. Been Married 33 years, th\nth\n3 Children, 5 Generation & 4 Grand Children, 6 Generation all District 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have owned a Small Print Shop 25 years & a Cookie Shop 10 years. Both are in District 1."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an advocate for the support of every Small Business in Imperial Beach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been serving Imperial Beach for over 30 years. I served as a youth sports Coach 25 years. I served as a Chamber of Commerce Board Member 3 years. Current Athletic Club founding Board Member for 9 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe I am the right choice to serve on the Imperial Beach City Council the next 4 years. I am 30 experienced in running board meetings. I have experience in setting a budget. I have an overwhelming amount of support & you have my unconditional commitment to serve everyone in our small beach town community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am looking forward to serving you on the Imperial Beach City Council. Thank you for your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jose Lopez Eguino",
+      "statement": {
+        "by": "Jose Lopez Eguino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong resident of the South Bay. I attended Berry Elementary, Southwest Middle and Southwest High School. I have lived in IB since 2020."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the San Diego Director of ACCE, a non-profit community organization, and I am finishing my first term as a School Board Trustee for the South Bay Union School District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for IB City Council to serve my community. I believe strongly in co-governance, and will work with the residents of district one and Imperial Beach as a whole to create an IB where our families have safe, affordable and dignified housing, safe streets, parks, clean air and a clean beach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a loving husband and father of 3 boys, a teen, a preschooler and a baby."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a community organizer I have worked with hundreds of renters in IB to pass tenant protections against unfair evictions, at Siesta Mobilehome park in 2019 and in 2024-2025 at the Swell Apts and Hawaiian Gardens."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe I will be a good council member since I understand what it’s like to organize with the community outside of city hall and also understand what it’s like to serve as an elected official."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

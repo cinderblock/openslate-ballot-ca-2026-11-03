@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palomar Health Board, Division 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:27Z",
+  "candidates": [
+    {
+      "choice": "Laurie Edwards-Tate",
+      "statement": {
+        "by": "Laurie Edwards-Tate",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Since 2018, it is my great honor to serve as a Director on the board of Palomar Health District Division 3, with diverse roles on the Executive Board and a variety of Committees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My voting record has and is in support of the following: Quality patient care; fiscal responsibility and fair treatment of all employees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As we all experience dramatic changes in healthcare access and service delivery in general, my pledge to you is to continue in support of the highest quality and most stabilizing opportunities and healthcare innovations for our District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With longevity serving on the Palomar Health Board of Directors, as CEO of my long-held thriving healthcare practice of many years, an educator in business and healthcare subjects, achieving a master’s degree in human resources management and organizational development and a contributor to a variety of community-based philanthropic organizations, it is my belief that I am uniquely suited to serve another term on the Board of Palomar Health representing our District with the right combination of both experience and heart."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your vote, I will continue to endeavor and help secure the most positive outcomes for all constituents within our District future forward and together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Laurie.Edwards-Tate@palomarhealth.org"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sarah Telahun",
+      "statement": {
+        "by": "Sarah Telahun",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Sarah Telahun is a Navy veteran and experienced registered nurse who has spent nearly two decades caring for patients and families throughout San Diego County. For the past 17 years, she has worked as a labor and delivery nurse in both military and civilian healthcare settings, helping mothers and babies through some of life’s most important moments. Sarah is committed to strengthening access to quality healthcare and supporting the healthcare heroes who serve our community every day. Her experience across a wide range of healthcare environments has given her a deep understanding of patient care, teamwork, and the challenges facing local healthcare systems. Beyond her nursing career, Sarah has remained actively involved in the community through volunteer work at local schools and leadership involvement with youth athletics programs. She is also continuing her education at the University of San Diego, pursuing a dual master’s degree in healthcare analytics and informatics. Sarah is a devoted wife and mother of three who values family, service, and community. She believes strong healthcare systems are built through collaboration, compassion, and trust, and she hopes to bring a thoughtful, community centered perspective to the Palomar Health District Board."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

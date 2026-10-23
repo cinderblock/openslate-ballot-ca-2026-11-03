@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carlsbad City Treasurer",
+    "kind": "race",
+    "jurisdiction": "us/ca/carlsbad",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:13:18Z",
+  "candidates": [
+    {
+      "choice": "Thomas Krouse",
+      "statement": {
+        "by": "Thomas Krouse",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Carlsbad City Treasurer is a part-time but very critical position managing approximately $1 Billion in various reserve and fund account investments. The position is best filled by a career investment professional possessing the experience and insight to ensure that Carlsbad’s financial assets are prudently invested to avoid losses while also earning sufficient returns to protect their purchasing power from the ravages of inflation. Orange County famously went bankrupt in 1994 due to the mismanagement of its investment portfolio – Carlsbad must never allow that to happen while also protecting against the negative impact of spikes in inflation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I‘ve had a 32 year career in Investment & Risk Management, Regulatory Compliance, Financial Technology, and Education. I earned my Chartered Financial Analyst designation in 1997 and a Certificate in International Financial Reporting from the Association of Chartered Certified Accountants. I’ve been registered with the Securities and Exchange Commission and FINRA including as a Registered Investment Adviser. And, I served as a board member of the North County Humane Society/SPCA and the Mayfield Community Clinic."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in Half Moon Bay and moved to Carlsbad in 1997. I earned my A.B. in Economics from Stanford University and an M.B.A. from the University of Southern California."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to receive your vote and to serve Carlsbad."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thank you,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Thomas Krouse, CFA\n(760) 659-3755\nThomas@KrouseForCarlsbad.com\nwww.KrouseForCarlsbad.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by former San Diego County Supervisor Pam Slater-Price and by San Diego Tax Fighters."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf#page=57",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Christian Peacox",
+      "statement": {
+        "by": "Christian Peacox",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Serving as your Carlsbad City Treasurer has been one of the greatest honors of my life. Since taking office in 2024, I’ve worked to protect taxpayer dollars through responsible financial management, transparency, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, I directly manage the City’s nearly $1 billion investment portfolio, generating tens of millions of dollars annually to help fund essential City services while reducing the burden on taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "By working collaboratively with City staff and the City Council, we’ve strengthened Carlsbad’s investment program by modernizing our Investment Policy, earning the California Municipal Treasurers Association’s Investment Policy Certification, and creating Carlsbad’s first Investment Review Board to provide independent oversight and greater transparency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To better serve our community, I earned the Certified California Municipal Treasurer (CCMT) designation and remain committed to the three guiding principles of public investing: Safety, Liquidity, and Yield. In practice, that means protecting public funds first, ensuring the City has sufficient cash to meet its obligations, and earning a prudent return for taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring more than 30 years of business and financial experience and graduated magna cum laude from USC with a Business degree emphasizing International Finance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote. Learn more at ChristianPeacox.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf#page=57",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

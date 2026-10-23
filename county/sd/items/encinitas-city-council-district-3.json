@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Encinitas City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/encinitas",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:13:54Z",
+  "candidates": [
+    {
+      "choice": "Arielle Golden",
+      "statement": {
+        "by": "Arielle Golden",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running to make Encinitas safer, more responsive, and prepared for the future while protecting the unique community character we love. I live in Cardiff-by-the-Sea where my husband and I are raising our young children, who attend our local schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a public policy professional, community organizer, and proven consensus builder with an MBA from UC San Diego. My experience includes food and agriculture policy, local food procurement, and helping to develop city-specific plans to implement food waste recycling throughout North County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have brought residents together to protect Glen Park, advocate for reproductive freedom, support refugee resettlement, and coordinate food security efforts. I understand that meaningful change begins by listening, building trust, and uniting around practical solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the City Council, I will prioritize safer streets, responsible infrastructure planning, and improved traffic flow. I will focus on creating welcoming community spaces for all ages, and taking science-backed action to protect Encinitas from a changing climate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Encinitas deserves an engaged representative who understands the daily experiences of families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring fresh energy, thoughtful leadership, and long-term vision to City Hall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by: Congressman Mike Levin, Everytown for Gun Safety"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.AGoldenEncinitas.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-219.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Ed Sprague",
+      "statement": {
+        "by": "Ed Sprague",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Encinitas District 3 deserves an independent City Council member with a proven record of leadership, public service, and local knowledge. Endorsed by the Deputy Sheriff’s Association of San Diego County, my life has been dedicated to public service and safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will protect our beaches, parks and open spaces; preserve local control while encouraging responsible growth; strengthen public safety through crime prevention and wildfire preparedness; and invest wisely in infrastructure and essential city services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During nearly 30 years in the fire service, I advanced to Deputy Fire Chief and Fire Marshal, where I managed complex public safety operations with integrity, accountability, and fiscal discipline. As an elected member of the Olivenhain Municipal Water District Board for 13 years, including service as President and Treasurer, I helped oversee an $80 million budget while protecting our water supply, environment, and ratepayers. I also served as Department Chair of Public Safety at Palomar College, teaching Emergency Management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a local who grew up in Cardiff, attended Oakcrest and San Dieguito Academy, earned a Master’s in Public Administration from San Diego State University and am the proud grandfather of children attending Encinitas schools. I respectfully ask for your vote to serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "EdforEncinitas.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-219.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

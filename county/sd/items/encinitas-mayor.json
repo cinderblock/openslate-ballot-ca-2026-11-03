@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Encinitas Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/encinitas",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:13:54Z",
+  "candidates": [
+    {
+      "choice": "Bruce Ehlers",
+      "statement": {
+        "by": "Bruce Ehlers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Bruce will preserve the small-scale beach community that we love. He supports local land use control and opposes state mandates. He authored Proposition A, “The Encinitas Right to Vote Initiative” approved by voters in 2013 to guarantee residents a voice in our city’s growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since elected Mayor in 2024, Bruce accelerated road paving, increased traffic enforcement, added deputies, and funded deferred infrastructure projects, fulfilling his “basic infrastructure first” commitment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under Bruce’s leadership, homelessness dropped by 30%. More remains to be done and he will continue to provide necessary services while enforcing our laws to make public spaces safe for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bruce will continue to focus on beach sand replenishment to protect our bluffs and enhance beach recreational opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bruce remains committed to protecting our environment through open space preservation, native plant restoration, North Highway 101 tree canopy restoration, and greenhouse gas emission reduction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Elected Mayor in 2024 and City Council member in 2022, Bruce served twice on the Planning Commission, most recently as Chairman, where he opposed excessive development."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bruce and his wife have called Encinitas home for 42 years and raised three daughters here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience counts, now more than ever. Re-elect Bruce!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.BruceForEncinitas.com, Bruce@BruceForEncinitas.com, @BruceForEncinitas, 760-944-9482"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-219.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Rimga Viskanta",
+      "statement": {
+        "by": "Rimga Viskanta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For 20 years, I have called this coastal community home. I raised my children here. I know what makes it special.\nI am running for Mayor to shape Encinitas for the next generation. I believe local action is how we take control of our future.\nI govern through collaboration, not combativeness. Where others see divides, I find common ground.\nI served eight years on two school boards, including three terms as President. During the pandemic, I led Encinitas Union School District’s safe school reopening. At San Dieguito Union High School District, I restored stability after division, built new facilities, and turned deficits into a surplus.\nI know how cities work from the inside. I worked for the City of Solana Beach in the Finance Department and City Manager’s Office, where I turned policy into practice, accounted for taxpayer dollars, and improved city services.\nAs Mayor, my priorities are clear:\nMake streets safer for pedestrians, bicyclists, and drivers through data-driven investments.\nSupport small-scale housing that fits our neighborhoods and public services.\nSafeguard our coastline and prepare for wildfire, flooding, and extreme heat.\nInvest in infrastructure through disciplined budgeting.\nPrevent homelessness through regional collaboration while keeping public spaces safe and welcoming.\nEndorsements:\nCongressman Mike Levin\nAssemblymember Tasha Boerner\nSierra Club www.voteforviskanta.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-219.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

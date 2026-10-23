@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fallbrook Public Utility District Board, Division 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:25:13Z",
+  "candidates": [
+    {
+      "choice": "Gerry Hoffman",
+      "statement": {
+        "by": "Gerry Hoffman",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "After spending 30 years teaching chemistry at the university level, I retired with my spouse to Fallbrook five years ago. We have fallen in love with this town, and I would like to show my appreciation through public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a Bachelor’s in Chemistry from Towson University (MD), and Master’s and Ph. D. degrees in Physical Chemistry from Cornell University (NY). Being a chemist, I understand the physical and chemical properties of water as well as methods of analysis and processes used for water purification."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "FPUD has recently made changes with the hope of reducing water rates, including leaving the San Diego County Water Authority to join the Eastern Municipal Water District. Unfortunately, water rates have not decreased. The purpose of FPUD is to provide water that is safe and affordable, as well as providing sewer service. Further, recent devastating fires have also shown how vital a reliable water supply is to our safety and the protection of our personal property."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The decisions made by this Board greatly impact our semi-rural community. If rates are too high, agriculture and all ratepayers will suffer. I would like to be your voice on the FPUD Board."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-251.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:21Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "A TRANSPARENT, ACCOUNTABLE, MODERN COUNTY GOVERNMENT"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Shall the San Diego County Charter be amended to establish an Independent Ethics Commission, Independent Budget Analyst, Independent Program Auditor, confirmation of certain senior County leaders, and optional Board of Supervisors appointment of the Public Defender; increase term limits from two to three terms for the Board of Supervisors members; require public disclosure of spending and performance data; clarify non-interference provisions; and update terminology and structure?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires Simple Majority (50%+1) of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=56"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “yes” vote is a vote in favor of the proposed Charter amendments."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=56"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “no” vote is a vote against amending the Charter."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=56"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "BALLOT MEASURE TO AMEND COUNTY OF SAN DIEGO CHARTER"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Supervisors (“Board”) for the County of San Diego (“County”) placed this measure on the ballot. If approved by a majority of the votes cast, this measure will amend the County Charter (“Charter”) as specified in full text of the ballot measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Charter provides for the structure of the County’s government, including the powers and duties of its officers. The Charter can only be amended with voter approval."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The following summarizes the amendments to the Charter proposed by this measure:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Increase County Supervisors’ term limits from two terms to three terms. This amendment would allow a person to serve in the role of County Supervisor for a maximum of twelve years, as opposed to the current maximum of eight years. Any current or former Supervisor’s prior time in office would count towards this three-term limit."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Require the Board to establish a procedure to review and confirm Chief Administrative Officer appointment of the Assistant Chief Administrative Officer, Deputy Chief Administrative Officers, Director of the Office of Emergency Services, Public Health Officer, and Public Defender. The Board shall have the power to remove such officers, with or without cause, by 4/5ths vote."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "The Board may appoint an Independent Budget Analyst and Independent Program Auditor. These new positions would perform specified audit and budget services as directed by the Board or, for the Independent Budget Analyst a County Supervisor. The Board may appoint one person to serve in both positions."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "The Board may change Public Defender to a Board appointment rather than Chief Administrative Officer appointment and may appoint additional officers that do not duplicate the Chief Administrative Officer’s functions."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Provides examples of permissible practices that County Supervisors may engage in without violating the non-interference clause."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Update Charter to state that no County Officer may influence the Director of Purchasing and Contracting for illegal personal gain or as prohibited by Charter’s non-interference clause. Currently, the Charter provides that no County Officer may influence Purchasing Agent in performance of duty and that Board may only conduct official business with Purchasing Agent at a regular Board meeting."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Change Citizen Advisory Board to Community Advisory Board and update appointment criteria."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Direct Board to establish an Ethics Commission of seven commissioners to be confirmed by the Board; one appointed by each County Supervisor and two by County Counsel. Commissioners are subject to removal, term limits, and certain qualifications as specified in the full measure text and may be granted subpoena power."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Require the Auditor and Controller to post all County spending data to the County’s website and order an annual independent financial and performance audit of County expenditures, made available to the public."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Clarify that regulation of political activities does not prohibit activities allowed by law."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Update prohibition against nepotism by specifying degree of relation."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Updates Charter structure and terminology."
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=56"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Independent Ethics Reform.\nTo fight corruption and fraud, MEASURE A establishes an Independent Ethics Commission to investigate misconduct, hold public officials accountable, strictly regulate lobbyists to reduce their influence and strengthen enforcement of campaign contribution limits. Unlike other large California counties, San Diego lacks an Ethics Commission to investigate allegations of misconduct."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Full Transparency.\nMEASURE A requires full and complete public disclosure of all county spending,"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Independent Oversight. Accountability.\nMEASURE A establishes an Independent Budget Analyst and Independent Program Auditor to track billions of taxpayer dollars, increase oversight and accountability and eliminate waste, fraud and abuse."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Holding bureaucrats accountable.\nUnelected bureaucrats have too much control over the County’s $8.5 billion budget with little public oversight. Under current county law, elected officials and the public cannot hold these bureaucrats accountable. MEASURE A implements accountability and transparency by requiring a public confirmation and removal process for executive-level county officials including public hearings, testimony and full public input.."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Absolutely NO COST to TAXPAYERS.\nMEASURE A is NOT a tax increase. MEASURE A requires implementation of all reforms using existing funds with NO NEW TAXES or additional costs to taxpayers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Term Limits.\nMEASURE A imposes strict 12-year term limits (the same as the legislature) on the Board of Supervisors."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Overdue Reforms.\nOur county charter is outdated. San Diego County has a population of 3.2 million. The charter was initially adopted in 1933 when the county’s population was less than 300,000. It has not been substantially updated in decades. MEASURE A makes county government more accountable and responsive to voters with stricter ethics laws to prevent corruption and fraud."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A broad, non-partisan coalition of civic, business, and labor leaders are uniting in support of MEASURE A to fight corruption, make county government more accountable, create independent budget and audit watchdogs and to better serve all of San Diego County."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES on MEASURE A.\nFight Fraud and Corruption. Increase Accountability. Require Full Transparency."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Jim Ross",
+          "title": "Firefighter, CALFIRE Firefighters Local #2881"
+        },
+        {
+          "name": "Pat Zaharopoulos",
+          "title": "Director/Board, Middle Class Taxpayers Association"
+        },
+        {
+          "name": "Mike O’Deane",
+          "title": "President, San Diego Deputy Sheriffs Association"
+        },
+        {
+          "name": "Brigette Browning",
+          "title": "President, San Diego & Imperial Counties Labor Council, AFL-CIO"
+        },
+        {
+          "name": "Caridad Sanchez",
+          "title": "City Ethics Commissioner, City of San Diego"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=57",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Don’t fall for deceptive window dressing on Measure A. Here is what Measure A really does: It overturns TERM LIMITS!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Bottomline: Measure A gives sitting San Diego County Supervisors a third term. Twelve years in one seat instead of eight."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "MEASURE A GIVES POLITICIANS MORE TIME IN OFFICE Sixty-eight percent of San Diego County voters set a two-term limit in 2010, by citizen initiative, with more than 70,000 neighbors signing petitions by hand. Measure A does not create a limit. It weakens the one you wrote."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "MEASURE A IS PACKAGED WITH DECEPTION\nIn order to trick voters into throwing out current term limits, politicians confuse voters by tossing in good stuff like an ethics commission, independent auditors, and fiscal transparency. We support all three of these ideas - and the board can and should adopt these ideas on its own."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The only reason why Measure A is on the ballot is because they need to fool voters with attractive packaging into voting to throwing out the current term limits!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If the good-government reforms are genuine, they will stand on their own. Underneath the promises, this is nothing more than politicians changing the rules to give themselves more time in power."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join us in protecting the EXISTING TERM LIMITS that voters imposed years ago."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "No Kings. No Queens. No on Measure A."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Jim Desmond",
+          "title": "San Diego County Supervisor/Navy Veteran"
+        },
+        {
+          "name": "Carl Demaio",
+          "title": "Chairman, Reform California"
+        },
+        {
+          "name": "Steven Esparza",
+          "title": "Chairman, Progressive California Voter Guide"
+        },
+        {
+          "name": "Johnathan Hale",
+          "title": "Executive Director, The Transparency Foundation"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=57",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A - REPEALS TERM LIMITS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In 2010, sixty-eight percent of San Diego County voters spoke loud and clear. You told the politicians to take less power, not more. You set a two-term limit for County Supervisors, and you did it the hard way, a citizen initiative where more than 70,000 neighbors signed petitions by hand. You set that rule. Not the Board."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure A asks you to undo it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A - EXTENDS TERMS OF CURRENT POLITICIANS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Three sitting Supervisors voted to place this on your ballot. It gives Supervisors a third term. Twelve years in the same seat instead of eight. The people who wrote it are the same people who get the extra time. That is not reform. That is politicians serving themselves."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A - DISHONEST WINDOW DRESSING"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "They know a straight term extension would not pass on its own, so they buried it. They wrapped it in nice-sounding promises. An ethics commission. Independent auditors. Fiscal transparency. I support every one of those, and the County can do them without a charter change or extending anyone’s term."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Read the ballot question closely. The extra term is not at the top. You have to look for it. That is by design. Notice the wording too. It asks whether to “set” term limits, as if none exist today. One already does, and you are the one who set it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Every Supervisor ran for office knowing the limit was two terms. That was the deal we made with you. You should not win an election under one set of rules, then change those rules for yourself."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Strip away the packaging and this is simple. It is a power grab. Do not let them."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote No on Measure A - Keep Term Limits on County Politicians"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The undersigned proponent(s)* or author(s)* of the Primary Argument against ballot measure A at the Midterm General election for the San Diego County to be held on November 3, 2026 hereby state that such argument is true and correct to the best of their knowledge and belief."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Jim Desmond",
+          "title": "San Diego County Supervisor, Navy Veteran"
+        },
+        {
+          "name": "Carl Demaio",
+          "title": "Chairman, Reform California"
+        },
+        {
+          "name": "Steven Esparza",
+          "title": "Chairman, Progressive California Voter Guide"
+        },
+        {
+          "name": "Johnathan Hale",
+          "title": "Executive Director, The Transparency Foundation"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=58",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don’t be fooled!"
+              ]
+            },
+            "\n",
+            {
+              "strong": [
+                "MEASURE A’s opponents are wealthy Special Interests, Lobbyists, and"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Insiders."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Lobbyists and Special Interests want to prevent establishment of an Ethics Commission that would fight fraud and corruption, and investigate/regulate insider special interests."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure A is the measure Lobbyists, Insiders, and Special Interests fear most!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don’t be fooled!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "MEASURE A is the most far-reaching Ethics Reform of county government in a generation. Read MEASURE A for yourself."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A establishes an Independent Ethics Commission"
+              ]
+            },
+            " to fight fraud, misconduct and corruption. San Diego is the only large California County without an Ethics Commission."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A requires full and complete public disclosure of all county"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "spending."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A creates an Independent Budget Analyst and an"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Independent Auditor"
+              ]
+            },
+            " to serve as “Public Watchdogs” of the County’s $8.5 billion budget, increasing transparency and accountability, and exposing waste and mismanagement."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A holds unelected bureaucrats accountable"
+              ]
+            },
+            " by allowing open public hearings to confirm and remove high level county officials."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MEASURE A does NOT repeal term limits."
+              ]
+            },
+            " MEASURE A lets voters impose a 3-term limit (the same as the Legislature) for Supervisors. No Supervisor is being “given” an extra term. Every 4 years, Supervisors face the voters who decide if they’ve earned a new term or not."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don’t be fooled!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "MEASURE A is opposed by Lobbyists, Insiders and wealthy Special Interests."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "MEASURE A is supported by a non-partisan coalition of civic, business, and labor leaders who created MEASURE A to increase oversight, impose accountability, and fight fraud and corruption."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure A."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Jim Ross",
+          "title": "Firefighter, CALFIRE Firefighters Local #2881"
+        },
+        {
+          "name": "Pat Zaharopoulos",
+          "title": "Director/Board, Middle Class Taxpayers Association"
+        },
+        {
+          "name": "Gabriel Markoff",
+          "title": "Former Assistant District Attorney"
+        },
+        {
+          "name": "Brigette Browning",
+          "title": "President, San Diego Labor Council, AFL-CIO"
+        },
+        {
+          "name": "Caridad Sanchez",
+          "title": "City Ethics Commissioner, City of San Diego"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=58",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure A",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf",
+      "mediaType": "application/pdf",
+      "page": 59,
+      "sha256": "52166150e4052ad7e2b0160c1319d3bd61a4efebc1434a50d910b8d4b0fffabd"
+    }
+  ]
+}

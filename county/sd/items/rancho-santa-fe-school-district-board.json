@@ -1,0 +1,132 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rancho Santa Fe School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:24:19Z",
+  "candidates": [
+    {
+      "choice": "Jee Manghani",
+      "statement": {
+        "by": "Jee Manghani",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As the Rancho Santa Fe School District approaches its 100th anniversary in 2027, we’re entering our next century from a position of strength and tremendous momentum."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving as your School Board Trustee has been one of the greatest honors of my life and I am grateful for the trust you’ve placed in me. This District is a cornerstone of the communities that we serve and deserves our full attention as we preserve what makes our District special. I will continue listening to all voices, providing steady, responsible leadership, and always putting our students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud of what we’ve accomplished as a Board. Working together with our administration, we’ve maintained a balanced budget every year since 2019 while investing in classrooms, facilities, curriculum, and technology. Our strong administrative team is entering its third year, providing stability to the District. This year, US News & World Report ranked our middle school #1 in San Diego County, and California recognized our District as a Distinguished School."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As we enter our second century, I respectfully ask for your vote so we can continue building on our momentum and ensure the Rancho Santa Fe School District remains the best place for our children to thrive."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-285.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Paul Seitz",
+      "statement": {
+        "by": "Paul Seitz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Paul Seitz, and I am running for re-election to the Rancho Santa Fe School District Board of Trustees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I moved my family to Rancho Santa Fe over 11 years ago, and our daughter started kindergarten at R. Roger Rowe in 2017. Like you, we chose this community for its exceptional school and tight-knit values."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was honored to be elected to the Board in 2022 and to currently serve as Clerk. I served in the United States Marine Corps from 1996 to 2004 as a Sergeant, leading hundreds of young men around the world. That service taught me leadership, accountability, and putting mission first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the Board, I have focused on three priorities: amplifying academic excellence, ensuring fiscal responsibility and transparency with taxpayer dollars, and keeping our campus safe and supportive for every student, teacher, and parent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe strong schools require strong partnerships between parents, educators, and the community. I will continue to listen, ask tough questions, and make decisions based on what is best for our children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue serving our students and preserving what makes Rancho Santa Fe special."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-285.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bow Ruggeri",
+      "statement": {
+        "by": "Bow Ruggeri",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My wife and I are raising two Roger Rowe students, one entering third grade and one starting kindergarten. Before kindergarten, our younger son attended Village Church Preschool, where our family formed friendships with other young families. Since our oldest began at Roger Rowe, I have had the opportunity to connect with parents, teachers, staff, and neighbors, reinforcing what makes our school and community special and giving me the perspective of families with children in the elementary years today."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have the privilege of serving our community on the Rancho Santa Fe Community Center Board, where I have worked alongside dedicated volunteers to strengthen our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I have founded and built technology companies and led engineering organizations. My experience has taught me the importance of fiscal responsibility, long-term planning, collaborative leadership, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Roger Rowe is an outstanding school. My priorities are to support our exceptional teachers and staff, preserve our tradition of academic excellence, and help ensure Roger Rowe remains a place for every student to learn and thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will listen carefully, ask thoughtful questions, and provide steady stewardship on behalf of our students, families, and community. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-285.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

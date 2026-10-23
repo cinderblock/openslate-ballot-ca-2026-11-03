@@ -1,0 +1,19 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/san-diego",
+    "title": "San Diego County Voter Information Pamphlet: November 3, 2026 Gubernatorial General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Diego County Registrar of Voters",
+      "uri": "https://www.sdvote.com/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T18:36:32Z",
+    "sources": [
+      "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chula Vista City Attorney",
+    "kind": "race",
+    "jurisdiction": "us/ca/chula-vista",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "Marco Verdugo",
+      "statement": {
+        "by": "Marco Verdugo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "In the two years since you elected me City Attorney, my focus has never wavered from protecting Chula Vista’s families, finances, and future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protecting public safety… I work every day with Chula Vista Police and Fire to keep our neighborhoods safe. I sped up construction of new Fire Station 12 and executed gun violence restraining orders to prevent shooting threats. Your safety comes first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protecting working families… I authored the legal requirements that give local workers first crack at local jobs rebuilding City infrastructure and cut red tape to add housing families can afford across Chula Vista. I put hard working people first – always."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protecting taxpayer dollars… I’ve saved millions defeating junk lawsuits, strengthened City ethics laws to stop corruption, and launched Chula Vista’s first Independent Auditor to crack down on fraud. Public dollars should fund faster, better services – not waste or grift."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I fight hard to protect Chula Vista’s working families because this is my hometown, my wife and I are raising our three kids here, and I want the future to be safe, bright, and affordable for all of us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m endorsed by Chula Vista’s Firefighters and I’d be honored to keep protecting Chula Vista as your City Attorney."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "-City Attorney Marco Verdugo\nMarcoVerdugo.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=62",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

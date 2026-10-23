@@ -1,0 +1,96 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido Union High School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:27Z",
+  "candidates": [
+    {
+      "choice": "Rafaela Cervantes",
+      "statement": {
+        "by": "Rafaela Cervantes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent, educator, and proud member of a working-class family, I understand that education is the pathway to opportunity. My family taught me the value of hard work, perseverance, and the belief that every child deserves the chance to succeed. I have dedicated my career to helping students of all backgrounds achieve their goals. As a college professor, former preschool teacher and infant educator, I have worked with students at every stage of their educational journey. These experiences have shown me that when students receive the right support from caring teachers and engaged families, they can reach their full potential. I am running for the Escondido Union High School District Board because I believe every student deserves a high-quality education that prepares them for college, careers, military service, or whatever path they choose after graduation. Our schools should provide safe learning environments, strong academic programs, and the resources students and teachers need to succeed. I will always put students first by supporting academic excellence, fiscal responsibility, and fair compensation that helps attract and retain outstanding teachers. Together, we can strengthen our schools and ensure every graduate leaves prepared for a successful future. I respectfully ask for your vote. www.cervantes4euhsd.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mark Lucas",
+      "statement": {
+        "by": "Mark Lucas",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "With 30 years of experience in education, I bring a uniquely comprehensive perspective to the school board. My background as an educator spans every level, from kindergarten to college-level instruction at Marine Corps Air Station Miramar. Beyond the class room, I served as a district administrator, earning certification from the California Association of School Business Officials. My experience as a former school board member and as a graduate of the California School Boards Association’s Masters in Governance program equips me with the proven executive knowledge to govern effectively and responsibly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My vision for Escondido schools is driven by three foundational beliefs. First, we must prioritize order and safety in the classroom. I wholeheartedly believe that functional classrooms are necessary for the effective acquisition and retention of practical life and career skills that will fully prepare our students for their futures. Second, our teachers and staff must be genuinely supported and respected by all stakeholders, ensuring that they feel their critical work is meaningful and deeply appreciated every day. Ultimately, I believe that parents will choose with confidence to send their children to Escondido schools because our classrooms are primed for them to learn and thrive."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Joe Hinrichs",
+      "statement": {
+        "by": "Joe Hinrichs",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For the past 25 years, I have worked as a classroom teacher in local public schools. I currently teach Special Education at Del Dios Middle School. I have dedicated my career to helping students find success and prepare for college, careers, and life. Now, I am running for the Escondido Union High School Board to put my experience to work in improving our community’s high schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your voice in our local schools, I will focus on expanding Career-Technical Education programs, improving collaboration between our elementary and high school districts, strengthening parental involvement, and ensuring our special education programs are adequately serving students of all abilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have the endorsement of Escondido Mayor Dane White, Escondido Deputy Mayor Joe Garcia, Escondido Councilmember Christian Garcia, Escondido Union High School Board President Christi Knight, and Escondido Union High School Board Members Carol Durney, Bob Weller and David Vincent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife Carrie and I have lived in Escondido for nearly two decades. We are raising our children here, all current students or recent graduates of Escondido public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher and father, I have seen what happens when students of every ability are truly seen, challenged, and supported. That’s the school district I want every Escondido family to have."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote. Learn more at www.HinrichsForSchoolBoard.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

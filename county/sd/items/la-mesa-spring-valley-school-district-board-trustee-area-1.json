@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Mesa-Spring Valley School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:35:27Z",
+  "candidates": [
+    {
+      "choice": "Sarah Reed",
+      "statement": {
+        "by": "Sarah Reed",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a second-generation La Mesa-Spring Valley School District graduate and in the class of 2003 from Grossmont High School. My mother taught at Northmont Elementary before retiring. I received a Master’s Degree from Point Loma Nazarene University and have been teaching special education for nearly twenty years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am married to my high school sweetheart, and we are foster/adoptive/biological parents to 6 children, ranging in ages from 3 to 18. They are all current or future La Mesa-Spring Valley School District students or graduates and have a range of educational needs. Prior to serving on the school board, I was PTA president at my children’s elementary school, and I remain active in the PTA. My faith inspires me to act justly, love mercy, and walk humbly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My purpose for being on the school board was and will continue to be to give back to the district and community that shaped me into who I am. I love collaboration and believe we are better humans when we surround ourselves with people who look, think, and act differently from us. I believe the top priority of a school district is to develop kind, hardworking, community- and service-oriented students. When La Mesa-Spring Valley School District thrives, my children thrive."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-508.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Rebecca Tweedle",
+      "statement": {
+        "by": "Rebecca Tweedle",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Rebecca Drexler Tweedle and I am running for La Mesa Spring Valley School Board. I want to serve our community as a pragmatic champion of public education despite the current economic challenges it faces. A parent of two children in the LMSV school district, I have been actively involved by volunteering in their classrooms, school garden, starting a Run Club and volunteering in other extracurricular activities, including AYSO and little league."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A San Diego native, I have lived in La Mesa for 8 years and attended UCSD for undergrad. I have an MA in International Peace and Conflict Resolution and a Masters Certificate in International Development. My goals are to support and uplift our school district through quality public education at all our neighborhood schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities include student safety and supporting student mental health. LMSV deserves high quality education through evidence-backed, modern methods. Our school district needs to promote competitive compensation for its teachers and staff in order to attract and retain high-quality personnel. I have been endorsed by the LMSV Teachers Association. To learn more, visit rebeccatweedle.com."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please support our schools by voting for Rebecca Tweedle."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-508.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cajon Valley Union School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:35:16Z",
+  "candidates": [
+    {
+      "choice": "Patti Alvarez",
+      "statement": {
+        "by": "Patti Alvarez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have proudly called East County home since I was two years old. I attended Hall, Greenfield, and Granite Hills schools before earning an Associate of Arts degree from Grossmont College, a bachelor's degree from Christian Heritage College, and a master's degree in Special Education from National University."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 32 years, I served the students and families of the Cajon Valley Union School District, including 26 years as an Education Specialist. Working alongside teachers, administrators, and parents has given me firsthand knowledge of the challenges facing our schools and the importance of making decisions that always put students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to this community extends beyond the classroom. I have volunteered as a PTA leader, Girl Scout leader, Pop Warner cheer coach, church volunteer, and community leader. As President of East County Posse, I helped create programs that expanded after-school opportunities and scholarships for local students. I have also partnered with local businesses and community organizations to support children, families, and veterans."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your School Board Trustee, I will focus on student achievement, fiscal responsibility, transparency, safe schools, and strong partnerships with families, educators, and our business community. I am committed to ensuring every child has the opportunity to succeed while protecting taxpayer dollars and preserving the excellence of Cajon Valley schools for future generations."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-487.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Anthony Carnevale",
+      "statement": {
+        "by": "Anthony Carnevale",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your elected school board trustee, I’m proud of the work accomplished during my first term. I helped defeat multiple property tax increases while advocating for essential classroom and school -site improvements within our existing budget."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I worked to curb non-student-focused travel and advanced greater transparency in instructional materials so parents retain a meaningful voice in curriculum decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protecting family educational rights, student privacy, and the parent -child relationship has been a cornerstone of my service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working with parents, we redirected tax dollars toward proven literacy programs that delivered double-digit score gains and reversed years of decline at some of our elementary schools - with more progress to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I helped advance transparency and parental notification at overnight 6th-grade camps, leading to improved practices and the board’s selection of a camp that prioritizes family rights and student safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I are grateful to be raising our sons in the community that has always been home, and I'm committed to protecting the values that make it special. In 2006 I founded my real estate business and have remained active in local philanthropic organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for a second term on the Cajon Valley Union School Board."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-487.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

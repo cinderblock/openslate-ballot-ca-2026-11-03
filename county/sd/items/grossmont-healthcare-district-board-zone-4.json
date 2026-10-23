@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Grossmont Healthcare District Board, Zone 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:49Z",
+  "candidates": [
+    {
+      "choice": "Claudia Rempel",
+      "statement": {
+        "by": "Claudia Rempel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "The only candidate endorsed by the El Cajon Professional Firefighters Union Local 4603"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a healthcare leader with more than 20 years of experience in emergency medical services and have improved access to quality healthcare throughout San Diego County. I began my career as an Emergency Medical Technician, advancing into executive leadership roles."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment is personal. For more than four years, I was the primary caregiver for my late husband during his battle with stage IV colon cancer. I advocate daily for my disabled son. I understand the challenges East County families face navigating our healthcare system and want to help families like yours, inspired by my late father, a San Diego Fire-Rescue Captain."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As President of the Ambulance Association of San Diego County, I partnered with hospitals, fire agencies, and the County EMS Office to solve regional healthcare challenges. I also served on the Ambulance Patient Offload Time Committee and helped build workforce pathways with Southwestern College to support the next generation of EMS professionals."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Grossmont Healthcare District Director, I will reduce ER wait times, expand access to affordable care, strengthen mental and behavioral health services, invest in our healthcare workforce and support the senior and disabled communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote. Learn more: www.claudiarempel.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maggie T. Watkins",
+      "statement": {
+        "by": "Maggie T. Watkins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have called East County home for more than 30 years and was appointed to the Grossmont Healthcare District Board in August 2026 to complete the term of a longtime Zone 4 Director. I am now seeking election to continue that service.\nAs Vice President of the Board, I believe the Board’s core responsibilities are to steward taxpayer dollars wisely, keep Sharp Grossmont Hospital on the cutting edge of healthcare, and build a strong pipeline of future healthcare workers for East County. I am proud to have helped guide the awarding of community grants and scholarships supporting healthcare education and workforce development in East County this fiscal year.\nWith more than 45 nonprofit board appointments locally, nationally, and internationally, I bring exceptional governance experience to the District. I serve on the Sharp Grossmont Hospital Foundation Board, chair the Sharp HealthCare Foundation Stewardship Committee, and was part of the founding fundraising committee that helped build Sharp Mary Birch Hospital for Women and Newborns.\nProfessionally, I operate my own consultancy specializing in marketing and business development for law firms. I am the recipient of the 2024 Corporate Directors Forum Director of the Year Award for Lifetime Achievement in Not-for-Profit Leadership and the 2025 Woman of the Year for California’s 40th Senate District."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

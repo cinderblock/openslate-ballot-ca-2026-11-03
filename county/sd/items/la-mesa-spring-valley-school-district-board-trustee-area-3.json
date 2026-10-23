@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Mesa-Spring Valley School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:35:21Z",
+  "candidates": [
+    {
+      "choice": "Brianna Coston",
+      "statement": {
+        "by": "Brianna Coston",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for re-election to the La Mesa-Spring Valley School Board to build on the progress we made during my first term and continue the important work ahead. I’ve championed strong public education for every student, and fought to make our schools safer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I show up. As board representative on committees including the Mt Helix PTA Council and District Parent Advisory Council, I hear directly from parents and staff.You’ll find me at Book Fairs and PTA events, serving food and listening."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve supported critical infrastructure updates including secure single-point campus entries and continue advocating for school modernization as a district priority. While school funding has been uncertain, I’ve fought to keep our budget focused on our classrooms. Students do their best learning when they feel safe, cared for and ready for the day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve been a strong advocate for our school employees, building training pipelines creating opportunities for career advancement so staff can continue to thrive right here in LMSV. This is why the La Mesa-Spring Valley Teachers Association has endorsed my re-election."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m honored to have the support of La Mesa Councilmembers Lauren Cazares, Patricia Dillard, and Genevieve Suzuki, Lemon Grove Mayor Alysson Snow, and local community leaders.\nLearn more about me and my campaign at www.briannacoston.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-496.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Sarah Feeley",
+      "statement": {
+        "by": "Sarah Feeley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Sarah Feeley, and I would be honored to serve as your Trustee Area 3 Board Member."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Three generations of my family have called La Mesa-Spring Valley School District home. My mom attended and worked in the district, I grew up attending our schools, and today, my three kids are proud local students. I am deeply invested in ensuring every student has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past five years, I have served on Murdock Elementary PTA’s Executive Board, working alongside parents and educators to support and strengthen our school community. I led fundraising efforts that raised more than $500,000 to support educational programs and student enrichment the district could not otherwise provide. This experience has given me a firsthand understanding of both the challenges our schools face and the power of community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former teacher, I understand the needs of students, families, and educators. I believe our district deserves leadership that values transparency and fiscal responsibility, while keeping students at the center of every decision. I will work to connect the realities of our school campuses with district leadership, making thoughtful, collaborative decisions grounded in integrity, accountability, and student success. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-496.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

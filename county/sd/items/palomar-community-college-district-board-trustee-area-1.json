@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palomar Community College District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:27Z",
+  "candidates": [
+    {
+      "choice": "Judy Patacsil",
+      "statement": {
+        "by": "Judy Patacsil",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve as your Trustee on the Palomar College Governing Board. Since being elected, I have provided experienced, transparent leadership elevating student success, academic excellence, fiscal responsibility, and accountable stewardship of taxpayer resources. I respectfully ask for your vote to continue this important work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the daughter of immigrants, I know firsthand that education creates opportunity and transforms lives.\nFor over 35 years, I have dedicated my career to serving students as a professor, counselor, licensed psychotherapist, higher education leader, and Trustee. After earning my doctorate, I established San Diego Miramar College’s Mental Health Counseling Program, initiated and expanded educational opportunities through innovative curriculum, student support services, and faculty leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Holding the distinction as the first Filipina American elected to the Palomar College Governing Board, my focus has strengthened workforce and career education, expanded university transfer pathways, promoted sound fiscal management, and emphasized transparent, accountable governance. I believe every student deserves access to an affordable, high-quality education that prepares them for transfer to a university, a rewarding career, skilled trades, or lifelong learning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can keep Palomar College moving forward. Learn more at www.JudyPatacsil.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Frank Xu",
+      "statement": {
+        "by": "Frank Xu",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Twenty-one years ago, I escaped Communist China to raise my family. My children are now in college, and it is deeply concerning to see many young people embrace ideas that resemble those I experienced firsthand under communism, including DEI and anti-racism initiatives. Colleges, including Palomar College, should equip students with the knowledge and skills they need to succeed. Too often, ideological agendas overshadow academic excellence, critical thinking, and career readiness. Having experienced political indoctrination in Communist China, I believe higher education should focus on education rather than ideology. Students should be encouraged to value liberty, personal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My Christian faith inspires a life of service. As the founder of several nonprofit organizations, I have worked to expand educational opportunity and advocate for equal opportunity. Every organization I founded operates with a balanced budget, achieves measurable results, and receives no taxpayer funding. Over the past two years, I have regularly attended Palomar College Board meetings to share my perspectives, and my participation has been covered by The Telescope student newspaper."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trustee, I will strengthen fiscal responsibility, address enrollment fraud, refocus the college on academics and workforce training, and ensure graduates are well prepared to compete in today’s job market."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Grossmont-Cuyamaca Community College District Fire Safety, Job"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "Training, College Affordability, No Tax Rate Increase"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "With funds that cannot be taken by the State and spent elsewhere and NO tax rate increase, shall Grossmont-Cuyamaca Community College District’s measure to"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "improve/expand career training classrooms"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "remove asbestos/mold"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "reduce wildfire threats"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "maintain college affordability"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "be adopted, authorizing $624 million of bonds with legal rates, levies below $25/$100,000 assessed valuation while outstanding ($45 million annually), audits, taxpayer oversight, full disclosure of all spending?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Bonds – Yes\nBonds – No"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 55% of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=82"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “YES” vote is in favor of authorizing the District to issue and sell $624,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=82"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “NO” vote is against authorizing the District to issue and sell $624,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=82"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The Governing Board for the Grossmont-Cuyamaca Community College District (“District”) placed this measure on the ballot. If approved by 55% of the votes cast, this measure will authorize the District to issue and sell general obligation bonds in an amount not to exceed $624,000,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure will authorize a levy on the assessed value of taxable property within the geographical boundaries of the District in an amount needed to pay the principal and interest on the bonds each year the bonds are outstanding. The District estimates the average tax rate would be $24.67 for every $100,000 of assessed valuation, and the highest tax rate would be approximately $24.98 for every $100,000 of assessed valuation. The tax is anticipated to be collected through fiscal year 2058-2059."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The estimated total debt service, including principal and interest, required to be repaid if the bonds are issued and sold is approximately $1,246,250,216. Actual amounts may vary depending on the timing of sales, bonds sold at each sale, interest rates, and assessed valuation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure identifies a list of projects at schools and facilities within the District that may be funded from the bond proceeds. Approval of this measure does not guarantee the proposed projects will be funded by the sale of the bonds. The District’s proposal for certain projects may assume receipt of matching State funds subject to appropriation by the Legislature or approval of a statewide bond measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As required by State law, the measure states that the proceeds from the sale of the bonds may be used only for the purposes specified and that the District will establish an independent citizens’ oversight committee and conduct an annual independent performance audit to ensure funds are spent only on the projects listed in the measure. The District must also conduct an annual, independent financial audit of bond proceeds. The District states it has evaluated safety, class size reduction, and information technology needs in developing the projects listed in the measure."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Tax Rate Statement"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An election will be held in the Grossmont-Cuyamaca Community College District (the “District”) on November 3, 2026, to authorize the sale of up to $624,000,000 in general obligation bonds. The following information is submitted in compliance with Sections 9400-9404 of the Elections Code of the State of California. Such information is based upon the best estimates and projections presently available from official sources, upon experience within the District, and other demonstrable factors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Based upon the foregoing and projections of the District’s assessed valuation, the following information is provided:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The best estimate of the average annual tax rate that would be required to fund this bond issue over the entire duration of the bond debt service, based on estimated assessed valuations available at the time of filing of this statement, is $24.67 per $100,000 of assessed valuation. It is currently expected that the tax will be collected until fiscal year 2058-59."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The best estimate of the highest tax rate that would be required to fund this bond issue, based on estimated assessed valuations available at the time of filing this statement, is $24.98 per $100,000 of assessed valuation. This rate is projected to apply beginning in fiscal year 2031-32."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The best estimate of total debt service, including principal and interest, that would be required to be repaid if all the bonds are issued and sold will be approximately $1,246,250,216."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The above projections and estimates relate only to bonds issued pursuant to this bond measure. District voters have previously approved bond measures pursuant to which the District has issued bonds that are still outstanding, in part. The tax rate for previous general obligations totaled $37.52 per $100,000 of assessed value for fiscal year 2025-26. The District does not currently expect the fiscal year 2025-26 tax rate to be increased as a result of the issuance of bonds pursuant to this bond measure. Voters are informed that the estimates and projections set forth above shall not restrict the tax imposed in accordance with this bond measure. Such estimates, projections and approximations are not intended to be additional restrictions on the District’s bond program and bond issuances and, other than the total principal amount of bonds authorized to be issued by this bond measure, shall not represent legal maximums or additional limitations on bond issuance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "These estimates are based on projections derived from information obtained from official sources, and are based on the assessed value (not market value) of taxable property on the County’s official tax rolls. In addition, taxpayers eligible for a property tax exemption, such as the homeowner’s exemption, will be taxed at a lower effective tax rate than described above. Property owners should consult their own property tax bills and tax advisors to determine their property’s assessed value and any applicable tax exemptions. The attention of all voters is directed to the fact that the foregoing information is based upon projections and estimates only, which amounts are not maximum amounts and durations and are not binding upon the District. The actual debt service, tax rates and the years in which they will apply may vary depending on the timing of bond sales, the par amount of bonds sold at each sale and actual increases in assessed valuations. The timing of the bond sales and the amount of bonds sold at any given time will be determined by the District based on the need for project funds and other considerations. Actual assessed valuations will depend upon the amount and value of taxable property within the District as determined by the County Assessor in the annual assessment and the equalization process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Lynn Ceresino Neault, Ed.D.,\nChancellor\nGrossmont-Cuyamaca Community College District"
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=82"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "URGENTLY NEEDED REPAIRS WITHOUT RAISING TAXES"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure G will NOT raise our taxes."
+              ]
+            },
+            " Measure G extends the tax rate authorized by voters in 2002, enabling our Colleges to make fire safety repairs and urgently needed renovations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "KEEP COLLEGE AFFORDABLE"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The cost to attend California’s public universities is six times that of community college. Tens of thousands of East County students rely on Grossmont College and Cuyamaca College to earn college credits and learn job skills.",
+            {
+              "strong": [
+                " Measure"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "G will help East County students continue attending local community"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "colleges and transfer to four-year colleges/universities without generating"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "crushing debt."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "REDUCE WILDFIRE RISK"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Recent wildfires burned thousands of acres in East County, and the threat keeps growing. Grossmont College needs to increase water storage to be able to fight a major fire. Measure G adds water storage, pressure, and sprinklers to protect both campuses and surrounding neighborhoods and keeps Cuyamaca College available as an East County evacuation center."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "REPAIR AGING BUILDINGS AND REPLACE WIRING"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure G replaces frayed wiring and leaky roofs; renovates outdated electrical/heating systems; and fixes deteriorating bathrooms and broken plumbing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "TRAIN NURSES"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Up-to-date labs and training equipment are necessary for Grossmont College to continue providing registered nurses for East County hospitals. Facing a statewide nursing shortage, we can’t allow training facilities to fall behind. Measure G will enable these life-saving professionals to acquire these needed skills."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "ASSIST VETERANS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Grossmont-Cuyamaca Community College District assists Veterans seeking to learn new skills and rejoin the civilian workforce. Measure G provides new teaching facilities to upgrade programs that serve Veterans."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "PROTECT TAXPAYERS"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "No increase in current tax rate"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Funds cannot be taken by Sacramento and spent elsewhere"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Annual independent audits and citizens’ oversight committee"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Full public disclosure of all spending"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "No money for administrator salaries or pensions"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Endorsed by the San Diego County Taxpayers Association"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure G."
+              ]
+            },
+            " Keep our colleges safe, affordable, and open for the next generation – without raising our taxes."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark Kersey",
+          "title": "President & CEO, San Diego County Taxpayers Association"
+        },
+        {
+          "name": "Cody Martinez",
+          "title": "Tribal Chairman, Sycuan Band of the Kumeyaay Nation"
+        },
+        {
+          "name": "Mark Arapostathis",
+          "title": "Mayor, City of La Mesa"
+        },
+        {
+          "name": "Jim Mahler",
+          "title": "President, American Federation of Teachers Grossmont-Cuyamaca Community College District"
+        },
+        {
+          "name": "Margaret Osborne, R.N.",
+          "title": "Member, California Nurses Association"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=83",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure G",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf",
+      "mediaType": "application/pdf",
+      "page": 83,
+      "sha256": "cb2d3d52412e2d6a985718e7a7b1fadc4a79000cd2f48d34418b5b39edb6a733"
+    }
+  ]
+}

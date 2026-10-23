@@ -1,0 +1,358 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego City Council, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:34:22Z",
+  "candidates": [
+    {
+      "choice": "Kent Lee",
+      "statement": {
+        "by": "Kent Lee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Proven Leadership Delivering Results"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As parents of two young children, my wife and I understand the challenges San Diego families face — rising costs for groceries, utilities, and housing. On the City Council, I’ve focused on practical leadership that strengthens fiscal accountability, expands housing opportunities, and delivers real improvements across our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "First-Term Accomplishments"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Repaved more than 95 miles of neighborhood streets, including the reconstruction of Gold Coast Drive"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Delivered more than $70 million in neighborhood investments across our district, including Marcy Park improvements in University City; a new Aquatic Center, All-Wheels Park, and recreation center upgrades at Mira Mesa Community Park; the Epicentre Youth Center revitalization through a City–County partnership; and the Convoy District gateway sign"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Led budget efforts that restored library and recreation center hours, preserved arts funding, and expanded housing opportunities for working families"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Focused on Results"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Responsible fiscal leadership and government accountability"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expanding housing opportunities for working families"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Investing in safer neighborhoods and better streets, parks, and libraries"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Congressmembers Sara Jacobs and Scott Peters"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "County Supervisor Terra Lawson-Remer"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Assemblymember Chris Ward"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Diego & Imperial Counties Labor Council"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Diego Firefighters Local 145"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Diego Police Officers Association"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "San Diego Unified Trustees Sabrina Bazzo, Cody Petterson, and Shana Hazan"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.kentleeforsd.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-326.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mark Powell",
+      "statement": {
+        "by": "Mark Powell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a first-generation American whose family came to San Diego as refugees, I understand hard work and sacrifice. Today, the city I love has become unaffordable for hardworking San Diegans and I want to help turn that around."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running because we need a representative who will listen to our community, fight for our priorities, and fix what’s broken. Our tax dollars should fund core services: repair roads, keep public restrooms open, protect neighborhoods, enforce public encampment laws, and preserve libraries and park/rec centers for families and seniors. Other priorities include:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Oppose new taxes and fees."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Prioritize fixing roads and sidewalks."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Protect neighborhoods from negative ADU impacts."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Preserve street parking for residents and local businesses."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Remove dead trees from canyons to reduce fire risk."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Expand opportunities for affordable homeownership."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Direct more funding for neighborhood services."
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Background:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Teacher, Vice Principal, Professor"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Former SDPD Reserve Officer"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Former elected County Board of Education member"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Built a successful real estate brokerage over 25 years"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements:"
+            ]
+          },
+          {
+            "type": "ul",
+            "items": [
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Mitz Lee: Mira Mesa Community Leader/Advocate, Former School Board member"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Bonnie Kutch: Founder UC Neighbors for Responsible Growth (UC PEEPS)"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Ruth DeSantis: University City Community Leader/Advocate"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "p",
+                  "text": [
+                    "Lorie Zapf: Two-term City Councilmember"
+                  ]
+                }
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mark and his wife have two young adult daughters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.MarkPowellForCityCouncil.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-326.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

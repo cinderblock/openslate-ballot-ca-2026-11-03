@@ -1,0 +1,363 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mountain Empire Unified School District — Measure L (Mountain Empire Unified School District School Facilities Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:34:16Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "To repair, replace, or reconstruct deteriorating classrooms, science labs, career technical education and school facilities at Mountain Empire High School that don’t meet building safety/earthquake safety standards; remove asbestos, lead pipes, mold; and replace/fix roofs plumbing, sewer, electrical, and aging portables, shall Mountain Empire Unified School District’s measure authorizing $23,000,000 in bonds at legal rates be adopted, levying approximately $38 per $100,000 of assessed valuation ($2,542,353 annually) while bonds are outstanding, with independent oversight, audits, and all money locally controlled?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Bonds – Yes\nBonds – No"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 55% of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=79"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “YES” vote is in favor of authorizing the District to issue and sell $23,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=79"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “NO” vote is against authorizing the District to issue and sell $23,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=79"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The Board of Education for the Mountain Empire Unified School District (“District”) placed this measure on the ballot. If approved by 55% of the votes cast, this measure will authorize the District to issue and sell general obligation bonds in an amount not to exceed $23,000,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure will authorize a levy on the assessed value of taxable property within the geographical boundaries of the District in an amount needed to pay the principal and interest on the bonds each year the bonds are outstanding. The District estimates the average tax rate would be $38 for every $100,000 of assessed valuation, and the highest tax rate would be approximately $38 for every $100,000 of assessed valuation. The tax is anticipated to be collected through fiscal year 2060-2061."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The estimated total debt service, including principal and interest, required to be repaid if the bonds are issued and sold is approximately $47,978,702. Actual amounts may vary depending on the timing of sales, bonds sold at each sale, interest rates, and assessed valuation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure identifies a list of projects at schools and facilities within the District that may be funded from the bond proceeds. Approval of this measure does not guarantee the proposed projects will be funded by the sale of the bonds. The District’s proposal for certain projects may assume receipt of matching State funds subject to appropriation by the Legislature or approval of a statewide bond measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As required by State law, the measure states that the proceeds from the sale of the bonds may be used only for the purposes specified and that the District will establish an independent citizens’ oversight committee and conduct an annual independent performance audit to ensure funds are spent only on the projects listed in the measure. The District must also conduct an annual, independent financial audit of bond proceeds. The District states it has evaluated safety, class size reduction, and information technology needs in developing the projects listed in the measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "TAX INFORMATION STATEMENT"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An election will be held in the Mountain Empire Unified School District (the “District”) on November 3, 2026, to authorize the sale of up to $23,000,000 in bonds of the District to finance school facilities as described in the measure. If the bond measure is approved by at least 55% of the voters of the District voting on the bond measure, the District expects to issue the bonds in multiple series over time. Principal and interest on the bonds will be payable from the proceeds of tax levies made upon the taxable property in the District. The following information is provided in compliance with Sections 9400 through 9405 of the California Elections Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The best estimate of the average annual tax rate that would be required to be levied to fund this bond issue over the entire duration of the bond debt service, based on assessed valuations available at the time of filing this statement, is $38.00 per $100,000 of assessed valuation. The final fiscal year in which the tax to be levied to fund this bond issue is anticipated to be collected is fiscal year 2060-61."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The best estimate of the highest tax rate that would be required to be levied to fund this bond issue, based on estimated assessed valuations available at the time of filing this statement, is $38.00 per $100,000 of assessed valuation in fiscal year 2027-28."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The best estimate of the total debt service, including the principal and interest, that would be required to be repaid if all of the bonds are issued and sold is approximately $47,978,702."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Voters should note that estimated tax rates are based on the ",
+          {
+            "em": [
+              "ASSESSED VALUE"
+            ]
+          },
+          " of taxable property on the County’s official tax rolls,",
+          {
+            "em": [
+              " not"
+            ]
+          },
+          " on the property’s market value, which could be more or less than the assessed value. In addition, taxpayers eligible for a property tax exemption, such as the homeowner’s exemption, will be taxed at a lower effective tax rate than described above. Property owners should consult their own property tax bills and tax advisors to determine their property’s assessed value and any applicable tax exemptions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Attention of all voters is directed to the fact that the foregoing information is based upon the District’s projections and estimates only, which are not binding upon the District. The average annual tax rate, the highest tax rate, the final fiscal year in which the tax is anticipated to be collected and the year or years in which they will apply, and the actual total debt service, may vary from those presently estimated for a variety of reasons, including, without limitation, due to variations in the timing of bond sales, the amount or amortization of bonds sold, market conditions at the time of each sale, and actual assessed valuations over the term of repayment of the bonds. The dates of sale and the amount or amortization of bonds sold at any given time will be determined by the District based on need for project funds and other factors, including the legal limitations on bonds approved by a 55% affirmative vote. Market conditions, including, without limitation, interest rates, are affected by economic and other factors beyond the control of the District and will depend on the bond market at the time of each sale. Actual future assessed valuation will depend upon the amount and value of taxable property within the District as determined by the County Assessor in the annual assessment and the equalization process. The growth or decline in assessed valuation is the result of a number of economic and other factors outside the control of the District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Dated: May 12, 2026"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Dr. Patrick Keeley Superintendent\nMountain Empire Unified School District"
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=79"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "A YES vote on Measure L is a vote for a safe high school for our"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "students."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our District works hard to take care of our 50+ year-old high school with limited funding, but decades of wear and tear have resulted in serious safety concerns that must be addressed."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Gas lines, storm drains, sewer systems, and plumbing infrastructure at the high school are all failing. This has caused flooding, mold, sewage backups, and 17 roof leaks in the last year alone at Mountain Empire High School. Aging water and fire suppression systems force the school to close several times each year."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "These issues directly affect our students’ ability to learn."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That is why we need Measure L. Updating our high school now will address basic safety needs for our students and will prevent costly delayed maintenance expenses."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure L Includes Strict Fiscal Safeguards:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "All funds must be spent on our local schools and cannot be taken by the State"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Annual independent audits and a citizens’ oversight committee will ensure funds are spent as promised"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "A detailed project list describing how bond funds will be used"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "No funds could be used for administrator salaries or pensions"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Yes on Measure L; Save Our High School"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Repair or replace deteriorating roofs, plumbing, heating, ventilation, gas lines, sewer lines, and electrical systems"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Remove hazardous materials including asbestos, lead pipes, and mold"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Ensure proper access for students with disabilities"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Provide modern science labs, agriculture and career technical facilities and equipment"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Repair, replace, or reconstruct deteriorating classrooms and school facilities that don’t meet current building safety standards"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Essential repairs and upgrades are now critical to keep our students safe and to prepare them for success in college and careers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on L. Save our High School. Safeguard their future."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark Kersey",
+          "title": "President, San Diego County Taxpayers Association"
+        },
+        {
+          "name": "Ed Ketchum",
+          "title": "First Responder"
+        },
+        {
+          "name": "Bill Leblanc",
+          "title": "Retired MEUSD Teacher (1995-2026)"
+        },
+        {
+          "name": "Jeff Osborne",
+          "title": "Local Business Owner"
+        },
+        {
+          "name": "Trevor Garewal",
+          "title": "Descanso Hay and Feed"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=80",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure L",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf",
+      "mediaType": "application/pdf",
+      "page": 80,
+      "sha256": "8af2739f4618e5d1f51be0afe99405248c4980a7ed0c175e09266f30d828def2"
+    }
+  ]
+}

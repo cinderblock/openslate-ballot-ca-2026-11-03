@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 50",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-50",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "candidates": [
+    {
+      "choice": "Scott Peters",
+      "statement": {
+        "by": "Scott Peters",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to represent the cities of San Diego, Coronado, Poway, Escondido, and other parts of the county in Congress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My mission - get things done. I’ve had enough of those who just point fingers to score political points. I’ll never stop working to improve our economy, create jobs, promote health care innovation and research, help our veterans, lower housing costs, reduce homelessness, and protect our coastline and natural environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I oppose President Trump’s corruption and cruelty, and I oppose the MAGA Republicans in Washington who rubber stamp his radical agenda."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities: 1. Finish Border Sewage Fix: I secured $650 million to rebuild and expand the treatment plant that captures and cleans the wastewater that crosses the border and fouls our beaches. Next year construction will be done. We must finish what is needed to protect public health and hold Mexico accountable for its part. 2. Lower the Cost of Living: Trump’s policies, misguided tariffs, and chaos have led to prices rising for all Californians. Food prices have increased, health care costs have skyrocketed, and housing costs continue to rise. Trump has enacted policies that help billionaires like himself, at our expense. 3. Defend our Democracy: Trump has undermined the Constitution and the rule of law. He has terrorized our communities with unaccountable masked ICE agents and embarrassed our country around the world. I will always stand up for our principles, our country, and the American dream."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your support and vote. www.scottpeters.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=48",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

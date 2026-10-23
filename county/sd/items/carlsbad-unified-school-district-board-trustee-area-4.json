@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carlsbad Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:11:28Z",
+  "candidates": [
+    {
+      "choice": "Tracey Perrault",
+      "statement": {
+        "by": "Tracey Perrault",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dr. Tracey Perrault"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 26 years, Dr. Tracey Perrault has dedicated her career to public education. With a Doctorate in Education in Organizational Leadership, Tracey has extensive experience as a classroom teacher and school administrator. Throughout her career, she’s supported student achievement, safe learning environments, and strong partnerships with families, teachers and staff. She will bring this expertise to the Board of Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Having grown up in a military family that traveled the United States, Dr. Tracey Perrault was happy to plant roots in Carlsbad, her home of 26 years. The proud mother of two Carlsbad graduates, Tracey enjoyed being a Girl Scout Leader, a school volunteer and cheering on the Lancers. A homeowner, she understands the value of exceptional public schools and the role they play in maintaining property values, and creating the welcoming community we enjoy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dr. Perrault is committed to advancing academic excellence and ensuring every educator has the tools to support student success. Her background includes overseeing school budgets, student safety, instructional programs, and strategic planning. As a Carlsbad Trustee, she will make informed, student-centered decisions that strengthen our schools and community; bring proven leadership, sound judgment, and a collaborative approach to the Carlsbad Board of Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more: www.oursuccessstartshere.org"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-204.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gretchen Vurbeff",
+      "statement": {
+        "by": "Gretchen Vurbeff",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve our community as your Carlsbad Unified School District Trustee and am proud of what we have accomplished together. As an educator for the past 30 years and parent of two, I understand the importance of providing every student with the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my first term, I have worked to strengthen academic excellence while being a responsible steward of taxpayer dollars through sound budget oversight and fiscal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have championed student wellness initiatives that support both physical and mental well-being, advocated for school safety improvements to help ensure our campuses remain safe learning environments, and helped initiate a districtwide cell phone policy to reduce classroom distractions, improve student engagement, and support teachers in maintaining productive classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe listening matters. Whether responding to parent concerns, collaborating with staff, or engaging with community members, I am committed to thoughtful, transparent leadership that puts students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to focus on academic achievement, fiscal responsibility, student wellness, school safety, and open communication, and leading with integrity. It is my privilege to serve the people of Carlsbad and I would be honored to earn your vote to continue serving our students, families, teachers and community."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-204.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

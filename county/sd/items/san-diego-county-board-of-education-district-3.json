@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego County Board of Education, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:00Z",
+  "candidates": [
+    {
+      "choice": "Alicia Muñoz",
+      "statement": {
+        "by": "Alicia Muñoz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Primary election winner with 57% of the vote!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While serving on the San Diego County Board of Education, I have had the privilege of holding the offices of President and Vice-President. I have served on the Policy Committee, the Legislative Committee for the California County Offices of Education, and on the San Diego Latino Advisory Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have collaborated with teachers and staff to strengthen the San Diego County Office of Education’s efforts to support English language learners, foster and homeless youth, and at-risk youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am dedicated to ensuring students receive the education they need to excel, so they can enter the work force or transfer to college upon graduation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold an M.A. from San Francisco State University, a B.A. from the University of California, Berkeley, and took doctoral classes at San Diego State University and Claremont Graduate University."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At Cuyamaca College, I taught ESL, served as the Academic Senate President, and held the positions of Dean of Instruction and Vice-President of Instruction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by all of my fellow Board members on the San Diego County Board of Education and I am the only candidate endorsed by the American Federation of Teachers and the San Diego Labor Council!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience in education, coupled with my commitment to serving students and the community, make me the right choice to continue serving on the San Diego County Board of Education!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=49",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

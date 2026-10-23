@@ -1,0 +1,96 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ramona Unified School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:31Z",
+  "candidates": [
+    {
+      "choice": "William Adelson",
+      "statement": {
+        "by": "William Adelson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Bill Adelson has called Ramona home for 22 years. A Princeton-educated architect and NYU MBA, he has worked on many school campus projects across California, including in San Diego County, specializing in solar energy for public schools. Bill serves the community as a substitute teacher in Ramona schools. He is the father of a Ramona High School graduate and grandfather of a current student in the district. His blend of professional expertise and personal commitment to education allows him to hit the ground running once elected, ensuring our schools provide a safe learning environment where every student can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bill will prioritize reading proficiency with a focus on all students reading before entering 4th Grade. He will also focus on every classroom being a safe environment, while staying ahead of the opportunities and risks that new technologies, such as AI, will bring to our schools."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-378.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dan Summers",
+      "statement": {
+        "by": "Dan Summers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hello Ramona, I’m running for re-election to your School Board because I bring a great deal of life experience to every vote I take. This is my resume. I have a BA from SDSU and I was a multisport athlete in high school and college. I have owned three corporations. One of them provided medical transportation to the VA Hospital in La Jolla for 25 years. During that time, I became a firefighter/ paramedic and enjoyed a 33 year career in those fields retiring as a Paramedic Field Supervisor. After I retired, I taught EMT’s and paramedics for eight years at EMSTA College and I was privileged to coach High School football for 12 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I served for 8 years on the Ramona Community Planning Group and chaired both the 3rd Ambulance and the State Routes Subcommittees. We succeeded in acquiring a 3rd paramedic ambulance for Ramona and made progress in widening SR 67."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a School Board member, I worked with Cal Fire to initiate the EMT and Firefighter programs at Ramona High School. I have consistently voted against textbooks with biases and policies that challenge parental rights. My wife Susan {RN} and I have lived in Ramona for 40 years and have 2 sons."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-378.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Theresa Ketchem-Grace",
+      "statement": {
+        "by": "Theresa Ketchem-Grace",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have proudly called Ramona home since 1969 and am a graduate of Ramona High School. I believe public education is the cornerstone of a strong democracy and the foundation of a thriving community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My 40-year career in education includes serving as Superintendent of Ramona Unified School District, Assistant Superintendent of Education Services, principal, teacher, and educational consultant. My husband, Robert, recently retired after 30 years of teaching Automotive Technology at Ramona High School as well. Together, we have devoted nearly five decades of service to the students and families of Ramona. It has been our privilege to invest our careers in the success of our community’s youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, I have focused on strengthening student achievement, supporting teachers and staff, expanding educational opportunities, engaging families, and being a responsible steward of public resources and taxpayer dollars. Having served alongside a Governing Board in a professional capacity, I understand both sides of the board table and the importance of collaboration, sound governance, fiscal responsibility, and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After a lifetime in public education, I would be honored to continue serving Ramona by bringing my experience, my understanding of effective governance, and my unwavering commitment to our students to the Governing Board."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-378.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

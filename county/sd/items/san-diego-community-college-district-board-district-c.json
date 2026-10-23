@@ -1,0 +1,94 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego Community College District Board, District C",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:35:32Z",
+  "candidates": [
+    {
+      "choice": "Craig Milgrim",
+      "statement": {
+        "by": "Craig Milgrim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Primary election winner with 74% of the vote!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Due to my extensive classroom teaching experience, I know firsthand what it takes for students to succeed! I served for 26 years on the faculty of Grossmont College where I was awarded the Distinguished Faculty of the Year!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I want to ensure community colleges remain affordable, providing college transfer and career training opportunities, especially for our veterans. I supported recently passed legislation to make community college tuition free for all first-time students!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a City of San Diego taxpayer, I want to ensure our tax dollars are spent wisely, with transparency and accountability. I currently serve on the San Diego District Budget Sub-Committee where I have ensured the San Diego Community College District’s budget remains aligned to best serve our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My qualifications include a master’s degree in Botany, and a bachelor’s degree in Biological Science. I have served on three college accreditation teams, as Co-Chair of my department, and an officer of the college’s Academic Senate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A central mission of the San Diego Community College District is to provide transfer opportunities to four-year colleges. I have established grant partnerships with San Diego State University, the University of San Diego, and the University of California at San Diego to help our community college students successfully transfer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve the board’s Housing subcommittee and the San Diego Regional Housing Authority addressing the impact of the affordable housing crisis for students, employees, and the community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to green energy and high energy efficiency on all our campuses. I ride my bike for transportation whenever possible, drive an all-electric vehicle, and have installed solar panels on my home in North Park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a strong advocate for and financially contribute to programs to eliminate student food insecurity. As the first openly gay board member I have worked to improve the services to the District’s LGBTQ+ students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am not a politician seeking higher office. I am a career teacher seeking to ensure our students receive the college transfer preparation and workforce training needed to be successful members of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by the American Federation of Teachers, Mayor Todd Gloria, Assemblymember Chris Ward, and all current Governing Board Members of the San Diego Community College District!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to the San Diego Community College District Governing Board."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-535.pdf#page=49",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

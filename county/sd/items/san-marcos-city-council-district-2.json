@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Marcos City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-marcos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:05:05Z",
+  "candidates": [
+    {
+      "choice": "Justin Matsushita",
+      "statement": {
+        "by": "Justin Matsushita",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Proudly Endorsed by the San Marcos Professional Firefighters, San Diego & Imperial County Labor Council, and the American Federation of Teachers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Justin Matsushita, and I recently retired as the Fire Chief with the City of Santee after almost three decades of leadership in public safety and emergency management. I hold a PhD in Fire and Emergency Management Administration and a Master of Public Administration, and I have lived in every district in the City of San Marcos. I bring executive leadership experience, proven fiscal stewardship, a commitment to public service, and a lifetime of local knowledge of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I met at San Marcos High School, raised our two sons here, and we remain deeply committed to the community that is home to four generations of the Matsushita family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Beyond my professional career, I have served as Board Chair and Treasurer of Project Next, President of the California Fire Chiefs Association Emergency Management Section, an appointed member of the City of San Marcos Measure Q Citizens’ Oversight Committee, and a passionate supporter of the Boys & Girls Club of San Marcos."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will provide experienced, transparent, and fiscally responsible leadership focused on public safety, thoughtful growth, infrastructure, and protecting the quality of life that makes the City of San Marcos a wonderful place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "justin4sanmarcos.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-121.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Lindsey Smith",
+      "statement": {
+        "by": "Lindsey Smith",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a longtime San Marcos resident, mother of three daughters, and Business Professional, I’m running for San Marcos City Council to keep our community safe, well-managed, and a great place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For years, I’ve worked to improve our Community. I serve as President of the San Elijo Hills Community Association and founded our Fire Safe Council to strengthen wildfire preparedness, reduce homeowners’ insurance costs, and protect the long-term insurability of our Communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a San Marcos Planning Commissioner, I support Smart Growth that Protects our Quality Of Life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a CSU San Marcos graduate and Regional Facility Manager for a national software company, I managed budgets, capital improvement projects, infrastructure, and operations across the western United States. I understand how to solve problems, balance priori ties, and make responsible financial decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities: protect public safety, manage growth responsibly, improve traffic and infrastructure, maintain parks and open space and ensure transparent, accountable government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe local government works best when leaders listen first, are accessible to the people they serve, put Community ahead of politics, and make common sense decisions. If elected, I promise to respect your time, tax dollars and peace of mind."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m honored to be endorsed by Mayor Rebecca Jones, the Deputy Sheriffs’ Association of San Diego County, and California School Employees Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly ask for your vote. Smith4SanMarcos.com | 760-877-1739"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-121.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

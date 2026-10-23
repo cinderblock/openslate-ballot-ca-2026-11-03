@@ -1,0 +1,68 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fallbrook Union Elementary School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:23:19Z",
+  "candidates": [
+    {
+      "choice": "Anabel Canseco",
+      "statement": {
+        "by": "Anabel Canseco",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Education and Qualification: Having served the past 2 years as Fallbrook Regional Health Board Member as Secretary. For the past 20 years, I have had the privilege of serving young lives through non-profit work, creating safe, inspiring spaces where children can learn, grow, and thrive. Currently, my two children are attending schools in the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Fallbrook Elementary School Board to ensure that all families have a strong, authentic voice in our education system. Our school board must actively listen to every community member, bridge language and cultural barriers, and advocate for equitable resources so that all children receive the support they need to thrive academically and personally."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can ensure our school prioritizes strong reading and math skills, providing an excellent education to every student and giving every family a voice."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Maria G. Moran",
+      "statement": {
+        "by": "Maria G. Moran",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Maria G Moran. I’m a devoted parent of two talented young adult children. I know how important it is to make sure our students have an excellent education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I recognize that many children face challenges and need support at school. We need strong leadership on the board to make sure our focus is clear and that children get the support they need to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am determined to make a positive difference. I believe we have some of the best teachers in San Diego County, and I hope to continue to help lead our district in the right direction, one that puts families and academics first. I am committed to advocating for fiscal responsibility and a back-to-basics approach with a focus on raising thoughtful, independent thinkers."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

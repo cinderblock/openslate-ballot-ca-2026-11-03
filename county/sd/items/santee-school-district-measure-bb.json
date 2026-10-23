@@ -1,0 +1,475 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santee School District — Measure BB (Santee School District School Facilities Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "With funds that cannot be taken by the State and spent elsewhere, and no increase in tax rates, shall Santee Elementary School District’s measure:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "repairing leaky roofs, plumbing, sewer systems"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "updating inefficient heating, ventilation, air-conditioning systems"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "building multipurpose instruction classrooms"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "repairing aging schools, classrooms"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "be adopted authorizing $30 million of bonds with legal rates, average levies below $13 per $100,000 of assessed valuation ($2.2 million annually) while outstanding, audits, independent oversight, and full public disclosure of all spending?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Bonds – Yes\nBonds – No"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 55% of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=86"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “YES” vote is in favor of authorizing the District to issue and sell $30,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=86"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “NO” vote is against authorizing the District to issue and sell $30,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=86"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The Board of Education for the Santee School District (“District”) placed this measure on the ballot. If approved by 55% of the votes cast, this measure will authorize the District to issue and sell general obligation bonds in an amount not to exceed $30,000,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure will authorize a levy on the assessed value of taxable property within the geographical boundaries of the District in an amount needed to pay the principal and interest on the bonds each year the bonds are outstanding. The District estimates the average tax rate would be $12.62 for every $100,000 of assessed valuation, and the highest tax rate would be approximately $19.14 for every $100,000 of assessed valuation. The tax is anticipated to be collected through fiscal year 2049-2050."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The estimated total debt service, including principal and interest, required to be repaid if the bonds are issued and sold is approximately $49,700,000. Actual amounts may vary depending on the timing of sales, bonds sold at each sale, interest rates, and assessed valuation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure identifies a list of projects at schools and facilities within the District that may be funded from the bond proceeds. Approval of this measure does not guarantee the proposed projects will be funded by the sale of the bonds. The District’s proposal for certain projects may assume receipt of matching State funds subject to appropriation by the Legislature or approval of a statewide bond measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As required by State law, the measure states that the proceeds from the sale of the bonds may be used only for the purposes specified and that the District will establish an independent citizens’ oversight committee and conduct an annual independent performance audit to ensure funds are spent only on the projects listed in the measure. The District must also conduct an annual, independent financial audit of bond proceeds. The District states it has evaluated safety, class size reduction, and information technology needs in developing the projects listed in the measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SANTEE SCHOOL DISTRICT"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "GENERAL OBLIGATION BONDS"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Tax Rate Statement"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An election will be held in the Santee School District (the “District”) on November 3, 2026, to authorize the sale of up to $30 million in bonds of the District to finance school facilities as described in the measure. If such bonds are authorized and sold, principal and interest on the bonds will be payable only from the proceeds of",
+          {
+            "em": [
+              " ad valorem"
+            ]
+          },
+          " tax levies made upon the taxable property in the District. The following information is provided in compliance with Sections 9400-9404 of the Elections Code of the State of California. Such information is based upon the best estimates and projections presently available from official sources, upon experience within the District, and other demonstrable factors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Based upon the foregoing and projections of the District’s assessed valuation, the following information is provided:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The best estimate of the average annual tax rate which would be required to be levied to fund this bond issue over the entire duration of the bond debt service, based on a projection of assessed valuations available at the time of filing of this statement, is $12.62 per $100,000 of assessed valuation. The final fiscal year in which the tax is anticipated to be collected is 2049-50."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The best estimate of the highest tax rate which would be required to be levied to fund this bond issue, based on a projection of assessed valuations available at the time of filing of this statement, is $19.14 per $100,000 of assessed valuation. It is estimated that such rate would be levied starting in fiscal year 2030-31."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The best estimate of total debt service, including principal and interest, that would be required to be repaid if all the bonds are issued and sold will be approximately $49,700,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Voters should note the estimated tax rate is based on the assessed value (not market value) of taxable property on the County’s official tax rolls. In addition, taxpayers eligible for a property tax exemption, such as the homeowner’s exemption, will be taxed at a lower effective tax rate than described above. Property owners should consult their own property tax bills and tax advisors to determine their property’s assessed value and any applicable tax exemptions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The attention of all voters is directed to the fact that the foregoing information is based upon projections and estimates only, which amounts are not maximum amounts and are not binding upon the District. The actual debt service, tax rates and the years in which they will apply may vary from those used to provide the estimates set forth above, due to factors such as variations in the timing of bond sales, the par amount of bonds sold and market interest rates available at the time of each sale, actual assessed valuations over the term of the bonds, and other factors. The date and amount of bonds sold at any given time will be determined by the District based on the need for project funds and other considerations. The actual interest rates at which the bonds will be sold will depend on conditions in the bond market at the time of sale. Actual future assessed valuations will depend upon the amount and value of taxable property within the District as determined by the County Assessor in the annual assessment and the equalization process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By:\n/s/ Dr. Kristin Baranski\nSuperintendent\nSantee School District"
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=86"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Santee’s elementary schools are among our community’s most valuable assets. Quality schools give our children the education they need to succeed and strengthen our community by protecting home and business values."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure BB will provide funding for essential repairs for Santee Elementary School District with local control, full disclosure of all spending, independent oversight and",
+            {
+              "strong": [
+                " no increase in your current tax rate."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "To repair and preserve Santee’s elementary schools, maintain local control and ensure that our community",
+            {
+              "strong": [
+                "—not the State—"
+              ]
+            },
+            "decides how our tax dollars are spent,",
+            {
+              "strong": [
+                " vote YES on Measure BB."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Here’s how:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Local Control and Public Disclosure:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Full",
+                  {
+                    "strong": [
+                      " public disclosure"
+                    ]
+                  },
+                  " of all spending is legally required."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Not one cent can be used to pay administrator salaries, pensions or benefits."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "By law,",
+                  {
+                    "strong": [
+                      " funds cannot be taken by the State"
+                    ]
+                  },
+                  " and spent elsewhere."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure BB Protects Taxpayers:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "An independent citizens’ bond oversight committee and third-party auditor will review every expenditure."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Measure BB will not raise the current tax rate."
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure BB Will Fund Critical Repairs and Renovations:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Replacing inefficient heating, ventilation, filtration and air-conditioning systems."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Repairing leaky roofs, aging plumbing, and deteriorating sewer systems."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Installing keyless entry access and emergency communications systems."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Ensuring accessibility in classrooms, restrooms, playgrounds and walkways for students with disabilities."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Installing shade structures to protect students from extreme heat."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Providing a multipurpose space for PE, afterschool programs and community activities."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Improving playgrounds and playfields used by the schools and the community."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Adding perimeter fencing and gates."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "To preserve our independence from outside interference and keep decisions about our schools local,",
+            {
+              "strong": [
+                " Vote YES on Measure BB."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Barbara Ryan",
+          "title": "Santee School District Board Member"
+        },
+        {
+          "name": "Linda Vail",
+          "title": "Former Independent Oversight Committee Chair"
+        },
+        {
+          "name": "Michelle Corderman",
+          "title": "District Teacher of the Year"
+        },
+        {
+          "name": "Candace Schmitthenner",
+          "title": "Santee Parent/Volunteer"
+        },
+        {
+          "name": "Mark Kersey",
+          "title": "President and CEO of San Diego County Taxpayers Association"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=87",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure Bb",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf",
+      "mediaType": "application/pdf",
+      "page": 87,
+      "sha256": "cb2d3d52412e2d6a985718e7a7b1fadc4a79000cd2f48d34418b5b39edb6a733"
+    }
+  ]
+}

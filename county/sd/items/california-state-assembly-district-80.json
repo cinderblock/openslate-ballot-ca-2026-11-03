@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 80",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-80",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "David A. Alvarez",
+      "statement": {
+        "by": "David A. Alvarez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m David Alvarez, and I’m running for re-election to continue delivering for South San Diego County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Assemblymember, my public service has focused on expanding opportunity, strengthening public education, and fighting for long-overdue investments in our community. I’ve led efforts to expand access to higher education, bringing bachelor’s degree programs to South County and the future Chula Vista University campus, starting this fall."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve secured millions in state funding to address the Tijuana River sewage crisis. I also secured funding for Memorial Park in Logan Heights and Grove Park in Otay Mesa-Nestor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chair of the Assembly Budget Subcommittee on Education Finance, I’ve worked to ensure taxpayer dollars are spent responsibly and tied to measurable student results. I’ve spearheaded new laws requiring responsible use of technology in schools, including limits on cell phones, and prohibiting social media use among kids and teens to address rising attention deficit, anxiety, and bullying."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I continue to host town halls and community coffees to ensure you, the voter, can meet with me directly. My office has assisted nearly 1,500 residents access their earned benefits, navigate state bureaucracy, and connect with resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities moving forward: increase affordable housing and homeownership opportunities, invest in schools from preschool through college, expand green space, support small businesses, and ensure our region receives its fair share of state resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service is about accountability and results. I will continue working hard to deliver practical solutions that improve daily life for our families and create real opportunity for our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can keep delivering results for South County."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Poway City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/poway",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:21Z",
+  "candidates": [
+    {
+      "choice": "Chris Pikus",
+      "statement": {
+        "by": "Chris Pikus",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "In Poway, we enjoy the best roads, finest first responders, lowest taxes, healthy reserves, outstanding parks and amenities. We’re the envy of San Diego County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "But good government is no accident. I have served as your Councilmember since 2025, providing responsible stewardship of all that makes Poway unique. Your vote for me will help Poway remain a well-managed, fiscally sound city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an engineer with a law degree, and three years serving on Poway’s Budget Review Committee, I bring a high level of insight and attention to detail on City matters, from budgets and contracts to policies and development projects."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to you includes advocating for improvements on Highway 67 – the site of many traffic fatalities – as a board member of the San Diego Association of Governments."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You’ll also find me throughout the community at city-sponsored events, as an active member of Poway Kiwanis and Poway Chamber of Commerce, and a proud supporter of performances at the Poway Center for the Performing Arts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Because I represent our neighborhood on council, I want to hear from you. Contact me at 858-746-0000. Together, we can ensure that Poway remains the best place to live, work, and play. As your councilmember and neighbor, I would be honored to continue serving you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proudly endorsed by: Poway Firefighters Association and Deputy Sheriffs’ Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "https://www.ChrisPikusForPoway.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

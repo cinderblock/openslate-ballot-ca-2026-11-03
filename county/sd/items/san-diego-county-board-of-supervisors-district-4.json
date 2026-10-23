@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego County Board of Supervisors, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:00Z",
+  "candidates": [
+    {
+      "choice": "Kristine Alessio",
+      "statement": {
+        "by": "Kristine Alessio",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for County of San Diego Board of Supervisors to provide experienced, accountable leadership focused on the priorities that matter most to our communities. As a former member of the La Mesa City Council, I have worked to make government more responsive, fiscally responsible, and delivered results for residents. County government should be transparent, accountable, and committed to delivering high-quality public services while protecting taxpayers. I will oppose tax increases that hurt working families and ensure county government lives within its means and make San Diego affordable for working families, seniors, and small businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are your priorities; they include lowering our sky-high cost of living, improving public safety, supporting small businesses, and investing in infrastructure that strengthens our neighborhoods. I will work to ensure our county has safe communities, well-maintained roads, clean parks, and efficient public services that meet the needs of residents today and for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The victims of the 2024 floods deserve justice, accountability, and a county government that learns from past failures to better protect our communities. It’s shameful that families looking for relief are being sued by the same government that failed them. When I’m elected, I’ll be a fighter for families who were neglected and left behind."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Monica Montgomery Steppe",
+      "statement": {
+        "by": "Monica Montgomery Steppe",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Supervisor Montgomery Steppe delivers results for San Diego County. Protecting families. Strengthening neighborhoods. Building systems that work for people."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Economic opportunity for all — increased small businesses funding and living wage standards for County workers; protected healthcare, food assistance, and essential services from federal cuts; co-led fiscal planning to safeguard County programs and save money for residents.\nClean & healthy communities — expanded behavioral health treatment and addiction services; strengthened food security for seniors and children; led recovery efforts after the floods while holding price gougers accountable and protecting families from displacement.\nHousing & homelessness — directed over $200 million in affordable housing development; expanded shelter capacity with wrap-around services; provided rental assistance for seniors; advanced tenant protections and rental transparency to keep us housed.\nHolistic Public Safety — helped make MTS one of the safest transit systems in the nation; expanded civilian oversight of the Sheriff’s Office and jails; strengthened juvenile justice; invested in prevention-focused public safety strategies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When costs skyrocket, Monica protects working families.\nWhen systems lack accountability, Monica strengthens oversight. When San Diegans struggle, Monica prioritizes resources to help."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Monica delivers steady, people-centered leadership, because she believes community is the cure for chaos — today and for the future."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santee City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santee",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "candidates": [
+    {
+      "choice": "Ronn Hall",
+      "statement": {
+        "by": "Ronn Hall",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m honored to serve as your Santee Council Member. Public Safety has always been and will be a top priority for me. I remain committed to keeping our community safe, secure, and service driven, that’s why many local elected officials and the Deputy Sheriff’s Association endorsed me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support local jobs, a balanced budget, paving streets, reducing homelessness, and common-sense improvements to our city, while protecting your tax dollars. Santee continues to move in a positive direction, collaborating with state and federal partners to fix Highway 52."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s important to me to stay accessible and listen to you. I make it a priority to respond to all your calls and emails, meet with community members, and listen to your concerns. I’m committed to working to support a strong future for Santee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Santee Business Owner, Council Member, MTS Board Member, Former Chamber of Commerce President, Rotarian, and Community Volunteer, I value and promote the idea of live, work, shop, and enjoy life in Santee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I humbly and gratefully ask for your vote. The issues, not politics we face are too important not to address head-on with continued Strong Leadership, Experience, and Common-Sense Solutions for Santee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ronn\nRonnHallSantee.com\nCell 619-670-1200"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Eddie Vandiver",
+      "statement": {
+        "by": "Eddie Vandiver",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For the past 25 years, I have proudly lived and worked in Santee, raising my family and investing in the community I call home. As President and General Manager of Sportsplex USA Santee, I have spent my career bringing people together, supporting local families, and creating opportunities for our community to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 16 years, I have been actively involved with the Santee Chamber of Commerce, working alongside local businesses, nonprofits, and community leaders to strengthen our city and support responsible economic growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Santee City Council because I believe in protecting what makes our community special while planning responsibly for the future. My priorities are keeping Santee safe, supporting our first responders, maintaining our parks and infrastructure, promoting responsible spending, and ensuring City Hall remains transparent and accountable to the people it serves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to have earned the endorsements of the Santee Firefighters Association and the Santee Mobilehome Owners Action Committee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Santee City Council District 2. For more information, check out my website: eddiev4santee.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Vista Unified School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:05:30Z",
+  "candidates": [
+    {
+      "choice": "Martha Alvarado",
+      "statement": {
+        "by": "Martha Alvarado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Martha Alvarado is an award-winning teacher and school board member. Currently in the classroom, she’s taught for 26 years. She has served her country and community for 34 years as a Marine Corps veteran, a teacher and as an incumbent school board member."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Martha believes all students deserve a quality education. During her past 2 terms, she has provided students with safer learning environments. She’s hired more counselors and social workers. She has prioritized providing professional development to teachers and administrators, building research-based expertise in reading and math."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Martha knows that schools thrive when parents, teachers, administrators and support staff collaborate. She was instrumental in opening 12 community schools with wraparound services such as academic interventions, counseling, medical/dental referrals and food resources."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "She’s been instrumental in expanding career pathways to include a dual enrollment program with California State University San Marcos, a building trades pre-apprenticeship program, internships with the Vista Fire Department and paid internships with community partners."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Her efforts have resulted in increased test scores and student attendance as well as a balanced budget without layoffs. Re-elect Martha Alvarado. Her experience and proven leadership will continue to make a difference in the lives of VUSD students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "marthaalvarado.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-166.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jon Moffat",
+      "statement": {
+        "by": "Jon Moffat",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am Jon Moffat, a North County resident with over two decades of experience in community engagement, youth education, and program development. I am seeking a Vista School Board position to ensure every student has a safe, supportive environment that fosters success. My journey began when a MiraCosta student ambassador inspired me to pursue higher education, leading to a four-year degree in Liberal Studies at CSUSM. As former MiraCosta ASI President and Student Trustee, I gained valuable insights into students’ needs and leadership. Professionally, I created the Cyber Education Program at the Vista Community Clinic, educating over 35,000 students and 5,000 parents while securing multiple grants. As Youth Violence Prevention Coordinator, I developed strategies for at-risk youth. As Facility Manager at New Haven Youth and Family Services, I managed operations, staff, and resident well-being, including crisis management.In 2012, I founded Cyber Education Consulting, teaching digital literacy from first grade through adulthood and counseling families on safe online navigation. These roles honed my skills in program coordination, community engagement, and operational management.I am committed to student growth, parent involvement, digital citizenship, and safe schools. It would be an honor to serve our students, families, and educators."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-166.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

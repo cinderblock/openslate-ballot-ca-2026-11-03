@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido Union School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:32Z",
+  "candidates": [
+    {
+      "choice": "Maggie Cascio",
+      "statement": {
+        "by": "Maggie Cascio",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Maggie Cascio. I am a candidate for the Escondido Union School District school board, Trustee Area 4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I decided to run for this seat because the students in Escondido deserve an excellent education and that starts with a school board that always puts the students’ needs first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ve had kids in public schools for fifteen years, where I have volunteered in classrooms, served on Parent Teacher Association boards and School Site Councils. I worked on campus as an Instructional Aide. This experience gave me the opportunity to work with students, teachers, administrators, and support staff. I learned about the challenges of balancing budgets while meeting the needs of the students, teachers, and support staff. I’ve learned that the students are best served when the board, administrators, teachers, students, and families work together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This district needs trustees who guide with integrity and transparency. I will serve the students and their families, listen to and respect the input of the dedicated teachers and staff, and maintain open communication with the community. You can count on me to ask questions, listen, learn, and make decisions with full accountability.\nrd\nI would appreciate your vote on November 3 . You can learn more at maggiecascio.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Zesty Harper",
+      "statement": {
+        "by": "Zesty Harper",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Escondido is my home. I was born here, grew up here, went to school here, and have chosen to raise my kids here. I’m a former elementary school teacher, a mother to three Escondido public school students and recent graduates, and it has been my privilege to serve our community on the Escondido Union School District Board of Education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my time on the board, we have worked collaboratively to support high academic standards, responsible fiscal stewardship, safe and modern schools, and programs that meet the needs of every student. I have supported initiatives that strengthen mathematics and literacy instruction, expand opportunities for English learners, promote family engagement, and recruit and retain outstanding teachers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While I am proud of the progress we have made, I also recognize that there is much work to do. My priorities remain clear: ensuring every student receives an excellent education, supporting dedicated teachers and staff, maintaining fiscal responsibility, and providing safe, welcoming schools where all children can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so I can continue working with our community to prepare every Escondido student for lifelong success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information, and to get in touch, please visit www.ZestyforSchoolBoard.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

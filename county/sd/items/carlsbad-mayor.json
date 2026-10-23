@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carlsbad Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/carlsbad",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:13:18Z",
+  "candidates": [
+    {
+      "choice": "Keith Blackburn",
+      "statement": {
+        "by": "Keith Blackburn",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Eighteen years on the Carlsbad City Council with four years as your mayor, and forty years serving in the Carlsbad Police Department, have provided me with a solid foundation. During my time on the city council, we have strengthened our police and fire safety services, implemented modern traffic signal technology, and protected parks and open space."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support our City’s Homeless Action Plan which continues to have great success helping our homeless receive the help they need to get off the streets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since being elected eighteen years ago, I have donated my salary to local non-profits. I stay active and connected through volunteering with charitable organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I spearheaded the ban on sales of puppy-mill pets in Carlsbad, and assisted in passing legislation throughout the State. My goal as Mayor is to continue to preserve, protect, and enhance Carlsbad’s high quality of life.\nrd\nI am asking for your vote on November 3 ."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Keith4Carlsbad.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Eric Nixon",
+      "statement": {
+        "by": "Eric Nixon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m running for Mayor because I love Carlsbad and want to help preserve what makes our city such a special place to live, work, and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a public safety professional for the past 15 years, I have dedicated my career to serving the community through emergency medical services, public education, and community relations. I have worked alongside first responders, taught lifesaving CPR to tens of thousands of residents, businesses, and students, and built partnerships that strengthen the community. Those experiences have taught me that the best decisions come from listening, asking questions, and bringing people together to solve problems."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Everything I've done in my career has prepared me to serve Carlsbad as Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Mayor, my priorities will be protecting public safety, supporting thoughtful growth that respects Carlsbad's unique character and protects our neighborhoods from overdevelopment, preserving our environment and quality of life, and ensuring City Hall remains transparent, accessible, and responsive to the people it serves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I promise to listen, to lead with integrity, and to always put Carlsbad first. I ask for your vote, and if you entrust me with the opportunity to serve, I'll work every day to earn your trust."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

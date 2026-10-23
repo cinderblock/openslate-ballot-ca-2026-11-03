@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ramona Unified School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:42:37Z",
+  "candidates": [
+    {
+      "choice": "Rodger Dohm",
+      "statement": {
+        "by": "Rodger Dohm",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As the father of 5 children serving on the Ramona Unified School District Board for nearly 20 years, I believe a conservative approach should be maintained. Being an educator for the past 30+ years has increased my view for community volunteerism and less government. I am driven to work with all community stakeholders to remain fiscally responsible, stable, accountable, and focused on students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A proven record of high expectations, award winning success, and safety, excel in RUSD. I encourage innovative teaching, curriculum, programs and leadership supporting Ramona values through social and emotional learning, parental rights, values and patriotic education, college and career, athletics, AP courses, STEM, project-based learning, vocational and fine arts through continued teacher support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher and coach at Poway High School, I hold a BA in Mathematics and Art, and a MA in Educational Leadership. I serve in the Sunday School and Ministry in my church."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "“Rodger Dohm’s track record demonstrates that he’s always done what's right for children, family and the community. His experience as an educator and school board member is what our Ramona community needs. I am proud to support him for school board.” -Supervisor Joel Anderson"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be my honor to serve you."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-343.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

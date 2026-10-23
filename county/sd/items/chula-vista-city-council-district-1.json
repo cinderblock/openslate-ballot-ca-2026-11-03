@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chula Vista City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/chula-vista",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:59Z",
+  "candidates": [
+    {
+      "choice": "Carolina Chavez",
+      "statement": {
+        "by": "Carolina Chavez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your City Councilmember, I have spent the past four years delivering results for our families, small businesses, and neighborhoods. My priorities have always been clear: keeping our community safe, investing in the infrastructure our city needs, and creating opportunities for local businesses to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety comes first. I’m honored to have earned the endorsement of the Chula Vista Firefighters IAFF Local 2180 and the Chula Vista Police Officer’s Association because they know my commitment to keeping Chula Vista one of the safest cities in our region — from my record on the council to my work to advance a new police substation in East Chula Vista to improve response times for our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe strong communities are built through smart investments. This is why I have supported projects like the Gaylord Pacific Resort, creating hundreds of jobs, and the long-awaited Millenia Library, expanding educational opportunities and bringing higher education partnerships closer to home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue working to ease traffic congestion, strengthen local businesses, address housing affordability, and guide responsible growth that protects our quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a safer, stronger, more prosperous Chula Vista. I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.votechavez.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-666.pdf#page=59",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Greg Martinez",
+      "statement": {
+        "by": "Greg Martinez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Greg Martinez successfully fought to stop the 70% salary increase for City Councilmembers, that would have increased the part-time salary from $64,000 to $110,000!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Greg Martinez will bring our District accountable leadership focused on results—not politics. He will always be available to residents and listen to their concerns."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Greg Martinez will prioritize public safety by building an East Chula Vista police substation and putting more police on the streets. Martinez will add more traffic cops to cut down on speeding and red light running."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Greg Martinez will help struggling families by opposing tax increases, including the mileage tax and gas tax. SANDAG has wasted millions on the SR-125 toll road and Greg Martinez helped defeat the prior SANDAG sales tax to nowhere."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a CPA, Greg Martinez understands the needs of businesses and how to attract good paying jobs to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Greg Martinez is dedicated to bringing a 4-year university to Chula Vista for our children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Greg Martinez and his wife raised their three children in Chula Vista, built a successful small business, and spent decades serving our community. As a City Commissioner Greg insured that our tax dollars were always invested wisely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote Greg Martinez for Chula Vista City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.gregforchulavista.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-666.pdf#page=59",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -10,6 +10,7 @@ each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
 | **San Francisco** Voter Information Pamphlet (Department of Elections) | `county/sf/` | `/county/sf/guide.jws` |
 | **Los Angeles County** candidate statements and local measures (Registrar-Recorder/County Clerk) | `county/la/` | `/county/la/guide.jws` |
 | **Orange County** candidate statements and local measures (Registrar of Voters) | `county/oc/` | `/county/oc/guide.jws` |
+| **San Diego County** Voter Information Pamphlets: candidate statements and local measures (Registrar of Voters) | `county/sd/` | `/county/sd/guide.jws` |
 | **Alameda County** Voter Information Guide: candidate statements (with Berkeley and Oakland photos) and local measures (Registrar of Voters) | `county/alameda/` | `/county/alameda/guide.jws` |
 
 Each is its own signed manifest, because each is a different authority's
@@ -98,6 +99,32 @@ ballot source in the endorsements catalog (its `contest-subjects.json` and the
 filing log saved in its evidence). OC's measure pages set their two columns
 close together (about 8 pt apart), so `scripts/lib/pdf-layout.ts` also splits
 a line at a narrower gap when the gap straddles the middle of the page.
+
+## San Diego County
+
+San Diego prints one pamphlet per ballot type (654 of them, 9–13 MB each),
+each assembled from shared sections whose code is printed at the foot of every
+page (`CS-J03030-1-ENG` for a contest's statements, `PR-Q00001-2-ENG` for a
+measure's pages):
+
+- `bun scripts/sd-index.ts` reads each pamphlet's bookmarks through HTTP range
+  requests (`scripts/lib/pdf-range.ts`, about 0.6 MB a pamphlet) into
+  `evidence/county/sd/ballot-types.json`. It's paced, and resumable: an
+  unchanged pamphlet isn't read again. The SD ballot source in the endorsements
+  catalog takes its list of measures from this index.
+- `bun run scrape:sd` picks the fewest pamphlets whose bookmarks cover every
+  contest (67), downloads them into `.cache/` (never committed), and reads each
+  section once:
+  - **candidate statements** for the US House, State Senate and Assembly
+    districts in the county and every local office (San Diego prints no
+    candidate photos);
+  - **local measures**: the question, what a Yes and a No vote mean, the
+    impartial analysis, any tax rate statement, the arguments and rebuttals
+    with their signers (set one to a row, or two across), and the full text's
+    page.
+
+  It also records each measure's short title, where the pamphlet prints one, in
+  `evidence/county/sd/measure-titles.json` for the ballot source.
 
 ## Alameda County
 

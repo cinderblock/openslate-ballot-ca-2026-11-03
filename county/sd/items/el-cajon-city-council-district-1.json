@@ -1,0 +1,132 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Cajon City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/el-cajon",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:32Z",
+  "candidates": [
+    {
+      "choice": "Osama Bayati",
+      "statement": {
+        "by": "Osama Bayati",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "At just 24 years old, I would have the distinction of becoming the youngest councilmember in El Cajon’s history. A lifelong resident, my campaign is rooted in my experiences growing up in a city that hasn’t received the investment it deserves. Having lived close to poverty most of my life, I comprehend the realities faced by working families — not merely as a rhetorical point, but as a personal narrative. I’ve promised my family and supporters to always stand with the politically voiceless, the underrepresented, and frontline workers who keep our city thriving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fortunately, my journey opened doors that many children around me never had the chance to enter. Through mentorships and impressing key leaders, I went from Disney sets to Harvard classrooms. I’ve learned that talent exists everywhere — opportunity does not. I realize I am no different from my peers; I was simply given access to opportunities they should have had too."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will fight to give your children the foundation they need to succeed, establish political term limits, streamline small-business growth, create a homeless crisis response team, and oppose additional taxation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit our website to witness a new generation stepping into local government, fighting for a different future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Bayati4elcajon.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-544.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Chuck Kaye",
+      "statement": {
+        "by": "Chuck Kaye",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I will bring more than 33 years of proven leadership, public safety experience, and problem-solving to the El Cajon City Council. I served 28 years with the San Diego Police Department, retiring as an Assistant Chief, and five years as Chief of Police for the City of Coronado."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running because I believe El Cajon’s best days are ahead. Every resident deserves to feel safe, every business deserves the opportunity to succeed, and every family deserves a city they are proud to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work to attract new businesses, expand dining and entertainment options, and create good-paying jobs that strengthen our local economy. I support redeveloping Parkway Plaza into a vibrant destination with pride of ownership housing, jobs, and new opportunities, while revitalizing downtown in a way that preserves its unique character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A strong economy provides the resources needed to maintain excellent police, fire protection, parks, roads, and other essential city services. I will bring experienced leadership, a commitment to public safety, and a common-sense approach to responsible growth to help build a safer, stronger, and more prosperous El Cajon for today and future generations."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-544.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Patrick Grillot",
+      "statement": {
+        "by": "Patrick Grillot",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m running to bring a fresh perspective to the City Council focusing on safe neighborhoods, lowering the cost of living, addressing homelessness, and ensuring a transparent government that’s accountable to the voters. I hope to earn your vote through my focus on these local, quality-of-life issues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Husband, a Father of a 2-year-old, and a Homeowner, I’m invested in the long-term success of El Cajon. Like you, I want to see:\nSafer streets, sidewalks, parks, and playgrounds for our kids & neighbors; Higher wages & lower housing costs;\nMore thriving restaurants, grocery stores, shops, & businesses;\nLess helicopter noise;\nFast resolution of public nuisances;\nResponsible city spending without raising the sales tax rate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Council needs to focus on these local priorities–not on wasteful misadventures like failed lawsuits or buying Parkway Plaza."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 5 years on the Public Safety Facility Financing Oversight Committee, I’ve ensured your taxpayer dollars are well spent on critical public safety infrastructure like fire station upgrades and police equipment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’ll bring 13 years of leadership experience in business and healthcare to partner with all community members to bring El Cajon into a new era."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Info & Endorsements: PatrickForElCajon.com,\nEmail: PatrickForElCajon@gmail.com, Call/text: 619-663-4321"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-544.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

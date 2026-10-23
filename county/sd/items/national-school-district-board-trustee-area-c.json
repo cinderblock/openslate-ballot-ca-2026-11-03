@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "National School District Board, Trustee Area C",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:36:18Z",
+  "candidates": [
+    {
+      "choice": "Barbara Avalos",
+      "statement": {
+        "by": "Barbara Avalos",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong National City resident and proud graduate of Sweetwater High School, I am committed to ensuring every child in the National School District receives an outstanding education in a safe, supportive, and inclusive learning environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your school board member, I have worked to strengthen academic achievement, expand classroom technology, and support programs that prepare students for lifelong success. Today, our district continues to earn recognition for its commitment to innovation and excellence, including being named a 2026 California Green Ribbon School District for promoting healthy schools, environmental stewardship, and student achievement. I am committed to building on that success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities remain clear: maintaining high academic standards, supporting outstanding teachers and staff, strengthening partnerships with parents, practicing responsible fiscal stewardship, and ensuring every student has access to the resources, opportunities, and support needed to thrive. Strong public schools are the foundation of a strong National City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe effective leadership is built on integrity, accountability, transparency, respect, and a steadfast commitment to serving students, families, and taxpayers. Every decision I make is guided by what is in the best interest of our children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue moving the National School District forward."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-693.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

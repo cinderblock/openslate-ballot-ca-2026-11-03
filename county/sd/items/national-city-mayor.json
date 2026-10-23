@@ -1,0 +1,184 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "National City Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/national-city",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:57Z",
+  "candidates": [
+    {
+      "choice": "Ruble Mitchel Beauchamp",
+      "statement": {
+        "by": "Ruble Mitchel Beauchamp",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Election of the Mayor comes at a time of serious economic challenges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My service as a City Councilmember was in a different technological era, but still, government must live within its means. During my service as City Treasurer, my responsibility was only to serve as the taxpayers’ watchdog, allowing me to see, but not control, the consequences of financial decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Except for service as a Naval officer, and postgraduate studies with a Master’s Degree in Biology, I have spent my life in our wonderful city. I operated a regional consulting business that employed approximately 50 people. These taught me the importance of sound financial management, responsible leadership, and creating opportunities for others."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is troubling to see how special interests have weakened the stability and effectiveness of our city government. National City’s future should be guided by the interests of its residents, not outside influences."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "By electing me Mayor, you can restore National City’s financial stability, strengthen accountable government, and return the focus to serving our residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The choice now belongs to you. We see today, nationally, the consequences of poor leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Your vote can restore responsible government, fiscal discipline, and a brighter future for National City."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-695.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jacobb Castrejon",
+      "statement": {
+        "by": "Jacobb Castrejon",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a second generation Mexican-American who comes from a family that has set their roots here in National City for over 30 years. I have spent my entire adulthood living in this wonderful city and have attained my education from Southwestern College and UCSD. While living here I have come to the unfortunate realization that not enough is being done to uplift National City in the way that it should be. The ongoing affordability crisis and federal overreach has already harmed many within our community. Seeing what has transpired here I could no longer, in good conscience, sit on the sidelines and trust others to do the work that needs to be done in our city. That is why I am running to be Mayor of National City to help inject new life and ideas into our local government. My main priorities focus on improving our road infrastructure, cleaning up our streets, protecting our community from the affordability crisis, and adding more green and community spaces. It would be an honor and a privilege to be your Mayor and champion the plight of working families across National City."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-695.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Marcus Bush",
+      "statement": {
+        "by": "Marcus Bush",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "National City raised me. I attended Lincoln Acres, Granger and Sweetwater High School. Today I’m raising my own family in the community I’ve always called home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My education in City Planning, Real Estate Development prepared me to understand how cities grow and how decisions impact working families. Before joining the City Council, I served on our Planning Commission and with local business organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since being elected to City Council in 2020 and re-elected in 2024, I’ve worked collaboratively to strengthen public safety funding, invest in Las Palmas Pool, support our first homeless shelter, promote local hiring, advocate for greater Port investment in City of National City, and recruit new City leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My years on the Council have also taught men an important lesson: leadership means listening, learning and representing the entire community – not one group, interest or outside influence. There are decisions I might approach differently today, but experience has strengthened my understanding of public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor Ron Morrison concludes decades of service, I’m honored to have his endorsement and confidence to lead City of National City forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leadership means working together, putting City of National City National City first, and delivering results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m running for Mayor to serve the community I love."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-695.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jose Rodriguez",
+      "statement": {
+        "by": "Jose Rodriguez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It’s time for a Mayor on the side of working people – not the powerful or well-connected. It’s time for new leadership that gets results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jose will fight for the City of National City we deserve: more affordable homes, less pollution, higher wages, rent control, cleaner streets, and safe neighborhoods for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jose is a father of four and former union organizer who knows how hard people work to afford groceries and pay rent. That’s why Jose fought to freeze rents, raise the minimum wage and added 240 affordable homes across National City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jose is our Councilmember delivering neighborhoods’ basic needs: 4-person firefighting teams, combatting gangs, $23 million to renovate city parks and rec centers. Jose supports law enforcement, not lawlessness, and strongly opposes Trump’s ICE."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, Jose will build affordable homeownership, control rents, fund street cleaning, add firefighters, and hold Port polluters accountable for clean air. Jose will fight for a City that’s safe, clean and affordable for everyone - no matter where you live or what you earn. Enough career politicians serving themselves. Enough ignoring working families. It’s time for a Mayor on our side. It’s time for Jose Rodriguez."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jose is endorsed by City of National City Firefighters, American Federation of Teachers, San Diego Labor Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "VoteJoseRodriguez.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-695.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

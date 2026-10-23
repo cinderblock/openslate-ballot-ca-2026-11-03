@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Imperial Beach City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/imperial-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:36:13Z",
+  "candidates": [
+    {
+      "choice": "O'Mar Diallo",
+      "statement": {
+        "by": "O'Mar Diallo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is O’mar Diallo, and I am running for Imperial Beach City Council, District 3, because our community deserves strong leadership, practical solutions, and a clear vision for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Imperial Beach is a special place, but we face serious challenges that require action and meaningful community involvement. The Tijuana River sewage crisis continues to threaten our health, environment, and local economy. I will work tirelessly with federal, state, and regional leaders to secure the resources needed to end this crisis once and for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also believe we must support our small businesses, strengthen public safety, invest in our parks and streets, and ensure every tax dollar is spent wisely and responsibly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your councilmember, I will listen to residents, lead with transparency, and make City Hall more accountable. Most importantly, I will ensure the community has a meaningful voice in the decisions that shape our future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can protect our coastline, strengthen our economy, and preserve the quality of life that makes Imperial Beach unique. I respectfully ask for your vote so we can build a cleaner, safer, and more prosperous Imperial Beach for our families, our children, and future generations."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-684.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

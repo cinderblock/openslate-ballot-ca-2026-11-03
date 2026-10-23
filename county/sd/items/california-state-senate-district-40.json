@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Senate, District 40",
+    "kind": "race",
+    "jurisdiction": "us/ca/sd-40",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "candidates": [
+    {
+      "choice": "Kristie Bruce-Lane",
+      "statement": {
+        "by": "Kristie Bruce-Lane",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Millions of Californians have fled our state in the last 5 years – perhaps the thought has even crossed your mind."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That’s because California’s career politicians – from both political parties – have failed us!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "They offer nothing but partisan bickering and play the blame game while Californians suffer. It’s time to demand change."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a principled problem solver pursuing a common-sense agenda."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "First - Reduce your cost of living. I’ll oppose every tax hike – like the crazy new Mileage Tax. I’ll fight price gouging by the government and corporations. And I’ll reduce utility and insurance rates by reforming costly mandates. Second - Stop wasteful spending. We must put a stop to rampant fraud and wasteful spending in high-risk government programs. Every dollar lost takes away from services for people who legitimately need help. Third – Enact Voter ID. A super-majority of Democratic, Republican, and Independent voters support Voter ID – so let’s just get it done so everyone can have trust and confidence in our elections."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To get these three priorities done, I’ll work with everyone to build consensus. People first, not politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Senator, I’ll stand up to the special interests, corporations, and lobbyists, so your voice is heard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your support and your vote!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=49",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Marcos Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-marcos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:27Z",
+  "candidates": [
+    {
+      "choice": "Sharon Jenkins",
+      "statement": {
+        "by": "Sharon Jenkins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am asking for your vote. My 35 years of steady leadership have contributed significantly to the vitality and success San Marcos is known for. My dedication and service to our community are unmatched."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Trusted, Proven Leadership - Having spent 12 years on City Council with six as Deputy Mayor, 14 years on San Marcos Unified School District Governing Board, and over 35 years volunteering for over 25 organizations dedicated to San Marcos, I know how to deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Community First - I have always put San Marcos first, and always will. I created and led the successful 2024 For a Safe and Strong San Marcos -Yes on Q committee leading to the planning for Fire Station 5 and the improvement of roads, parks, and infrastructure."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proud accomplishments - During my elected leadership, we built nine schools, including Mission Hills and San Marcos High Schools and modernized many others. We completed the Creek District infrastructure, including two major crosstown bridges. Through responsible stewardship, San Marcos has consistently been one of the most fiscally sound cities in the county."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Looking Forward - Focus on enhancing public safety, quality of life, native open spaces and parks; invest in our neighborhoods and businesses; be a careful steward of every taxpayer dollar."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience, steady leadership, and decades of dedication to San Marcos make me your best choice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for a proven leader. SharonJenkinsForMayor.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mike Sannella",
+      "statement": {
+        "by": "Mike Sannella",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For the past 12 years, I have proudly served San Marcos, working to protect the quality of life that makes our city a great place for families to call home through practical, responsible leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Deputy Mayor, I advanced practical solutions to homelessness while prohibiting camping in our parks, on sidewalks, and near schools. I helped establish a Sheriff’s Resource Office, approved plans for a new fire station, and secured a wildfire helicopter water hydrant to strengthen emergency response and protect our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, I will focus on the issues residents raise most often: improving traffic flow, keeping neighborhoods safe, supporting local businesses, maintaining city services, and continuing the revitalization of San Marcos Boulevard as a destination where residents can shop, dine, gather, and enjoy entertainment close to home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife Amy and I have called San Marcos home since 1996. We are both CSU San Marcos graduates, and Amy serves as a principal in the San Marcos Unified School District. We raised our family here and are deeply invested in ensuring San Marcos remains safe, welcoming, fiscally responsible, and a place future generations will be proud to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote for Mayor. For more information, visit: www.MikeSannella.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

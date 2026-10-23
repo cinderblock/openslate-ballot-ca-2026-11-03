@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Marcos Unified School District Board, Trustee Area E",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:48Z",
+  "candidates": [
+    {
+      "choice": "Christine Baker",
+      "statement": {
+        "by": "Christine Baker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent, community volunteer, and real estate appraiser, I understand the importance of listening, problem solving, and making thoughtful, informed decisions. I am running for the San Marcos Unified School District Board because every child deserves a safe, supportive, and academically excellent education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are putting students first by strengthening academic excellent education, ensuring our schools remain safe, maintaining student well-being and mental health, supporting teachers and staff, and being prepared for emergencies. I believe every student should feel respected, and empowered to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strong schools are built through transparency, accountability, and genuine collaboration. I will work to ensure parents, students, community, and educators/staff all have a voice in the decisions that shape our schools. By using data, listening to those closest to our classrooms, and focusing on practical solutions, we can meet today’s challenges while preparing students for tomorrow’s opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to keeping the focus where it belongs-on our children. Together, we can preserve the excellence of San Marcos schools while building an even stronger future for every student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please vote Christine Baker for San Marcos Unified School District Board"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-120.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Derrick Davis",
+      "statement": {
+        "by": "Derrick Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for school board to deliver common-sense leadership that prioritizes academic excellence and provides best-in-class learning experiences for all of our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have four children, with my two youngest still attending SMUSD. My wife is a special education teacher. I have a firsthand perspective of what works in our schools–ensuring all students have equal resources, dedicated attention, and the support needed to achieve real academic progress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For the past ten years, I have held a senior leadership role for a company that provides security systems for school campuses across California. I am passionate about providing a safe and secure space for our students to learn. I will put my experience to work and be a champion for modernizing our campuses with fencing, cameras, access systems, and school resource officers so that we aren’t taking any chances with our children’s safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a degree in finance and a career spent in the private sector, I will ensure financial stability for the district while maximizing resources for the classroom. Tough decisions lay ahead and it is essential we make long-term financially responsible decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote. Learn more and get in touch at www.DerrickDavis.org"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-120.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

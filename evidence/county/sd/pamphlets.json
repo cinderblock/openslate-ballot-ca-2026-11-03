@@ -1,0 +1,506 @@
+{
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf",
+    "sha256": "52166150e4052ad7e2b0160c1319d3bd61a4efebc1434a50d910b8d4b0fffabd",
+    "bytes": 12504770,
+    "retrieved_at": "2026-10-23T17:04:21Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-127.pdf",
+    "sha256": "6816230500c9bc59f62f7c0a304d63da9be47c2db5dd284699bd72003aa0928c",
+    "bytes": 9711940,
+    "retrieved_at": "2026-10-23T17:04:27Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf",
+    "sha256": "87b572043cbda0d212b21dc0dc4d3888c49afcdfa3a906929396ffb3eca395d3",
+    "bytes": 11500864,
+    "retrieved_at": "2026-10-23T17:04:32Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-169.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-169.pdf",
+    "sha256": "87515897e6db522bb7271af263f83f2aa4376aacc468972e2ae42fbf065396f0",
+    "bytes": 10311397,
+    "retrieved_at": "2026-10-23T17:04:37Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-105.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-105.pdf",
+    "sha256": "a2bff8c3d8875303f7b36e73147c22d35174cf2820f16085dfb52dda8ccb8d0e",
+    "bytes": 10503741,
+    "retrieved_at": "2026-10-23T17:04:43Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-120.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-120.pdf",
+    "sha256": "0845986c62a1b88d95618c446076472c421169c1303910ac2aa14a9d9aab6e66",
+    "bytes": 9741542,
+    "retrieved_at": "2026-10-23T17:04:48Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-141.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-141.pdf",
+    "sha256": "ffa3fbfb910dd8e44c866186dab1a6f4a6ae025afac86da313f7223c0595094f",
+    "bytes": 9818745,
+    "retrieved_at": "2026-10-23T17:04:54Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-150.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-150.pdf",
+    "sha256": "245310a2b172ca11948d490a8a009d60042ea22d4b89925c2dfa65a095ee8804",
+    "bytes": 11413755,
+    "retrieved_at": "2026-10-23T17:04:59Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-121.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-121.pdf",
+    "sha256": "a407e87929c6600793dbfd187d8f33151752c18c281fc6319b3054f7f30df7d8",
+    "bytes": 9877509,
+    "retrieved_at": "2026-10-23T17:05:05Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-152.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-152.pdf",
+    "sha256": "bca54b51cf2983ae92d775a80d952db85d18ce03a95c579b028cdb3ea4b05914",
+    "bytes": 11411586,
+    "retrieved_at": "2026-10-23T17:05:10Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-158.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-158.pdf",
+    "sha256": "11e4709dacb85627913384881df5e0d5341591858b672002763541856cd2c1b3",
+    "bytes": 10118912,
+    "retrieved_at": "2026-10-23T17:05:15Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-162.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-162.pdf",
+    "sha256": "5dbeac93671b21c4a4d2d37f5874476c55e7768a5ccb02502b8c96ece9cc2a12",
+    "bytes": 10240203,
+    "retrieved_at": "2026-10-23T17:05:20Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-163.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-163.pdf",
+    "sha256": "063e52e32cb7234d36afec5b731558ceaa8e135b7a2fdac21d0b465248a3cf8b",
+    "bytes": 10242356,
+    "retrieved_at": "2026-10-23T17:05:25Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-166.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-166.pdf",
+    "sha256": "6dd00f3c8d23a0bd97bffc886d8b0c5d4bdeb80c27c4bfc6e9d796b93707ce7b",
+    "bytes": 10873534,
+    "retrieved_at": "2026-10-23T17:05:30Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-139.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-139.pdf",
+    "sha256": "39a3ad9c30d7b8cafd0bccd1e1fc3c141f4aec8b8f07172b1d44a3eb30a760f7",
+    "bytes": 9867997,
+    "retrieved_at": "2026-10-23T17:05:36Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-171.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-171.pdf",
+    "sha256": "b4bce842cb13875ae77427999ae45e0e8f2d51a5d96e25def3a4daa48c11a986",
+    "bytes": 9152882,
+    "retrieved_at": "2026-10-23T17:06:34Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-173.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-173.pdf",
+    "sha256": "581f33313aec2b9ab05c9fbd6b1e0f6fd117430ef2614678b1d2460797c528ed",
+    "bytes": 9332879,
+    "retrieved_at": "2026-10-23T17:07:22Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-179.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-179.pdf",
+    "sha256": "203c882ac1ae8601298c857f08c8ba261f57d783fc81585a27bf9c4630902319",
+    "bytes": 9809676,
+    "retrieved_at": "2026-10-23T17:07:26Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-196.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-196.pdf",
+    "sha256": "463661dd75d8661c607bec824e5a96c6c6ce2acfd4c070bf2ee6a9010220a17c",
+    "bytes": 9708301,
+    "retrieved_at": "2026-10-23T17:09:02Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-180.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-180.pdf",
+    "sha256": "846f180386ab78c70de1498c34e48e30133db5fb69894e7494d3d5db2b21863b",
+    "bytes": 9752298,
+    "retrieved_at": "2026-10-23T17:09:19Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-182.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-182.pdf",
+    "sha256": "893bdab711b3a0318b30f8d125f70a936e318ee8877e0c9039c482d967a9454e",
+    "bytes": 9874706,
+    "retrieved_at": "2026-10-23T17:09:24Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-190.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-190.pdf",
+    "sha256": "3312ef439f8494e06009f039c06f34d2dfc2fe2d5331eda07c32aac5163c7c64",
+    "bytes": 9822699,
+    "retrieved_at": "2026-10-23T17:09:29Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-183.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-183.pdf",
+    "sha256": "55605d1dbbbda0c2f98bd4562d74069c34845a1f40cfa65139c7a86ee8eb19be",
+    "bytes": 9772222,
+    "retrieved_at": "2026-10-23T17:09:49Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-185.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-185.pdf",
+    "sha256": "be2124b2ab8139c87c9b3a72cf246e9a240ce4a3495fbbcf5ba777e90d8d2a12",
+    "bytes": 9898867,
+    "retrieved_at": "2026-10-23T17:10:17Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-199.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-199.pdf",
+    "sha256": "ffbacf33e3cfcbd15b0a2aaafd9dc4fbb6fc624b8d398878ffeace56b780ec21",
+    "bytes": 9823381,
+    "retrieved_at": "2026-10-23T17:10:22Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-204.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-204.pdf",
+    "sha256": "8e755184254b41a909358461da0b6d17c22f11879c0da4121abf9e55e8c9d505",
+    "bytes": 9609167,
+    "retrieved_at": "2026-10-23T17:11:28Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-211.pdf",
+    "sha256": "2acc3ab8d6b44dc7311ec51027c3a26c142d86393beec65ac73792ddf12f7dfc",
+    "bytes": 9467828,
+    "retrieved_at": "2026-10-23T17:13:18Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-214.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-214.pdf",
+    "sha256": "6a40c11100f28552c4660ae6e024943ce280a106762e41c3bfe9453648579c38",
+    "bytes": 9807694,
+    "retrieved_at": "2026-10-23T17:13:27Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-219.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-219.pdf",
+    "sha256": "ac78f3dfd06206d22a2166c5e4140c2720bcaadb84b1aeec735ee208314333bf",
+    "bytes": 9785243,
+    "retrieved_at": "2026-10-23T17:13:54Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-223.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-223.pdf",
+    "sha256": "7493d38a48c6969977a2dc335e40fcf655aa6aeb01307637ac46d8873da4333e",
+    "bytes": 9474053,
+    "retrieved_at": "2026-10-23T17:14:44Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-235.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-235.pdf",
+    "sha256": "317c3a42a10bb9b4b23f6eb8cfa026676908a4108751996054a69e80db7b5a0d",
+    "bytes": 9427655,
+    "retrieved_at": "2026-10-23T17:15:40Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-237.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-237.pdf",
+    "sha256": "5f9316969a3111a7acbb02bbc1df7eb6bbac8aaf43c3df5accb3dacb9d67a31b",
+    "bytes": 9429642,
+    "retrieved_at": "2026-10-23T17:16:51Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf",
+    "sha256": "f2053248c5cd41c782938d568b995a5ea0c361d9783abd88207c8d95f9a93043",
+    "bytes": 10105926,
+    "retrieved_at": "2026-10-23T17:23:19Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-244.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-244.pdf",
+    "sha256": "de36ded88b118b493b574a3752d8e03be655b9e0e7371df68f068b8fbc1a5dfa",
+    "bytes": 10606817,
+    "retrieved_at": "2026-10-23T17:23:32Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-285.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-285.pdf",
+    "sha256": "e13b2b2f48073236c9a8d54d644c0206cc83b944b76be7365e9e04944d2e3b69",
+    "bytes": 9493404,
+    "retrieved_at": "2026-10-23T17:24:19Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-299.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-299.pdf",
+    "sha256": "acad0d6376394a68b996948d3882f19266fae3f2eecae8d217a56ac2d11d1986",
+    "bytes": 9484280,
+    "retrieved_at": "2026-10-23T17:24:23Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-275.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-275.pdf",
+    "sha256": "2f66ee8a4c22d2c2faba00755183cc2979d5828feb03481ae20906c4fc770035",
+    "bytes": 9494841,
+    "retrieved_at": "2026-10-23T17:24:54Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-296.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-296.pdf",
+    "sha256": "5d1c3543b60f52e69eb2449679e4000fb7efd2ca0e563bc637e249b3132bfea6",
+    "bytes": 10830948,
+    "retrieved_at": "2026-10-23T17:24:59Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-251.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-251.pdf",
+    "sha256": "aa97b8cbe7e926398fb2c244c9154159928bc75cb27c397e24b7446bc9cf5c18",
+    "bytes": 8733784,
+    "retrieved_at": "2026-10-23T17:25:13Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-257.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-257.pdf",
+    "sha256": "032aa83715579423f5a044822ea74034d28382a11b739aad63101771faa6475f",
+    "bytes": 10133286,
+    "retrieved_at": "2026-10-23T17:25:18Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-308.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-308.pdf",
+    "sha256": "e2ebd4402a1ee041a12e06306ba9195e62e54fe411fb80f1583c2aceac52f5a0",
+    "bytes": 10610956,
+    "retrieved_at": "2026-10-23T17:25:54Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-309.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-309.pdf",
+    "sha256": "4c05937c06b3dd261e5429fddb87d292f30ee89ebb56b5152ddf6b018000af18",
+    "bytes": 10619230,
+    "retrieved_at": "2026-10-23T17:27:43Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf",
+    "sha256": "cb2d3d52412e2d6a985718e7a7b1fadc4a79000cd2f48d34418b5b39edb6a733",
+    "bytes": 9519059,
+    "retrieved_at": "2026-10-23T17:39:50Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf",
+    "sha256": "111419a82fcb4b98550dffaa4bf29dc538f3ddd5a6d07663684ec997b896282d",
+    "bytes": 10394790,
+    "retrieved_at": "2026-10-23T17:40:06Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-318.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-318.pdf",
+    "sha256": "3c8d8b2ccf1bc4f754fa6fdef86d73c35b6d646ab8d0b83937a5c54a7f4bb4cd",
+    "bytes": 9340540,
+    "retrieved_at": "2026-10-23T17:40:16Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf",
+    "sha256": "13f8e9e03fb47654adcd4225803d65f33ac7b80a71cfca70418f37a2fdb4a36f",
+    "bytes": 9489926,
+    "retrieved_at": "2026-10-23T17:40:21Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-378.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-378.pdf",
+    "sha256": "a98dd9eaeafcea68f79d1ced72e433ffc7c5fc670ef98666210d14bd6c38da8d",
+    "bytes": 9586296,
+    "retrieved_at": "2026-10-23T17:40:31Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-337.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-337.pdf",
+    "sha256": "67796e54964b2d68bdc0fc5583fe508a1f5cd82635bc07eb62d153981f5cb734",
+    "bytes": 10682317,
+    "retrieved_at": "2026-10-23T17:40:36Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-345.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-345.pdf",
+    "sha256": "b4d1cb1b8d95d5723037c9215794a46841b305aa36f84fbd9334203cd0fc118a",
+    "bytes": 9478039,
+    "retrieved_at": "2026-10-23T17:41:05Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-319.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-319.pdf",
+    "sha256": "3e335713b5e2c7c194dd8879f646c71e5d2a336d41e97ab09db32ad0efbd0efc",
+    "bytes": 9403766,
+    "retrieved_at": "2026-10-23T17:42:02Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-366.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-366.pdf",
+    "sha256": "444c2297f6470577082521ba9c18dee93b1daaab2b08586ccf9ad8265e6f5d79",
+    "bytes": 9537153,
+    "retrieved_at": "2026-10-23T17:42:07Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-376.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-376.pdf",
+    "sha256": "a8886dd5e4a60e6c8a755fc4d6a8ceba4ab26bdefbc8c4a8b88975c6aa52c455",
+    "bytes": 9499549,
+    "retrieved_at": "2026-10-23T17:42:12Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-343.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-343.pdf",
+    "sha256": "538b9d19e9bf3ebae15e5a324d3f22a6a100f4fec77a39cf860afcab102ef85b",
+    "bytes": 9531825,
+    "retrieved_at": "2026-10-23T17:42:37Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-363.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-363.pdf",
+    "sha256": "2863881a128791ec5250f66c429e14422b65b6086d7630a56f29310496c488ad",
+    "bytes": 9313420,
+    "retrieved_at": "2026-10-23T17:42:42Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-393.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-393.pdf",
+    "sha256": "2554ab07b07027a7d6d7969ecafc42488b03aaad2a2532cfc35ab094c2a5caa2",
+    "bytes": 9507031,
+    "retrieved_at": "2026-10-23T17:42:47Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-400.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-400.pdf",
+    "sha256": "34c42fe6bebc6dda502e143fa11928f4fde6caae3414023373c43c782ee4a3d7",
+    "bytes": 9505733,
+    "retrieved_at": "2026-10-23T17:42:52Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-430.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-430.pdf",
+    "sha256": "6dd64c481b45d657c8ab3a0c0a83cda3c8604eaec3310dda5a96860f010b7b72",
+    "bytes": 9374215,
+    "retrieved_at": "2026-10-23T17:49:34Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-118.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-118.pdf",
+    "sha256": "06df6df6cd75fa473bd0dbec3849ac62052a58c6b0193fa16095075985e87278",
+    "bytes": 10158671,
+    "retrieved_at": "2026-10-23T17:50:39Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf",
+    "sha256": "e312d49c5de9d173aed82649a2b9f47c454f204e20558e47ab5b170d8b80ce52",
+    "bytes": 12019086,
+    "retrieved_at": "2026-10-23T18:31:54Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf",
+    "sha256": "e9a18dbe6d8a9cd755b0170b7e974ddbdc0a954d37e01182a9e74da86aa8804e",
+    "bytes": 12064712,
+    "retrieved_at": "2026-10-23T18:32:00Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf",
+    "sha256": "956774a8de1dbe1b5851a9041deab0b819cb1bd6fce60269efd0c12903c510a3",
+    "bytes": 11691607,
+    "retrieved_at": "2026-10-23T18:32:09Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-705.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-705.pdf",
+    "sha256": "c8a444f7384204f9d320c2014a26b54428d4164baad726cd00cc7f709ada68b5",
+    "bytes": 11280914,
+    "retrieved_at": "2026-10-23T18:32:22Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-544.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-544.pdf",
+    "sha256": "606dd35fa213cdf8715742391a61aa4fda26e445725fd27bf8d021eb80bfa852",
+    "bytes": 8863854,
+    "retrieved_at": "2026-10-23T18:32:32Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf",
+    "sha256": "dc8c2de9b7b01be905a82711b8333554fb9f7cf0118323c54dd6e55aaa09f12c",
+    "bytes": 8958160,
+    "retrieved_at": "2026-10-23T18:32:49Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-695.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-695.pdf",
+    "sha256": "97eb4129913b9e2c2175f6cccae9684e063adda036303e694fc47a8044b6895a",
+    "bytes": 11424813,
+    "retrieved_at": "2026-10-23T18:32:57Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf",
+    "sha256": "746b79e8665aa2debbf7e18c5d6e4c659fd0dc43b2b6369159e5c98c984d12af",
+    "bytes": 11497004,
+    "retrieved_at": "2026-10-23T18:33:02Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf",
+    "sha256": "d07498c8d81e3c231d7eb4b209877e8eb6b914cf2c837db3e79b6b1eafbba748",
+    "bytes": 9477115,
+    "retrieved_at": "2026-10-23T18:33:07Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf",
+    "sha256": "51d987e636f39623ad35f1dc49a0c78e3b0f02ab3f756dfd968ccb5b0fc43353",
+    "bytes": 9143919,
+    "retrieved_at": "2026-10-23T18:33:19Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-642.pdf",
+    "sha256": "40ad2734d2123fcc8541416503c2c5e3ffdba00b001743234a97eabefd288a42",
+    "bytes": 10004438,
+    "retrieved_at": "2026-10-23T18:33:54Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-666.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-666.pdf",
+    "sha256": "c01a93e18eb4ed5217e4ef1290a9fdcdfda9262859356f589ae56c38bbfa3324",
+    "bytes": 12073920,
+    "retrieved_at": "2026-10-23T18:33:59Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-489.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-489.pdf",
+    "sha256": "f8294d985b725def7d914e50c98f0d7ecf8e83921d00c9197908dd732dd8c76c",
+    "bytes": 9028031,
+    "retrieved_at": "2026-10-23T18:34:11Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf",
+    "sha256": "8af2739f4618e5d1f51be0afe99405248c4980a7ed0c175e09266f30d828def2",
+    "bytes": 11899480,
+    "retrieved_at": "2026-10-23T18:34:16Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-326.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-326.pdf",
+    "sha256": "7670903bcc0b4bf85d91d4ea094ed74547fe23bc4ad06c0ca8a1ff64a5f90359",
+    "bytes": 10865893,
+    "retrieved_at": "2026-10-23T18:34:22Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-486.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-486.pdf",
+    "sha256": "95cdc66181b06ba1c2a9a25b2060f4c8440f347f103f48c6a6f5d7650dd4f4f5",
+    "bytes": 9143830,
+    "retrieved_at": "2026-10-23T18:34:29Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-688.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-688.pdf",
+    "sha256": "5b87c552a3cd29a2a0d133d13c8ec9ab382735f26e0a64e7b5739f036cfd3824",
+    "bytes": 11498991,
+    "retrieved_at": "2026-10-23T18:34:34Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-487.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-487.pdf",
+    "sha256": "184eafbabfa30522999aec6a62fcff8e4b516ecfa8c56f3b56eb537d6c243f36",
+    "bytes": 9254812,
+    "retrieved_at": "2026-10-23T18:35:16Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-496.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-496.pdf",
+    "sha256": "2c6e3fab164e92d73a7c1e666bbef7db063990b495a5a038750ffeaac8bee825",
+    "bytes": 9921890,
+    "retrieved_at": "2026-10-23T18:35:21Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-508.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-508.pdf",
+    "sha256": "d3ea750fea5471dc422e04696534c1ad69304950f921fd211428ea6768467955",
+    "bytes": 9934561,
+    "retrieved_at": "2026-10-23T18:35:27Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-535.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-535.pdf",
+    "sha256": "cd6dc489f62d09d49b93454e93caeca13d86042d35728ba6c64471651c0e70fa",
+    "bytes": 10777605,
+    "retrieved_at": "2026-10-23T18:35:32Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-583.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-583.pdf",
+    "sha256": "a54674748d669530edba6d48fba930069ac903fb9954d98910f788c040080633",
+    "bytes": 11168734,
+    "retrieved_at": "2026-10-23T18:35:39Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-684.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-684.pdf",
+    "sha256": "9bea413f1196b15150752a14468049c05bf3acda7b71c3bfb1ab040cd3971b9e",
+    "bytes": 10978774,
+    "retrieved_at": "2026-10-23T18:36:13Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-693.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-693.pdf",
+    "sha256": "16920e8ed7af5d31e3efd08d793f92afc48f0da9e38ab953485eb0839b8705a1",
+    "bytes": 11487461,
+    "retrieved_at": "2026-10-23T18:36:18Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-661.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-661.pdf",
+    "sha256": "3b9c841cf19be4d41d6ecfec9067fc519f62a1ea948d80fafab27d6effc8cb77",
+    "bytes": 10969251,
+    "retrieved_at": "2026-10-23T18:36:23Z"
+  },
+  "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-473.pdf": {
+    "url": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-473.pdf",
+    "sha256": "54116a25774638a293c88697d5f5ccf08649084283cc2f9de3b01f6d45899e39",
+    "bytes": 9212793,
+    "retrieved_at": "2026-10-23T18:36:32Z"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/escondido",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:49:34Z",
+  "candidates": [
+    {
+      "choice": "Tanner Horsley",
+      "statement": {
+        "by": "Tanner Horsley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Tanner Horsley. I served our country in the United States Marine Corps and was deployed to Iraq. I continue to work to support our men and women in uniform in an information security role at U.S. Naval Computer and Telecommunications Station San Diego. My wife and I are raising our two daughters in Escondido."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My service in the Marine Corp and work with the Navy has taken me on missions around the globe. My new mission is right here in Escondido—to ensure that every resident has access to a clean, safe, and affordable place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will support new opportunities for affordable home ownership to lower the cost of living. I will prioritize road maintenance and upgrades to reduce congestion and commute times. I will support effective code enforcement that protects neighborhood quality of life and holds landlords accountable. I will invest in clean, accessible parks and open space that families can use year-round. I will support our local police and firefighters to keep our neighborhoods safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to have backup in this campaign, with endorsements from Mayor Dane White, Deputy Mayor Joe Garcia, Councilman Christian Garcia, and Councilwoman Judy Fitzgerald."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote. Learn more at www.TannerHorsley.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-430.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Vanessa Valenzuela",
+      "statement": {
+        "by": "Vanessa Valenzuela",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong Escondido resident, as are several generations of my family. I attended local schools (including Rose Elementary, Mission Middle School, and Escondido High School) and raised my children in District 1. I am the Director of Finance for an environmental nonprofit and bring twenty years of budgeting and auditing experience to the council. Along with my professional experience, I have also been a community advocate for many years on issues affecting our city. I am asking for your vote this November 3rd because I believe it’s essential to elect individuals with local roots to represent us on the council. We deserve an inclusive and transparent government with electeds who know our city and understand the needs of our community. We need representatives who are willing to be our voice on the dais, and if elected, that is my commitment to you. Our campaign is grassroots and not supported by developers or corporate interests. We cannot be bought. Please view my website www.vanessaforescondido.com for information on policies I would like to champion as your councilmember. Thank you for your support!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In solidarity,\nVanessa Valenzuela"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.vanessaforescondido.com\nIG @vanessaforescondido\ninfo@vanessaforescondido.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-430.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

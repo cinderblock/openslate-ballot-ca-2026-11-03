@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oceanside Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:05:15Z",
+  "candidates": [
+    {
+      "choice": "Raquel Riojas Alvarez",
+      "statement": {
+        "by": "Raquel Riojas Alvarez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Seeing first hand, the importance of being an involved parent and a desire to help, I began on my path to helping students ready to succeed. As a board member I have served in different capacities that have made a significant difference in the district. I have made it a priority to give students the tools they need to succeed. Passing a bond to improve facilities, updating curriculum are essential to the success of all OUSD students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experiences as a parent have helped me to see the importance of collaboration with teachers and staff. It has given me the ability to make informed decisions and to make sure that the priorities of the district are those that will make communication and engagement of our families and staff truly a success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working to establish clear goals for Special Education, English Language Learners and every student are a priority. Increased engagement with parents, guardians and staff helps to put into perspective the data collected."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-158.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jason Bethurum",
+      "statement": {
+        "by": "Jason Bethurum",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For more than two decades, I have viewed education through three important lenses: as a classroom teacher, as the parent of two recent Oceanside graduates, and as a committed member of this community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since 2002, I have served as a classroom teacher in a district recognized for its educational excellence, giving me experience with proven practices that support student achievement. Oceanside has been my family’s home since 2006. Watching my two sons grow through Oceanside schools and continue on to four-year universities has given me a deep appreciation for the dedication of our teachers, staff, and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Oceanside School Board because every student deserves a high-quality education in a safe, welcoming environment where they can reach their full potential. I understand that every student learns differently, and every student deserves the opportunity to succeed. I believe in supporting teachers, ensuring responsible stewardship of taxpayer dollars, and making decisions with transparency, accountability, and collaboration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring practical experience, thoughtful leadership, and a collaborative approach to every decision. I will serve with integrity, listen with respect, and always put students first."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-158.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

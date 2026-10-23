@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 51",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-51",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:00Z",
+  "candidates": [
+    {
+      "choice": "Sara Jacobs",
+      "statement": {
+        "by": "Sara Jacobs",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a third-generation San Diegan and proud product of our local public schools, it would be an honor to continue representing my hometown in Congress."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have a strong record of standing up for San Diegans, while working across the aisle to deliver real progress. When I first ran for office, I promised to work with anyone to get things done—and over the past six years, that’s exactly what I’ve done. I’ve led bipartisan legislation to improve military housing, expand access to affordable child care, protect Americans’ privacy, and create guardrails on AI."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As one of the youngest Members of Congress, I’m proud to represent a new generation of leaders focused on bold, creative solutions to our biggest challenges. For too long, the status quo has left people feeling unseen, unheard, and unrepresented. We must make San Diego more affordable so everyone is able to make ends meet and get the housing, health care, and child care they need."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve on the House Armed Services Committee and the House Foreign Affairs Committee, working every day to support our service members and their families and to lead with our values around the world. I’m also proud to serve in House Democratic leadership, which enables me to directly advocate for San Diego."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m proud to earn the endorsement of the San Diego and Imperial Counties Labor Council, Planned Parenthood Action Fund, and the San Diego Young Democrats."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "sarajacobsforca.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=48",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Imperial Beach Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/imperial-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:02Z",
+  "candidates": [
+    {
+      "choice": "Karl Bradley",
+      "statement": {
+        "by": "Karl Bradley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for mayor because I love our little beach town. I have no agenda other than to do everything in my power to maintain and improve our quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your mayor:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will represent everyone who lives in Imperial Beach, regardless of their political party."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will advocate for transparency from the federal government regarding the work at the international treatment plant in the Tijuana River Valley and demand that local, state, and federal representatives provide additional funding for the work needed to re-open our beaches."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will support our firefighters and work to create and maintain a fully staffed fire department."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will promote public-private partnerships to bring more events and revenue to our community and help local businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will implement innovative ideas to bring more revenue into our city to defray the anticipated increase in the cost of law enforcement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will encourage managed growth that provides more housing while avoiding sprawling developments that drastically alter the character of our close-knit neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Karl Bradley for mayor on November 3!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Mitchell \"Mitch\" McKay",
+      "statement": {
+        "by": "Mitchell \"Mitch\" McKay",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "“As in the past, I will continue to lead as a City-focused elected – working towards the best possible solutions and outcomes for the residents of Imperial Beach. Over the past four years – the last 15 months as your Mayor - I have worked collaboratively and tirelessly with the balance of the City Council and other regional leaders to meet the needs and desires of our amazing beachfront community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With more than 60 years of residency in the South Bay, I understand what is so precious and worthy of protecting – the Classic Southern California lifestyle – that eclectic “Coastal Utopia”."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While the Transboundary Sewage Crisis remains the focus of much of my time and energy – along with the Economic vitality of the City’s businesses – we are at the same time, continuing to move the City forward with many new and future planned amenities such as the recent $3M+ Sports Park Renovation and the upcoming Seacoast Splash Pad."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I continue to encourage and promote intelligent infrastructure and housing growth throughout the City (with the Palm Avenue Master Plan and potential 13th Street improvements just around the corner)."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I sincerely ask for your “Vote and Support as Mayor for the next four years.”"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Matthew Leyba-Gonzalez",
+      "statement": {
+        "by": "Matthew Leyba-Gonzalez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hello, my name is Matthew Leyba-Gonzalez. I am currently serving my second term as City Councilman for Imperial Beach District 4. I am a proud U.S. Army Veteran and the first college graduate in my family. I serve as the Business Representative for the San Diego Building and Construction Trades Council, representing 22 unions and over 35,000 hardworking men and women across San Diego."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On City Council, I’ve organized an annual district wide clean-up, hosted an annual career fair at Mar Vista High School, and distributed mini libraries throughout District 4 to boost literacy among our children."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your next Mayor, I’ll build on this record for every neighborhood in Imperial Beach. Improving our water quality remains a top priority, and I’ll keep fighting to protect our coastline and our health. I believe strongly in rent stabilization, so families can continue to afford to call Imperial Beach home. I’ll prioritize public safety citywide, including expanded street lighting, so every resident feels safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have always been the voice of the underrepresented, and I’m asking for your support to continue that fight for all Imperial Beach. I look forward to serving as Mayor in this “Coastal Utopia” I LOVE, which is Imperial Beach!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-681.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chula Vista Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/chula-vista",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:31:54Z",
+  "candidates": [
+    {
+      "choice": "John McCann",
+      "statement": {
+        "by": "John McCann",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann is endorsed by Chula Vista Firefighters and Chula Vista Police Officers Association because he delivers results and puts public safety first. He increased the number of police officers, making Chula Vista one of the safest cities in America."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann defeated a special interest effort to increase salaries of part-time City Councilmembers to $110,000 a year, a 70% raise!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann brought the Gaylord Pacific Resort & Convention Center to Chula Vista, creating thousands of construction and permanent jobs, transforming the bayfront into a destination for residents and visitors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann expanded waterfront public access, adding walking and biking trails - opening the largest bayfront park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann gets homeless off the streets and into shelters. Mayor McCann’s strict homeless encampment ban keeps public spaces safe and accessible, reducing homeless by 25%."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann fought to lower the cost of living - opposing higher gas, mileage, and sales taxes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann partnered with District Attorney Summer Stephan, protecting seniors from elder abuse and financial scams."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann approved more than 1,000 homes for first-time homebuyers and brought San Diego State University classes to a new Chula Vista campus."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann led the refinancing of SR-125 toll road debt, saving taxpayers millions, lowering tolls, and reducing traffic congestion."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor John McCann, Navy Veteran and Commander, U.S. Navy Reserve, and his wife, Myssie, raised their four children in Chula Vista."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Re-Elect Mayor John McCann!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "john@johnmccann.com\nwww.johnmccann.com 619-754-5842"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=60",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Francisco Tamayo",
+      "statement": {
+        "by": "Francisco Tamayo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Francisco Tamayo — Chula Vista Elementary School District Board Trustee, technology executive, and father — has spent over 20 years in Chula Vista fighting for working families. An immigrant who became a proud American citizen."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Board President, Tamayo delivered results: higher student achievement, livable wages for teachers, and the safest campuses in San Diego County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, Tamayo will launch the Chula Vista Heroes Plan for the police officers, firefighters, teachers, and nurses who keep us safe and teach our kids — building and staffing the East Chula Vista substation, fully staffing Fire Station 10, and creating Hometown Heroes Housing so they can afford to live here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Tamayo knows too many seniors are being priced out on fixed incomes. He will expand rental assistance for older residents, protect them from scams, and fight for affordable housing and transportation so they can age in place with dignity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Tamayo will cut permitting red tape and create a single point of contact so local small businesses get a fast answer, not a runaround, and can open and thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Tamayo is endorsed by all four Chula Vista Councilmembers and local labor unions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The people who keep us safe and teach our kids deserve to live here too."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Francisco Tamayo — A Mayor for Working Families. www.franciscotamayo.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-667.pdf#page=60",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

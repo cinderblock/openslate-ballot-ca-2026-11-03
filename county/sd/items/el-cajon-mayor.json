@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Cajon Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/el-cajon",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:32Z",
+  "candidates": [
+    {
+      "choice": "Alexander Kraft",
+      "statement": {
+        "by": "Alexander Kraft",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Alexander Kraft is the only progressive candidate for Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Small-town values mean hospitality, generosity, and loving thy neighbor. But today, out-of-town billionaire landlords are jacking up our rents, while the feds boss our leaders around and send secret police to kidnap our neighbors. Alexander Kraft is going to put a stop to it, with your help. Kraft isn’t running so he can seek higher office some day. He’s running to build a working-class socialist movement to demand El Cajon put people’s needs over corporate greed and MAGA authoritarianism."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Kraft has policy-based strategies to:\nReduce housing costs, and invest in social housing.\nIncrease wages, and support workers who want unions.\nDefend immigrants and refugees, and the economic growth they bring. Fix our parks, roads, and infrastructure.\nImprove public safety, not create a police state."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Homelessness is a public policy failure, not a moral failing. It’s solved by a city that puts people first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It’s time for a Mayor who is from El Cajon.\nIt’s time for a Mayor who represents all of the people of El Cajon, regardless of where they’re from or how long they’ve been here.\nIt’s time to Kraft a better future for El Cajon.\nKraftForMayor.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-544.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bill Wells",
+      "statement": {
+        "by": "Bill Wells",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been my honor to serve as the mayor of El Cajon. My highest priority has always been to keep El Cajon safe, financially strong, and a great place to live."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we have successfully met some of our city’s greatest challenges. During a period of national unrest following a local police shooting, El Cajon remained peaceful. During COVID, I led the effort to protect local businesses and families from overreaching enforcement. When county policies allowed homeless encampments and hotel voucher programs to negatively impact our community, I fought to protect our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, El Cajon has a balanced budget, healthy financial reserves, some of the best-maintained roads in the region, and fully staffed police and fire departments recognized among the finest in San Diego County."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our work is not finished. My focus is on restoring Parkway Plaza, bringing a new hospital to El Cajon, and continuing to keep our city safe, prosperous, and financially responsible. Blighted areas like Main Street are seeing impressive redevelopment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can continue building on the progress we’ve made—together. For more information: www.BillWellsMayor.com 619-504-8292 Cell Phone"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-544.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

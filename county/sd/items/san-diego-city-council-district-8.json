@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego City Council, District 8",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:22Z",
+  "candidates": [
+    {
+      "choice": "Antonio Martinez",
+      "statement": {
+        "by": "Antonio Martinez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Antonio Martinez was the first-place winner in the June Primary and has spent his career fighting for our communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Supervisor Paloma Aguirre, Senator Steve Padilla, firefighters, teachers, and union workers support Antonio Martinez."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Antonio served as a healthcare educator for the Nestor Community Clinic and as a congressional representative for Congressman Juan Vargas, where he worked directly with community members, local businesses, and government officials, building consensus to make San Diego a more equitable place."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Antonio is currently serving on the San Ysidro School Board, working to prepare the next generation for success. He has strengthened the curriculum, secured resources for outdated school facilities, and established the Citizens Bond Oversight Committee to ensure the public knows how their money is spent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our communities deserve our fair share."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our Councilmember, Antonio Martinez will fight to make San Diego more affordable, ensure working families’ voices are heard, increase funding for first responders, and secure long-overdue improvements to sidewalks and streets."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our communities have been left to fend for themselves. Antonio is the fighter we need, and he has the skills and experience necessary to ensure our district gets the resources it needs to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Antonio Martinez is the voice we need as our next Councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.AntonioMartinezSD.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-705.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Gerardo Ramirez",
+      "statement": {
+        "by": "Gerardo Ramirez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Our local government keeps doing things the same way and expecting different results. District 8 cannot afford more of that."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am bringing a new generation of leadership with fresh ideas and the experience to actually deliver them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a lifelong District 8 resident. I attended Beyer Elementary, San Ysidro Middle and High, then graduated from San Diego State University. Ten years working for our communities taught me how the system works, and what it takes to change it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The cost of living is pricing us out of the neighborhoods we call home. Rent and bills climb every year, and our paychecks don’t."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our streets and sidewalks should be as good as the ones in La Jolla. A dark streetlight is a safety problem, not a maintenance ticket. Public safety is the foundation of everything else, and our first responders need the resources to get there fast. In emergencies, every second counts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our kids know what the Tijuana River smells like every summer. Thirty years of promises that it will get fixed, and the sewage continues contaminating our neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have had enough. It’s time for change. Join me as we fight for our neighborhoods!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.VoteGerardoRamirez.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-705.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

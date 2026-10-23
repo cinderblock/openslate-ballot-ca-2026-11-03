@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oceanside Unified School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:59Z",
+  "candidates": [
+    {
+      "choice": "Jerry Garcia Avila",
+      "statement": {
+        "by": "Jerry Garcia Avila",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a retired Navy Lieutenant Commander, I bring 25 years of disciplined military leadership and 14 years of public service to our community. I have served in demanding administrative, educational, operational and strategic roles, to great success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our leadership must prioritize academic achievement, given our poor test scores. It is time for a change. Let’s get back to the basics: teaching students to read, write, master mathematics, and think critically."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher holding Master’s degrees in Global Leadership and Postsecondary Education, I understand what academic success requires. Working inside Oceanside Unified has given me firsthand insight into our institutional challenges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We must demand strict fiscal transparency. Record per-student spending must reach classrooms to provide the essential tools, personnel, and support needed to restore value and respect for our teachers and improve student outcomes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my career, I have proven my ability to tackle tough challenges and put service before self. I am ready to bring my military discipline, educational expertise, and district experience to the school board to fight for our families and community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to bring accountability back to our schools. Let’s get to work!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please visit jerrygarcia4ousd.com or call me (442) 238-1660."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-150.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nancy Licona",
+      "statement": {
+        "by": "Nancy Licona",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have served as a school counselor in our community for the past 11 years and as a school board trustee for the past four years. I have seen the challenges students, families and schools currently face and the needs of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am passionate about public education because it can open doors of possibilities to all students regardless of their background. My experience also includes working for college access programs, after -school programs, and continuation schools. My diverse experience in education and connection to our community allow me to bring a unique perspective to the table when making decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my time as a school board member, I have continued to advocate for rigorous educational programs to prepare students for a successful future, mental health services, and maintaining a fiscally solved budget."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If re-elected, I will continue to foster positive relationships with all stakeholders to ensure our students have equitable opportunities to succeed and our schools have the resources necessary to provide a safe, supportive, and engaging place where every student can learn, succeed, and pursue their passions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respecfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-150.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

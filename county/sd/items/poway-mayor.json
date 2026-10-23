@@ -1,0 +1,162 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Poway Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/poway",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:21Z",
+  "candidates": [
+    {
+      "choice": "Jenny Maeda",
+      "statement": {
+        "by": "Jenny Maeda",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "In 2024, I promised to listen, serve, and represent my constituents. As District 4 councilmember and Deputy Mayor, I have kept my promises. I have met with every resident who requested a meeting, have perfect attendance on the dais, and voted with the people 100% of the time. I have fought to preserve ridgelines, and increase setbacks and reduce building heights along Poway Rd. I consistently advocate for the preservation of open space, for removing Big Stone Lodge from our Housing Sites Inventory List, and for thoughtful reevaluation of the Poway Rd Specific Plan. I will continue to uphold Poway’s Code of Ethics without bias."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My vision for Poway aligns with what our founders intended- a city that determines its own destiny through proactive community engagement and limiting external influences. As a councilmember, I have not been able to advance that vision. Instead of giving up, I am running for Mayor. As mayor, I will have the ability, the experience, and the knowledge to lead our city while maintaining the quality of essential services and infrastructure that Powegians deserve. I will continue to encourage public participation in local government and ensure that all voices are valued and respected."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Steve Vaus",
+      "statement": {
+        "by": "Steve Vaus",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Public service is measured by performance, not promises."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under Mayor Vaus’ proactive leadership, Poway remains San Diego County’s safest city, with the lowest sales tax, balanced budgets, outstanding parks, well-maintained roads, and planning that preserves our unique character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While Sacramento politicians have steadily eroded local control, Mayor Vaus has stood firm for Poway’s right to decide its own future. He voted to increase setbacks and reduce residential development on Poway Road by 40%, while consistently opposing state high-density housing mandates."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor Vaus’ steady leadership protected Poway from placement of a Sexually Violent Predator and delivered creative solutions to bring residents and businesses together during the pandemic. He guided Poway with strength and grace following the Chabad tragedy. He championed significant open space expansion and rallied support to secure housing for seniors, veterans, and adults with special needs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Looking forward, Mayor Vaus is a leader in efforts to acquire and preserve hillsides and ridgelines from Boulder Mountain to Twin Peaks, install adaptive traffic signals to ease congestion, ban AI data centers, increase recreational opportunities, and beautify downtown."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "He remains accessible to residents, opposes new taxes, supports first responders, and believes growth should strengthen — not change — the “City in the Country.”"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by: Poway Firefighters Association, Deputy Sheriffs’ Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Tested & Trusted. Re-elect Mayor Steve Vaus."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "VoteVaus.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dellena Olps",
+      "statement": {
+        "by": "Dellena Olps",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a mother of 2, a wife to a Navy veteran, and proud homeowner, we’ve rooted our family in Poway. I have volunteered in many community programs like, PGSL, PALL baseball, and PUSD District Advisory Committee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My civic involvement and previous career with The State Of California’s Department of Corrections, and EDD Tax Division, gives me understanding of the importance of businesses demands, and public safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need to keep Poway safe by protecting our firefighters and sheriffs, through preserving their benefits."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have unique insight into how to solve our problems. By reclaiming our “City” infrastructure through lighted cross walks in highest need areas, establishing e-bike regulations, EV charging stations, and implementing a clean air shuttle system."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Honoring our “Country” infrastructure by planting native vegetation, preserving open spaces, maintaining and enhancing parks and neighborhood amenities, as well as creating sustainable Farm Co-op communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Poway is becoming increasingly unaffordable for many households. I am committed to reestablishing more family events, after school programs, and fully utilizing our multi-generational center and parks. Providing safe and healthy fun for everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by Mayor of Corona Jacque Castillas."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote, and trust, in making a better Poway."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.OlpsforMayor.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-340.pdf#page=52",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

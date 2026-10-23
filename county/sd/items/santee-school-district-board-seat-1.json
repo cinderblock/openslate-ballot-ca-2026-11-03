@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santee School District Board, Seat 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:39:50Z",
+  "candidates": [
+    {
+      "choice": "Misty Kendall",
+      "statement": {
+        "by": "Misty Kendall",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m Misty Kendall. I’m a qualified candidate for the Santee School District Seat 1 and am endorsed by the Santee Teachers Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My qualifications: Santee School District’s District Advisory Committee (past two years); Santee School District’s Budget Advisory Committee (past two years); final round candidate for vacated school board seat when Ken Fox chose to resign; Cub Scout Pack Committee Chair (past seven years); BA in political science from Houghton College; USD paralegal graduate; and legal assistant (past nineteen years) formerly at a law firm downtown and currently with a local tribal government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Santee School District was a major draw for my family to move to Santee eleven years ago. My three kids have attended school within the district since they started kindergarten."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have a vested interest in the success of the district, for my children and for our whole community. I grew up in East County and attended public schools within the La Mesa Spring Valley School District and Grossmont Union High School District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a product of public education and believe in the public school system. I will do right by the students, parents, teachers, administrators, and community. Communication and compassion are keys to working together to make the district the best that it can be. I look forward to serving our community. Thank you."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Cindy Petretta",
+      "statement": {
+        "by": "Cindy Petretta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Cindy Petretta is a dedicated mother and youth advocate running for the School Board in order to represent Santee families and ensure that our schools remain safe, transparent and student-focused. Born here in East County, and a 28-year resident of Santee, Cindy has a strong understanding of the needs of locals. Both of her children attended Santee schools, where Cindy volunteered in classrooms, afterschool clubs and Girl Scouts. Being a single parent has given Cindy a strong sense of financial responsibility and determination. Professionally, she has been directing a children’s department at a nonprofit for over a decade, before that she was a preschool teacher, and previously worked almost 20 years in the fields of Security and Community Relations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, her focus will be on continual improvement of safety and transparency in our schools. Children deserve a childhood and an excellent education, and every parent deserves a seat at the table. Cindy respectfully asks for your vote to represent the voice of Santee parents and taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.cindyforschoolboard.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

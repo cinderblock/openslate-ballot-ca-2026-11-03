@@ -1,0 +1,242 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ramona Municipal Water District — Measure P (Amendment of Proposition 'NN' to Modernize the Ordinance)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:49Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "AMENDMENT OF PROPOSITION ‘NN’ TO MODERNIZE THE ORDINANCE."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Shall the voters of the Ramona Municipal Water District adopt a measure amending Proposition ‘NN’ by (1) exempting grant funding and donations from the calculation of authorized expenditure limit; (2) increasing the expenditure limit for new projects from $1,000,000 to $10,000,000 where no debt is incurred; and (3) establishing annual adjustments to the expenditure limit based on the San Diego Area Consumer Price Index beginning January 1, 2028?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires Simple Majority (50%+1) of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=81"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “yes” vote means the following: (1) grant funding and donations would be exempt from expenditure and debt limit calculations; (2) an “expenditure limit,” will be established in the initial amount of $10,000,000, with CPI adjustments beginning January 1, 2028; and (3) debt for major projects will be limited to the amounts initially established by Proposition NN as adjusted annually since 1989, currently approximately $3,300,000."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=81"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “no” vote means that Proposition NN would remain unchanged with no expenditure limit specified and the current debt limit of approximately $3,300,000 as adjusted annually since 1989 would remain in place."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Steven E. Boehmer, District General Counsel"
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=81"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "District Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The Board of Directors for the Ramona Municipal Water District (“District”) placed this measure on the ballot. If approved by a majority of the votes cast, this measure will amend Proposition “NN,” which established Ordinance No. 108 (Chapter 99.04 of the District’s Regulatory Code). Because Proposition NN was a citizens’ initiative, it can only be repealed or amended by a majority vote."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Why A Vote Is Required:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proposition NN’s stated purpose was to require public approval of the District’s “expenditures for major projects.” However, Proposition NN imposed an “authorized debt limit,” rather than an “authorized expenditure limit.” The initial limit was set at $1,000,000 but allowed for annual adjustments based on the San Diego Area Consumer Price Index (CPI) for all Urban Consumers. Based on those adjustments, the current limit is approximately $3,300,000. For the past 38 years, the District has treated the debt limit as an expenditure limit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Effects of the Measure:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The purpose of this measure is to amend Proposition NN to (1) exempt grant funding and donations from expenditure and debt limit calculations; (2) establish an “expenditure limit,” in the initial amount of $10,000,000, with CPI adjustments beginning January 1, 2028; and (3) keep debt for major projects limited to the amounts initially established by Proposition NN as adjusted annually since 1989, currently approximately $3,300,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed measure also makes changes to Proposition NN that would clarify the meaning of “expenditure limits” and “debt limits,” without increasing the current limit on borrowing for projects."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "What A “Yes” Or “No” Vote Means:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "The above statement is an impartial analysis of Ordinance or"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "Measure P. If you desire a copy of the ordinance or measure, please"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "call the district elections official’s office at 858-505-7260 and a copy"
+            ]
+          },
+          " ",
+          {
+            "strong": [
+              "will be mailed at no cost to you."
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=81"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "In 1988, Ramona Municipal Water District voters adopted Proposition NN which prohibits the District from spending more than $1 million for new capital projects, property acquisitions and/or any improvements to real property unless first approved by voters. Proposition NN included an escalation factor, and the current limit in 2026 is approximately $3.3 million. The limit includes all sources of funds, including grants."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We are asking voters to modernize Proposition NN to update the limit to $10 million and exempt grants while retaining the community’s right to vote on major projects and when the District incurs debt over $3.3 million."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Construction costs have increased faster than inflation"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Construction costs have risen faster than inflation. In 1988, voters could not anticipate 21st century environmental, permitting, and other regulations that would exist in 2026. A replacement pipeline that was estimated to cost $1.6 million in 1988 was completed in 2023 for $5.6 million."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Allows District to maximize grant and donation funds"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Grants and donations help reduce pressure on local ratepayers and are important to help us protect affordability. These funds were not exempted. Grants move quickly and have a firm deadline to complete projects. Holding an election prior to entering a grant contract means that the District has lost opportunities for grants."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure P maintains the voter authority established in 1988"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure retains the community’s right to vote on major projects and on debt incurred while modernizing the language to take advantage of grant funding and to adjust the threshold for 21st century costs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Modernizing Proposition NN with Measure P makes sense. It maintains the voter’s role in authorizing District debt, while allowing the District to complete timely, necessary projects and take advantage of limited grant funding."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please vote yes on Measure P. For more information, visit UpdatePropNN.org."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The undersigned proponents of the Direct Argument in favor of ballot measure “Measure P” at the Gubernatorial General election for the County of San Diego to be held on November 3, 2026 hereby state that such argument is true and correct to the best of their knowledge and belief."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Princess Norman",
+          "title": "RMWD Director – Division 5 Board Secretary"
+        },
+        {
+          "name": "Jim Piva",
+          "title": "RMWD Director – Division 3 Board Vice-President"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=81",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

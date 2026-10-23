@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Solana Beach City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/solana-beach",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:15:40Z",
+  "candidates": [
+    {
+      "choice": "Kristi Becker",
+      "statement": {
+        "by": "Kristi Becker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Like you, I care deeply about the future of Solana Beach and preserving the unique character of our small coastal community. It has been an honor to serve as your Councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for re-election because our City faces critical challenges, particularly new and proposed laws from Sacramento that require changes to our zoning and seriously reduce local control over development. These changes will permanently alter the character of our neighborhoods and business districts. With my experience on Council, I have the commitment, insight, and knowledge of resources needed to mitigate some of the negative impacts from Sacramento’s actions when possible, and to work toward realistic solutions to protect our City’s interests. I will continue to strongly represent our City on these crucial issues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support practical, thoughtful solutions for affordable housing that fit appropriately within our City. I do not support luxury 8-story apartment projects in our neighborhoods that block views, lack adequate parking, and overwhelm our existing infrastructure. As your Council member, I will continue fighting for sustainable growth, local decision-making, and development policies that reflect the values and priorities of Solana Beach residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the past few years on the Council, we have accomplished a great deal together. We stopped a devastating proposal to realign the train tracks that would have torn through much of Solana Beach. We improved Fletcher Cove Beach by replenishing sand, installing a new playground structure, and adding a new shower and access ramp. We replaced the tot lot at La Colonia Park, and secured funding to build the walking path and bike lane improvements on Lomas Santa Fe (east of the freeway) to make it safer for all modes of transportation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We restrained City spending, and our finances remain strong allowing us to move forward with other important projects, including the expansion and improvement of La Colonia Park. Also, the City has funded its street resurfacing program and set aside money toward future construction of the new Marine Safety Center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience as a trial lawyer at a large regional law firm and in the San Diego County Counsel’s Office has prepared me to analyze complex issues, communicate clearly, and solve difficult problems. Experience, qualifications, and values matter when shaping the future of our City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can preserve the character of Solana Beach while planning responsibly for the future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.kristibecker4solanabeach.org"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-235.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

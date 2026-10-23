@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ramona Unified School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:42:12Z",
+  "candidates": [
+    {
+      "choice": "Maya Phillips",
+      "statement": {
+        "by": "Maya Phillips",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by California Assemblyman Carl DeMaio."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I stand for parental rights, academic excellence, transparency, and local control. Having grown up in the Soviet Union and lived through communism, I am determined to ensure that this ideology doesn’t make its way into the Ramona education system."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have consistently defended parents’ rights and students’ education, fighting to keep our schools from becoming Marxist indoctrination camps. Stopped the rollout of Ethnic Studies in our district and stopped the adoption of an ideologically unbalanced English textbook heavily skewed in favor of modern social perspectives at the expense of viewpoints rooted in America’s founding principles. Advocated for instructional materials that are balanced, objective, accurate, and age-appropriate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Known for independent judgment—including casting the only “No” votes on key spending and policy issues. Voted against the state-mandated anti-ICE policy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a fiscal conservative, I voted against a tax increase (school bond), salary increases, and an expensive consulting contract. Advocated for moving away from screens toward pen and paper. Drafted and proposed a parental notification policy and a Title IX resolution defending the integrity of girls’ sports."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to serve with honor, faithfully represent the people who elected me, and preserve traditional education focused on academic excellence—not indoctrination."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-376.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Shelzea Zamora",
+      "statement": {
+        "by": "Shelzea Zamora",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I believe the Ramona Unified School District has a responsibility to uphold strong academic standards while prioritizing student safety, empathy and emotional well-being. Every student deserves a learning environment where they feel safe, respected, and supported."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-376.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

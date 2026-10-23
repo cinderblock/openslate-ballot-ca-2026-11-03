@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lemon Grove City Council (Short Term)",
+    "kind": "race",
+    "jurisdiction": "us/ca/lemon-grove",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:00Z",
+  "candidates": [
+    {
+      "choice": "Jennifer Mendoza",
+      "statement": {
+        "by": "Jennifer Mendoza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Jennifer has lived in Lemon Grove for 25 years, giving her a deep understanding of the community and its needs. Over the years, her volunteer work in the community has included managing a weekly food distribution at St. John’s Church, organizing monthly food distributions at the Recreation Center, and actively volunteering with the Soroptimists and Lions Clubs. She helped organize LG Relays for Life, served on the LGA School Site Council, participated in Kaiser’s HEAL Zone initiative, and served on the Planning Commission."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Councilmember, Jennifer has focused on improving streets and infrastructure, maintaining the city’s financial stability, pursuing grants and other funding opportunities, keeping Lemon Grove clean, attracting new businesses, addressing homelessness, and restoring recreation services. She is proud of the progress the city has made and is committed to building on that momentum."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lemon Grove is at an important crossroads. With the city preparing to hire a new City Manager and Finance Director, and with a relatively new City Council and staff, experienced leadership is more important than ever. Jennifer is running for the two-year council seat to provide stability, continuity, and steady leadership during this critical transition."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for Jennifer to keep Lemon Grove moving forward."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Yasmin Mendoza",
+      "statement": {
+        "by": "Yasmin Mendoza",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a mother and your neighbor running for Lemon Grove City Council because our city deserves accountable leadership focused on residents, not politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have advocated before the City Council, organized neighborhood cleanups, supported local businesses, led the Solar Light Initiative to improve neighborhood safety, and hosted community events that bring families together. I believe leadership means listening, showing up, and following through."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Council Member, I will prioritize public safety, repairing streets and infrastructure, supporting local businesses, and transparent government. I will ask tough questions, make decisions, and put the interests of Lemon Grove residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will work to reopen our Senior Center, strengthen recreation programs, create signature community events that attract visitors and support local businesses, invest taxpayer dollars wisely, and remain accessible and accountable to the residents of Lemon Grove."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to run an independent, community powered campaign, not funded by unions or outside political committees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by: Council Members Seth Smith, Yadira Altamirano, Jessyka Heredia, and former Council Member Jerry Jones."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Website: yasminlgfirst.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Email: yasminmendozalg@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

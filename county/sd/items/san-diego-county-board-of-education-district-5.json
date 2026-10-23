@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego County Board of Education, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:21Z",
+  "candidates": [
+    {
+      "choice": "Rick Shea",
+      "statement": {
+        "by": "Rick Shea",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Primary election winner with 59% of the vote!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rick Shea, an SDSU graduate, has dedicated his educational career to helping students succeed, especially those most at-risk. Rick’s background, qualifications, and dedication to student success make him ideal to serve on the San Diego County Board of Education!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rick served as a Classroom Teacher and Head Teacher for the Juvenile Court Schools and Special Assistant to the County Superintendent. He served as President of the California County Boards of Education. Rick has also served as a Probation Officer, working closely with school principals to get these teenagers to complete their education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rick believes that students, parents, taxpayers, and the community, all benefit from every student receiving a 21st Century education, whether preparing for college or to directly enter the workforce."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rick is committed to putting children first and keeping budget cuts and politics away from the classroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rick has also served his community outside of the educational system as Mayor and City Councilmember of Encinitas and Boardmember of the Encinitas Fire Protection District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Rick’s endorsements include all four incumbent San Diego County Board of Education members, Presiding Juvenile Court Judge James Milliken, California Teacher of the Year Tammy Reina, parents, teachers, and locally elected school board members."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please Vote Rick Shea for San Diego County Board of Education!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

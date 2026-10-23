@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/escondido",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:32Z",
+  "candidates": [
+    {
+      "choice": "Elias Velazquez",
+      "statement": {
+        "by": "Elias Velazquez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Escondido cannot wait another four years as working families fall behind, infrastructure deteriorates, homelessness grows, affordable housing shrinks, and streets become more dangerous. To restore trust and strengthen public safety, I will cancel the City’s ICE contract so residents can seek help from local law enforcement without fear."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was born and raised in Escondido and own a home here. As a nonprofit executive, I have led programs serving veterans and homeless families, improved operations, and strengthened services for working families. I earned the San Diego and Imperial Counties Labor Council’s endorsement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As mayor, I will restore Escondido’s access to state and federal homelessness funding and bring service providers together to move people into housing, employment, and support. I will expand affordable housing and protect mobile home communities so families can remain in Escondido. I will support officers and invest in programs that prevent crime and improve safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience has taught me that progress happens when leaders listen, agencies cooperate, and leaders follow through. As mayor, I will lead through community engagement, partnerships, decisions, and results residents can see."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build a safer, fairer, more affordable Escondido. I ask for your vote for Mayor this November."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.eli4mayor.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dane White",
+      "statement": {
+        "by": "Dane White",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "It has been the honor of my lifetime to serve Escondido as your Mayor. Working together, we are moving the needle on the critical issues facing our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We adopted a “Public Safety First” approach to homelessness to compassionately remove people from the streets and get them into services, resulting in a 32.4% reduction in unsheltered homelessness. We approved historic new contracts with our police and firefighters, adding additional first responders and improving pay and benefits. We have increased our road repair budget by several million dollars, allowing us to fill more potholes and pave more roads."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "While all solid progress, there is still much work to do. I remain focused on getting the homeless off the streets, improving public safety, fixing our roads, supporting small businesses, and making Escondido more affordable for working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love Escondido. This is where I grew up, overcame my personal obstacles, started my business, met my wife, and where we are raising our two daughters. Escondido has given me so much, and as Mayor I am grateful to be able to give back and work every day t o make our community safer, stronger, and more affordable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.DaneMWhite.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

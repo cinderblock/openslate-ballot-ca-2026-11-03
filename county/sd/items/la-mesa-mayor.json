@@ -1,0 +1,138 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Mesa Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/la-mesa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:09Z",
+  "candidates": [
+    {
+      "choice": "Laura Lothian",
+      "statement": {
+        "by": "Laura Lothian",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Some politicians talk. Laura Lothian delivers. Safe neighborhoods, clean streets, beautiful parks, easy permits, smooth roads — twice-elected Councilmember Laura Lothian fights for exactly that. Her tireless, solutions-focused record includes full-time trash removal from public spaces; neighborhood speed bumps in months, not years, at a fraction of the cost; saving outdoor Village sidewalk dining; stopping a battery storage facility in a residential neighborhood; personally helping countless small business owners and residents cut through red tape; securing federal funds for public art and small business facades; and an 80-foot Christmas tree crowned with a blue star honoring fallen LMPD Officer Lauren Craven."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The mayor and council set the tone and direction of the city. Common-sense people like Laura want police and fire properly staffed and equipped, toilets that flush at our parks, a simplified permit process that attracts businesses and home improvement, and taxpayer money spent on La Mesa — not on consultants and causes that have nothing to do with our city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, Laura will grow city revenue by attracting popular retail and dining and fight poorly planned apartment projects with grossly inadequate parking."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Laura Lothian: Your direct line to City Hall. Learn more at LauraLothian4Mayor.com. If competence and accountability matter to you, vote Laura Lothian."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jim Stieringer",
+      "statement": {
+        "by": "Jim Stieringer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Jim is a well-qualified choice to succeed our term limited mayor who cannot seek re-election."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Government continues to make life a bit more burdensome with its relentless auto registration fee increases, underused bike lanes, and facilities for the homeless such as the closure of free parking lots that are being replaced with “affordable housing”."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The “temporary closure” of the Spring Street Trolley Station parking lot being repurposed as low income apartments is simply the latest example of a sacrificial contribution by taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your non-partisan mayor I will be your voice as we work to stem the relentless “ghettoization” of La Mesa. My first order of business will be to preserve the remaining Amaya Trolley station parking lot that serves La Mesa residents traveling to downtown San Diego, Snapdragon Stadium, “No Kings” events and Padre Games at Petco Park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m a U.S. military veteran, Grossmont grad and the father of a Helix graduate. I will neither propose, nor support, further sales and property tax increases."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Jim Stieringer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "stieringer@cox.net"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Patricia Normandy-Dillard",
+      "statement": {
+        "by": "Patricia Normandy-Dillard",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "For more than thirty years, my family has called La Mesa home. We raised our three children here, and now we have three beautiful grandsons. When you put down roots, you want more than a good city for today—you want to leave it stronger for the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I have worked to strengthen public safety by making sure our police officers can focus on the job they were trained to do while connecting people in crisis with the right services. The result is a more effective response and greater confidence that help will be there when you need it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our community asked for a bigger library, and now we have a path to build it. Our new City Hall project includes much-needed parking that will help our local businesses thrive and make downtown more accessible. I have also helped secure funding to improve public transportation, giving more people better, more affordable ways to get around."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "La Mesa is a great city. It doesn’t need to be reinvented. It needs a mayor who stays focused, follows through, and gets things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

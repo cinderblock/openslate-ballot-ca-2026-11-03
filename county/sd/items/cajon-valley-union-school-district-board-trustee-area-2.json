@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cajon Valley Union School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:34:29Z",
+  "candidates": [
+    {
+      "choice": "Dana Covell",
+      "statement": {
+        "by": "Dana Covell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a dedicated parent volunteer committed to the enrichment of youth for more than a decade, I have spent countless hours making sure that the children of our community thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an Information Technology Business Owner, with a BS/Business Management and a Master of Information Systems (MIS). Because my background is in both business and technology, I plan to use my experience to foster the responsible use of technology in our schools. Policy regarding the use of equipment, software, and data is paramount. The safety of our children, and their data, depends on it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am the Mother of one middle school and two high school students. We have been heavily involved as a family in community service and have been enrolled in CVUSD schools for more than 9 years. I most enjoy volunteering in the arts. Art of all kinds fosters important engagement, and I strive to see programs readily available to all students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My goal is to help guide fiscally and technologically responsible policies, that encourage a safe and enriched environment for academically thriving students. Staff should be supported with vital resources, and community should feel their investment and children are valued."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-486.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Jolyana Jirjees",
+      "statement": {
+        "by": "Jolyana Jirjees",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "There are many important issues that the trustees must deal with in the next few years, with one of the most important being a livable wage for school employees. Many educators and support staff are faced with the challenges of higher living costs and healthcare benefits. The parents of our students also feel the pressures of rising living expenses. In my previous term as a trustee, I have fought tirelessly for parents and faculty to ensure sustainability and quality of life. I have been, and will continue to be, an advocate for accessible, affordable after-school programs. Providing quality after-school programming provides a safe environment for youth while offering academic support and social opportunities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Balancing a reasonable budget while adhering to state laws is also important. Projected revenues and approved departmental budgets need to be managed appropriately. I oppose using district reserves for any expenses not deemed an emergency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I support the implementation and management of AI policies. AI guidelines that parents, teachers, and students can use to streamline operations should be available and consistent."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I honor and respect the voice of the people. Because of my own life experiences, I deeply appreciate the opportunity to be a public servant."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-486.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

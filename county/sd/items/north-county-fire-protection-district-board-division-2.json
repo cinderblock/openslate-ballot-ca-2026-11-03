@@ -1,0 +1,74 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "North County Fire Protection District Board, Division 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:23:19Z",
+  "candidates": [
+    {
+      "choice": "Cole Marting",
+      "statement": {
+        "by": "Cole Marting",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My name is Cole Marting, and I am running to protect the community my family calls home. I have lived in North County for nearly two decades, and my wife, Hayley, and I are raising our family here in Fallbrook."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I understand the stakes because I live them. Like many neighbors, my family was dropped by our insurer and moved onto the state FAIR Plan. Wildfire is not an abstraction to me. I have written extensively on wildfire preparedness, and my work has focused on helping families and communities recover after disaster."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our fire district must do three things well: support our firefighters and first responders, get ahead of wildfire through responsible brush and open-land management, and spend every public dollar with care and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by Supervisor Jim Desmond, Assemblymember Carl DeMaio, and Fallbrook Union Elementary School District Board President Mary McBride, leaders who know our community and trust my judgment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Good government takes leadership that shows up, listens, and remembers who it answers to. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at ColeMarting.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Chris Shaw",
+      "statement": {
+        "by": "Chris Shaw",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My wife and I moved to Fallbrook in 2016. We fell in love with the area and decided we’d spend the rest of our lives here in the “Friendly Village.” I’m proud of what we accomplished in my first term. We renovated two of our five stations, broke ground on a brand-new Station 4, added a 4th ambulance, and 3 additional firefighters, all without raising taxes on our constituents. These improvements have lowered response times and raised firefighter readiness, making our community safer and giving our local heroes the facilities they deserve.\nChallenges remain: “fire season” is now year-round, and our District must stay ready.\nAs a small business owner, I understand balancing the best possible service with a responsible budget. In my four years on this board, the District has maintained a balanced budget, and there’s no reason we can’t continue. I’m a consensus builder: I look for common ground to represent all stakeholders. There’s a lot we agree on.\nService to this community is what motivates me. I also serve on the boards of two local non-profits: the Live Oak Park Coalition and the Fallbrook Trails Council.\nI care about our wonderful community and want it to thrive."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=56",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

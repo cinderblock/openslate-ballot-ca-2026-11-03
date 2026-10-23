@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carlsbad City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/carlsbad",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:09:02Z",
+  "candidates": [
+    {
+      "choice": "Melanie Burkholder",
+      "statement": {
+        "by": "Melanie Burkholder",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Carlsbad City Council has been one of the greatest honors of my life. I have worked every day to maintain our quality of life, keep our neighborhoods safe, and ensure City Hall remains accountable to residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I fought Sacramento’s one-size-fits-all housing mandates by traveling to testify before the Legislature, defending Carlsbad’s right to local control over land-use decisions. I supported adding police officers and firefighters to improve public safety—without raising taxes. I have consistently stood with our small businesses, championed fiscal responsibility, and worked to protect the unique character of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I opposed development that removes the neighborhood-serving businesses and convenient services our seniors and families rely on, especially in our Village. I believe growth should be thoughtful, balanced, and respect the needs of existing residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My focus has always been on listening, being accessible, and making decisions that put Carlsbad residents first—not political interests or Sacramento mandates."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so I can continue protecting Carlsbad’s neighborhoods, strengthening public safety, supporting local businesses, and preserving the exceptional quality of life that makes our city such a special place to call home."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-196.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nate Larson",
+      "statement": {
+        "by": "Nate Larson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Carlsbad is where I was born and raised. Where my Marrón and Pico ancestors raised cattle in the 1800’s. Where my Frazee ancestors first covered the hills with colorful ranunculus flowers. Where I learned to ride a bike, ride a wave, be a teammate, and be a leader. Where teachers, coaches, local business owners, and civic leaders worked together to shape Carlsbad into the town we love."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Their example guides me as leader of the ‘Save the Carlsbad Theatre’ movement, in my work on the Barrio Public Art Subcommittee, as an educator in our Carlsbad public schools, and as director and producer of local youth theater."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, as I raise my own family here, I see developers and outside investors reshaping our Village, destroying its character, and impacting us all. New state laws have taken local land use decisions away from us. As your city council member, I will fight Sacramento and pursue every tool available to regain local control. I also pledge to preserve our natural and historic places before they are lost forever, and be a compassionate voice for the underserved members of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Working together, we can once again shape Carlsbad’s future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.natelarsoncarlsbad.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-196.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

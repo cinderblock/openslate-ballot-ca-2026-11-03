@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Poway City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/poway",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:07Z",
+  "candidates": [
+    {
+      "choice": "Peter De Hoff",
+      "statement": {
+        "by": "Peter De Hoff",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your current Councilmember, I bring hands-on experience and analytical skills as a Scientist to every decision, every issue, and every resident question. My objective is always the same: protect what is best for Poway and you, the residents—from our water and roads, to our parks and programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Poway is the safest city in San Diego County. I intend to keep it that way:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to our public safety partnerships and proudly endorsed by the Poway Firefighters Association and Deputy Sheriffs’ Association."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Poway’s motto is “The City in the Country.” I continue leading efforts to maintain that character:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I helped lead the acquisition of over 300 acres of Open Space to preserve our hillsides and ridgelines, with more coming. I initiated the Dark Sky Ordinance to safeguard our night skies and rural landscape, and the Pickleball Noise Ordinance to properly mitigate noise."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Poway is meeting its state-mandated housing requirements. I am fighting to retain local control: I consistently advocate for the lowest-density option when evaluating development proposals to protect Poway’s character and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With an unwavering commitment to the facts, fiscal responsibility and civic outreach, I ask for your vote to continue serving you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote De Hoff — Peter4Poway.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Bob Walder",
+      "statement": {
+        "by": "Bob Walder",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My wife, Dale, and I have proudly called Poway home since 1998. We chose Poway because of its safe neighborhoods, excellent schools, beautiful open spaces, and strong sense of community. I am running for City Council because I want to preserve those qualities for future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring more than 40 years of leadership in healthcare, business, and public service. My career has included serving as a Biomedical Engineer, Physician Assistant, healthcare executive, and entrepreneur. Today, I serve as Administrator of the Rancho Bernardo Retired Senior Volunteer Patrol, supporting public safety and our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I will work to protect Poway’s character by ensuring development respects our General Plan, improving traffic and infrastructure, supporting our police and firefighters, practicing fiscal responsibility, and addressing the challenges of rising water costs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe good government begins with listening. I will make decisions based on facts, fiscal responsibility, and what is best for the residents of Poway—not special interests."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can preserve what makes Poway special while building a strong and responsible future."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

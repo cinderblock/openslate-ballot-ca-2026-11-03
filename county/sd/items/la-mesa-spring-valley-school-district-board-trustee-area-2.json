@@ -1,0 +1,114 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Mesa-Spring Valley School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:09Z",
+  "candidates": [
+    {
+      "choice": "Jennifer Littig",
+      "statement": {
+        "by": "Jennifer Littig",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am currently in my 23rd year as a public school teacher, bringing decades of classroom experience and a lifelong commitment to public education to the La Mesa–Spring Valley School Board. As the parent of two children educated in the La Mesa–Spring Valley School District, I have seen firsthand how strong, diverse public schools help students grow academically, socially, and personally."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are to attract and retain outstanding teachers and classified employees, strengthen partnerships with families, and make thoughtful, transparent financial decisions that keep students’ needs at the center. As both an educator and a parent, I know students succeed when schools are well-staffed, financially responsible, and connected to the communities they serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to have the support of educators across East County and to be endorsed by the La Mesa–Spring Valley Teachers’ Association. I would be honored to earn your vote for La Mesa–Spring Valley School Board, Area 2."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Myriam S. Moody",
+      "statement": {
+        "by": "Myriam S. Moody",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a college math professor and 20 year resident of La Mesa, I’ve seen firsthand what strong academic preparation makes possible, and what happens when students arrive without it. I’m running for the La Mesa-Spring Valley School District Board to bring that same rigor and steadiness back to our classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My focus is simple: get our students back to the basics, reading, writing, and arithmetic. Too many students across California are not proficient in core reading and math skills, and I refuse to accept that as the standard for our district. As a board member, I will push to ensure La Mesa-Spring Valley isn’t just meeting the state average. I want our students performing above California standards in reading and math."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That means holding our curriculum to a higher bar, supporting teachers with the tools they need to teach fundamentals well, and tracking real outcomes rather than good intentions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "La Mesa has been my home for two decades, and my own students have shown me what’s at stake when foundational skills are missing. I’m ready to bring steady, experienced leadership to this work."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Rebecca McRae",
+      "statement": {
+        "by": "Rebecca McRae",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent of children who attended La Mesa-Spring Valley Schools and now attend Helix High School, and as an elementary school teacher with a master’s in education, I bring classroom experience and a parent’s perspective to the Board. First elected in 2018 and re-elected in 2022, I currently serve as Board President."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked to ensure every student has the support, resources, and high-quality instruction needed to thrive. My priorities include strong academics, support for teachers and staff, safe and welcoming schools, fiscal responsibility, and transparent decision-making that puts students and families first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I understand the daily reality of the classroom and the importance of listening to families, educators, and the community. I am committed to continuous improvement so every child in our district is inspired to learn, achieve, and find their unique voice."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue serving as your Trustee."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.rebeccaforlmsv.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

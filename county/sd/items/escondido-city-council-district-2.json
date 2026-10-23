@@ -1,0 +1,62 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Escondido City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/escondido",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:32Z",
+  "candidates": [
+    {
+      "choice": "Anthony DiMartino",
+      "statement": {
+        "by": "Anthony DiMartino",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "My two-year-old son’s future is tied to the future of Escondido, so I am invested in helping Escondido reach its full potential. My own childhood memories of Escondido include safe neighborhoods, well-maintained parks with recreation programs, and housing my parents could afford. When I started my own family, I noticed the city had moved away from these priorities. I am running for City Council because I believe we have to recommit to policies that make Escondido a great place to live, work and raise a family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For nearly two decades, I have built a career focused on practical problem-solving, coalition building and public service. My work in nonprofit organizations, city and state government and teaching policy advocacy to social work students have prepared me to bring people together and deliver practical results for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities include making City Hall more responsive — especially in contracting and the stewardship of public resources. We must also confront the twin challenges of housing affordability and homelessness, make neighborhoods safer for everyone, support small businesses and invest in parks, arts and youth programs that help families and neighborhoods thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote. More information at DiMartinoForEscondido.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Joe Garcia",
+      "statement": {
+        "by": "Joe Garcia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a local church pastor for over 35 years I know what it means to serve. I humbly ask for your vote this November so I can continue to serve you on the City Council. I am dedicated to my community and have been for many years. I plan to continue the fight for increased public safety, promoting a strong economy and holding our government accountable. Please visit my website www.joeforescondido.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-100.pdf#page=55",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Julian Union High School District — Measure J (Julian Union High School District School Facilities Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:19Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "To repair, modernize, and construct classrooms and career technology facilities for college/career readiness in agricultural science, chemistry, math, technology, and skilled trades; fix deteriorating facilities, roofs, plumbing/electrical systems; and improve school safety/security systems; shall Julian Union High School District's measure authorizing $9,000,000 in bonds at legal rates be adopted, levying approximately $30 per $100,000 assessed value (averaging $650,000) annually, while bonds are outstanding, with citizen oversight, independent audits, and all money locally-controlled?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Bonds – Yes\nBonds – No"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 55% of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf#page=74"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “YES” vote is in favor of authorizing the District to issue and sell $9,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf#page=74"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “NO” vote is against authorizing the District to issue and sell $9,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf#page=74"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The Board of Education for the Julian Union High School District (“District”) placed this measure on the ballot. If approved by 55% of the votes cast, this measure will authorize the District to issue and sell general obligation bonds in an amount not to exceed $9,000,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure will authorize a levy on the assessed value of taxable property within the geographical boundaries of the District in an amount needed to pay the principal and interest on the bonds each year the bonds are outstanding. The District estimates the average tax rate would be $30 for every $100,000 of assessed valuation, and the highest tax rate would be approximately $30 for every $100,000 of assessed valuation. The tax is anticipated to be collected through fiscal year 2054-2055."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The estimated total debt service, including principal and interest, required to be repaid if the bonds are issued and sold is approximately $18,215,253. Actual amounts may vary depending on the timing of sales, bonds sold at each sale, interest rates, and assessed valuation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure identifies a list of projects at schools and facilities within the District that may be funded from the bond proceeds. Approval of this measure does not guarantee the proposed projects will be funded by the sale of the bonds. The District’s proposal for certain projects may assume receipt of matching State funds subject to appropriation by the Legislature or approval of a statewide bond measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As required by State law, the measure states that the proceeds from the sale of the bonds may be used only for the purposes specified and that the District will establish an independent citizens’ oversight committee and conduct an annual independent performance audit to ensure funds are spent only on the projects listed in the measure. The District must also conduct an annual, independent financial audit of bond proceeds. The District states it has evaluated safety, class size reduction, and information technology needs in developing the projects listed in the measure."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Tax Rate Statement"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An election will be held in the Julian Union High School District (the “District”) on November 3, 2026, to authorize the sale of up to $9,000,000 in general obligation bonds. The following information is submitted in compliance with Sections 9400-9404 of the Elections Code of the State of California. Such information is based upon the best estimates and projections presently available from official sources, upon experience within the District, and other demonstrable factors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Based upon the foregoing and projections of the District’s assessed valuation, the following information is provided:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The best estimate of the average annual tax rate that would be required to fund this bond issue over the entire duration of the bond debt service, based on estimated assessed valuations available at the time of filing of this statement, is $30 per $100,000 of assessed valuation. It is currently expected that the tax will be collected until fiscal year 2054-2055."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The best estimate of the highest tax rate that would be required to fund this bond issue, based on estimated assessed valuations available at the time of filing this statement, is $30 per $100,000 of assessed valuation. This rate is projected to apply beginning in 2027-2028."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The best estimate of total debt service, including principal and interest, that would be required to be repaid if all the bonds are issued and sold will be approximately $18,215,253."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "These estimates are based on projections derived from information obtained from official sources, and are based on the assessed value (not market value) of taxable property on the County’s official tax rolls. In addition, taxpayers eligible for a property tax exemption, such as the homeowner’s exemption, will be taxed at a lower effective tax rate than described above. Property owners should consult their own property tax bills and tax advisors to determine their property’s assessed value and any applicable tax exemptions. The attention of all voters is directed to the fact that the foregoing information is based upon projections and estimates only, which amounts are not maximum amounts and durations and are not binding upon the District. The actual debt service, tax rates and the years in which they will apply may vary depending on the timing of bond sales, the par amount of bonds sold at each sale and actual increases in assessed valuations. The timing of the bond sales and the amount of bonds sold at any given time will be determined by the District based on the need for project funds and other considerations. Actual assessed valuations will depend upon the amount and value of taxable property within the District as determined by the County Assessor in the annual assessment and the equalization process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Yvonne Fleet"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Superintendent\nJulian Union High School District"
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf#page=74"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "We can’t let our community fall behind. Vote YES on Measure J to"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "prepare Julian students for college, careers, and the skilled jobs of"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "tomorrow."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For more than 100 years, Julian Union High School District has served our mountain communities. But many classrooms and facilities are aging and overdue for essential repairs and modernization. Our students deserve the same modern, hands-on learning opportunities available elsewhere in the region."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure J, is a locally controlled plan to upgrade career technical education facilities, including agricultural science, mechanics, welding, auto shop, engineering, and animal programs. These improvements help students learn with current technology, build a strong foundation in science, math, and engineering, and graduate ready for college, careers, and skilled trades."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The State does not provide adequate facilities funding for local schools. Julian must stand up for our students with a local solution that cannot be taken away or redirected to Sacramento. Measure J gives our community the power to Invest in safe, modern classrooms, labs, and career training facilities built for today’s students and tomorrow’s workforce."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Voting YES on Measure J will:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Construct or modernize agricultural science, mechanics, welding, auto shop, and animal program facilities"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Upgrade labs, tools, and instructional technology for engineering and skilled trades"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Improve student safety and campus security, including cameras, emergency communications, fire alarms, and smoke detectors"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure J. Includes strict taxpayer protections:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "All money stays local and cannot be taken by the State"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "An Independent citizens’ oversight committee, annual audits, and public disclosure are required"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "No money can be used for administrator salaries or pensions"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "A clear project list ensures transparency and accountability"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join parents, teachers, business owners, agricultural leaders, and neighbors who believe Julian students deserve safe, modern facilities and real-world career training.",
+            {
+              "strong": [
+                " Vote YES on Measure J for Julian Union High School"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "District."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The undersigned proponent(s)* or author(s)* of the Direct Argument in favor of ballot measure at the General election for the Julian Union High School District to be held on November 3, 2026 hereby state that such argument Is true and correct to the best of their knowledge and belief."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Dennis Cantor",
+          "title": "Former JUHSD Board Member"
+        },
+        {
+          "name": "Dash (Manfred) Martin",
+          "title": "Teachers’ Association President for JUHSD"
+        },
+        {
+          "name": "Sandra Redding",
+          "title": "Member of the Redding family; Lifelong Julian Community Member"
+        },
+        {
+          "name": "Bob Redding",
+          "title": "JUHSD Graduate; son of former Superintendent Ray Redding"
+        },
+        {
+          "name": "Dana Peterson",
+          "title": "Julian Community Leader"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf#page=75",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure J",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-480.pdf",
+      "mediaType": "application/pdf",
+      "page": 75,
+      "sha256": "51d987e636f39623ad35f1dc49a0c78e3b0f02ab3f756dfd968ccb5b0fc43353"
+    }
+  ]
+}

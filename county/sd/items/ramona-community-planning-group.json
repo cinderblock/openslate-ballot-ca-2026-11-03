@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ramona Community Planning Group",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:49Z",
+  "candidates": [
+    {
+      "choice": "Robin Joy Maxson",
+      "statement": {
+        "by": "Robin Joy Maxson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have been privileged to be a member of the Ramona Community Planning Group for 9 years as current Vice Chair, Past Chair and Chair of the Ramona State Routes Subcommittee. Serving our community’s needs I bring a wealth of new ideas, extensive experience and a proven history of action. Accomplishments include:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Creation of the Association of Planning Groups that brings attention to Ramona’s urgent highway issues at SANDAG. Succeeded building a coalition with the County’s 18 Planning Groups. We secured a seat on SANDAG’s BOD resulting in prioritization of SR67 safety improvements and earmarked funding. We will have safer wildfire evacuation and commutes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Holding the County responsible for diversion of Skate Park identified funds is my priority. Our kids deserve activities and opportunities. Insufficient bus service means our kids miss the benefits of the free Youth Opportunity Pass. I am currently working on the Rapid Route 277 project which will provide bus service between Ramona and Poway."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to support a business-friendly environment that reflects the values of our community. Honored as a “Citizen of the Year” candidate by the Ramona Chamber."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service is a privilege. I ask for your vote to continue working for Ramona."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-615.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

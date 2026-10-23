@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "La Mesa City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/la-mesa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:09Z",
+  "candidates": [
+    {
+      "choice": "Moana Alo",
+      "statement": {
+        "by": "Moana Alo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Aloha, La Mesa! I’m Moana Alo, and I’m running for City Council because I believe in leading with kuleana: responsibility to the community that raised me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over ten years, I’ve called La Mesa home. As Community Services Commissioner for the City since 2020, I’ve worked directly on the issues that shape our neighborhoods. As District Representative for the California State Senate, I connect residents to real solutions. As a small business owner offering notary and consulting services, I understand firsthand the challenges local entrepreneurs face. And as President of the Hawaiian Civic Club of San Diego, I’ve organized around civic engagement, scholarship funding, and youth leadership for underserved communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment to public service is grounded in education; a master’s in education from Point Loma Nazarene University and a nearly completed PhD focused on building belonging in our communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On Council, I will fight for stronger tenant protections, expanded senior services, support for small businesses, and real investment in our youth. La Mesa deserves a leader who listens - with aloha."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’d be honored to earn your vote, Mahalo for your support!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Amanda-Dawn Natalia",
+      "statement": {
+        "by": "Amanda-Dawn Natalia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong East County resident who was born in La Mesa, grew up in Lakeside, and returned to La Mesa 21 years ago. I graduated from El Capitan High School, Grossmont College, San Diego State University, and California Western School of Law. I am a private practice attorney with a small firm headquartered in La Mesa. I am a homeowner, a grateful wife, and a proud mom of two middle schoolers in La Mesa-Spring Valley School District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve as Chair of La Mesa’s Environmental Sustainability Commission, as a member of La Mesa-Spring Valley School District’s Community Bond Oversight Committee, and as a member of San Diego County Bar Association’s Leadership Academy Subcommittee. I volunteer regularly throughout the community, most often at Litter Free La Mesa events. I have a heart for service, and I am running for City Council to share my time, talents, and ideas with the community I love in the city I am privileged to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by Councilmembers Lauren Cazares, Patricia Dillard, and Genevieve Suzuki, San Diego & Imperial Valley Labor Council, San Diego Building and Construction Trades Council, as well as other local trade unions, organizations, and elected officials."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My guiding principle is compassion. I want La Mesa to be a place where every resident and visitor feels heard, welcomed, and valued. I am grateful for the opportunities I have had in La Mesa, and it would be my great honor to put that gratitude into action by serving as your next La Mesa City Councilmember."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Website: www.Vote-Amanda-Dawn.Now"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

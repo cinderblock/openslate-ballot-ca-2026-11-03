@@ -1,0 +1,86 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oceanside Unified School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:05:10Z",
+  "candidates": [
+    {
+      "choice": "Joey Pearson",
+      "statement": {
+        "by": "Joey Pearson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am Dr. Joey Pearson, and Oceanside is my home and the community I am proud to serve. I believe every student deserves the opportunity to learn, belong, and thrive. That is why I am running for Oceanside Unified School District Board of Education: Strong public schools are the heart of our community and the foundation of our democracy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I began my career as a public-school teacher, serving students and families in North County. Since then, I have designed curriculum, coached teachers, and led programs preparing thousands of teachers for the classroom. Today I lead teams creating programs that prepare professionals to use new technology responsibly. I earned a doctorate in education from UCLA and serve on education boards and accreditation teams."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Lasting progress begins by listening and turning what we hear into responsible action. As Area 3 trustee, I will champion safe, welcoming schools; bilingual and special education; support for student well-being; excellent college and career pathways; and practical preparation for emerging technology. I will protect taxpayer dollars through transparent, fiscally responsible decisions that put students and teachers first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by the Oceanside Teachers Association, and I respectfully ask for your vote. www.PearsonForOUSD.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-152.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Nicole Watson",
+      "statement": {
+        "by": "Nicole Watson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a proud Oceanside Unified alumna, mother, educator, and business owner, I am honored to seek your vote for Oceanside Unified School District Trustee, Area 3. I attended Oceanside Unified schools from kindergarten through graduation, and the experiences I had as a student continue to shape my commitment to our community today."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the owner of an educational services business, I have dedicated my career to helping students succeed and supporting families through education. My experiences as a former student, educator, and parent have given me a unique understanding of the opportunities and challenges facing our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to academic excellence, transparency, and accountability while fostering strong partnerships between students, families, educators, and the community. I believe every child deserves the opportunity to receive a quality education in a safe and supportive learning environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to serve the community that invested in me and work together to help ensure every Oceanside Unified student has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "WatsonForOUSD.com\n442-354-4121"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-152.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

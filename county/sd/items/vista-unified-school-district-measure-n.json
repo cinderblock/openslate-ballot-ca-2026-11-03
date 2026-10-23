@@ -1,0 +1,729 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Vista Unified School District — Measure N (Vista Unified School District School Improvement Bond of 2026)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:21Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Without increasing current tax rates, to repair and upgrade aging classrooms, science labs, school facilities, and instructional technology to support college/career readiness in math, science, technology, engineering, arts, and skilled trades and fix deteriorating roofs, plumbing, sewer, and electrical systems shall Vista Unified School District’s measure be adopted authorizing $543,000,000 in bonds at legal rates, levying $58 per $100,000 assessed value ($31,000,000 annually) while bonds are outstanding, with citizen oversight, independent audits, and all money locally-controlled?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Bonds – Yes\nBonds – No"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure requires 55% of those voting on the measure."
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=88"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “YES” vote is in favor of authorizing the District to issue and sell $543,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=88"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A “NO” vote is against authorizing the District to issue and sell $543,000,000 in general obligation bonds."
+          ]
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=88"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The Board of Education for the Vista Unified School District (“District”) placed this measure on the ballot. If approved by 55% of the votes cast, this measure will authorize the District to issue and sell general obligation bonds in an amount not to exceed $543,000,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure will authorize a levy on the assessed value of taxable property within the geographical boundaries of the District in an amount needed to pay the principal and interest on the bonds each year the bonds are outstanding. The District estimates the average tax rate would be $58 for every $100,000 of assessed valuation, and the highest tax rate would be approximately $58 for every $100,000 of assessed valuation. The tax is anticipated to be collected through fiscal year 2062-2063."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The estimated total debt service, including principal and interest, required to be repaid if the bonds are issued and sold is approximately $1,154,254,750. Actual amounts may vary depending on the timing of sales, bonds sold at each sale, interest rates, and assessed valuation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure identifies a list of projects at schools and facilities within the District that may be funded from the bond proceeds. Approval of this measure does not guarantee the proposed projects will be funded by the sale of the bonds. The District’s proposal for certain projects may assume receipt of matching State funds subject to appropriation by the Legislature or approval of a statewide bond measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As required by State law, the measure states that the proceeds from the sale of the bonds may be used only for the purposes specified and that the District will establish an independent citizens’ oversight committee and conduct an annual independent performance audit to ensure funds are spent only on the projects listed in the measure. The District must also conduct an annual, independent financial audit of bond proceeds. The District states it has evaluated safety, class size reduction, and information technology needs in developing the projects listed in the measure."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Tax Rate Statement"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An election will be held within the boundaries of Vista Unified School District (“District”) on November 3, 2026 to authorize the sale of up to $543 million in bonds to finance facilities as described in the measure. If the bonds are approved, the District expects to sell the bonds in multiple series as a “bond extension” to the prior bond authorization, with bond maturities structured so that tax rate in each year is not projected to increase as compared to the current tax rate. Principal and interest on the bonds will be payable from the proceeds of tax levies made upon the taxable property located within the District. The following information is provided in compliance with Sections 9400 to 9404, inclusive, of the California Elections Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The best estimate from official sources of the average annual tax rate that would be required to be levied to fund this bond issue over the entire duration of the bond debt service, based on assessed valuations available at the time of the election and a projection based on experience within the same jurisdiction and other demonstrable factors, is estimated to be $58 per $100,000 of assessed valuation. The final fiscal year in which the tax is anticipated to be collected is 2062-63."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The best estimate from official sources of the highest tax rate that would be required to be levied to fund this bond issue, and an estimate of the year in which that rate will apply, based on assessed valuations available at the time of filing this statement, and a projection based on experience within the same jurisdiction and other demonstrable factors, is estimated to be $58 per $100,000 of assessed valuation first occurring in fiscal year 2028-29."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The best estimate from official sources of the total debt service, including the principal and interest, that would be required to be repaid if all the bonds are issued and sold is $1,154,254,750."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Voters should note that the estimated tax rate is based on the ASSESSED VALUE of taxable property on the San Diego County official tax rolls, not on the property's market value. Property owners should consult their own property tax bills to determine their property's assessed value and any applicable tax exemptions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Attention of all voters is directed to the fact that the foregoing information is based upon the District's projections and estimates only, which are not binding upon the District. The actual tax rates, debt service and the years in which they will apply may vary from those presently estimated, due to variations from these estimates in the timing of bond sales, the amount of bonds sold and market interest rates at the time of each sale, and actual assessed valuations over the term of repayment of the bonds. The dates of sale and the amount of bonds sold at any given time will be determined by the District based on need for construction funds and other factors. The actual interest rates at which the bonds will be sold will depend on the bond market at the time of each sale. Actual future assessed valuation will depend upon the amount and value of taxable property within the District as determined by the County Assessor in the annual assessment and the equalization process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "VISTA UNIFIED SCHOOL DISTRICT"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By: /s/ Matt Doyle, Ed.D., Superintendent"
+        ]
+      }
+    ],
+    "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=88"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on Measure N for Safer, Better Local Schools, Without"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Raising Taxes!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Some of our schools were built so long ago that underground pipes and infrastructure are failing, resulting in gas leaks, water leaks, and sewage backups. Last year alone there were 380 roof leaks."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "While our schools are well cared for, many were built more than 60 years ago and don’t meet modern building safety codes. Local students and teachers rely on more than 400 portable classrooms that are over 25 years old and falling apart. We need to replace decaying portables with modern, permanent classrooms."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Some buildings aren’t accessible for students with disabilities, and others have hazardous materials such as asbestos and lead pipes."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Updating our schools now will set up our students for college and career success. Not only will Measure N improve and upgrade our local schools, but it will do it",
+            {
+              "strong": [
+                " without raising taxes."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES on N for Safer, Better Local Schools:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Remove hazardous materials like asbestos and lead pipes, including from school sites that are over 50 years old"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Fix deteriorating, roofs, plumbing, gas, sewer, and electrical systems to reduce maintenance costs"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Upgrade older schools so they meet current health codes, building safety codes, and provide proper access for students with disabilities"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Provide modern labs, technology and career technology so students are prepared in science and math for college and careers"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure N requires a transparent system of accountability:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "All money would stay in Vista Unified schools and can’t be taken away by the State"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "A detailed project list outlining how funds are spent"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "An independent citizens’ oversight committee and annual audits"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Will not raise taxes"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Join local parents, teachers, and community leaders in voting YES on"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "N for our neighborhood schools, without raising taxes!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Michael Fowlkes",
+          "title": "President, Vista Unified Council of PTAs (VUCPTA)"
+        },
+        {
+          "name": "Mark Kersey",
+          "title": "President & CEO, San Diego Taxpayers Association"
+        },
+        {
+          "name": "Sean Keoni Ellis",
+          "title": "Master Instructor and Fmr. Veterans Lead and Pipe Fitting Instructor/Supervisor, United Association of Plumbers and Pipefitters"
+        },
+        {
+          "name": "Rachel Beld",
+          "title": "President & CEO, Vista Chamber of Commerce"
+        },
+        {
+          "name": "Carol Kim",
+          "title": "Business Manager, San Diego County Building & Construction Trades Council"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=89",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on N"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Measure N supporters claim it will not raise taxes."
+              ]
+            },
+            " This is",
+            {
+              "strong": [
+                " MISLEADING"
+              ]
+            },
+            ". It will extend current taxes, which expire in 2028, until 2063!",
+            {
+              "strong": [
+                " Measure N will"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "take more money from you for 35 years."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Measure N supporters use routine maintenance, repairs, lead and asbestos"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "abatement to justify this money grab."
+              ]
+            },
+            " All buildings require maintenance and repairs. Failure to set aside reserves for",
+            {
+              "strong": [
+                " these certain costs highlights the"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Board’s incompetence"
+              ]
+            },
+            ". Asbestos and lead have been known hazards for 50 years, yet they’ve done nothing. Why would you believe they will act now?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In 2018, Bond Measure LL was approved for $247 million using similar justifications. Now they want $543 million!",
+            {
+              "strong": [
+                " Don’t reward their"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "mismanagement with more money."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Measure N supporters say it is “for our students”"
+              ]
+            },
+            ". These “for the children” type statements are",
+            {
+              "strong": [
+                " ploys to emotionally manipulate voters"
+              ]
+            },
+            " and avoid objective evaluation of the proposal. Stirring emotions to avoid calm, rationality is a known propaganda technique. Don’t fall for it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Measure N supporters claim “A Citizen’s Oversight Committee” will be"
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "formed to ensure money is properly spent"
+              ]
+            },
+            ". How frequently do we hear of “oversight committees” yet government waste continues unabated? These Committee members will be appointed by the Vista School District Board itself, so in effect,",
+            {
+              "strong": [
+                " the proposed “oversight” will be performed by the"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Board’s buddies."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Keep money in your pocket and Vote NO on N."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sandra Levee",
+          "title": "Concerned Citizen"
+        },
+        {
+          "name": "Colette Kelley",
+          "title": "Accountant"
+        },
+        {
+          "name": "Adrianne Silveria",
+          "title": "Concerned Citizen"
+        },
+        {
+          "name": "James Silveria",
+          "title": "Teamsters Commercial Truck Driver"
+        },
+        {
+          "name": "Rafael Martinez",
+          "title": "Engineer"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=89",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Measure N is a $543 million bond proposed by the Vista Unified School District (VUSD). In 2018 voters approved Measure LL a 30 year VUSD bond totaling $247 million. The stated purpose of the bond was “to repair, upgrade, equip classrooms, science labs, local school facilities supporting college readiness, career preparation, math, science, engineering, technology, skilled trades; repair aging classrooms/schools including deteriorating roofs, plumbing and electrical; improve student safety/school security”. That is essentially the same language and purpose for the currently proposed Measure N, a 35 year bond. This is an example of government inefficiency in spending and operations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure N states it will not likely raise property taxes nevertheless it is estimated to cost $58 per $100,000 of home value. The average Vista home is valued at $870,000. This costs $505 per year in property taxes each year. Over the bond’s 35 year lifetime that is over $17,000 paid by you as a property owner or renter. Had you invested that $505 annually at 5% over 35 years you would have accumulated almost $46,000 of your own money. Measure N add a significant financial burden to you, your family and your future. Government has an insatiable appetite for your tax dollars that is never satisfied.\nPlease VOTE NO on Measure N."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sandra Levee"
+        },
+        {
+          "name": "Colette Kelley"
+        },
+        {
+          "name": "Adrianne Silveria"
+        },
+        {
+          "name": "James R. Silveria"
+        },
+        {
+          "name": "Rafael Martinez"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=90",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Voters approved Measure LL a decade ago, and projects were done on time, on budget and as promised. Independent citizen oversight and public audits verified this."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sound management of past bonds is why VUSD gets high marks from the San Diego County Taxpayers Association - and why they endorse Measure N now. This includes paying off a previous bond early, decreasing the cost to taxpayers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "While much has been accomplished, much work remains."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "FACT: Our aging schools need critical repairs."
+              ]
+            },
+            " Some schools were built decades ago, and underground pipes and infrastructure are failing. Last year, there were",
+            {
+              "strong": [
+                " 380 roof leaks"
+              ]
+            },
+            ". Measure N will fix these problems."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "FACT: Investment in schools protects property values."
+              ]
+            },
+            " Numerous studies show that well-funded schools maintain demand for nearby homes and increase property values."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "FACT: Students and teachers deserve better than 25-year-old portable"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "classrooms."
+              ]
+            },
+            " Measure N will replace deteriorating portables with permanent classrooms."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "FACT: Measure N is not a tax increase."
+              ]
+            },
+            " It provides funding to repair and improve local schools while keeping the property tax rate at its current level."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "FACT: Many schools are over 60 years old and need safety and"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "accessibility upgrades."
+              ]
+            },
+            " Some buildings don’t meet modern health and safety standards or provide adequate accessibility for students with disabilities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "FACT: Measure N requires strong accountability."
+              ]
+            },
+            " An independent citizens’ oversight committee, a detailed project list, and public disclosure of spending ensure transparency."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Visit www.BetterSaferVistaUSDSchools.org to learn more, volunteer, endorse, or donate!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Our Community Agrees — Vote YES on N for Great Neighborhood"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "Schools. No Tax Increase."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Lisa De Jesus",
+          "title": "Realtor & School Oversight Volunteer"
+        },
+        {
+          "name": "Michael Saldaña",
+          "title": "President, Vista Fire Fighters Association"
+        },
+        {
+          "name": "Roberto Rodriguez",
+          "title": "Trustee, Palomar College Governing Board"
+        },
+        {
+          "name": "Kristin Childs",
+          "title": "Special Educator"
+        },
+        {
+          "name": "Vince Hinojosa",
+          "title": "Financial Planner, Education Volunteer & Retired Marine"
+        }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=90",
+      "disclaimer": "Arguments in support of or in opposition to the proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Full text of Measure N",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf",
+      "mediaType": "application/pdf",
+      "page": 91,
+      "sha256": "52166150e4052ad7e2b0160c1319d3bd61a4efebc1434a50d910b8d4b0fffabd"
+    }
+  ]
+}

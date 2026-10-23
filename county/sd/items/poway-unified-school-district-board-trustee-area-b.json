@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Poway Unified School District Board, Trustee Area B",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:33:07Z",
+  "candidates": [
+    {
+      "choice": "Brett Davis",
+      "statement": {
+        "by": "Brett Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent, grandparent, small business owner, and former school board member, I understand the trust families place in our schools every day. I believe every child deserves a quality education in a safe environment where learning comes first. That is why I am committed to putting students at the center of every decision."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Parents should be respected as partners in their children’s education. I believe schools and families achieve the best results when they communicate openly, work together, and are transparent. I will always support strong academics and accountability while preparing students with the knowledge and skills they need to succeed in college, careers, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a small business owner, I know the importance of responsible budgeting and making every taxpayer dollar work for students. We must invest in excellent teachers, prioritize classroom learning, and ensure resources are used wisely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running because I care about our children, our families, and the future of our community. Thank you for your vote and support. It would be an honor to serve as your Poway Unified School District Board Member, Area B, with integrity, transparency, and a commitment to every student and every family as we build a stronger future together."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kym Sosnowski",
+      "statement": {
+        "by": "Kym Sosnowski",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I have had the pleasure of serving the Poway Unified community at the elementary, middle, and high school levels for over 15 years as a PTA board member and active volunteer. I also served as the Foundation President for Twin Peaks Middle School, raising money for a number of programs and improvements. I’ve worked closely with administrators, teachers, and parents to support our community’s vision for our students. I was honored to be recognized for this service with the Poway Unified School District’s 2024 Volunteer of the Year award."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This is the commitment I will bring as your School Board Trustee. I believe thoughtful, non-ideological oversight of our district will keep Poway’s schools strong and safe for our students, supportive of our teachers, and fair to our taxpayers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not only a supporter of Poway Unified School District, I completed my own K-12 education here. When my husband and I started our family, there was no question of where to raise our children. All three have attended schools in Area B, and my husband is currently a PUSD high school teacher."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our community is special for many reasons but the schools are its foundation. It is my commitment to continue to represent all constituents as your trustee."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-346.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

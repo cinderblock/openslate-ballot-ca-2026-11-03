@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Vista City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/vista",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:37Z",
+  "candidates": [
+    {
+      "choice": "Josh Davis",
+      "statement": {
+        "by": "Josh Davis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hi Neighbor!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Josh Davis and I’m a proud hispanic Vistonian running for Vista City Council to be an independent voice for all residents. Vista instantly felt like home when my wife, Holly, and I moved here in 2019. Since then, I’ve established deep roots as a local small business owner, a resident eager to raise a family here, and an active neighbor who loves connecting with the people and community that make our city so vibrant. My focus is simple and free from the influence of political parties and special interest groups: I commit to working in direct service of everyday Vistonians to keep our city safe, prosperous, and welcoming."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In addition to running a Vista-based business, I bring five years of experience in the public safety technology industry as a software Product Manager leading brilliant development teams. Working alongside municipal and government leaders across the country has given me deep insight into effective public policy, modernizing resources to improve emergency response times, and leveraging technology responsibly. Importantly, my professional background fuels my passion for protecting citizen privacy, and I will fiercely oppose any AI-driven mass video surveillance in our city. As a local business owner, I also understand the hurdles of local bureaucracy firsthand and will advocate to cut red tape for entrepreneurs while maintaining Vista’s stellar track record of smart fiscal management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My platform priorities center on community safety, smart infrastructure, and quality of life. I will work to secure funding for much-needed school infrastructure upgrades, enhance campus safety across the Vista Unified School District, and build on Vista’s progress by supporting compassionate, effective solutions for homelessness and mental health resources. I am also committed to addressing local housing affordability so lifelong residents are not priced out of their neighborhoods."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring a collaborative spirit, curiosity, and a deep commitment to hear you out. My door is always open. Whether in-person around town, by email, or over the phone. I would be honored to earn your vote and represent our District 4 community on the Vista City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit my website for more information on how to reach me: JoshDavis4Vistonians.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Josh Davis\nCandidate for Vista City Council District 4"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-169.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Dan O'Donnell",
+      "statement": {
+        "by": "Dan O'Donnell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Dan O’Donnell is a husband and father who has called Vista home for a decade, building his life here alongside the community he now represents. Dan and his wife, Allie, are raising their two young sons in Vista, and that same commitment to family guides his work on the City Council. A homeowner who also works with small business owners across Southern California, Dan is running for re-election to keep District 4 safe, connected, and moving forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dan is proudly endorsed by the Vista Firefighters Association, the Deputy Sheriffs’ Association, Sheriff Kelly Martinez, the North County Association of Realtors, and the San Diego & Imperial Counties Labor Council, reflecting his commitment to community safety, working families, and District 4."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over the last four years, Dan has worked to prove that local government can get things done. He has hosted more town halls than any other member of the City Council, and his focus has never wavered from showing up, listening to residents, and delivering results they can see in their everyday lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the City Council, Dan O’Donnell added Deputies and Firefighter Personnel, improved neighborhood infrastructure, and partnered with Vista Little League and the Vista Unified School District to secure practice fields. He delivered new sidewalks on Sunset, Matagual Park, park upgrades throughout the community, a new traffic light at Melrose and Dawson, and a safer student crosswalk at Longhorn and Melrose."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dan fought to keep local control over Green Oak Ranch and stop the County from acquiring it, and helped streamline the permitting process to support small businesses. He secured an additional $250,000 in funding for the Gloria McClellan Senior Center, stood up for ratepayers against higher fees and taxes imposed by electric companies, and helped secure $5 million in state funding for the Homeless Navigation Center."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dan O’Donnell’s approach is simple: show up, listen, and follow through. That approach won’t change. Dan will keep pushing for infrastructure improvements in our neighborhoods, continue supporting the public safety personnel who keep us safe, and stay focused on practical, common-sense decisions over political posturing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a proven record and broad community support, Dan O’Donnell will keep delivering the kind of steady, responsive leadership District 4 deserves, because he believes it’s a tremendous honor to show up and represent our community on the Vista City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let’s keep District 4 and Vista moving forward by re-electing Dan O’Donnell."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information, please visit www.danforvista.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-169.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

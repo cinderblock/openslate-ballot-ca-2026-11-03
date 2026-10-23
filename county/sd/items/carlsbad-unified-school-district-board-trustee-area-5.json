@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carlsbad Unified School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:05:25Z",
+  "candidates": [
+    {
+      "choice": "Joel Gutierrez",
+      "statement": {
+        "by": "Joel Gutierrez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am a parent of 3 students and greatly appreciate the role Carlsbad Unified has played in our children’s development."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a graduate of the US Naval Academy, I served our Nation as a Navy Pilot for 20 years. I earned my MBA at Columbia University in partnership with UC Berkeley."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a 737 Training Captain for a major airline, responsible for the safe operation and professional education for the most highly qualified and diverse pilot group. I served as a Local Union Chair where I represented over one-thousand workers, and helped negotiate and approve an industry-leading and fiscally responsible contract for over 18,000 pilots."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Board member, my priorities will be to utilize all available resources to improve the quality of infrastructure, art, music, STEM, and vocational programs. I commit to ensure our teachers are valued and well compensated, ease the financial and time burden on parents, focus on improving and implementing programs to help students prepare for standardized academic testing, and lastly, to strongly support infrastructure that increases school safety and security."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to earn your vote and represent Carlsbad to help build and improve the future for our children and community."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-163.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Chris Waidelich",
+      "statement": {
+        "by": "Chris Waidelich",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a parent of two current Carlsbad Unified students, the spouse of a public school teacher, and a dedicated community volunteer, Chris Waidelich is committed to ensuring every student has the opportunity to succeed. He believes strong public schools are the foundation of a thriving community and is running to help preserve and strengthen the excellence that makes Carlsbad Unified one of California’s top school districts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Chris has served local families by coaching youth sports, mentoring students through LEGO Robotics, and serving on the Board of the Carlsbad Education Foundation. These experiences have given him first-hand insight into the needs of students, parents, teachers, and school staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "An attorney with years of experience, Chris has built consensus, solved complex challenges, and made thoughtful, accountable decisions. He will bring that collaborative, solutions-oriented approach to the Carlsbad Unified School Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Chris’s priorities include maintaining academic excellence, supporting outstanding teachers and staff, promoting safe and welcoming schools, strengthening partnerships with parents and the community, and ensuring transparent, fiscally responsible stewardship of taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Chris is proud to call Carlsbad home and is committed to keeping Carlsbad Unified a district where students thrive, educators excel, and families have confidence in their public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for Chris Waidelich for Carlsbad Unified School Board Trustee, Area 5."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.chrisforcarlsbadschools.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-163.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

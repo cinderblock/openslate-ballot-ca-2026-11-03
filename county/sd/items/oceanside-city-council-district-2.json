@@ -1,0 +1,126 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oceanside City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/oceanside",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:21Z",
+  "candidates": [
+    {
+      "choice": "Emily Gonzales",
+      "statement": {
+        "by": "Emily Gonzales",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I, Emily Gonzales, humbly ask for your vote to carry your voices to city hall. I am Co-Executive Director of a nonprofit, a small business owner, and a mother. My family has called Oceanside home for 21+ years. I am an appointed Oceanside Planning Commissioner and spouse of a retired, disabled Marine."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For twenty years, I have facilitated collective bargaining between public sector unions and employers in education and healthcare, and served as staff at the California Legislature. I co-founded The Swell Collective, a nonprofit that trains organizers nationwide in conflict resolution and community building, and I am a certified diversity, equity, and inclusion trainer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Planning Commissioner, I review land use decisions shaping our city’s growth, and I push for smart growth that concentrates housing near transit rather than paving over open space and farmland."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will prioritize affordability through mobile home safeguards, fee and fine reform, community care and public safety, and development that invests in infrastructure and livability rather than drains our city. I am running a people powered campaign, accepting no contributions from real estate developers, because District 2 deserves a representative who answers only to you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.d2oside.org"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Richard Robinson",
+      "statement": {
+        "by": "Richard Robinson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As your incumbent councilmember, I’ve listened, sought solutions, and advocated for you. My votes have supported smart growth, local farmers, and agrotourism, while helping advance safety and quality of life across District 2 and the city. We’re safer with Fire Station 9, added police and lifeguard positions, and stronger enforcement of fireworks and e-bike violations. Improvements to equestrian and bike trails, street repairs, traffic control during construction, parks, and recreational access all benefit local families. Better beach access, more sand, and the re-beach project matter for everyone. You’ve also seen more street repairs and improved landscaping in D2."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public service and safety have been my life’s calling, including six years as Oceanside’s Fire Chief. As a Navy veteran, I understand the needs of active-duty and veteran families. My wife and I have called Oceanside home since 1988, where we raised four children and now enjoy 12 grandchildren."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A safe, thriving Oceanside for residents and visitors is my highest priority. With real experience and real leadership, Oceanside will remain a destination to live, work, and play. Vote for Richard Robinson to keep Oceanside Original."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "RR: Osided2.com / robinsonforoside@gmail.com / (760) 216-7587"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Oscarin Ortega",
+      "statement": {
+        "by": "Oscarin Ortega",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am the son of two undocumented immigrants, a father of two, foster parent of three, homeowner, small business owner, nonprofit founder, and lifelong Oceanside resident. Born and raised in Oceanside, I have spent more than a decade serving the community that raised me through innovative solutions addressing homelessness, youth services, senior support, immigrant resources, public safety, and economic opportunity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe Oceanside should honor its history—from our beaches to our valleys—while creating a future where seniors live with dignity, youth thrive, small businesses succeed, and military families, Native communities, immigrants, and longtime residents all have the opportunity to prosper together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My work has been recognized throughout San Diego County, including Champion of the Year by Molina Healthcare, Constituent of the Year by Congressman Mike Levin, Latino of the Year by Oceanside Mayor Esther Sanchez, Latino Leader of the Year by Supervisor Jim Desmond, and recognition as a Martin Luther King Jr. Award candidate. San Diego County proclaimed December 13 as Oscarin Ortega/Lived Experiences Day. Leaders at the local, county, state, and federal levels know me through my advocacy and commitment to serving our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I understand hardship because I have lived it. I have helped shape public policy, built partnerships, and held government accountable to deliver real results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I’m not running to start serving—I’m running to continue."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=54",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

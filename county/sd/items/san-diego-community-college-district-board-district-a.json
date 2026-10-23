@@ -1,0 +1,94 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego Community College District Board, District A",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:06Z",
+  "candidates": [
+    {
+      "choice": "Maria Nieto Senour",
+      "statement": {
+        "by": "Maria Nieto Senour",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Primary election winner with 78% of the vote!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a life-long educator, I am proud of my record of service to students and the community. When last elected to office, I pledged my 100% commitment to student access, retention, and the development of our community colleges for all citizens of San Diego."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am pleased to report on our outstanding accomplishments in these areas: Led the district through California’s fiscal crisis with prudent fiscal management, no layoffs of faculty or staff, while bringing all salaries to a livable wage in San Diego, restoring District reserves that were impacted due to the pandemic."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The District enacted dozens of new college transfer degrees for students, implemented four community college bachelor’s degree programs in two of our colleges, and are in the process of seeking to approve more. The District increased online classes to improve community access and developed hundreds of certificate programs to prepare the workforce for well-paying jobs. The District produced a record number of graduates and expanded the San Diego Promise Program to make community college free for eligible students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Voters recently approved a $3.5 billion construction bond program. Our District generates $5.6 billion annually into the San Diego economy and supports 37,508 jobs, or 1 out of every 57 jobs in San Diego. The District serves more than 10,000 veterans, active-duty military, and military dependents each year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe accomplishments such as these demonstrate my commitment toward ensuring our students are well prepared for today’s workforce. These achievements could only be realized as a result of prudent fiscal management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have devoted my entire life to Education and Community Service!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education: Doctor of Philosophy, Counselor Education, Wayne State University, Detroit, Michigan; Master of Education, University of Toledo, Ohio; Bachelor of Art, Marygrove College, Detroit, Michigan."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professional Experience: Professor of Counseling and School Psychology, San Diego State University; Director, Community Based Block Master’s Degree Program in Multicultural Counseling and Social Justice Education, San Diego State University; Consultant, San Diego Housing Commission; Board of Directors, San Diego Convention Center; Board member, Alcohol & Drug Abuse Prevention Task Force."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Awards and Honors: Leadership Alliance, Professional of the Year; San Diego State University Outstanding Professor; Ford Foundation Scholar; San Diego State University Alumni Association Outstanding Faculty Member; National Defense Education Act Fellow."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by the American Federation of Teachers; Gregory Smith, Chancellor, San Diego Community College District; and all current Governing Board Members of the San Diego Community College District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please Vote Maria Senour, Ph.D., for Community College Board!"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Encinitas City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/encinitas",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:14:44Z",
+  "candidates": [
+    {
+      "choice": "Brad Lefkowits",
+      "statement": {
+        "by": "Brad Lefkowits",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Brad is running for City Council to make our streets safer, protect our environment, support local businesses and the arts, and bring a practical approach to housing. He will fight to protect our neighborhoods from overdevelopment. He will pursue housing solutions that actually help young families and our local workforce remain part of our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brad and his wife are local small business owners. They are raising two second-generation Encinitans who attend our public schools. Brad’s career in landscape design has been built on listening, finding common ground, and creative problem solving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since 2023, Brad has served on the City’s Urban Forest Advisory Committee. He has worked with residents, volunteers, and City staff to address challenges facing our tree canopy. As chair, his leadership brought organization, consistency, and transparency to a committee in need of direction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Encinitas deserves leaders who bring people together, solve problems, and prepare our city for the future. Brad knows good decision-making balances data and expertise with guidance from the people who know our city best: its residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote for Brad to build a safer, more sustainable, and more connected Encinitas for the next generation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.bradlefkowits.com\nbrad@bradlefkowits.com\n760-444-0812"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by: Congressman Mike Levin"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-223.pdf#page=57",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Marco San Antonio",
+      "statement": {
+        "by": "Marco San Antonio",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I’m Marco San Antonio, your current Councilmember, local business owner, and former reserve firefighter. Elected in 2022 to the Olivenhain Municipal Water District Board of Directors, my experience gives me broad perspective to best serve the public."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Growing up in Village Park, I’ve called Encinitas home for 45 years, raising my family in Olivenhain and running my business on Highway 101. I listen to every Encinitan because council decisions affect everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On council, I’ve championed two key issues: Wildfire Preparedness and Safe Routes to School."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I successfully spearheaded full staffing of Encinitas Fire Station #6 and will advance the permanent Olivenhain Fire Station and establish a clear Evacuation Plan."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I launched the Village Park Way and Park Dale Lane safety study, and I will keep fighting to improve routes to school, so cyclists, pedestrians, and drivers can share our roads safely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Running a business shapes my council approach: accountability, responsible budgeting, and delivering results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Your voice for local control, I will continue putting residents before developer interests, prioritizing our unique community character and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will safeguard dark skies/wildlife, protect open spaces, preserve our agricultural heritage, and keep Village Park family-focused."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Encinitas business owner and father, I believe our best days are ahead. Please vote for me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Marco4Encinitas.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-223.pdf#page=57",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

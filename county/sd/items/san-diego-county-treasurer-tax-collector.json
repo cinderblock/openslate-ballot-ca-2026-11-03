@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego County Treasurer-Tax Collector",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:04:21Z",
+  "candidates": [
+    {
+      "choice": "Larry Cohen",
+      "statement": {
+        "by": "Larry Cohen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "U.S. Congressman Juan Vargas: “Larry Cohen, brings extensive experience in fiscal management, tax administration and financial policy to the office of San Diego County Treasurer-Tax Collector. We are extremely fortunate to have someone so well qualified managing the county’s complex financial structure and its $18 billion investment portfolio.”"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Larry Cohen, MBA has 20+ years of private sector experience managing multi-million-dollar budgets for Fortune 100 corporations. As policy advisor to the Financial Services Committee of the U.S. Congress, he helped craft banking, pension fund, anti-money laundering and consumer protection legislation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "“I’m honored to earn endorsements from Congressmembers Vargas, Scott Peters and Mike Levin, whose commitment to public service I share,” says Cohen."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Treasurer-Tax Collector, Larry Cohen’s prudent financial management earned the highest rating – AAAf/S1 – from Fitch Ratings Service, the nation’s leading independent financial ratings agency. Last fiscal year property tax collections exceeded 99%; the County Investment Pool generated $591 million net interest earnings (a record); and the Employee Pension Fund earned a 15.2% return – all while maintaining safety, liquidity and fiscal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Independent watchdogs, including the Government Finance Officers Association (Certificate of Excellence), give Larry Cohen, MBA high marks for transparency and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed: Sheriff Kelly Martinez, Supervisors Terra Lawson-Remer, Paloma Aguirre, Monica Montgomery Steppe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.larry-cohen.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Shirley Nakawatase",
+      "statement": {
+        "by": "Shirley Nakawatase",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong San Diegan with decades of experience in tax, finance, and money management, I have guided thousands through complex tax systems, showed them how to make more money, pay less taxes and helped make their dreams come true. As the Treasurer of the San Diego County Capital Asset Leasing Corporation, I was responsible for the management of millions of dollars while protecting strong financial credit ratings. I was the Chair of the San Diego Regional Center, which has a billion-dollar budget and over a thousand employees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "These skills will continue to serve San Diego County by protecting tax dollars, eliminating wasteful spending, modernizing operations, improving service delivery, and providing clear public reporting."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will streamline the office making it efficient and transparent, reduce unnecessary penalties caused by bureaucratic delays, improve accessibility for all, manage the county’s investments wisely to support essential services such as youth programs, disability support, and infrastructure."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My goal is to expand financial literacy, especially to vulnerable residents, so they understand both their obligations and tax -relief options. I will restore integrity and efficiency to the office and bring professional-level expertise to the position of Treasurer-Tax Collector. Vote for real experience."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ShirleyForSanDiego.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

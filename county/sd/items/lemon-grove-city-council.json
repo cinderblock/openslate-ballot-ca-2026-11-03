@@ -1,0 +1,96 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lemon Grove City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/lemon-grove",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T18:32:00Z",
+  "candidates": [
+    {
+      "choice": "Minola Clark Manson",
+      "statement": {
+        "by": "Minola Clark Manson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Lemon Grove deserves leadership that listens, brings people together, and turns community concerns into results. Lemon Grove residents should have a voice in decisions that shape the future of the city, and government that is accessible, accountable, and transparent. We need leadership that reflects the diversity of our community and ensures that diversity is honored, included, and celebrated."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Minola Clark Manson is who Lemon Grove needs. She has over 30 years of leadership experience in the public sector. She is part of community organizations that are evolving Lemon Grove, never losing sight of our history. Minola Clark Manson understands the complexities of municipal budgets and staffing needs. She knows how to balance fiscal responsibility with long-term commitments, and the services residents rely on. Her experience in public sector operations equips her to make sound, sustainable decisions that will keep Lemon Grove running effectively. She is invested in ensuring that all voices are included. She is guided by integrity, transparency, inclusion, and accountability. She has demonstrated her commitment to giving back through service, working alongside the Lemon Grove community to build a city that reflects who we are and what we value."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Seth Smith",
+      "statement": {
+        "by": "Seth Smith",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hello Neighbor!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Appointed City Councilmember, 15-year Lemon Grove resident, and architectural designer, I am dedicated to planning the future we deserve!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With over 8 years on the Lemon Grove Planning Commission and my education in urban planning, I bring practical, professional expertise to local decisions. I am proud to have secured $5.2 million for long-overdue street repairs, funded restorations for our Recreation and Senior Centers, and advocated for more housing options for renters, young families, and seniors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Using my professional skillset, I have proposed a community vision to make downtown Broadway walkable, family-friendly, and business-ready. As a local small business owner and active volunteer, I guide neighborhood entrepreneurs through the building and permitting processes, support local food distributions, and help plant native wildlife spaces."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can deliver more housing, safer streets, thriving local businesses, modernized infrastructure, and vibrant parks for our entire community. I respectfully ask for your vote to keep our momentum going!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at www.VoteSethSmith.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Krystle Johnson",
+      "statement": {
+        "by": "Krystle Johnson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Krystle understands how hard it is to work, pay all your bills and care for others. She has lived in Lemon Grove for over a decade, helping make our city a better place for everyone who lives here. A special education teacher for over 13 years, Krystle Johnson has seen food distributions go from 50 families to 300. We need to fix our infrastructure, create a vibrant business climate, and prioritize places for everyone to connect and safely enjoy Lemon Grove. Krystle is endorsed by the Heartland Firefighters, the San Diego & Imperial Counties Labor Council, and the San Diego County Democratic Party. She is running to continue to advocate for and protect families, and bring together all of Lemon Grove to work towards the common goal of elevating our city. She does what she says she is going to do and will work harder on the city council than anyone else to make sure the community is the first priority for all that we do. She would be honored to earn your vote. krystlejohnson.com."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-581.pdf#page=53",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Coronado Unified School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:16Z",
+  "candidates": [
+    {
+      "choice": "Peggy Duncan",
+      "statement": {
+        "by": "Peggy Duncan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Coronado Unified School District Board because I have the experience and perspective to serve our community well. My husband and I have proudly called Coronado home for 20 years. With our four children now in college, I am excited to give back to the community that has given so much to our family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 30 years, my work focused on improving the lives of children. I am an attorney, former Juvenile Court judge pro tem, President of Friends of Children United Society (FOCUS), and recently completed my term as Trustee on the Francis Parker School Board, where I also served as Parent Association President. I founded the FOCUS internship program at Coronado High School, mentoring Coronado students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Trustee, I helped implement a campus-wide cell phone ban and later served on CUSD’s task force addressing student cell phone use. I am completing a certificate program on Artificial Intelligence in Education at the University of San Diego to help CUSD thoughtfully address the opportunities and challenges of technology."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As CUSD transitions to Basic Aid, my experience in school governance and financial stewardship will guide sound, long-term decisions. My priorities are student safety and well-being, academic excellence, outstanding teachers, responsible technology policies, and transparent, fiscally responsible governance."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "PeggyDuncanForSchoolBoard.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-318.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Kaye Schneider",
+      "statement": {
+        "by": "Kaye Schneider",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Coronado has been my home since 1992. I have a deep, personal investment in the future of our schools. I raised four children here, all of whom attended Coronado Unified schools. Today, I am excited that my granddaughter will soon attend Village Elementary, where her father attended before her."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education has been the focus of my life’s vocation. I earned a B.S. in Elementary Education from Northern Arizona University and a doctoral degree from Fuller Theological Seminary. My educational pursuits in human development and family education have given me a strong understanding of the importance of preparing students for both academic achievement and life beyond the classroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served Coronado schools and families as a founding member of the Coronado Middle School PTO, classroom volunteer, and Coronado Recreation coach."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a School Board member, I will advocate for academic excellence, impactful staff, responsible fiscal stewardship, strong parent engagement, and safe, supportive learning environments. I will listen to our community, work collaboratively, ask thoughtful questions, and make decisions grounded in what is best for students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am eager to bring my experience, perspective, and commitment to public service to the Coronado Unified School District."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-318.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    },
+    {
+      "choice": "Alexia Palacios-Peters",
+      "statement": {
+        "by": "Alexia Palacios-Peters",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "I am running for re-election to continue serving our Coronado community. For the past four years, I oversaw the Bridge to Basic Aid, participated in the Portrait of a Graduate, and championed military families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a mom, attorney, and military spouse. My oldest child graduated from Coronado High School and my other two children attend CHS and . I am deeply-rooted in our schools, volunteering in their classrooms and programs. I value my connections with the administration and teachers and find it is critical when making decision for our district. I help various school groups, boosters, and organizations, maintaining and growing relationships with parents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a military spouse, I know the challenges we face and will continue to be a passionate advocate for us. I share our experiences in the board room, Sacramento, and Washington, D.C. to make sure that our voices are heard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our Board established a professional and collaborative culture that allows the district to grow our programs while maintaining fiscal responsibility as we champion every child every day."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I look forward to using my experience, knowledge, and relationships on the Board and in the community to lead our district for another four years."
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-318.pdf#page=50",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}

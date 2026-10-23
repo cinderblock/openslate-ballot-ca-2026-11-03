@@ -1,0 +1,76 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Diego Unified School District Board, District C",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-23T17:40:06Z",
+  "candidates": [
+    {
+      "choice": "Hayden Gore",
+      "statement": {
+        "by": "Hayden Gore",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              "Hayden Gore for School Board — The Teachers’ Choice"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "6,000+ San Diego classroom teachers and educators support Hayden Gore for School Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hayden has dedicated his career to education. An 18-year classroom teacher and parent of two, he is running to protect, strengthen, and fully fund our public schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As president of the High Tech Education Collective, Hayden worked with families, teachers, and administrators to lower class sizes and expand student support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Hayden will directly invest in classrooms and support the expansion of academic, social and mental health services for students across our schools. He supports developing underutilized district land for affordable housing for families, teachers and staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For Hayden, schools are the heart of our communities—places where children grow, connect, and learn to participate in our shared democracy. He is committed to ensuring schools are safe, inclusive, and nurturing spaces for all students, families, and staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong teacher, Hayden will defend public education and ensure educators have the resources to help every student thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by San Diego Education Association; American Federation of Teachers; San Diego School Trustees Cody Petterson, Richard Barrera, Sharon Whitehurst-Payne, and Sabrina Bazzo; Assemblymember Christopher Ward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.haydenforsdusd.com"
+            ]
+          }
+        ],
+        "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf#page=51",
+        "disclaimer": "The statements are the opinions of the authors and have not been checked for accuracy by any official agency."
+      }
+    }
+  ]
+}
