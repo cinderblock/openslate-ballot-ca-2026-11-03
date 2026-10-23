@@ -140,8 +140,11 @@ export function normName(name: string): string {
 }
 
 const SUFFIX = /^(jr|sr|ii|iii|iv)$/;
-/** Honorifics and credentials printed around a name ("DR. JUDY PATACSIL", "LINDA C GREER RN"). */
-const TITLE = /^(dr|mr|mrs|ms|rn|md|phd|esq|cpa|dds)$/;
+/**
+ * Honorifics and credentials printed around a name ("DR. JUDY PATACSIL", "LINDA C GREER RN",
+ * "TARA BOYCE MBA"), and a nickname in parentheses ("CHARANDEEP SINGH TATLAH (VICK)").
+ */
+const TITLE = /^(dr|mr|mrs|ms|rn|md|phd|edd|jd|mba|esq|cpa|dds)$|^\(.*\)$/;
 
 /**
  * The ballot's spelling of a name printed in a guide: exact, else first and last name, else
