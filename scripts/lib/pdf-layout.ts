@@ -51,6 +51,12 @@ interface TextItem {
 const SAME_LINE = 2;
 /** A horizontal gap wider than this splits a line (it crosses the gutter between columns). */
 const GUTTER = 12;
+/**
+ * A narrower gutter still splits a line where the gap straddles the middle of the page: two
+ * columns set close together (Orange County's pamphlet pages leave about 8 pt). A word space is
+ * about 2.5 pt, so running text across the middle isn't split.
+ */
+const NARROW_GUTTER = 6;
 
 export async function pdfPages(bytes: Uint8Array): Promise<Page[]> {
   // pdf.js takes ownership of the buffer it is given; hand it a copy.
@@ -139,7 +145,10 @@ function toLines(runs: (Run & { y: number })[], page: number, width: number): Li
     };
     for (const run of row) {
       const prev = current[current.length - 1];
-      if (prev && run.x - (prev.x + prev.width) > GUTTER) flush();
+      const gapStart = prev ? prev.x + prev.width : 0;
+      const gap = run.x - gapStart;
+      const acrossMiddle = gapStart <= mid + 2 && run.x >= mid - 2;
+      if (prev && (gap > GUTTER || (gap > NARROW_GUTTER && acrossMiddle))) flush();
       current.push(run);
     }
     flush();
