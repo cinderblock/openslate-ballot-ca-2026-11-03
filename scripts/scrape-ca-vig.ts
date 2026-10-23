@@ -15,58 +15,27 @@ import { existsSync, mkdirSync, readdirSync, rmSync, statSync } from "node:fs";
 import { dirname, join, relative, sep } from "node:path";
 import { type DefaultTreeAdapterMap, parse } from "parse5";
 
+import {
+  type BallotRace,
+  type Block,
+  ELECTION,
+  type Inline,
+  type Item,
+  type Passage,
+  ballotSourceUrl,
+  fetchOk,
+  loadRaces,
+  matchChoice,
+  normName,
+  now,
+  slug,
+} from "./lib/guide-common";
+
 type Node = DefaultTreeAdapterMap["node"];
 type Element = DefaultTreeAdapterMap["element"];
 
-// Structural types of the OpenSlate guide format (`@openslate/core` guide.ts); `openslate guide
-// check` validates the output against the real schema.
-type Inline = string | { em: Inline[] } | { strong: Inline[] };
-type Block =
-  | { type: "h"; level: 2 | 3 | 4; text: Inline[] }
-  | { type: "p"; text: Inline[] }
-  | { type: "ul" | "ol"; items: Block[][] }
-  | { type: "table"; caption?: string; rows: { header?: boolean; text: Inline[] }[][] }
-  | { type: "img"; file: string; alt?: string };
-interface Passage {
-  by?: string;
-  blocks: Block[];
-  source: string;
-  disclaimer?: string;
-}
-interface Subject {
-  title: string;
-  kind?: string;
-  jurisdiction?: string;
-  election?: string;
-}
-interface Item {
-  v: 1;
-  subject: Subject;
-  retrieved_at: string;
-  about?: Passage;
-  candidates?: {
-    choice: string;
-    photo?: { file: string; alt?: string; source: string; credit?: string };
-    statement?: Passage;
-    contact?: string[];
-  }[];
-  means?: Record<string, Passage>;
-  summary?: Passage;
-  analysis?: Passage;
-  arguments?: {
-    side: string;
-    rebuttal: boolean;
-    blocks: Block[];
-    signers: { name: string; title?: string; organization?: string }[];
-    source: string;
-    disclaimer?: string;
-  }[];
-  documents?: { title: string; file: string; source: string; mediaType: string }[];
-}
-
-const ELECTION = "2026-11-03";
 const BASE = "https://voterguide.sos.ca.gov";
-const BALLOT_SOURCE = `https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-secretary-of-state/${ELECTION}/positions.json`;
+const BALLOT_SOURCE = ballotSourceUrl("ca-secretary-of-state");
 const GUIDE = "guide";
 const EVIDENCE = "evidence";
 const refresh = process.argv.includes("--refresh");
@@ -82,19 +51,6 @@ const evidenceIndexPath = join(EVIDENCE, "index.json");
 const evidenceIndex: Record<string, Fetched> = existsSync(evidenceIndexPath)
   ? JSON.parse(await Bun.file(evidenceIndexPath).text())
   : {};
-
-function now(): string {
-  return new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
-}
-
-async function fetchOk(url: string): Promise<Response> {
-  for (let attempt = 1; ; attempt++) {
-    const response = await fetch(url, { headers: { "user-agent": "openslate-ballot-scraper" } });
-    if (response.ok) return response;
-    if (attempt >= 3 || response.status < 500) throw new Error(`${url}: HTTP ${response.status}`);
-    await Bun.sleep(1000 * attempt);
-  }
-}
 
 /** A guide page's HTML, from the evidence cache unless --refresh. */
 async function page(path: string): Promise<{ doc: Element; url: string; retrieved_at: string }> {
@@ -379,46 +335,11 @@ function blocks(nodes: Node[], ctx: BlockContext): Block[] {
 
 // ---------------------------------------------------------------- the ballot source's subjects
 
-interface BallotRace {
-  subject: Subject;
-  choices: string[];
-}
-const ballotSource = (await (await fetchOk(BALLOT_SOURCE)).json()) as {
-  positions: { subject: Subject; choice?: string }[];
-};
-const races = new Map<string, BallotRace>();
-for (const position of ballotSource.positions) {
-  const race = races.get(position.subject.title) ?? { subject: position.subject, choices: [] };
-  if (position.choice && !race.choices.includes(position.choice))
-    race.choices.push(position.choice);
-  races.set(position.subject.title, race);
-}
+const races = await loadRaces(BALLOT_SOURCE);
 function race(title: string): BallotRace {
   const found = races.get(title);
   if (!found) throw new Error(`the ballot source has no race titled ${JSON.stringify(title)}`);
   return found;
-}
-
-function normName(name: string): string {
-  return name
-    .normalize("NFKD")
-    .replace(/\p{M}/gu, "")
-    .toLowerCase()
-    .replace(/[.,"“”]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-/** The ballot's spelling of a name printed in the guide (exact, else first + last name). */
-function matchChoice(name: string, choices: string[]): string | undefined {
-  const want = normName(name);
-  const exact = choices.find((c) => normName(c) === want);
-  if (exact) return exact;
-  const ends = (n: string) => {
-    const parts = n.split(" ").filter((p) => !/^(jr|sr|ii|iii|iv)$/.test(p));
-    return `${parts[0]} ${parts.at(-1)}`;
-  };
-  const loose = choices.filter((c) => ends(normName(c)) === ends(want));
-  return loose.length === 1 ? loose[0] : undefined;
 }
 
 // ---------------------------------------------------------------- items
@@ -426,12 +347,6 @@ function matchChoice(name: string, choices: string[]): string | undefined {
 const items = new Map<string, Item>();
 const problems: string[] = [];
 
-function slug(text: string): string {
-  return normName(text)
-    .replace(/&/g, " and ")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-}
 /** Short, stable file names: prop-39, governor-of-california, …-retain-justice-joshua-groban. */
 function itemKey(title: string): string {
   const prop = /^California — Proposition (\d+) \(/.exec(title);
