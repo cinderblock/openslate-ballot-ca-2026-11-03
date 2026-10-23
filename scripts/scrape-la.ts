@@ -371,18 +371,22 @@ async function scrapeMeasures(): Promise<void> {
 function titleCase(text: string): string {
   if (text !== text.toUpperCase()) return text.trim();
   const small = new Set(["of", "the", "and", "for", "on", "in", "to", "a", "an", "by"]);
-  return text
-    .trim()
-    .toLowerCase()
-    .split(/(\s+)/)
-    .map((w, i) =>
-      i > 0 && small.has(w)
-        ? w
-        : /^[a-z]$/.test(w) || /^(ii|iii|iv)$/.test(w)
-          ? w.toUpperCase()
-          : w.replace(/^(\p{L})/u, (c) => c.toUpperCase()),
-    )
-    .join("");
+  return (
+    text
+      .trim()
+      .toLowerCase()
+      .split(/(\s+)/)
+      .map((w, i) =>
+        i > 0 && small.has(w)
+          ? w
+          : /^[a-z]$/.test(w) || /^(ii|iii|iv)$/.test(w)
+            ? w.toUpperCase()
+            : w.replace(/^(\p{L})/u, (c) => c.toUpperCase()),
+      )
+      .join("")
+      // A measure's letters stay capitals, even "A", which the rule above takes for the article.
+      .replace(/\bMeasure ([a-z0-9]+)\b/g, (_m, id: string) => `Measure ${id.toUpperCase()}`)
+  );
 }
 
 // ---------------------------------------------------------------- run
