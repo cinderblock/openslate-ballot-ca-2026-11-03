@@ -130,6 +130,8 @@ export function normName(name: string): string {
       .replace(/\p{M}/gu, "")
       .toLowerCase()
       .replace(/[.,"“”]/g, "")
+      // "O’DONNELL" and "O'Donnell" are one name.
+      .replace(/[‘’]/g, "'")
       // "Bove-LaMonica" and "Bove LaMonica" are one name.
       .replace(/-/g, " ")
       .replace(/\s+/g, " ")
@@ -138,6 +140,8 @@ export function normName(name: string): string {
 }
 
 const SUFFIX = /^(jr|sr|ii|iii|iv)$/;
+/** Honorifics and credentials printed around a name ("DR. JUDY PATACSIL", "LINDA C GREER RN"). */
+const TITLE = /^(dr|mr|mrs|ms|rn|md|phd|esq|cpa|dds)$/;
 
 /**
  * The ballot's spelling of a name printed in a guide: exact, else first and last name, else
@@ -148,7 +152,7 @@ export function matchChoice(name: string, choices: string[]): string | undefined
   const want = normName(name);
   const exact = choices.find((c) => normName(c) === want);
   if (exact) return exact;
-  const parts = (n: string) => n.split(" ").filter((p) => !SUFFIX.test(p));
+  const parts = (n: string) => n.split(" ").filter((p) => !SUFFIX.test(p) && !TITLE.test(p));
   const ends = (n: string) => {
     const p = parts(n);
     return `${p[0]} ${p.at(-1)}`;
