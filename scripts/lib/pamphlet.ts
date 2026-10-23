@@ -216,7 +216,8 @@ const HEADINGS: [RegExp, PartKind][] = [
   [/^ARGUMENTS? AGAINST/, "argument-no"],
   [/^FULL TEXT OF/, "text"],
   [/^TAX RATE STATEMENT/, "tax"],
-  [/^NO (ARGUMENT|REBUTTAL)/, "none"],
+  // "No Argument Against Measure K was filed…", in capitals or not.
+  [/^NO (ARGUMENT|REBUTTAL)/i, "none"],
 ];
 
 /**
@@ -232,7 +233,7 @@ export function measureParts(lines: Line[]): Part[] {
   for (const line of lines) {
     const t = line.text;
     const heading = line.bold && line.size >= 9.5 && t === t.toUpperCase();
-    const kind = HEADINGS.find(([re]) => re.test(t) && (heading || /^NO /.test(t)))?.[1];
+    const kind = HEADINGS.find(([re]) => re.test(t) && (heading || /^no /i.test(t)))?.[1];
     if (kind) {
       headingContinues = true;
       if (!(kind === current.kind && /\(CONTINUED\)$/.test(t))) {
