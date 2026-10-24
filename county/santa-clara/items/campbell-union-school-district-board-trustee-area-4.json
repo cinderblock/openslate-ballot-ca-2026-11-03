@@ -1,0 +1,158 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Campbell Union School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:17Z",
+  "candidates": [
+    {
+      "choice": "Mohit Vora",
+      "statement": {
+        "by": "Mohit Vora",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Parent & Technology Executive\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 44"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My kids attended CUSD schools for 9 years. In 2024, the district transferred two respected teachers without adequate explanation. As parents, we organized, spoke up at the board meeting. But the board did not hold the administration accountable. Teachers have the most important job in the world. We owe them more, not less. This broke my trust in the district. I could not tolerate disrespect to teachers. We moved our kids to a private school. I'm running to help transform CUSD to be strongly values driven. So that no teacher feels disrespected and every family feels welcome."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I served four years on the Forest Hill PTA board, two as President. Under my leadership, we rebuilt community programs after COVID, maximized financial transparency, and simplified several processes."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've run large organizations at Yahoo! and Netflix. And have co-founded OKhuman, which lets students disclose the human effort behind their writing. I bring years of operational experience, both in school parent bodies, and corporate organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our classrooms should mean less screen time and more time with teachers. We must keep student-teacher ratios low so teachers are able to recognize where every child is and help them grow and be challenged."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by teachers.\nmohit4area4.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3707_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Chris Miller",
+      "statement": {
+        "by": "Chris Miller",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member, Educator, Father\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 40"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Chris is an experienced educator, husband, and father who has served on the Campbell Union School Board for eight years. Chris was inspired to run for the school board in order to bring an educator's perspective to the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In addition to his work on the board, Chris teaches 4th-grade. Since joining the Board, he has been an advocate for closing the equity gap in CUSD and for supporting student mental health."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Chris will continue to focus on policies and programs that will close the equity gap between our most vulnerable students and their on-grade-level peers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "He will advocate for smaller class sizes and support staff in classrooms to help students meet their individual needs and reach their fullest potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "He will support district budgets that ensure that Campbell remains one of the most fiscally responsible and financially solvent districts in the county. With proper planning and foresight, we can mitigate the impact on students, staff, and the community at large."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the only educator on the Board he knows the challenges educators, and district staff face. As a parent he knows the expectations our parents, families and community members have for our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Visit his website chrismillerforcampbellunionschoolboard.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3708_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

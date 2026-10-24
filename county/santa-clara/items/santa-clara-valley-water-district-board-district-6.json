@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara Valley Water District Board, District 6",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:54Z",
+  "candidates": [
+    {
+      "choice": "Phuong Tran Nguyen",
+      "statement": {
+        "by": "Phuong Tran Nguyen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Field Representative\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 58"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Water bills keep rising while Valley Water wasted millions on risky projects, cost overruns and golden parachutes. Meanwhile, our neighborhoods still live with neglected creeks, flooding, and illegal dumping. I am running to be your voice and hold Valley Water accountable to the working families of East San José."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As District Representative for State Senator Dave Cortese, I have spent years helping residents cut through government red tape and navigate complex systems to get results. As a community organizer, I coordinated the distribution of protective equipment during the COVID-19 pandemic, registered new voters, and helped low-income families access food, housing, and essential benefits they needed most. I host a public affairs program on Net Viet TV, where I connect Vietnamese-speaking communities with their government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My wife and I have been married 21 years and raised our son and daughter here. I spent years working warehouse night shifts. I know what every increase on a water bill means to a working family."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Director, I will demand an independent audit before any rate increase, end excessive executive payouts, and make Valley Water clean up and protect our neighborhood creeks."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Safe, clean, affordable water. Honest, accountable leadership. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3814_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Milan Balinton",
+      "statement": {
+        "by": "Milan Balinton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Nonprofit Executive Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Valley Water Board to bring my executive experience to keep water rates affordable while rebuilding our aging water pipelines and dams."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Coyote Creek Flood Protection Project and the Anderson Dam Seismic Retrofit Project must be completed on time and within budget. These critical projects have taken far too long to get going, and I will provide active oversight to ensure they move forward efficiently while protecting taxpayers and keeping water rates as affordable as possible."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to support and expand efforts to remove trash and debris from our creeks and waterways. Valley Water and the City of San Jose should make this work a higher priority. We must also strengthen outreach and engagement with the diverse communities we serve so that every resident has a voice in decisions that affect our water resources. My master's degree in public administration, along with four years of service on a local school board, has given me valuable experience in bringing people together, building consensus, and setting priorities that deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our campaign for affordable, reliable water is endorsed by respected local leaders, including County Supervisor Betty Duong, School Board Member George Sanchez, Councilmember Peter Ortiz, Valley Water Directors Shiloh Ballard and Tony Estremera, Assemblymember Ash Kalra, and former Valley Water Next Gen Intern Asjah Naquin. To learn more, please visit my website at www.milanbalinton.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3815_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

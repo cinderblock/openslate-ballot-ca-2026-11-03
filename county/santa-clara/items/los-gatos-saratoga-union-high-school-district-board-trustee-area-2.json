@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Gatos-Saratoga Union High School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:12Z",
+  "candidates": [
+    {
+      "choice": "Ishaan Prasad",
+      "statement": {
+        "by": "Ishaan Prasad",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Educational Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a graduate of LGSUHSD, I took advantage of our district's Middle College program to challenge myself academically, ultimately earning my degree from UCLA. Our schools have a proud tradition of preparing students for success in higher education, meaningful careers, and engaged lives; I am committed to carrying that legacy forward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an educational advocate, I have represented students and families navigating special education, disability accommodations, discrimination, and access to public services. My work has shown me both where our schools excel and where families sometimes struggle to access the support they need."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The strongest schools are built on partnerships between educators, students, and families. As your trustee, I will work to strengthen those partnerships, improve access to district resources, and ensure that every decision is guided by what is best for our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by both the Mayor of Saratoga, Chuck Page, and the Former Mayor of Monte Sereno, Liz Lawler."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote. (www.IshaanPrasad.org)"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3692_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Sangeeta Balachandran Mallik",
+      "statement": {
+        "by": "Sangeeta Balachandran Mallik",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Developmental Psychologist/Parent Volunteer\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 54"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Nearly 20 years ago, my family chose the Saratoga/Monte Sereno neighborhood because of its exceptional schools and community. Every year since has reinforced that we made the right decision. My son, who has a developmental disability, received the support he needed to thrive and is now a college freshman. My daughter is currently a high school sophomore, giving me firsthand experience with the opportunities and challenges facing students and families today."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a developmental psychologist in the Neonatal Intensive Care Unit at a hospital, where I support families facing medical, financial, and social challenges. My doctoral research focused on children with developmental disabilities, their families, and the impact of public policy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving our schools has always been my way of giving back to the community that has given my family so much. For more than 14 years, I have volunteered in leadership roles, including PTA President at Redwood MS, President of the Saratoga HS School Site Council, and honored as Los Gatos-Saratoga Union High School District's 2026 Volunteer of the Year."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will listen, lead with integrity, and make thoughtful decisions while strengthening social-emotional learning, fiscal responsibility, and strong values that make our district a place we are all proud to call home."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3693_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

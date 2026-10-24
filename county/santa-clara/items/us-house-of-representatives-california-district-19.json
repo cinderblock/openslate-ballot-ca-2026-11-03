@@ -1,0 +1,200 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 19",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-19",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:56Z",
+  "candidates": [
+    {
+      "choice": "Jimmy Panetta",
+      "statement": {
+        "by": "Jimmy Panetta",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " U.S. Representative\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 57"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm fighting to give people opportunities for a better life. As your U.S. Representative, an Afghanistan War veteran, and a former prosecutor, I've dedicated my career to giving back to our community and country by serving and fighting for the people and values of our home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm working to reduce the cost of living with more affordable housing and accessible healthcare, and rescind tariffs to lower prices."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm securing federal investment for local infrastructure to boost productivity and prosperity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm holding this Administration accountable for its overreaching mass deportation policy that creates chaos in communities, harms American citizens, and hurts our economy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm working on immigration reform, including legalization for law-abiding working families, while supporting a secure border."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm promoting jobs and small businesses through our diverse economy of technology, hospitality, agriculture, education, and research."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm defending our environment by protecting our coastline from oil drilling, promoting agricultural sustainability, and creating policies to prevent wildfires and fight climate change."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm standing up for women's reproductive rights and equality."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm delivering federal funding for law enforcement to fight crime."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm fighting to reclaim Congress's Constitutional authorities to properly check the Executive Branch."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm upholding our democratic values by supporting secure elections and our international allies fighting for and maintaining peace."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll continue to fight for the people and values of California's 19th Congressional District with hard work, new ideas, and the will to work together to get things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'd be honored by your vote. For more information, please visit www.jimmypanetta.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3641_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Peter Coe Verbica",
+      "statement": {
+        "by": "Peter Coe Verbica",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Independently-minded Pete Verbica is a fiscal conservative endorsed by the Howard Jarvis Taxpayers Association PAC for his defense of Proposition 13, protecting homeowners and seniors from rising property taxes. He supports water infrastructure, insurance reform, and affordable coverage for California homeowners."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Pete's family roots in California run deep, including a multi-generational link to Henry Coe State Park. He grew up on his family's cattle ranch, learning what it takes to make a living from the land, meet a payroll, and keep a promise, and remains an advocate for open space and wildfire resilience."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A graduate of Bellarmine College Preparatory, Santa Clara University, and MIT, and a Certified Financial Planner® with business experience, Pete brings financial discipline to public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In his statewide race for the California Board of Equalization, Pete advanced to the top two and earned 925,000 votes, proving broad support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Pete believes families deserve relief from the rising cost of living through gas, utility, and sales tax cuts; he also believes that inflation, fueled by excess money printing, is the worst tax of all. He believes in working across the aisle to hold Washington accountable for its core duties—national security, immigration reform, and eliminating waste, such as the $126 billion train boondoggle."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A father of four daughters, including one who served in the U.S. Navy, Pete has long supported servicemembers, chairing a military care committee that sent hundreds of packages to sailors and Marines. He also champions education and youth arts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information: www.peterverbica.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3642_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

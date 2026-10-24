@@ -1,0 +1,2239 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cupertino — Measure L",
+    "kind": "measure",
+    "jurisdiction": "us/ca/cupertino",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:26:00Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Cupertino Parks, Parkland, and Open Space Preservation Measure."
+            ]
+          },
+          " Shall an ordinance amending the City of Cupertino General Plan be adopted to mandate that any attempt to rezone parks, parklands or open space to residential, commercial or industrial uses, or any proposal for residential, commercial or industrial development in parks, parkland or open space, must be placed before Cupertino voters and secure two-thirds support in the City's next general election?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/733_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote approves the ordinance."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/733_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote rejects the ordinance."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/733_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure L was placed on the ballot by the City Council of the City of Cupertino. The measure would adopt an ordinance amending the Cupertino General Plan and adding Chapter 21.04 to the Cupertino Municipal Code, titled the \"Cupertino Parks and Open Space Protection Initiative.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure applies to \"Protected Parks and Open Space Land,\" defined as the parcels and portions of parcels identified in the ordinance exhibits and consisting of parcels designated as \"Parks and Open Space\" on the Land Use Map of the Cupertino General Plan as of the effective date of the ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved, the measure would require approval by at least two-thirds of the voters of the City of Cupertino voting on the question at the City's next general municipal election before the City may: (1) amend the General Plan to redesignate Protected Parks and Open Space Land to another land use designation; or (2) approve any General Plan amendment, specific plan amendment, zoning map amendment, rezoning, development agreement, tentative map, parcel map, use permit, permit, entitlement, subdivision approval, or other discretionary approval that would authorize a \"Non-Park Use\" on Protected Parks and Open Space Land."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure defines \"Non-Park Use\" as any use, development, or land use designation other than Parks and Open Space, as shown on the City of Cupertino General Plan Land Use Map."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure would amend the General Plan to add a Land Use policy prohibiting land designated as Parks and Open Space from being redesignated, rezoned, or approved for residential, commercial, or industrial development unless first approved by at least two-thirds of the voters at the City's next general municipal election. The measure would also add a Recreation, Parks, and Community Services policy directing the City to retain lands designated as Parks and Open Space and to continue implementing policies supporting parks, open space, trails, recreation uses, and similar community resources."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure would not prohibit uses and activities permitted or conditionally permitted under applicable zoning regulations if consistent with the Parks and Open Space designation. It also includes an exception for certain minor boundary adjustments, lot line adjustments, acquisitions, dedications, easements, exchanges, transfers, maintenance agreements, access agreements, or similar transactions, if the City Council makes specified findings."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The measure allows the City Council, by a four-fifths vote, to add parcels or portions of parcels to the protected land exhibits if specified findings are made. Parcels may not be removed from the protected land exhibits, and the measure may not be amended or repealed, except by two-thirds voter approval."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The above statement is an impartial analysis of the Measure. If you desire a copy of the ordinance or measure, please call the elections official's office (City Clerk) at 408-777-3223 to request a copy will be mailed at no cost to you or visit https://www.cupertino.gov/Your-City/Departments/City-Clerk/Cupertino-Elections-Info/Parks-and-Open-Space-Protection-Measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Dated: August 13, 2026"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Respectfully submitted,"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Floy Andrews\nCity Attorney\nCity of Cupertino"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/733_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure L",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "AN INITIATIVE ORDINANCE OF THE CITY OF CUPERTINO REQUIRING APPROVAL BY AT LEAST TWO-THIRDS OF THE VOTERS OF THE CITY OF CUPERTINO BEFORE LAND DESIGNATED AS PARKS AND OPEN SPACE MAY BE REDESIGNATED, REZONED OR APPROVED OR DEVELOPED FOR NON-PARK USES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The People of the City of Cupertino hereby find that:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Lands designated as Parks and Open Space provide important recreational, environmental, scenic, habitat, and quality of life benefits to the residents of the City of Cupertino (the \"City\")."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Lands designated as Parks and Open Space constitute irreplaceable community resources that contribute significantly to the character and livability of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The People of the City of Cupertino desire to preserve lands designated as Parks and Open Space and reserve to the voters the authority to approve significant changes to such lands."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. The People of the City of Cupertino find that any redesignation, authorization of non-park development should occur only upon a broad community consensus demonstrated by approval of at least two-thirds (2/3) of the voters of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. The People further find that limited flexibility should be preserved for minor boundary adjustments, surveying corrections, utility and infrastructure improvements, environmental restoration projects, and similar de minimis transactions that do not materially impair the continued use of protected lands for park and open space purposes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "6. Exhibits A and B identify the parcels designated as Parks and Open Space on the Cupertino General Plan Land Use Map and are incorporated herein to provide certainty and facilitate administration of this Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "NOW, THEREFORE, THE PEOPLE OF THE CITY OF CUPERTINO DO ORDAIN AS FOLLOWS:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 1. Addition of Title 21 of the Municipal Code."
+            ]
+          },
+          " \"Title 21: Initiatives\" is hereby added to the Municipal Code to read in its entirety as set forth in Exhibit A hereto and by this reference incorporated herein."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 2. General Plan Amendment."
+            ]
+          },
+          " The City of Cupertino General Plan is hereby amended to add two new policies or goals to applicable Land Use and Community Character Element (Chapter 3) and Recreation Parks and Community Services Element (Chapter 9) of the plan to read as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "\"Policy LU-1.7: Retention and Expansion of Lands for Parks and Open Space."
+            ]
+          },
+          "\nLand designated as Parks and Open Space on the City of Cupertino General Plan Land Use Map shall not be redesignated, rezoned or approved for residential, commercial, or industrial development unless the proposed action is first submitted to the voters of the City of Cupertino at the City's next general municipal election and approved by at least two-thirds (2/3) of the voters voting on the question. Nothing in this policy prohibits the city from designating, zoning, acquiring or approving additional property for Parks and Open Space uses without voter approval.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "\"Goal RPC-1.4: Retention and Expansion of Parks and Open Space."
+            ]
+          },
+          " Consistent with Policy LU-1.7, retain lands designated as Parks and Open Space on the City's General Plan Land Use Map for parks and open space purposes and continue to implement General Plan policies that support the preservation and expansion of parks, open space, trails, recreation uses and similar community resources.\""
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 3: Severability and Continuity."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The People of the City of Cupertino declare that each section, sub-section, paragraph, sub-paragraph, sentence, clause and phrase of this ordinance is severable and independent of every other section, sub-section, paragraph, sub-paragraph, sentence, clause and phrase of this ordinance. If any section, sub-section, paragraph, sub-paragraph, sentence, clause or phrase of this ordinance is held invalid, or its application to any person or circumstance, be determined by a court of competent jurisdiction to be unlawful, unenforceable or otherwise void, the City Council declares that it would have adopted the remaining provisions of this Chapter and ordinance irrespective of such portion, and further declares its express intent that the remaining portions of this ordinance should remain in effect after the invalid portion has been eliminated."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 3: Technical Changes."
+            ]
+          },
+          " That the City Manager, City Clerk, and City Attorney are authorized to make non-substantive corrections, revisions, or modifications to the Ordinance, Chapter or Title location, General Plan Policy numbers and related documents as may be necessary or advisable provided that such changes do not materially alter the substance of the Ordinance."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 4: California Environmental Quality Act."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Ordinance is not a project under the requirements of the California Environmental Quality Act, together with related State CEQA Guidelines (collectively, \"CEQA\") because it has no potential for resulting in physical change in the environment. In the event that this Ordinance is found to be a project under CEQA, it is subject to the CEQA exemption contained in CEQA Guidelines section 15061(b)(3) because it can be seen with certainty to have no possibility that the action approved may have a significant effect on the environment. CEQA applies only to actions which have the potential for causing a significant effect on the environment. Where it can be seen with certainty that there is no possibility that the activity in question may have a significant effect on the environment, the activity is not subject to CEQA. In this circumstance, the proposed action to enact an ordinance protecting the rezoning of parks and open space would not approve any development, authorize any physical change to the environment or commit the City to any project. Rather the Ordinance establishes voter approval requirements for future land use actions concerning parks and open space. Accordingly the Ordinance is not a project under CEQA. The foregoing determination is made by the City Council in its independent judgment."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 5: Effective Date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Ordinance shall take effect ten (10) days after the City Council declares the results of the November 3, 2026 election on the measure or as otherwise provided by applicable law."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 6: Publication."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Clerk shall give notice of adoption of this Ordinance as required by law."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Exhibit A"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "TITLE 21: INITIATIVES"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Chapter 21.04 Cupertino Parks and Open Space Protection Initiative"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.010 Title"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Chapter shall be known as the \"Cupertino Parks and Open Space Protection Initiative.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 21.04.020. Purpose and Intent."
+            ]
+          },
+          " The purpose of this Chapter is as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. To preserve lands designated as Parks and Open Space on the Cupertino General Plan Land Use Map."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. To reserve to the voters of the City of Cupertino the authority to approve any redesignation of such lands, or approval of development inconsistent with the Parks and Open Space designation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. To ensure that significant changes to protected parks and open space occur only upon approval of at least two-thirds (2/3) of the voters of the City of Cupertino."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.030. Definitions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. \"Protected Parks and Open Space Land\" means those parcels and portions of parcels identified on Exhibit A and listed on Exhibit B, consisting of the parcels designated as \"Parks and Open Space\" on the Land Use Map of the Cupertino General Plan on the effective date of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. \"Non-Park Use\" means any use, development, or land use designation other than Parks and Open Space as shown on the City of Cupertino Land Use Map, including any successor or substantially similar land use designation, that would allow residential, commercial, industrial or mixed-use development containing residential, commercial or industrial uses on Protected Parks and Open Space Land."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.040. Voter Approval Required."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. General Plan Redesignation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "No amendment to the Cupertino General Plan may redesignate Protected Parks and Open Space Land to another land use designation unless first approved by at least two-thirds (2/3) of the voters of the City of Cupertino voting on the question at the City's next general municipal election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Approval of Non-Park Use Development."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall not approve any General Plan amendment, specific plan amendment, zoning map amendment, rezoning, development agreement, tentative map, parcel map, use permit, permit, entitlement, subdivision approval, or other discretionary approval that would authorize any Non-Park Use on Protected Parks and Open Space Land unless first approved by at least two-thirds (2/3) of the voters of the City of Cupertino voting on the question at the City's next general municipal election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. Timing of Voter Approval."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The required voter approval shall be obtained before the City grants the first discretionary approval that would: (1) redesignate Protected Parks and Open Space Land; or (2) authorize a Non-Park Use on Protected Parks and Open Space Land."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Section 21.04.050. Permitted Activities."
+            ]
+          },
+          " Nothing in this Chapter shall prohibit uses and activities that are permitted or conditionally permitted under the applicable zoning designation and that are consistent with the Parks and Open Space designation. Uses permitted or conditionally permitted in the \"OS\" or \"PR\" zoning districts under Chapter 19.84 shall remain permitted or conditionally permitted on property zoned \"OS\" or \"PR\", respectively, to the extent consistent with the Parks and Open Space Designation."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 20.02.060. De Minimis Boundary Adjustments and Similar Transactions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Notwithstanding any other provision of this Chapter, voter approval shall not be required for minor boundary line adjustments, lot line adjustments, acquisitions, dedications, easements, exchanges, transfers, maintenance agreements, access agreements, or similar property transactions affecting Protected Parks and Open Space Land if the City Council approves the transaction and makes findings, supported by substantial evidence in the administrative record, that the transaction:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Is necessary or appropriate to resolve surveying, title, utility, access, public safety, drainage, slope stabilization, vegetation management, environmental restoration, trail maintenance, liability, maintenance responsibility, or infrastructure issues;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. Does not materially impair the continued use of the remaining Protected Parks and Open Space Land for park and open space purposes;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. Does not result in a redesignation of Protected Parks and Open Space Land or authorize a Non-Park Use;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. Is limited to the area reasonably necessary to accomplish the purpose of the transaction; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "E. Furthers the purposes of this Chapter and is consistent with the General Plan and applicable law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "For any transaction involving Protected Parks and Open Space Land adjacent to private property, the City Council shall also make findings, supported by substantial evidence in the administrative record, that:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The affected area is not used for active public park, recreational, trail, or access purposes;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. The transaction is primarily for maintenance, slope stabilization, vegetation management, public safety, access, drainage, infrastructure, or liability reduction purposes; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. Private ownership, maintenance, or access responsibility would reduce the City's maintenance obligations, slope stabilization obligations, vegetation management obligations, public safety concerns, or liability exposure without materially impairing the public's use, access, enjoyment, or open space value of the remaining Protected Parks and Open Space Land."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.070. Exhibits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Exhibit A consists of a map entitled \"Protected Parks and Open Space Parcels Subject to the Cupertino Parks and Open Space Protection Initiative,\" which shall constitute the official map of Protected Parks and Open Space Land for purposes of this Chapter.."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Exhibit B consists of a schedule entitled \"Schedule of Protected Parks and Open Space Parcels,\" identifying APNs, common names, General Plan designations, current zoning designations, and approximate acreage."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Exhibits A and B constitute the official identification of Protected Parks and Open Space Land. In the event of a discrepancy between Exhibits A and B, Exhibit A shall control unless the discrepancy results from a clerical, mapping, or scrivener's error."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.080. Effect of Violation."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Any ordinance, resolution, agreement, permit, entitlement, development agreement, subdivision approval, lease, conveyance, or other discretionary approval adopted or approved in violation of this Chapter shall be void and of no force or effect."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.090. Addition of Protected Parks and Open Space Land by City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Notwithstanding Section 21.04.110, the Council may, by ordinance adopted by at least four-fifths (4/5) vote of the full City Council, add parcels or portions of parcels to Exhibit A and Exhibit B as Protected Parks and Open Space Land if the City Council first makes all of the following findings:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The parcel or portion of a parcel has been designated in the General Plan, rezoned, or otherwise formally approved for park, recreation, open space, trail, conservation, or similar public open space purposes;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. The addition of the parcel or portion of a parcel furthers the purposes of this Chapter;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. The addition will not remove, reduce, impair, or diminish the protections applicable to any existing Protected Parks and Open Space Land;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. The parcel or portion of a parcel is suitable for inclusion as Protected Parks and Open Space Land; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "E. The addition is consistent with the General Plan and applicable law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An ordinance adopted pursuant to this section may amend Exhibits A and B solely to add Protected Parks and Open Space Land. No parcel or portion of a parcel may be removed from Exhibit A or Exhibit B, and no protection established by this Ordinance may be reduced, except by approval of the voters as provided in Section 21.04.110."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.100. Interpretation and Conforming Amendments."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Chapter shall be liberally construed to effectuate its purposes. The Cupertino General Plan, Municipal Code, zoning map, specific plans, and other land use regulations shall be interpreted and administered consistently with this Chapter. The City Council may adopt ministerial and non-substantive conforming amendments necessary to implement this Chapter, provided such amendments do not diminish, avoid, or impair the voter approval requirements established herein."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.110. Amendment or Repeal."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Chapter, including Exhibits A and B, may be amended or repealed only by approval of at least two-thirds (2/3) of the voters of the City of Cupertino voting on the question at a general municipal election."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "Section 21.04.120. Consistency with Federal and State Law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Nothing in this Ordinance shall be interpreted or applied to conflict with state or federal law. If state or federal law requires the City to take an action that would otherwise be subject to this Ordinance, the City shall comply with state or federal law while preserving parks and open space to the maximum extent legally feasible.\""
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "EXHIBIT A"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Protected Parks and Open Space Parcels"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "EXHIBIT B"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "APN_SPACE"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Acres"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Description"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "General Plan"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 09 071"
+              ]
+            },
+            {
+              "text": [
+                "0.841664"
+              ]
+            },
+            {
+              "text": [
+                "Franco Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 29 022"
+              ]
+            },
+            {
+              "text": [
+                "6.143306"
+              ]
+            },
+            {
+              "text": [
+                "Cupertino Sports Center"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 10 001"
+              ]
+            },
+            {
+              "text": [
+                "0.049979"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "316 31 041"
+              ]
+            },
+            {
+              "text": [
+                "3.767525"
+              ]
+            },
+            {
+              "text": [
+                "Portal Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 63 004"
+              ]
+            },
+            {
+              "text": [
+                "64.777431"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "359 25 024"
+              ]
+            },
+            {
+              "text": [
+                "6.274621"
+              ]
+            },
+            {
+              "text": [
+                "Jollyman Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "375 23 047"
+              ]
+            },
+            {
+              "text": [
+                "0.282761"
+              ]
+            },
+            {
+              "text": [
+                "Sterling Barnhart Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "359 25 048"
+              ]
+            },
+            {
+              "text": [
+                "1.582618"
+              ]
+            },
+            {
+              "text": [
+                "Jollyman Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "369 15 009"
+              ]
+            },
+            {
+              "text": [
+                "0.2833"
+              ]
+            },
+            {
+              "text": [
+                "Creekside Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 57 048"
+              ]
+            },
+            {
+              "text": [
+                "1.000642"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "362 30 098"
+              ]
+            },
+            {
+              "text": [
+                "3.172869"
+              ]
+            },
+            {
+              "text": [
+                "Three Oaks Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "366 16 052"
+              ]
+            },
+            {
+              "text": [
+                "5.11795"
+              ]
+            },
+            {
+              "text": [
+                "Hoover Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 10 008"
+              ]
+            },
+            {
+              "text": [
+                "19.184379"
+              ]
+            },
+            {
+              "text": [
+                "Blackberry Farm Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 13 035"
+              ]
+            },
+            {
+              "text": [
+                "0.364418"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "369 15 004"
+              ]
+            },
+            {
+              "text": [
+                "0.138535"
+              ]
+            },
+            {
+              "text": [
+                "Creekside Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 15 038"
+              ]
+            },
+            {
+              "text": [
+                "6.183439"
+              ]
+            },
+            {
+              "text": [
+                "Monta Vista Rec Center and Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 09 053"
+              ]
+            },
+            {
+              "text": [
+                "5.014234"
+              ]
+            },
+            {
+              "text": [
+                "Stocklmeir Ranch"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 49 040"
+              ]
+            },
+            {
+              "text": [
+                "0.193332"
+              ]
+            },
+            {
+              "text": [
+                "Somerset Square Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 63 003"
+              ]
+            },
+            {
+              "text": [
+                "0.999773"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 63 005"
+              ]
+            },
+            {
+              "text": [
+                "2.767167"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "366 01 042"
+              ]
+            },
+            {
+              "text": [
+                "19.730546"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 06 014"
+              ]
+            },
+            {
+              "text": [
+                "3.118365"
+              ]
+            },
+            {
+              "text": [
+                "McClellan Ranch West"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 49 036"
+              ]
+            },
+            {
+              "text": [
+                "1.08772"
+              ]
+            },
+            {
+              "text": [
+                "Somerset Square Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 14 005"
+              ]
+            },
+            {
+              "text": [
+                "6.345067"
+              ]
+            },
+            {
+              "text": [
+                "Varian Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 06 018"
+              ]
+            },
+            {
+              "text": [
+                "12.958988"
+              ]
+            },
+            {
+              "text": [
+                "McClellan Ranch Preserve"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 06 019"
+              ]
+            },
+            {
+              "text": [
+                "2.436475"
+              ]
+            },
+            {
+              "text": [
+                "McClellan Ranch Preserve"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "366 01 039"
+              ]
+            },
+            {
+              "text": [
+                "31.00309"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 45 001"
+              ]
+            },
+            {
+              "text": [
+                "2.373857"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "369 10 001"
+              ]
+            },
+            {
+              "text": [
+                "4.854452"
+              ]
+            },
+            {
+              "text": [
+                "Wilson Park East"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "375 23 046"
+              ]
+            },
+            {
+              "text": [
+                "0.215"
+              ]
+            },
+            {
+              "text": [
+                "Sterling Barnhart Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 54 041"
+              ]
+            },
+            {
+              "text": [
+                "7.161978"
+              ]
+            },
+            {
+              "text": [
+                "Quinlan Community Center"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 17 004"
+              ]
+            },
+            {
+              "text": [
+                "0.231509"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "351 10 042"
+              ]
+            },
+            {
+              "text": [
+                "59.894483"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "351 21 009"
+              ]
+            },
+            {
+              "text": [
+                "28.898056"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "351 21 008"
+              ]
+            },
+            {
+              "text": [
+                "0.302449"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "366 42 999"
+              ]
+            },
+            {
+              "text": [
+                "22.727566"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 59 022"
+              ]
+            },
+            {
+              "text": [
+                "0.57477"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 10 007"
+              ]
+            },
+            {
+              "text": [
+                "13.942464"
+              ]
+            },
+            {
+              "text": [
+                "Blackberry Farm Golf"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 10 002"
+              ]
+            },
+            {
+              "text": [
+                "0.624955"
+              ]
+            },
+            {
+              "text": [
+                "22050 STEVENS CREEK BLVD"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "366 29 021"
+              ]
+            },
+            {
+              "text": [
+                "40.105843"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 52 007"
+              ]
+            },
+            {
+              "text": [
+                "1.952337"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "369 15 002"
+              ]
+            },
+            {
+              "text": [
+                "13.238718"
+              ]
+            },
+            {
+              "text": [
+                "Creekside Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 10 008"
+              ]
+            },
+            {
+              "text": [
+                "0.346072"
+              ]
+            },
+            {
+              "text": [
+                "Blackberry Farm Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "369 04 055"
+              ]
+            },
+            {
+              "text": [
+                "0.165051"
+              ]
+            },
+            {
+              "text": [
+                "Wilson Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "369 04 054"
+              ]
+            },
+            {
+              "text": [
+                "5.198585"
+              ]
+            },
+            {
+              "text": [
+                "Wilson Park West"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "356 05 009"
+              ]
+            },
+            {
+              "text": [
+                "11.015778"
+              ]
+            },
+            {
+              "text": [
+                "Deep Cliff Golf Course"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "356 05 003"
+              ]
+            },
+            {
+              "text": [
+                "25.696925"
+              ]
+            },
+            {
+              "text": [
+                "Deep Cliff Golf Course"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "356 05 006"
+              ]
+            },
+            {
+              "text": [
+                "10.927794"
+              ]
+            },
+            {
+              "text": [
+                "Linda Vista Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "356 05 004"
+              ]
+            },
+            {
+              "text": [
+                "16.036059"
+              ]
+            },
+            {
+              "text": [
+                "Deep Cliff Golf Course"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "356 05 005"
+              ]
+            },
+            {
+              "text": [
+                "1.647614"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "359 25 051"
+              ]
+            },
+            {
+              "text": [
+                "1.580679"
+              ]
+            },
+            {
+              "text": [
+                "Jollyman Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "359 25 050"
+              ]
+            },
+            {
+              "text": [
+                "1.737712"
+              ]
+            },
+            {
+              "text": [
+                "Jollyman Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "375 22 001"
+              ]
+            },
+            {
+              "text": [
+                "0.748792"
+              ]
+            },
+            {
+              "text": [
+                "Lawrence Mitty"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 27 030"
+              ]
+            },
+            {
+              "text": [
+                "0.506944"
+              ]
+            },
+            {
+              "text": [
+                "Mary Ave Dog Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "326 29 006"
+              ]
+            },
+            {
+              "text": [
+                "14.615381"
+              ]
+            },
+            {
+              "text": [
+                "Memorial Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 62 001"
+              ]
+            },
+            {
+              "text": [
+                "56.17333"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 59 027"
+              ]
+            },
+            {
+              "text": [
+                "0.555181"
+              ]
+            },
+            {
+              "text": [
+                "Canyon Oak Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 50 019"
+              ]
+            },
+            {
+              "text": [
+                "2.637543"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 50 999"
+              ]
+            },
+            {
+              "text": [
+                "3.310813"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 13 012"
+              ]
+            },
+            {
+              "text": [
+                "16.480105"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "357 07 029"
+              ]
+            },
+            {
+              "text": [
+                "3.453062"
+              ]
+            },
+            {
+              "text": [
+                "22240 SCENIC CIR"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 56 042"
+              ]
+            },
+            {
+              "text": [
+                "0.340264"
+              ]
+            },
+            {
+              "text": [
+                "Little Rancho Park"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "342 48 999"
+              ]
+            },
+            {
+              "text": [
+                "0.20193"
+              ]
+            },
+            {
+              "text": [
+                "Unnamed Property"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "375 21 001"
+              ]
+            },
+            {
+              "text": [
+                "7.065732"
+              ]
+            },
+            {
+              "text": [
+                "Lawrence Mitty"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "503 11 002"
+              ]
+            },
+            {
+              "text": [
+                "78.756124"
+              ]
+            },
+            {
+              "text": [
+                "MidPen"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "503 11 011"
+              ]
+            },
+            {
+              "text": [
+                "30.735095"
+              ]
+            },
+            {
+              "text": [
+                "MidPen"
+              ]
+            },
+            {
+              "text": [
+                "Parks and Open Space"
+              ]
+            }
+          ]
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/733_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "title": "VOTE YES ON MEASURE L—PROTECT CUPERTINO'S PARKS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Right now, Cupertino's parks and open space can be rezoned for housing, offices, or industrial use—without ever asking the voters who use them. One council vote could pave over the playground your kids grew up on, or the trail where you walk your dog every morning."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure L changes that. As Cupertino grows denser, our parks and open space become more valuable than ever—the only places left to gather, play, and breathe. Measure L simply asks: shouldn't a decision this big be made by the people, not just five council members?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure L requires two-thirds voter approval before:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Any park, parkland, or open space is rezoned to residential, commercial, or industrial use"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Any residential, commercial, or industrial development is built on protected parkland"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure L does NOT stop the City from:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Building playgrounds, trails, sports fields, and park improvements"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Restoring habitat and creeks, reducing wildfire risk, and protecting the environment"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This isn't about blocking progress—it's about making sure decisions on shared community resources are made together, by the people who actually use them. Our parks belong to every resident, every family, every kid learning to ride a bike, and the wildlife that calls them home. Once they're gone, they're gone."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join our current and former Mayors and City Council, sports leagues, hospitality, environmental, business, health, education, and community leaders across Cupertino."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE YES ON MEASURE L—KEEP CUPERTINO'S PARKS IN THE PEOPLE'S HANDS."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Kitty Moore",
+          "title": "Cupertino Mayor"
+        },
+        {
+          "name": "Sheila Mohan",
+          "title": "Cupertino Councilmember"
+        },
+        {
+          "name": "Claudio Bono",
+          "title": "Pres. Cup. Chamber"
+        },
+        {
+          "name": "Hemant Buch",
+          "title": "Pres. Cal. Cricket"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/733_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

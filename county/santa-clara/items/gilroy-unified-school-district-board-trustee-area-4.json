@@ -1,0 +1,79 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Gilroy Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:02Z",
+  "candidates": [
+    {
+      "choice": "Jane Stevens",
+      "statement": {
+        "by": "Jane Stevens",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Retired Registered Nurse\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 70"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 46 years, Gilroy has been my home─the community where I raised my two daughters, built a 26-year career as a registered nurse, and watched my children and grandchildren put down roots."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My nursing career included caring for newborns in intensive care, emergency room patients, expectant mothers, and people managing diabetes. For my final 13 years, I served patients at Kaiser Permanente in Gilroy. Nursing taught me to listen, advocate, solve problems, and care for people in challenging moments."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Service has always mattered to me. I have served through Girl Scouts, Lions Club, our schools, and as a docent at Gilroy Gardens. Today, I advocate for two grandsons with special needs. This has shown me how important it is for every child to receive the support needed to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trustee, I will advocate for student resources, support our teachers, and ensure students with special needs receive the services and opportunities they deserve. I will listen to parents, educators, and our community while making thoughtful decisions centered on students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I love Gilroy─our families, our schools, and our sense of community. I respectfully ask for your vote and the opportunity to serve students, families, and community as your school board trustee."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3661_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

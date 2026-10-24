@@ -1,0 +1,1198 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Milpitas — Measure K",
+    "kind": "measure",
+    "jurisdiction": "us/ca/milpitas",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "City of Milpitas Local Funding Measure."
+            ]
+          },
+          " Shall an ordinance to update City of Milpitas's 50-year-old business tax be adopted, with no tax increase to residents, so small businesses pay less than larger businesses, with all paying an annual flat rate, plus 0.025% to 0.035% of gross receipts for larger businesses, providing approximately $3,000,000 annually for general city services such as maintaining fiscal stability, neighborhood safety/cleanliness; requiring public disclosure, all funds invested locally, until ended by voters?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote adopts the new gross receipts business tax to replace the existing tax."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote rejects the new gross receipts business tax and keeps the existing tax."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure K seeks voter approval of an ordinance that replaces the City's current business tax with a new tax based on gross receipts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Currently, the City's uses a business tax formula that was adopted in 1976. It requires each business to pay an amount based on its relevant industry (e.g. \"retail,\" \"manufacturing,\" \"beauty salon,\" etc.) and its number of employees. Neither the rates nor the categories of businesses have been updated since."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The proposed ordinance would replace the existing per-employee formula with a gross receipts model. Each business would pay a tax based on the gross receipts it earned from operating in Milpitas. Gross receipts (as defined in the ordinance) include all money that a business takes in, without deducting expenses. It does not include things like refunds or deposits that the business does not earn."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The table below shows the formula for the new tax. Each business would pay a flat rate ranging from $25 to $400 based on the tier in which its gross receipts fall. Additionally, businesses making more than $700,000 would pay a rate ranging from 0.025% to 0.035% of that portion of their gross receipts falling in the top three tiers. The flat rate would increase automatically each year with inflation."
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "BUSINESS TAX SCHEDULE"
+              ]
+            }
+          ],
+          [
+            {
+              "header": true,
+              "text": [
+                "Gross Receipts"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Flat Rate"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Gross Receipts Rate"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Under $25,000"
+              ]
+            },
+            {
+              "text": [
+                "$25"
+              ]
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": [
+                "$25,000 to $100,000"
+              ]
+            },
+            {
+              "text": [
+                "$115"
+              ]
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": [
+                "$100,000 to $250,000"
+              ]
+            },
+            {
+              "text": [
+                "$250"
+              ]
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": [
+                "$250,000 to $700,000"
+              ]
+            },
+            {
+              "text": [
+                "$400"
+              ]
+            },
+            {
+              "text": []
+            }
+          ],
+          [
+            {
+              "text": [
+                "$700,000 to $10,000,000"
+              ]
+            },
+            {
+              "text": [
+                "$400"
+              ]
+            },
+            {
+              "text": [
+                "$0.25 per $1,000"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "$10,000,000 to $25,000,000"
+              ]
+            },
+            {
+              "text": [
+                "$400"
+              ]
+            },
+            {
+              "text": [
+                "$0.30 per $1,000"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Over $25,000,000"
+              ]
+            },
+            {
+              "text": [
+                "$400"
+              ]
+            },
+            {
+              "text": [
+                "$0.35 per $1,000"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The ordinance also includes provisions governing the administration of the tax, including processes for annual collection, delinquencies, penalties and interest, appeals and refunds, inspection and audit, and enforcement. It specifies certain businesses, like non-profits, that are exempt from the tax. If approved, the new tax would go into effect January 1, 2028."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proceeds of the new tax would continue to be (i) deposited in the City's general fund, (ii) annually audited and publicly reported in the City's annual audit, and (iii) available for any lawful municipal purpose. Most services provided by the City, such as police/fire/ambulance services, street and sidewalk repair services, and park and recreation services, are funded from the general fund. The general fund budget, and expenditures from the general fund, are controlled locally by the Milpitas City Council."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure was placed on the ballot by the City Council of the City of Milpitas."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The above statement is an impartial analysis of Measure K. If you desire a copy of the measure, please call the elections official's office at 408.586.3005 and a copy will be mailed at no cost to you."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Christian M. Curtis\nCity Attorney"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Let's keep our neighborhoods safe and clean by making large businesses and corporations pay their fair share: Vote Yes on K!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure K does not raise taxes for residents or homeowners."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Right now, small and locally owned businesses have a higher tax rate than larger, wealthier corporations—in some cases, over 70 times more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This is simply not fair! And we have the power to make it right."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Voting Yes on K fixes this inequity by ensuring large corporations finally pay their fair share for the essential services we all rely on."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yes on K reforms our business tax structure that's over 50 years old to make it fair for small business, while providing our community with local funding to maintain our quality of life—without raising taxes for residents."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yes on K maintains our vital city services and fiscal stability."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yes on K maintains emergency medical and ambulance services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yes on K replaces aging water and sewer lines, and repairs storm drains."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Yes on K keeps neighborhood streets and sidewalks clean and well-maintained and removes blight and illegal dumping."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "With Washington and Sacramento politicians cutting funding for our city, our critical services—including 911 emergency response and street repair—are at stake."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That's why it's more important than ever that we remain self-reliant. ",
+            {
+              "strong": [
+                "Every penny of Measure K is for our community and must be reinvested locally to benefit Milpitas residents."
+              ]
+            },
+            " No money can be taken by out-of-town politicians."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure K continues Milpitas' high standards for ",
+            {
+              "strong": [
+                "fiscal accountability"
+              ]
+            },
+            " and transparency with independent audits and public disclosure of all spending."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join Milpitas small business owners, firefighters, police officers, community leaders and a unanimous City Council in voting Yes on K!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "For official information about Measure K: www.Milpitas.gov"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mario Bena",
+          "title": "IAFF Local 1699 President"
+        },
+        {
+          "name": "Brian Thanh",
+          "title": "MPOA-President"
+        },
+        {
+          "name": "Steve Roberts",
+          "title": "Small Business Owner"
+        },
+        {
+          "name": "Martha C. Perez",
+          "title": "Owner/President"
+        },
+        {
+          "name": "Kimberly Paras",
+          "title": "Small Business Owner"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Stop this huge new tax hike!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Beware: Proponents' claims about \"fair shares\" and \"inequity\" completely ignore reality:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                {
+                  "em": [
+                    "Businesses don't pay taxes."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Businesses create jobs, goods, services that ",
+                {
+                  "em": [
+                    "we need and value"
+                  ]
+                },
+                "."
+              ]
+            },
+            " To do so, they have countless expenses and considerations."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Taxes are just one cost of doing business, which owners ",
+            {
+              "strong": [
+                "must pass along."
+              ]
+            },
+            " To ",
+            {
+              "em": [
+                "stay"
+              ]
+            },
+            " in business, they pass costs along to..."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Customers (higher prices);"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Employees (lower wages); or"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Shareholders (lower returns on investments—our 401(k)s!)"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Proponents' claim that Measure K would benefit small businesses is absurd."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "MAYBE"
+              ]
+            },
+            " a ",
+            {
+              "strong": [
+                "FEW sole proprietorships"
+              ]
+            },
+            " would forfeit ",
+            {
+              "em": [
+                "slightly"
+              ]
+            },
+            " less in business license taxes, but ",
+            {
+              "strong": [
+                "when their larger suppliers are taxed ",
+                {
+                  "em": [
+                    "more,"
+                  ]
+                },
+                " the small businesses' costs rise accordingly"
+              ]
+            },
+            "—thus, the prices ",
+            {
+              "em": [
+                "they"
+              ]
+            },
+            " charge ",
+            {
+              "em": [
+                "us"
+              ]
+            },
+            "! (Remember: ",
+            {
+              "em": [
+                "Businesses don't pay taxes"
+              ]
+            },
+            ".)"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don't trust politicians"
+              ]
+            },
+            " who neglect \"vital city services\" like \"aging water and sewer lines,\" then have the nerve to ",
+            {
+              "strong": [
+                "stoke envy"
+              ]
+            },
+            " and ",
+            {
+              "strong": [
+                "penalize businesses"
+              ]
+            },
+            " to cover for their lack of planning."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "It's incredible how well businesses' goods, services, and jobs enhance our lives."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But the ",
+            {
+              "strong": [
+                "cost of living"
+              ]
+            },
+            " here is ",
+            {
+              "strong": [
+                "already ",
+                {
+                  "em": [
+                    "too high"
+                  ]
+                }
+              ]
+            },
+            ". Gas, groceries, rent—",
+            {
+              "strong": [
+                "nothing seems affordable!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "And if Measure K passes, Milpitas business owners, suffering when burdensome taxation costs push customers away, may relocate to cities who won't penalize them."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don't tax"
+              ]
+            },
+            " what you want ",
+            {
+              "em": [
+                "more"
+              ]
+            },
+            " of."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Want more goods and services, priced lower, and jobs, at higher salaries?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Let's not penalize our job and product providers!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Visit SCCLP.org and SVTaxpayers.org. Silicon Valley Taxpayer Association's volunteers support taxpayers throughout Santa Clara County."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Elizabeth C. Brierly",
+          "title": "Director, Silicon Valley Taxpayers Association"
+        },
+        {
+          "name": "Joe Dehn",
+          "title": "Chair, Libertarian Party of Santa Clara County"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Stop this huge new tax hike!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "City of Milpitas councilmembers are letting their greed show. Either that, or they don't understand the reality:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Businesses don't pay taxes."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "What?!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Businesses ",
+            {
+              "strong": [
+                "create jobs, and goods that we value"
+              ]
+            },
+            ", and services we need. But they have ",
+            {
+              "strong": [
+                "countless expenses"
+              ]
+            },
+            " and considerations, to accomplish all that."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "You ask: How can it be that businesses \"don't pay taxes\"?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Taxes are just another cost of doing business, which owners ",
+            {
+              "strong": [
+                "must pass along, to ",
+                {
+                  "em": [
+                    "stay"
+                  ]
+                },
+                " in business"
+              ]
+            },
+            ". They pass costs along to..."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Customers, through higher prices;"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Employees, through lower wages/salaries; or"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Shareholders, through lower returns on investments (",
+                  {
+                    "em": [
+                      "e.g."
+                    ]
+                  },
+                  ", our 401(k)s or IRAs!)"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Remember the gigantic tariffs on imported electronics? how our favorite gadgets' prices spiked?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Gadget businesses ",
+            {
+              "em": [
+                "necessarily"
+              ]
+            },
+            " ",
+            {
+              "strong": [
+                "passed the tariff expense along to us"
+              ]
+            },
+            ", through ",
+            {
+              "strong": [
+                "higher prices."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "That illustrates a fundamental law of economics—like gravity. But it's not just economists who feel those effects in everyday activities, like shopping or filling up the tank."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The ",
+            {
+              "strong": [
+                "cost of living"
+              ]
+            },
+            " here is ",
+            {
+              "strong": [
+                "already ",
+                {
+                  "em": [
+                    "too high"
+                  ]
+                }
+              ]
+            },
+            ". ",
+            {
+              "strong": [
+                "Nothing seems affordable!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Businesses ",
+            {
+              "strong": [
+                "create goods and services"
+              ]
+            },
+            " that ",
+            {
+              "em": [
+                "people want."
+              ]
+            },
+            "\nBusinesses ",
+            {
+              "strong": [
+                "create jobs"
+              ]
+            },
+            " that ",
+            {
+              "em": [
+                "people want."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Their outputs are ",
+            {
+              "em": [
+                "amazing"
+              ]
+            },
+            "—enhancing so many lives."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don't trust politicians"
+              ]
+            },
+            " who would penalize businesses—the engine of our extraordinary standard of living—in order to fund pet projects."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If Measure K passes, Milpitas business owners who fall behind because skyrocketing taxation pushes customers away, may hatch plans to relocate to cities that appreciate them more."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don't tax"
+              ]
+            },
+            " what you want ",
+            {
+              "em": [
+                "more"
+              ]
+            },
+            " of."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Want more goods and services available at lower prices? Want more jobs to be available, at higher wages/salaries? Then please:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Let's not penalize job and product providers! They help ",
+                {
+                  "em": [
+                    "us"
+                  ]
+                }
+              ]
+            },
+            ", immeasurably, ",
+            {
+              "strong": [
+                "every day."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                {
+                  "em": [
+                    "Now let’s help them:"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote ",
+                {
+                  "em": [
+                    "NO!"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Silicon Valley Taxpayer Association's volunteers advocate for taxpayers ",
+            {
+              "em": [
+                "throughout"
+              ]
+            },
+            " Santa Clara County.\nVisit ",
+            {
+              "em": [
+                "SVTaxpayers.org."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Elizabeth C. Brierly",
+          "title": "Director, Silicon Valley Taxpayers Association"
+        },
+        {
+          "name": "Joe Dehn",
+          "title": "Chair, Libertarian Party of Santa Clara County"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Apparently, out-of-town Special Interest groups either haven't done their homework, or worse—don't want large corporations to pay their fair share! Reject their lies—vote YES on K."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Milpitas's small, locally owned businesses shouldn't be stuck with a higher tax rate than Big Corporations. While opponents play politics, YES on K provides a solution to an unfair tax system."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The TRUTH is:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "FACT: Measure K simply reforms an outdated, 50-year-old business tax structure."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "FACT: Currently, some Milpitas small businesses pay 70 times higher in business tax per employee than Big Corporations! Measure K fixes this inequity, so corporations pay their fair share for the services we ALL use."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "FACT: Measure K lowers taxes for the smallest businesses."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "FACT: Measure K does NOT raise taxes on residents and homeowners."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Measure K was developed with the input of small businesses to reform a structure currently unfair to them."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Large corporations use 911 and Milpitas streets just like us. Yet Milpitas residents and small businesses are shouldering an unfair share of costs for these services."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "It's time we ask Big Business to pay their fair share!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Measure K is fiscally accountable and transparent to our residents and business community. Every dollar must be reinvested locally and is subject to independent audits and public disclosure of all spending."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Reject political rhetoric, support Milpitas's small businesses, and maintain the quality of life for Milpitas families during these tough times."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "To read official Measure K information: www.Milpitas.gov."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Steve Roberts",
+          "title": "Local Small Business Owner"
+        },
+        {
+          "name": "Martha C. Perez",
+          "title": "Local Small Business Owner"
+        },
+        {
+          "name": "Kimberly Paras",
+          "title": "Local Small Business Co-Owner"
+        },
+        {
+          "name": "Norma Morales",
+          "title": "Community Leader"
+        },
+        {
+          "name": "Laura Thor",
+          "title": "Tax Payer"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

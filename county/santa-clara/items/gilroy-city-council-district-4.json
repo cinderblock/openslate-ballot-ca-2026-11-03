@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Gilroy City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/gilroy",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:29Z",
+  "candidates": [
+    {
+      "choice": "Diana Sanchez Bentz",
+      "statement": {
+        "by": "Diana Sanchez Bentz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Specialist Paralegal"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am Diana Sanchez Bentz, born and raised in Gilroy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for District 4 City Council because I believe I come to the table with a background that will ensure District 4 has someone representing who understands what it takes to grow up here, raise a family, be civically engaged and make positive changes to improve life in Gilroy for our kids, our elders and ourselves. My broad philosophy is to do all the good you can, for as many people as you can, in every way you can, and for as long as you can."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe an effective leader listens before leading, I will listen to residents and then come up with practical solutions. Throughout my 40-year career as a Specialist Paralegal, I've demonstrated the ability to distill information to get to a logical solution."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have a blend of legal work and community service that make me uniquely qualified to represent District 4. Therefore, I'm asking for your vote on November 3rd!"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3740_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Fred Tovar",
+      "statement": {
+        "by": "Fred Tovar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Higher Education Administrator/Community Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over 20 years, I've dedicated myself to serving Gilroy through education and public service. During this time I've served on the Gilroy Unified School District Board, the Gilroy City Council, and the San José/Evergreen Community College Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On Council, I prioritized public safety, downtown revitalization, support for small business and responsible fiscal stewardship. I championed Gilroy's downtown pop-up park and lighting enhancements. I also established Farm Workers Day, helped open a school health clinic and advocated for School Resource Officers in our schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2025 I was honored to receive the Gilroy Police Officers' Association Stanley P. Delvin Award and to have earned the endorsement of the Gilroy Police Officers' Association and the IAFF Local 2805 Gilroy Firefighters Association during my service on Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will bring forward solutions that benefit our community. I'll work collaboratively to improve public safety and safer neighborhoods; support measures that reduce red tape for small businesses; fight for transparency and accountability from local government, better city services and responsible growth. I respectfully ask for your vote to represent District 4. Gilroy deserves experienced leadership that listens, delivers results, represents your needs and puts our community first."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3741_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Morgan Hill Unified School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:04Z",
+  "candidates": [
+    {
+      "choice": "Nancy Altman-Palm",
+      "statement": {
+        "by": "Nancy Altman-Palm",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Retired Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was a Special Education teacher for 19 years and Assistant Principal for 4 years at Britton Middle School. While a teacher, I was head girls' basketball coach for 15 years, department chair for 16 years, and served as union rep for 12 years. As a parent, I've experienced the schools from Kindergarten through high school graduation and faced the issue of having one child whose needs were not met by the schools. One goal as a board member is to set policy for schools to adequately meet all students' needs, academically and socially/emotionally. Our schools must allow all students to be on a pathway to achieving their fullest potential as adults by being prepared for college, military service, a job, or career training."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an incumbent, I have opposed the perpetuation of deficit spending, which imperils opportunities for our students' future education. I am working for fiscal transparency and meaningful parent/community/staff and student engagement. As I am a strong supporter of teachers, Morgan Hill Federation of Teachers (teacher union) has again endorsed me for trustee. I stand for: Student success, Fiscal responsibility, Transparency, Staff and Community Engagement."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3666_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Jason Amezcua",
+      "statement": {
+        "by": "Jason Amezcua",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Father/College Educator\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 49"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My connection to Morgan Hill Unified is lived every day: I am the proud father of a recent graduate and two current students, and my wife works directly with our students with special needs as a district paraprofessional. We see firsthand the incredible work happening in our schools, the opportunities ahead, and the tremendous value of our dedicated teachers, staff, and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a college Dean, a Leadership Morgan Hill board member, and Chamber of Commerce Ambassador, I've built partnerships, supported local businesses, and strengthened community connections. These experiences have prepared me to listen thoughtfully, steward finances responsibly, and always put students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I will bring an active parent's perspective and a community leader's commitment to transparency, accountability, and student wellness. I will champion safe schools, expanded mental health resources, and strong academic standards. Our schools must continue to prepare every child for life beyond the classroom by providing clear, robust pathways toward university, community college, military service, apprenticeships, or skilled trades."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can build on our strengths empowering every student to Learn. Belong. Lead. I respectfully ask for your vote for MHUSD Governing Board, Trustee Area 1. You learn more at: https://www.facebook.com/Jason4MHUSD1/"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3667_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

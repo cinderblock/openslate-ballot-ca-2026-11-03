@@ -1,0 +1,79 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "US House of Representatives, California District 16",
+    "kind": "race",
+    "jurisdiction": "us/ca/cd-16",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:55Z",
+  "candidates": [
+    {
+      "choice": "Sam Liccardo",
+      "statement": {
+        "by": "Sam Liccardo",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " United States Representative\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 56"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since Sam Liccardo began serving you in Congress last year, he has worked tirelessly to reduce our cost of living and get things done, while battling to protect our constitutional rights and the rule of law."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Overcoming Congress' deep divisions, Sam authored and led passage of four bipartisan bills to make housing more affordable. He cosponsored measures to halt our costly war abroad, and to eliminate price-inflating tariffs. Sam authored bipartisan legislation—stalled by GOP leadership—to reduce health insurance premiums, convert vacant office buildings into housing, eliminate hidden bank fees, and stop government seizures of seniors' savings."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sam Liccardo also secured tens of millions of dollars for 15 local projects to reduce homelessness, bolster infrastructure, and improve public safety, while his team recovered $6,676,484 for constituents by resolving 3,095 complaints with federal agencies. He launched community initiatives to reduce fire vulnerability and insurance premiums, and halt construction of ICE detention facilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sam Liccardo has also led the fight against this administration's chaos, cruelty, and corruption. He authored legislation to prohibit Donald Trump's crypto fraud, protect cities from lawless ICE and military enforcement, and empower citizens against the outrageous cuts to the services and benefits that our veterans, seniors, students, and families have earned. As a former criminal prosecutor, Sam will continue fighting to defend reproductive rights and voting rights, and protect funding for Social Security, Medi-Cal, and CalFresh."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your partnership, Sam Liccardo can do even more for our community in his second term. Learn more at SamLiccardo.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3638_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

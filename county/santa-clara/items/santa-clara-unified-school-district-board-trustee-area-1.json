@@ -1,0 +1,158 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara Unified School District Board, Trustee Area 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:09Z",
+  "candidates": [
+    {
+      "choice": "Jim Canova",
+      "statement": {
+        "by": "Jim Canova",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let me finish what we started together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over thirty years, serving the students, families, and educators of Trustee Area 1 has been the honor of my life. I am asking for the privilege of another term."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 1996, I played an integral role in the development of Don Callejon School, the first step in our vision that the district's future growth lay north of Bayshore. That vision became reality. I testified in Sacramento as an advocate for the acquisition of the Agnew campus property. Abrams Elementary, Huerta Middle School, and McDonald High School stand as the fulfillment of that promise, two decades in the making."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have fought to protect our neighborhoods, keep our schools strong, and ensure Alviso and our First Street communities always have a voice at the table."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our work is not finished."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsed by: U.S. Congressman Ro Khanna (CA-17); State Senator Aisha Wahab (SD-10); Assemblymember Patrick Ahrens (AD-26); Assemblymember Alex Lee (AD-24); County Supervisor Otto Lee; City Councilmember David Cohen; Water District Director Richard Santos."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3682_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Kamal Yassin",
+      "statement": {
+        "by": "Kamal Yassin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Technical Program Manager"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For 25 years, Santa Clara has been my home. My three children attend our local schools, and a fourth starts next year. This district isn't a talking point for me—it's my daily life. I know firsthand what our schools do right and where we must improve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for Trustee, Area 1, to provide the experienced, steady leadership our students deserve. My priorities are clear:"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Put Students First: Center every board decision on student success and well-being."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Elevate Academics: Raise the bar for educational excellence across all grade levels."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Support Educators: Protect and empower the teachers and staff who show up for our kids daily."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fiscal Integrity: Manage our budget transparently so every dollar directly reaches the classroom."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a professional with an MS in Electrical Engineering, an MBA, and over 20 years of experience solving complex problems in engineering, product management, and business, I know how to cut through gridlock, unite people, and deliver results. I will bring that same practical, get-it-done approach to the school board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Clara has given my family so much. I am ready to give back with the time, focus, and dedication this community deserves. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3683_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

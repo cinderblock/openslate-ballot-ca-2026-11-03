@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Side Union High School District Board, Trustee Area 1 (Short Term)",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:10Z",
+  "candidates": [
+    {
+      "choice": "Mer Curry Nuñez",
+      "statement": {
+        "by": "Mer Curry Nuñez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Education Consultant/Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running to serve Alum Rock as Trustee for East Side Union High School District Area 1. With ESUHSD's shift to by-trustee area elections, our community finally has the chance to choose a representative who truly reflects who we are."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public education is in a period of rapid change: recovery from the pandemic, mental health needs, evolving college and career pathways, and new demands on teachers and staff. In this new landscape, we need a fresh lens on the school board—one that centers equity, representation, and student voice in every decision."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an ESUHSD alumni and a longtime advocate for education and our community. For over two decades, I've supported students and adults in accessing college and career pathways. My work has always been about listening to people and working together to find solutions. I have experience in leadership, working with diverse groups, and shaping policies that reflect the values of the East Side and support student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This moment calls for a public servant ready to meet it. On the ESUHSD Board, I will work to ensure that every trustee area—starting with Alum Rock—has the resources, representation, and respect our students and families deserve. merforeastside.com I @merforeastside"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3684_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Paul Pham",
+      "statement": {
+        "by": "Paul Pham",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " School District Auditor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Ready on Day 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our schools need a financial watchdog who brings financial common sense and honest accountability to the public, not a career politician learning on the job. My commitment to our youth is deeply personal. Arriving as an immigrant child, I entered the foster care system alone. Because this community chose to believe in me, I built a successful life here. As an ESUHSD parent whose children graduated from our schools, I understand our district's challenges firsthand."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I am a Certified Public Accountant who audits school districts, cities, and nonprofits. As Chair of the ESUHSD Citizens Bond Oversight Committee, I am the only candidate in this race Ready on Day 1. I have dedicated years of volunteer service to East Side families to ensure every tax dollar is spent wisely and transparently."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our district faces massive structural budget challenges and a heavy deficit. I will audit administrative bloat, protect classroom resources, and fight to keep our neighborhood schools open for our working families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote. Muchas gracias, Cám ơn, Salamat, and thank you for your support."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join us at paulpham.org and together we can deliver results for the next generation."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3685_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cupertino Sanitary District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:55Z",
+  "candidates": [
+    {
+      "choice": "Gilbert Wong",
+      "statement": {
+        "by": "Gilbert Wong",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My father immigrated to California and worked as a plumbing and sewer contractor serving Cupertino, San Jose and Saratoga. From him, I learned the importance of reliable infrastructure, responsive service, and addressing problems before they become expensive emergencies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a California native, small business owner, and residential property manager with 24 years of experience. I earned degrees in business management and business administration, with an emphasis in finance and real estate."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served our community as a Cupertino councilmember, twice as mayor, as a planning commissioner, and as a Foothill-De Anza Community College District trustee. This experience has prepared me to review budgets, oversee public resources, and represent ratepayers effectively. I have the experience and empathy to lead."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Cupertino Sanitary District director, I will scrutinize spending and regional treatment costs, keep rates as affordable as possible, support timely maintenance and infrastructure upgrades, and ensure responsive customer service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to be endorsed by State Senator Josh Becker, County Supervisor Margaret Abe-Koga, Saratoga Councilmember and West Valley Sanitation District Director Yan Zhao, and CUSD Board President Satheesh Madhathil. I respectfully ask for your vote!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "http//:www.GilbertSWong.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3818_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Campbell City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/campbell",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:25Z",
+  "candidates": [
+    {
+      "choice": "Joseph \"Joe\" Brenner",
+      "statement": {
+        "by": "Joseph \"Joe\" Brenner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Small Business Owner\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 36"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Decades working in family-owned businesses have given me a strong work ethic, and my experience in the nonprofit sector has taught me that every problem has a solution if you're creative enough. Both of those traits will be essential for City Council as we secure Campbell's financial future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fresh perspectives will enable us to responsibly adapt the state's housing mandates to fit our existing small-town charm. New ideas are necessary to make sure we have the revenue not just to maintain our excellent community service programs, but also to fund ambitious projects like the new aquatics center. Let's keep Campbell dollars in Campbell by attracting new businesses and better supporting the needs of those already here. This way we can sustainably increase our revenue base without raising tax rates."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work to ensure that our city remains the welcoming environment to raise a family that we all enjoy. I am committed to prioritizing public safety, championing our small business community, and transparent, principled government that puts the needs of residents first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in this town learning how to build as a tradesman. Campbell, let's see what we can build together."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3728_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Dan Furtado",
+      "statement": {
+        "by": "Dan Furtado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " City Councilmember/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Doctor of Pharmacy (UC)\nMaster of Public Administraction (USF)\nU.S. Army Veteran"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In today's tough economy, experience matters. As your current Mayor/D3 Councilmember, I've devoted myself to securing the results you expect and deserve: protecting Campbell's small town character, quality of life, and core services: protecting 911 response, maintaining local parks, and supporting Campbell's small business community, all while ensuring your views are reflected in City decision-making. I fight for Campbell's interests on county boards such as the Housing Trust, Emergency Operations Council, and Library Joint Powers Authority."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Campbell native, my priority is maintaining our family-friendly quality of life. I ask for your vote to continue to maintain our streets/sidewalks, preserve our libraries, parks, and recreation centers, and keep Campbell a safe place to live, run a business, and raise a family. In today's digital age, I'll continue to focus on giving our youth opportunities for sports and recreation, so children keep active and learning, especially after school and in the summertime."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm honored to be endorsed in my re-election by Congressman Liccardo, Board of Supervisors President Lee, Santa Clara County mayors, fellow councilmembers, small business owners, and Campbell residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join us: DanFurtado.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For help: dan@danfurtado.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3729_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

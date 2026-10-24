@@ -1,0 +1,215 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Morgan Hill — Measure A",
+    "kind": "measure",
+    "jurisdiction": "us/ca/morgan-hill",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:56Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the office of the City Treasurer be appointive?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/722_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote on Measure A will make the City Treasurer position appointive."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/722_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote on Measure A means the City Treasurer will continue to be elected by the voters."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/722_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "State law requires general law cities, including the City of Morgan Hill, to have a City Treasurer. The position may be elected or appointed. In Morgan Hill, voters currently elect the City Treasurer every four years. The current City Treasurer's term ends in 2028."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If this measure is approved, the City Treasurer would become an appointed position upon expiration of the current Treasurer's term in 2028, or earlier if a vacancy occurs. If the measure is approved, the City Manager would appoint the City Treasurer, based on their experience and ability."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Under state law, an elected City Treasurer must be at least 18 years old, reside in the city, and be registered to vote in the city. There are no minimum educational or professional qualifications for the elected position."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Treasurer is responsible for overseeing the City's treasury functions, including the collection and safeguarding of City funds. The City's Finance Director and Finance Department currently perform most day-to-day treasury operations, including banking, investments, accounting, debt management, and financial reporting. The City's financial operations are also subject to internal controls and independent audits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If the measure is approved, the city estimates savings of approximately $40,000 annually in personnel costs and approximately $15,000 in election costs every four years."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Elisa Tolentino\nCity Attorney"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/722_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure A",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "ATTACHMENT A"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "ORDINANCE NO._, NEW SERIES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "AN ORDINANCE OF THE CITY OF MORGAN HILL\nAUTHORIZING THE CITY MANAGER TO APPOINT\nTHE CITY TREASURER"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "THE PEOPLE OF THE CITY OF MORGAN HILL DO ORDAIN AS FOLLOWS:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 1:"
+            ]
+          },
+          " At the expiration of the existing term of the City Treasurer of the City of Morgan Hill, the City Manager shall appoint the City Treasurer on the basis of their experience and ability. The City Treasurer shall hold office at the pleasure of the City Manager."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 2."
+            ]
+          },
+          " Severability. If any part of this Ordinance is held to be invalid or inapplicable to any situation by a court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance or the applicability of this Ordinance to other situations."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "SECTION 3"
+            ]
+          },
+          ". Effective Date; Posting. This ordinance shall take effect on the 31st day after the certification of the election results."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/722_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A YES vote on Measure A will modernize the process by which Morgan Hill selects its City Treasurer by ensuring the position is filled based on professional qualifications, experience, and expertise."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "When Morgan Hill was incorporated in 1906, electing a City Treasurer was common practice. Today, municipal finance has become highly specialized and technical. The City Treasurer oversees important treasury functions that help safeguard public funds and support the City's long-term financial health. These responsibilities require expertise in public finance, investments, banking, accounting, debt management, and compliance with complex state laws."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure A authorizes the City Manager to appoint a qualified professional for this important office."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Most California cities, including every city in Santa Clara County, already appoint their City Treasurer. Measure A aligns Morgan Hill with this proven approach."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Professional financial oversight will continue through experienced finance staff, independent audits, strong internal controls, regular financial reporting, and City Council oversight."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The measure will also reduce ongoing personnel and election costs, allowing taxpayer dollars to be used more efficiently while maintaining the high standards residents expect."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A YES vote is a vote for qualified leadership, responsible stewardship of public funds, and efficient local government."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES on Measure A."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark Turner",
+          "title": "Mayor"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/722_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

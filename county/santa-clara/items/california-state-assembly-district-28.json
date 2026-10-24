@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 28",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-28",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:58Z",
+  "candidates": [
+    {
+      "choice": "Gail Pellerin",
+      "statement": {
+        "by": "Gail Pellerin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " State Assemblymember\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 64"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It has been an honor to serve the communities of California's 28th Assembly District, representing portions of Santa Clara and Santa Cruz counties. I am proud of what we've accomplished together. I'm running for re-election because our communities deserve experienced leadership that delivers results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chair of the Assembly Elections Committee, and with more than 27 years of experience as Santa Cruz County's former Chief Elections Official, I am working to ensure California remains the gold standard for secure, accurate, transparent, and accessible elections. Protecting democracy is foundational to addressing every other challenge we face."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve on the Appropriations, Business and Professions, Education, Natural Resources and Privacy and Consumer Protection committees, and as Chair of the Select Committee on California's Mental Health Crisis. From strengthening oversight and accountability of state programs, to advancing consumer protections, protecting our children from the evolving influence of Al, safeguarding our coast and natural resources, and expanding access to affordable, quality mental health care—my focus is on making government work better for the people it serves."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our communities are facing urgent challenges: housing and homelessness, affordability and cost-of-living pressures, access to health and mental health care, economic opportunity, climate and wildfire resilience, water security, and public safety—made even more difficult by federal funding cuts that threaten our most vulnerable residents. I will continue to fight for responsible budgets, smart investments, and strong accountability to ensure resources reach those who need them most."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so I can continue partnering with you to deliver real results for the 28th Assembly District—www.gailpellerinforassembly.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3648_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Carol Pefley",
+      "statement": {
+        "by": "Carol Pefley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Small Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I never planned to run for office, but I can't sit quietly while Sacramento forces sweeping building mandates onto our towns without giving us a voice. Despite years of state housing mandates, affordability has not improved and families continue to be priced out."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent, I've seen our public schools drift away from teaching the basic academic skills children need. As a small-business owner, I see how state-imposed regulations, higher taxes, and fees make it harder for businesses and working families to stay here. I've watched one-size-fits-all laws reshape our neighborhoods, bypassing local input."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Government should make life easier, not harder. I'm committed to supporting working families, small businesses, and the residents of District 28. Too many decisions coming from Sacramento accelerate overdevelopment, strain our infrastructure, and ignore the needs of our district. I believe in responsible, coordinated growth that works with communities, not sweeping mandates that override local planning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm working towards a future where families can thrive and where the next generation can still achieve the American Dream. Let's restore balance, lower the cost of living, refocus education on core skills, ensure safe streets, and return decision-making to our local communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I promise to put our families first. I will not be influenced by corporate interests or donors who don't understand our communities. My commitment is to fight to ensure that the people who live here have a real say in our future. www.carolpefleyforassembly.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3649_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Midpeninsula Regional Open Space District Board, Ward 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:55Z",
+  "candidates": [
+    {
+      "choice": "Craig Gleason",
+      "statement": {
+        "by": "Craig Gleason",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Incumbent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm honored to have served as your Ward 1 Director on the Midpeninsula Regional Open Space District Board since 2023, representing Los Gatos, Saratoga, Monte Sereno, parts of Cupertino, and the open lands south to Mt. Umunhum and Loma Prieta. In this time, Ward 1 has made significant progress on Measure AA projects—restoration and public access at Bear Creek Redwoods Open Space Preserve and advancing planning and design for the Highway 17 wildlife and trail crossings."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I advocate for high-quality public access, including accessible trails, and for projects that pair ecological restoration with great outdoor experiences. As a frequent volunteer for land and trail stewardship, I work directly alongside Midpen staff to understand our lands and priorities. Having hiked and/or ridden every trail in the District, I bring firsthand knowledge of the preserves to Board discussions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm committed to fulfilling Measure AA's \"Old Trees, New Trails\" vision: Protecting and restoring open space, and connecting people to nature. I ask for your vote to continue this work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "gleason4openspace.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3819_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Tina Marie To",
+      "statement": {
+        "by": "Tina Marie To",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Director of Operations"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am an environmental scientist with a specialty in wildlife and marine science, and I am dedicated to preserving, protecting, restoring, and acquiring public open space land for all to enjoy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a Master's degree in Environmental Science with a focus in Marine Ecology from the University of Sydney, a Bachelor's degree in Law and Earth Sciences (Geology) from UC Santa Cruz, and studied Economics and Real Estate at De Anza College."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have volunteered in our community for many years, including more than a decade as a docent at the Monterey Bay Aquarium, the Marine Science Institute, Ano Nuevo State Park, The Marine Mammal Center, and the California Academy of Sciences. I currently volunteer with a regional youth group."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I formerly lived on land that is now part of the Sierra Azul Open Space Preserve and supported its sale for permanent public preservation. The District stewards approximately 1,600 acres of San Francisco Bay frontage and Pacific Ocean access. My training in marine and coastal ecology will help ensure that board decisions are guided by science. As a disabled regular hiker of our preserves, I will work to make open spaces more accessible to everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "https://www.tinamarieto.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3820_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San José-Evergreen Community College District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:29:00Z",
+  "candidates": [
+    {
+      "choice": "Karen Martinez",
+      "statement": {
+        "by": "Karen Martinez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Community Relations Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I serve as your San José Evergreen Community College District Trustee for Area 2. I ask for your vote to continue building a district where accountability and student success come first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a mother and wife in a blended family of seven, married for 28 years, I understand the power of opportunity. My family includes union trade workers, an educator, and my youngest, preparing to become an attorney. This guides me: never give up, invest in people, and be part of the solution."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I championed middle school college access, K-12 and nonprofit partnerships, transfer pathways, workforce education and apprenticeships, and college opportunities for students in local correctional facilities. I supported the Milpitas College expansion, Career Education Complex, nursing and automotive programs, and high tech partnerships connecting students to Silicon Valley careers."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chair of the Budget, Finance and Audit Committee, I fought for transparency, balanced budgets, responsible stewardship of taxpayer dollars, a strong district credit rating, and timely union agreement ratification. I also helped advance a permanent Chancellor and executive team focused on results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My record reflects action through policymaking, tough questions, fiscal stewardship, and student focused decisions. I am ready to continue the work with your support."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3655_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

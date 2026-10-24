@@ -1,0 +1,933 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sunnyvale — Measure G",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sunnyvale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:58Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall Section 1309 of the City Charter be amended to allow the City Council to adopt an ordinance giving the City more options for delivery of public works construction projects by authorizing use of any purchasing or contracting method allowed by California law to select contractors for such projects, and to make clarifying changes to the wording of Section 1309 that do not alter the meaning of the section?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"YES\" vote amends the Charter so that the Council can authorize the use of alternative project delivery methods for public works contracts and make clarifying changes to the wording of Charter Section 1309."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"NO\" vote would not add any options to use alternative project delivery methods for public works contracts and would not change the wording of Charter Section 1309."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure would amend Sunnyvale City Charter Section 1309 to allow the City to use alternative methods to select contractors for public works contracts, and authorize the City Council to establish, by ordinance, any regulations for the award, use, evaluation, and approval of these contracts."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Council placed this measure on the ballot on recommendation by a Charter Review Committee of appointed Sunnyvale residents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Currently, Section 1309 of the Sunnyvale City Charter requires the City to use a traditional system for awarding public works contracts, known as \"design-bid-build.\" This method requires separate contract awards for the design and construction phases of the project. Unless there is a recognized exemption, such as emergency work, the City first contracts with architects or engineers to design the project. After the project design is completed, the City then advertises the completed design for construction bids, and finally awards the construction contract to the lowest \"responsive and responsible\" bidder. This competitive bidding process is based on the bid price alone and does not permit the City to consider the construction contractor's qualifications, technical experience, or other factors, so long as the contractor meets the minimum requirements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Sunnyvale Charter does not allow any other project delivery methods for procuring and contracting work for public works projects, even when those methods are permitted by state law. For example, two alternatives are \"design-build\" and \"construction manager-at-risk.\" Under a design-build approach, the design and construction phases are combined into a single contract, and a single entity is responsible for both the design and construction of a public works project. Further, the City would select a contractor through a qualifications-based process that can take into account various factors other than the lowest bid. Under a construction manager-at-risk approach, the City would hire a construction manager to perform both pre-construction and construction management services within a guaranteed maximum price (GMP), and the construction manager would be responsible for any construction costs that exceed the GMP."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure would authorize the City Council to choose alternative options for the delivery of public works construction projects so long as those options are allowed by California law. The measure would authorize the Council to adopt ordinances regulating the award, use, evaluation, and approval of public works contracts using such alternative methods. In addition, this measure would make clarifying changes to some existing language in Section 1309 without altering the meaning."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This amendment will become effective if a majority of those voting on the measure vote \"yes.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Rebecca L. Moon\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "To obtain copy of Measure G, call the elections official at 408-730-7483 and a copy will be provided at no cost to you."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure G",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Proposed Charter Amendments\n(Contracts on Public Works)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(Additions shown in underline, deletions in strikeout)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The citizens of the City of Sunnyvale do hereby enact the following amendments to the City Charter:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 1. Section 1309 of the City Charter (Contracts on Public Works) is hereby amended to read as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "§ 1309. Contracts on Public Works."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) Unless an alternative project delivery method is authorized as provided in this section, a project involving an expenditure of more than an amount to be determined from time to time by ordinance of the City Council, for the construction or improvement (excluding maintenance and repair) of public buildings, works, streets, drains, sewers, utilities, parks and playgrounds, shall be let to the lowest responsive and responsible bidder after notice of publication in the official newspaper by one or more insertions, the first of which shall be at least ten days before the time for opening bids."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council may reject any and all bids presented and may readvertise in its discretion."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council, without advertising for bids, or after rejecting bids, or if no bids are received, may declare and determine that, in its opinion, the work in question may be performed better or more economically by the City with its own employees, and after adoption of a resolution to this effect by at least four affirmative votes it may proceed to have said work done in the manner stated, without further observance of the provisions of this section. The City Council may make urgency findings and authorize by at least four affirmative votes the letting without advertising for bids of contracts that are urgently necessary for the preservation of life, health, or property."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) No advertising for bids or awarding of a contract based on bids is required when the improvement or work is to be furnished or performed by a public utility subject to the jurisdiction of the California Public Utilities Commission."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) The use of best value alternative project delivery methods including, but not limited to, progressive design-build, construction manager at risk, fixed-price design-build, and design-build-operate contracts is authorized for all public works projects. The City Council shall establish, by ordinance, regulations for the award, use, evaluation, and approval of these contracts."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote YES to Modernize Sunnyvale's Public Works Contracting."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sunnyvale's rules for building public infrastructure have not kept pace with modern times. Under current Charter constraints, the City is required to use an outdated \"lowest-bid\" method that ",
+            {
+              "strong": [
+                "separates project design from construction"
+              ]
+            },
+            ". This rigid requirement often results in communication gaps, costly mid-project change orders, and frustrating construction delays."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure updates Charter Section 1309 to grant Sunnyvale access to the same flexible, modern project delivery methods already authorized by California State Law and successfully used by nearby cities and school districts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Why a YES Vote Makes Sense:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Saves Taxpayer Money:"
+                    ]
+                  },
+                  " By allowing modern delivery models like \"Design-Build,\" the City can combine design and construction into a single, unified contract. This means the team that designs the project builds it, significantly reducing errors, change orders, and budget overruns."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Speeds Up Projects:"
+                    ]
+                  },
+                  " Combining design and construction means critical civic improvements and infrastructure projects get completed much faster, minimizing disruption to our community."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Prioritizes Quality and Value:"
+                    ]
+                  },
+                  " Sunnyvale would be allowed to consider a contractor's specialized qualifications, proven track record, and technical expertise—not just the lowest bid—ensuring high-quality infrastructure built to last."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Strict Safeguards Remain Intact"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure does ",
+            {
+              "strong": [
+                "not"
+              ]
+            },
+            " eliminate competitive bidding. Traditional lowest-bid tracking will still be used for everyday maintenance projects. For complex projects, any alternative method must be explicitly authorized by the City Council on a case-by-case basis under strict, transparent ordinances."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Following an intensive, multi-year review, the independent, citizen-led Charter Review Committee and your City Council recommended this upgrade. Let's build a more efficient, cost-effective Sunnyvale."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES for higher quality infrastructure at lower cost."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Larry Klein",
+          "title": "Sunnyvale Mayor"
+        },
+        {
+          "name": "Richard Mehlinger",
+          "title": "Sunnyvale Vice Mayor"
+        },
+        {
+          "name": "Gail Rubino",
+          "title": "Housing Advocate"
+        },
+        {
+          "name": "Murali Srinivasan",
+          "title": "Sunnyvale Councilmember"
+        },
+        {
+          "name": "Charlsie Chang",
+          "title": "Sunnyvale Councilmember"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                {
+                  "em": [
+                    "Supposedly"
+                  ]
+                }
+              ]
+            },
+            " Measure G \"modernizes\" contracting. ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "Actually"
+                  ]
+                }
+              ]
+            },
+            ", it leads to favoritism and higher costs. Currently, city contracts go to the lowest bidder. City council members have no say in selecting the winner─preventing favoritism. Bidding is ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "already"
+                  ]
+                }
+              ]
+            },
+            " restricted to qualified bidders─we don't need \"",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "best value\""
+                  ]
+                }
+              ]
+            },
+            " to ensure ",
+            {
+              "em": [
+                "that"
+              ]
+            },
+            "!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure G replaces ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "objective"
+                  ]
+                }
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "\"low-bid-wins\""
+              ]
+            },
+            " with ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "subjective"
+                  ]
+                }
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "\"best-value\""
+              ]
+            },
+            " scoring, handing Council members the power to handpick contractors. Campaign donors get a direct track to city contracts leading inevitably to inflated contracts. Taxpayer dollars funneled to political donors turning ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "$Thousand"
+                  ]
+                }
+              ]
+            },
+            " campaign contributions into ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "$Million"
+                  ]
+                }
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "contracts"
+              ]
+            },
+            ". Donors expect a return on their investment."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Multiple convictions in 2024 $Multi-Million \"pay-for-vote\" bribery involving Los Angeles City Councilmembers, building developers, and Deputy Mayor Chan."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "August, 2022─San Francisco Public Works Director (",
+                  {
+                    "em": [
+                      "salary $278,000"
+                    ]
+                  },
+                  ") gets 7 years in prison. Judge Orrick: \"",
+                  {
+                    "em": [
+                      "you made the city's decision-making and competitive bidding a farce... in exchange for money, gifts,...\""
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "California electric utilities donated $200 Million to political campaigns leading to 2nd highest electricity rates in the US."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Apartment owners and construction PACs consistently funnel campaign contributions to City Council candidates. Even candidates running ",
+                  {
+                    "em": [
+                      "unopposed"
+                    ]
+                  },
+                  " collect $Thousands!"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Audits heavily criticized California High-Speed Rail Authority for using \"design-build\". Costs for initial contract segments ",
+                  {
+                    "strong": [
+                      "doubled"
+                    ]
+                  },
+                  "!"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "San Francisco Bay Bridge \"Loma Prieta Earthquake\" rebuild was to be $1.3Billion over 4-7 years, instead cost ",
+                  {
+                    "em": [
+                      "$6.5 Billion"
+                    ]
+                  },
+                  " (",
+                  {
+                    "strong": [
+                      {
+                        "em": [
+                          "500% increase!"
+                        ]
+                      }
+                    ]
+                  },
+                  ") taking 11 years!"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure G removes vital checks on public spending."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Let's keep corruption illegal in Sunnyvale!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Protect taxpayers from ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "pay-to-play"
+                  ]
+                }
+              ]
+            },
+            " contracting."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "More at ",
+            {
+              "em": [
+                "MeetingTheTwain.BlogSpot.com"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Measure G!"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Michael S. Goldman",
+          "title": "Former Councilmember, Sunnyvale"
+        },
+        {
+          "name": "Andy Frazer"
+        },
+        {
+          "name": "Jeannine Avila Pierce",
+          "title": "Retiree"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "NO on G!"
+              ]
+            },
+            " California makes it ",
+            {
+              "em": [
+                "legal"
+              ]
+            },
+            " but it's a ",
+            {
+              "em": [
+                "terrible"
+              ]
+            },
+            " idea!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Purposely vague Measure G would allow \"",
+            {
+              "strong": [
+                "design-build\""
+              ]
+            },
+            " and \"",
+            {
+              "strong": [
+                "best value\""
+              ]
+            },
+            " to be used instead of competitive bidding for the design and construction of City buildings. Sunnyvale currently has one bid for design—another bid for the construction. Low bid wins."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "\"",
+                  {
+                    "strong": [
+                      "Design-build\""
+                    ]
+                  },
+                  " makes designer and builder the same, incentivizing expensive design. The independent designer who normally protects the public by flagging problems, preventing corner-cutting is gone. When the builder oversees themselves, taxpayers bear the risk."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Measure G"
+                    ]
+                  },
+                  " allows contracts awarded on ",
+                  {
+                    "em": [
+                      "subjective"
+                    ]
+                  },
+                  " \"",
+                  {
+                    "strong": [
+                      "best value\""
+                    ]
+                  },
+                  " scoring instead of \"",
+                  {
+                    "strong": [
+                      "low-bid\""
+                    ]
+                  },
+                  ". Los Angeles saw the consequences: Councilmember José Huizar pleaded guilty to accepting ",
+                  {
+                    "strong": [
+                      "$1.5 million"
+                    ]
+                  },
+                  " in bribes benefiting developers, involving ",
+                  {
+                    "strong": [
+                      "$Billions"
+                    ]
+                  },
+                  " in city projects because of \"",
+                  {
+                    "strong": [
+                      "best value\""
+                    ]
+                  },
+                  " procurement. The ",
+                  {
+                    "strong": [
+                      "Los Angeles District Attorney"
+                    ]
+                  },
+                  " warned ",
+                  {
+                    "em": [
+                      "subjective"
+                    ]
+                  },
+                  " \"",
+                  {
+                    "strong": [
+                      "best value\""
+                    ]
+                  },
+                  " evaluations used in \"",
+                  {
+                    "strong": [
+                      "design-build\""
+                    ]
+                  },
+                  " can enable ",
+                  {
+                    "em": [
+                      "favoritism"
+                    ]
+                  },
+                  ", undermining public trust."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "\"",
+                  {
+                    "strong": [
+                      "Design-build\""
+                    ]
+                  },
+                  " incentivizes contractors to \"lowball\" projects knowing \"",
+                  {
+                    "em": [
+                      "unforeseen\""
+                    ]
+                  },
+                  " changes will increase costs—which taxpayers will pay. City Council members inexperienced with building construction go along with whatever the contractor tells them is \"",
+                  {
+                    "em": [
+                      "unexpectedly\""
+                    ]
+                  },
+                  " needed."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Belmont Learning Center:"
+                    ]
+                  },
+                  " a Los Angeles Unified School District \"design-build\" project ",
+                  {
+                    "strong": [
+                      "doubled in cost"
+                    ]
+                  },
+                  ", rising from ",
+                  {
+                    "strong": [
+                      "$150 million to over $300 million"
+                    ]
+                  },
+                  ", one of the most expensive high schools in U.S. history. Environmental hazards were missed, oversight broke down; investigations found \"",
+                  {
+                    "strong": [
+                      "design-build\""
+                    ]
+                  },
+                  " contributed to the disaster."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sunnyvale staff in a 2016 report acknowledged that \"",
+            {
+              "strong": [
+                "design-build\""
+              ]
+            },
+            " raises conflict-of-interest concerns. The developer claimed it \"minimizes change orders\", but that came from the contractor(!), who benefits from lack of competition."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "More examples and discussion at:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "https://meetingthetwain.blogspot.com/2026/08/2026-against-sunnyvale-measure-g.html"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Keep Sunnyvale's competitive system to protect residents!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If it ain't broke, don't fix it!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NO on Measure G."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Michael S. Goldman",
+          "title": "Former Sunnyvale City Councilmember"
+        },
+        {
+          "name": "Andy Frazer",
+          "title": "Engineer"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Design-build construction has been a tried and proven bid process in California for more than thirty years. Unifying design and construction under a single contractor ",
+            {
+              "strong": [
+                "improves efficiency and communication"
+              ]
+            },
+            ", speeding project delivery and improving quality."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The opposition says \"If it ain't broke, don't fix it\". But the current system ",
+            {
+              "em": [
+                "is"
+              ]
+            },
+            " broken. That's why City staff proposed allowing design-build contracting. They understand what the current system costs us all in money, time, and litigation. And that's why Senate Bill 935 (R-Choi) passed with unanimous bipartisan support to ",
+            {
+              "strong": [
+                "permanently"
+              ]
+            },
+            " authorize local agencies to use design-build, \"which has streamlined project delivery, reduced costs, and encouraged innovation in public works for decades.\""
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The opposition's remaining arguments are also misleading. They claim that design-build will lead to \"lowball\" contract submissions, but that's the problem with the current \"low-bid\" system, which primarily evaluates proposals on cost. They cite the Belmont Learning Center, but LAUSD chose to site BLC on an active earthquake fault and former oil field (www.presstelegram.com/2008/04/10/a-400-million-lesson/). They cite Jose Huizar's corruption conviction, but he was jailed for dealings with private developers, not city contractors (https://abc7.com/post/disgraced-former-la-city-councilman-jose-huizar-due-to-begin-prison-sentence/15401128/). These arguments aren't just wrong—they're irrelevant."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sunnyvale's professional city staff recommended bringing the option of design-build construction to you, the voters. The independent, citizen-led Charter Review Committee and your elected City Council ",
+            {
+              "strong": [
+                "unanimously agreed"
+              ]
+            },
+            ". ",
+            {
+              "strong": [
+                "Sunnyvale residents deserve the best value and efficiency"
+              ]
+            },
+            ", not just the lowest bid."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Learn more at www.YES-on-GHI.com, and ",
+            {
+              "strong": [
+                "vote YES on Measure G"
+              ]
+            },
+            "."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Larry Klein",
+          "title": "Sunnyvale Mayor"
+        },
+        {
+          "name": "Richard Mehlinger",
+          "title": "Sunnyvale Vice Mayor"
+        },
+        {
+          "name": "Mary Bradley",
+          "title": "Community Leader"
+        },
+        {
+          "name": "Murali Srinivasan",
+          "title": "Sunnyvale Councilmember"
+        },
+        {
+          "name": "Eileen Le",
+          "title": "Sunnyvale Councilmember"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

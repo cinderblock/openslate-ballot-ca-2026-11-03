@@ -1,0 +1,159 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Morgan Hill Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/morgan-hill",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:38Z",
+  "candidates": [
+    {
+      "choice": "Kristopher L. Clayton",
+      "statement": {
+        "by": "Kristopher L. Clayton",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Carpenter"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've lived in this town my entire life and am raising my children in the house I grew up in. For the last two decades, I've worked as a carpenter in the Bay Area. I've watched this town grow, struggle, and change. I've seen families pushed out, small businesses squeezed, and neighborhoods reshaped by decisions made far from the people they affect. I'm running for mayor because our town deserves leadership rooted in everyday experience, not corporate interests or private investors."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Too often, investors come in, buy up land, and reshape our community─while longtime residents have little voice in the process."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm stepping forward because I believe leadership should be accountable, transparent, and grounded in the lives of the people who actually live here. My priorities are straightforward: protect our town from reckless development, support local workers and small businesses, invest in infrastructure that serves residents, and make sure every decision puts people first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm not a politician─I'm just a blue-collar worker who wants to see this town thrive. I want to help rebuild trust, opportunity, and a future where our town belongs to the people who call it home─not the corporations and private investors."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3766_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Deborah M. Africa",
+      "statement": {
+        "by": "Deborah M. Africa",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Retired RN"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was called to nursing for the sick & injured in my community as an ICU nurse: 19 years of bedside caring for the sickest; 10 years nursing management; 10 years teaching nursing students at college. Like many others in our city, I'm a single mom with 2 kids & am very concerned for their future in this new, darker America with its impact on our city. We need strong leadership to respond to this moment. The current council's responses under the leadership of the current mayor have been most disappointing. I now find my calling as a public servant and come well qualified to serve as a mayor working with neighbors & local businesses as together we seek solutions to fight the serious challenges before us: assaults on basic American rights; cruel ICE dangers; declining quality of life seen in rising food, housing, gas and healthcare costs all threatening our families. My leadership is marked by strong professional/personal ethic of integrity & a proven background bringing diverse groups together in common cause. We are stronger united than divided. Vote for new leadership with a vision based in civility, the constitution and respect for the dignity of all!"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3767_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Mark Turner",
+      "statement": {
+        "by": "Mark Turner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Leadership begins with listening. Every week I meet with residents, business leaders, nonprofit organizations, community leaders, and our faith community to learn their ideas and concerns, then I act on them. That approach delivers results. I introduced an ordinance addressing blighted residential and commercial properties, launched the Read 20 initiative to improve children's reading proficiency, helped secure funding to end the flooding of Llagas Creek, protecting homes and businesses. I secured a dedicated public art funding mechanism, launched the community-wide Healthy Morgan Hill initiative, and have helped raise more than $1 million for local non-profit organizations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will: 1) Continue working to foster an environment that provides opportunities for businesses to create new jobs and opens the door for companies to expand or relocate here; 2) Continue supporting our youth sports programs and expand recreational tourism; 3) Ensure public safety gets the resources needed to keep us safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please join a growing bipartisan coalition of elected and community leaders, CAL FIRE Local 2881, Morgan Hill Police Officer's Association, the California Hispanic Chambers of Commerce, business owners, veterans, and residents supporting my candidacy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, let's keep Morgan Hill safe, healthy, and thriving. Please visit markturnerformayor.com if you would like to learn more."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3768_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

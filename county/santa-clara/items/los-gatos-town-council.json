@@ -1,0 +1,390 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Gatos Town Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-gatos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:35Z",
+  "candidates": [
+    {
+      "choice": "Heidi Owens",
+      "statement": {
+        "by": "Heidi Owens",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Senior Management Analyst\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 52"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Service has always been at the heart of my life in Los Gatos. I've raised my daughters here and served the community as a Scout leader, youth sports coach, school volunteer, and mentor to young women. After earning my MBA and spending a decade in technology, I chose a life in public service. I was appointed as Chair of the County Consumer Advisory Commission and served on the Town Bicycle and Pedestrian Advisory Commission. For three years, I served as a Policy Aide to a County Supervisor, working on the County budget and operations. Today, I am a Senior Management Analyst with California Children's Services, a program for children with serious medical conditions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for Town Council because I want to put that experience to work for the community I love. That means safeguarding taxpayer dollars, protecting the historic neighborhoods and natural beauty that make Los Gatos special, and supporting public safety and local businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will listen, do my homework, seek different perspectives, and bring people together to find practical solutions. I am a problem-solver and someone who shows up, listens, and gets to work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote and serve you on the Los Gatos Town Council."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3754_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Rob Stump",
+      "statement": {
+        "by": "Rob Stump",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Retired EdTech Executive"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our family celebrated 100 years in Los Gatos in 2024. I am a lifelong resident, Planning Commissioner, and community volunteer who loves our small-Town character. I am running for Town Council to bring experienced, common-sense leadership to local government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public safety is first. One-third of Los Gatos sit in hazardous fire zones. As Chair of our wildfire committee, I led efforts to place a Wildland Fire Specialist and expand roadside vegetation management."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Weekend beach gridlock impacts everyone. Of special concern, emergency response and downtown businesses. I will push for immediate solutions: traffic control and holding Caltrans accountable on Highway 17."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On Builder's Remedy, we must follow the law while asserting local control. As Planning Commissioner, I apply objective design standards as State law allows. On Council, I will keep our Housing Element compliant, so we decide where new homes belong."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Fiscal discipline means a truly balanced budget: funding core priorities and long-term liabilities while living within our means."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to keep Los Gatos the place we love."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3755_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Jeff Suzuki",
+      "statement": {
+        "by": "Jeff Suzuki",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Economic Analyst, Town Commissioner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in Los Gatos. I was born in Good Samaritan Hospital and attended Los Gatos public schools. I love this town. For the last six years, I have dedicated thousands of unpaid hours to our community as a volunteer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a former Planning Commissioner, I understand the gravity of our housing situation. I served as a leading advocate for the certified Housing Element that ended the wave of Builder's Remedy applications in Los Gatos, restoring local control."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Currently, I serve on the Complete Streets and Transportation Commission, where I designed and evaluated policies to reduce our school and beach traffic. I recently worked with VTA to design a program that would provide all Los Gatos High School students and staff with free transit passes. As the founder and president of the Los Gatos Anti-Racism Coalition, a volunteer nonprofit organization, I launched a homelessness prevention program that has provided more than 150 families at risk of eviction with over $100,000 of rental assistance to help them stay housed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Los Gatos has serious challenges ahead—we need forward-thinking, proactive leadership. Those raised here and those who work here should be able to afford to live here. If elected to our Town Council, I will work to build a community where everyone feels represented, safe, and proud to live in Los Gatos."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3756_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Mary Badame",
+      "statement": {
+        "by": "Mary Badame",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Council Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Los Gatos is unlike anywhere else—a small town with its own charm. Preserving that has been my work as your Council Member."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was raised here and graduated from Los Gatos High School. For 40 years, I owned a local insurance agency advising families and businesses. For 12 years, I have been serving the town as Mayor, Vice Mayor, Planning Commissioner, and Council Member."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I voted to protect our single-family residential zones, against housing numbers that exceed State mandates, and against the first Builder's Remedy project approved in our small town."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have consistently supported our Police Department and worked to balance the town's budget without raising taxes, while protecting 911 response times and streets without potholes. I support our Senior Services Roadmap and will work to fund adult day care, senior transportation, and nutrition programs. Residents are clear about what comes next: traffic relief, safer neighborhoods, and holding Builder's Remedy projects to every limit the law allows."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked to earn your trust—the work is not finished.\nI ask for your vote to finish it."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3757_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Steve Raspe",
+      "statement": {
+        "by": "Steve Raspe",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Attorney/Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When our family of four arrived in Los Gatos, it felt like home. So, I've spent the past decade working to solve the problems that matter most to our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chair of the Planning Commission and the Historic Preservation Committee, I used my background as a real estate lawyer to guide new housing so it works for everyone. Our first responders, teachers, and essential workers deserve homes they can actually afford. And that growth must respect our neighborhoods and our town's historic character."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You deserve streets you feel safe walking down at night, parks that are clean and vibrant, a downtown that thrives, and fire risk that's taken seriously. And there's one thing I know none of us deserve: the traffic!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Now I'm running for Town Council because it's time to stop talking and start delivering for the town we all love. I'll keep solving problems with a balanced, experienced perspective, so our town works for your family and mine."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Join me: www.SteveRaspe.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3758_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Rob Moore",
+      "statement": {
+        "by": "Rob Moore",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Mayor\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 28"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to serve as Mayor of Los Gatos. I'm running for re-election to the Los Gatos Town Council to continue serving the community I grew up in and love."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since first elected in 2022, I have prioritized transparency and communication, keeping residents informed through a monthly newsletter, community events, social media, and coffee meetings."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I led the passage of a strong, balanced budget without raising taxes, voted to pass a certified Housing Element to curb overdevelopment, and restricted illegal e-motorcycles. I have been a strong voice for wildfire preparedness and safer streets, created programs to mentor our youth, advocated for seniors, and supported rental assistance for families struggling to make ends meet."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have delivered results, and you can trust me to keep delivering: supporting public safety, working to reduce traffic, and taking a balanced approach to housing that gives Los Gatos maximum local control while delivering more affordable homes. I will continue to support our downtown and small businesses, protect our parks and environment, and communicate both ways─sharing information while always staying open to feedback, ideas, and concerns."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Town Council has been the greatest honor of my professional life. I humbly ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "RobforLosGatos.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3759_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

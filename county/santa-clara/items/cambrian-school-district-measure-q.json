@@ -1,0 +1,493 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cambrian School District — Measure Q (Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:26:01Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "To protect the quality of education in our local elementary and middle schools, provide funding for core academic programs in math, science, engineering, technology, reading, writing and arts, attract/retain highly qualified teachers, and maintain manageable class sizes, shall Cambrian School District's measure be adopted, levying $148/parcel for 8 years, its continuance subject to voter approval, with senior exemptions, annual inflation adjustments, providing $1,000,000 annually in locally controlled funding that can't be taken by the State?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/738_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote is a vote to enact a tax at the rate of $148 per parcel, with annual inflation adjustments, on parcels within the District beginning in the 2027-2028 fiscal year."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/738_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote is a vote to not enact the tax."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/738_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "A school district may levy a qualified special tax upon approval by two-thirds of the votes cast on a measure pursuant to article XIIIA, section 4 of the California Constitution and California Government Code section 50079. The Board of Trustees (Board) of Cambrian School District (District) has placed on the ballot a measure to enact a tax of $148 per parcel. The tax will be adjusted annually by the change in the Consumer Price Index (all urban consumers) for the San Francisco-Oakland-San José Metropolitan Area published by the United States Department of Labor, Bureau of Labor Statistics, or an equivalent index."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved by voters, the Measure states the tax would commence in the 2027-2028 fiscal year. The Measure does not include a termination date for the tax. However, the Measure states that in the 2034-2035 fiscal year, the Board will put the question of whether to continue the tax beyond that year to voters as an advisory vote pursuant to California Elections Code section 9603. Pursuant to state law, such advisory votes are not controlling on the Board."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "State law requires that such measures state the specific purposes for which tax proceeds will be used and spend the proceeds only for these purposes. The stated purposes of the tax proposed by Measure Q are to:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Maintain high education quality at all elementary, middle, and transitional kindergarten through eighth grade schools;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Carry out the District's mission statement to develop creative and critical thinkers who communicate effectively, value diversity, and are ready to excel in a global society;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Instruct students in math, science, engineering, technology, reading, writing, and arts;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Attract and retain teachers; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Maintain class sizes."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board states that tax proceeds will not be spent on administrator salaries. The Board provides accountability measures for the proceeds, including (1) depositing the proceeds into a fund separate from other District funds, and (2) providing an annual written audit report detailing the amount of funds collected and the manner in which they have been spent."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "According to the Measure, the proposed tax does not apply to real property that is otherwise exempt from or on which no property taxes are levied that year, or to real property for which an exemption has been approved due to the parcel being owned by one or more persons 65 years of age or older who occupies said parcel as a principal residence."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Tony LoPresti\nCounty Counsel"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By: /s/ Nick DeFiesta\nDeputy County Counsel"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/738_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure Q",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Abbreviated Ballot Measure"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "To protect the quality of education in our local elementary and middle schools, provide funding for core academic programs in math, science, engineering, technology, reading, writing and arts, attract/retain highly qualified teachers, and maintain manageable class sizes, shall Cambrian School District's measure be adopted, levying $148/parcel for 8 years, its continuance subject to voter approval, with senior exemptions, annual inflation adjustments, providing $1,000,000 annually in locally controlled funding that can't be taken by the State?"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Levy of Special Tax"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board shall first levy the tax (the \"Parcel Tax\") in fiscal year 2027-28, at $148 per parcel. Thereafter, the Parcel Tax shall be adjusted annually by the change in the Consumer Price Index (all urban consumers) for the San Francisco-Oakland-San Jose Metropolitan Area, published by the United States Department of Labor, Bureau of Labor Statistics, or an equivalent index."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Voters will have an opportunity to end the Parcel Tax in fiscal year 2034-35 or continue the Parcel Tax beyond that fiscal year, subject to majority voter approval, pursuant to Elections Code Section 9603. The Board has agreed to be bound to results of the subsequent vote by the electorate pursuant to Elections Code Section 9603, and shall either end the Parcel Tax in fiscal year 2034-35 or continue the Parcel Tax, as directed by voters."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As used herein, the term \"Parcel\" means any unit of real property in the District that receives a separate tax bill for ",
+          {
+            "em": [
+              "ad valorem"
+            ]
+          },
+          " property taxes from the Assessor/Tax Collector of Santa Clara County, unless an exemption applies. Exemptions include only (i) real property that is otherwise exempt from or upon which no ",
+          {
+            "em": [
+              "ad valorem"
+            ]
+          },
+          " property taxes are levied in any year, and (ii) real property for which an exemption has been approved due to the parcel being owned by one or more persons 65 years of age or older who occupies said parcel as a principal residence."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Purpose of Tax"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Revenue raised from Cambrian School District's Parcel Tax will be expended in order to maintain the high quality of education at all elementary, middle and transitional kindergarten (TK) through eighth grade schools and to carry out the District's mission statement to develop creative and critical thinkers who communicate effectively, value diversity and are ready to excel in a global society. Cambrian School District's goal is to continue providing high quality education by instructing students in math, science, engineering, technology, reading, writing and arts, attracting and retaining teachers, and maintaining class sizes, so that our students may find success in high school, college, and careers. However, due to reductions in State funding, the District is struggling to continue providing high quality instruction and academic programs for Cambrian children in grades TK through eighth grade."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "These reductions in State funding, the requirement to maintain District reserves, and the need to reduce deficit spending have impacted our schools. We can no longer rely on the State to fully fund the instruction and academic programs our students need. Cambrian School District has tightened its belt, improved efficiencies, and made cuts as far away from the classroom as possible. Cambrian School District has conducted a full assessment of all of its local school instructional program needs—including the need to maintain core academics for children in grades TK-8 and retain our best teachers. Additional local revenue is needed to fund these core priorities. Accordingly, Cambrian School District is asking its community to vote on a local parcel tax to continue to protect the high quality of education at Cambrian schools."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Parcel Tax shall be levied to provide Cambrian schools with stable local controlled funding to continue core academic programs in math, science, engineering, technology, reading, writing, and the arts; attract and retain high-quality teachers, and maintain manageable class sizes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Severability"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board hereby declares, and the voters by approving this measure concur, that every section and part of this measure has independent value, and the Board and the voters would have adopted each provision hereof regardless of every other provision hereof. Upon approval of this measure by the voters, should any part of the measure or taxing formula be found by a court of competent jurisdiction to be invalid for any reason, all remaining parts of the measure or taxing formula hereof shall remain in full force and effect to the fullest extent allowed by law."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/738_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE YES on Q to protect the outstanding quality of education"
+              ]
+            },
+            " that children attending our local TK-8 schools receive from the Cambrian School District (CSD). ",
+            {
+              "strong": [
+                "When our schools are strong, Cambrian is strong."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Our Neighborhood schools"
+              ]
+            },
+            "—For over 160 years, Cambrian schools have been the bedrock of our community—consistently rank among the top 10% in the state. ",
+            {
+              "strong": [
+                "However, they are at risk. It's not an expense problem; it's a revenue problem"
+              ]
+            },
+            ". The state's faulty funding formula ",
+            {
+              "strong": [
+                "under funds"
+              ]
+            },
+            " the Cambrian School District. In fact, we're among the lowest funded in the state."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The result:"
+              ]
+            },
+            " over the last 2 years, CSD schools have suffered millions in cuts and our teacher salaries have fallen behind neighboring districts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Cambrian School District has already made difficult decisions; including consolidating from six schools to five, saving $1 million annually which goes back to support teaching and classroom instruction. ",
+            {
+              "strong": [
+                "Measure Q helps provide competitive teacher salaries, prevent further deep cuts to vital instructional programs, library services, academic and mental health services, and avoid future teacher layoffs."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure Q will:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Attract and Retain"
+                    ]
+                  },
+                  " highly qualified teachers"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Continue"
+                    ]
+                  },
+                  " high-quality programs in math, science, engineering, and technology"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Continue"
+                    ]
+                  },
+                  " high-quality programs in reading, writing, language arts, music, visual and performing arts"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Maintain"
+                    ]
+                  },
+                  " manageable class sizes"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Provide"
+                    ]
+                  },
+                  " counseling and academic intervention for students who need additional support"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure Q includes a SENIOR CITIZEN EXEMPTION."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "REQUIRED Taxpayer protections:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "ALL funds STAY LOCAL"
+                    ]
+                  },
+                  " to support Cambrian elementary/middle school students"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "NO funds are allowed for administrators' salaries"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "The State ",
+                  {
+                    "strong": [
+                      "CANNOT"
+                    ]
+                  },
+                  " take this funding away"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Independent and mandatory audits ensure funds are spent properly"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Even if you don't have school-age children, supporting ",
+            {
+              "strong": [
+                "Measure Q"
+              ]
+            },
+            " is a wise investment. Great schools protect property values and our quality of life. That's why parents, teachers, business and civic leaders, and residents from ",
+            {
+              "strong": [
+                "every"
+              ]
+            },
+            " Cambrian neighborhood ",
+            {
+              "strong": [
+                "SUPPORT Measure Q."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Beth Erickson",
+          "title": "Cambrian School Board President & Parent"
+        },
+        {
+          "name": "Marlene Austin",
+          "title": "Retired Cambrian Teacher"
+        },
+        {
+          "name": "Melissa VonHolle Wuenschel",
+          "title": "Cambrian Education Foundation President"
+        },
+        {
+          "name": "Jarod Middleton",
+          "title": "Retired Firefighter & Former Cambrian School Board Member"
+        },
+        {
+          "name": "Kirsten Reilly",
+          "title": "Local Realtor"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/738_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

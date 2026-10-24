@@ -1,0 +1,152 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara Valley Water District Board, District 7",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:54Z",
+  "candidates": [
+    {
+      "choice": "Pete Dailey",
+      "statement": {
+        "by": "Pete Dailey",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Los Altos City Council Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm Pete Dailey, candidate for the Santa Clara Valley Water District. I moved to Silicon Valley in 1993, and have lived or worked in Los Gatos, Mountain View, Palo Alto, and Los Altos, where I recently served as Mayor, and continue to serve on the City Council. I have an undergraduate degree from Berkeley, and master's degrees from Pepperdine and Stanford."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In addition to balancing the city's budget after years of deficits, lowering crime and improving public safety, I also delivered on promises to build housing and improve environmental sustainability. I built this success on teamwork. Los Altos even earned the State of California's Prohousing designation while I was Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served on the Valley Water Commission for four years and was elected Chair in 2025. I am committed to the agency's complex three-part mission to protect our vital water supply, prevent flooding, and steward the habitat in our watershed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running to deliver on this mission for the residents of the district, who deserve to be represented by a Director known for teamwork, collegiality, professionalism, and ethical public service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information, go to www.pete4water.com. Vote Pete Dailey for a more effective board."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3816_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Rebecca Eisenberg",
+      "statement": {
+        "by": "Rebecca Eisenberg",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Incumbent, Water District Director, Attorney & Environmentalist\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 58"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Stanford, Harvard Law\nIt is an honor serving you on the Valley Water Board. I take your trust seriously and am proud to have fulfilled the promises I made when I last sought your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You asked me to eliminate irresponsible projects that would raise water rates without sufficient benefits. I partnered with the community, nonprofits, and property owners, and ended the troubled Pacheco Dam project, saving billions of dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You asked me to deliver accountability from District leadership. I worked with staff and the community to ensure that two six-figure executives accused of wrongdoing no longer serve the District."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "You asked me to protect your tax dollars. I preserved funding for critical flood-control projects to keep our homes and communities safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Throughout my term, as circumstances shifted, I did not waver. I stood up for you, fought for you, and involved you in decisions about you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Water District is entering a new chapter. As your experienced, independent, and hard-working Director, I will deliver responsible, local and lower-cost solutions including water capture and recycling."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your vote, I will continue to bring competence, transparency, and highest integrity to Valley Water to ensure affordable clean water today and in the future.\nGratefully,\nwww.rebecca4water.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3817_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oak Grove School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:22Z",
+  "candidates": [
+    {
+      "choice": "Victor A. Ramirez",
+      "statement": {
+        "by": "Victor A. Ramirez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Air Traffic Controller\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 42"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a proud San José State University alumnus, dedicated parent, and community leader, I have spent years serving students, families, and our community. With two children at STEAM @ Stipe Elementary, I served on the School Site Council, Parent Faculty Association Committee Chair, and Tech Challenge Advisor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an Air Traffic Controller with the FAA, I make critical decisions every day that require sound judgment, teamwork, communication, and commitment to safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "President of the Great Oaks Park Neighborhood Association, a District 2 Community Hero Award recipient, a Board Member of the SJSU Latino Alumni Network, and a coach with Santa Teresa Little League. Through these roles, I have built partnerships, brought people together, and advocated for opportunities that strengthen our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe every child deserves a safe, welcoming learning environment, strong academic programs, and dedicated teachers who help students reach their full potential. My experience working with schools, families, and community organizations has prepared me to thoughtfully address challenges, support student success, and help ensure our schools continue to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to serve our students, families, educators, and community as a member of the Oak Grove School District Board."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Victor4OGSD.com"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Victor4OGSD@Gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3721_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Gilroy — Measure B",
+    "kind": "measure",
+    "jurisdiction": "us/ca/gilroy",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:56Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "To maintain critical City services such as street/pothole repair, park and recreation programs, emergency preparedness for storms, flooding and wildfires, and police and fire response shall the City of Gilroy measure raising the Transient Occupancy Tax (hotel tax) rate from 9% to a maximum of 13%, set by Council resolution, providing $700,000 annually paid only by hotel/lodging guests, with annual independent audits, that cannot be taken by Sacramento, until ended by voters, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json"
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "The City Council of Gilroy is placing Measure B on the November 2026 ballot to increase the maximum Transient Occupancy Tax rate to 13% until ended by the voters. The Transient Occupancy Tax, commonly referred to as the \"Hotel Tax,\" is imposed on persons staying in hotels, short-term rentals, or other lodging for a period of 30 days or less."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved by voters, Measure B amends the Hotel Tax Ordinance set forth in Chapter 25A.2 of the Gilroy City Code to initially increase the Hotel Tax rate by 2% from the current rate of 9% to 11%. In addition, Measure B amends the Hotel Tax Ordinance to provide that the City Council may by resolution adjust the rate of the Hotel Tax upwards or downwards without a vote of the people provided that the rate does not exceed 13%."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Monies received from the Hotel Tax are deposited into the City of Gilroy general fund and may be used for any lawful purpose. City services funded could include, for example, street/pothole repairs, park and recreation programs, emergency preparedness for storms, flooding and wildfires, and police and fire response, among other things."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"Yes\" vote is a vote in favor of Measure B. A \"No\" vote is a vote against Measure B. The Measure will be approved if it receives a simple majority of \"Yes\" votes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Andrew L. Faber\nCity Attorney\nCity of Gilroy"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure B",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "EXHIBIT A"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "ORDINANCE NO. 2026-_"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "AN ORDINANCE OF THE PEOPLE OF THE CITY OF GILROY AMENDING SECTION 25A.2 OF CHAPTER 25A OF THE GILROY CITY CODE (TRANSIENT OCCUPANCY TAX) TO INCREASE THE MAXIMUM TRANSIENT OCCUPANCY TAX RATE FROM NINE PERCENT (9%) TO AN AMOUNT NOT TO EXCEED THIRTEEN PERCENT (13%)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " Chapter 25A of the Gilroy City Code establishes the City's Transient Occupancy Tax (\"TOT\"), which requires that each \"transient\" who occupies a \"hotel,\" as those terms are defined in Section 25A.1 of the Gilroy City Code, must pay a TOT at the rate of nine percent (9%) of the rent charged by the operator for the privilege of occupying the hotel; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " Revenue and Taxation Code Section 7280 authorizes the City to levy a tax on the privilege of occupying a room or rooms, or other living space, in a hotel, inn, tourist home or house, motel, or other lodging for a period of thirty (30) consecutive calendar days or less; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " the TOT has not been adjusted since 1983, when the rate was set at nine percent (9%) by Ordinance No. 83-14; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " the proposed TOT increase would apply only to guests who stay in local hotels, motels, and other short-term lodging establishments for a period of thirty (30) consecutive calendar days or less; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " the TOT is a general tax, the proceeds of which are deposited into the City's General Fund and may be used for any lawful municipal purpose, including but not limited to public safety, infrastructure maintenance, parks and recreation, community services, and general government operations; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " additional General Fund revenue will help the City of Gilroy maintain and enhance essential city services for the benefit of its residents and visitors; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " Article XIII C, Section 2(b) of the California Constitution, as added by Proposition 218 in 1996, requires that any general tax must be submitted to the electorate and approved by a majority vote of the qualified voters of the city voting in an election on the issue; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " Article XIII C, Section 2(b) of the California Constitution requires that an election for the approval of a general tax must be consolidated with a regularly scheduled general election for members of the governing body of the local government; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " November 3, 2026 is the date of the next statewide general election at which members of the Gilroy City Council will be elected, and this ordinance is being submitted to the voters at that election; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " the City Council may, by resolution, set the actual tax rate at any amount at or below the voter-approved ceiling of thirteen percent (13%) without requiring further voter approval, thereby providing the City with the flexibility to adjust the rate as fiscal conditions warrant, provided the rate does not exceed thirteen percent (13%); and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "WHEREAS,"
+            ]
+          },
+          " the adoption of this ordinance is not a \"project\" subject to the requirements of the California Environmental Quality Act (\"CEQA\") pursuant to CEQA Guidelines Section 15378(b)(4) because it is the creation of a government funding mechanism that does not involve any commitment to a specific project that may result in a potentially significant physical impact on the environment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "NOW, THEREFORE, THE PEOPLE OF THE CITY OF GILROY DO ORDAIN AS FOLLOWS:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Section 1. Amendment of Section 25A.2."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 25A.2 (\"Tax imposed\") of Chapter 25A (\"Transient Occupancy Tax\") of the Gilroy City Code is hereby amended to read in its entirety as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "\"25A.2 Tax imposed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a) For the privilege of occupancy in any hotel, each transient is subject to and shall pay a tax as imposed from time to time by the City Council. Said tax shall be a percentage of the rent charged by the operator for the occupancy."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b) On and as of January 1, 2027, and continuing thereafter until further change by City Council resolution, the amount of the tax imposed (the tax rate) is eleven percent (11%) of the rent charged by an operator. Any further changes to the tax rate may be made by City Council resolution, provided that the rate shall not exceed thirteen percent (13%). Any such change to the tax rate shall take effect no sooner than sixty (60) days following the adoption of the resolution by the Council. If at any time no Council resolution setting a different tax rate is in effect, then the tax rate shall be eleven percent (11%)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "c) Said tax constitutes a debt owed by the transient to the city, which is extinguished only by payment to the operator or to the city. The transient shall pay the tax to the hotel operator at the time the rent is paid. If the rent is paid in installments, a proportionate share of the tax shall be paid with each installment. The unpaid tax shall be due upon the transient's ceasing to occupy space in the hotel. If for any reason the tax due is not paid to the operator of the hotel, the director of finance may require such tax to be paid directly to the director of finance.\""
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Section 2. Remaining Provisions Unchanged."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Except as specifically amended by this ordinance, all other provisions of Chapter 25A of the Gilroy City Code shall remain in full force and effect. All references in other provisions of the Gilroy City Code to Chapter 25A or to the transient occupancy tax shall continue to apply to Chapter 25A as amended by this ordinance."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Section 3. Audits and Accountability."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "All proceeds resulting from the transient occupancy tax, as amended by this ordinance, shall be deposited into the City's General Fund and shall become subject to the same independent audit requirements as other General Fund revenues. An annual report detailing TOT revenues collected shall be made available for public review."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Section 4. California Environmental Quality Act."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council finds and determines that this ordinance is not a \"project\" as defined under Section 15378(b)(4) of the California Environmental Quality Act (\"CEQA\") Guidelines because it is a government funding mechanism or other fiscal activity that does not involve any commitment to any specific project which may result in a potentially significant physical impact on the environment. Therefore, pursuant to Section 15060(c)(3) of the State CEQA Guidelines, the actions proposed herein are not subject to CEQA."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Section 5. Severability."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If any section, subsection, sentence, clause, phrase, or portion of this ordinance is for any reason held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this ordinance. The People of the City of Gilroy hereby declare that they would have adopted this ordinance and each and every section, subsection, sentence, clause, phrase, or portion thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses, phrases, or portions thereof be declared invalid or unconstitutional."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Section 6. Effective Date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This ordinance relates to the levying and collecting of the City's transient occupancy tax. This ordinance shall be adopted if approved by a majority of the voters voting on the measure at the statewide general election to be held on November 3, 2026. If so approved, this ordinance shall be considered as adopted upon the date that the vote is declared by the City Council and shall go into effect ten (10) days after that date pursuant to Elections Code Section 9217. However, the levying and collection of the transient occupancy tax at the rate established pursuant to this ordinance shall commence effective January 1, 2027, or as soon thereafter as this ordinance shall go into effect."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Section 7. Publication."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Clerk shall certify to the passage and adoption of this ordinance and shall cause the same, or a summary thereof, to be published and posted in the manner required by law."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote YES on Measure B, a fair, fiscally responsible way to support Gilroy's essential services without raising taxes on Gilroy residents."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure B updates Gilroy's hotel tax (Transient Occupancy Tax), paid only by hotel, motel, and short-term rental guests staying thirty days or less. Gilroy residents do not pay this tax—visitors do. Yet visitors use our streets, parks, and police and fire services every day they are here. Measure B simply asks our guests to contribute their fair share toward the community they enjoy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Gilroy's hotel tax rate has not changed since 1983 and remains among the lowest in Santa Clara County. Visitors already pay similar rates in neighboring cities. Every year we wait, Gilroy leaves revenue behind while residents shoulder the full cost of city services."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure B raises the rate from 9% to 11%, with a voter-approved maximum of 13%. The City Council may adjust the rate only by resolution at a public meeting, and never above the ceiling you approve. That structure lets the City respond to changing economic conditions without the expense of repeated elections—while voters keep control of the maximum."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Every dollar stays here in Gilroy. By law, this local funding cannot be taken by Sacramento. Revenue supports the services residents rely on: street and pothole repair, park and recreation programs, emergency preparedness for storms, flooding, and wildfires, and police and fire response."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The measure also includes annual independent audits to provide transparency and accountability."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "An 11% rate generates approximately $300,000 annually; the 13% maximum, approximately $700,000—meaningful funding for a city our size, at no cost to residents."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please join me in voting YES on Measure B."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Greg Bozzo",
+          "title": "Mayor, City of Gilroy"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The Gilroy City Council wants voters to approve ",
+            {
+              "strong": [
+                "a huge, 31 PERCENT tax hike"
+              ]
+            },
+            " by saying that we, the residents, won't have to pay it."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But the City wants to dramatically increase the cost of visitors' coming here for business or pleasure. ",
+            {
+              "em": [
+                "Forever."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Councilmembers are basically saying ",
+            {
+              "strong": [
+                "they prefer to discourage people from coming"
+              ]
+            },
+            " to Gilroy to ",
+            {
+              "strong": [
+                "spend their business dollars here"
+              ]
+            },
+            ", and/or to ",
+            {
+              "strong": [
+                "visit us, their family and friends."
+              ]
+            },
+            " ",
+            {
+              "em": [
+                "Even when they've traveled here to help while we're in the hospital!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Does that make any sense?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The ballot question says the tax hike would fund \"critical\" \"street/pothole repair...emergency preparedness..., and police and fire response.\" Which begs the question:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "em": [
+                "Why aren't critical police, pothole, and fire emergency services covered by the current budget?"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don't trust politicians!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The budget demonstrates our representatives' priorities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Why in the world aren't those core services (maintaining streets, police, fire response) the highest priority?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure B's tax increase wouldn't be needed"
+              ]
+            },
+            ", if only councilmembers would ",
+            {
+              "strong": [
+                "safeguard our streets, police, and fire services in the regular, annual budget."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "But those improvements are not in the city budget, so clearly, they do NOT see them as essential and not needed according to the City Council."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Don't we want more business from out-of-town visitors?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Send a message to councilmembers:\nThose core services are vital to us residents. Don't treat them as a mere afterthought, and penalize our visitors!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote NO on Measure B!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Silicon Valley Taxpayers Association's volunteers advocate for taxpayers ",
+            {
+              "em": [
+                "throughout"
+              ]
+            },
+            " Santa Clara County.\nVisit ",
+            {
+              "em": [
+                "SVtaxpayers.org."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark W.A. Hinkle",
+          "title": "President: Silicon Valley Taxpayers Association"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The argument against Measure B has it backwards."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Gilroy does prioritize police and fire response, street repair, emergency preparedness, parks, and other essential City services. Every year, the City Council makes tough budget choices about what Gilroy can afford—with residents' input through the City's public budget process. Measure B strengthens the budget, adding dedicated revenue so residents no longer shoulder the full cost alone."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Today, those services are primarily paid for by Gilroy residents and local businesses. Yet visitors who stay overnight in Gilroy also use our streets, rely on public safety and emergency response, and benefit from City services—without contributing to their full cost."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure B is about fairness. It allows visitors staying in hotels and other lodging to contribute toward the local services and infrastructure they use."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The increase is modest: two percentage points, from 9% to 11%, with a strict, voter-approved ceiling of 13%. It does not raise property, sales, or utility taxes on residents. The additional funds remain in Gilroy, cannot be taken by Sacramento, and are subject to annual independent audits."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Gilroy's hotel tax hasn't changed since 1983 and remains lower than many neighboring cities, where visitors already pay comparable rates without hesitation. This won't drive visitors away—it simply asks them to pay their fair share, the same way Gilroy residents already do."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This argument is signed by an outside, countywide advocacy group—not local officials accountable to Gilroy voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Fund critical services fairly. Vote YES on Measure B."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Greg Bozzo",
+          "title": "Mayor, City of Gilroy"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

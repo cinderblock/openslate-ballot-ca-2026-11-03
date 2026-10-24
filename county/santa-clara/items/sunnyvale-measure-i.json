@@ -1,0 +1,759 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sunnyvale — Measure I",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sunnyvale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall Section 606 of the City Charter be amended to require that a person appointed to fill a vacancy on the City Council serve until a successor is elected at the next General Municipal Election (November of even-numbered years), rather than until an earlier election date that could be consolidated with a statewide election?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"YES\" vote amends the Charter so that a council vacancy filled by appointment goes to voters at the next November election in an even-numbered year, and makes a clarifying change to the wording of Section 606(c)."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"NO\" vote keeps the existing Charter requirement that a council vacancy filled by appointment go to the voters at the next Special Municipal Election consolidated with the next statewide election or the next General Municipal Election, whichever is sooner, and makes no changes to the wording."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure would amend Sunnyvale City Charter Section 606 to specify that when the City Council appoints a person to fill a vacant seat on the Council, an election to fill the seat will be held at the next General Municipal Election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Council placed this measure on the ballot on recommendation of a Charter Review Committee of appointed Sunnyvale residents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "When a seat on the City Council becomes vacant, Charter Section 606 gives the Council two options: either call a special election to fill the vacancy, or fill the vacancy by appointment. This decision must be made by four affirmative votes. If the Council chooses to appoint, the existing Charter provides that the appointee serves until the next General Municipal Election or the next Special Municipal Election consolidated with a statewide election, whichever is sooner."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure would remove the requirement to hold a Special Municipal Election on the soonest available date when a seat is filled by appointment. The Council could still choose not to appoint anyone and call a special election instead. This measure would not change the existing Charter provision that prohibits having more than two appointees on the Council at the same time."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Depending on when a vacancy occurs, this measure could have the effect of lengthening the time that an appointee serves on the City Council. For example, if the first opportunity for a Special Municipal Election is the statewide primary in March or June of an even-numbered year, or an earlier statewide special election, the appointee will serve longer under the proposed amendment than under the existing Charter provision. At the same time, this measure avoids a situation where the City must hold a special election to fill a vacancy at the March or June primary followed by a General Municipal Election in November of the same year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure also re-words Section 606, subsection (c), to refer to the City Council votes rather than \"councilmembers\" since the Council now includes the mayor."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This amendment will become effective if a majority of those voting on the measure vote \"yes.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Rebecca L. Moon\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "To obtain copy of Measure I, call the elections official at 408-730-7483 and a copy will be provided at no cost to you."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure I",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Proposed Charter Amendments\n(City Council Vacancies)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "("
+            ]
+          },
+          "additions shown in underline, deletions in strikeout)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The citizens of the City of Sunnyvale do hereby enact the following amendments to the City Charter:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 1. Section 606 of the City Charter (Vacancies) is hereby amended to read as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "§ 606. Vacancies."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) In addition to any other cause from which vacancies in the City Council may occur, the office of the Mayor or Councilmember shall become vacant when that official:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) Resigns or dies;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) Is absent from all regular meetings of the Council for a period of sixty days consecutively from and after the last regular Council meeting attended by such member, unless by permission of the Council expressed in its official minutes;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(3) Is convicted of a crime involving moral turpitude;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(4) Ceases to be an elector of the City of Sunnyvale;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(5) Ceases to maintain his/her principal place of residence within the City limits, and/or within the applicable District boundaries for a member elected by District, during such official's term of office; or"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(6) Is involuntarily removed pursuant to Article II of the Constitution of the State of California, as may be amended from time to time."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) In the event of a vacancy in the office of Mayor or Councilmember, the Council shall officially declare the office vacant within thirty days of the commencement of any vacancy."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) Within sixty days of the date the office is officially declared vacant, the City Council shall, by at least four affirmative votes, elect to fill the vacancy by appointment or by calling an election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(d) If the vacancy is filled by appointment, the appointee shall hold office until the next General Municipal Election and a successor is elected and qualified. The Councilmember then elected shall serve for the remainder of any unexpired term, and until a successor is elected and qualified."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(e) The City Council shall adopt an ordinance establishing a public process for appointment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(f) If the City Council elects to fill the vacancy by election or fails to fill the vacancy by appointment, it shall call an election to be held within two hundred and forty days of the date the vacancy is declared."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(g) Notwithstanding any other provision of this section, the City Council shall not make an appointment to fill a vacancy if the appointment would result in more than two Council members or one Councilmember and the Mayor currently serving on the Council as appointees, and shall call a Special Municipal Election to be held within one hundred and eighty days from the date the Council declares the vacancy."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote YES to fix an expensive election flaw in our City Charter."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Right now, when the City Council fills a vacancy by appointment, the Charter can require Sunnyvale to hold ",
+            {
+              "em": [
+                {
+                  "strong": [
+                    "two"
+                  ]
+                },
+                " elections for the ",
+                {
+                  "strong": [
+                    "same"
+                  ]
+                },
+                " seat in the ",
+                {
+                  "strong": [
+                    "same"
+                  ]
+                },
+                " year."
+              ]
+            },
+            " one consolidated with a March or June primary, then another in November for the full term. Taxpayers pay for both. Candidates run two campaigns. The winner of the first election can serve as little as five months."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure makes a common-sense fix: a councilmember appointed to fill a vacancy serves until the next regularly scheduled November Sunnyvale election in even numbered years, when the most voters can choose a successor."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A YES vote:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "SAVES MONEY."
+                    ]
+                  },
+                  " It eliminates the possibility of paying for two elections for one seat in a single year, and November elections cost the City less than primary elections."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "INCLUDES MORE VOTERS."
+                    ]
+                  },
+                  " November general elections in Sunnyvale draw roughly 60% turnout. Primary Elections draw about 40%. It is best practice for Council elections to be decided when voter turnout is highest."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "KEEPS VOTERS IN CHARGE."
+                    ]
+                  },
+                  " Voters still elect every Councilmember and Mayor. But the whole electorate at the next November election chooses the new councilmember instead of a low-turnout primary."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This fix was recommended by Sunnyvale’s Charter Review Committee, after more than a year of study. Your City Council voted unanimously to place it on the ballot, and it builds directly on the vacancy reforms approved previously by Sunnyvale voters after the costly 2016 Special Election."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES for efficient elections and maximum voter participation."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Larry Klein",
+          "title": "Sunnyvale Mayor"
+        },
+        {
+          "name": "Richard Mehlinger",
+          "title": "Sunnyvale Vice Mayor"
+        },
+        {
+          "name": "Kristel Wickham",
+          "title": "Community Volunteer"
+        },
+        {
+          "name": "Murali Srinivasan",
+          "title": "Sunnyvale Councilmember"
+        },
+        {
+          "name": "Eileen Le",
+          "title": "Sunnyvale Councilmember"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote NO on Measure I. Save our elections."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "A current office holder often wins an election, enjoying name recognition and more resources than competitors. Measure I deepens this incumbency advantage."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The importance of an earlier election to fill a vacancy ",
+            {
+              "strong": [
+                "outweighs"
+              ]
+            },
+            " possible concerns over two elections for the same seat in the same even-year."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure I primarily benefits the appointee by eliminating the earlier opportunity for election competition."
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "ODD-YEAR STATEWIDE SPECIAL ELECTIONS FURTHER REDUCE"
+                    ]
+                  },
+                  " possibility for two elections in the same even-year. Since 1990, 33% of the odd-years (6 of 18) had California statewide special elections."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "IT'S BEEN ONLY 8 YEARS"
+                    ]
+                  },
+                  " since voters approved the charter language in 2018 for filling vacancies. It balanced costs and democratic ideals.\nMeasure I upsets this balance."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "APPOINTMENT POWERS CAN BE ABUSED."
+                    ]
+                  },
+                  " From 1913 to 1975, repeated resignation generated vacancies were mostly filled by appointments. Incumbents were rarely defeated due to Incumbency advantage."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Elections are an investment in a representative Sunnyvale City Council."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Filling a mayor vacancy with a district council member creates another vacancy. Currently filling that new City Council vacancy by appointment ",
+            {
+              "strong": [
+                "means two simultaneous appointments"
+              ]
+            },
+            " on Sunnyvale City Council. Many voters are unaware of this possibility. This measure's longer appointments will make this worse."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Shown below, two district elections cost about 1/3 as much as one citywide election. The expense for a primary election is reasonable:"
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": [
+                  "Estimated potential at-large vacancy election\n",
+                  {
+                    "strong": [
+                      "(6 district approx.)"
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": [
+                  "June 7, 2022"
+                ]
+              },
+              {
+                "text": [
+                  "$227,188"
+                ]
+              }
+            ],
+            [
+              {
+                "text": [
+                  "Districts 3 and 5 ",
+                  {
+                    "strong": [
+                      "(2 districts expense)"
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": [
+                  "Nov. 8, 2022"
+                ]
+              },
+              {
+                "text": [
+                  "$76,727"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "More information: https://tinyurl.com/NO-on-Measure-I"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Take charge. NO on Measure I."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mei-Ling Shek-Stefan",
+          "title": "Retired Scientist"
+        },
+        {
+          "name": "Carlene Nakagawa"
+        },
+        {
+          "name": "Jaswant S. Jessie",
+          "title": "Enrolled Agent"
+        },
+        {
+          "name": "Daryl Jamgotchian"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote NO to avoid 2+ year appointments and avoid greater appointee incumbency advantage. Preserve earlier opportunities to vote."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "If passed, this will cut the eligible elections to fill vacancies by at least half. This is done by eliminating the existing requirement to use an earlier election consolidated with a statewide election, a primary election for example. Longer appointments and appointee incumbency advantage allows council to handpick successors. While you may like the current city council, that may change in 15-20 years. Do you want that council making extended appointments?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Primary election voters are well engaged and informed. Larger turnout in even-year November elections does not justify sacrificing earlier opportunities to vote. Money spent on elections can be a very good investment."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure raises significant concerns:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "ALLOWS LONGER APPOINTMENTS, UP TO 2+ YEARS."
+                    ]
+                  },
+                  " Chances for simultaneous appointees increase."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "EXPANDS PATH TO ARRANGED APPOINTMENTS."
+                    ]
+                  },
+                  " Including bestowing incumbency advantage. By 1975 four of seven sitting council members had originally been appointed."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "APPOINTMENT POWERS CAN BE ABUSED."
+                    ]
+                  },
+                  " As shown by Sunnyvale’s history. A 2009-2010 County Civil Grand Jury Report criticized Sunnyvale regarding the 2009 interim council appointment."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Sunnyvale 2018 charter update already produced major cost savings in filling a vacancy by avoiding most stand-alone elections. There is no need to go too far. A district election costs only a fraction compared to one citywide."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sunnyvale’s 2020 shift to districts and a separate mayor increased the chances for council vacancies. Three district council member’s terms don’t align with the directly elected mayor’s. If one of those council members successfully runs for mayor, a two-year vacancy is generated. ",
+            {
+              "strong": [
+                "This measure distracts from deeper issues"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote NO to prevent excessively long council appointments. Protect voter rights to democratically choose our elected officials at the earliest statewide election."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Stephen Scandalis",
+          "title": "Retired Engineer/Program Manager"
+        },
+        {
+          "name": "Andy Frazer"
+        },
+        {
+          "name": "Richard Lesher",
+          "title": "Chartered Financial Analyst"
+        },
+        {
+          "name": "Jennifer Tasseff"
+        },
+        {
+          "name": "Susan Selna"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "American democracy is under attack as big money, special interests, and sensationalized media undermine our national elections. At times like these, local governments must work to strengthen democracy and increase voter turnout. That's why passing Measure I is so important."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Sunnyvale Charter Section 606.d states that appointees \"shall hold office until the next General Municipal Election or Special Municipal Election consolidated with the next statewide election.\" Depending on timing, a vacant seat can go up for ",
+            {
+              "strong": [
+                "BOTH"
+              ]
+            },
+            " the primary ",
+            {
+              "strong": [
+                "AND"
+              ]
+            },
+            " general elections. A vacancy triggered a double-election in 2016 and nearly triggered one in 2022."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This is a problem. We need as many residents voting for City Council as possible. Consolidating council races with low-turnout primary and special elections, when voters don't expect them, depresses turnout and weakens local democracy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Running for office costs time, money, and stress. Having to run two campaigns in a year will deter qualified candidates, while having to double-fundraise will favor those with deep pockets or wealthy backers. We already have trouble attracting candidates: since 2022, half of our City Council races have gone uncontested. ",
+            {
+              "em": [
+                "Why make that problem worse?"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The opposition worries about longer appointed terms, but Measure I only adds months at most. They cite outdated reports and problems that Sunnyvale addressed years ago. They note mayoral elections can create vacancies, but Measure I doesn't affect this."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The opposition's arguments simply don't make sense, and double elections don't either."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Protect local democracy and maximize turnout. Learn more at www.YES-on-GHI.com, and ",
+            {
+              "strong": [
+                "vote YES on Measure I"
+              ]
+            },
+            "."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Larry Klein",
+          "title": "Sunnyvale Mayor"
+        },
+        {
+          "name": "Richard Mehlinger",
+          "title": "Sunnyvale Vice Mayor"
+        },
+        {
+          "name": "Larry Stone",
+          "title": "Former Sunnyvale Mayor and Former County Assessor"
+        },
+        {
+          "name": "Murali Srinivasan",
+          "title": "Sunnyvale Councilmember"
+        },
+        {
+          "name": "Charlsie Chang",
+          "title": "Sunnyvale Councilmember"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Milpitas Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/milpitas",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:36Z",
+  "candidates": [
+    {
+      "choice": "Hon Lien",
+      "statement": {
+        "by": "Hon Lien",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Milpitas City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Milpitas needs new leadership. As Mayor, we will work together to address the challenges facing our city. Milpitas has lost 10 Senior Executives in the past 5 years, resulting in significant costs. The city has violated numerous Municipal codes, and this must stop. We must strengthen our public safety units, our economic development, and our infrastructure. Inflation is a concern for our residents, and one way to address it is by accelerating existing development projects, which can help reduce the tax burden on our residents. We need to strengthen our traffic enforcement and create a parking enforcement division. To support the health and well-being of our community, we should expand recreation programs that serve residents of all ethnicities. State mandated housing requirements present challenges. As we meet these requirements, our priority must be protecting the character of our neighborhoods. It is time to build a stronger partnership with our School District to provide training in new technologies. Most importantly, the Mayor should support the City Manager and Staff while working to secure additional funding and relationships. The City Council should remain focused on its policymaking role and avoid involvement in the City's day-to-day operations. Please consider voting for me."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3760_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Carmen Montano",
+      "statement": {
+        "by": "Carmen Montano",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Mayor of Milpitas/Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Milpitas families deserve a Mayor who listens, delivers results, and puts residents first. We deserve safe neighborhoods, dependable city services, well-maintained roads and parks, responsible growth, and a government that uses your taxpayer dollars wisely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a life-long resident of Milpitas, with 20 years in elected leadership, I am honored to serve the community I was raised in. I have earned the trust of our residents through public service on the Milpitas Unified School District Board of Education, the city council, and two terms as your Mayor."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As our city continues to grow, my focus remains on the priorities that matter most: safer neighborhoods, stronger emergency preparedness, crime reduction, affordable housing opportunities, attracting new businesses for job creation, and responsible budgets that protect your quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have led efforts to reduce our structural deficit by 45% without cutting jobs and services. It would be my honor to continue serving as your Mayor, listening to residents, reducing cost, delivering results, beautifying our city, and working everyday to make Milpitas an even finer place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote to continue building on our progress making Milpitas a safer, greater place to live for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ilovemilpitas3@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3761_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

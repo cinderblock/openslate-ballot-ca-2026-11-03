@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Campbell Union School District Board, Trustee Area 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:17Z",
+  "candidates": [
+    {
+      "choice": "Sam Krow-Lucal",
+      "statement": {
+        "by": "Sam Krow-Lucal",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Associate Finance Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a proud product of California's public education system. From elementary school through my master's degree, my journey showed me the transformative power of accessible, quality public education. Now, as a parent, I want my son and every student in Campbell Union School District to have that same opportunity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will fight for our children to have the best education and support possible. I will ensure that the district is fiscally responsible and doesn't waste your tax dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "At Stanford University, I work with project managers on diverse construction projects, giving me experience in budgeting, long-range planning, and facilities management. As the Chair of Stanford's LBRE Engagement Council, I know how to be an inclusive, forward-thinking leader."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public education faces several challenges, but with CUSD's homegrown leadership, we have a strong foundation. Kids learn best when they are supported, both in and out of the classroom. The goal is progress, not perfection. I want students to be inspired to be lifelong learners and not just learn for the sake of testing. I will put students first and ensure our schools empower and inspire every child to grow and succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm endorsed by the previous trustee who spent 22 years on the board. www.electsamkrowlucal.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3709_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Vartika Chandra",
+      "statement": {
+        "by": "Vartika Chandra",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Parent/Community Leader\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a decade-long district parent, former corporate executive, and community leader, I am running for the Campbell Union School District Board of Trustees (Area 5) to bring practical oversight, fiscal responsibility, and inclusive leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are ensuring strong fundamentals in reading, math, and science, smaller class sizes, and a well-rounded education with arts, music, and physical education—equipping elementary students with practical skills to succeed in high school."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "To achieve this, I bring a Post Graduate Diploma in Management and expertise in budget oversight to ensure public funds directly support classrooms. In elected roles on the School Site Council and PTA Executive Board, I scaled hands-on learning labs, spearheaded multicultural events, and earned recognition as Forest Hill's Volunteer of the Year. Both of my children attended CUSD from preschool onward."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring a strategic business mindset and a mother's heart to foster open, transparent communication between the board, educators, and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proudly endorsed by local teachers, neighboring school board trustees, and over 300 parents and community members, I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Backed by parents. Guided by educators. Focused on students."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3710_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fremont Union High School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:11Z",
+  "candidates": [
+    {
+      "choice": "Naomi Nakano-Matsumoto",
+      "statement": {
+        "by": "Naomi Nakano-Matsumoto",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Social Worker"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee, I have honored my commitment to keep Fremont Union High School District a beacon of equity and excellence. We have expanded social-emotional learning and behavioral health supports, invested in meaningful professional development for teachers and staff, maintained mission─and values-based budgeting, and provided strong oversight of our community-supported bond and parcel tax measures. During the pandemic, I helped guide our district through campus closures, successful remote learning, and the safe return to in-person instruction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Board President, I led the search for our new Superintendent, strengthened our contracting policies and governance practices, and expanded partnerships with our feeder school districts, city leaders, and community organizations to better serve students and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My leadership is grounded in years of nonprofit executive experience, a proven record of building innovative programs with measurable results, and a lifelong commitment to servant leadership, ethical governance, equity, social justice and community collaboration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I remain committed to ensuring every student having the opportunity to learn, grow, and thrive in schools where they feel safe, supported, challenged, and valued. I have worked to ensure that every decision reflects our shared commitment to educational excellence, equity, and responsible stewardship of public resources."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3690_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Ilanit Eliaz",
+      "statement": {
+        "by": "Ilanit Eliaz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the mother of two college students who attended Sunnyvale public schools from childhood through high school, I bring perspective of both a parent and an educator. My experience as an Early Intervention Special Educator and preschool teacher been dedicated to supporting students and their families. I volunteered hundreds of hours in Sunnyvale School District as a room parent, art teacher, PTA member and supporter of school events. I led a parent support group for families of children with special needs, organized workshops, and invited guest speakers. Through the SELPA Community Advisory Committee, I advocated for students and helped families navigate the school system."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running to bring transparency and accountability by ensuring decisions are made openly, taxpayer dollars are managed responsibly, and families are informed and heard. I will work to raise academic achievements, remove barriers to education, strengthen student support services, improve student safety, expand access to mental health resources, and build stronger partnerships among families, teachers, staff and the Board. I am committed to preparing every graduate for success in college, vocation, and life path. I will listen, lead with integrity, and make thoughtful decisions that put students first. I respectfully ask for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "https://elect-ilanit.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3691_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Orchard School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:22Z",
+  "candidates": [
+    {
+      "choice": "Katherine Kasolas-Jacobson",
+      "statement": {
+        "by": "Katherine Kasolas-Jacobson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Teacher/Governing Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every student deserves an excellent education and the opportunity to discover their strengths, pursue their interests, and reach their full potential. It has been a privilege to serve Orchard School District as a Governing Board Member, bringing more than a decade of experience in education, leadership, and governance. I respectfully ask for your support to continue this work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an educator and Board Member, I understand the needs of students, classrooms, families, and schools. I am proud to support a well-rounded education, including music and arts programs that foster creativity, confidence, collaboration, and lifelong learning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked collaboratively with district leadership to provide responsible fiscal stewardship, evaluate priorities, update policies, and strengthen our schools. Together with our exceptional educators, administrators, staff, families, and community, we have improved learning environments and library resources while planning responsibly for future facility needs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Preparing students for the future requires academic excellence and strong foundations in science, technology, engineering, mathematics, communication, creativity, and critical thinking—along with confidence, adaptability, collaboration, and problem-solving skills."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Trusted leadership requires listening, integrity, transparency, strong community partnerships, and keeping students at the center of every decision. I would be honored to continue serving Orchard School District with dedication, experience, and thoughtful leadership."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3723_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sunnyvale School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:24Z",
+  "candidates": [
+    {
+      "choice": "Rommy Kushner",
+      "statement": {
+        "by": "Rommy Kushner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a classroom teacher, I see every day how important strong schools are to our children, families, and community. I understand the needs of students, the dedication of teachers, and the partnership families want with their schools."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My years in special education and working with multilingual students have reinforced a simple belief that every student is capable of growth and achievement. When schools combine high expectations with the right support, students of every background and ability can thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running to help ensure that every student has a safe, supportive, and high-quality learning environment. I believe in strong academic foundations, student well-being, transparent communication, and responsible use of district resources. Our schools should prepare children not only to succeed in the classroom, but also to grow with confidence and respect for others."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "School board decisions shape what happens in our classrooms every day. I will bring the perspective of someone who understands those realities because I have lived them as an educator."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3726_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Michelle Maginot",
+      "statement": {
+        "by": "Michelle Maginot",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member, Sunnyvale School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am grateful to have served the students and community of the Sunnyvale School District as a School Board member for the last ten years, including two years as Board President."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong resident who attended Cumberland, Sunnyvale Middle, and Fremont High School, and as a parent in the district, my commitment to our community is deeply-rooted."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to fight for our youth and ensure we are actively addressing the needs of all of our students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Board Member, I have successfully advocated for programs and resources that prepare our students for high school, college, and beyond. I have championed our children's needs locally, as well as at the State and Federal levels."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am energized by our progress and the direction we are headed. If re-elected, I will remain fiercely committed to eliminating the persistent achievement gaps, ensuring fiscal responsibility, and empowering family/parent engagement. Together, we can ensure every student's well-being and academic success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to receive your support and your vote."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3727_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

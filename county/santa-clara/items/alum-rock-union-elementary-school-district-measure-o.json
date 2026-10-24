@@ -1,0 +1,717 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alum Rock Union Elementary School District — Measure O (Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:26:01Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "With funds that cannot be taken by State or Federal Government officials, shall Alum Rock Union Elementary School District's measure to protect services for students with disabilities; improve reading, writing, math and science programs; attract and retain highly qualified teachers; and support students experiencing housing instability be adopted, by replacing the current tax at $310 per parcel for seven years, while raising $6.5 million annually with senior exemptions, and public disclosure of all spending?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/736_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote is a vote to replace the existing parcel tax with a new parcel tax at a rate of $310 per parcel on parcels within the District for seven years, beginning July 1, 2027."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/736_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote is a vote to not replace the tax."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/736_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "A school district may levy a qualified special tax upon approval by two-thirds of the votes cast on a measure pursuant to article XIIIA, section 4 of the California Constitution and California Government Code section 50079. In June 2022, Alum Rock Union Elementary School District (District) voters adopted Measure I, authorizing a parcel tax of $214.10 per parcel, adjusted annually, for seven years. Now, the District Board of Trustees (Board) has placed on the ballot a measure to replace that parcel tax with a tax of $310 per parcel. If approved by voters, the Measure I tax would cease and the new annual tax would commence on July 1, 2027, and continue for seven (7) years from that date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "State law requires that such measures state the specific purposes for which tax proceeds will be used and spend the proceeds only for these purposes. The stated purposes of the tax proposed by Measure O are to:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Enhance academic programs, core instruction, literacy, reading, mathematics, science, and other instructional programs;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Protect and enhance special education and other programs and services for students with disabilities;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Support learning resources, academic intervention, programs for English learners, students experiencing housing instability, foster youth, and other student support programs and services;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Support competitive salaries, wages, and benefits to attract and retain qualified teachers and staff;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Expand classes and programs for science, technology, engineering, arts, and math instruction;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Support instructional programs for dual-language immersion, English learner instruction, and multilingual education; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Expand and enhance visual and performing arts, music, and other enrichment programs and instruction."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Measure states that tax proceeds will not fund any program beyond those listed in the Measure nor be used for administrators' salaries, benefits, or pensions. Pursuant to State law, the Measure provides accountability measures for the proceeds, including (1) depositing the proceeds into a fund separate from other District funds, and (2) providing an annual written audit report to the Board detailing the amount of funds collected and expended and the status of any project, programs, and purposes required or authorized to be funded by the tax. The Measure also provides that the Board will establish a citizen oversight committee to advise the Board on tax revenue expenditure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "According to the Measure, the proposed tax does not apply to property that is otherwise exempt from taxation. The Measure states that an exemption will apply to persons occupying the parcel as a principal residence and who are (1) receiving Supplemental Security Income for a disability, regardless of age, or (2) receiving Social Security Disability Insurance benefits, regardless of age, and whose yearly income does not exceed 250 percent of the 2012 federal poverty guidelines issued by the United States Department of Health and Human Services. The Measure also states that an exemption shall also be available, upon application, to persons 65 years or older who own and occupy the parcel as a principal residence."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Tony LoPresti\nCounty Counsel"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By: /s/ Nick DeFiesta\nDeputy County Counsel"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/736_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure O",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FULL TEXT OF MEASURE"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "PURPOSES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "To provide local revenue that cannot be taken by the State and spent elsewhere, and to maintain high-quality public education in schools in the Alum Rock Union Elementary School District (the \"District\"), the District proposes to levy and collect an education parcel tax annually for seven years as more fully described below under \"EDUCATION PARCEL TAX AND PROCEDURES,\" and to implement accountability measures in connection with the education parcel tax and to provide oversight and accountability to ensure that funds are used only for the following specific purposes:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Enhance academic programs, core instruction, literacy, reading, mathematics, science and other instructional programs;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Protect and enhance special education and other programs and services for students with disabilities;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Support learning resources, academic intervention, programs for English learners, students experiencing housing instability, foster youth, and other student support programs and services;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Support competitive salaries, wages and benefits to attract and retain qualified teachers and staff;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Expand classes and programs for Science, Technology, Engineering, Arts and Math (\"STEAM\") instruction;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Support instructional programs for dual-language immersion, English learner instruction, and multilingual education;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Expand and enhance visual and performing arts, music and other enrichment programs and instruction."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Trustees will not fund any program other than those listed above from the proceeds of the education parcel tax. Under no circumstances shall any of the proceeds of the education parcel tax be used for administrators' salaries, benefits or pensions."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "EDUCATION PARCEL TAX AND PROCEDURES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "Amount and Timing of Education Parcel Tax."
+            ]
+          },
+          " Subject to two-thirds approval of the voters, beginning July 1, 2027 (fiscal year 2027-28), the District shall be authorized to levy an annual qualified special tax at the rate of $310 per parcel on all assessor's parcels, replacing the current parcel tax approved by voters in June 2022. The authorization to levy this qualified special tax shall expire on June 30, 2034. It is intent of the voters that the tax be levied for a period of seven years commencing July 1, 2027, unless extended by voters. The tax will be collected by the Santa Clara County Tax Collector at the same time as and along with, and shall be subject to the same penalties as general ",
+          {
+            "em": [
+              "ad valorem"
+            ]
+          },
+          " taxes collected by said tax collector."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This qualified special tax is estimated to raise $6.5 million in annual local funding for District schools. The amount of annual local funding raised by this qualified special tax will vary from year-to-year due to changes in the number of parcels subject to the levy."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If this Measure is approved, the qualified special taxes authorized by voters as \"Measure I\" in June 2022 shall cease and be replaced with this Measure on the date the qualified special tax authorized by this Measure is first levied."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Trustees will not use the proceeds of the parcel tax to fund any programs other than those listed above and will establish an independent citizen oversight committee to ensure that funds are used for such purposes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "Definition of Parcel."
+            ]
+          },
+          " A parcel shall be defined as any unit of land in the District that receives a separate tax bill from the Santa Clara County Tax Collector."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "Exemptions."
+            ]
+          },
+          " The following exemptions shall apply to the levy of the qualified special tax."
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "em": [
+                    "Otherwise Exempt Property."
+                  ]
+                },
+                " All property that would otherwise be exempt from property taxes shall also be exempt from the education parcel tax."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "em": [
+                    "Senior Citizen Exemption."
+                  ]
+                },
+                " An exemption shall be available to persons who are 65 years or older and own and occupy as a principal residence a parcel subject to the education parcel tax."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "em": [
+                    "SSI Exemption."
+                  ]
+                },
+                " Persons receiving Supplemental Security Income for a disability, regardless of age, and occupying said parcel as a principal residence (the \"SSI Exemption\")."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                {
+                  "em": [
+                    "SSDI Exemption."
+                  ]
+                },
+                " Persons receiving Social Security Disability Insurance benefits, regardless of age, with a yearly income that does not exceed 250 percent of the 2012 federal poverty guidelines issued by the U.S. Department of Health and Human Services and occupying said parcel as a principal residence (the \"SSDI Exemption\")."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Property owners seeking the senior citizen exemption must apply to the District for such exemption under procedures established by the District or otherwise as required by law or by the Santa Clara County Tax Collector. However, property owners who have already qualified for a senior citizen exemption under the District's current parcel tax measure will be automatically qualified for an exemption under this measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "Exclusive Procedures."
+            ]
+          },
+          " The procedures described herein with respect to the levy and collection of the education parcel tax and exemptions, and any additional procedures established by the Board of Trustees of the District, shall be the exclusive claims procedure for claimants seeking an exemption, refund, reduction, or re-computation of the qualified special tax. Whether any particular claim is to be resolved by the District or by the County shall be determined by the District, in coordination with the County as necessary. The District's Board of Trustees may adopt such additional or supplemental procedures as it deems necessary or convenient for the administration of the education parcel tax."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "ACCOUNTABILITY MEASURES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "Government Code Accountability."
+            ]
+          },
+          " In accordance with the requirements of California Government Code sections 50075.1 and 50075.3, the following accountability measures, among others, shall apply to the qualified special taxes levied in accordance with this Measure:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "the specific purposes of the education parcel tax shall be those purposes identified above under the heading \"PURPOSES,\""
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "the proceeds of the education parcel tax shall be applied only to those specific purposes identified above under the heading \"PURPOSES,\""
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "a separate, special account shall be created into which the proceeds of the education parcel tax must be deposited; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "the chief fiscal officer of the District shall file an annual written report with the Board of Trustees of the District showing (1) the amount of funds collected and expended from the proceeds of the education parcel tax and (2) the status of any projects, programs or purposes identified above under the heading \"PURPOSES.\""
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "Citizens' Oversight Committee."
+            ]
+          },
+          " In addition to the accountability measures required by the Government Code, an independent Citizens' Oversight Committee shall be appointed by the Board of Trustees to advise the Board on the expenditures funded by the measure in order to ensure that said funds are spent for the purposes approved by the voters. The Citizens' Oversight Committee will monitor the expenditures of these funds by the District and will report on an annual basis to the Board and community on how these funds have been spent."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "Annual Report."
+            ]
+          },
+          " The District will prepare a report with the Board each year containing (a) the amount of education parcel tax funds collected and expended and (b) the status of any projects, programs and purposes required or authorized to be funded from the proceeds of the education parcel tax as identified in the measure."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "PROTECTION OF FUNDING"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Current law forbids any decrease in State or Federal funding to the District because of the District's adoption of an education parcel tax. However, if any such funds are reduced because of the adoption of this education parcel tax, then the amount of the education parcel tax will be reduced annually as necessary in order to restore such State or Federal funding."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "SEVERABILITY"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Trustees of the District hereby declares, and the voters by approving this Measure concur, that every section, paragraph, sentence and clause of this Measure has independent value, and the Board of Trustees and the voters would have adopted each provision hereof regardless of every other provision hereof. Upon approval of this Measure by the voters, should any part be found by a court of competent jurisdiction to be invalid for any reason, all remaining parts hereof shall remain in full force and effect to the fullest extent allowed by law."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/736_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Alum Rock's elementary schools are where children learn, grow, and receive the support to reach their full potential. Our schools help students build strong academic foundations, support student well-being, and provide opportunities for every child to succeed."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure O is a local, dedicated funding source that replaces the current parcel tax approved by voters in 2022. ",
+            {
+              "strong": [
+                "It protects the critical academic programs, services, and people our students depend on every day."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Your YES vote on Measure O will:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Protect services and programs that students with disabilities rely on every day."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Provide academic support services to improve reading, writing, math and science comprehension so every student develops the fundamentals for success."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Provide competitive salaries and benefits for teachers to retain and recruit strong educators"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Recruit and retain strong teachers, staff and counselors who are dedicated to helping our students succeed."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Support English Language Learner programs."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Improve science, technology, engineering, arts and mathematics programs."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Provide programs and services for foster youth students and those experiencing housing instability to help students stay on track."
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure O includes strict taxpayer protections:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Measure O funds cannot be taken by State or Federal government officials and spent elsewhere."
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Public disclosure of all spending is required"
+                    ]
+                  },
+                  ", ensuring responsible use of funds."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "No funds for administrators' salaries, pensions, or benefits"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Homeowners age 65+ can apply for an exemption."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Funds will directly support programs and services for local students."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Your YES vote on Measure O protects the teachers, services and programs already at work in our schools."
+              ]
+            },
+            " Every child deserves a strong start. Don't let budget cuts take away dedicated teachers, vital services, and academic programs that students rely on every day."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join teachers, parents, guardians, grandparents, neighbors, business owners, and community leaders in voting ",
+            {
+              "strong": [
+                "YES on Measure O!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Amy Rodrigues",
+          "title": "School Nurse"
+        },
+        {
+          "name": "Trevor Emmett",
+          "title": "Teamsters Representative"
+        },
+        {
+          "name": "Andrés Quintero",
+          "title": "Governing Board Member"
+        },
+        {
+          "name": "Corina Herrera-Loera",
+          "title": "Governing Board Member"
+        },
+        {
+          "name": "Minh Nguyen",
+          "title": "Governing Board Member"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/736_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alum Rock Union Elementary School District — Measure P (General Obligation Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:26:01Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "With funds that cannot be taken by the State or Federal government, shall Alum Rock Union Elementary School District's measure to repair leaky roofs and plumbing; replace heating, ventilation, and air conditioning; and upgrade emergency communication and security systems be adopted, authorizing $100 million of bonds with legal rates, without increasing current tax rates, average levies below $26 per $100,000 of assessed valuation (raising $6.3 million annually while outstanding), audits, independent oversight, and disclosure of all spending?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/737_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote is a vote to authorize the issuance and sale of up to $100 million of general obligation bonds to fund school facilities projects as described in the Measure."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/737_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote is a vote not to authorize the issuance and sale of the bonds."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/737_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "California law permits school districts to issue bonds with the approval of 55% of district voters. Such bonds may be used only for construction, reconstruction, rehabilitation, or replacement of school facilities, including furnishing and equipping those facilities, or the acquisition or lease of real property for school facilities."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Board of Trustees (Board) of the Alum Rock Union Elementary School District (District) has placed on the ballot a Measure authorizing the issuance and sale of up to $100 million in such bonds."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As identified in the Measure, projects may include but are not limited to:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Replacing, repairing, and/or modernizing roofs, plumbing, sewer and gas lines, and heating and cooling systems;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Acquiring, installing, and/or upgrading campus safety and security systems, including emergency communication systems;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Constructing, expanding, equipping classrooms and student support facilities;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Constructing, renovating, and equipping classrooms and labs supporting science, technology, engineering, arts, and mathematics instruction;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Installing and modernizing restrooms and drinking fountains;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Constructing and modernizing learning and play areas for preschool, transitional kindergarten, and kindergarten;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Improving paved surfaces;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Modernizing and retrofitting cafeterias and multipurpose rooms;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Constructing athletic fields, gymnasiums, and locker rooms;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Improving, upgrading, and expanding technology infrastructure;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Making health and safety improvements; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Making accessibility upgrades."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Bond proceeds may be spent on eligible project costs, such as design, engineering, architectural, and other professional services; construction management, administration, and other planning and permitting, legal, and accounting services; and other costs incidental but directly related to the projects. In accordance with state law, the Measure states that bond proceeds would not be used for teacher or administrator salaries or other school operating expenses."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "These general obligation bonds will be payable from ad valorem taxes levied on taxable real property within the District. The Measure states that the best estimate of the average annual tax rate to be levied to repay the proposed bonds is $25.52 per $100,000 of assessed value, that the final fiscal year in which the tax is anticipated to be collected will be 2053-2054, and that the best estimate of the total debt service during the life of the bond, including principal and interest, is $170 million."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "State law requires the District to take certain steps to account for the bond proceeds. The District has listed in the Measure the specific projects to be funded, including a certification that, in developing the list, the Board evaluated safety, class size reduction, enrollment growth, and information technology needs. Additionally, the District will appoint an independent citizens' oversight committee, conduct annual independent performance and financial audits, deposit the bond proceeds into a fund held by the Santa Clara County Treasurer, and file an annual report with the Board containing information regarding the amount of funds collected and expended and the status of projects listed in the Measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Tony LoPresti\nCounty Counsel"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By: /s/ Nick DeFiesta\nDeputy County Counsel"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Tax Rate Statement"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "TAX RATE STATEMENT REGARDING PROPOSED ALUM ROCK UNION ELEMENTARY SCHOOL DISTRICT GENERAL OBLIGATION BONDS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An election will be held in the Alum Rock Union Elementary School District (the \"District\") on November 3, 2026, to authorize the sale of up to $100,000,000 in bonds of the District to finance school facilities as described in the measure. If such bonds are authorized and sold, principal and interest on the bonds will be payable only from the proceeds of ",
+          {
+            "em": [
+              "ad valorem"
+            ]
+          },
+          " tax levies made upon the taxable property in the District. The following information is provided in compliance with Sections 9400-9404 of the Elections Code of the State of California. Such information is based upon the best estimates and projections presently available from official sources, upon experience within the District, and other demonstrable factors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Based upon the foregoing and projections of the District's assessed valuation, the following information is provided:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The best estimate of the average annual tax rate which would be required to be levied to fund this bond issue over the entire duration of the bond debt service, based on a projection of assessed valuations available at the time of filing of this statement, is $25.52 per $100,000 of assessed valuation. The final fiscal year in which the tax is anticipated to be collected is 2053-54."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The best estimate of the highest tax rate which would be required to be levied to fund this bond issue, based on a projection of assessed valuations available at the time of filing of this statement, is $30.00 per $100,000 of assessed value. It is estimated that such rate would be levied starting in fiscal year 2033-34 and following."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The best estimate of the total debt service, including the principal and interest, that would be required to be repaid if all the bonds are issued and sold is approximately $170 million."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Voters should note the estimated tax rate is based on the assessed value (not market value) of taxable property on the County's official tax rolls. Property owners should consult their own property tax bills and tax advisors to determine their property's assessed value and any applicable tax exemptions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The attention of all voters is directed to the fact that the foregoing information is based upon projections and estimates only, which amounts are not maximum amounts and are not binding upon the District. The actual debt service, tax rates and the years in which they will apply may vary from those used to provide the estimates set forth above, due to factors such as variations in the timing of bond sales, the par amount of bonds sold and market interest rates available at the time of each sale, actual assessed valuations over the term of the bonds, and other factors. The date and amount of bonds sold at any given time will be determined by the District based on the need for project funds and other considerations. The actual interest rates at which the bonds will be sold will depend on conditions in the bond market at the time of sale. Actual future assessed valuations will depend upon the amount and value of taxable property within the District as determined by the County Assessor in the annual assessment and the equalization process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By: /s/ Teresa DeCelles\nAssistant Superintendent, Business Services\nAlum Rock Union Elementary School District"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/737_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure P",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "FULL TEXT OF BOND MEASURE P"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "BOND AUTHORIZATION"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By approval of this Measure by at least 55 percent of the registered voters voting on the measure, the Alum Rock Union Elementary School District (the \"District\") will be authorized to issue and sell bonds of up to $100,000,000 in aggregate principal amount at interest rates not to exceed legal limits, and to provide financing for the specific types of school facilities projects listed in the Bond Project List described below, subject to all the accountability requirements specified below."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "ACCOUNTABILITY REQUIREMENTS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Expenditures to address specific facilities needs of the District will be in compliance with the requirements of Article XIIIA, Section 1(b)(3), of the State Constitution and the Strict Accountability in Local School Construction Bonds Act of 2000 (codified at Education Code Sections 15264 and following.), all as further confirmed in the resolution adopted by the District Board of Trustees (the \"District Board\") placing this measure before voters (the \"Resolution\")."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Evaluation of Needs"
+            ]
+          },
+          ". The District Board hereby certifies that it has evaluated safety, class size reduction, enrollment growth, and information technology needs in developing the Bond Project List shown below."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Independent Citizens' Oversight Committee"
+            ]
+          },
+          ". Following approval of this measure, the District Board will establish an Independent Citizens' Oversight Committee, under Education Code Sections 15278 and following, to ensure bond proceeds are expended only on the types of school facilities projects listed below. The committee will be established within 60 days of the date when the results of the election appear in the minutes of the District Board."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Performance Audits"
+            ]
+          },
+          ". The District Board will conduct annual, independent performance audits to ensure that the bond proceeds have been expended only on the school facilities projects listed below."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Financial Audits"
+            ]
+          },
+          ". The District Board will conduct annual, independent financial audits of the bond proceeds until all of those proceeds have been spent for the school facilities projects listed below."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "Government Code Accountability Requirements."
+            ]
+          },
+          " As required by Section 53410 of the Government Code, (1) the specific purpose of the bonds is set forth in this Full Text of the Measure, (2) the proceeds from the sale of the bonds will be used only for the purposes specified in this measure, and not for any other purpose, (3) the proceeds of the bonds, when and if issued, will be deposited into a building fund to be held by the Santa Clara County Treasurer, as required by the California Education Code, and (4) the Superintendent of the District shall cause an annual report to be filed with the District Board, which report shall contain pertinent information regarding the amount of funds collected and expended, as well as the status of the projects listed in this measure, as required by Sections 53410 and 53411 of the Government Code."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "NO TEACHER OR ADMINISTRATOR SALARIES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Proceeds from the sale of bonds authorized by this measure shall be used only for the purposes specified in Article XIII A, Section 1(b)(3), those being for the construction, reconstruction, rehabilitation, or replacement of school facilities, including the furnishing and equipping of school facilities, and the acquisition or lease of school facilities, and not for any other purpose, including teacher and administrator salaries and other school operating expenses."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "STATE MATCHING FUNDS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The following statement is included in this measure pursuant to Education Code Section 15122.5: Approval of this measure does not guarantee that the proposed project or projects that are the subject of bonds under this measure will be funded beyond the local revenues generated by this measure. The District's proposal for the project or projects described below may assume the receipt of matching state funds, which, if available, could be subject to appropriation by the Legislature or approval of a statewide bond measure."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "INFORMATION ABOUT ESTIMATES AND PROJECTIONS INCLUDED IN BALLOT"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Voters are informed that any estimates or projections in the bond measure or ballot materials, including relating to estimated rates of ",
+          {
+            "em": [
+              "ad valorem"
+            ]
+          },
+          " property taxes, the duration of issued bonds and related levies and collections of ",
+          {
+            "em": [
+              "ad valorem"
+            ]
+          },
+          " property taxes are provided as informational only and are not binding on the District. Such amounts are estimates and are not maximum amounts or limitations on the terms of the bonds, the rate or the duration of the tax supporting repayment of issued bonds. Such estimates depend on numerous variables which are subject to variation and change over the term of the District's overall facilities and bond financing plan, including but not limited to the amount of bonds issued and outstanding at any one time, the interest rates applicable to issued bonds, market conditions at the time of sale of the bonds, when bonds mature, timing of project needs and changes in assessed valuations in the District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "While estimates and approximations are provided based on information currently available to the District and its current expectations, such estimates and approximations are not limitations and are not binding upon the District. In addition, the abbreviated and condensed statement of the bond measure presented to voters which is subject to a word count limitation imposed by State law does not limit the scope and more complete meaning of the measure provided in this Full Text of Bond Measure, the Resolution and related ballot materials."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Furthermore, the District currently expects that bonds issued pursuant to this measure will not increase the cumulative tax rate supporting District bonds above the 2025-26 tax rate, although the final maturity of outstanding bonds will be extended by this measure. Notwithstanding the foregoing, voters are informed that general obligation bonds authorized by this measure are secured by an ",
+          {
+            "em": [
+              "ad valorem"
+            ]
+          },
+          " tax unlimited as to rate or amount under State law. Although the current expectation is that the cumulative tax rate for bonds will not be increased by this measure, voters are informed that this expectation does not result in a cap or limitation on the tax levies required to amortize bonds authorized hereby. The District cannot anticipate all events which could result in assessed valuation changes including declines which may result in levies following bond issuance during the term of the bonds that are higher than the rate described in this section."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "BOND PROJECT LIST"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "School Facility Project List."
+            ]
+          },
+          " The items presented on the following list are the specific types of projects authorized to be financed with voter-approved bond proceeds. Examples included on this list are not intended to limit the broader types of projects described and authorized by this measure. The authorized projects are:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Replace, repair, modernize deteriorating roofs, leaking pipes, outdated plumbing, sewer and gas lines, waterlines, valves, heating, cooling (HVAC), ventilation systems, and electrical mains and distribution systems;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Acquire, install, and/or upgrade campus safety and security systems, including intercom and emergency communications systems, lighting, bell and fire and life safety systems, installing additional fencing and controlled access gates, upgrading door locks and point of entry access;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Construct, expand, retrofit, and equip classrooms, facilities, and learning spaces for special education, counseling, wellness centers, learning resource centers, and other student support facilities;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Renovate, repair, and modernize classrooms and other school facilities, including flooring, windows, window coverings, doors, lighting, interior and exterior finishes, and paint;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Construct, renovate, furnish, and equip classrooms, labs, and instructional spaces supporting Science, Technology, Engineering, Arts and Mathematics (STEAM) instruction;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Acquire, install, repair and modernize restrooms, drinking fountains, and hydration stations;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Provide adequate furniture and equipment for all classrooms;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Remove or replace aging portable buildings and classrooms with new permanent construction;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Renovate, expand, modernize and construct school libraries, labs, workshops and makerspaces;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Construct, modernize and equip learning and play areas for preschool, transitional kindergarten and kindergarten;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Improve, replace, modernize and/or upgrade asphalt, concrete and paved surfaces, including drop-off and pick-up areas, outdoor learning areas, pedestrian walkways and parking lots;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Modernize, retrofit, and equip cafeterias, food service facilities, multipurpose rooms, and student common areas;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Construct, renovate, repair, replace, and modernize playgrounds, athletic fields, gymnasiums, locker rooms and other indoor and outdoor physical education and related improvements;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Improve, upgrade and expand electrical, communication, network and technology infrastructure, including wiring, hardware, software, computers, devices and related equipment;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Make health and safety improvements, such as installing necessary seismic reinforcements, repairing termite damage, and repairing and/or replacing aging building materials, including the removal of hazardous materials identified either prior to or during renovations;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Federal and State-mandated Americans with Disabilities Act (ADA) accessibility upgrades district-wide, including site access, walkways, parking, staff and student restrooms, relocation of some existing electrical devices, drinking fountains, playground equipment, and classrooms."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Incidental Expenses. Each of the bond projects described in this Bond Project List includes the costs of furnishing and equipping such facilities, and all costs that are incidental but directly related to the types of projects described above. Examples of incidental costs include, but are not limited to: costs of design, engineering, architect and other professional services, facilities assessments, inspections, site preparation, utilities, landscaping, bond project construction management, administration and other planning and permitting, legal, accounting and similar costs; independent annual financial and performance audits; a customary construction contingency; demolition and disposal of existing structures; the costs of interim housing and storage during construction including relocation and construction costs incurred relating to interim facilities; the preparation or restoration of construction, renovation or remodeling; rental or construction of storage facilities and other space on an interim basis for materials and other equipment and furnishings displaced during construction; costs of relocating facilities and equipment as needed in connection with the projects; interim classrooms and facilities for students, administrators, and school functions, including modular facilities; federal and state-mandated safety upgrades; addressing unforeseen conditions revealed by construction/modernization and other necessary improvements required to comply with existing building codes, including the Field Act; access requirements of the Americans with Disabilities Act; and costs of the election; bond issuance costs; and project administration during the duration of such projects, as permitted by law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Furnishing and Equipping. Each project is assumed to include its share of furniture, fixtures, equipment, architectural, engineering, and similar planning costs, program/project management, staff training expenses, and a customary contingency for unforeseen design and construction costs. In addition to the listed projects stated above, the list also includes the acquisition of a variety of instructional, maintenance and operational equipment, including the reduction or retirement of outstanding lease obligations and interim funding incurred to advance fund projects from the list; installation of signage and fencing; payment of the costs of preparation of all facility planning, facility studies, assessment reviews, facility master plan preparation and updates, environmental studies (including environmental investigation, remediation and monitoring), design and construction documentation, and temporary housing of dislocated District activities caused by construction projects. The upgrading of technology infrastructure includes, but is not limited to, computers, projectors, portable interface devices, servers, switches, routers, modules, sound projection systems, printers, digital white boards, document projectors, telephone system, call manager, and network security/firewall, wireless technology systems, and other miscellaneous equipment and software."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Scope of Projects. Bond proceeds will be expended in accordance with State law on the construction, modernization, reconstruction, rehabilitation, replacement, equipping, furnishing or otherwise improving school facilities of the District, as set forth on the foregoing Project List. Additionally, pursuant to State law, funds may be utilized for the acquisition or lease of real property for school facilities, and not for any other purpose, including teacher and administrator salaries or other school operating expenses, in compliance with California Constitution Article XIIIA, Section 1(b)(3). This measure authorizes bond projects to be undertaken at all current and future District sites, properties and campuses."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Alterations to Scope; New Construction. The scope and nature of any of the specific projects described above may be altered by the District as required by conditions that may arise during the course of design and construction. In the event that a modernization or renovation project is more economical for or otherwise determined by the Board to be in the best interests of the District to be undertaken as new construction, this bond measure authorizes said new construction including land acquisition, relocation and construction at a new or alternative site, and/or demolition and reconstruction and/or repurposing on the original site, including an expanded site, and all costs relating thereto. In addition, this measure authorizes the acquisition of real property, including necessary rights-of-way or other real property interests, required to expand District facilities, to provide access to schools or other District facilities, or to provide additional school or related facilities. For any project involving rehabilitation or renovation of a building or the major portion of a building, the District shall be authorized to proceed with new construction instead if the Board of Trustees determines that replacement and new construction are more economically practical than rehabilitation and renovation, considering the building's age, condition, expected remaining life, and other relevant factors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Interim Financing Included; Joint-Use Projects Authorized. Authorized projects include paying and/or prepaying interim or previously obtained financing for the types of projects included on the Bond Project List, such as bond anticipation notes, and include prepayment of lease payments to acquire title to facilities and/or equipment previously financed. Projects may also be undertaken on a joint-use basis with other public entities."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Bond Project List Not in Order of Priority; Board Determines Prioritization. Approval of this bond measure does not guarantee that the proposed projects will be funded beyond the local revenues generated by the measure. The District's capital needs currently exceed the amount of bonds the voters are being asked to authorize. The order in which particular projects are listed is not intended to suggest priority for funding or completion, and itemization of projects in the list above does not guarantee that all such projects will be undertaken. Project priorities will be determined by the Board of Trustees. The ability of the District to undertake and complete the listed projects is subject to numerous variables, including the adequacy and availability of sufficient funding sources. The District is unable to anticipate all unforeseen circumstances that may prevent some of the projects listed above from being undertaken or completed."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Interpretation. The terms of this bond measure and the words used in the Bond Project List shall be interpreted broadly to effect the purpose of providing broad and clear authority for the officers and employees of the District to provide for the school facilities projects the District proposes to finance with the proceeds of the sale of bonds authorized by this proposition within the authority provided by law, including Article XIIIA, Section 1(b)(3) of the California Constitution, Education Code Section 15000 ",
+          {
+            "em": [
+              "et seq."
+            ]
+          },
+          " and the Strict Accountability in Local School Construction Bonds Act of 2000. Words used in the Bond Project List, such as repair, improve, upgrade, expand, modernize, renovate, and reconfigure are used to describe school facilities projects in plain English but are not intended to expand the nature of such projects beyond what is authorized by law. As such, in accordance with legal requirements, the Bond Project List does not authorize, and shall not be interpreted to authorize, expending proceeds of the sale of bonds authorized by this proposition for current maintenance, operation, or repairs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Severability. The District Board hereby declares, and the voters by approving this Bond Measure concur, that every section and part of this bond proposition has independent value, and the District Board and the voters would have adopted each provision hereof regardless of every other provision hereof. Upon approval of this measure by the voters, should any part be found by a court of competent jurisdiction to be invalid for any reason, all remaining parts hereof shall remain in full force and effect to the fullest extent allowed by law, and to this end the provisions of this bond measure are severable."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/737_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on Measure P!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our schools are more than just buildings—they are the heart of our hardworking community. They educate our children, prepare them for future success, boost our property values, and support local businesses. By investing in our schools, we are investing in our community’s future."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Many Alum Rock Union Elementary schools are more than 60 years old and urgently need repairs. Vote YES on Measure P for safe, functional classrooms with funds that are spent locally and cannot be taken by the State or Federal government."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "With NO increase in your current tax rate, your YES vote on Measure P will fund:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Repairing and replacing leaky roofs"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Replacing old, inefficient heating, ventilation, filtration and air-conditioning systems"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Updating fire alarms and emergency communication systems"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Upgrading kitchens and equipment for healthy lunches"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Modernizing aging restrooms"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Improving student safety and campus security"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Fixing leaking and clogged plumbing systems and deteriorating sewer systems"
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure P also offers significant taxpayer protections:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Guaranteed Local Investment:"
+                    ]
+                  },
+                  " By law, Measure P's funds cannot be taken by the State or Federal government and spent elsewhere."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Transparency:"
+                    ]
+                  },
+                  " Public disclosure of all spending is required, ensuring responsible use of funds."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Accountability"
+                    ]
+                  },
+                  ": An independent citizens' bond oversight committee and third-party auditor will review all spending."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Funds for Projects Only:"
+                    ]
+                  },
+                  " No funds for administrators' salaries, pensions, or benefits."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "State Matching Funds:"
+                    ]
+                  },
+                  " Measure P may qualify Alum Rock Union School District for additional State matching funds."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Your YES vote ensures Alum Rock students have safe, modern schools while protecting the value of our homes and businesses. Join teachers, parents, guardians, grandparents, neighbors, business owners, and community leaders in voting ",
+            {
+              "strong": [
+                "YES on Measure P!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Amy Rodrigues",
+          "title": "School Nurse"
+        },
+        {
+          "name": "Trevor Emmett",
+          "title": "Teamsters Representative"
+        },
+        {
+          "name": "Andres Quintero",
+          "title": "Governing Board Member"
+        },
+        {
+          "name": "Corina Herrera-Loera",
+          "title": "Governing Board Member"
+        },
+        {
+          "name": "Minh Pham",
+          "title": "Governing Board Member"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/737_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

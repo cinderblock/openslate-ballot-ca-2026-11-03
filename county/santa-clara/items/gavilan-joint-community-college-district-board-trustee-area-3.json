@@ -1,0 +1,73 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Gavilan Joint Community College District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:28:59Z",
+  "candidates": [
+    {
+      "choice": "Gabriel Gutierrez",
+      "statement": {
+        "by": "Gabriel Gutierrez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " School Psychologist; Part-Time College Professor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dear Neighbor,"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For four years, I have proudly served as your Gavilan College Trustee. My career in service of student success—as a community college educator, school psychologist, and special education director—shapes every decision I bring to the board. It's personal: a community college education transformed my own family's lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your trustee, I listened to students, faculty, staff, and the community and turned that input into action. We increased enrollment and graduation rates, expanded access to food, transportation, counseling, and health services, and offered four semesters of free tuition. We created more opportunities for high school students and community members to take college courses. We repaired campus facilities and upgraded our technology infrastructure. We opened the new Education Center in Hollister, are finishing the Library and Student Resource Center, and are advancing The Child Development Center and STEM building at the Gilroy campus. Throughout, we have maintained fiscal responsibility and a strong financial reserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We are just getting started! I am even more committed to accelerating our progress and to continuing to create the opportunities our students and community deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote to reelect Dr. Gabriel Gutiérrez, Gavilan Joint CCD, Trustee Area 3.\nI would be honored to have your support. Learn more: drgutierrez4gavilan.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3654_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

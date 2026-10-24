@@ -1,0 +1,67 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Oak Grove School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:22Z",
+  "candidates": [
+    {
+      "choice": "Sophie Freestone",
+      "statement": {
+        "by": "Sophie Freestone",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Homemaker, Mother, and Educator\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 39"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As mother of three boys, I have spent their school years volunteering in their classrooms, as a parent and a Parkview School Community Association secretary."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have two Masters Degrees, Art History and Humanities. I was an adjunct professor in Chicago and Salinas teaching composition and analysis. As a student and a teacher, these experiences have equipped me with insight into the challenges our community faces in educating our future."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have seen the struggles that Oak Grove faces from the classroom, elementary school office, District meetings, and board meetings. I see a lack of transparency and fairness across schools in resources and infrastructure. I will ensure that every student in the district is given access to educational, emotional, and physical resources, safe up-to-date classrooms, and the funds intended to ensure these goals. My goal is to build up the Oak Grove community through direct interaction between the school board and those we serve. I believe good education is the result of collaboration between schools and their communities. I will build communication for both sides so we can address challenges of transparency and fair resource allocation. I want to bring our community together to find real solutions that prioritize our students' education, health, and wellbeing."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3722_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

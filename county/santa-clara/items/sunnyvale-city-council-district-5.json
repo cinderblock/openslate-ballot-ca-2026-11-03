@@ -1,0 +1,79 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sunnyvale City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/sunnyvale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:52Z",
+  "candidates": [
+    {
+      "choice": "Richard Mehlinger",
+      "statement": {
+        "by": "Richard Mehlinger",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Incumbent, Engineer\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 39"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Richard Mehlinger, and since 2023 I have had the great honor of representing District 5 on Sunnyvale City Council. In that time I've fought to make our streets safer, tackle homelessness, improve housing affordability, and support our small businesses. Now I'm running for reelection to continue those efforts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I've worked hard to build a safer, smarter, more livable Sunnyvale for all our residents. I passed initiatives to protect the Lucky's and Mi Ranchito grocery stores from redevelopment; increased city support for local retail; delivered a modern, mobile-friendly 311 app, MySunnyvale (download it!); and replaced our broken Study Issue Process, saving over a year of staff time annually."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Just this year, Council allocated over a million dollars per year to address homelessness, established a five-officer crime reduction task force, and funded my proposal to finally clear our years-long sidewalk maintenance backlog."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm proud to be supported by leaders like Sunnyvale Mayor Larry Klein; Assemblymembers Patrick Ahrens and Alex Lee; Supervisor Otto Lee; Sunnyvale School Board Trustees Peggy Shen Brewster, Isabel Jubes-Flamerich, and Bridget Watson; SNAIL Neighborhood Chair Valérie Suarès; and all of my Council colleagues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please visit www.richardforsunnyvale.com to learn more. Thank you for reading, and I respectfully ask for your vote."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3811_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

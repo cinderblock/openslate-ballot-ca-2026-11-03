@@ -1,0 +1,152 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Saratoga Union School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:23Z",
+  "candidates": [
+    {
+      "choice": "Farnoush Drexel",
+      "statement": {
+        "by": "Farnoush Drexel",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Dentist/Lawyer/Parent/Volunteer\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 49"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since my children entered SUSD in 2018, I have been deeply involved in our schools and community through PTA leadership, SEF, classroom volunteering, school projects, and fundraising. As a mother of two children still in the district, I understand the concerns families bring to our schools and have a personal stake in ensuring SUSD remains strong."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My professional experience has prepared me to approach difficult issues with empathy, discipline, and sound judgment. As a dentist and small-business owner, I cared for people in stressful situations, managed a staff, made consequential decisions, and learned the importance of listening and earning trust. My legal education strengthened my ability to analyze complex issues, weigh competing perspectives, and pursue fair, practical solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I strongly support SUSD, its teachers, staff, students, and families. Effective governance requires thoughtful oversight, respectful collaboration, accountability, and the willingness to address challenges before they undermine the district's stability or mission."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will bring empathy, careful analysis, integrity, and a collaborative approach to every decision, always focused on protecting SUSD's strengths and helping our students thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Farnoush Drexel, DDS, Esq"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Drexel4SUSD.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3724_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Anna Goldberg",
+      "statement": {
+        "by": "Anna Goldberg",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am honored to run for the Saratoga Union School District Board of Trustees. As a mother of four children in our elementary and middle schools, and as Saratoga Elementary PTA President from 2024-2026, I have worked closely with families, teachers, and district leadership, and I have seen firsthand what makes this district exceptional."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a Master's in Special Education and Human Development and served as an educator for nearly a decade. I am committed to supporting every child academically, socially, and emotionally."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Saratoga's schools are already excellent, built on the dedication of outstanding teachers, staff, and community involvement. My priority is not change for its own sake, but preserving excellence and strengthening what works: recruiting and retaining top-tier teaching and administrative leadership across STEM, humanities, art, and athletics, supporting educators with the tools needed for success, and maintaining strong partnerships between families and the district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trustee, I will listen carefully, engage thoughtfully, and always decide with a students-first mindset. I will work to ensure Saratoga continues to attract and retain the best educators and leaders in the state, so every child continues to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your support so I can continue serving the community I love and trust."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.annaforsaratoga.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3725_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

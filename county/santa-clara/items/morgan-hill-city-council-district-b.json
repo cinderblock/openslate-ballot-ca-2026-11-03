@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Morgan Hill City Council, District B",
+    "kind": "race",
+    "jurisdiction": "us/ca/morgan-hill",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:39Z",
+  "candidates": [
+    {
+      "choice": "Steven Hayes",
+      "statement": {
+        "by": "Steven Hayes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Fire Captain Paramedic"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 20 years, Morgan Hill has been my home. My wife and I are raising our two daughters here, and I am committed to protecting the safe, welcoming community we love."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Service Above Self has guided my life. As a Fire Captain/Paramedic, I have dedicated my career to protecting lives, leading emergency responders, and serving others with integrity. I also represent California firefighters at the state level and serve on the California Earthquake Authority Board, working with state leaders to strengthen disaster preparedness, resilience, and public policy."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your City Councilmember, I will support strong police, fire, and emergency medical services, fiscal responsibility, transparent government, well-maintained roads and infrastructure, thriving local businesses, and parks and open spaces that enhance our quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Development must serve our community, not overwhelm it. I will protect Morgan Hill's character, ensure infrastructure and public safety keep pace with growth, and hold developers accountable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe city government should be accessible, accountable, and focused on serving every resident. Please visit electstevenhayes.com to learn more. I would be honored to earn your trust and vote."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3769_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Yvonne Martinez Beltran",
+      "statement": {
+        "by": "Yvonne Martinez Beltran",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Urban Planner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a Morgan Hill Councilwoman, Mother of 3, have been a small business owner, and lifelong Morgan Hill resident. I attended local schools, graduated from Live Oak High School, and earned a New York University Master's in Urban Planning in Housing and Economic Development. Serving 10 years with the City─8 on the Morgan Hill City Council and 2 on the Planning Commission─is an honor and built me into a strong homegrown leader."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Your vote, your voice, and our future guide me. Together we achieved so much. I secured resources and investments for Morgan Hill, championed funding public safety officers and another Fire House, and supported resident-initiated referendums. I led Climate Action efforts, helped bring our 4th Caltrain, and advocated for agritourism, healthcare, community outreach, and inclusion. I am known for championing local businesses, nonprofits, community organizations, local leaders, and residents. I remain committed to Public Safety despite economic challenges, support affordable and sustainable housing and infrastructure, smart use of City funds, business development elevating Morgan Hill, youth sports, recreation, mental health access, and outdoor activities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We need a leader with experience and proven results who values community input, understands policy, and has the relationships to deliver. My record demonstrates I protect our interests. Together we'll make a better Morgan Hill! Vote https://www.facebook.com/YvonneForMorganHill"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3770_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 24",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-24",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:57Z",
+  "candidates": [
+    {
+      "choice": "Alex Lee",
+      "statement": {
+        "by": "Alex Lee",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " State Assemblymember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm grateful to have served as your Assemblymember for the last six years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we've secured over $84.6 million in investments for our district and I've had 42 of my bills signed into law. However, we've only just begun."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Chair of the Legislative Progressive Caucus, I'm proud to lead the fight to build social housing, establish universal healthcare, combat climate change, defend everyone's civil rights (especially LGBTQ+ families, trans folks, and POC), uplift our unhoused neighbors, support immigrant families, and root out corporate special interest money from politics."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Growing up in Milpitas and San José, I've seen too many friends and families priced out of the South Bay."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Corporations and their billionaire executives have squeezed every tax break out of us taxpayers while profiting from skyrocketing rents, home prices, and essential goods. I've been consistently leading the fight to tax the rich and fight against corporate greed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since day one, I have rejected all campaign contributions from corporations because I am accountable to you, not the corporate interests. Above all else, I believe in the integrity of our democracy—that the government should serve all people, not the rich and powerful."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for re-election to continue the fight against a fascist federal regime, fix the housing crisis, and rein in corporate greed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Humbly, I ask for your vote to continue representing you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.VoteAlexLee.com /"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "instagram/twitter: alex_lee /"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "alex@votealexlee.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3645_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Franklin-McKinley School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:19Z",
+  "candidates": [
+    {
+      "choice": "Marc Cooper",
+      "statement": {
+        "by": "Marc Cooper",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Teacher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a 23-year experienced teacher, parent, veteran, and Christian dedicated to preparing the next generation of leaders. Married to an immigrant, I'm also a descendant of the Blackfoot Tribe. Raised by my mother through abusive relationships while my family relied on welfare, I understand the challenges many families face. Today, I serve as a Special Educator committed to improving Franklin McKinley School District student academic achievement, protecting parents' rights, and increasing transparency between the district, schools, teachers, and families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Franklin McKinley School District states every 8th-grade graduate will be prepared for a college-preparatory curriculum. Yet only 35% of Franklin McKinley School District students are proficient in English Language Arts (reading and writing) and 28% in math, with scores declining over the past 14 years. Our children deserve better!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Board Trustee, I've answered hundreds of communications from parents and community members because transparency and accountability matter. I represent you!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue fighting for safe schools with equality for all, secure campuses, and boys staying out of girls' sports, locker rooms, and bathrooms; parents' rights to direct their children's education; transparency between families, schools, and the district; and academic excellence by raising test scores and strengthening educational quality."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.marccooperforschoolboard.com for district data, photos, voting records."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3713_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

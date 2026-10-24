@@ -1,0 +1,91 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Gilroy Unified School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:01Z",
+  "candidates": [
+    {
+      "choice": "Daniel Harney",
+      "statement": {
+        "by": "Daniel Harney",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Father/Business Leader"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Performance in Trustee Area 3 has been declining for 5 years."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Luigi Aprea─48% of students fail to meet state standards for English language, 52% do not meet state standards for math."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Brownell Middle School─59% fail English language standards and 67% fail math standards."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Christopher High School─45% fail English language standards and 68% fail math standards."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Your students deserve a safe, secure learning environment where they can reach their full academic potential free from threats and prejudice. Teachers should be compensated, recognized, and respected. Gilroy students deserve better!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will ensure Gilroy schools improve academic performance by creating clear, measurable goals aligned with parents' expectations. I support the Teachers Association and will work to ensure teachers are recognized and compensated fairly."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our family has lived in Trustee Area 3 since 2011. Our children have attended Luigi Aprea, Brownell, and Christopher schools. I have served on City Council, and on the Board of Directors for Gilroy Gardens, extending my leadership to improve our community park, education programs and provide more than 400 jobs for our local youth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together let's make strong academic performance in Gilroy schools. Vote for change in District 3."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3660_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

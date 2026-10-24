@@ -1,0 +1,1237 @@
+{
+  "https://ca.omniballot.us/published/06085/1968/vg/lookups.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json",
+    "sha256": "698d176705e0238dd6d05cc4f7b75969c65a89de71fbf1995e9fdc5f716efbbf",
+    "retrieved_at": "2026-10-24T20:24:54Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3638_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3638_cp.json",
+    "sha256": "2e536fed8302a78b21626bc7553d32b3d8e5335c9134344a1b7dddadf1996339",
+    "retrieved_at": "2026-10-24T20:24:55Z",
+    "updated_at": "2026-10-09T18:11:42.459Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3639_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3639_cp.json",
+    "sha256": "75c253f2e5fbcc87e4664c77ccf4636e6df7866cd5610a6c4bac5b70a1cb76f2",
+    "retrieved_at": "2026-10-24T20:24:55Z",
+    "updated_at": "2026-10-06T20:15:28.384Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3640_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3640_cp.json",
+    "sha256": "7bf6a28c38cc762fad0078cbe21230abbecfc39a4bf400699e997d7dfe38492d",
+    "retrieved_at": "2026-10-24T20:24:55Z",
+    "updated_at": "2026-10-09T18:11:45.498Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3641_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3641_cp.json",
+    "sha256": "a000f8ee77e125ee2c1b74f7cc5c95273ace11a0f2a8ed1c6283cff73b120338",
+    "retrieved_at": "2026-10-24T20:24:56Z",
+    "updated_at": "2026-10-09T21:19:30.712Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3642_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3642_cp.json",
+    "sha256": "87213bbdde69f9bff94796c4a577cfe9bcf779366fef7f357aac8183f6815a80",
+    "retrieved_at": "2026-10-24T20:24:56Z",
+    "updated_at": "2026-10-09T21:19:33.939Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3643_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3643_cp.json",
+    "sha256": "6bbf5b54f4e64e912ce0b21ef021e5479bcb4157b145fbca0655f1925cbfc19d",
+    "retrieved_at": "2026-10-24T20:24:56Z",
+    "updated_at": "2026-10-14T20:29:35.256Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3644_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3644_cp.json",
+    "sha256": "d05ddd2f77736b144994da3dee4392c4c7829ffbcfbcc42b3e8bb211effd9c68",
+    "retrieved_at": "2026-10-24T20:24:57Z",
+    "updated_at": "2026-10-09T18:14:06.458Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3645_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3645_cp.json",
+    "sha256": "f1e4f8c8cb3b36af674f74724ed1f79a28f67838c03e8296e341d1361948fd51",
+    "retrieved_at": "2026-10-24T20:24:57Z",
+    "updated_at": "2026-10-06T20:15:46.208Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3646_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3646_cp.json",
+    "sha256": "6cc81a92402919baffbb1b8e98e35c89f98fb2bc82d16cd03142c6b5f3ec74ad",
+    "retrieved_at": "2026-10-24T20:24:57Z",
+    "updated_at": "2026-10-09T18:11:51.877Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3647_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3647_cp.json",
+    "sha256": "b86e4147dc9e2e3c27c7bc34d171e086cdd5a8e2d3b7c51b80d520b82acf0cf9",
+    "retrieved_at": "2026-10-24T20:24:58Z",
+    "updated_at": "2026-10-06T20:15:52.34Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3648_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3648_cp.json",
+    "sha256": "e8252f48245a75c1b1e40b00fde2dc4b1831127b11381b4ebe9128b2ec813089",
+    "retrieved_at": "2026-10-24T20:24:58Z",
+    "updated_at": "2026-10-09T18:11:55.018Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3649_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3649_cp.json",
+    "sha256": "234cb114bc406252ae81f6cdaf5448664d5a38b449f0921fba787d026ccb2bc4",
+    "retrieved_at": "2026-10-24T20:24:58Z",
+    "updated_at": "2026-10-09T18:11:58.097Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3650_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3650_cp.json",
+    "sha256": "6f10b5eb17a6687ca932cb44de16bb0f471cab87da071af81bf9c12e346d4506",
+    "retrieved_at": "2026-10-24T20:24:59Z",
+    "updated_at": "2026-10-09T18:12:01.275Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3651_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3651_cp.json",
+    "sha256": "eafca88e62bf79ceef04067093399f415fa260ee136d2758a3c16fa3c44cc413",
+    "retrieved_at": "2026-10-24T20:24:59Z",
+    "updated_at": "2026-10-09T18:12:04.354Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3652_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3652_cp.json",
+    "sha256": "094e6d26f0d49b75987975a80e6a259bf738946d056767e9177192bdb355a5e2",
+    "retrieved_at": "2026-10-24T20:24:59Z",
+    "updated_at": "2026-10-09T18:12:07.509Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3653_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3653_cp.json",
+    "sha256": "fcab38add1f1e62ee5f06ef781f1889173148b5423f80d8299bff98644e95426",
+    "retrieved_at": "2026-10-24T20:25:00Z",
+    "updated_at": "2026-10-09T18:12:10.645Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3656_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3656_cp.json",
+    "sha256": "83bcab8bb5085e59911f0b7c398942964af6859381b106cfcddf577a5f678913",
+    "retrieved_at": "2026-10-24T20:25:00Z",
+    "updated_at": "2026-10-09T21:19:41.378Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3657_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3657_cp.json",
+    "sha256": "ac35a65ec49998729b76e72856b9e7b576c09dafe13a6873a1d66312df301519",
+    "retrieved_at": "2026-10-24T20:25:00Z",
+    "updated_at": "2026-10-09T21:19:45.424Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3658_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3658_cp.json",
+    "sha256": "fbe3e9a9b95c920655451bca2083ec6381f57c10da71d3dae16df78f47d65069",
+    "retrieved_at": "2026-10-24T20:25:01Z",
+    "updated_at": "2026-10-09T21:19:48.547Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3659_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3659_cp.json",
+    "sha256": "a7d1487988cd9eb2b9594468f94163a69b97206dabe0912979dde8ac434027fe",
+    "retrieved_at": "2026-10-24T20:25:01Z",
+    "updated_at": "2026-10-09T21:19:51.763Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3660_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3660_cp.json",
+    "sha256": "babb8d0950dd701b5e76dc03741935fb395fd3613da06daeebba3108d0707443",
+    "retrieved_at": "2026-10-24T20:25:01Z",
+    "updated_at": "2026-10-09T21:19:54.974Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3661_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3661_cp.json",
+    "sha256": "4544f56b14801dbf2b351394f0b39c2b3fe3efb4128012c50a4bc3e732cc125c",
+    "retrieved_at": "2026-10-24T20:25:02Z",
+    "updated_at": "2026-10-07T19:48:19.21Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3662_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3662_cp.json",
+    "sha256": "ad7b4708f8a217112540b1bf1212d12879f743e525cc18ce5cc23e1a34cb99b7",
+    "retrieved_at": "2026-10-24T20:25:02Z",
+    "updated_at": "2026-10-09T21:19:58.366Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3663_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3663_cp.json",
+    "sha256": "94d42ec92c7c4f442345dfb556dd58d4a7de99509485255afecac3523e673065",
+    "retrieved_at": "2026-10-24T20:25:02Z",
+    "updated_at": "2026-10-09T21:20:02.435Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3664_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3664_cp.json",
+    "sha256": "19c4586cd3cc1043e9e174f8184c9774bf91dd499feed81fa2cdd7671b123a3f",
+    "retrieved_at": "2026-10-24T20:25:03Z",
+    "updated_at": "2026-10-09T21:20:06.183Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3665_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3665_cp.json",
+    "sha256": "54055e14fd738fce773fb2f58eae13ec30db676fc1b7f942528842dd8c10d947",
+    "retrieved_at": "2026-10-24T20:25:03Z",
+    "updated_at": "2026-10-09T21:20:10.273Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3666_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3666_cp.json",
+    "sha256": "644fdffe9386fbcddd11e483e01cca2becc828a9fbed48625d3c7a80f979835d",
+    "retrieved_at": "2026-10-24T20:25:03Z",
+    "updated_at": "2026-10-09T21:20:14.38Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3667_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3667_cp.json",
+    "sha256": "99892ab6f78c11a33122bc9d9cd6699be2d02534e30a5bf465328c6759121535",
+    "retrieved_at": "2026-10-24T20:25:04Z",
+    "updated_at": "2026-10-09T21:20:18.158Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3668_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3668_cp.json",
+    "sha256": "714502914fd6e89b3ceab40f6ea4fd39aacffdda220e670355d8598a3d2ef5dd",
+    "retrieved_at": "2026-10-24T20:25:04Z",
+    "updated_at": "2026-10-14T17:30:40.661Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3669_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3669_cp.json",
+    "sha256": "75a93af6ddadb2d11f04c13c899a34ad4a6ab53be5084c88b58a13149ac247af",
+    "retrieved_at": "2026-10-24T20:25:04Z",
+    "updated_at": "2026-10-09T21:20:26.33Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3670_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3670_cp.json",
+    "sha256": "51251773e39ba57aae086569ecafcb5c9690cdbd5ccfe16eac6d432413455ff1",
+    "retrieved_at": "2026-10-24T20:25:05Z",
+    "updated_at": "2026-10-06T20:17:01.387Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3671_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3671_cp.json",
+    "sha256": "3697ad6f7acb1086f793058f1f80f544739dd0f086553a29482e5b55345cf4d7",
+    "retrieved_at": "2026-10-24T20:25:05Z",
+    "updated_at": "2026-10-06T20:17:04.344Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3672_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3672_cp.json",
+    "sha256": "f0a627991f79d59346d453bbbbb28898220da5d7e8237eb411bad919d1ff6651",
+    "retrieved_at": "2026-10-24T20:25:05Z",
+    "updated_at": "2026-10-09T18:08:16.707Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3673_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3673_cp.json",
+    "sha256": "91abed4d36beafcf8d7aaac17c703c3ddb4b3eb7570c314f05b1d0f8c814664b",
+    "retrieved_at": "2026-10-24T20:25:06Z",
+    "updated_at": "2026-10-09T18:08:19.76Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3674_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3674_cp.json",
+    "sha256": "eece17f756b427d578a48e846f45cda4faf08f3ca2c723cb470db3fd189b4383",
+    "retrieved_at": "2026-10-24T20:25:06Z",
+    "updated_at": "2026-10-20T19:33:53.586Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3675_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3675_cp.json",
+    "sha256": "3ef398aa6d1d378e7f80fd1ec007981285efc74d060a95ea13e3d2353f5536d5",
+    "retrieved_at": "2026-10-24T20:25:06Z",
+    "updated_at": "2026-10-09T21:20:33.418Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3676_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3676_cp.json",
+    "sha256": "de16afeb5d22e59b9ce3866a7e16f424540b20a0ac4701b52da3544ca018ed90",
+    "retrieved_at": "2026-10-24T20:25:07Z",
+    "updated_at": "2026-10-09T21:20:37.302Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3677_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3677_cp.json",
+    "sha256": "4e92780e6bc42626a02086effc800abf092bf157d3cbde10d4e05beca7c8fbfd",
+    "retrieved_at": "2026-10-24T20:25:07Z",
+    "updated_at": "2026-10-09T21:20:41.186Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3678_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3678_cp.json",
+    "sha256": "f89bf65aa9e8802b7e9d5e9f9bba3346a41a261c8f66924f909351be8fa1c1b4",
+    "retrieved_at": "2026-10-24T20:25:07Z",
+    "updated_at": "2026-10-09T21:20:45.211Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3679_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3679_cp.json",
+    "sha256": "2b52d77f5b6adb4959053f19da312bf95142cb10db88837ecc57d16eff24987b",
+    "retrieved_at": "2026-10-24T20:25:08Z",
+    "updated_at": "2026-10-09T21:20:49.218Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3680_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3680_cp.json",
+    "sha256": "e72fd168ecf3037851c6404723438a766c242b9b2cc2a78aed2e4cc5e20f5465",
+    "retrieved_at": "2026-10-24T20:25:08Z",
+    "updated_at": "2026-10-09T21:20:53.25Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3681_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3681_cp.json",
+    "sha256": "3e338e82a8b26452f5803f7ace8c238d3bc2a4031b141936b1982a56038d2700",
+    "retrieved_at": "2026-10-24T20:25:08Z",
+    "updated_at": "2026-10-09T21:20:57.778Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3682_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3682_cp.json",
+    "sha256": "70d1c6a60110fdc95402ce9cbb3e32307fd107d1a9bf74e9096642b7e9fde696",
+    "retrieved_at": "2026-10-24T20:25:09Z",
+    "updated_at": "2026-10-09T18:12:32.509Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3683_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3683_cp.json",
+    "sha256": "f8b278673ea31b2d82cb77ba7507558dadfbadf9dcc0ee8929a8caaeafd8774a",
+    "retrieved_at": "2026-10-24T20:25:09Z",
+    "updated_at": "2026-10-09T18:12:35.566Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3684_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3684_cp.json",
+    "sha256": "ea370eed44e7170495206dfbf6f7a5f525138d2c3239f41ae185018c1efd69dc",
+    "retrieved_at": "2026-10-24T20:25:09Z",
+    "updated_at": "2026-10-09T18:08:38.824Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3685_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3685_cp.json",
+    "sha256": "3e28fa729354c48d9e735e3549c9fe7de55d38ef23746fe3648176abe863e116",
+    "retrieved_at": "2026-10-24T20:25:10Z",
+    "updated_at": "2026-10-09T18:08:42.312Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3686_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3686_cp.json",
+    "sha256": "5213c0ab27b9cafaf8528ac617f415d4e2a38b26558d962c3c6e50b8d0a08ee8",
+    "retrieved_at": "2026-10-24T20:25:10Z",
+    "updated_at": "2026-10-09T21:21:01.228Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3687_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3687_cp.json",
+    "sha256": "fdce214710a4e5d3b2150e68496d9f2100ac6427f9eaaddf4365f7a604db3b1b",
+    "retrieved_at": "2026-10-24T20:25:10Z",
+    "updated_at": "2026-10-09T21:21:05.429Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3690_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3690_cp.json",
+    "sha256": "cee29e1993877f848a1d1c76c26e364541a9df3012bb941909a61d2b4a5e1447",
+    "retrieved_at": "2026-10-24T20:25:11Z",
+    "updated_at": "2026-10-09T21:21:17.221Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3691_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3691_cp.json",
+    "sha256": "2700f19ef0e88ec1ff16d99acc683b4249da15e888c199967e43a6d793bb6406",
+    "retrieved_at": "2026-10-24T20:25:11Z",
+    "updated_at": "2026-10-09T21:21:21.056Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3692_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3692_cp.json",
+    "sha256": "887ba55486131efe2e86420db9bbacdc341250402b856929b6e6606bde80b4b5",
+    "retrieved_at": "2026-10-24T20:25:11Z",
+    "updated_at": "2026-10-09T21:21:24.337Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3693_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3693_cp.json",
+    "sha256": "853a150fefaf8aa39b44d6157da5c8c4c0dd1a1f0ac4a776e9554514a1457d64",
+    "retrieved_at": "2026-10-24T20:25:12Z",
+    "updated_at": "2026-10-09T21:21:28.193Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3694_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3694_cp.json",
+    "sha256": "3fc2d9f98759a263df3f3f6702925abe9c14179904c8c91f94a343f3fc964359",
+    "retrieved_at": "2026-10-24T20:25:12Z",
+    "updated_at": "2026-10-09T18:08:51.538Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3695_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3695_cp.json",
+    "sha256": "e16566816d9fd0d98f183b01a71bf8929f5738b7529ff810a35af2d0511f06aa",
+    "retrieved_at": "2026-10-24T20:25:12Z",
+    "updated_at": "2026-10-09T18:08:57.871Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3696_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3696_cp.json",
+    "sha256": "b0fa1b7f9edbd0f0c449c8749e563221588e2576100155bce966fee84b6f96a2",
+    "retrieved_at": "2026-10-24T20:25:13Z",
+    "updated_at": "2026-10-09T18:08:54.671Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3697_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3697_cp.json",
+    "sha256": "ed586263877c2e4f042250f32c9e8f4dcf2b195f549bef01d44e89be9c5b2a27",
+    "retrieved_at": "2026-10-24T20:25:13Z",
+    "updated_at": "2026-10-09T21:21:32.237Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3698_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3698_cp.json",
+    "sha256": "3ff93f10f53bf2bcede3410fc0bb2df6cce720b3876bb6725b71dac5425d0805",
+    "retrieved_at": "2026-10-24T20:25:13Z",
+    "updated_at": "2026-10-09T21:21:36.344Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3699_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3699_cp.json",
+    "sha256": "5c2eb9a513c0ec15871dc81776bec2d37789ed5667adf7aa5800afd722da2d8e",
+    "retrieved_at": "2026-10-24T20:25:14Z",
+    "updated_at": "2026-10-09T18:09:01.071Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3700_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3700_cp.json",
+    "sha256": "1dd6fd94810b1a6a48dfb21a55e518753592db738c42a1e51bdae9e9d3cc5674",
+    "retrieved_at": "2026-10-24T20:25:14Z",
+    "updated_at": "2026-10-09T18:09:04.156Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3701_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3701_cp.json",
+    "sha256": "96567e73ae3abbebecbf95334cd9750078bf2e51a716b3ba9f7a03c9272f0248",
+    "retrieved_at": "2026-10-24T20:25:14Z",
+    "updated_at": "2026-10-09T18:09:10.49Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3702_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3702_cp.json",
+    "sha256": "ba6a4b3d93e8ec33eadf5d7b5e32a24038431047c38dd52a50bf085ee44b36a4",
+    "retrieved_at": "2026-10-24T20:25:15Z",
+    "updated_at": "2026-10-09T18:09:07.271Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3703_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3703_cp.json",
+    "sha256": "8a1cf251601c4e50e015a47992f40aabe162d19c7e28bf387bb97833c4653971",
+    "retrieved_at": "2026-10-24T20:25:15Z",
+    "updated_at": "2026-10-09T21:21:40.289Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3704_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3704_cp.json",
+    "sha256": "b3a115a00e68817fddce217dfbd4c29206973c3281f716afa0c4f7b766d5dea3",
+    "retrieved_at": "2026-10-24T20:25:15Z",
+    "updated_at": "2026-10-09T21:21:44.292Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3706_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3706_cp.json",
+    "sha256": "c48acf836aca436db0cd2ddaa990c76e435241823e9301e4d2286d6b6102a3ef",
+    "retrieved_at": "2026-10-24T20:25:16Z",
+    "updated_at": "2026-10-09T21:21:52.204Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3705_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3705_cp.json",
+    "sha256": "1319fae850a9e309be5ac55747d0838bf05fdd50694579830339f6000ade22e1",
+    "retrieved_at": "2026-10-24T20:25:16Z",
+    "updated_at": "2026-10-09T21:21:48.284Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3707_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3707_cp.json",
+    "sha256": "3cdc79f64a98fa5c629d0b6e0b4323baa0e76907e16238e51e941968cfce96af",
+    "retrieved_at": "2026-10-24T20:25:16Z",
+    "updated_at": "2026-10-09T18:09:13.696Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3708_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3708_cp.json",
+    "sha256": "c20d4b97ea7b9937ab66e5294ba8881e072fed921ba986fcf4124d775a4f6e55",
+    "retrieved_at": "2026-10-24T20:25:17Z",
+    "updated_at": "2026-10-09T18:09:16.738Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3709_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3709_cp.json",
+    "sha256": "119eaf4401dddeb327d493b510a8281cbab8517356b2d1ea58ba020018760e6c",
+    "retrieved_at": "2026-10-24T20:25:17Z",
+    "updated_at": "2026-10-09T18:12:57.458Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3710_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3710_cp.json",
+    "sha256": "cf28fd17fc661e253051ad95059543ca769678b90f802dd572105c96a912afa0",
+    "retrieved_at": "2026-10-24T20:25:17Z",
+    "updated_at": "2026-10-09T18:13:00.644Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3711_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3711_cp.json",
+    "sha256": "c7255189d48747f4b88d06f5763385ccb85d81cc9daf14c7a03991fe56537687",
+    "retrieved_at": "2026-10-24T20:25:18Z",
+    "updated_at": "2026-10-09T21:21:56.154Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3712_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3712_cp.json",
+    "sha256": "d23eb11583db18a4783a28c26ce42197d5e93afa2b809c55549049ca44596ab0",
+    "retrieved_at": "2026-10-24T20:25:18Z",
+    "updated_at": "2026-10-09T21:22:00.271Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3821_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3821_cp.json",
+    "sha256": "54f64fdcd6755ebf393d84b5eea02392fa1520ce48dcc66c74c8e27516f27ddc",
+    "retrieved_at": "2026-10-24T20:25:18Z",
+    "updated_at": "2026-10-09T21:26:03.044Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3713_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3713_cp.json",
+    "sha256": "f411e6a89a92e93b78a95bea7851d4e11ed1683bf910128b6d634af7e438e52c",
+    "retrieved_at": "2026-10-24T20:25:19Z",
+    "updated_at": "2026-10-09T18:09:29.034Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3714_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3714_cp.json",
+    "sha256": "17d0e967d451dff42d16883dd716034bdd5cb67ce5d97ac82b3047a355d35e54",
+    "retrieved_at": "2026-10-24T20:25:19Z",
+    "updated_at": "2026-10-09T21:22:04.173Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3715_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3715_cp.json",
+    "sha256": "5c02d5054bcc00a4ba04aebb47ad9e87fa9c2204fe5c240706fb3ea83de9e446",
+    "retrieved_at": "2026-10-24T20:25:19Z",
+    "updated_at": "2026-10-09T21:22:08.271Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3822_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3822_cp.json",
+    "sha256": "d80a430ecb3d61a17c0b3828bd4f44bfb9d633b5923d160fe13d6881e7897afd",
+    "retrieved_at": "2026-10-24T20:25:20Z",
+    "updated_at": "2026-10-09T21:26:06.247Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3716_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3716_cp.json",
+    "sha256": "9eda04ddc85c103502fb1d0f518eaf036af253e92c793a1f88b6deecfdebb4dd",
+    "retrieved_at": "2026-10-24T20:25:20Z",
+    "updated_at": "2026-10-09T21:22:12.329Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3717_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3717_cp.json",
+    "sha256": "328a7777fadf6d0961415b22039ddc64fcce006dc55139f9a0d25a09f4ea4719",
+    "retrieved_at": "2026-10-24T20:25:20Z",
+    "updated_at": "2026-10-09T21:22:16.535Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3718_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3718_cp.json",
+    "sha256": "87fe3aaabddbd30f566dd24d15fa01b93e331e8c07f627625e7b9b4c98126819",
+    "retrieved_at": "2026-10-24T20:25:21Z",
+    "updated_at": "2026-10-09T21:22:20.291Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3719_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3719_cp.json",
+    "sha256": "d4d075b0e3ad8693402d1537fae762d344812eef06685f445e497a66c94ca2f2",
+    "retrieved_at": "2026-10-24T20:25:21Z",
+    "updated_at": "2026-10-09T21:22:24.213Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3720_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3720_cp.json",
+    "sha256": "657107722448dc3ecf71ea2c75486a101c67ce4b266a02bcd270767144fe97a7",
+    "retrieved_at": "2026-10-24T20:25:21Z",
+    "updated_at": "2026-10-09T21:22:28.361Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3721_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3721_cp.json",
+    "sha256": "5d101bb0262892d629d6508d2aee3be708b91c1983ca06573abda7b776fcaeff",
+    "retrieved_at": "2026-10-24T20:25:22Z",
+    "updated_at": "2026-10-06T20:15:20.117Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3722_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3722_cp.json",
+    "sha256": "134e143ac8aeeff62b14439d04d44cddd589deeed668dcbd8bcc04ae6f9e9ba2",
+    "retrieved_at": "2026-10-24T20:25:22Z",
+    "updated_at": "2026-10-06T20:19:35.244Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3723_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3723_cp.json",
+    "sha256": "d792e89174a48624204d260026142203c0457ab5ffed06555bef2f455b597dcd",
+    "retrieved_at": "2026-10-24T20:25:22Z",
+    "updated_at": "2026-10-09T18:09:32.073Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3724_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3724_cp.json",
+    "sha256": "de474e6be0274395cf29653738a911144087f0b3d5e28df6577fd943fd4843fc",
+    "retrieved_at": "2026-10-24T20:25:23Z",
+    "updated_at": "2026-10-09T21:22:32.251Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3725_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3725_cp.json",
+    "sha256": "c46ab9dc4fe70d3b20f5488893ee2a9f670ec3e46af0579a91f1fcd79451e0bc",
+    "retrieved_at": "2026-10-24T20:25:23Z",
+    "updated_at": "2026-10-09T21:22:36.333Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3726_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3726_cp.json",
+    "sha256": "4b399ea67fdd33a7037e67ea0f65eb4381b8b41e725a4dfc4e538374ac3330bc",
+    "retrieved_at": "2026-10-24T20:25:24Z",
+    "updated_at": "2026-10-09T18:09:35.103Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3727_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3727_cp.json",
+    "sha256": "b663807578fdd43e02cd4df396d75991afbc56af25057b99e640f6e4d0c26d9f",
+    "retrieved_at": "2026-10-24T20:25:24Z",
+    "updated_at": "2026-10-09T18:09:39.049Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3728_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3728_cp.json",
+    "sha256": "58993748d7fb7faa6197e1572ace705cdfdd0d3088154d89e3162c81ddf2d729",
+    "retrieved_at": "2026-10-24T20:25:24Z",
+    "updated_at": "2026-10-09T21:22:40.193Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3729_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3729_cp.json",
+    "sha256": "d3b8172c6e8b662e9aff6909e04e699274aa444cc5fa73af69aa305230773adb",
+    "retrieved_at": "2026-10-24T20:25:25Z",
+    "updated_at": "2026-10-14T19:19:02.538Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3730_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3730_cp.json",
+    "sha256": "6f72943f12458d3ab163472b9aec783317c6b43b96c2e03c4544d158d37e1350",
+    "retrieved_at": "2026-10-24T20:25:25Z",
+    "updated_at": "2026-10-09T18:09:48.279Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3731_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3731_cp.json",
+    "sha256": "8f8d86ac3695f541de605d5d440a7f12476ca69072cb3f321a493197586b239e",
+    "retrieved_at": "2026-10-24T20:25:25Z",
+    "updated_at": "2026-10-09T18:09:51.44Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3732_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3732_cp.json",
+    "sha256": "6d3d447e1d0c1e6691aa022994100fdcade1b77b1064f1f52a3a4d2315a0bbf6",
+    "retrieved_at": "2026-10-24T20:25:26Z",
+    "updated_at": "2026-10-14T16:48:28.96Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3733_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3733_cp.json",
+    "sha256": "13c55f0cb5bf5877e4cf2373ce6d419ef417e5f2b00418b51566fcf3f6b77ea5",
+    "retrieved_at": "2026-10-24T20:25:26Z",
+    "updated_at": "2026-10-09T21:22:48.045Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3734_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3734_cp.json",
+    "sha256": "17fb7eda8e81def021626d76ed24335efdaf654c5f613670534c1bcf7b36a32a",
+    "retrieved_at": "2026-10-24T20:25:26Z",
+    "updated_at": "2026-10-09T21:22:51.222Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3735_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3735_cp.json",
+    "sha256": "a8b264d4a346a9ece7b696edbd0793bbba91cd80079d0674c00eadc5edb412c3",
+    "retrieved_at": "2026-10-24T20:25:27Z",
+    "updated_at": "2026-10-09T21:22:55.28Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3736_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3736_cp.json",
+    "sha256": "712a4fbe3040ff112ac078e7617d5ca7f81bac6782d133935be07c1db3758ff1",
+    "retrieved_at": "2026-10-24T20:25:27Z",
+    "updated_at": "2026-10-09T21:22:59.3Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3737_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3737_cp.json",
+    "sha256": "3263a93a9ba787ea70de397f4bc44bdd57d141f5c9828e712c97809284197919",
+    "retrieved_at": "2026-10-24T20:25:27Z",
+    "updated_at": "2026-10-09T21:23:02.291Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3738_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3738_cp.json",
+    "sha256": "dcaa06868e991c1d012004dd44b22342e557db977ef7d4afe7980d085e4003f2",
+    "retrieved_at": "2026-10-24T20:25:28Z",
+    "updated_at": "2026-10-09T21:23:05.347Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3739_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3739_cp.json",
+    "sha256": "1b67b89664b9b64670c939bc96675136c01ff96b01adabb7dd74202d7623b830",
+    "retrieved_at": "2026-10-24T20:25:28Z",
+    "updated_at": "2026-10-09T21:23:08.46Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3740_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3740_cp.json",
+    "sha256": "a09038f8d4071ee727144acdadfc1cb25214039b8c7b9b682f5858fe3606fde6",
+    "retrieved_at": "2026-10-24T20:25:28Z",
+    "updated_at": "2026-10-20T19:32:20.803Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3741_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3741_cp.json",
+    "sha256": "ef1d5788a885c83228e8b4dfc27016de84dbc3d9b0c7ca817a6c5d86203b8aa9",
+    "retrieved_at": "2026-10-24T20:25:29Z",
+    "updated_at": "2026-10-20T19:32:56.969Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3742_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3742_cp.json",
+    "sha256": "2529a1779e25129d029436745861ce7872d08ccc7a5bfa64e7e3a286c8920f7f",
+    "retrieved_at": "2026-10-24T20:25:29Z",
+    "updated_at": "2026-10-09T21:23:17.73Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3743_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3743_cp.json",
+    "sha256": "43e8e9e394ca9e1e248ccd6a4927157d99cb81dec4a27164a8f282f2bd535c57",
+    "retrieved_at": "2026-10-24T20:25:29Z",
+    "updated_at": "2026-10-09T21:23:20.789Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3744_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3744_cp.json",
+    "sha256": "594660e7a6ed7cd04fe8c6a87dc19114804754020ddc7f8ed9f18ce850ac572f",
+    "retrieved_at": "2026-10-24T20:25:30Z",
+    "updated_at": "2026-10-09T21:23:23.947Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3745_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3745_cp.json",
+    "sha256": "2e12ecedbb48ca50f4e64b2a372330b3950eb74da83b84cf56a1e163092f2542",
+    "retrieved_at": "2026-10-24T20:25:30Z",
+    "updated_at": "2026-10-09T21:23:27.12Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3746_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3746_cp.json",
+    "sha256": "956555c1a5d1142834102ed6308dc2412d8b9db86455b57b7e99e6a19521eaf6",
+    "retrieved_at": "2026-10-24T20:25:31Z",
+    "updated_at": "2026-10-09T21:23:30.379Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3747_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3747_cp.json",
+    "sha256": "aef9c84f9d03bbe0e04e77e668094234153844723a0358b3a3c7af3adbc15cf6",
+    "retrieved_at": "2026-10-24T20:25:31Z",
+    "updated_at": "2026-10-09T21:23:33.552Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3748_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3748_cp.json",
+    "sha256": "655f07d3dbac45054ce0d1f6403100a9bccf0682a210d38099a3a888e29c1b66",
+    "retrieved_at": "2026-10-24T20:25:31Z",
+    "updated_at": "2026-10-06T20:20:53.197Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3749_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3749_cp.json",
+    "sha256": "e1fc761b50008c1022b6cc048161c74801d2c19c1c1270277009bc23c7573cdc",
+    "retrieved_at": "2026-10-24T20:25:31Z",
+    "updated_at": "2026-10-06T20:20:56.305Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3750_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3750_cp.json",
+    "sha256": "68d0bba91130fd7fa45f2820275395981c4f95bfa5c4a852a54984a39c31f104",
+    "retrieved_at": "2026-10-24T20:25:32Z",
+    "updated_at": "2026-10-09T18:10:04.069Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3751_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3751_cp.json",
+    "sha256": "bea63e20bb08fdbdb4921b36f7aa5612d2889ad4e90b1e30df237b67345bec8c",
+    "retrieved_at": "2026-10-24T20:25:32Z",
+    "updated_at": "2026-10-09T21:23:36.638Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3752_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3752_cp.json",
+    "sha256": "b010ebd95ef36a5311272a35907de28432d6912c387941908f7a4491843690ef",
+    "retrieved_at": "2026-10-24T20:25:32Z",
+    "updated_at": "2026-10-09T21:23:39.943Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3753_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3753_cp.json",
+    "sha256": "bf93d2cac573e5a0a7813fec2dc2c22460ccc4afa9a762324a2fdd8be0ce2a60",
+    "retrieved_at": "2026-10-24T20:25:33Z",
+    "updated_at": "2026-10-09T21:23:42.894Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3754_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3754_cp.json",
+    "sha256": "e28aec6e19adeee31f3b8101a96fac5083c19a88a4bc2acd9bcdc6f32c741b88",
+    "retrieved_at": "2026-10-24T20:25:33Z",
+    "updated_at": "2026-10-09T21:23:46.121Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3755_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3755_cp.json",
+    "sha256": "acc36fab9f7ca09cc26fdf32a2055c33f5f3f5b37b6097dfc27f171775c799bd",
+    "retrieved_at": "2026-10-24T20:25:34Z",
+    "updated_at": "2026-10-09T21:23:49.315Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3756_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3756_cp.json",
+    "sha256": "ec4833e06df6b4cf9da18ff3848c0ca0a25982083a488e9edc5da965e9ad0b12",
+    "retrieved_at": "2026-10-24T20:25:34Z",
+    "updated_at": "2026-10-09T21:23:52.397Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3757_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3757_cp.json",
+    "sha256": "3f893082bb368535839883b8027557277eb2e70758067aad22325880d5152a13",
+    "retrieved_at": "2026-10-24T20:25:34Z",
+    "updated_at": "2026-10-09T21:23:55.594Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3758_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3758_cp.json",
+    "sha256": "7f7895de6486a9f7b7409cc1e4c65da8d3bd771896c3dfd1cb6849f54daf95b1",
+    "retrieved_at": "2026-10-24T20:25:35Z",
+    "updated_at": "2026-10-09T21:23:58.858Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3759_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3759_cp.json",
+    "sha256": "49dd3413289e81ce1f94f470e084dadb293176266ba33c59fe9f2f35946284cb",
+    "retrieved_at": "2026-10-24T20:25:35Z",
+    "updated_at": "2026-10-09T21:24:02.103Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3760_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3760_cp.json",
+    "sha256": "2718970201fe28d0702784caebe0e0cce93a88091ecaa68716b5532d3c0be218",
+    "retrieved_at": "2026-10-24T20:25:35Z",
+    "updated_at": "2026-10-06T20:21:29.321Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3761_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3761_cp.json",
+    "sha256": "c0cc7fa87854d6b767ea08d78549cb8f29aa5fe80d07bcf9e8fd039d4b227322",
+    "retrieved_at": "2026-10-24T20:25:36Z",
+    "updated_at": "2026-10-06T20:21:32.215Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3762_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3762_cp.json",
+    "sha256": "6b4289a6e33dc5484aa54ca8e3d97aef39925169b20e8a0dc94f56117aee2b27",
+    "retrieved_at": "2026-10-24T20:25:36Z",
+    "updated_at": "2026-10-09T21:24:05.338Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3763_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3763_cp.json",
+    "sha256": "d1db485a3eb65b9a1020fd5b71a3c3d0a23531995e10c64ae2867235863895a8",
+    "retrieved_at": "2026-10-24T20:25:36Z",
+    "updated_at": "2026-10-09T21:24:08.534Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3764_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3764_cp.json",
+    "sha256": "c38ea1bf3ddf4db89658bad8cbc0c4fac529bd2dcf41a35a1b0f7615d1a32776",
+    "retrieved_at": "2026-10-24T20:25:37Z",
+    "updated_at": "2026-10-09T21:24:12.157Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3765_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3765_cp.json",
+    "sha256": "3f5dc2223c7eddf5593e48ea6ea3a54bbb4c71a958f96c88a497e873e45b417f",
+    "retrieved_at": "2026-10-24T20:25:37Z",
+    "updated_at": "2026-10-09T21:24:15.353Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3766_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3766_cp.json",
+    "sha256": "855f38ab230e5fcb3a2dba348cbb9e4478d42bc0c97d4b336d8a4bcc0201b324",
+    "retrieved_at": "2026-10-24T20:25:37Z",
+    "updated_at": "2026-10-09T21:24:18.605Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3767_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3767_cp.json",
+    "sha256": "c6b3c55332a48afc6e9c4ca07fd2b05e1ff399b2e78b8f3bd35f72c337d4cbbd",
+    "retrieved_at": "2026-10-24T20:25:38Z",
+    "updated_at": "2026-10-09T21:24:21.821Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3768_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3768_cp.json",
+    "sha256": "ca6e3a52fcc43fcd780391bf14523ff8d489115fedde63bddba50315c687aae1",
+    "retrieved_at": "2026-10-24T20:25:38Z",
+    "updated_at": "2026-10-09T21:24:24.897Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3769_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3769_cp.json",
+    "sha256": "d2956eed67fcdcea7316bae89507aba2d3d44ecf4566ca27bcb4e5d90b54aafd",
+    "retrieved_at": "2026-10-24T20:25:38Z",
+    "updated_at": "2026-10-14T17:33:28.755Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3770_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3770_cp.json",
+    "sha256": "659172629a4bcdc7ad2d82a7027fd9921a28bc1793c30a0f8c5caf85b203789d",
+    "retrieved_at": "2026-10-24T20:25:39Z",
+    "updated_at": "2026-10-14T17:34:38.166Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3771_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3771_cp.json",
+    "sha256": "769b4458de87e02006189532a802261047a1d2209b04bfd055206b6c334b4ca2",
+    "retrieved_at": "2026-10-24T20:25:39Z",
+    "updated_at": "2026-10-09T18:13:22.564Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3772_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3772_cp.json",
+    "sha256": "f24940c81bd06688b390e4f3c013171352e1cccb344cd896ff93d3c36fbd3c85",
+    "retrieved_at": "2026-10-24T20:25:39Z",
+    "updated_at": "2026-10-09T18:13:25.766Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3773_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3773_cp.json",
+    "sha256": "94dfd2789b73b59d41c96fc2630979bf723ee2eb076b8ac05242e1b99a3f79fa",
+    "retrieved_at": "2026-10-24T20:25:40Z",
+    "updated_at": "2026-10-09T21:24:27.943Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3774_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3774_cp.json",
+    "sha256": "1b6d9c46460e18752857bfff6d9168225d990061037dbbcf404f17d797638d30",
+    "retrieved_at": "2026-10-24T20:25:40Z",
+    "updated_at": "2026-10-09T21:24:31.152Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3775_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3775_cp.json",
+    "sha256": "ec7e884daa349fcafa5a9ec19e83ce7a0c2062ab1f6805e8ecbfef06542a2898",
+    "retrieved_at": "2026-10-24T20:25:40Z",
+    "updated_at": "2026-10-09T21:24:34.337Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3776_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3776_cp.json",
+    "sha256": "98b5cc58b75dd63c8231bf6537611e840a8fa8b7b5d6f644dadd2c6885abd571",
+    "retrieved_at": "2026-10-24T20:25:41Z",
+    "updated_at": "2026-10-09T21:24:37.577Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3777_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3777_cp.json",
+    "sha256": "5205b0fd08121e7e09e054cbf47d577863f229efd64de9d8ceb32220e5fc06ae",
+    "retrieved_at": "2026-10-24T20:25:41Z",
+    "updated_at": "2026-10-09T21:24:40.804Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3778_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3778_cp.json",
+    "sha256": "b011626d2e1c6dffc162754ca2e1c6b65120f1f1e3837dcd47f01758349ac626",
+    "retrieved_at": "2026-10-24T20:25:41Z",
+    "updated_at": "2026-10-09T21:24:43.871Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3779_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3779_cp.json",
+    "sha256": "96118ad96ee41eae97f655d4a6751230dce7e32b1eacd8acf9da2cdaf4487d31",
+    "retrieved_at": "2026-10-24T20:25:42Z",
+    "updated_at": "2026-10-09T21:24:47.09Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3780_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3780_cp.json",
+    "sha256": "fdc6469d2dbe33b09743bce70e5d48ef136ca7e36e360e2ba1e29ca5db6e6623",
+    "retrieved_at": "2026-10-24T20:25:42Z",
+    "updated_at": "2026-10-09T21:24:50.039Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3781_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3781_cp.json",
+    "sha256": "cce3a105444547c4849d9e18252b4c8f3f74c3e39978c7576fda070effb3d6a4",
+    "retrieved_at": "2026-10-24T20:25:42Z",
+    "updated_at": "2026-10-09T21:24:53.119Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3782_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3782_cp.json",
+    "sha256": "d4b6019f87dc7e4728eb23cfe75411815e7215bb74de0376636f10ef81bd71b1",
+    "retrieved_at": "2026-10-24T20:25:43Z",
+    "updated_at": "2026-10-09T21:24:56.302Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3783_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3783_cp.json",
+    "sha256": "23cd1b9bc428cc3733d64952dc05e2778eb9c85c597d66b0efbb856598f7538d",
+    "retrieved_at": "2026-10-24T20:25:43Z",
+    "updated_at": "2026-10-09T21:19:25.847Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3784_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3784_cp.json",
+    "sha256": "bac275706f19faf632a749db13b4609ea885e0dbd76e4061624b2ed58d8d06a1",
+    "retrieved_at": "2026-10-24T20:25:43Z",
+    "updated_at": "2026-10-20T19:33:22.1Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3785_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3785_cp.json",
+    "sha256": "35de1d92f3c3382076470377bba9dc145c8b3e9d867e8eb420bcac19185de676",
+    "retrieved_at": "2026-10-24T20:25:44Z",
+    "updated_at": "2026-10-09T21:25:02.699Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3786_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3786_cp.json",
+    "sha256": "0a9e47ed37eae154ef948215e827091b30ee26b1b82b92db158612284e77f5a9",
+    "retrieved_at": "2026-10-24T20:25:44Z",
+    "updated_at": "2026-10-09T21:25:05.789Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3787_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3787_cp.json",
+    "sha256": "b624bfd3f68128dc242ab76f9fba5725cf761de01f462f7e7cc0fa9885525c4b",
+    "retrieved_at": "2026-10-24T20:25:44Z",
+    "updated_at": "2026-10-09T21:25:09.03Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3788_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3788_cp.json",
+    "sha256": "27988d75d31130b7fcf82416cc39093c49d09aad7d0a99d380e3ee2447920e77",
+    "retrieved_at": "2026-10-24T20:25:45Z",
+    "updated_at": "2026-10-09T21:25:12.204Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3789_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3789_cp.json",
+    "sha256": "5c9851b9a640860fdbbeeea59cbdf036d5b4d333ac986110bd62021a89671aa5",
+    "retrieved_at": "2026-10-24T20:25:45Z",
+    "updated_at": "2026-10-13T22:06:27.124Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3790_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3790_cp.json",
+    "sha256": "45a49acbcea73e7ded912f1d77cfbdd40df17d05f90369876757bd25eac43ae4",
+    "retrieved_at": "2026-10-24T20:25:45Z",
+    "updated_at": "2026-10-09T18:10:42.342Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3791_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3791_cp.json",
+    "sha256": "13de5cc702fd79eb95cb5413a91d01b2c736477ec04e66c11b51df615c6bd84b",
+    "retrieved_at": "2026-10-24T20:25:46Z",
+    "updated_at": "2026-10-09T18:10:45.526Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3792_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3792_cp.json",
+    "sha256": "657349db9638566570f9d62528879257e630ebacd2a19c362ee35f2c994bf626",
+    "retrieved_at": "2026-10-24T20:25:46Z",
+    "updated_at": "2026-10-09T18:10:48.723Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3793_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3793_cp.json",
+    "sha256": "e7b70f5523397eca4171e24c184e37ae85fb126eddb8d40f644b6cad99393e12",
+    "retrieved_at": "2026-10-24T20:25:46Z",
+    "updated_at": "2026-10-09T18:10:51.909Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3794_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3794_cp.json",
+    "sha256": "0fe4bb637f896ed148a0cd06cbcc74a9ce4eb470ffe1f821760a6f16a32782fb",
+    "retrieved_at": "2026-10-24T20:25:47Z",
+    "updated_at": "2026-10-09T18:10:55.102Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3795_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3795_cp.json",
+    "sha256": "f1217c750fb1175073762b4785aecee85dc3bc7fd819db9e6ff9997c0656817a",
+    "retrieved_at": "2026-10-24T20:25:47Z",
+    "updated_at": "2026-10-09T21:25:15.391Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3796_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3796_cp.json",
+    "sha256": "0f4ac79fef2f7e424950d58d4719686d34068b0bd979510b345f316a90b73e79",
+    "retrieved_at": "2026-10-24T20:25:47Z",
+    "updated_at": "2026-10-09T21:25:18.596Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3797_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3797_cp.json",
+    "sha256": "7f90246683ce9e7cf5d7267445e251d5df5575b037e3244eab40841c5d948c3f",
+    "retrieved_at": "2026-10-24T20:25:48Z",
+    "updated_at": "2026-10-09T21:25:21.833Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3798_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3798_cp.json",
+    "sha256": "91b6a60ca381d6c46314cbc31eb06534c707c0aee0ae27a1538da1f74b4abcd5",
+    "retrieved_at": "2026-10-24T20:25:48Z",
+    "updated_at": "2026-10-09T21:25:24.906Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3799_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3799_cp.json",
+    "sha256": "9bd747bb97628bb49545678a004eb628422b1b24cbe8f7564408c37a422e54d8",
+    "retrieved_at": "2026-10-24T20:25:48Z",
+    "updated_at": "2026-10-09T21:25:28.136Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3800_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3800_cp.json",
+    "sha256": "6e61f3b4e479121ca1915567fd5e993dd20f4821e49940fff4d4b395c32dad91",
+    "retrieved_at": "2026-10-24T20:25:49Z",
+    "updated_at": "2026-10-09T21:25:31.536Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3801_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3801_cp.json",
+    "sha256": "5baa319981eb2fd31017cdec5fec3c7ad2dcde32bc9e79f6c2dfddf6975626f2",
+    "retrieved_at": "2026-10-24T20:25:49Z",
+    "updated_at": "2026-10-14T17:30:10.258Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3802_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3802_cp.json",
+    "sha256": "dfb3655252390ad4fac277ace5e08d36696152ff09e845efc287fa1b2b2239f6",
+    "retrieved_at": "2026-10-24T20:25:49Z",
+    "updated_at": "2026-10-09T18:11:20.277Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3803_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3803_cp.json",
+    "sha256": "23eb3c89ae0b03cb979670bb69c815be2c27ae440dfc750d6991ac821db4dbc5",
+    "retrieved_at": "2026-10-24T20:25:50Z",
+    "updated_at": "2026-10-09T21:25:34.812Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3804_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3804_cp.json",
+    "sha256": "f027e3635cbdfa74b92339e9b572dea5e16587f571c68365314914c7da35c424",
+    "retrieved_at": "2026-10-24T20:25:50Z",
+    "updated_at": "2026-10-09T21:25:37.854Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3805_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3805_cp.json",
+    "sha256": "3110f634fda52a822f48f0775132a66a59dec22a52e07d49d9c0b6327791dd90",
+    "retrieved_at": "2026-10-24T20:25:50Z",
+    "updated_at": "2026-10-09T21:25:40.906Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3806_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3806_cp.json",
+    "sha256": "773c939667615fa59c143a197eb7b25895cb2c0a936a2e87e73111b9d6b274f1",
+    "retrieved_at": "2026-10-24T20:25:51Z",
+    "updated_at": "2026-10-09T21:25:43.849Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3807_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3807_cp.json",
+    "sha256": "9b18a51ca612dfe0cf3d2724f33ea82606c02c4788e7beda36320e2549e1a5de",
+    "retrieved_at": "2026-10-24T20:25:51Z",
+    "updated_at": "2026-10-09T21:25:46.919Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3808_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3808_cp.json",
+    "sha256": "16881ff86af7f8dfa3f483da150a69fafda5d31cc2dd2d2cb9a672af619914f6",
+    "retrieved_at": "2026-10-24T20:25:51Z",
+    "updated_at": "2026-10-09T21:25:50.027Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3809_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3809_cp.json",
+    "sha256": "a44866020fe83587cd50f72f4406038361c8d3755b73a8057fce9bf651f49c8b",
+    "retrieved_at": "2026-10-24T20:25:52Z",
+    "updated_at": "2026-10-06T20:23:57.333Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3810_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3810_cp.json",
+    "sha256": "4af30c2b2c7072a3dd67ed7f1ca23fa9a43a18ccac5906ebb8ebe2f8a56f1552",
+    "retrieved_at": "2026-10-24T20:25:52Z",
+    "updated_at": "2026-10-14T17:35:38.601Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3811_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3811_cp.json",
+    "sha256": "44277c798a26cede34dd370c66e2fcac268a3a014c0cabdf8e29e6a422a4b8a5",
+    "retrieved_at": "2026-10-24T20:25:52Z",
+    "updated_at": "2026-10-09T21:25:53.252Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3812_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3812_cp.json",
+    "sha256": "59732612c9e384f0b52fea462a45c5771dc333f6aa8726c3198571dc4858a18d",
+    "retrieved_at": "2026-10-24T20:25:53Z",
+    "updated_at": "2026-10-14T17:31:00.812Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3813_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3813_cp.json",
+    "sha256": "ecbc57a177f250aea4011be38b222cde105be4c57c71465a7afb10a132330484",
+    "retrieved_at": "2026-10-24T20:25:53Z",
+    "updated_at": "2026-10-06T20:24:10.308Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3814_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3814_cp.json",
+    "sha256": "6de7111197fb26b434ff9ee5f5bcab465d0d735d4f90cb38117cbce4359c0ca8",
+    "retrieved_at": "2026-10-24T20:25:53Z",
+    "updated_at": "2026-10-09T18:13:54.055Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3815_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3815_cp.json",
+    "sha256": "7a5156a6d157aa03bef54746b8305624581f999abdefd955f6482e902afe0eab",
+    "retrieved_at": "2026-10-24T20:25:54Z",
+    "updated_at": "2026-10-09T18:13:57.123Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3816_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3816_cp.json",
+    "sha256": "1f367e166a44548e27520dec40852ec83ce3174b9779563ffe9785d9878f7cf8",
+    "retrieved_at": "2026-10-24T20:25:54Z",
+    "updated_at": "2026-10-09T21:25:56.436Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3817_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3817_cp.json",
+    "sha256": "d796b29ffbac2683fdcfd2978f34c9461bc7ff1e84f89a44a4ae1f987ff7942c",
+    "retrieved_at": "2026-10-24T20:25:54Z",
+    "updated_at": "2026-10-09T21:25:59.644Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3818_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3818_cp.json",
+    "sha256": "5efa614f6b1622269220a3c816092459a59caaa2d7103018bc34afa8b2aef536",
+    "retrieved_at": "2026-10-24T20:25:55Z",
+    "updated_at": "2026-10-06T20:24:25.32Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3819_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3819_cp.json",
+    "sha256": "dd0b23e76ebdf6fceb262c6406fb62c90e4442d897d1509b68bfdfbe50984e09",
+    "retrieved_at": "2026-10-24T20:25:55Z",
+    "updated_at": "2026-10-09T18:11:36.267Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3820_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3820_cp.json",
+    "sha256": "a6715825d49b3f0c1fdd8242a018cd14a8cce26c06b7ee412c5739c10f20f6ac",
+    "retrieved_at": "2026-10-24T20:25:55Z",
+    "updated_at": "2026-10-09T18:11:39.397Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/721_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json",
+    "sha256": "eed69bdf5544b553d298371c3c67f6ddd679831b4d51aeb7e05fa6c900332f0f",
+    "retrieved_at": "2026-10-24T20:25:56Z",
+    "updated_at": "2026-10-14T16:57:40.098Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/722_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/722_md.json",
+    "sha256": "46d70c8a9c75f2392b76a44968d597e532cc7bb8276f6e60b3fccce9020bbd0c",
+    "retrieved_at": "2026-10-24T20:25:56Z",
+    "updated_at": "2026-10-10T01:11:09.27Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/723_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json",
+    "sha256": "fccd579d7ce23ced19dbedb7633b7e5516c9b7e14e88004f235ec39570d21b7f",
+    "retrieved_at": "2026-10-24T20:25:56Z",
+    "updated_at": "2026-10-09T22:21:54.11Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/724_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/724_md.json",
+    "sha256": "bfce4fc4f67e838e29107bd67eae938eefde54599ea7b5b8eb9736611c835039",
+    "retrieved_at": "2026-10-24T20:25:57Z",
+    "updated_at": "2026-10-09T22:21:57.688Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/725_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json",
+    "sha256": "c4fc295bf3a33f5c9cf711050d24e82c8a868279cd5a91a8fa44ac84682d2902",
+    "retrieved_at": "2026-10-24T20:25:57Z",
+    "updated_at": "2026-10-09T22:22:01.728Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/726_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/726_md.json",
+    "sha256": "3f23daa6d9570e045ed91215c078934ef8d1f8524ee6d0b4f151479f4579f4a5",
+    "retrieved_at": "2026-10-24T20:25:57Z",
+    "updated_at": "2026-10-10T01:13:29.518Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/727_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/727_md.json",
+    "sha256": "8760d43d5e2e347f727e18266c12e0389345aa15d64cacb3e2b6cd023ef97382",
+    "retrieved_at": "2026-10-24T20:25:58Z",
+    "updated_at": "2026-10-10T01:14:00.173Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/728_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/728_md.json",
+    "sha256": "a0056828f1bf7146b4fc02ee100b46b12a1228e1c75d14cd3f5d138fd28817d2",
+    "retrieved_at": "2026-10-24T20:25:58Z",
+    "updated_at": "2026-10-09T22:22:11.999Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/729_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/729_md.json",
+    "sha256": "d992873913bc4a5ff725b168cb4099362b6168aa996a27407bdd76c1322463e2",
+    "retrieved_at": "2026-10-24T20:25:58Z",
+    "updated_at": "2026-10-10T01:14:32.441Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/730_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/730_md.json",
+    "sha256": "51e8a51bd0023138c103617694b82a303b350861cb045717f17f6d51de0b6d96",
+    "retrieved_at": "2026-10-24T20:25:59Z",
+    "updated_at": "2026-10-15T16:05:31.999Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/731_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json",
+    "sha256": "b6aba6d86cbbe70ada84878a2630418a2ad05295dfdd189cb75d7a16a4d6ba53",
+    "retrieved_at": "2026-10-24T20:25:59Z",
+    "updated_at": "2026-10-09T22:22:22.635Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/732_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json",
+    "sha256": "231b1ccc20d40026c321daea993f01487563b37ff986719e63fe695b97efcd95",
+    "retrieved_at": "2026-10-24T20:25:59Z",
+    "updated_at": "2026-10-10T01:13:10.005Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/733_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/733_md.json",
+    "sha256": "2f2724ebfa96c0190a001c54c6eeca85e291ef842d97431c3ff45be570ea6f2b",
+    "retrieved_at": "2026-10-24T20:26:00Z",
+    "updated_at": "2026-10-14T23:58:10.603Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/734_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/734_md.json",
+    "sha256": "305f5ec6a4a7c1affc35a5d22491ec5bffdd5e48d54870b4c858253fc14dc681",
+    "retrieved_at": "2026-10-24T20:26:00Z",
+    "updated_at": "2026-10-15T16:01:54.055Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/735_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/735_md.json",
+    "sha256": "3b2c9dbb50548a630510450e519d978d4a05c70309f7c767a802d2323d9e2cbf",
+    "retrieved_at": "2026-10-24T20:26:00Z",
+    "updated_at": "2026-10-09T22:22:37.761Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/736_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/736_md.json",
+    "sha256": "4c185d82c8c98fb978a3b94e0ef261005df9296047de60f907ad7e3a4daf141f",
+    "retrieved_at": "2026-10-24T20:26:01Z",
+    "updated_at": "2026-10-09T22:22:41.084Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/737_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/737_md.json",
+    "sha256": "26deee4d126c34ddb61d7f13f8abb8a681713c40e72eaace6f6bff55d96f73cd",
+    "retrieved_at": "2026-10-24T20:26:01Z",
+    "updated_at": "2026-10-09T22:22:44.466Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/738_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/738_md.json",
+    "sha256": "670501fd53222d9491342e5c0d9b3328ac2eec8c6bc21c9d8ebc1f1eff87e700",
+    "retrieved_at": "2026-10-24T20:26:01Z",
+    "updated_at": "2026-10-13T22:05:16.239Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/739_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/739_md.json",
+    "sha256": "7c21c6d93c4feb61bed3c4d58ece64693231341c1488724eee84a6cae4f76b53",
+    "retrieved_at": "2026-10-24T20:26:02Z",
+    "updated_at": "2026-10-09T22:22:50.942Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/740_md.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/740_md.json",
+    "sha256": "355b54c8181098a36f76bfa8c7713c3cc713d0f8444644a78cb787c05be2fd12",
+    "retrieved_at": "2026-10-24T20:26:02Z",
+    "updated_at": "2026-10-10T01:15:00.926Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3654_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3654_cp.json",
+    "sha256": "2cc59379b646c3582f81ef7117bdcc992afb577dd72c8bc8a7ba1a83a4bad117",
+    "retrieved_at": "2026-10-24T20:28:59Z",
+    "updated_at": "2026-10-09T18:12:13.719Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3655_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3655_cp.json",
+    "sha256": "2fab13a9b14e394537183ad9bbb87da2c8e5e40bc9bdbc846080c6c1f21890cb",
+    "retrieved_at": "2026-10-24T20:29:00Z",
+    "updated_at": "2026-10-09T21:19:37.222Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3688_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3688_cp.json",
+    "sha256": "e45be0e85f44d72ed24a85a1e8fb4286764f1daadb8e88f147e4a0ea312f7108",
+    "retrieved_at": "2026-10-24T20:29:00Z",
+    "updated_at": "2026-10-09T21:21:09.316Z"
+  },
+  "https://ca.omniballot.us/published/06085/1968/vg/3689_cp.json": {
+    "url": "https://ca.omniballot.us/published/06085/1968/vg/3689_cp.json",
+    "sha256": "541d47158183bbaf359f6d806e32bf1f2403fc31c953ff950309f89194908db4",
+    "retrieved_at": "2026-10-24T20:29:00Z",
+    "updated_at": "2026-10-09T21:21:13.196Z"
+  }
+}

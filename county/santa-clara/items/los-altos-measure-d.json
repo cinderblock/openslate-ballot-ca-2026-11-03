@@ -1,0 +1,1131 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/los-altos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:57Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the Ordinance, which prohibits the City of Los Altos from selling, leasing, conveying, or declaring as surplus land the ten City-owned Downtown Parking Plazas for any reason, or from authorizing new uses or physical alterations that would diminish protected trees or parking availability, access, or convenience, unless separately approved by a majority of voters, except that two Parking Plazas may be developed for affordable housing without a vote, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"Yes\" vote will prohibit the City from selling, leasing, conveying, declaring surplus, or permanently repurposing the Parking Plazas for any use other than surface parking without a majority vote of the City's voters."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"No\" vote will preserve the City's discretion to use the Parking Plazas for any use permitted by local, state, and/or federal law."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure D is a voter-sponsored initiative measure. If approved, Measure D would amend the Los Altos (\"City\") Municipal Code by adding a new Chapter 14.92 entitled \"Downtown Parking Plazas.\" Measure D defines the Downtown Parking Plazas as the \"publicly-accessible, open and surface parking lots located in the Downtown area which are owned by the City.\" They are commonly known as Plazas 1 through 10."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The 2026 Ballot Measure Impact Analysis─9212 Report (\"9212 Report\") for Measure D found that \"...the Ballot Measure would potentially limit new development by adding additional constraints to development on the City-owned Downtown Parking Plazas. Although there is an exception for 'affordable housing' on Plazas 7 and 8, it is not clear if mixed-income housing or other development programs that include affordable housing could be approved without a subsequent Ballot Measure. This would impact development of even affordable multifamily housing on all these lots, including Plazas 7 and 8, by potentially complicating development opportunities. This would impact Program 1.H ('Facilitation housing on City-owned sites') and other Housing Element programs and policies.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Unless approved by a majority vote of the City's voters, Measure D would prohibit the City from taking the following actions affecting the Parking Plazas: selling, leasing, or otherwise conveying them; changing their use which would dimmish the availability of public parking; declaring them as surplus land; constructing any capital project that permanently diminishes the availability of public parking; modifying them by adding additional levels; modifying them in a way that would negatively affect protected trees or tree canopy; or entering into a development agreement or similar agreement that would allow a third-party to take action prohibited by it."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure D provides few actions to be taken without a majority vote of the City's voters such as maintaining and repairing the Parking Plazas and hosting the farmers' market or similar short-term events."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The processing, interpretation, and validity of Measure D would be governed by the Election Code and state law. The 9212 Report found \"If the Ballot Measure were to pass and then subsequently be challenged in court, the City would be required to pay defense costs of the challenge and potentially indemnify the proponents. The City would also be required to defend the Ballot Measure and any implementation of the Ballot Measure, until ended by voters.\" The 9212 Report attached the June 15, 2026, YIMBY Law letter that stated, \"To dispel any potential ambiguity, we are prepared to sue Los Altos the instant this measure is adopted.\" Measure D's defense costs would come from the City's General Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Jolie Houston\nLos Altos City Attorney"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure D",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Los Altos Downtown Parking Plazas Ordinance"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The people of the City of Los Altos do ordain as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 1. Title."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Ordinance may be cited as the \"Los Altos Downtown Parking Plazas Ordinance.\""
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 2. Los Altos Downtown Parking Plazas Ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City of Los Altos Municipal Code is hereby amended by adding Chapter 14.92 to Title 14."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Chapter 14.92. Downtown Parking Plazas."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.010 Findings and Purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The people of the City of Los Altos find and declare that:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The City of Los Altos has a unique arrangement of land uses that require regulations and standards that are important to preserve the character of Los Altos and provide for compatibility of adjacent uses;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The General Plan Community Design and Historic Resources Element provides for a Downtown core with a village atmosphere reflective of traditional historic commercial development with parking plazas, and for the preservation of trees, especially heritage and protected trees;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The General Plan Land Use Element provides for downtown public parking in order to maintain vitality by ensuring adequate shared parking to serve businesses and visitors;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. In 1957, the property commonly known as the Downtown Parking Plazas—designed as critical infrastructure to provide common use and distributed, accessible, open, surface public parking—was acquired and developed through assessment funding from Downtown property owners who continue to receive benefits from their investment;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. The now City-owned Parking Plazas are central to how Downtown functions, and development decisions made by the City may affect the limited supply of public parking and the quality of environmental and scenic resources;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "6. Any decision to sell, lease, convey, declare surplus, or re-purpose the Downtown Parking Plazas for any use other than for surface parking and vehicular access should first be approved by a majority vote to ensure that the proposed change is consistent with the purpose of the Downtown core and does not negatively impact businesses or visitors;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "7. At the same time, the City should have the flexibility to maintain and repair the Downtown Parking Plazas, and to use Parking Plazas for short-term special community events and farmers markets; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "8. This measure is intended to balance mandated statewide affordable housing goals with preserving the character of Downtown Los Altos and the availability, access, and convenience of public parking for Downtown workers, customers, and visitors."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.020 Definitions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "\"City\" means the City of Los Altos, California, and shall collectively refer to the Mayor, City Council, all City departments, and all City employees."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "\"Downtown\" shall refer in general terms to the area generally bound by Foothill Expressway, San Antonio Road, and Edith Avenue, and as also referred to on page 17 of the Land Use Element of the General Plan as \"Downtown.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "\"Parking Plazas\" shall refer to the following publicly-accessible, open and surface parking lots located in the Downtown area which are owned by the City:"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "Common Designation"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "APN Number"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 1, South Plazas, First Street"
+              ]
+            },
+            {
+              "text": [
+                "16740039"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 2, South Plazas, Second Street"
+              ]
+            },
+            {
+              "text": [
+                "16740072"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 3, South Plazas, Third Street"
+              ]
+            },
+            {
+              "text": [
+                "16738002"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 4, Central Plazas, First Street"
+              ]
+            },
+            {
+              "text": [
+                "16739057"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 5, Central Plazas, Second Street"
+              ]
+            },
+            {
+              "text": [
+                "16739069"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 6, Central Plazas, State Street"
+              ]
+            },
+            {
+              "text": [
+                "16738028"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 7, North Plazas, First Street"
+              ]
+            },
+            {
+              "text": [
+                "16739032"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 8, North Plazas, Second Street"
+              ]
+            },
+            {
+              "text": [
+                "16739007"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 9, North Plazas, Fourth Street"
+              ]
+            },
+            {
+              "text": [
+                "16738049"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Plaza 10, North Plazas, Fourth Street"
+              ]
+            },
+            {
+              "text": [
+                "16738029"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.030 Preservation of Parking Plazas."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Notwithstanding any other provision in the City's Municipal Code, General Plan, or other City statutes or policies, the City may not take any of the following actions with respect to a Parking Plaza unless and until the action is approved by a majority vote of the City's voters:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Sell, trade, lease, donate, dispose or otherwise convey any Parking Plaza, or any portion thereof, for any reason."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Designate or change the use of any Parking Plaza in any way which would affect the use of the Parking Plazas for parking or which would diminish the availability, access or convenience of public parking."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. Declare any Parking Plaza \"surplus land\" or \"exempt surplus land\" under the California Surplus Land Act (Government Code sections 54220 et seq.)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. Modify, alter or construct any capital project or other physical alteration on any of the Parking Plazas which permanently diminishes the availability, access or convenience of public parking."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. Modify or physically alter any Parking Plaza by adding additional levels or floors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "6. Modify or physically alter any Parking Plaza in a way which would negatively affect protected trees or the tree canopy."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.040 Third Party Agreements."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City shall not enter into any development agreement, public-private partnership, ground lease, joint powers agreement, or similar arrangement that would enable a third party to undertake actions prohibited by this measure without voter approval."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.050 Exceptions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Notwithstanding section 14.92.030, the City may take the following actions with respect to the Parking Plazas without a vote of the People:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Maintain and repair the Parking Plazas, even if these activities temporarily affect parking availability, access, or convenience, if they are intended to preserve or improve the access or convenience of public parking."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Host community activities, such as the farmers market or similar events, which use the Parking Plazas on a short-term and temporary basis."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. Develop Parking Plaza 7 (APN: 16739032) and Parking Plaza 8 (APN:16739007) for affordable housing."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.060 Reenactment Required for City Actions Prior to Effective Date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If the City takes any action listed in section 14.92.030 on or after the date of publication of the notice of intention to circulate the initiative petition adding this Chapter to the Municipal Code, as required by the Elections Code, but prior to the effective date of this Chapter, which was not adopted in compliance with the requirements of this Chapter, that action shall be deemed null, void and of no further force or effect unless and until the action is reenacted in compliance with the requirements of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Any action listed in section 14.92.030 taken by the City on or after the date of publication of the notice of intention to circulate the initiative petition adding this Chapter to the Municipal Code, as required by the Elections Code, shall be subject to the requirements of this Chapter."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.070 Required Election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. If the City wishes to take any action listed in section 14.92.030, the City Council must place such action on the next regularly-scheduled election ballot following the final City approval of the action."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The City Council shall not place such action on the ballot unless and until the City has taken all steps necessary under the law to approve the action."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. Such action shall not become effective unless and until it is first approved by the City pursuant to all legal requirements and thereafter approved by the voters pursuant to this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. Placing an action listed in sections 14.92.030 on the ballot shall not affect other legal requirements for such action, including environmental review under the California Environmental Quality Act and consistency with the General Plan."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. All materials which the City prepares for distribution to voters in connection with the election referenced herein, including the voter information pamphlet, shall describe with particularity the proposed action, the impact of the proposed action on the Parking Plazas, the change, if any, in the number or location of parking spaces, and the cost to the City."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "14.92.080 Citizen Initiative."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "An action listed in section 14.92.030 may be placed on the ballot via citizens' initiative and will take effect based on approval by a majority of the City's voters."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 3. Earliest Possible Election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The people of Los Altos hereby expressly request that this measure be submitted to the voters of Los Altos at the earliest time allowable by law."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 4. Effective Date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure shall become effective upon its approval by a simple majority of electors voting on the measure, but shall become operative as of the date of publication of the notice of intention to circulate the initiative petition adding this Chapter to the Municipal Code, as required by the Elections Code."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 5. Conflicting Measures."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Any other measure concerning or affecting the availability, access, or convenience of public parking for Downtown customers, workers and visitors which appears on the same ballot shall be deemed to conflict with this measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. In the event that this measure and one or more conflicting measures appear on the same ballot, the provisions of the measure which receives the greater number of affirmative votes shall prevail in their entirety, and the other measure or measures shall be null and void."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. If this measure is approved by the voters but superseded by any other conflicting measure approved by voters at the same election, and the conflicting ballot measure is later held invalid, this measure shall be self-executing and given full force and effect."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 6. Severability."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Should any provision of this measure, or its application to any person or circumstance, be determined by a court of competent jurisdiction to be unlawful, unenforceable or otherwise void, voidable, or invalid, that determination shall have no effect on any other provision, or the application of this measure to any other person or circumstance and, to that end, the provisions hereof are severable. By approving this measure, the voters express their intent that each section and subsection would have been adopted irrespective of whether any one or more sections or subsections are found to be invalid or unconstitutional, and that each section and subsection is therefore explicitly severable, part-by-part, phrase-by-phrase, and word-by-word, and that if any portion is determined by a court of competent jurisdiction to be unlawful, unenforceable or otherwise void, voidable or invalid, that the least amount of language be severed from the measure."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 7. Amendments."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "No provision of this measure shall be amended or repealed except by a vote of the people."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 8. Liberal Construction."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure shall be liberally construed to effectuate its purposes."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 9. Municipal Affairs."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. The people of the City of Los Altos declare that preserving the availability, access and convenience of public parking for Downtown customers, workers and visitors by requiring voter approval of any change in use of the Parking Plazas constitutes a municipal affair."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. The people of the City of Los Altos declare their intent that this citizen initiative be enacted, and voter approval be required for changes to the Parking Plazas, if this measure is approved by a simple majority of voters."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 10. Legal Defense."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The people of the City of Los Altos desire that this measure, if approved by the voters and thereafter challenged in court, be defended by the City. The people, by approving this measure, hereby declare that the proponents of this measure have a direct and personal stake in defending this measure from constitutional or statutory challenges to the measure's validity or implementation. In the event the City fails to defend this measure, or the City fails to appeal an adverse judgment against the constitutionality, statutory permissibility, or implementation of this measure, in whole or in part, in any court of law, the measure's proponents shall be entitled to assert their direct personal stake by defending the measure's validity and implementation in any court of law and shall be empowered by the people through this measure to act as agents of the people. The City shall indemnify the proponents for reasonable expenses and any losses incurred by the proponents, as agents, in defending the validity and/or implementation of the challenged measure. The rate of indemnification shall be no more than the amount it would cost the City to perform the defense itself."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "YES on Measure D gives Los Altos residents the right to vote on permanent changes to public downtown parking plazas."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "YES"
+              ]
+            },
+            " establishes an ordinance that ",
+            {
+              "strong": [
+                "requires voter approval"
+              ]
+            },
+            " before the City of Los Altos sells, trades, leases, conveys, declares \"surplus land,\" or otherwise permanently changes the current use of the city-owned downtown parking plazas."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The ordinance is housing friendly. Voter approval is ",
+            {
+              "strong": [
+                "not required"
+              ]
+            },
+            " for state-mandated affordable housing on City-designated Parking Plazas 7 and 8."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The City will continue to maintain, improve, landscape, and use the parking plazas for parking, festivals, parades, farmers markets, and other community events."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The City can propose any project for voter consideration, including a park, parking garage, and performing arts center."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our 10 city-owned parking plazas are valuable public assets: Convenient, tree-lined parking supports local businesses, strengthens the City's sales tax base, and provides easy access for residents, employees, and visitors. Before changing the fundamental nature of Downtown, the community, not any one city council, should have a say."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES for the Downtown Parking Plazas Ordinance. Your downtown. Your vote."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Yeslosaltos.org"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "C. Andrews",
+          "title": "Fmr. Park Commr."
+        },
+        {
+          "name": "B. Loebner",
+          "title": "Fmr. Park Commr."
+        },
+        {
+          "name": "L. Martinez Fennell",
+          "title": "Comm. Vol."
+        },
+        {
+          "name": "C. Lu",
+          "title": "Fmr. Planning Commr."
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure D is Dangerous and Deceptive."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "D is Deceptive:"
+              ]
+            },
+            " It doesn't protect parking. When Plazas 7 and 8 build state-mandated housing, we lose up to 266 spaces—and the City can't replace this parking without a costly citywide election."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "D is Dangerous:"
+              ]
+            },
+            " These restrictions jeopardize our state-certified Housing Element. If Los Altos can't rezone to HCD's satisfaction, we risk falling back under Builders Remedy, losing local zoning control for months and opening the door to projects vastly out-of-scale, as has happened in Palo Alto and Menlo Park."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "D is Damaging:"
+              ]
+            },
+            " This vaguely-worded measure invites lawsuits that waste millions of taxpayer dollars. YIMBY Law has already warned the City that they will sue Los Altos if this passes, and the state Attorney General is aggressively enforcing housing law against neighboring cities."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "D is Dubious:"
+              ]
+            },
+            " Measure D gives its own proponents special legal protection to sue or appeal on the City's behalf—at our expense—with zero accountability. You can't vote them out."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "D is Disingenuous:"
+              ]
+            },
+            " It claims to give us a vote we already have. We already vote for City Council, who weigh housing, safety, traffic, and budgets year-round. Measure D trades our ability to hold council responsible for zoning with a biannual vote on downtown construction proposals."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "D is Destructive:"
+              ]
+            },
+            " A citywide vote for every change discourages investment and could freeze our 70-year-old asphalt lots into a museum of increasingly empty storefronts."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join the League of Women Voters and Los Altos Village Association: ",
+            {
+              "strong": [
+                "Vote no on D"
+              ]
+            },
+            "."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Gary Hedden",
+          "title": "Past President, GreenTown Los Altos"
+        },
+        {
+          "name": "Claudia Coleman",
+          "title": "Former LEAD Program Manager"
+        },
+        {
+          "name": "Curtis Cole",
+          "title": "Past Los Altos Mayor"
+        },
+        {
+          "name": "Brooke Lopez",
+          "title": "Community Volunteer"
+        },
+        {
+          "name": "Herb Marshall",
+          "title": "Community Volunteer"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure D is a costly mistake."
+              ]
+            },
+            " Its supporters promise a simple solution, but the reality will be years of expensive unintended consequences. It will ",
+            {
+              "strong": [
+                "cost taxpayers millions"
+              ]
+            },
+            " in legal battles, ",
+            {
+              "strong": [
+                "discourage investment in our downtown"
+              ]
+            },
+            ", put local businesses at a disadvantage, and ",
+            {
+              "strong": [
+                "risk our community's control"
+              ]
+            },
+            " over where and how housing is built."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure D won't improve parking or support local businesses."
+              ]
+            },
+            " Instead, it requires a costly city-wide election before any future changes can move forward, delaying improvements and making it harder to attract investment and new customers."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure D is a sledgehammer. Even if you oppose a downtown park you should still oppose this measure."
+              ]
+            },
+            " The park is only a proposal, and the City Council is required to hold public meetings and hear community input. Measure D ",
+            {
+              "strong": [
+                "permanently locks broad restrictions"
+              ]
+            },
+            " into law, ",
+            {
+              "strong": [
+                "limiting future options"
+              ]
+            },
+            " for parking, housing, and solutions we haven't even imagined. ",
+            {
+              "strong": [
+                "It ties our hands for decades."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure D is poorly drafted and legally ambiguous."
+              ]
+            },
+            " It jeopardizes Los Altos' state-approved housing plan. If the State finds us out of compliance, the City may have to identify housing sites elsewhere, including near neighborhood shopping areas or along major corridors such as El Camino, San Antonio, or Foothill. ",
+            {
+              "strong": [
+                "We could face Builder's Remedy, losing local control"
+              ]
+            },
+            " over development throughout neighborhoods in Los Altos. Builder's Remedy is the cost when ",
+            {
+              "strong": [
+                "this measures gambles with neighborhoods across Los Altos."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Measure D weakens accountability."
+              ]
+            },
+            " Once adopted, even future City Councils can't fix its flaws. This measure will ",
+            {
+              "strong": [
+                "require taxpayers to fund the lawsuits"
+              ]
+            },
+            " and appeals supported by its proponents, who are private citizens we can't vote out and are accountable to no one at the ballot box."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Protect local control. Join us and the local ",
+            {
+              "strong": [
+                "League of Women Voters"
+              ]
+            },
+            " to ",
+            {
+              "strong": [
+                "VOTE NO on Measure D."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Shannon Geary",
+          "title": "Resident and President, Los Altos Village Association"
+        },
+        {
+          "name": "Mary Prochnow",
+          "title": "Past Mayor"
+        },
+        {
+          "name": "Jolee Crosson",
+          "title": "Los Altos Parent & Volunteer"
+        },
+        {
+          "name": "Peipei Yu",
+          "title": "Los Altos Parent & Volunteer"
+        },
+        {
+          "name": "Crysta Krames",
+          "title": "CEO, Los Altos Mountain View Community Foundation"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "City Council is proposing projects"
+              ]
+            },
+            " on city-owned parking plazas that are ",
+            {
+              "strong": [
+                "not housing."
+              ]
+            },
+            " Measure D lets the community vote on these \"non-housing\" projects and leaves open options for housing."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure D does not cause changes to the state-certified Housing Element nor trigger Builder's Remedy. Measure D does not put residential neighborhoods at risk of rezoning; Los Altos has already identified 30% more ",
+            {
+              "strong": [
+                "potential"
+              ]
+            },
+            " housing units than state mandate requires."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure D protects taxpayers and public assets. City Councils have previously given away or sold public land without voter approval. Measure D safeguards against third-party deals, strengthens accountability, and encourages smart planning before committing substantial public funds."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "California law protects voter initiatives since government officials may not defend them. Measure D provides that safeguard; it does not authorize proponents to initiate taxpayer-funded lawsuits."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure D was developed with legal and land-use expertise, and is supported by former mayors, city commissioners, educators, and current downtown property and business owners."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure D respects representative government. It leaves ordinary City governing to elected officials and reserves voter approval only for consequential, irreversible actions spelled out in the ordinance."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure D is consistent with Los Altos policies. Voter approval is already required for the disposition of parks, open space, and the Civic Center property. Measure D applies the same voter-approval principle to our invaluable parking plazas."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Your Downtown. Your Decision. Vote Yes on D."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Yeslosaltos.org"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Anita K. Enander",
+          "title": "Fmr. Mayor"
+        },
+        {
+          "name": "Dan Haley",
+          "title": "Fmr. LASD Principal"
+        },
+        {
+          "name": "Mark Srebnik",
+          "title": "Fmr. Planning Commr."
+        },
+        {
+          "name": "J.T. Fennell",
+          "title": "Community Volunteer"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

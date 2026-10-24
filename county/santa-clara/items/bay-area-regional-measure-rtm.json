@@ -1,0 +1,1934 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/bay-area",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:56Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "To prevent major service cuts to BART and other transit, avoid increased traffic, and reduce pollution by: Preserving BART, Caltrain, VTA, SamTrans, AC Transit, Muni, other transit for everyone, including workers, students, seniors, persons with disabilities; Supporting transit safety, cleanliness, affordability, reliability; Repairing targeted roads/potholes; Requiring financial transparency, oversight, accountability; shall the measure enacting a 0.5% (Alameda, Contra Costa, San Mateo, Santa Clara counties), and 1% (San Francisco) sales tax for 14 years generating approximately $980,000,000 annually, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote is a vote to impose the tax described above for 14 years."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote is a vote against imposing the tax."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "Public Transit Revenue Measure District's Legal Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure was placed on the ballot by voter initiative, signed by the requisite number of voters within the Public Transit Revenue Measure District (\"District\")."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The District was created by the Legislature through Senate Bill 63 (\"SB 63\") in 2025 (Government Code sections 67700-67788), which was enacted to preserve and improve public transit service in the San Francisco Bay Area. The District comprises the counties of Alameda, Contra Costa, San Mateo, and Santa Clara, and the City and County of San Francisco, and is governed by the same board that governs the Metropolitan Transportation Commission (\"MTC\"). SB 63 authorizes District voters to approve a retail transactions and use tax (commonly referred to as a sales tax) for specified purposes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure would impose a tax of 0.5% in the counties of Alameda, Contra Costa, San Mateo, and Santa Clara and 1.0% in the City and County of San Francisco. The tax would be imposed and collected in largely the same manner as a state-imposed sales tax. The tax would be in effect for 14 years and would not count toward the statutory limit on combined local sales tax rates."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "It is estimated that the tax would raise approximately $980 million per year. After payment of defined costs, including election costs and administrative expenses, the District must transfer all remaining revenues to MTC and county transportation agencies for distribution and expenditure according to percentages set forth in the measure, which vary by county and recipient. Recipients include BART, Muni, Caltrain, AC Transit, Santa Clara Valley Transportation Authority, San Francisco Bay Ferry, Golden Gate Transit, smaller bus operators in Alameda and Contra Costa Counties, and county transportation agencies. Revenues would also support free and reduced-cost transit transfers, expansion of the Clipper START reduced-fare program, accessibility programs, mapping and wayfinding and transit priority projects and programs, and repavement projects for roads served by fixed-route transit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "While the tax would be imposed throughout the District, the allocation of revenue generated in each county, and the authorized uses of those funds, would vary. For example, 64.70% of all revenues generated in Alameda County would be allocated to BART for transit operations expenses. By contrast, 84.37% of all revenues generated in Santa Clara County would be allocated to the Santa Clara Valley Transportation Authority for public transit expenses and roadway repavement projects on roads served by fixed-route transit. Such repavement projects would be an authorized use of measure revenues in Alameda, Contra Costa, San Mateo, and Santa Clara counties, but would not be authorized in the City and County of San Francisco. Revenue allocation is set forth in Section 12 of the measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Tax revenues would be subject to accountability requirements in SB 63, which requires BART, Muni, AC Transit, and Caltrain to undergo financial efficiency reviews and adopt implementation plans and authorizes MTC to withhold funds from any of those operators for noncompliance. The measure would also require an independent oversight committee to review whether all revenues are distributed as required."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The tax would become effective if approved by a majority of those voting on the measure throughout the entire District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Kathleen Kane\nLegal Counsel for the Public Transit Revenue Measure District"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure RTM",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "CONNECT BAY AREA TRANSIT INITIATIVE"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The people of the Public Transit Revenue Measure District do ordain as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SECTION 1. Title."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This ordinance shall be known, and may be cited, as the \"Connect Bay Area Transit Initiative.\""
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 2. Findings and Declarations."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The people of the Public Transit Revenue Measure District find and declare all of the following:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) The San Francisco Bay Area needs a world-class, reliable, affordable, efficient, and connected public transportation network that connects residents, businesses, and visitors to jobs, services, universities, recreation, and opportunities."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) The Bay Area is served by a large public transit network that safely, reliably, and affordably connects millions of residents and visitors each week. This public transit network supports the region's economy and local communities, promotes sustainable growth, provides access to opportunity, and reduces the cost of living for Bay Area families."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) Since the COVID-19 pandemic, the Bay Area's largest public transit systems have experienced fiscal pressures and recurring budget shortfalls that threaten the level and quality of service they can provide. These fiscal pressures imperil the region's transit agencies and threaten to undermine the region's economy, worsen our air quality and public health, increase carbon emissions, and reduce access to opportunity for all transit riders, particularly low-income communities, seniors, people with disabilities, and youth."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(d) Until now, relief funding from the federal government and the state has forestalled drastic service cuts. However, this relief funding is now exhausted and, despite cost control efforts and steady ridership recovery, the Bay Area's largest transit operators—BART, Muni, AC Transit, and Caltrain—collectively face operating deficits of more than $800 million annually starting in the 2027-28 fiscal year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(e) Agencies have taken significant measures to close their deficits, reduce operating costs, and boost ridership, including freezing hiring, renegotiating contracts, modernizing operations, improving fare enforcement, lowering energy costs, and expanding safety staffing. Crime is down on BART, Muni reliability is at a two-decade high, and Caltrain's new electric service is more efficient and cost-effective."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(f) Even with these efficiency and accountability measures in place, though, these transportation agencies continue to face severe budget deficits that will require drastic service cuts if new revenue is not identified to support operations."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(g) BART could be forced to significantly cut service, including potentially reducing weekly trains, closing lines, eliminating weekend service, shutting stations, and ending weekday service earlier in the evening."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(h) Caltrain could reduce service, potentially running trains on a significantly reduced schedule, ending weekday service earlier in the evening, and eliminating weekend service completely."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(i) Muni could potentially face drastic cuts to bus and Metro lines, suspension of entire neighborhood routes, and reduction of iconic cable car and historic streetcar service."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(j) AC Transit could reduce service, leaving operations significantly below pre-pandemic levels and cutting critical connections for East Bay residents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(k) Smaller operators, including county bus systems, community shuttles, and rural connectors, face service cuts that threaten lifeline routes for seniors, people with disabilities, students, and essential service workers."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "(l)"
+            ]
+          },
+          " Agencies would also be forced to cut maintenance, safety personnel, and cleaning services, leading to declining conditions for riders and a service \"death spiral\" that could take decades to reverse."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(m) Public transit fiscal needs are particularly severe in the City and County of San Francisco, where the core transit systems of Muni, BART, and Caltrain face significant funding shortfalls."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(n) The Bay Area's public transit network is a lifeline for many communities. Low-income residents make up approximately 31% of BART riders, 38% of Muni riders, and 70% of AC Transit riders. Families, students, seniors, people with disabilities, workers, and visitors rely on transit to access jobs, schools, healthcare, and essential services."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(o) Transportation is the second-largest cost for Bay Area households after housing. For low-income families, owning and operating a car is often impossible. Nearly half of BART riders do not own a car. Reliable transit reduces these costs and keeps the region more affordable."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(p) Transit is the backbone of the regional economy. Restaurants, hospitals, universities, retail districts, and employers depend on workers who rely on transit. Without transit, employers face higher turnover, workers face longer commutes, and economic productivity declines. Commute times could rise by up to 12 hours per week in key corridors if transit service is cut, imposing significant economic and personal burdens."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(q) Without transit, Bay Area roads would be paralyzed. If displaced transit riders shift to cars, Bay Bridge traffic would surge and highways like 101, 80, 280, 680, 880, 85, and 87 would become severely congested."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(r) Public transit is critical to meeting California's climate goals. Transit reduces greenhouse gas emissions and improves air quality by reducing car trips. Without transit, emissions would spike, air pollution would worsen, particularly in low-income communities, and climate progress would stall."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(s) In 2025, the California Legislature passed Senate Bill 63 (SB 63)—the Connect Bay Area Act—to authorize a 14-year regional transit revenue measure in Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara counties to support transit operations and rider-focused programs. SB 63 establishes a new Public Transit Revenue Measure District to place a revenue measure on the ballot, or alternatively allows placement of a revenue measure on the ballot through a citizens' initiative. This ordinance constitutes such a citizens' initiative."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 3. Statement of Purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "It is the purpose of the people of the Public Transit Revenue Measure District in enacting this ordinance to achieve all of the following:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) To generate approximately $980 million annually to prevent catastrophic transit service cuts, preserve essential lifeline routes, maintain safety and cleanliness standards, and support the coordinated, reliable transit riders depend on."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) To provide counties with dedicated funding that stays in the county to support local priorities, strengthen community connections, and maintain neighborhood routes that provide critical first-mile/last-mile access to regional systems."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) To provide funding throughout the district commensurate with the needs of transit agencies in each county or city and county, including the heightened need for transit funding in the City and County of San Francisco that will be supported with the proceeds from a higher tax rate in that jurisdiction."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(d) To impose strict oversight and transparency requirements to ensure that every dollar is spent efficiently and directly benefits riders."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(e) To require independent efficiency reviews; performance metrics tied to safety, cleanliness, reliability, and ridership; regional coordination mandates to ensure agencies work together and deliver an integrated customer experience; and a citizen oversight committee to monitor spending, publish public reports, and ensure compliance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(f) To provide dedicated resources to support and expand reforms the transportation agencies have made—such as regional fare coordination, transfer discounts, coordinated signage and wayfinding—and also require ongoing improvements so that new funding produces cleaner, safer, and more reliable service for all who live and work in the Bay Area."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(g) To impose a temporary special retail transactions and use tax in accordance with the provisions of Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code which shall be operative for a period of 14 years if a majority of the electors voting on the measure vote to approve the imposition of the tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(h) To adopt a retail transactions and use tax ordinance that incorporates provisions identical to those of the Sales and Use Tax Law of the State of California insofar as those provisions are not inconsistent with the requirements and limitations contained in Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(i) To adopt a retail transactions and use tax ordinance that imposes a tax and provides a measure therefor that can be administered and collected by the California Department of Tax and Fee Administration in a manner that adapts itself as fully as practicable to, and requires the least possible deviation from, the existing statutory and administrative procedures followed by the California Department of Tax and Fee Administration in administering and collecting the California State Sales and Use Taxes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(j) To adopt a retail transactions and use tax ordinance that can be administered in a manner that will be, to the greatest degree possible, consistent with the provisions of Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code, minimize the cost of collecting the transactions and use taxes, and, at the same time, minimize the burden of record keeping upon persons subject to taxation under the provisions of this ordinance."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 4. Definitions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "For purposes of this ordinance, the following terms have the following meanings:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) \"AC Transit\" means the Alameda-Contra Costa Transit District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) \"Alameda County small bus operators\" means the Livermore Amador Valley Transit Authority and Union City Transit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) \"BART\" means the San Francisco Bay Area Rapid Transit District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(d) \"Caltrain\" means the Peninsula Corridor Joint Powers Board."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(e) \"Commission\" means the Metropolitan Transportation Commission."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(f) \"Contra Costa County small bus operators\" means the Central Contra Costa Transit Authority, the Western Contra Costa Transit Authority, and the Eastern Contra Costa Transit Authority."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(g) \"Department\" means the California Department of Tax and Fee Administration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(h) \"District\" means the Public Transit Revenue Measure District established by Section 67710 of the Government Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(i) \"Fund\" means the Public Transit Revenue Measure Fund established by Section 11."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(j) \"Golden Gate Transit\" means the Golden Gate Bridge, Highway and Transportation District."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(k) \"Muni\" means the San Francisco Municipal Transportation Agency."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "em": [
+              "(l)"
+            ]
+          },
+          " \"Public transit expenses\" means public transit operations expenses, or expenses for public transit capital improvement projects that maintain or improve public transit service, including expenses for public transit-specific components of a multimodal transportation project."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(m) \"San Francisco Bay Ferry\" means the San Francisco Bay Area Water Emergency Transportation Authority."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 5. Retail Transactions Tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) For the privilege of selling tangible personal property at retail, a tax is hereby imposed upon all retailers in the incorporated and unincorporated territory of the district, levied on the gross receipts of each retailer from the sale of all tangible personal property sold at retail in the district during the period specified in subdivision (c) of Section 15, at the following rates of each retailer's gross receipts:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) 0.5 percent in the Counties of Alameda, Contra Costa, San Mateo, and Santa Clara."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) 1 percent in the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) For purposes of the retail transactions tax imposed by this section, all retail transactions are consummated at the place of business of the retailer, unless the tangible personal property sold is delivered by the retailer or the retailer's agent to an out-of-state destination or to a common carrier for delivery to an out-of-state destination. The gross receipts from such sales shall include delivery charges when such charges are subject to the state sales and use tax, regardless of the place to which delivery is made. In the event a retailer has no permanent place of business in the state or has more than one place of business, the place or places at which the retail sales are consummated shall be determined under rules and regulations adopted by the department."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 6. Use Tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) An excise tax is hereby imposed on the storage, use, or other consumption in the district of tangible personal property purchased from any retailer during the period specified in subdivision (c) of Section 15 for storage, use, or other consumption in the district, at the following rates of the sales price of the property:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) 0.5 percent in the Counties of Alameda, Contra Costa, San Mateo, and Santa Clara."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) 1 percent in the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) For purposes of the use tax imposed by this section, the sales price shall include delivery charges when such charges are subject to state sales or use tax, regardless of the place to which delivery is made."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 7. Adoption of Provisions of State Law."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) Except as otherwise provided in this ordinance, all of the provisions of Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code, insofar as they relate to sales and use taxes and are not inconsistent with the provisions of Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code, are hereby adopted and made a part of this ordinance as though fully set forth herein."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) Wherever the State of California is named or referred to as the taxing agency in the provisions of Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code, the name of the district shall be substituted therefor, except as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) The substitution shall not be made in the terms \"State Controller,\" \"State Treasurer,\" \"State Treasury,\" and \"Constitution of the State of California.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) The substitution shall not be made if it would require action to be taken by or against the district or any agency, officer, or employee thereof rather than by or against the department in performing the functions incident to the administration or operation of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(3) The substitution shall not be made if the substitution would do either of the following:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) Provide a tax exemption with respect to certain sales, storage, use, or other consumption of tangible personal property that would not otherwise be exempt while such sales, storage, use, or other consumption remains subject to tax by the state under the provisions of Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) Impose a tax with respect to certain sales, storage, use, or other consumption of tangible personal property that would not be subject to tax by the state under the provisions of Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(4) The substitution shall not be made in Sections 6701, 6702 (except in the last sentence thereof), 6711, 6715, 6737, 6797, or 6828 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) (1) The name of the district shall be substituted for the word \"state\" in the phrase \"retailer engaged in business in this state,\" and in the definition of that phrase, in Section 6203 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) \"A retailer engaged in business in the district\" shall also include any retailer that, in the preceding calendar year or the current calendar year, has total combined sales of tangible personal property in this state or for delivery in the state by the retailer and all persons related to the retailer that exceed five hundred thousand dollars ($500,000). For purposes of this section, a person is related to another person if both persons are related to each other pursuant to Section 267(b) of the Internal Revenue Code and the regulations adopted thereunder."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(d) If a seller's permit has been issued to a retailer under Section 6067 of the Revenue and Taxation Code, an additional transactor's permit shall not be required by this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(e) All amendments to Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code that are enacted subsequent to the effective date of this ordinance and that are not inconsistent with Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code, and all amendments to Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code that are enacted subsequent to the effective date of this ordinance, shall automatically become part of this ordinance, provided that no such amendment shall operate so as to affect the rate of tax imposed by this ordinance."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 8. Exemptions and Exclusions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) The retail transactions tax imposed by Section 5 shall be subject to the following exemptions and exclusions:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) The amount subject to the retail transactions tax shall not include the amount of any sales or use tax imposed by the State of California or by any city, county, or city and county pursuant to the Bradley-Burns Uniform Local Sales and Use Tax Law (Part 1.5 (commencing with Section 7200) of Division 2 of the Revenue and Taxation Code) or the amount of any state-administered transactions or use tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) The sales of tangible personal property, other than fuel or petroleum products, to operators of aircraft to be used or consumed principally outside the district in which the sale is made and directly and exclusively in the use of the aircraft as common carriers of persons or property under the authority of the laws of this state, the United States, or any foreign government shall be exempt from the retail transactions tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(3) The sales of property which is to be used outside the district and which is shipped to a point outside the district, pursuant to the contract of sale, by delivery to that point by the retailer or the retailer's agent, or by delivery by the retailer to a carrier for shipment to a consignee at such point, are exempt from the retail transactions tax. For purposes of this paragraph, delivery to a point outside the district shall be satisfied as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) With respect to vehicles (other than commercial vehicles) subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division 3 of the Vehicle Code, aircraft licensed in compliance with Section 21411 of the Public Utilities Code, and undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the Vehicle Code, by registration to an out-of-district address and by a declaration under penalty of perjury, signed by the buyer, stating that the address is, in fact, the buyer's principal place of residence."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) With respect to commercial vehicles, by registration to a place of business out-of-district and a declaration under penalty of perjury, signed by the buyer, that the vehicle will be operated from that address."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(4) (A) The sale of tangible personal property shall be exempt from the retail transactions tax if the seller is obligated to furnish the property for a fixed price pursuant to a contract entered into prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) The lease of tangible personal property which is a continuing sale of that property shall be exempt from the retail transactions tax for any period of time for which the lessor is obligated to lease the property for an amount fixed by the lease prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) For purposes of this paragraph (4), the sale or lease of tangible personal property shall be deemed not to be obligated pursuant to a contract or lease for any period of time for which any party to the contract or lease has the unconditional right to terminate the contract or lease upon notice, whether or not that right is exercised."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) The use tax imposed by Section 6 shall be subject to the following exemptions and exclusions:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) The amount subject to the use tax shall not include the amount of any sales or use tax imposed by the State of California or by any city, county, or city and county pursuant to the Bradley-Burns Uniform Local Sales and Use Tax Law (Part 1.5 (commencing with Section 7200) of Division 2 of the Revenue and Taxation Code) or the amount of any state-administered transactions or use tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) In addition to the exemptions provided in Sections 6366 and 6366.1 of the Revenue and Taxation Code, the storage, use, or other consumption of tangible personal property, other than fuel or petroleum products, purchased by operators of aircraft and used or consumed by the operators directly and exclusively in the use of the aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this state, the United States, or any foreign government shall be exempt from the use tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(3) (A) The storage, use, or other consumption in the district of tangible personal property shall be exempt from the use tax if the purchaser is obligated to purchase the property for a fixed price pursuant to a contract entered into prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) The possession of, or the exercise of any right or power over, tangible personal property under a lease which is a continuing purchase of the property shall be exempt from the use tax for any period of time for which the lessee is obligated to lease the property for an amount fixed by a lease entered into prior to the operative date of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) For purposes of this paragraph (3), the storage, use, or other consumption of, or possession of, or exercise of any right or power over, tangible personal property shall be deemed not to be obligated pursuant to a contract or lease for any period of time for which any party to the contract or lease has the unconditional right to terminate the contract or lease upon notice, whether or not the right is exercised."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(4) (A) Except as provided in subparagraph (B), a retailer engaged in business in the district shall not be required to collect the use tax from the purchaser of tangible personal property unless the retailer ships or delivers the property into the district or participates within the district in making the sale of the property, including, but not limited to, soliciting or receiving the order, either directly or indirectly, at a place of business of the retailer in the district or through any representative, agent, canvasser, solicitor, subsidiary, or person in the district under the authority of the retailer."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) \"A retailer engaged in business in the district\" shall also include any retailer of a vehicle subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division 3 of the Vehicle Code, an aircraft licensed in compliance with Section 21411 of the Public Utilities Code, or an undocumented vessel registered under Division 3.5 (commencing with Section 9840) of the Vehicle Code. The retailer shall be required to collect the use tax from any purchaser who registers or licenses the vehicle, aircraft, or vessel at an address in the district."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) Any person subject to the use tax imposed by Section 6 shall be entitled to credit against that tax any transactions tax, or to reimbursement for a transactions tax, paid to a district imposing, or a retailer liable for, a transactions tax pursuant to Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code with respect to the sale to the person of the property the storage, use, or other consumption of which is subject to the use tax."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 9. Contract with the State."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) Prior to the operative date of this ordinance, the district shall contract with the department to perform all functions incident to the administration and operation of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) In the event the district does not contract with the department prior to the operative date of this ordinance, the district shall nevertheless so contract and, in that case, the operative date of this ordinance shall be the first day of the first calendar quarter following the execution of the contract."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 10. Prohibition on Enjoining Collection."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "No injunction or writ of mandate or other legal or equitable process shall issue in any suit, action, or proceeding in any court against the state or the district, or against any officer of the state or the district, to prevent or enjoin the collection under this ordinance, or Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code, of any tax or any amount of tax required to be collected."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 11. Public Transit Revenue Measure Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) There is hereby established in the treasury of the district the Public Transit Revenue Measure Fund."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) The proceeds of the retail transactions and use taxes imposed by this ordinance shall be deposited into the fund and shall be expended in accordance with Section 12."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 12. Expenditure of Tax Proceeds."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Revenues in the fund shall be expended as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) The district shall pay the administrative costs associated with the collection of the revenues incurred by the department, and the amounts necessary for the costs incurred by the district or commission to perform the duties required under this ordinance, including, but not limited to, election cost reimbursements specified in Section 67740 of the Government Code, costs incurred for the financial efficiency review described in Section 67762 of the Government Code, costs incurred for any required legal defense, and other one-time costs associated with administering this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) After the amounts paid in subdivision (a), the district shall transfer the remaining revenues, with no discretion to withhold, reduce, delay, modify, specify the use of, or condition those revenues, as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) (A) The revenues described in subparagraph (B) to the commission for the ongoing costs associated with administering this ordinance. If the amount transferred pursuant to this paragraph exceeds that which is necessary for administrative costs in a given year, the commission may use those excess funds for the purposes identified in paragraphs (10) to (12), inclusive."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) All of the following revenues shall be transferred to the commission pursuant to this paragraph:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(i) 0.25 percent of all revenues generated within the territory of the County of Alameda."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(ii) 0.25 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(iii) 0.13 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(iv) 0.25 percent of all revenues generated within the territory of the County of San Mateo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(v) 0.25 percent of all revenues generated within the territory of the County of Santa Clara."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) The following revenues to the commission for allocation to BART for transit operations expenses:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 64.70 percent of all revenues generated within the territory of the County of Alameda."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 58.59 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) 29.14 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(D) 26.64 percent of all revenues generated within the territory of the County of San Mateo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(3) The following revenues to the commission for allocation to Muni for transit operations expenses:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 1.09 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 62.87 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) 7.40 percent of all revenues generated within the territory of the County of San Mateo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(4) The following revenues to the commission for allocation to Caltrain for transit operations expenses:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 3.97 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 24.07 percent of all revenues generated within the territory of the County of San Mateo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) 10.38 percent of all revenues generated within the territory of the County of Santa Clara."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(5) The following revenues to the commission for allocation to AC Transit for transit operations expenses:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 21.25 percent of all revenues generated within the territory of the County of Alameda."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 3.70 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(6) 2.43 percent of all revenues generated within the territory of the County of Alameda to the commission for allocation to the Alameda County small bus operators, apportioned among each operator in amounts determined by the Alameda County Transportation Commission, for transit operations expenses."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(7) 11.41 percent of all revenues generated within the territory of the County of Contra Costa to the commission for allocation to the Contra Costa County small bus operators, apportioned among each operator in amounts determined by the Contra Costa Transportation Authority, for transit operations expenses."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(8) The following revenues to the commission for allocation to San Francisco Bay Ferry for transit operations expenses:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 1.62 percent of all revenues generated within the territory of the County of Alameda."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 0.76 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) 0.97 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(9) 0.40 percent of all revenues generated within the territory of the City and County of San Francisco to the commission for allocation to Golden Gate Transit for transit operations expenses."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(10) The following revenues to the commission for fare programs, including free and reduced-cost transfers and expanding the Clipper START program:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 2.78 percent of all revenues generated within the territory of the County of Alameda."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 2.78 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) 1.40 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(D) 2.78 percent of all revenues generated within the territory of the County of San Mateo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(E) 2.78 percent of all revenues generated within the territory of the County of Santa Clara."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(11) The following revenues to the commission for accessibility programs and projects:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 1.11 percent of all revenues generated within the territory of the County of Alameda."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 1.11 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) 0.56 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(D) 1.11 percent of all revenues generated within the territory of the County of San Mateo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(E) 1.11 percent of all revenues generated within the territory of the County of Santa Clara."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(12) The following revenues to the commission for mapping and wayfinding and transit priority projects and programs:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(A) 1.11 percent of all revenues generated within the territory of the County of Alameda."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(B) 1.11 percent of all revenues generated within the territory of the County of Contra Costa."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(C) 0.56 percent of all revenues generated within the territory of the City and County of San Francisco."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(D) 1.11 percent of all revenues generated within the territory of the County of San Mateo."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(E) 1.11 percent of all revenues generated within the territory of the County of Santa Clara."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(13) 4.75 percent of all revenues generated within the territory of the County of Alameda to the Alameda County Transportation Commission for public transit expenses and roadway repavement projects on roads served by fixed-route transit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(14) 19.20 percent of all revenues generated within the territory of the County of Contra Costa to the Contra Costa Transportation Authority for public transit expenses and roadway repavement projects on roads served by fixed-route transit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(15) 36.64 percent of all revenues generated within the territory of the County of San Mateo to the San Mateo County Transit District for public transit expenses and roadway repavement projects on roads served by fixed-route transit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(16) 84.37 percent of all revenues generated within the territory of the County of Santa Clara to the Santa Clara Valley Transportation Authority for public transit expenses and roadway repavement projects on roads served by fixed-route transit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) The allocation of revenues by the commission pursuant to subdivision (b) shall be subject to Sections 67766, 67770, 67786, and 67788 of the Government Code, or any subsequent amendments of those provisions."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 13. Independent Oversight Committee."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "As required by Section 67754 of the Government Code, within six months of the effective date of this ordinance the district shall establish an independent oversight committee to ensure that any revenues generated pursuant to this ordinance are distributed and transferred by the district consistent with the applicable requirements of this ordinance. The committee may be consolidated with the oversight committee established pursuant to subdivision (h) of Section 30923 of the Streets and Highways Code. The committee shall consist of either one or two representatives from each county included within the jurisdiction of the district, appointed by the applicable county board of supervisors. The oversight committee may request any documents from the district to assist the committee in performing its functions."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 14. Annual Appropriations Limit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Pursuant to Article XIII B of the California Constitution and other applicable laws, the appropriations limit for the district shall be adjusted periodically, as permitted by the California Constitution, by the aggregate sum of taxes collected under this ordinance."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 15. Effective and Operative Dates."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) This ordinance shall be considered adopted on the date the vote is declared by the district's governing board and shall go into effect 10 days after that date."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) Except as provided in subdivision (b) of Section 9, this ordinance shall become operative on the first day of the calendar quarter commencing more than 110 days after the election at which this ordinance appeared on the ballot."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(c) The retail transactions and use taxes enacted by this ordinance shall be imposed beginning on the operative date of this ordinance for a period of 14 years from that date."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 16. Severability."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "It is the intent of the people that the provisions of this ordinance are severable and that if any provision of this ordinance, or the application thereof to any person or circumstance, is held invalid, such invalidity shall not affect any other provision or application of this ordinance that can be given effect without the invalid provision or application."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 17. Amendment."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Except for amendments that would increase the amount of the taxes enacted by this ordinance or extend the period during which those taxes may be imposed, the district's governing board may amend this ordinance without submitting the amendment to the voters for approval, provided that the amendment furthers the purposes of this ordinance as enacted by the voters."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 18. Conflicting Measures."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) This ordinance is intended to be comprehensive. In the event that this ordinance appears on the same ballot as another measure relating to retail transactions and use taxes for the benefit of the Public Transit Revenue Measure District, the provisions of the other measure shall be deemed to be in conflict with this ordinance. If this ordinance receives a greater number of affirmative votes than a measure deemed to be in conflict with it, the provisions of this ordinance shall prevail in their entirety, and the provisions of the other measure shall be null and void."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) If this ordinance is approved by the voters but is superseded by another conflicting measure approved by the voters at the same election, and the conflicting measure is later held invalid, this ordinance shall be self-executing and given full force and effect."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "SEC. 19. Liberal Construction."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This ordinance is an exercise of the initiative power of the people of the Public Transit Revenue Measure District to impose special taxes for the purposes set forth in this ordinance, and it shall be liberally construed to effectuate those purposes."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "The Regional Transit Measure protects the public transit that people in our region depend on and invests in practical local transportation improvements to help our communities get around. It includes strong accountability and oversight that requires large transit agencies to show cost savings to continue to receive dedicated operating funding."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Today, Bay Area transit faces a turning point. Without new funding from the Regional Transit Measure, we will experience significant and deep cuts to public transit service--setting us back decades."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Caltrain, BART and VTA connect people to jobs, events, and activities across Silicon Valley and the Bay Area. Failure of this measure could result in major station closures and service cuts for both Caltrain and BART. Caltrain could be forced to close stations, reduce frequency, and stop late night and weekend service entirely. BART could close 15 stations and reduce service by 70%."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The consequences would impact everyone. Thousands of people would be forced onto our already congested roads and freeways every day with more cars flooding Highways 101, 280, 87, and 85, worsening air pollution, making traffic jams start earlier and last longer, resulting in more time behind the wheel and less time home with our families."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Regional Transit Measure also invests money directly into Santa Clara County communities, making local transit more reliable and efficient, repairing potholes, reducing traffic, and improving safety. And it doesn't tax rent, utilities, prescription medicines, or most groceries."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure is the right way to reduce traffic, support our local economy, and ensure families, seniors, people with disabilities, students, and workers have an affordable way to get where they need to go."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please join us—vote Yes on the Regional Transit Measure. www.connectbayarea.com"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sam Liccardo",
+          "title": "U.S. Representative, 16th Congressional District"
+        },
+        {
+          "name": "Allan Kamara",
+          "title": "E.R. Nurse"
+        },
+        {
+          "name": "Anthony Fletcher",
+          "title": "President Santa Clara County Firefighter Local 1165"
+        },
+        {
+          "name": "Louise Rothman-Riemer",
+          "title": "Co-President League of Women Voters of the Bay Area"
+        },
+        {
+          "name": "Margaret Abe-Koga",
+          "title": "Santa Clara County Supervisor, District 5"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Stop this Gigantic New Sales Tax!"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "This $14,000,000,000 Regional Transit Measure SALES TAX makes Bay Area life LESS AFFORDABLE."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Our cost of living is ",
+                {
+                  "em": [
+                    "too high already"
+                  ]
+                },
+                ". This tax would worsen it:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Gas, groceries, rent, utility prices keep rising."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "We'd ALL pay this tax DAILY, on most purchases."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Sales tax hikes add costs, aggravating the inflation problem."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "em": [
+                      "Necessities are taxed"
+                    ]
+                  },
+                  ": prepared ",
+                  {
+                    "strong": [
+                      "food, clothing"
+                    ]
+                  },
+                  ", pet food, over-the-counter ",
+                  {
+                    "strong": [
+                      "medicines"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Our low-income neighbors, seniors, students, the disabled, will suffer terribly."
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Santa Clara County's SALES TAX rate will rise to at least 10.25%."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Imagine forfeiting at least $1.02 tax for every $10.00 of prepared food—$102.50 for $1,000 smartphones!"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Don't trust BART or VTA with more of your money!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "They're ",
+                  {
+                    "strong": [
+                      "grossly mismanaged"
+                    ]
+                  },
+                  ":"
+                ]
+              },
+              {
+                "type": "p",
+                "text": [
+                  "In June, Santa Clara County's Civil Grand Jury found ",
+                  {
+                    "strong": [
+                      "VTA's management"
+                    ]
+                  },
+                  " of BART's $13,000,000,000 extension ",
+                  {
+                    "strong": [
+                      "faces huge cost overruns"
+                    ]
+                  },
+                  ", and suffers from ",
+                  {
+                    "strong": [
+                      "weak board oversight"
+                    ]
+                  },
+                  "."
+                ]
+              },
+              {
+                "type": "p",
+                "text": [
+                  "VTA has a plan to divert our money to \"bailout\" that fiasco."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Our sales taxes for VTA already total more than $1 Billion/year."
+                ]
+              },
+              {
+                "type": "p",
+                "text": [
+                  "VTA hands tens of millions to BART."
+                ]
+              },
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "em": [
+                      "They want more!"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Since 2019, the major transit agencies' ",
+                  {
+                    "strong": [
+                      "ridership fell 51%"
+                    ]
+                  },
+                  ", yet ",
+                  {
+                    "strong": [
+                      "expenses climbed 28%"
+                    ]
+                  },
+                  "!"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "BART and VTA gave pay/benefits above $250,000 to 539 and 123 employees, respectively, in 2024. This TAX picks our pockets to fill theirs."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "\"Oversight\"? Impotent."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Instead of demanding another BILLION dollars/year from us, ",
+                  {
+                    "strong": [
+                      "transit agencies must better use existing taxpayer money"
+                    ]
+                  },
+                  "."
+                ]
+              },
+              {
+                "type": "p",
+                "text": [
+                  "Fixes before funding!"
+                ]
+              },
+              {
+                "type": "p",
+                "text": [
+                  "Don't award them more money until they stop their ",
+                  {
+                    "strong": [
+                      "wasteful spending"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Sales taxes EXCEEDING 10.2%"
+              ]
+            },
+            " throughout Santa Clara County? ",
+            {
+              "strong": [
+                {
+                  "em": [
+                    "Outrageous!"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote ",
+                {
+                  "em": [
+                    "NO!"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "NoNewTransitTax.com/Solutions\nSVTaxpayers.org"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark W.A. Hinkle",
+          "title": "President: Silicon Valley Taxpayers Association"
+        },
+        {
+          "name": "David G. Johnson",
+          "title": "Small Business Owner in Campbell"
+        },
+        {
+          "name": "Christopher M. Robell",
+          "title": "Former Vice Chair, Citizens Bond Oversight Committee"
+        },
+        {
+          "name": "Thunder Parley",
+          "title": "CIO Committee for Affordable Bay Area Transit"
+        },
+        {
+          "name": "Matthew Wendt",
+          "title": "South County Biz Alliance, Board Member"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "This proposed five-county sales tax hike (Regional Transit Measure or RTM) is a ",
+                  {
+                    "strong": [
+                      "$14 billion-dollar bailout"
+                    ]
+                  },
+                  " for a broken system. Oversight is toothless. Let's demand accountability and structural reform instead of forcing taxpayers to shoulder another heavy burden."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "This measure expects working families to pay for ongoing mismanagement. ",
+                  {
+                    "strong": [
+                      "Grand juries"
+                    ]
+                  },
+                  " in Alameda, Contra Costa and ",
+                  {
+                    "strong": [
+                      {
+                        "em": [
+                          "Santa Clara"
+                        ]
+                      }
+                    ]
+                  },
+                  " have ",
+                  {
+                    "strong": [
+                      "found major flaws in transit financial management and oversight"
+                    ]
+                  },
+                  ". Since 2019 ",
+                  {
+                    "strong": [
+                      "ridership at the major transit agencies has fallen 51%, yet expenses have risen 28%"
+                    ]
+                  },
+                  ". Sales taxes grow with inflation, so why has Transit outspent its revenues?"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Sales taxes are regressive, hitting lower-income residents the hardest."
+                    ]
+                  },
+                  " California's are the nation's highest, exceeding the 9.25% sales-tax limit. ",
+                  {
+                    "strong": [
+                      {
+                        "em": [
+                          "RTM will push our county sales tax to over 10%."
+                        ]
+                      }
+                    ]
+                  },
+                  " While we tighten our belts, agencies want blank checks without addressing their own administrative bloat."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "We need ",
+                  {
+                    "strong": [
+                      "Fixes Before Funding"
+                    ]
+                  },
+                  ", not higher taxes to sustain the inefficient status quo."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Proponents are ",
+                  {
+                    "strong": [
+                      "exploiting a loophole to bypass standard taxpayer protections"
+                    ]
+                  },
+                  ", attempting to pass this massive tax hike with a mere 50%+1 majority instead of the traditional two-thirds requirement."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Furthermore, this tax allows continuation of capital-heavy mega-projects. Major transit projects are routinely years late, way over budget, ",
+                  {
+                    "strong": [
+                      "yet deliver less than 20% of the promised ridership."
+                    ]
+                  },
+                  " Instead of propping up outdated transit modes, agencies must adapt to modern commuting realities ",
+                  {
+                    "strong": [
+                      "and reallocate existing capital funds to cover shortfalls"
+                    ]
+                  },
+                  "."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Santa Clara residents will pay the largest share of these regressive taxes because we have the largest population. And yet most of the tax dollars will be spent in the other four counties!"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      {
+                        "em": [
+                          "That is not fair!!!"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Don't reward financial negligence."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      {
+                        "em": [
+                          "Don't let RTM treat you like an ATM."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Fix Bay Area Rapid Transit by rejecting this tax and demand fiscal discipline."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Learn more at: ",
+                  {
+                    "strong": [
+                      "NoNewTransitTax.com"
+                    ]
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Vote NO on the Measure RTM."
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark W.A. Hinkle",
+          "title": "President: Silicon Valley Taxpayers Association"
+        },
+        {
+          "name": "Christopher M. Robell",
+          "title": "Former Vice Chair, Citizens Bond Oversight Committee"
+        },
+        {
+          "name": "Matthew Wendt",
+          "title": "South County Biz Alliance, Board Member"
+        },
+        {
+          "name": "Thunder Parley",
+          "title": "CIO Committee for Affordable Bay Area Transit"
+        },
+        {
+          "name": "Elizabeth C. Brierly",
+          "title": "Small Business Owner & San Jose Resident"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "It's undeniable─severe Caltrain and BART station closures and service cuts would affect all of us in Santa Clara County─worsening traffic and straining transportation options for hundreds of thousands of Bay Area residents who need to get to work or medical appointments."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please consider the FACTS and don't be misled by half-truths and exaggerations:"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Before supporting the Regional Transit Measure, business groups and local leaders ensured the measure included strong accountability and oversight requirements─",
+            {
+              "strong": [
+                "BART and other large agencies must show cost savings to continue to receive dedicated operating funding."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Based on detailed financial analysis and projections, it's clear that failure of this measure could result in major station closures and service cuts for both Caltrain and BART. Caltrain could be forced to close stations, reduce to hourly service, and stop late night and weekend service entirely. BART could close 15 stations and reduce service by 70%."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Without this measure, commutes would be longer and more unpredictable as people who depend on transit are forced onto already-crowded streets, roads and highways."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: taxpayers from across Santa Clara County support the Regional Transit Measure, along with stakeholders who don't always agree─business, labor, environmental, and community groups."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: The Regional Transit Measure invests money directly into Santa Clara County communities, providing funding for transit improvements and road repaving including pothole repairs."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "FACT: Don't be misled─the Regional Transit Measure does NOT tax rent, utilities, prescription medicines, or most groceries."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Preserve our Bay Area quality of life for future generations─ www.connectbayarea.com"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Sam Liccardo",
+          "title": "U.S. Representative, 16th Congressional District"
+        },
+        {
+          "name": "Louise Rothman-Riemer",
+          "title": "Co-President League of Women Voters Bay Area"
+        },
+        {
+          "name": "Brian Kataoka",
+          "title": "Chief Financial Officer, United Way Bay Area"
+        },
+        {
+          "name": "Anthony Fletcher",
+          "title": "President─Santa Clara County Firefighters─IAFF Local 1165"
+        },
+        {
+          "name": "Adina Levin",
+          "title": "Co-Founder Friends of Caltrain"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

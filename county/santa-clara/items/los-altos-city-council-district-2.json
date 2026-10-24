@@ -1,0 +1,158 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Los Altos City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/los-altos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:31Z",
+  "candidates": [
+    {
+      "choice": "Lynette Lee Eng",
+      "statement": {
+        "by": "Lynette Lee Eng",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Community Programs Coordinator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am former Mayor Lynette Lee Eng, and I humbly ask for your vote for Los Altos City Council, District 2."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After two terms on the City Council, eleven years as a Park Commissioner, and two terms on the Santa Clara County Civil Grand Jury, I've always believed in listening first and leading with integrity. Serving our community has been the honor of my life, and I have never taken your trust for granted."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I initiated the Grant Park Senior Program because our seniors deserve a community that cares for them. I was instrumental in the Los Altos Summer Concert Series to bring neighbors together and strengthen our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to support thoughtful growth that respects our community, provides adequate infrastructure, and preserves the character of our neighborhoods. I will work to ensure transparent government, responsible stewardship of community assets, and strong local decision-making."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue to serve every member of our community, not special interests, with integrity, experience, and steady leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can keep Los Altos financially strong, beautiful and a welcoming place that everyone is proud to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Vote Lynette Lee Eng for Los Altos City Council. VoteLynette.org"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3748_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Anky van Deursen",
+      "statement": {
+        "by": "Anky van Deursen",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Housing Manager City of Mountain View\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 68"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Law Degree Erasmus University Rotterdam, The Netherlands"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over 35 years, my family and I have proudly called Los Altos home. We moved here to raise our children, who benefited from our outstanding schools. Los Altos deserves collaborative, transparent leadership that fosters an inclusive, welcoming community, prepares responsibly for the future, and preserves the qualities that make our City so special."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are to improve traffic and pedestrian safety, especially safe routes to school; expand housing opportunities for teachers and essential workers; support a vibrant downtown; and make thoughtful investments that benefit future generations."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Housing Manager for the City of Mountain View, I have developed housing policies, managed public budgets, built partnerships with nonprofits and developers, and collaborated closely with residents to address complex community challenges. As a former PTA Chair in the Mountain View-Los Altos school district, I strengthened parent involvement and supported educational excellence."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to listening, building consensus, and making thoughtful, balanced decisions. I respectfully ask for your vote and the opportunity to serve as the advocate for District 2 on the City Council while representing the entire community of Los Altos."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "AnkyforLosAltos.org"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3749_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

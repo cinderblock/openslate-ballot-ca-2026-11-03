@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara Valley Water District Board, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:53Z",
+  "candidates": [
+    {
+      "choice": "John L. Varela",
+      "statement": {
+        "by": "John L. Varela",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Director, Santa Clara Valley Water District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Protecting your safety and ensuring access to clean, safe drinking water are my top priorities. I've fought to keep water affordable because families cannot continue to absorb rising rates."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's why I voted to include senior and low-income exemption from the Measure S parcel tax. Our Board recently awarded the contract to rebuild the critical Anderson Dam, where we store water that recharges our ground water basin. The new Anderson Outlet Tunnel will improve Valley Water's ability to manage atmospheric rivers and reduce downstream flooding. I led the efforts to move multiple phases of the long-stalled Llagas Creek Flood Protection Project Foward. By adjusting local funding to leverage an $80 million federal grant, we put the project on track for completion this year. Improving local trails and roads during construction."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "There is still more work to do. I would be honored to earn your vote and continue serving you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have been endorsed by Morgan Hill Mayor Mark Turner, Santa Clara County Supervisor Sylvia Arenas, retired State Senator Bill Monning, and Tim Chiala, President Santa Clara County Farm Bureau and many others."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If you have questions, please contact me at: john.varela1@gmail.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3812_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Jimmy Forbis",
+      "statement": {
+        "by": "Jimmy Forbis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Former City Manager\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 53"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 25 years, I've served local communities by solving problems, building consensus, and delivering results. I'm running to bring decades of executive experience managing public utilities, protecting taxpayer dollars, and solving complex infrastructure challenges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've served as Gilroy's City Administrator, Finance Director for the cities of Gilroy and Monterey, Authority Manager for the South County Regional Wastewater Authority, and managed water and wastewater utilities serving south Santa Clara County communities. I've overseen major public infrastructure projects, managed budgets exceeding $200 million, and delivered reliable public services while safeguarding taxpayer dollars."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a Master of Public Administration from San José State University, a bachelor's degree in Recreation Administration, and obtained the Certified Public Finance Officer designation."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Experience matters. Our community deserves a Valley Water Board that is transparent, accountable, and focused on serving the public. Good leadership starts by listening, asking tough questions, and making informed decisions based on facts."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Director, I'll work to protect our long-term water supply, reduce flood risk, responsibly maintain our reservoirs and trails, safeguard taxpayer dollars, and ensure the public clearly understands how decisions are made and how public funds are spent."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3813_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

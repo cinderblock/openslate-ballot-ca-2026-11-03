@@ -1,0 +1,61 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sunnyvale City Council, District 1",
+    "kind": "race",
+    "jurisdiction": "us/ca/sunnyvale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:52Z",
+  "candidates": [
+    {
+      "choice": "Linda Sell",
+      "statement": {
+        "by": "Linda Sell",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Sunnyvale Councilmember, District 1"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is my honor to represent Sunnyvale District 1. I'm proud to have worked with my colleagues, staff and the community to achieve a high quality of life for Sunnyvale residents. For over 15 years, I have worked to strengthen our schools, promote a healthy environment, and bring people together for a better Sunnyvale. My public service began when budget cuts threatened 107 local teachers. Working with parents, educators, and community leaders, I helped raise $2.5 million in eight weeks to prevent cuts to our schools. That experience showed me what is possible when our community comes together, and I have brought that same approach to the city council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember, I have listened and delivered results: supported public safety; improved neighborhood parking; championed safer walking and biking routes for students; proposed new community green spaces on underused land; and represented Sunnyvale at VTA to improve transit and reduce congestion. I will continue working for safe neighborhoods, reliable city services, and a healthier environment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am endorsed by Mayor Larry Klein, 5 fellow Sunnyvale Councilmembers, Congressman Ro Khanna, Santa Clara County Board of Supervisors President Otto Lee, and California State Board of Equalization Chair Sally Lieber. I would be honored to earn your vote. Visit LindaForSunnyvale.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3809_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

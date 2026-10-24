@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Morgan Hill City Council, District D",
+    "kind": "race",
+    "jurisdiction": "us/ca/morgan-hill",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:39Z",
+  "candidates": [
+    {
+      "choice": "Dolores Alvarado",
+      "statement": {
+        "by": "Dolores Alvarado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Chief Executive Officer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for City Council, District D because I would like to \"give back\" to the city in which I have lived since 1994."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe that the process of city government begins with the community's voice; thus, I will first engage in learning more about current issues facing working families, seniors, and young people. I will make decisions rooted in equity, common sense, city government, and the community's input. I will use my experience in government to help Morgan Hill stay safe, welcoming, and sustainable for all of us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience as an executive manager with the County's Public Health Department and Community Health Partnership translates directly to the work of the City Council. Morgan Hill is facing big questions about traffic and safety, housing and growth, and how we fund and protect the services that keep our city livable. I know how to listen to different perspectives, work across institutions, and craft practical solutions instead of slogans. I also understand that health is about more than clinics and hospitals—it is about safe streets, clean and welcoming public spaces, affordable homes, and a sense of belonging and fairness in how decisions are made."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information, visit https://doloresfordistrictd.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3771_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Marilyn Librers",
+      "statement": {
+        "by": "Marilyn Librers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Retired"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a 49-year resident of Morgan Hill, I am passionate about our community. I am dedicated to the issues concerning the quality of life. Effective leadership is key to keeping Morgan Hill a safe and family-oriented city. I stand for all residents as a welcoming and inclusive City."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is important to contribute my long-time knowledge and understanding of the city. I served 8 years on the City Council from 2008-2016. I am now finishing my 3rd term (2022-2026). With housing growth now controlled by the State of California, as a city, we are facing many issues. Some of these are basic infrastructure needs, including sufficient water, roads, education, and traffic concerns. I will continue to speak up on our behalf regarding this State housing mandate. I support controlled growth, not mandated growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am dedicated to openness and fairness. I will ask complex questions that directly concern the community. I have no issue with standing up for our residents. It will be my honor to serve our community with integrity and respect."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It will be my honor"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3772_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

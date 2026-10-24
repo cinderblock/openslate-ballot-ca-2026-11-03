@@ -1,0 +1,85 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 26",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-26",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:58Z",
+  "candidates": [
+    {
+      "choice": "Patrick Ahrens",
+      "statement": {
+        "by": "Patrick Ahrens",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " State Assemblymember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It is an honor to represent you in the California State Assembly delivering results for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I grew up in poverty in Santa Clara, attended Buchser Middle School, Santa Clara High School, and De Anza College. I transferred to UCLA and earned my Master's degree from San Jose State University. Hard work and education have been my path to a better life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My top priority is to bring down the cost of living. As your Assemblymember, I've worked to strengthen our schools, make college more accessible and affordable, protect access to affordable health care, reduce housing costs, protect the environment, improve public transportation and infrastructure, grow the economy and your job opportunities, and keep our neighborhoods safe."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Unnecessary and dangerous federal budget cuts put people's lives at risk with longer wait times and possibility of 70+ California hospitals closing, along with many emergency departments, clinics, and lifesaving services facing closure. I secured record state funding for our hospitals and healthcare system minimizing the risk to life and protecting access to health care for you and your loved ones."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The Governor signed laws I authored to help CA students get into college, support CA families struggling with truancy, and prevent our foster youth from homelessness. I also introduced legislation to put your money back in your hands by expanding the California Earned Income Tax Credit."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe our government should put people first. I will continue working to lower costs, expand opportunities, and ensure all Californians have a fair shot at the California dream."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to continue serving you. Learn more at www.patrickahrens.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3647_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

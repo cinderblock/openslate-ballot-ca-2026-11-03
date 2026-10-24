@@ -1,0 +1,193 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "El Camino Healthcare District — Measure S",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:26:02Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure amending the Bylaws of the El Camino Healthcare District to limit District Directors to four four-year terms be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/740_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote is a vote to amend the District Bylaws to prohibit District Directors from serving more than four full terms, for terms beginning on or after December 1, 2026."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/740_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote is a vote to not amend the District Bylaws."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/740_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "County Counsel",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "California law permits a district's governing body to propose a measure to limit the number of terms a member of the governing body may serve. Here, the Board of Directors of the El Camino Healthcare District (District) has placed on the ballot a Measure to amend the District Bylaws to limit District Directors to serving four (4) four-year terms. The District currently has no limit on the number of terms a Director may serve."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If a majority of voters approve this Measure, the District Bylaws will be amended to provide that:"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "For terms beginning on or after December 1, 2026, no person may serve more than four full terms as a District Director;"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "If for any reason a District Director serves a partial term—such as when a Director is appointed to fill a vacancy—that partial term shall not be counted as a term for purposes of the four-term limit; and"
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Terms served prior to December 1, 2026, whether full or partial, are not included toward the maximum number of terms."
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Tony LoPresti\nCounty Counsel"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "By: /s/ Nick DeFiesta\nDeputy County Counsel"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/740_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure S",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "AMENDMENT OF SECTION 2, OF ARTICLE IV\nOF THE BYLAWS OF EL CAMINO HEALTHCARE DISTRICT"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "ARTICLE IV\nDISTRICT DIRECTORS AND VACANCIES"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 2 TERM OF OFFICE."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(a) Each District Director shall serve for a term of four (4) years, unless (i) such term is sooner terminated by such District Director's death, resignation or removal, or (ii) a District Director is appointed or elected to fill an unexpired term."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(b) For terms beginning on or after December 1, 2026, no person may serve more than four full terms as a District Director. For purposes of this Section, only full four-year terms count toward the four-term limit. A partial term served by a District Director—whether resulting from an appointment to fill a vacancy, an election to complete an unexpired term, or any other circumstance in which a Director serves less than a full four-year term—shall not be counted as a term for purposes of this Section. Terms, whether full or partial, served prior to December 1, 2026 are not included toward the maximum number of terms imposed by this Section."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/740_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Measure S will establish term limits for the El Camino Healthcare District Board of Directors. It is commonsense reform."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Good governance requires fresh perspectives. El Camino Healthcare District serves our entire community, and our Board of Directors should reflect that community, not a small group of long-tenured insiders who face no structural incentive to make way for new voices."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure establishes a straightforward limit: no Director may serve more than four full four-year terms. That is 16 years of service—a meaningful commitment. The measure ensures fairness: only full terms count. Directors who briefly fill a vacancy or complete an unexpired term will not be penalized. The limit applies only to terms beginning on or after December 1, 2026, so only future terms are affected."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Term limits work. They create opportunities for qualified candidates, including those who have been underrepresented, to run for seats that would otherwise remain occupied indefinitely. They reduce entrenchment and the institutional resistance to change. And they ensure that our Board stays accountable to the community it serves, not simply to the habits and relationships of long-term incumbents."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "El Camino Healthcare District has a proud record of service. This measure protects that record by ensuring our Board continues to earn the public's trust through accountability, renewal, and openness to new leadership."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES on Measure S"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Julia E. Miller",
+          "title": "Board Secretary, El Camino Healthcare District Board"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/740_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

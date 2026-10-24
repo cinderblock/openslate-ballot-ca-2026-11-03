@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara County Board of Education, Trustee Area 7",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:59Z",
+  "candidates": [
+    {
+      "choice": "Raeena S. Lari",
+      "statement": {
+        "by": "Raeena S. Lari",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member, Santa Clara Board of Education"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Elected in 2022 to the Santa Clara County Board of Education, it has been a privilege to serve my community. I respectfully ask for your vote as I seek re-election to continue the important work of improving student outcomes, empowering educators, and ensuring accountability and fiscal responsibility at every level."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Research is clear: early learning bridges equity gaps and leads to stronger long-term academic success. I support strong fiscal oversight of early childhood education and building upon the Board's Strong Start Initiative to ensure every child begins school ready to learn."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Preparing students for the future remains my priority. Every student deserves a quality education to be college and/or career ready when they graduate, with access to pathways that reflect diverse learning styles, prioritizes health and wellness, and a changing economy. Expanding high-quality career technical education and workforce opportunities is essential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am proud to be endorsed by the California Teachers Association, reflecting my commitment to attracting, supporting, and retaining outstanding educators. When we invest in educators, we improve outcomes for students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With a focus on sound stewardship, I will continue working to ensure every public dollar directly benefits students and classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote. For more info, visit voteraeenalari.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3650_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Karla Dominguez Vega",
+      "statement": {
+        "by": "Karla Dominguez Vega",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Student Support Specialist\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a lifelong resident of Morgan Hill, Gilroy, and San José, and a mother of two Morgan Hill public school students. Every day, as a Student Support Specialist in the Morgan Hill Unified School District, I help students and families overcome economic hardship, attendance challenges, and other obstacles to success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I earned a nursing degree and graduated from youth leadership programs. These experiences taught me to listen carefully, bring people together, and understand that physical health, mental well-being, safety, and academic progress are inseparable."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are safe schools, strong academics, less screen time in the classroom, effective special education and mental health services, support for teachers, and meaningful pathways to college, careers, and skilled trades. Excellent schools create safer neighborhoods, protect property values, and prepare young people to become responsible, productive members of our community. I will bring strong oversight to the Santa Clara County Office of Education to support our local students while maintaining a responsible budget and making sure every taxpayer dollar delivers results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My work has earned the support of a broad coalition of parents, labor organizations, business leaders, and elected officials. I humbly ask for your vote"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3651_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

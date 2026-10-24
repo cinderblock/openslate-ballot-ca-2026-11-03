@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:50Z",
+  "candidates": [
+    {
+      "choice": "Eric Crutchlow",
+      "statement": {
+        "by": "Eric Crutchlow",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Cybersecurity Product Manager\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 66"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Clara has been my home since 1984, and I'm proud to have raised my children here. At Wilcox High School, I introduced students to cybersecurity through CyberPatriot and judged robotics competitions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Planning Commission and Charter Review Committee gives me firsthand experience with decisions shaping our neighborhoods and finances. We must maintain what we own, protect reliable and affordable power, and make growth work for residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "City staff identified over $600 million in infrastructure needs. Years of deferred maintenance brought us here. I'll push for disciplined asset planning so we maintain what we own and prevent today's maintenance needs from becoming tomorrow's costly emergencies."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Sacramento's one-size-fits-all mandates for housing are taking decisions away from the communities that understand local needs best. I'll work with neighboring cities to help restore local authority over how building codes are created around the needs of our communities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I ask for your vote. Learn more at www.crutchlow.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3803_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Kyle Madej",
+      "statement": {
+        "by": "Kyle Madej",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Chief Executive Officer\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was born and raised in Santa Clara and have dedicated my life to giving back to the community that shaped me. My wife and I are grateful to be raising our family here, and I am committed to preserving the neighborhoods, schools, and quality of life that make Santa Clara such a special place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "After completing college, I built a career as a CEO, advisor, and board member, working with organizations to strengthen leadership, improve financial stewardship, and plan for the future. Those experiences have taught me the importance of listening, building consensus, and making thoughtful, responsible decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe strong communities are built through service, strong families, and opportunities for our youth. For the past twelve years, I have served on the Briarwood Little League Board of Directors and currently serve as President. I also serve on the Board of the Santa Clara Youth Soccer League and have coached youth, high school, and collegiate baseball and soccer."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work hard to provide thoughtful leadership, fiscal responsibility, transparency, and a collaborative approach to City Hall. My commitment is to always listen, put residents first, and do what is best for our community."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3804_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

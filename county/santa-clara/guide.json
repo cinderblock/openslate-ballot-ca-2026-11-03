@@ -1,0 +1,19 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "title": "Santa Clara County Voter Information Guide: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Clara County Registrar of Voters",
+      "uri": "https://vote.santaclaracounty.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-24T20:29:00Z",
+    "sources": [
+      "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    ]
+  }
+}

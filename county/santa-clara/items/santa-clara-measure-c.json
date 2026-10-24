@@ -1,0 +1,381 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara — Measure C",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-clara",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:57Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall the measure proposing to amend the City Charter to update rules for public works contracting, setting the threshold for Council approval and formal bidding at $250,000, retaining provisions for awards of standard contracts to the lowest responsive and responsible bidder, and also allowing for competitive \"best value\" contracting to improve project quality, expedite project completion, and minimize risks, all as set forth in a City ordinance approved at a public meeting, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/724_md.json"
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Summary"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure C is an amendment to the City Charter proposed by the City Council to update rules governing public works contracting. Key provisions would: (1) increase the contract threshold for Council approval from $1,000 to $250,000, (2) retain competitive bidding, but with the ability to waive certain requirements, and (3) allow the use of alternative procurement mechanisms, for example \"design-build\" contracts, when determined by Council to be in the City's best interests. These amendments would be implemented through a City Council adopted ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"yes\" vote on this measure would replace existing City Charter public works rules with the updated rules summarized above.\nA \"no\" vote on this measure would retain existing Charter public works rules without amendment.\nTo pass, the measure requires 50% plus one of votes cast."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Current Charter Provisions"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Charter Section 1310 contains current City rules for public works contracting. Key provisions include:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) Council approval required for contracts exceeding $1,000;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) Advertisement for bids in an official newspaper required, with waivers allowed only where Council finds an \"urgent necessity;\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(3) All contracts awarded to the lowest responsible bidder;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(4) City employees may construct public works, but only with Council approval for project values exceeding $1,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Per City records, these provisions were originally enacted in 1952 and have not been modified since."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Proposed Charter Revisions"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure C would replace existing Charter rules governing public works with new rules as follows:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) The threshold for Council approval would be increased from $1,000 to $250,000 (\"Major Projects\"). The City Manager would approve contracts valued at less than $250,000 (\"Minor Projects\")."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) Competitive bids would still be required for most contracts, with advertisement for bids and formal bidding required for all \"Major Projects;\" however, exceptions could be allowed if justified (e.g., where a limited number of contractors were qualified to perform required work)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(3) Contracts would continue to be awarded to the lowest responsive/responsible bidder; however, exceptions would be allowed for \"best value\" contracting mechanisms, for example, design-build, where, instead of a separate design contract and a construction contract awarded to the low bidder, one contract is awarded to a design/construction team determined to be the most qualified bidder."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(4) The ability for City employees to perform public works would be retained, with City Council approval required for Major Projects and City Manager Approval for Minor Projects."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If voters approve this measure, more specific implementing rules would be prepared by City staff, presented for Council adoption, and incorporated into the City Code."
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Projected Cost Savings"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved, the measure is projected to generate cost savings resulting from reductions in staff time no longer required to present for Council action public works projects valued at less than $250,000. For certain types of projects cost savings may also be generated through use of \"best value\" contracting."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This City Attorney's Impartial Analysis provides a summary of the proposed measure. For details, reference should be made to the full text. Additional information can also be found on the City's website at https://www.santaclaraca.gov/our-city/government/city-committees/charter-review-committee-charter-project/charter-review-committee-charter-project-measure-proposed-charter-amendment-information."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Glen R. Googins\nCity Attorney, City of Santa Clara"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/724_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure C",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Existing Section 1310 of the City Charter reads as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "§ 1310. Contracts on public works."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Every contract involving an expenditure of more than one thousand dollars ($1,000.00) for the construction or improvement, (excluding maintenance and repair), of public buildings, works, streets, drains, sewers, utilities, parks and playgrounds shall be let to the lowest responsible bidder after notice by publication in an official newspaper by one or more insertions, the first of which shall be at least ten days before the time for opening bids."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council may reject any and all bids presented and may re-advertise in its discretion."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council, without advertising for bids, or after rejecting bids, or if no bids are received, may declare and determine that, in its opinion, the work in question may be performed better or more economically by the City with its own employees, and after the adoption of a resolution to this effect by at least four affirmative votes, it may proceed to have said work done in the manner stated, without further observance of the provisions of this section. Such contracts likewise may be let without advertising for bids, if such work shall be deemed by the City Council to be of urgent necessity for the preservation of life, health or property, and shall be authorized by motion passed by at least four affirmative votes and containing a declaration of the facts constituting such urgency."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "It is proposed that existing Section 1310 of the City Charter be amended and restated to read, in its entirety, as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "1310 Public Works"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a. ",
+          {
+            "strong": [
+              "Rules to be Implemented by Ordinance"
+            ]
+          },
+          ". The City Council shall, by ordinance, adopt specific policies and procedures for the award of contracts for the construction, reconstruction, renovation, alteration, improvement or demolition of public buildings, streets, drains, sewers, utilities, parks, playgrounds and similar public facilities (each a \"Public Work\" and collectively, \"Public Works\")."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b. ",
+          {
+            "strong": [
+              "Required Provisions."
+            ]
+          },
+          " The City's implementing Public Works ordinance (\"Implementing Ordinance\") shall, at a minimum, contain provisions for the following:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. City Council to retain approval rights over contract awards of $250,000 or greater (\"Major Projects\"), with contract awards of less than $250,000 (\"Minor Projects\") approved by the City Manager."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. In general, except as provided below, competitive bid processes for all contracts, with formal advertisement for bids and sealed bids required for all Major Projects."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. In general, except as provided below, the award of contracts to the lowest responsive and responsible bidder."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. The ability to reject any and all bids, to re-advertise for bids, or to waive minor defects in any bid if determined by the designated contract-approving authority that such action is necessary or appropriate for the benefit of the public;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. Emergency authority to waive the applicable competitive bid process requirements if the approving authority determines that the work required is of urgent necessity for the preservation of life, health or property."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "6. The ability of the City to implement Public Works using City employees upon a determination by the approving authority (the City Council for Major Projects, the City Manager for Minor Projects) that the work can be performed better or more economically by City employees;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "7. Defined terms, including definitions for what types of maintenance, repair, restoration, minor improvements, and equipment installation and equipment acquisition, which shall not be considered \"Public Works\" for purposes of this Section, but shall remain subject to City's general competitive procurement standards."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "8. Such other provisions consistent with this Section as may be necessary or appropriate to implement the City's Public Works procurement process."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "c. ",
+          {
+            "strong": [
+              "Procurement Alternatives"
+            ]
+          },
+          ". The City's Implementing Ordinance may also provide for one or more alternative Public Works procurement processes to those described in Subsection b, above. Such alternatives may include, without limitation: (1) sole source or limited bid contracts where it is determined by the approving authority that the work required can only be performed by one contractor, or a limited group of contractors; (2) \"best value\" or other alternative procurement mechanisms, including but not limited to: progressive design-build, construction manager at risk, fixed-price design-build, and design-build-operate contracts; and/or (3) such other alternative procurement mechanisms or exceptions currently provided under State Law, or that may be provided under State Law in the future. The City's Implementing Ordinance for any such procurement alternatives shall include standards for solicitation, evaluation and selection of qualified proponents. No such exception or alternative process shall be applied to a Public Work unless it is part of a City-wide policy or program approved by the City Council by ordinance and the approving authority has determined that its application to that Public Works is in the best overall interests of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "d. ",
+          {
+            "strong": [
+              "Relationship with Other Laws."
+            ]
+          },
+          " To the maximum extent allowed by law, the provisions of this Charter Section, and any Implementing Ordinance or policy consistent with the terms of this Section, shall supersede all inconsistent State Laws or regulations that may otherwise be applicable to the City's Public Works procurement processes."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/724_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "There are many ways to contract for public construction projects, but the outdated City of Santa Clara Charter limits us to only one: Design-Bid-Build (DBB). Under DBB, a project must be fully designed before it is bid out to contractors. A fixed-price contract is awarded to the lowest responsible bidder. While this process works well for many smaller projects, it often delays complex projects because every detail must be designed before construction can begin. Contractors usually price unknown risks into their bids or decide not to bid at all. The result can be fewer bidders, higher costs, and unnecessary delays."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure C allows the City of Santa Clara to use additional proven contracting methods alongside DBB that can help deliver projects faster and more efficiently while protecting taxpayers. The most common alternative is Design-Build (DB), whereby one qualified team designs and constructs the project. Contracts are awarded based on experience, expertise, and proven performance. Construction can begin before every design detail is finalized, reducing delays. Costs remain transparent through City oversight, and project risks are shared between the contractor and the City. ",
+            {
+              "strong": [
+                "DB is already permitted for all California General Law cities and many Charter cities like San Jose."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The City is preparing to deliver more than $400 million in critical infrastructure improvements, many of them large and technically complex. Smaller, simpler projects would continue to use the traditional DBB process. Measure C simply gives Santa Clara the flexibility to choose the contracting method best suited to each project."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "In 2009, former City Manager, Don Von Raesfeld, led a Charter committee that recommended design-build be put to the voters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "City Council voted 7:0 to put this measure on the ballot."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote YES to help Santa Clara complete major projects such as the ISC rebuild, more efficiently, more competitively, and with greater flexibility."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Karen Hardy",
+          "title": "Santa Clara Councilmember"
+        },
+        {
+          "name": "Sudhanshu \"Suds\" Jain",
+          "title": "Santa Clara Councilmember"
+        },
+        {
+          "name": "Albert Gonzalez",
+          "title": "Santa Clara Vice Mayor"
+        },
+        {
+          "name": "Eric Crutchlow",
+          "title": "Charter Review Committee, As an Individual Voter Only"
+        },
+        {
+          "name": "Eric Jensen",
+          "title": "Charter Review Committee, As an Individual Voter Only"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/724_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

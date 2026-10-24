@@ -1,0 +1,134 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Alum Rock Union Elementary School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:13Z",
+  "candidates": [
+    {
+      "choice": "Delia Oseguera",
+      "statement": {
+        "by": "Delia Oseguera",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Community Volunteer"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Alum Rock School Board because I believe every student deserves an excellent education, a safe learning environment, and the opportunity to reach their full potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a PTA President, I have had the privilege of working alongside parents, teachers, administrators, and community members to strengthen our school and support student success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I led organized school programs, coordinated volunteers, advocated for student needs, and built partnerships that benefit our school community. These experiences gave me a firsthand understanding of the challenges our schools face and the importance of listening to diverse perspectives before making decisions. After beating cancer this last year, I am determined to reinvigorate this district and make it the positive and wonderful Alum Rock students deserve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am currently the inaugural Chair of the district's Bonds Committee after 5 years of the district having no citizen oversight. For the first time in half a decade we are complying with state law."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to making informed, balanced decisions that reflect the needs of all students. It would be an honor to serve our community, advocate for our children, and help ensure our schools continue to provide high-quality educational opportunities for every student."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3697_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Andrés Quintero",
+      "statement": {
+        "by": "Andrés Quintero",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member, Alum Rock School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving on the Alum Rock School Board has been one of the greatest honors of my life. I have always put students first, making tough but necessary decisions to strengthen our district."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we improved our financial standing by moving from a qualified budget to a positive budget. I established an Audit Committee, led audits of our bond program, and increased transparency and accountability."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I authored a policy banning political contributions from district contractors to reduce special-interest influence. I also opposed selling district land and helped save the former Fischer Middle School, securing a $12 million investment to transform it into a state-of-the-art campus."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also led the effort to develop teacher workforce housing so we can recruit and retain outstanding educators."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Alum Rock is moving in the right direction, and our best days are ahead. I will continue to put students first, protect taxpayer dollars, and provide every child with a high-quality, dignified education. www.AndresQuintero.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3698_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

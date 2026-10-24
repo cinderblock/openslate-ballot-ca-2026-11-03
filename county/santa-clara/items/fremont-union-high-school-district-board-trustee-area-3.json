@@ -1,0 +1,98 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fremont Union High School District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:29:00Z",
+  "candidates": [
+    {
+      "choice": "Rosa Kim",
+      "statement": {
+        "by": "Rosa Kim",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For seven years, I have served on the Fremont Union High School District Board of Trustees, including as Board President and Vice President. Working collaboratively with fellow trustees, district staff, teachers, students, families, and community partners, I have helped strengthen our comprehensive high schools by supporting academic excellence, advancing student wellness, elevating student voice, and building an inclusive school community where every student has the opportunity to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent who came to the U.S. with a belief in the promise of public education, I understand the transformative power of schools and our responsibility to serve every student. My experiences as a parent, educator, and community leader have strengthened my commitment to thoughtful governance, transparent communication, and collaborative leadership. While FUHSD continues to be recognized as a high-achieving district, we must continue working to close opportunity gaps and ensure every student experiences a sense of belonging, growth, and success."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In my next term, I will focus on student-centered decision-making, student wellness, college and career readiness, and strong community partnerships while ensuring every student develops the critical thinking, collaboration, problem-solving, and social-emotional skills needed for future success. Together, we can continue advancing excellence for every student. www.rosa4fuhsd.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3688_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Jason Lin",
+      "statement": {
+        "by": "Jason Lin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " CEO/Father"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public schools gave me the American Dream. My parents arrived as immigrants with little, but dedicated teachers opened every door that followed: a UCLA degree, a top-tier MBA, and a career as a senior executive scaling five \"unicorn\" companies. As an educator, I share those lessons as a guest lecturer at UC Berkeley's Haas School of Business. My wife, a physician, and I are raising two children we hope will attend Monta Vista High School. As a father, I understand the pressures families face. I am running to protect FUHSD's legacy of excellence, expand opportunity, and prepare students for a changing world. That means strengthening support for struggling students while preserving rigorous, advanced courses that make our schools exceptional. It means retaining excellent teachers, improving communication with families, and ensuring every student graduates confident, prepared, and ready to succeed in college, careers, and life. Most importantly, it means setting clear goals, measuring real outcomes, and acting on what the data shows. With your vote, I will bring proven leadership, disciplined decision-making, and accountability to our Board, so the American Dream that public schools made possible for me stays within reach for every child. Join me at www.JasonLin4FUHSD.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3689_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

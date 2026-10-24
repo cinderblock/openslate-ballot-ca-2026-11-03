@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Morgan Hill Unified School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:06Z",
+  "candidates": [
+    {
+      "choice": "Glen R. Webb",
+      "statement": {
+        "by": "Glen R. Webb",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Educator, Coach, Administrator and Parent"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I champion Public Education. Father of three Morgan Hill Unified School District graduates, forty years of MHUSD service as a Teacher, Athletic Coach, Principal, Director, Leadership Coach, and husband to a career teacher; education is my passion. Board Trustee is my next opportunity to serve."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have the confidence of teachers, public service and community leaders. I believe in honesty, transparency and engaging our community. My loyalty is to students, the law and extends with mutual respect to those with the common mission of making our schools distinguished. My priorities include grade level reading by third grade, math proficiency by fifth, college and career readiness by graduation, and fiscal responsibility to sustain robust academic and extracurricular programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Twice recognized by the California School Boards Association for excellence in strategic planning, I led Britton as the only district secondary school to surpass the 800 API distinguished school mark. I have authored the district's LCAP; I know accountability, compliance, data analysis and program evaluation for return on investment."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I know our schools and the responsibilities of the Governing Board. I have provided training and presented to past Boards many times. I will do all I can to ensure effective leadership. In that, you can trust. Thank you for your vote!"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3672_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Claudia Ortiz",
+      "statement": {
+        "by": "Claudia Ortiz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Parent/Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As an active Morgan Hill Unified School District parent, local business owner, and first-generation college graduate, I understand the power of public education and the importance of preparing our kids for a 21st-century workforce."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Our world is changing rapidly, and education must evolve with it. We cannot prepare students for tomorrow's careers using yesterday's playbook."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a business owner, I understand today's hiring trends and the skills employers are looking for. Today's students need 21st-century skills, technological literacy, and strong Career Technical Education pathways that prepare them for modern industries, trades, and higher education."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Having a daughter currently attending MHUSD gives me a unique perspective as both a parent and community leader. Since 2020, I have actively served Morgan Hill Unified through Home & School Club, School Site Council, and other district committees. I understand the importance of providing students with the resources, support, and skills needed to thrive academically, mentally, and socially."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am committed to responsible fiscal stewardship, transparent communication, and forward-looking leadership that ensures every student has the opportunity to succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your trust and your vote. Together, we can build a stronger future for every MHUSD student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For Our Kids. For Our Community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.claudiaortizMHUSD.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3673_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Campbell City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/campbell",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:26Z",
+  "candidates": [
+    {
+      "choice": "Daraius R. Sorabji",
+      "statement": {
+        "by": "Daraius R. Sorabji",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Business Owner/Software Engineer/Scout Leader"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As progress comes to Campbell, we must preserve the charm, diversity, and sense of community that made it where my wife and I chose to raise our children 32 years ago. As we grow, I will work to ensure progress reflects residents' concerns and protects the quality of life that lets families thrive safely."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Campbell is facing challenges of affordable housing, traffic congestion, homelessness and state mandated growth. Many young adults can no longer afford to build their lives here. Growth without associated infrastructure improvements impacts our quality of life and gives us less time to focus on our families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe deeply in community service, and I've been fortunate to serve in many ways. I'm most proud of my 30 years as a Scout leader in Pack 333 and Troop 330, supporting families and helping guide youth into capable, confident, responsible citizens."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will strive for a Campbell that is Caring, Accountable, Smarter, Responsive, Better, Greener, Equitable and Livable. If we all change things within our spheres of influence, we can change the world."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Read more at Sorabji4Campbell.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3732_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

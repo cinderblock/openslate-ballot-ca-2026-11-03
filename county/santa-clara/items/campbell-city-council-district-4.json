@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Campbell City Council, District 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/campbell",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:25Z",
+  "candidates": [
+    {
+      "choice": "Joseph I. Guardado",
+      "statement": {
+        "by": "Joseph I. Guardado",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Full-Time Worker\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 21"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was inspired to run for city council because I wanted to see change in my community and running for this position allows me to take a huge step in seeing that change come to fruition. As the youngest person running for council I wish to be a representation for Campbells future generations, and I hope there are more of me 4 years down the line. We all want to see a safer Campbell, whether it's for families, our children, and our elderly folks."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Some of the biggest issues facing our community is a rise of reckless speeding, the lack of safe and visible crosswalks, and upgrading public infrastructures like sidewalks to accommodate every Campbell resident."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "And being able to get these issues fixed without raising costs for residents is crucial. Campbell already has one of the highest sales tax's in California and as council member It will be my duty to never increase that amount. It is also crucial to ensure that the city taxes you're paying are sent back into our community. Visit https://linktr.ee/guardadoforccc to learn more about who I am and what my vision for Campbell is."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3730_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Davis Stuart Fields",
+      "statement": {
+        "by": "Davis Stuart Fields",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Product Manager/Father\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I chair Campbell's Planning Commission and have served on two city commissions since 2020, working to preserve what makes Campbell special while preparing it for the future. My wife and I chose Campbell to raise our twins because neighbors know each other, kids thrive, and iconic parks, events, and small businesses bring people together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a Bay Area native with a degree in Political Science and Communications. As a Product Manager, I bring teams together to solve complex problems. On Campbell's commissions, I improved housing projects based on neighborhood feedback, led the permit audit that became Campbell's Conditional Use Permit Streamlining Ordinance, and helped expand the downtown mural program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In both my career and commission service, I dig into complex plans, weigh tradeoffs, ask tough questions, and bring people together to fix what's not working. On Council, I will support well-planned housing while preserving neighborhood character. I will invest in public safety, streets, sidewalks, parks, and public spaces. I will help small businesses open faster and succeed, manage Campbell's budget responsibly, and develop a long-term plan for aging facilities."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I listen, show up prepared, and sweat the details. I would be honored to earn your vote and serve District 4. www.davis4campbell.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3731_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

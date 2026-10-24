@@ -1,0 +1,482 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palo Alto City Council",
+    "kind": "race",
+    "jurisdiction": "us/ca/palo-alto",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:45Z",
+  "candidates": [
+    {
+      "choice": "Brian Hamachek",
+      "statement": {
+        "by": "Brian Hamachek",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Software Entrepreneur"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was born and raised in Palo Alto. My wife and I met in preschool here. I love the Gamble Garden, farmers' market, and Rinconada Park. I believe Palo Alto is the best place in the world to live, work, and raise a family, and I'm running to keep it that way."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "But make no mistake: the Palo Alto we cherish is under threat. Outside developers see our neighborhoods as profit opportunities. Sacramento politicians believe they can plan our housing better than we can. And our own city government has grown too large, too expensive, and too disconnected from the issues residents actually care about: safe streets, efficient transportation, sensible housing policy, reliable and affordable utility service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will fight for thoughtful housing policy that protects our single-family neighborhoods. I will champion undergrounding the rail corridor, not because it's easy or cheap, but because it's the right investment for the next century of Palo Altans. And I will demand a city government that listens to and answers to residents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Palo Alto is my home. I'm asking for your vote to help me defend it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.brianhamachek.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3781_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Bryna Chang",
+      "statement": {
+        "by": "Bryna Chang",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Chair of Palo Alto Planning & Transportation Commission\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 50"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "MBA, Stanford; B.S. Biology, Stanford"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Palo Alto needs councilmembers who know our neighborhoods, respond to resident feedback, and have the experience and judgment to deliver results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've been part of this community nearly my entire life, and I love our city. As the daughter of Chinese immigrants, my lifelong devotion began when I attended PAUSD schools (Nixon, JLS and Gunn). I've proudly raised my own family here, and have volunteered for 20+ years in our schools, local nonprofits, and city government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since 2021, I have served on the Planning Commission, bringing business, strategy, and finance experience to help guide Palo Alto through tough decisions on housing, transportation, and development. Listening carefully to residents, I've helped the city plan for housing growth, strengthen renter protections, protect nature, streamline permitting for small businesses, and make our streets safer for cyclists and pedestrians."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Palo Alto is growing. The question is not whether change is coming, but how we manage it: I believe in practical priorities, responsible budgeting, and decisions that strengthen our neighborhoods rather than strain them. My only goal is to serve Palo Alto—I will not seek higher office. I would be honored to earn your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "changforcitycouncil.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3782_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Ed Lauing",
+      "statement": {
+        "by": "Ed Lauing",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Palo Alto City Councilmember"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Palo Alto faces complex challenges. I offer proven leadership, sound judgment, and a deep track record of bringing people together to craft sensible solutions for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my first term, I served as Mayor, Vice Mayor, and Chair of the Finance and Housing Committees. I also led work on public safety, retail, and homelessness. Before Council, I served four terms on the Parks and Recreation and Planning and Transportation commissions. My colleagues trusted me to lead as Chair five times as we addressed issues central to our community's vitality and quality of life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Beyond City Hall, my extensive service on local nonprofit boards has earned me a reputation for working effectively and respectfully to deliver results. As a three-time software start-up CEO and executive recruiter, I also bring experience managing partners, budgets, risk, and uncertainty."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In a second term, I will continue to increase affordable housing, further strengthen public safety, expand parklands, and champion fiscal responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My service is driven by love for our community. In a second term I will sustain and enhance our many unique amenities, drive new initiatives, and responsibly manage growth. I ask for your vote to continue serving."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Education: DePauw University, B.A.; University of Minnesota, M.B.A\nVanderbilt University, M.Div.."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3783_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Yu \"Yudy\" Deng",
+      "statement": {
+        "by": "Yu \"Yudy\" Deng",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Small Business Owner, Mom, Non-profit Leader\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 42"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "A great city creates joy, not frustration. I believe City Hall should use common sense, solve problems, spend taxpayer dollars wisely, and never make simple things harder than necessary."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a small business owner with a master's degree in economics. I have served our community as a Parks Commissioner, board member of the Police Foundation, PTA, Cubberley, Rotary, local nonprofit and Palo Alto Sister Cities. I bring people together and get things done."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Permitting delays can take months or years, driving businesses into debt before opening and keeping families waiting to improve their homes. My Green Lights plan will create predictable permit timelines, faster inspections, and easier approval for backyard ADUs of up to 1,200 square feet for our children, young families, or aging parents."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the Council, I will improve quality of life by reducing event-related traffic, cutting red tape and unnecessary bureaucratic costs so we can add more community amenities faster and for less. Palo Alto is a wonderful place. I will protect what we love, fix what makes life harder, find common ground, and build a shared future where the next generation has the opportunities we had and can afford to stay here. www.yudy4paloalto.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3784_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Raymond Lee Goins",
+      "statement": {
+        "by": "Raymond Lee Goins",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Wildland Firefighter\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm running for Palo Alto City Council because our city must work for all of us, not just the wealthy or well connected. As a former Community Health Worker, woodland firefighter by trade, community advocate, and Palo Alto resident, I have stood with those too often pushed aside, including working families, immigrants, unhoused neighbors, and communities denied a real voice in the decisions that shape their lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe government should be a force for dignity, fairness, and collective care. A city should be judged by how it treats those with the least power. In Palo Alto, taking care of our neighbors means keeping our streets clean, safe, and welcoming while addressing the root causes of homelessness, displacement, and inequality."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have spoken out for marginalized communities, supported efforts to cover the racist courthouse mural, and called on local leaders to confront hate through education, inclusion, and accountability. I will fight to protect our immigrant community, create more affordable housing, preserve Palo Alto's natural surroundings, and make sure every resident is treated with dignity and respect"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3785_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Gary Gechlik",
+      "statement": {
+        "by": "Gary Gechlik",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Physician\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 57"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I promise to do my best. I promise to listen first and look issues up and develop a written response. I promise to be available, no matter a person's station in life: the poor, the well off, the healthy, the unwell. I promise to serve the public to the best of my abilities, to avoid all financial gain, and to avoid all conflict of interest. I promise to cross every bridge when I get there, so as to be a neutral and objective guide. I promise I will work hard and never act or vote with implicit bias. Above all, I promise to be helpful in service to Palo Alto and to be good to other people."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Dr. Gary"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3786_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Vicki Veenker",
+      "statement": {
+        "by": "Vicki Veenker",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Mayor/Attorney/Mediator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Councilmember and now Mayor, I work every day to make this extraordinary city an even better place to live by addressing housing, climate, mental health, and economic vibrancy. I am running for re-election because there is more work to do. Palo Alto has been my home for over 30 years, and like you, I care about improving quality of life. So I'll champion parks, libraries, and public safety."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Palo Alto is a climate and sustainability leader. While Climate Chair, we improved EV charging and home electrification options, launched a nature-based levee to combat sea level rise, and more. I'll promote continued progress. Palo Alto needs more housing for people who work here. I'll pursue solutions that enhance and balance our community. Palo Altans deserve affordability. As our Northern California Power Agency Commissioner, I'll continue to ensure our city-owned electric utility has rates lower than PG&E, while remaining resilient and green."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Professionally, I'm an intellectual property attorney and mediator for federal courts and the International Trade Commission. I co-founded Women's Professional Soccer and Sibling Cities USA. My experienced leadership in Palo Alto has earned endorsements from Council colleagues, State Senator Becker, Assemblymember Berman, former State Senator Simitian, and Supervisor Abe-Koga. I respectfully request your vote. vickiforcouncil.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3787_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Henry Etzkowitz",
+      "statement": {
+        "by": "Henry Etzkowitz",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Educator and Researcher"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Henry Etzkowitz, Social Entrepreneur, Environmental Activist, and Plaintiff in 2024 lawsuit versus Tesla/Musk's toxic pour into Matadero Creek. As innovation and sustainability are my main research interests, I have been thinking of an innovative, sustainable and equitable Palo Alto future: how to solve the housing crisis, end \"Suicide Alley,\" and support Stanford as the regional keystone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let's apply start-up expertise to solve \"wicked problems:\" use municipal expertise in Internet service and form a housing provider in cooperation with Stanford and the venture capital community; replicate the cantilevered housing pioneered at the 1967 Montreal World Fair at Stanford Shopping Center and Research Park."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Bring mid-Peninsula communities together to underground Caltrain, create a linear park on Alma, raising real estate values along the right of way. Use regulatory authority to surveillance companies and polluters. Encourage Stanford to expand its academic base by three million square feet in exchange for wilding the foothills in perpetuity as Senator Stanford wished. End \"consultocracy\" and use savings to renovate Cubberly, return it to its original purpose as an international boarding school. Vote no on Cubberly tax!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hope these goals are achieved over time. Look forward to working for the organization making them happen!"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3788_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

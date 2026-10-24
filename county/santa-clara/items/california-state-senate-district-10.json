@@ -1,0 +1,115 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Senate, District 10",
+    "kind": "race",
+    "jurisdiction": "us/ca/sd-10",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:56Z",
+  "candidates": [
+    {
+      "choice": "Scott Sakakihara",
+      "statement": {
+        "by": "Scott Sakakihara",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Councilmember/Navy Officer\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In the Navy, we live by a commitment to leave nobody behind. I believe our communities should live by these same words. That's why I've dedicated my life to service as a Union City Councilmember, Navy Reserve officer, and housing leader."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My grandparents were sent to Japanese-American internment camps during World War 2. Their history grounds my commitment to protecting immigrants across California being targeted by Trump and ICE."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Vice-Mayor and County Housing Authority Chair, I've helped make it easier to build affordable housing, secured funding for homelessness services, expanded public transit, and supported renters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've served in an intelligence role in the Navy Reserve and graduated from Harvard Law School. I'm also an elected Democratic Central Committee member and interned in the Obama White House."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Today, my wife—a public school teacher and union member—and I are raising three kids. Our two oldest attend the same public school where my wife and I first met as kids."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I feel a strong sense of duty to my family, community, and state. Californians are living without shelter, can't afford groceries, make rent, or buy a home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We must do better."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My platform: lower the cost of housing, utilities, and groceries; achieve universal healthcare and childcare; raise wages and protect workers; fully fund public schools; prepare communities for wildfire and climate threats; stop ICE; and protect our most vulnerable from Trump."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Endorsements: California Democratic Party; California AAPI Legislative Caucus; Planned Parenthood Advocates Mar Monte; California Professional Firefighters; United Nurses Associations of California/Union of Health Care Professionals; California Environmental Voters; State Senator Aisha Wahab; Assemblymember Alex Lee; and Alameda County Supervisor Elisa Márquez."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let's build a California with opportunity for all."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "ElectScott.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3643_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

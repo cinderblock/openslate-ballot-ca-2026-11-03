@@ -1,0 +1,183 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Gilroy City Council, District 5",
+    "kind": "race",
+    "jurisdiction": "us/ca/gilroy",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:30Z",
+  "candidates": [
+    {
+      "choice": "Tom Cline",
+      "statement": {
+        "by": "Tom Cline",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am dedicated to our city we call home. As a 26-year resident of District 5, I will continue to be a fierce advocate for our neighborhoods. Our quality of life depends on it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If re-elected, public safety will be a top priority. We should do all we can to keep our families safe and criminals off the streets. I'm working to find solutions for the development of the Sports Park. I'll always advocate for community input on all Council decisions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have earned a reputation for researching difficult issues, meeting with residents, collaborating and working hard to deliver positive results. While serving on Council, I voted to create Gilroy's first district elections providing residents with direct representation, to hire an Economic Development Director to offer pathways for job creation and economic growth, to establish a planned fourth fire station to deliver comprehensive city-wide emergency coverage, and continued investment to improve our street maintenance program."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can do more!"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please join the Police Officer's Association, community advocacy groups and a bipartisan list of Gilroy business and community leaders in supporting my campaign. I humbly ask for your support and vote to represent your interest in District 5. www.tomcline4gilroy.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3742_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Joseph Garcia",
+      "statement": {
+        "by": "Joseph Garcia",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Locomotive Engineer\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 50"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a father of five and a veteran railroader and locomotive engineer of over 23 years—with extensive experience at BNSF, Caltrain, and in track safety for Union Pacific—my life is rooted in dedication and family values."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My children—including three Gilroy High School graduates: a West Point graduate, an SJSU civil engineer, an insurance professional helping run my campaign, and two division-one collegiate wrestlers at Oklahoma State and West Virginia University—reflect our community's strength and promise."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring this deep commitment to Gilroy. On the City Council, I will provide practical, common-sense leadership to represent District 5."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities are supporting local families, strengthening neighborhood safety, maintaining our infrastructure, and ensuring an efficient, transparent city government. I would be honored to earn your vote."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3743_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Christina Tovar",
+      "statement": {
+        "by": "Christina Tovar",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Gilroy Business Owner\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 47"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Gilroy is my home. I raised my four boys here with my husband, and now I get to watch my grandchildren grow up here too. With degrees in finance and accounting along with a CPA, I believe in fiscal responsibility. I can study a budget to find the smartest path to yes, not reasons to say no. I run two small businesses and renovated a building here downtown, in the heart of District 5. I have been privileged to work alongside non-profits in our community. As a public servant, I will make it a priority to support them. With my father being a Vietnam Veteran, I have respect for those who put their life on the line for their country and community. I will be their voice. I also believe in strong transparency between the community and its leaders. As a city leader, I will work to effectively bridge the gap between city hall and local residents. Real leadership starts with listening, doing what you say you'll do, and treating residents as partners."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "That's what I'll bring to City Hall, because I love this city and I'm ready to serve it. www.christina4council.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3744_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

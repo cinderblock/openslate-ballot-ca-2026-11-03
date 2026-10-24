@@ -1,0 +1,97 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "California State Assembly, District 25",
+    "kind": "race",
+    "jurisdiction": "us/ca/ad-25",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:24:57Z",
+  "candidates": [
+    {
+      "choice": "Ash Kalra",
+      "statement": {
+        "by": "Ash Kalra",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " State Assembly Member\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 54"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe California remains a place where dreams can become a reality, that San José is a place of great opportunities built by generations of immigrants, working families, innovators and others who didn't stop because the work was hard—but because it was necessary to pave the way for future generations to come."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Representing you in Sacramento has been an honor. I made a promise never to stop fighting for you, your family, and for a better California. With your vote once again, I can continue to tackle the most pressing issues."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "When federal cuts threatened public hospital funding, I fought for money in the state budget so that access to healthcare was not stripped away from those who need it most."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm not afraid to take on the status quo by thinking bigger and bolder when it comes to a single-payer healthcare system, building more affordable housing, and ensuring our most vulnerable communities get the services and help they need."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have delivered for you by bringing over $72 million in funding for Assembly District 25, funds that directly improve our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I know the importance of protecting our environment; that is why I supported creating more open spaces and parks. I'll continue to advocate for more affordable childcare, to make college more accessible, and to support small businesses."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have made progress, and the work may be hard, but I still have much more I want to accomplish to improve the lives of all Californians."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "AshKalra.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3646_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

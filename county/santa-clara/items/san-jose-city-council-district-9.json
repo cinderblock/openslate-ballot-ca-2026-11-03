@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Jose City Council, District 9",
+    "kind": "race",
+    "jurisdiction": "us/ca/san-jose",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:47Z",
+  "candidates": [
+    {
+      "choice": "Gordon Chester",
+      "statement": {
+        "by": "Gordon Chester",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Husband, Father, Lifelong San Jose Resident and Dedicated City Union Worker"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Husband. Father. Lifelong San Jose resident. City of San Jose union worker."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I was born and raised in District 9 and attended Union Middle and Leigh High Schools. I'm running for City Council to build a Safe and Sustainable San Jose for everyone."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am serious about safety for all residents of our district. That means safer crosswalks, reliable bus shelters, protected bike lanes, clean and well-lit streets, improved traffic safety, and more firefighters, police and community service workers in our neighborhoods. We can only fund these basics with a financially strong, sustainable city."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For decades, outdated land-use policies have pushed out young families, worsened our housing shortage, and driven school closures. In my work for the City of San Jose, I see how the wrong red tape blocks good projects. I want to cut it so we can build more homes families, young people, and seniors can afford, creating jobs, saving our schools, and expanding our tax base."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Proudly the only endorsed candidate of the Working Family Party."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.gordonford9.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3793_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Genny Altwer",
+      "statement": {
+        "by": "Genny Altwer",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Business Owner/Mom/Former Detective\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 45"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a hostage negotiator and sexual assault detective, I had no choice but to get the job done in someone's hour of crisis. But right now, the City Hall status quo isn't getting the job done for our families on housing, homelessness, and crime."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "This is personal. I was raised in San Jose, and since I was a kid, I've seen friends move away as housing became unaffordable. I've seen our homelessness crisis get worse over the decades, despite billions of dollars being spent to \"fix\" it. And I've seen special interests stand in the way of solutions."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Now, I'm raising my daughters here. That's why I'm running for City Council. Everyone deserves the opportunity to stay in the city they grew up in, in a house of their own. They deserve parks and streets that are safe to walk at night, and real economic opportunity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mayor Matt Mahan has made real progress, but he needs a partner who will stand up to the status quo and get tough jobs done. I'm proud to have his endorsement alongside the Mercury News, Planned Parenthood, San Jose police officers, Congressman Sam Liccardo, and thousands of neighbors. Together, we'll make sure San Jose gets the job done for you."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "GennyAltwer.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3794_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

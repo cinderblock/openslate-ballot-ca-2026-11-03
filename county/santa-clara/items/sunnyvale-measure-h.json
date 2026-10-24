@@ -1,0 +1,279 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sunnyvale — Measure H",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sunnyvale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:58Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Shall Section 1314 of the City Charter be amended to authorize the City Council to adopt an ordinance establishing the maximum amount the City Manager may approve to settle legal claims against the City, instead of the current $50,000 limit established by state law and unchanged since 1989, while retaining City Council approval authority for settlements exceeding the amount set by the ordinance?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/729_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"YES\" vote amends the Charter so that the Council can adopt an ordinance setting the amount of the City Manager's settlement authority at a different limit than Government Code Section 935.4."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/729_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"NO\" vote keeps the current rule requiring the City to use the settlement authority limit established by Government Code section 935.4, currently $50,000."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/729_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "This measure would amend Sunnyvale City Charter Section 1314 to give the City Council the authority to adopt an ordinance setting the City Manager's maximum authority to settle claims against the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Council placed this measure on the ballot on recommendation of a Charter Review Committee of appointed Sunnyvale residents."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Currently, the City follows Government Code Section 935.4, which requires the City Council to approve all settlements of lawsuits and claims greater than $50,000. The California Legislature set the $50,000 limit in 1989 and has not adjusted it for inflation. Government Code Section 935.4 requires an amendment to the City Charter to change the $50,000 limit."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If a settlement is within the City Manager's authority, it means that the City Manager or their designee, such as the Risk Manager, can approve the settlement without involving the City Council. If a proposed settlement is over the City Manager's authority, staff will present the case to the City Council in a confidential closed session. The Council may approve or disapprove the settlement, or authorize staff to negotiate a settlement up to a certain amount."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This measure would authorize the City Council to set the City Manager's maximum settlement authority by ordinance. The City Council could adjust this amount (up or down) in the future by adopting another ordinance; no further Charter amendment will be necessary. In August 2026, the City Council adopted an ordinance that will take effect if this measure passes, setting the City Manager's settlement authority at $250,000, the same amount as the City Manager's current authority to approve contracts. Any settlement above the Council-set limit in the ordinance would require City Council approval, and the closed session procedures for City Council approval of settlements over the amount set by the ordinance would remain the same."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This amendment will become effective if a majority of those voting on the measure vote \"yes.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Rebecca L. Moon\nCity Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "To obtain copy of Measure H, call the elections official at 408-730-7483 and a copy will be provided at no cost to you."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/729_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure H",
+    "blocks": [
+      {
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Proposed Charter Amendment\n(City Manager Settlement Authority)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          {
+            "strong": [
+              "("
+            ]
+          },
+          "additions shown in underline, deletions in strikeout)"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The citizens of the City of Sunnyvale do hereby enact the following amendment to the City Charter:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 1. Section 1314 of the City Charter (Claims Against City) is hereby amended to read as follows:"
+        ]
+      },
+      {
+        "type": "h",
+        "level": 4,
+        "text": [
+          "§ 1314. Claims Against City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(1) Except as otherwise required by the provisions of State law applicable to chartered cities, claims and demands against the City shall be presented and audited as prescribed by ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(2) The City Council shall prescribe by ordinance the monetary limits for the City Manager or Manager's designee to settle any claim or action against the City, or any City officer, employee, board or department thereof in an official capacity. No claim or action against the City shall be settled for more than the amount set forth in the ordinance without the prior approval of the City Council."
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/729_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Vote YES to cut bureaucratic red tape and save valuable public meeting time."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Currently, the Charter caps the City Manager's authority to settle routine, clear-cut legal claims at just $50,000—a ",
+            {
+              "strong": [
+                "limit set nearly 40 years ago"
+              ]
+            },
+            ". Because of decades of inflation, $50,000 in 1989 is worth over $130,000 today. As a result, even minor administrative claims—like a city vehicle clipping a fender—frequently exceed this low threshold."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This creates a bureaucratic bottleneck. Your elected City Council is required to repeatedly stop their work to agendize, review, and vote on minor, routine legal settlements. This wastes taxpayer-funded staff hours, delays fair resolutions for residents, and clutters public meetings."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Voting ",
+            {
+              "strong": [
+                "YES"
+              ]
+            },
+            " replaces this rigid, outdated $50,000 cap and empowers the City Council to set realistic limits by ordinance. In July, Council passed an ordinance to set this threshold to 250 thousand dollars if this measure passes. This directly aligns settlement authority with the City Manager's current day-to-day purchasing and contract approval limits."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "This measure maintains strict accountability:"
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Preserves Council Oversight:"
+                    ]
+                  },
+                  " Your elected City Council retains exclusive authority to review and vote on all major, high-dollar legal settlements."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Protects Public Resources:"
+                    ]
+                  },
+                  " Resolving minor claims quickly saves city staff hours, avoids protracted litigation, and reduces overall legal expenses."
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  {
+                    "strong": [
+                      "Focuses on Priorities:"
+                    ]
+                  },
+                  " Clears the clutter from Council agendas so your leaders can focus on critical community issues like housing, traffic, and public safety."
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Vote YES for efficient, accountable, and modernized city management."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Larry Klein",
+          "title": "Sunnyvale Mayor"
+        },
+        {
+          "name": "Richard Mehlinger",
+          "title": "Sunnyvale Vice Mayor"
+        },
+        {
+          "name": "Gustav Larsson",
+          "title": "Former Sunnyvale Councilmember"
+        },
+        {
+          "name": "Linda Sell",
+          "title": "Sunnyvale Councilmember"
+        },
+        {
+          "name": "Alysa Cisneros",
+          "title": "Sunnyvale Councilmember"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/729_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

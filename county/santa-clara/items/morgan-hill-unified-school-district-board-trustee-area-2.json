@@ -1,0 +1,140 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Morgan Hill Unified School District Board, Trustee Area 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:04Z",
+  "candidates": [
+    {
+      "choice": "John T. Horner",
+      "statement": {
+        "by": "John T. Horner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board President"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since you first elected me to the Morgan Hill Unified School District Board in 2018 we have increased high school graduation rates from 84% to 96%, increased teacher pay by 30%, tripled Career and Technical Education participation, and integrated the Science of Reading (including phonics) in elementary school. Our graduates newly enjoy guaranteed acceptance to San Jose State University along with robust College Dual Enrollment and Advanced Placement programs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "We have also expanded music and arts education, added fourteen wellness counselors to a system which previously had none, and restored physical education to all grades. Meanwhile, our student nutrition department has become a national model for providing healthy meals."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Increasing the funding to do these things has required my relentless advocacy in Sacramento and Washington, DC. That work has, for example, resulted in $3M per year of additional Special Education funding for Morgan Hill Unified. Through both advocacy and smart budget choices we have sustained strong financial reserves without school closures or mass layoffs."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Previously I brought a unique education/workforce development focus to the Morgan Hill Chamber of Commerce, was a founding board member of three local foundations, and owned Thinker Toys Morgan Hill."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With your vote we can continue moving our schools forward together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "https://www.linkedin.com/in/john-horner-5759852/"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3668_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Gabriela \"Gabby\" Winter",
+      "statement": {
+        "by": "Gabriela \"Gabby\" Winter",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Homemaker"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the mother of three children attending Morgan Hill Unified Schools—including students at San Martin/Gwinn and Sobrato High School—I have experienced firsthand the opportunities and challenges facing our district. I'm running for the Board of Education because I believe every student deserves an excellent education, every educator deserves support, and every family deserves confidence that decisions are made openly and thoughtfully."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Through years of volunteering in our schools and serving with nonprofit organizations throughout our community, I have worked alongside teachers, staff, and families. These experiences have given me an appreciation for the dedication of our educators and reinforced my belief that strong schools are built through partnership and shared responsibility."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will lead with transparency, collaboration, and integrity. I will be accessible, communicate openly, and ensure that parents, teachers, staff, students, and community members know their voices are heard and respected."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I believe strong schools are built through responsible stewardship of taxpayer dollars, academic excellence, meaningful partnerships with families, and supporting the outstanding educators and staff."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "It would be an honor to earn your trust and your vote as Trustee for Area 2. Together, we can build a stronger future for every student in Morgan Hill Unified."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3669_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

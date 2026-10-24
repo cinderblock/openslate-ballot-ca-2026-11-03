@@ -1,0 +1,384 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara Mayor",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:49Z",
+  "candidates": [
+    {
+      "choice": "Karen Hardy",
+      "statement": {
+        "by": "Karen Hardy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Councilmember/Retired Teacher\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 65"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Affordability is Santa Clara's greatest concern. I've been both tenant and homeowner. My priorities: Housing options, lower utility bills, and city fees while maintaining high quality service."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My governance style. Engagement, respect, and decency. When we miss the mark, we acknowledge it and apologize. Courtesy should not have to compete with disdain."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a teacher at Wilcox High for over 18 years, I originated the Computer Science Program, co-founded and coach the internationally recognized Robotics Team. I also play organ at my Spanish-speaking church."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Code.org founder Hadi Partovi nominated me to President Obama's 2015 White House Champions of Change."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I've lived in Santa Clara for 40 years and served on the Planning and Historical Commissions over 13 years. Currently eight years on City Council and serve as Vice Chair of the Bay Area Water Supply and Conservation Agency."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I don't accept PAC or special interest money. Visit karenhardy.net Please check the box: Karen Hardy, Mayor."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3795_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "David Kertes",
+      "statement": {
+        "by": "David Kertes",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Senior Sales Director\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 55"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a longtime Santa Clara resident, husband, father, coach, and business leader, I believe our city's best days are still ahead. We need leadership that puts residents first and focuses on the issues that matter most to our families."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Clara deserves safe neighborhoods, well-maintained infrastructure, outstanding police and fire services, vibrant parks, community events in all districts, and expanded opportunities for children, seniors, and families. As a youth coach with West Side Little League and Santa Clara Youth Soccer, I have seen firsthand how investing in our young people strengthens our entire community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring integrity, accountability, and sound financial management to City Hall. Working together through transparency, respectful debate, and long-term planning, we can build a stronger future while protecting the quality of life that makes Santa Clara such a special place to call home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I appreciate the contributions many major businesses bring to our community, but the Mayor's responsibility is to put Santa Clara residents first. Every decision should reflect the interests of the people who live here, not outside influences or special interests."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we can move Santa Clara forward. I respectfully ask for your vote. Please visit www.DavidKertesForMayor.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3796_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Kathy Watanabe",
+      "statement": {
+        "by": "Kathy Watanabe",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " School Board Trustee\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 66"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Santa Clara resident for 21 years, I am committed to our City's future. I have a proven record of leadership as a former Santa Clara City Councilmember and Library Trustee and now a Santa Clara Unified School District Board Trustee. Bringing people together, solving problems and serving our community has been my focus."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my service on the City Council and School Board, I strengthened public safety, supported students and families, improved quality of life and promoted fiscal responsibility. As a Library Trustee, I lead the community effort bringing the Northside Library to a reality expanding access to educational resources and community services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priority as Mayor will be to strengthen our local economy, support responsible redevelopment, attract quality businesses and ensure growth pays for infrastructure and city services. I support innovative programs like worker cooperative models that help local small businesses succeed."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Under my leadership, we will invest in parks, libraries, youth and senior programs, restore resident leadership programs and expand opportunities for residents of all ages to serve Santa Clara. I will lead with integrity, accountability, transparency, fiscal responsibility and thoughtful planning."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3797_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Mike Wiltberger",
+      "statement": {
+        "by": "Mike Wiltberger",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Research Scientist/Entrepreneur"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I moved to Santa Clara in 1985 and quickly found a community that felt like home. I've learned through building businesses that lasting success is built on strong communities and growing something the right way. Owning one of Santa Clara's historic homes and building medical technology companies that improve lives around the world has given me a deep appreciation for both preserving what matters and creating what comes next. I believe we can protect Santa Clara's hometown spirit while fostering the innovation that makes Silicon Valley extraordinary. I will work tirelessly and transparently to maintain our unique place in the world as a steward of advanced technology without sacrificing our city's character and quality of life. To accomplish this, I will focus on restoring fiscal responsibility, rebuilding our historic downtown, attracting new retail and restaurants to create local jobs, investing in critical infrastructure, and prioritizing the ideas and concerns of Santa Clara residents in every decision. With a clear plan and a commitment to putting our community first, I am ready to lead our city forward. I would be honored to earn your vote and serve as your next mayor of Santa Clara."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mike For Mayor"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more information, please visit https://mikeformayor26.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3798_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Kevin Park",
+      "statement": {
+        "by": "Kevin Park",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " City of Santa Clara Council Member, District 4"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a working-class father of a grade school student and the son of immigrants, I understand the need for representation in government. As a councilmember I have fought to manage costs, maintain infrastructure, increase privacy and safety, and improve projects to help enhance our neighborhoods, always representing the people, not special interests or money."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As mayor I will promote local businesses, basic infrastructure, supportive services, individual rights, and the sanctity of all communities. I will refocus on the needs of residents so we do not continue to lose assets like our Downtown, Great America, the International Swim Center, and commercial services that made our city a leader in growth."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As City spokesperson I will cultivate civility and teamwork. I listen to, and am responsible to, the people. Together we will renew the promise of Santa Clara. We will restore vision in development. We will ensure fiscal responsibility and reduce expenditures. We will preserve and expand City resources like our Senior Center, libraries, pools, and parks. Future generations in Santa Clara will have room to grow and reasons to stay."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Let us realize the billion-dollar city that we are, the Center of What is Possible, in the Valley of Heart's Delight."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.KevinPark.net"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3799_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Armando \"Gary\" Ferraris",
+      "statement": {
+        "by": "Armando \"Gary\" Ferraris",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Union Representative\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 59"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For over a decade, I served Santa Clara as a Public Works Supervisor and union leader─maintaining our infrastructure, negotiating fair contracts, and delivering the essential services residents rely on every day. As a retired Santa Clara Public Works Supervisor and labor leader, I have firsthand experience managing budgets responsibly. I'll deliver results for our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As Mayor, I'll protect taxpayer dollars and invest in our roads, facilities, and infrastructure before small problems become costly emergencies. I'll ensure our police, fire, and emergency services have the resources they need to keep our neighborhoods safe, and that Santa Clara has the skilled workforce required to deliver reliable, high-quality public services."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'll support thoughtful growth that strengthens our community while preserving the quality of life that makes Santa Clara a great place to live, work, and raise a family─investing in our parks, libraries, streets, and neighborhoods, and rebuilding trust through honest, transparent, and accountable leadership."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Together, we will build a stronger, safer, more connected Santa Clara. I'd be honored to earn your vote. GaryFerrarisForMayor.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3800_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "West Valley-Mission Community College District Board, Trustee Area 7",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:01Z",
+  "candidates": [
+    {
+      "choice": "Doug Robb",
+      "statement": {
+        "by": "Doug Robb",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " College Professor\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 66"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My name is Doug Robb and I am running for the Board of Trustees of the West Valley-Mission Community College District (WVMCCD), Area 7. I am a product of the California Community College System, first as a student at College of San Mateo and then as a professor at San Jose City College for 32 years. I bring a unique perspective to WVMCCD, from my experience as a professor, the Head Baseball Coach, and a member of the Academic Senate and other college committees."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "With its abundant resources and outstanding faculty and staff, WVMCCD is well position to serve all its students and the community. Students come from diverse experiences but share a common desire for a quality education that will set them up for future success. Students deserve convenient access to an enriching college experience."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will work hard to ensure that WVMCCD students receive a high-quality education and the opportunity to study a major that is right for them. The district should offer classes that students want and need, while using a practical and flexible structure to address enrollment issues quickly. I am committed to eliminating barriers so that students can complete their goals on time."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3658_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Susan Oster Fish",
+      "statement": {
+        "by": "Susan Oster Fish",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Registered Nurse/Healthcare Advocate"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As your Trustee since 2016, I am happy to report that faculty, staff and students at West Valley-Mission Community College District are thriving! Responsible fiscal stewardship earns our district a AAA bond rating. Competitive pay and benefits retain talented professionals. Thoughtful facilities planning delivers beautiful, efficient learning spaces, with more under construction. Targeted programs and community outreach have our enrollment growing."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have worked hard to allocate resources wisely to remove barriers to student success. WVM offers free tuition, childcare, parking, healthcare, and nutritious meals—assistance that enables all students to achieve their educational goals. There are challenges, particularly with expansion of AI. WVM is well positioned to meet these challenges and continue offering our students viable skills, job opportunities and career advancement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am a proud West Valley College graduate, as are my two girls. My late husband taught Chemistry there for 26 years. For us, West Valley is truly home. Quality education we experienced there allowed us to achieve lifetime dreams and goals. I am proud of my accomplishments on the Board, and there is much more good work to do. I would be honored to receive your vote, allowing me to continue serving our students and community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at https://susanfish.org"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3659_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

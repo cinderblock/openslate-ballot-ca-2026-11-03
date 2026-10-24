@@ -1,0 +1,262 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Mountain View Whisman School District Board",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:21Z",
+  "candidates": [
+    {
+      "choice": "Devon Conley",
+      "statement": {
+        "by": "Devon Conley",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member, Mountain View Whisman School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Serving our students and community as a member of the Mountain View Whisman School Board for nearly eight years has been a true honor. I am running for re-election to continue the work we've started, with a focus on improving outcomes and opportunities for all students, supporting our teachers in the classroom, and strengthening community partnerships."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Since I was first elected in 2018, we have: promoted student learning by implementing a new literacy curriculum and creating an award winning literacy intervention program; supported our teachers by consistently raising teacher salaries and completing an innovative workforce housing project; strengthened community partnerships by making our school fields open as parks outside school hours through a new agreement with the City of Mountain View; and, strengthened district leadership and stewardship by hiring a new Superintendent, implementing fiscal reforms to ensure every dollar counts for students, and conducting a systems analysis to sharpen our focus on student learning."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I envision a district where every student thrives. I look forward to ensuring top-tier classroom instruction with a new strategic plan, supporting teachers through deeper collaboration on standards, assessment, and instruction, and building stronger partnerships with our community."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Learn more at www.devonconley.com."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3717_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "William Lambert",
+      "statement": {
+        "by": "William Lambert",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Incumbent/Attorney"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Mountain View Whisman is home to one of the most diverse student bodies in the Bay Area. Every child, whatever their starting point, deserves to be challenged, supported, and prepared for what comes next."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I have served this district since 2012 in many ways, including as Trustee through 2016, and again since 2022. The current board inherited real challenges from prior leadership, and we now have new leadership in place. Progress is real; the work has just started."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My commitment is straightforward: every student leaving 8th grade should be academically prepared to pursue a college-preparatory path—not because every student will, but because every student should be able to choose it. As a district and community we must commit to high expectations for all students."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Targeted support for our students cannot be viewed as remediation. It is the bridge to grade-level instruction. Serving our most vulnerable learners well and challenging every other student cannot be competing priorities. Both are imperative."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every dollar must reach the classroom in the hands of teachers who believe in the intrinsic value of every child."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring a scientist's rigor and a lawyer's thoughtfulness to this work. I ask for your continued trust."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3718_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Sundar Subbarayan",
+      "statement": {
+        "by": "Sundar Subbarayan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Retired Tech Executive\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 56"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Public education has been a driving force in both my career and personal life. As a VP at Khan Academy, I led implementation of Khan Academy in MVWSD, LASD, and 200 plus schools across the country. Today, I mentor and tutor students in MVLA and LASD schools, serve as an AVID mentor at LAHS, and am a member of the MVWSD Al Committee. My wife, Purnima, and I have two children who attended MVWSD and MVLA schools, and I spent many years volunteering in their classrooms."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I hold a BS in Engineering from IIT Bombay, an MS in Computer Science from the University of California, and an MBA from Carnegie Mellon. After a 30 year career in technology, most recently as an executive at Microsoft, I retired to devote more time to education and community service. I am also a triathlete who enjoys hiking, skiing, and cooking. I live by the motto, \"Consistently Good is Better than Occasionally Great.\""
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "If elected, I will focus on three commitments: exceptional educational outcomes for every student, fiscal discipline that ensures every dollar is invested wisely, and community partnerships built on regular engagement so every voice is heard."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Every Student. Every Dollar. Every Voice."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3719_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Quintin Riis",
+      "statement": {
+        "by": "Quintin Riis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Father/Systems Administrator\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 41"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Mountain View Whisman School District Board because our schools need leadership that listens to parents, respects the community, and puts students first."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a parent in this district, I believe families deserve a meaningful voice in decisions affecting their children. The Board should actively seek community feedback, communicate openly, and make sure parents are heard before major decisions are made."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "MVWSD has a history of wasting taxpayer money. I will push for greater fiscal responsibility, transparency, and accountability. Every dollar should be carefully evaluated and prioritized for the direct benefit of students. We should eliminate unnecessary spending and closely scrutinize expensive consultants and outside contracts to ensure they provide real value."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I also believe in a well-rounded education that supports the whole child. Students deserve regular physical education, art, music, and hands-on learning such as shop classes in junior high. Schools should also promote healthy living through nutritious school lunches without excessive added sugar and meaningful opportunities for physical activity."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will bring a parent's perspective, ask difficult questions, listen to community feedback, and advocate for responsible decisions that improve our schools."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3720_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

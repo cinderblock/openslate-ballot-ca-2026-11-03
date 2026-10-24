@@ -1,0 +1,91 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sunnyvale City Council, District 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/sunnyvale",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:52Z",
+  "candidates": [
+    {
+      "choice": "Murali Srinivasan",
+      "statement": {
+        "by": "Murali Srinivasan",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Incumbent/Engineer/Entrepreneur"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 25 years, I have proudly called Sunnyvale home and have been honored to serve our community as a volunteer, public servant, and your District 3 Councilmember. My priorities have always been keeping our neighborhoods safe, managing taxpayer dollars responsibly, improving quality of life, and accountable government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I currently serve as Chair of the Valley Water Commission and Chair of the Finance and Administration Committee of Silicon Valley Clean Energy. I represent Sunnyvale on the Information Technology Committee of the National League of Cities, helping shape policy discussions on AI, cybersecurity and emerging technologies in local government."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I founded Sunnyvale Youth Advisory to inspire students through community service and civic engagement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "In 2021, I was honored to be named Sunnyvale's Distinguished Resident."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a technology executive and entrepreneur who has led four startup companies, with master's degrees from Virginia Tech and Stanford University, I bring leadership to solving Sunnyvale's challenges."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I will continue promoting transparency, data-driven decision-making, responsible fiscal management, and greater resident engagement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I respectfully ask for your vote so we can continue building a safe, fiscally strong, innovative, and exceptional Sunnyvale together."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Please visit www.Murali4Sunnyvale.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3810_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Palo Alto — Measure J (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/palo-alto",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:59Z",
+  "about": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "City of Palo Alto Community Safety/Services Measure. To provide general city services including repairing Cubberley Community Center for current safety, earthquake, accessibility standards; upgrading deteriorating electrical systems, wiring, plumbing; acquiring outdoor space/sites; maintaining streets, safe, clean downtown/commercial cores; preparing for natural disasters; repairing deteriorating community spaces, libraries, shall City of Palo Alto's measure enacting a 0.5% (1/2¢) sales tax, providing approximately $15,600,000 annually until ended by voters, with published financial audits, all funds used locally, be adopted?"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json"
+  },
+  "means": {
+    "Yes": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"yes\" vote is a vote to approve a 0.5% increase to the transactions and use tax (commonly known as a sales tax) within the City."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json"
+    },
+    "No": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "A \"no\" vote is a vote not to approve the increase to the transactions and use tax."
+          ]
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json"
+    }
+  },
+  "analysis": {
+    "title": "Impartial Analysis",
+    "by": "City Attorney",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "Measure J, the City of Palo Alto Community Safety/Services Measure, would authorize a 0.5% (one-half of one percent) increase to the transactions and use tax (commonly known as a sales tax) in the City of Palo Alto. The Palo Alto City Council placed this measure on the ballot by unanimous vote. This measure requires approval by a simple majority of voters voting on the measure and will remain in effect unless it is repealed by the voters. The City estimates that this measure will generate revenues of approximately $15.6 million per year."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure J is a general tax, meaning that proceeds of the tax will be deposited in the City's general fund and can be used for any lawful governmental purpose. In June 2026, the City Council passed a resolution adopting advisory spending guidelines that stated the Council's intention to use the proceeds to purchase seven-acres of the Cubberley Community Center from the Palo Alto Unified School District. The advisory spending guidelines also state Council's intention to modernize the Cubberley Community Center. The plan includes renovation of some existing buildings, new construction, and new outdoor park spaces."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved, the new sales tax rate would become effective in April 2027."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure J changes nothing else about the local sales tax. What items are taxable, the method of collection, implementation, exemptions, and other provisions would remain unchanged."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If this measure does not pass, the local sales tax will not increase by the 0.5% proposed in this measure, and the City of Palo Alto will not receive an estimated $15.6 million in revenue per year from the tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "/s/ Christopher D. Jensen\nCity Attorney\nCity of Palo Alto"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json"
+  },
+  "fullText": {
+    "title": "Complete text of Measure J",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "ORDINANCE NO._"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "AN ORDINANCE OF THE CITY OF PALO ALTO IMPOSING A TRANSACTIONS AND USE TAX TO BE ADMINISTERED BY THE CALIFORNIA DEPARTMENT OF TAX AND FEE ADMINISTRATION"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "THE PEOPLE OF THE CITY OF PALO ALTO DO ORDAIN AS FOLLOWS, which shall be codified as Palo Alto Municipal Code Chapter 2.38:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 1. 2.38.010 TITLE. This chapter shall be known as the 2026 Transactions and Use Tax Ordinance. The City of Palo Alto hereinafter shall be called \"City.\" This Chapter shall be applicable in the incorporated territory of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 2. 2.38.020 OPERATIVE DATE. \"Operative Date\" means the first day of the first calendar quarter commencing more than 110 days after the adoption of this ordinance. For purposes of Revenue and Taxation Code section 7265, this Chapter shall be considered adopted on the date of the election in which it is approved by the qualified voters of the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 3. 2.38.030 PURPOSE. This Chapter is adopted to achieve the following, among other purposes, and directs that the provisions hereof be interpreted in order to accomplish those purposes:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. To impose a retail transactions and use tax in accordance with the provisions of Part 1.6 (commencing with Section 7251) of Division 2 of the Revenue and Taxation Code and Section 7285.9 of Part 1.7 of Division 2 which authorizes the City to adopt this tax ordinance which shall be operative if a majority of the electors voting on the measure vote to approve the imposition of the tax at an election called for that purpose."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. To adopt a retail transactions and use tax ordinance that incorporates provisions identical to those of the Sales and Use Tax Law of the State of California insofar as those provisions are not inconsistent with the requirements and limitations contained in Part 1.6 of Division 2 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. To adopt a retail transactions and use tax ordinance that imposes a tax and provides a measure therefore that can be administered and collected by the California Department of Tax and Fee Administration in a manner that adapts itself as fully as practicable to, and requires the least possible deviation from, the existing statutory and administrative procedures followed by the California Department of Tax and Fee Administration in administering and collecting the California State Sales and Use Taxes."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. To adopt a retail transactions and use tax ordinance that can be administered in a manner that will be, to the greatest degree possible, consistent with the provisions of Part 1.6 of Division 2 of the Revenue and Taxation Code, minimize the cost of collecting the transactions and use taxes, and at the same time, minimize the burden of record keeping upon persons subject to taxation under the provisions of this ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 4. 2.38.040 CONTRACT WITH STATE. Prior to the operative date, the City shall contract with the California Department of Tax and Fee Administration to perform all functions incident to the administration and operation of this Chapter; provided, that if the City shall not have contracted with the California Department of Tax and Fee Administration prior to the operative date, it shall nevertheless so contract and in such a case the operative date shall be the first day of the first calendar quarter following the execution of such a contract."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 5. 2.38.050 TRANSACTIONS TAX RATE. For the privilege of selling tangible personal property at retail, a tax is hereby imposed upon all retailers in the incorporated territory of the City at the rate of 0.5% of the gross receipts of any retailer from the sale of all tangible personal property sold at retail in said territory on and after the operative date of this Chapter. If imposition of this tax at a rate of 0.5% of gross receipts would cause the limit established in section 7251.1 of the Revenue and Taxation Code to be exceeded, then the tax shall be applied at the maximum rate possible to comply with the limit established in section 7251.1 of the Revenue and Taxation Code until such time that the tax can be applied at a rate of 0.5% of gross receipts and comply with the limit established in section 7251.1 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 6. 2.38.060 PLACE OF SALE. For the purposes of this Chapter, all retail sales are consummated at the place of business of the retailer unless the tangible personal property sold is delivered by the retailer or his agent to an out-of-state destination or to a common carrier for delivery to an out-of-state destination. The gross receipts from such sales shall include delivery charges, when such charges are subject to the state sales and use tax, regardless of the place to which delivery is made. In the event a retailer has no permanent place of business in the State or has more than one place of business, the place or places at which the retail sales are consummated shall be determined under rules and regulations to be prescribed and adopted by the California Department of Tax and Fee Administration."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 7. 2.38.070 USE TAX RATE. An excise tax is hereby imposed on the storage, use or other consumption in the City of tangible personal property purchased from any retailer on and after the operative date of this Chapter for storage, use or other consumption in said territory at the rate of 0.5% of the sales price of the property. The sales price shall include delivery charges when such charges are subject to state sales or use tax regardless of the place to which delivery is made. If imposition of this tax at a rate of 0.5% of the sales price of property would cause the limit established in section 7251.1 of the Revenue and Taxation Code to be exceeded, then the tax shall be applied at the maximum rate possible to comply with the limit established in section 7251.1 of the Revenue and Taxation Code until such time that the tax can be applied at a rate of 0.5% of the sales price of property and comply with the limit established in section 7251.1 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 8. 2.38.080 ADOPTION OF PROVISIONS OF STATE LAW. Except as otherwise provided in this Chapter and except insofar as they are inconsistent with the provisions of Part 1.6 of Division 2 of the Revenue and Taxation Code, all of the provisions of Part 1 (commencing with Section 6001) of Division 2 of the Revenue and Taxation Code are hereby adopted and made a part of this Chapter as though fully set forth herein."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 9. 2.38.090 LIMITATIONS ON ADOPTION OF STATE LAW AND COLLECTION OF USE TAXES. In adopting the provisions of Part 1 of Division 2 of the Revenue and Taxation Code:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. Wherever the State of California is named or referred to as the taxing agency, the name of this City shall be substituted therefor. However, the substitution shall not be made when:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The word \"State\" is used as a part of the title of the State Controller, State Treasurer, State Treasury, or the Constitution of the State of California;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. The result of that substitution would require action to be taken by or against this City or any agency, officer, or employee thereof rather than by or against the California Department of Tax and Fee Administration, in performing the functions incident to the administration or operation of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. In those sections, including, but not necessarily limited to sections referring to the exterior boundaries of the State of California, where the result of the substitution would be to:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a. Provide an exemption from this tax with respect to certain sales, storage, use or other consumption of tangible personal property which would not otherwise be exempt from this tax while such sales, storage, use or other consumption remain subject to tax by the State under the provisions of Part 1 of Division 2 of the Revenue and Taxation Code, or;"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b. Impose this tax with respect to certain sales, storage, use or other consumption of tangible personal property which would not be subject to tax by the state under the said provision of that code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. In Sections 6701, 6702 (except in the last sentence thereof), 6711, 6715, 6737, 6797 or 6828 of the Revenue and Taxation Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. The word \"City\" shall be substituted for the word \"State\" in the phrase \"retailer engaged in business in this State\" in Section 6203 and in the definition of that phrase in Section 6203."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. \"A retailer engaged in business in the District\" shall also include any retailer that, in the preceding calendar year or the current calendar year, has total combined sales of tangible personal property in this state or for delivery in the State by the retailer and all persons related to the retailer that exceeds five hundred thousand dollars ($500,000). For purposes of this section, a person is related to another person if both persons are related to each other pursuant to Section 267(b) of Title 26 of the United States Code and the regulations thereunder."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 10. 2.38.100 PERMIT NOT REQUIRED. If a seller's permit has been issued to a retailer under Section 6067 of the Revenue and Taxation Code, an additional transactor's permit shall not be required by this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 11. 2.38.110 EXEMPTIONS AND EXCLUSIONS."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A. There shall be excluded from the measure of the transactions tax and the use tax the amount of any sales tax or use tax imposed by the State of California or by any city, city and county, or county pursuant to the Bradley-Burns Uniform Local Sales and Use Tax Law or the amount of any state-administered transactions or use tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "B. There are exempted from the computation of the amount of transactions tax the gross receipts from:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. Sales of tangible personal property, other than fuel or petroleum products, to operators of aircraft to be used or consumed principally outside the county in which the sale is made and directly and exclusively in the use of such aircraft as common carriers of persons or property under the authority of the laws of this State, the United States, or any foreign government."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Sales of property to be used outside the City which is shipped to a point outside the City, pursuant to the contract of sale, by delivery to such point by the retailer or his agent, or by delivery by the retailer to a carrier for shipment to a consignee at such point. For the purposes of this paragraph, delivery to a point outside the City shall be satisfied:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "a. With respect to vehicles (other than commercial vehicles) subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division 3 of the Vehicle Code, aircraft licensed in compliance with Section 21411 of the Public Utilities Code, and undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the Vehicle Code by registration to an out-of-City address and by a declaration under penalty of perjury, signed by the buyer, stating that such address is, in fact, his or her principal place of residence; and"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "b. With respect to commercial vehicles, by registration to a place of business out-of-City and declaration under penalty of perjury, signed by the buyer, that the vehicle will be operated from that address."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. The sale of tangible personal property if the seller is obligated to furnish the property for a fixed price pursuant to a contract entered into prior to the operative date of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. A lease of tangible personal property which is a continuing sale of such property, for any period of time for which the lessor is obligated to lease the property for an amount fixed by the lease prior to the operative date of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. For the purposes of subparagraphs (3) and (4) of this section, the sale or lease of tangible personal property shall be deemed not to be obligated pursuant to a contract or lease for any period of time for which any party to the contract or lease has the unconditional right to terminate the contract or lease upon notice, whether or not such right is exercised."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "C. There are exempted from the use tax imposed by this Chapter, the storage, use or other consumption in this City of tangible personal property:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "1. The gross receipts from the sale of which have been subject to a transactions tax under any state-administered transactions and use tax ordinance."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "2. Other than fuel or petroleum products purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this State, the United States, or any foreign government. This exemption is in addition to the exemptions provided in Sections 6366 and 6366.1 of the Revenue and Taxation Code of the State of California."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "3. If the purchaser is obligated to purchase the property for a fixed price pursuant to a contract entered into prior to the operative date of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4. If the possession of, or the exercise of any right or power over, the tangible personal property arises under a lease which is a continuing purchase of such property for any period of time for which the lessee is obligated to lease the property for an amount fixed by a lease prior to the operative date of this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "5. For the purposes of subparagraphs (3) and (4) of this section, storage, use, or other consumption, or possession of, or exercise of any right or power over, tangible personal property shall be deemed not to be obligated pursuant to a contract or lease for any period of time for which any party to the contract or lease has the unconditional right to terminate the contract or lease upon notice, whether or not such right is exercised."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "6. Except as provided in subparagraph (7), a retailer engaged in business in the City shall not be required to collect use tax from the purchaser of tangible personal property, unless the retailer ships or delivers the property into the City or participates within the City in making the sale of the property, including, but not limited to, soliciting or receiving the order, either directly or indirectly, at a place of business of the retailer in the City or through any representative, agent, canvasser, solicitor, subsidiary, or person in the City under the authority of the retailer."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "7. \"A retailer engaged in business in the City\" shall also include any retailer of any of the following: vehicles subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division 3 of the Vehicle Code, aircraft licensed in compliance with Section 21411 of the Public Utilities Code, or undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the Vehicle Code. That retailer shall be required to collect use tax from any purchaser who registers or licenses the vehicle, vessel, or aircraft at an address in the City."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "D. Any person subject to use tax under this Chapter may credit against that tax any transactions tax or reimbursement for transactions tax paid to a district imposing, or retailer liable for a transactions tax pursuant to Part 1.6 of Division 2 of the Revenue and Taxation Code with respect to the sale to the person of the property the storage, use or other consumption of which is subject to the use tax."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 12. 2.38.120 AMENDMENTS. All amendments subsequent to the effective date of this Chapter to Part 1 of Division 2 of the Revenue and Taxation Code relating to sales and use taxes and which are not inconsistent with Part 1.6 and Part 1.7 of Division 2 of the Revenue and Taxation Code, and all amendments to Part 1.6 and Part 1.7 of Division 2 of the Revenue and Taxation Code, shall automatically become a part of this Chapter, provided however, that no such amendment shall operate so as to affect the rate of tax imposed by this Chapter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 13. 2.38.130 ENJOINING COLLECTION FORBIDDEN. No injunction or writ of mandate or other legal or equitable process shall issue in any suit, action or proceeding in any court against the State or the City, or against any officer of the State or the City, to prevent or enjoin the collection under this Chapter, or Part 1.6 of Division 2 of the Revenue and Taxation Code, of any tax or any amount of tax required to be collected."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 14. 2.38.140 SEVERABILITY. If any provision of this Chapter or the application thereof to any person or circumstance is held invalid, the remainder of the Chapter and the application of such provision to other persons or circumstances shall not be affected thereby."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 15. 2.38.150 EFFECTIVE DATE. This Chapter relates to the levying and collecting of the City transactions and use taxes and shall take effect immediately."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 16. 2.38.160 TERMINATION DATE. The authority to levy the tax imposed by this Chapter shall expire when repealed by the voters of the City of Palo Alto."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Section 17 (to be uncodified). EXECUTION. The City Clerk and the Mayor are hereby authorized to attest to the adoption of this Ordinance by the voters of the City by signing where indicated below."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "I hereby certify that the foregoing Ordinance was APPROVED by the People of the City of Palo Alto voting in the election on November 3, 2026."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "ATTEST:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "_______________________\nCity Clerk"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "____________________\nMayor"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "APPROVED AS TO FORM:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "________________________\nCity Attorney or designee"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "____________________\nCity Manager"
+        ]
+      }
+    ],
+    "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json"
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote Yes on Measure J—an affordable solution for a better Palo Alto!"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Cubberley Community Center has been a valuable community asset for decades. Yet it is run-down and the City has been unable to invest in its real potential because we haven't owned the land. For the first time, PAUSD offered to sell the land, enabling Cubberley to become the outstanding community center it can be, benefiting all while we anticipate large housing growth."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Our community brings together all its diverse parts. Affordable, accessible community spaces, childcare, and activities for families and individuals of all ages, cultures, and income levels to enjoy are critical."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The Cubberley Community Center is over 70 years old, has failing plumbing and electrical systems, and doesn't meet modern disability access or earthquake standards."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure J enables the City to buy the land, cost-effectively renovate buildings, and leverage partnerships with organizations willing to invest millions in major upgrades in recreation, performing arts, and programs for all ages and cultures."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Yes on J will:"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Enable purchase of the 7 acres of buildings owned by PAUSD"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Repair electrical, plumbing, and outdated facilities"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Make upgrades to meet earthquake, accessibility and safety standards"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Enhance greenery and outdoor spaces"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Expand recreation, performing arts, skill-building, affordable childcare, outdoor education, and senior and cultural programming"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Cost Effective & Local Benefits"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "type": "p",
+                "text": [
+                  "100% of Measure J funds stay local; cannot be touched by State or Federal Government"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Lower-cost renovations of existing buildings"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Leverage resources of community partners"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "40% of Measure J sales-tax is paid by nonresidents"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "PAUSD receives funds for schools"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "100% of the revenue will be spent locally to benefit our community"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Essentials like groceries and prescription medicine are tax-exempt"
+                ]
+              }
+            ],
+            [
+              {
+                "type": "p",
+                "text": [
+                  "Subject to independent financial audits"
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Join trusted local leaders and vote ",
+            {
+              "strong": [
+                "Yes on Measure J!"
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Joseph Penko",
+          "title": "President Palo Alto Professional Firefighters"
+        },
+        {
+          "name": "Georgiana Kuhlmann",
+          "title": "Secretary, Palo Alto Community Child Care"
+        },
+        {
+          "name": "Mora Oommen",
+          "title": "Executive Director, Youth Community Service"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "THE ARGUMENT FOR RAISING THE SALES TAX TO 10.25% IS DELIBERATELY DECEPTIVE."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The Argument pretends the money raised by increasing the sales tax is specifically earmarked for Cubberley. NOT TRUE."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It is a general tax. City Hall can spend the money on anything. Measure J hands the City a blank check."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Why should taxpayers pay $65.5 million to transfer LAND WE ALREADY OWN from the School District to the City itself? The Argument in Favor offers no explanation."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Instead, it is stuffed with unsupported assertions (e.g., renovations will be \"lower-cost\") and misleading statements (e.g., it implies the Measure specifically exempts prescription drugs...but they're already tax exempt)."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "More generally, it paints a sophomorically utopian picture of a future Cubberley that is all things to all people and where money is no object."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "If the supporters of Measure J were genuinely interested only in purchasing the Cubberley property and refurbishing it, they would have proposed a one-time bond issue to raise the money, not a forever sales tax the proceeds from which can be used for any purpose."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Palo Alto, with only 67,000 people, has an annual budget of $1.4 BILLION! Our City needs more common sense. What it doesn't need is a new forever sales tax that will take the tax rate up to 10.25%."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Ask yourself: How much do you want a sandwich in this town to cost?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Vote No on Measure J."
+              ]
+            }
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark W.A. Hinkle",
+          "title": "President, Silicon Valley Taxpayers Association"
+        },
+        {
+          "name": "Lydia Kou",
+          "title": "Former Mayor of Palo Alto"
+        },
+        {
+          "name": "Jeanne Fleming",
+          "title": "Co-Founder, United Neighbors of Palo Alto"
+        },
+        {
+          "name": "Christopher M. Robell",
+          "title": "Former-Vice Chair, Community College District Citizens Bond Oversight Committee"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "No",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "VOTE NO ON THIS DISHONEST MEASURE"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "This Measure is an attempt to manipulate voters into approving a tax increase the purpose of which the City knows most Palo Altans don't support."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "When pressed by reporters, Councilmember Pat Burt acknowledged that the real purpose of the sales tax increase is to enable the City to pay the Palo Alto School District $65.5 million to purchase the land at Cubberley."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Why doesn't the Measure state this? Because, as City Staff has acknowledged, buying the land didn't poll well when they surveyed residents. In other words, this is a bait and switch, driven by polling data."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The two-thirds of surveyed residents who said they opposed the land purchase were right."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Why should taxpayers, who already fund ",
+            {
+              "strong": [
+                "both"
+              ]
+            },
+            " the City and the School District, pay ",
+            {
+              "strong": [
+                "$65.5 million more"
+              ]
+            },
+            " to move public money from one to the other?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "We don't even know how the $65.5 million price for the property was determined"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "It was established behind closed doors. City Hall refuses even to provide an appraisal of the property."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "There is no separate cookie jar at City Hall for the tens of millions this tax increase would raise"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The money can be used for anything. Maybe that's developing Cubberley, maybe that's installing a luxe gym on the executive floor of City Hall."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "The proposed tax increase is ",
+                {
+                  "em": [
+                    "permanent"
+                  ]
+                }
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Why permanent, when the land purchase is a one-time expense?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "And why a regressive sales tax hike which would hit lower-income families hardest?"
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            {
+              "strong": [
+                "Both the ",
+                {
+                  "em": [
+                    "Daily Post's"
+                  ]
+                },
+                " editor and the ",
+                {
+                  "em": [
+                    "Weekly's"
+                  ]
+                },
+                " government watchdog strongly oppose this Measure"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Please reject Measure J."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Mark W.A. Hinkle",
+          "title": "President: Silicon Valley Taxpayers Association"
+        },
+        {
+          "name": "Lydia Kou",
+          "title": "Former Mayor of Palo Alto"
+        },
+        {
+          "name": "Jeanne Fleming",
+          "title": "Co-Founder, United Neighbors of Palo Alto"
+        },
+        {
+          "name": "A.J. Robell",
+          "title": "Retired Small Business Owner"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    },
+    {
+      "side": "Yes",
+      "rebuttal": true,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Measure J gives us a once-in-a-generation opportunity to secure Cubberley's future by acquiring the land containing PAUSD's Cubberley buildings and modernizing the Center."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "PAUSD and the City are separate entities with separate budgets. PAUSD determined it doesn't need its Cubberley buildings for a future school and agreed to sell the City that land. The parties negotiated a sale based on \"fair market value\" as state law requires. Once assets are exchanged, our City will own the land and will partner with community organizations to co-fund renovations and improvements to the Center."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "By law, 100% of Measure J funds stay in Palo Alto and cannot be taken by the State or Federal government. Opponents try to raise doubts about fiscal responsibility, but the facts are clear: these funds are protected for local use and are subject to strong accountability and public oversight. And, because non-residents shop in Palo Alto, visitors will pay 40% of the sales tax."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Measure J will revitalize aging Cubberley, restoring a vibrant and welcoming space to meet current and future needs with functional, affordable, accessible community spaces for childcare, recreation, education, and the arts for people of all backgrounds, ages, and abilities to enjoy."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "We can't rely on the State or Federal government to fix our problems. For a stronger city, we need to act locally. Our community has demanded real improvements to Cubberley for decades. This is our opportunity to make it happen."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "The choice is clear: Let's put community first—vote Yes on J."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Lanie Wheeler",
+          "title": "Co-Chair, First Cubberley Citizens Advisory Committee"
+        },
+        {
+          "name": "Tom Culbertson",
+          "title": "President, Palo Alto Educators Association (PAEA)"
+        },
+        {
+          "name": "Karen Holman",
+          "title": "Former Mayor of Palo Alto"
+        },
+        {
+          "name": "Joseph Penko",
+          "title": "President, Palo Alto Professional Firefighters"
+        },
+        {
+          "name": "Penny Ellson",
+          "title": "Palo Alto Resident"
+        }
+      ],
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json",
+      "disclaimer": "Arguments in support of or in opposition to proposed measures are the opinions of the authors and have not been checked for accuracy by any official agency."
+    }
+  ]
+}

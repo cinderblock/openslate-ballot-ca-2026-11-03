@@ -1,0 +1,110 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Side Union High School District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:10Z",
+  "candidates": [
+    {
+      "choice": "Lorena Chavez",
+      "statement": {
+        "by": "Lorena Chavez",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member, East Side Union High School District"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I'm a teacher, principal, mom, proud graduate of East Side Union High School District, and serve as your Trustee. I'm running for re-election because I believe every student deserves an excellent public education and the opportunity to reach their full potential."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "During my eight years on the Board, I've worked to keep our schools safe, expand mental health supports, strengthen college and career pathways, and secure more than $10 million to expand digital access, bringing free internet to 300,000 people. We also expanded dual enrollment, so more students can earn college credit in high school, reduce college costs, and graduate better prepared for college, careers, and life."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As the daughter of immigrants, I watched my parents work tirelessly to give my brothers and me opportunities they could only dream of. One teacher believed in me, challenged me, and changed my life. I became the first in my family to graduate from college, earning two bachelor's degrees from UC Davis, and came home to East San José to serve the community that shaped me."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I remain committed to keeping our schools safe, academically strong, and preparing every student for success. Thank you for your vote."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.ReElectLorenaChavez.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3686_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Tony Lam",
+      "statement": {
+        "by": "Tony Lam",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Business Owner"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong San Josean, proud Piedmont Hills alumnus, and committed volunteer, I am running for the East Side Union High School District School Board to bring community roots and a common sense approach to our schools. As a father of two, including a child with special needs, this mission is deeply personal. I see the challenges firsthand because I am the Only candidate in this race who currently sends their child to a school in East Side Union High School District. Our district faces massive structural budget challenges and a heavy deficit with no clear plan from current leadership. I am a local business owner, not a career politician. For more than 20 years, I've managed multi-million dollar budgets and employed over 150 people. I will bring this financial discipline to audit administrative bloat, ensuring your public tax dollars directly support students and classrooms, not bureaucracy. I am proud to be the Only candidate endorsed by our teachers, the East Side Teachers Association. I am the Only candidate they have confidence in to support our students and our schools. Our community deserves true accountability to the public. Join us at tonylam.org and together we can deliver results for the next generation."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3687_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

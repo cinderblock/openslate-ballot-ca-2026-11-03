@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "West Valley-Mission Community College District Board, Trustee Area 3",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:00Z",
+  "candidates": [
+    {
+      "choice": "Anne J. Kepner",
+      "statement": {
+        "by": "Anne J. Kepner",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Governing Board Member"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Clara and San Jose voters: It has been an honor to serve as your College Trustee. I ask for your vote so I may continue safeguarding the life-changing educational opportunities Mission College and West Valley College provide."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Careful fiscal stewardship and unwavering commitment to equity and social justice enable our colleges to expand access and student success. We provide outstanding academics, free tuition, parking, health services, childcare, and meals; partner with local high schools on dual enrollment; and create innovative internships and career pathways. We welcome students at every stage of life and work."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "California public education—and community college in particular—transformed my life. Raised in West San Jose, I earned degrees from De Anza College and San Jose State University before attending UC San Francisco School of Law. I have lived in Santa Clara for more than 30 years where we have raised three children, who attended public schools. As a local business owner and instructor of continuing education and law courses, I understand what students, educators and employers need to thrive."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My priorities remain clear: remove barriers to access, protect educational quality and make college success attainable for every student and family. Learn more at annekepner.org."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3656_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Colin Lee Elliott Glaves",
+      "statement": {
+        "by": "Colin Lee Elliott Glaves",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Materials Engineer\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 35"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I wish to serve as a trustee of the West Valley-Mission Community College District because I want the District to put more emphasis on academics and the needs of students. My parents were dedicated community college teachers, and it would be my honor to continue that legacy by making sure teachers and staff have what they need to be effective."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "The central mission of the community college is to provide quality classes and training to community members, so that students can realize their academic and professional goals. It is supported by taxpayer funds, which are entrusted to the District with the expectation of fulfilling that mission. West Valley-Mission CCD is well funded, yet the District holds $125 million in reserves, even as it drops classes and removes useful infrastructure. As a trustee, I will focus on good stewardship of your tax dollars by increasing transparency, improving student services, reducing administrative bloat, and investing in vital educational programs. I will champion initiatives for improving mental health services and for accommodations for neurodiverse and disabled students. The community college continues to be a driver for upward mobility: It is essential that courses and services are available to every student."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3657_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

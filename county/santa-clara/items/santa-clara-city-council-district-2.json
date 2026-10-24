@@ -1,0 +1,146 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Clara City Council, District 2",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:49Z",
+  "candidates": [
+    {
+      "choice": "Kimberley Williams",
+      "statement": {
+        "by": "Kimberley Williams",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " University Administrator\n",
+              {
+                "strong": [
+                  "Age:"
+                ]
+              },
+              " 48"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My husband and I chose to raise our family in Santa Clara for its strong neighborhoods and engaged community. As a parent and education advocate, I know the decisions our City Council make today will shape Santa Clara's future for my child, and all of us."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For more than 15 years, I've worked within university programs learning to bring people together with different priorities to find lasting solutions. I've brought that approach to Santa Clara through PTA leadership from our local schools to the state Capitol, and now as President of the Santa Clara Schools Foundation. Good leadership starts with listening, and that's how I'll approach the work of City Council."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Santa Clara faces critical decisions on housing, infrastructure, and public safety. I support smart, intentional growth: housing families can afford, paired with the infrastructure and development our communities need, so growth strengthens Santa Clara rather than strains it."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Strong communities aren't built by government alone. Every resident—youth, families, and seniors play a role. I'll build a Council defined by trust, transparency, and participation. My decisions, on behalf of residents, will be rooted in preparation, common sense, and respect for all perspectives. I would be honored to earn your vote. Vote for WilliamsforDistrict2.com"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3801_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Yvonne Inciarte",
+      "statement": {
+        "by": "Yvonne Inciarte",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Government Relations Director"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a lifelong Santa Clara resident, I'm running because our city deserves leaders who are accountable, practical, and honest about how government spends your money."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "For years I've worked with local governments to solve problems and build partnerships that strengthen our community and improve lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a Santa Clara Historical and Landmarks Commissioner, I've helped protect what makes our city unique while supporting thoughtful, responsible growth that respects our neighborhoods and history."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My service on the Chief's Advisory Committee, the Economic Development and Marketing Committee, and the West Valley-Mission College Foundation Board has provided firsthand experience with public safety, economic opportunity, education, and collaboration."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "On the Council, I'll support transparent decision-making, well-maintained neighborhoods, reliable infrastructure, and responsible spending that delivers measurable results."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Government works best when decisions are based on facts, fiscal responsibility, meaningful public input, and long-term planning. Santa Clara can continue growing and innovating without losing the character, history, and values that make it our home."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I would be honored to earn your vote and serve on the Santa Clara City Council with integrity and dedication."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3802_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}

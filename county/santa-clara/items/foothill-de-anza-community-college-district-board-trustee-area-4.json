@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Foothill-De Anza Community College District Board, Trustee Area 4",
+    "kind": "race",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-24T20:25:00Z",
+  "candidates": [
+    {
+      "choice": "William \"Bill\" Wilson",
+      "statement": {
+        "by": "William \"Bill\" Wilson",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " Educator"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "As a trustee for the Fremont Union High School District, mathematics instructor at De Anza College, and board member of the Foothill-De Anza Foundation, I have seen how vital our community colleges are to students, families, employers, and the broader community. Foothill and De Anza provide an affordable pathway for students beginning their college journey, help local businesses find skilled workers, and give community members opportunities to gain new skills throughout their lives."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I am running for the Foothill-De Anza District board to help the district meet today's challenges while preparing for tomorrow's opportunities. College affordability remains essential, employers need graduates with rapidly evolving skills, and artificial intelligence is changing both the classroom and the workplace. The district must respond thoughtfully by supporting innovation and ensuring students receive the resources they need."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "My experience as an educator, trustee, and foundation board member gives me a deep appreciation for the work of faculty, staff, administrators, and community partners. I will bring these voices together, find resources that support teaching and student services, and keep Foothill and De Anza focused on providing excellent, accessible education for a diverse student body. For more information, please visit www.wilson4fhda.org."
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3652_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    },
+    {
+      "choice": "Liangfang \"Liang\" Chao",
+      "statement": {
+        "by": "Liangfang \"Liang\" Chao",
+        "blocks": [
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Occupation:"
+                ]
+              },
+              " City Councilmember, Technologist, Educator, Entrepreneur"
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              {
+                "strong": [
+                  "Education and Qualifications:"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Over several quarters, I have taken Foothill-De Anza courses in civic leadership, business, technology, and film. My sons took community college classes to graduate from college early and save on tuition. I know these colleges from the inside—as a parent and a student."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Too many students encounter friction unrelated to academics. I will listen directly to current and prospective students to identify and remove barriers. I will advocate for low-cost course materials; flexible online classes that foster community; stackable certificates that can build toward degrees; and stronger partnerships with K-12 schools and employers to expand internships, apprenticeships and workforce training."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "I bring nearly ten years of public budgeting, labor negotiations, and policy oversight from service on the school board and city council, plus four years as an assistant professor at Iowa State, a Princeton Ph.D., and 25 years in Silicon Valley technology. I will use my experience to ensure bond funds are used as promised to voters."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "Foothill and De Anza should serve students at every stage of life, expand pathways to lifelong learning and rewarding careers, and become trusted anchors for the communities around them."
+            ]
+          },
+          {
+            "type": "p",
+            "text": [
+              "www.Liang4Community.org"
+            ]
+          }
+        ],
+        "source": "https://ca.omniballot.us/published/06085/1968/vg/3653_cp.json",
+        "disclaimer": "Including a statement in this guide is at the option of the candidates and those that choose to do so are required to purchase the space."
+      }
+    }
+  ]
+}
