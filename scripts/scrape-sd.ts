@@ -333,7 +333,9 @@ function readMeasure(code: string, sectionLines: Line[], source: string, retriev
   const question = (parts[0] as (typeof parts)[number]).lines.filter(
     (l) =>
       !/appear on the ballot in the following form/i.test(l.text) &&
-      !(l.bold && /^MEASURE [A-Z]+$/.test(l.text)),
+      !(l.bold && /^MEASURE [A-Z]+$/.test(l.text)) &&
+      // The ballot's boxes beside the question ("Tax – YES", "Tax – NO").
+      !/^(?:Tax\s*[–-]\s*)?(?:YES|NO)$/.test(l.text.trim()),
   );
   if (question.length)
     item.about = {
