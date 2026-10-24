@@ -344,11 +344,12 @@ function readMeasure(code: string, sectionLines: Line[]) {
   const parts = measureParts(lines.filter((l) => !top.includes(l)));
   const page = (p: (typeof parts)[number]) => source(p.lines[0]?.page ?? first);
 
-  // The ballot's question, set beside the measure's letter in large type and the YES/NO boxes.
+  // The ballot's question, set beside the measure's letter in large type and the YES/NO boxes
+  // ("BONDS YES" / "BONDS NO" for a bond).
   const question = (parts[0] as (typeof parts)[number]).lines
     .map((l) => ({
       ...l,
-      runs: l.runs.filter((r) => r.size < 20 && !/^(YES|NO)$/.test(r.text.trim())),
+      runs: l.runs.filter((r) => r.size < 20 && !/^(BONDS )?(YES|NO)$/.test(r.text.trim())),
     }))
     .filter((l) => l.runs.length > 0);
   if (question.length) {
