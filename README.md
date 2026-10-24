@@ -12,6 +12,7 @@ each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
 | **Orange County** candidate statements and local measures (Registrar of Voters) | `county/oc/` | `/county/oc/guide.jws` |
 | **San Diego County** Voter Information Pamphlets: candidate statements and local measures (Registrar of Voters) | `county/sd/` | `/county/sd/guide.jws` |
 | **Alameda County** Voter Information Guide: candidate statements (with Berkeley and Oakland photos) and local measures (Registrar of Voters) | `county/alameda/` | `/county/alameda/guide.jws` |
+| **Santa Clara County** Voter Information Guide: candidate statements and local measures (Registrar of Voters) | `county/santa-clara/` | `/county/santa-clara/guide.jws` |
 
 Each is its own signed manifest, because each is a different authority's
 publication; this repo's one key signs them all.
@@ -151,6 +152,35 @@ decodes them, putting back the parentheses pdf.js's text layer turns into
 spaces. The photos are stored as ink amounts for one separation, so
 `scripts/lib/pdf-images.ts` has pdf.js apply the colour space before encoding
 JPEGs (passed through as stored, they'd be negatives).
+
+## Santa Clara County
+
+Santa Clara publishes its guide online through Democracy Live's OmniBallot.
+The voter-facing pages want a ballot style and a session, but what they show
+is published as static JSON with no session: an index
+(`ca.omniballot.us/published/06085/1968/vg/lookups.json`) and one file per
+statement and per measure, the text as HTML (the county's own extraction from
+its printed guide). `bun run scrape:scc` reads them:
+
+- **Candidate statements** for US House, State Senate and State Assembly
+  districts in the county, and every city, school, college, water and special
+  district. Santa Clara prints no candidate photos. The index files statements
+  by contest; a contest's statements go to the race whose candidates they name
+  in the Santa Clara ballot source in the endorsements catalog. Where a lone
+  name fits several races, the statement's "Occupation:" (the ballot
+  designation) decides, or else the race whose title the statement's own words
+  share most; the run lists each such call.
+- **Local measures** (the regional transit measure RTM and A–S): the question,
+  what a Yes and a No vote mean, the impartial analysis (with any tax rate
+  statement), the complete text, and the arguments and rebuttals with their
+  signers.
+
+Each passage links to the JSON file it came from: OmniBallot's pages can't be
+opened at a statement or measure without a session. The HTML keeps the
+extraction's slips as published (one paragraph of RTM's argument starts "'s
+clear"). Raw responses are cached in `.cache/`; the English HTML of each, with
+its URL, retrieval time, OmniBallot's own `updated_at` and the SHA-256 of what
+was sent, is kept under `evidence/county/santa-clara/`.
 
 ## Not endorsements
 
