@@ -207,13 +207,17 @@ function occupationOf(html: string): string | undefined {
 }
 const sameWork = (designation: string | undefined, occupation: string | undefined) => {
   if (!designation || !occupation) return false;
-  const a = normName(designation).replace(/[^a-z0-9]+/g, " ").trim();
-  const b = normName(occupation).replace(/[^a-z0-9]+/g, " ").trim();
+  const a = normName(designation)
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+  const b = normName(occupation)
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
   return a === b || a.includes(b) || b.includes(a);
 };
 
 for (const [contest, listed] of contests) {
-  const profiles = [];
+  const profiles: { printed: string; url: string; html: string; retrieved_at: string }[] = [];
   for (const { printed, url } of listed) {
     const { data, retrieved_at } = await getJson<Profile>(url);
     const html = data.written_statement[0]?.value ?? "";
