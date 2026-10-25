@@ -13,6 +13,7 @@ each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
 | **San Diego County** Voter Information Pamphlets: candidate statements and local measures (Registrar of Voters) | `county/sd/` | `/county/sd/guide.jws` |
 | **Alameda County** Voter Information Guide: candidate statements (with Berkeley and Oakland photos) and local measures (Registrar of Voters) | `county/alameda/` | `/county/alameda/guide.jws` |
 | **Santa Clara County** Voter Information Guide: candidate statements and local measures (Registrar of Voters) | `county/santa-clara/` | `/county/santa-clara/guide.jws` |
+| **San Mateo County** local measures' filed documents, linked (County Elections) | `county/san-mateo/` | `/county/san-mateo/guide.jws` |
 
 Each is its own signed manifest, because each is a different authority's
 publication; this repo's one key signs them all.
@@ -182,6 +183,29 @@ clear"). Raw responses are cached in `.cache/`; the English HTML of each, with
 its URL, retrieval time, OmniBallot's own `updated_at` and the SHA-256 of what
 was sent, is kept under `evidence/county/santa-clara/`.
 
+## San Mateo County
+
+San Mateo prints candidate statements and the typeset measure pages only in
+each voter's own pamphlet, which its site opens after a lookup by address and
+birthdate. What it publishes openly is the election page
+(`smcacre.gov/elections/current-election`), which links each local measure's
+filed documents: the resolution placing it on the ballot, the impartial
+analysis, and the arguments and rebuttals as submitted (with their submission
+forms). Most are scans with no text layer. `bun run scrape:smc` lists them
+per measure (the regional transit measure RTM and D–EE):
+
+- A document's measure comes from its title ("Measure R - Impartial
+  Analysis"), or for the filings titled by contest ("Burlingame School District
+  Bond Measure Argument in Favor"), from `BY_NAME` in the script, reviewed by
+  hand. Each title is checked against the file name's own word for what it is
+  ("Reso", "ArgInFavor", "RebutArgAgainst"). The run stops if a document fits
+  no measure, or a measure on the ballot has no impartial analysis.
+- The documents are linked, not mirrored: they come to over 500 MB. Each is
+  identified by the SHA-256 of what was retrieved; `evidence/county/san-mateo/index.json`
+  keeps the URL, the page's title for it, size, hash and retrieval time.
+
+So San Mateo's guide has no statements and no measure text or signers.
+
 ## Not endorsements
 
 This is **reference material, not endorsements.** Candidate statements and
@@ -225,6 +249,10 @@ bun run scrape -- --refresh  # fetch every page and file again
 bun run scrape:sf            # rebuild county/sf/ (fetches the pamphlet once)
 bun run scrape:la            # rebuild county/la/ (paced; about half an hour uncached)
 bun run scrape:oc            # rebuild county/oc/ (about 380 PDFs, a few minutes uncached)
+bun run scrape:sd            # rebuild county/sd/
+bun run scrape:alameda       # rebuild county/alameda/
+bun run scrape:scc           # rebuild county/santa-clara/
+bun run scrape:smc           # rebuild county/san-mateo/ (about 530 MB of scans, cached)
 bun run check                # validate every guide's items and the files they name
 ```
 
