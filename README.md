@@ -254,11 +254,19 @@ bun run scrape:alameda       # rebuild county/alameda/
 bun run scrape:scc           # rebuild county/santa-clara/
 bun run scrape:smc           # rebuild county/san-mateo/ (about 530 MB of scans, cached)
 bun run check                # validate every guide's items and the files they name
+bun scripts/sync-subjects.ts # match items' subjects to their ballot sources (dry run; add --apply)
 ```
 
 Then commit `guide/` and `evidence/` and push. The scraper exits non-zero and
 lists the problems when a guide page names a candidate or justice the ballot
 source doesn't have.
+
+When the endorsements catalog re-files a race (San Diego County's contests
+moved from the City of San Diego's `us/ca/san-diego` to
+`us/ca/san-diego-county` on 2026-10-25), `bun scripts/sync-subjects.ts --apply`
+gives each item the subject its ballot source now names, without scraping
+again; `--catalog <checkout>` reads a local catalog checkout instead of the
+published one.
 
 ## Published URLs
 

@@ -438,7 +438,7 @@ const retrieved = Object.values(index)
 await writeGuide(OUT, items, {
   context: {
     election: ELECTION,
-    jurisdiction: "us/ca/san-diego",
+    jurisdiction: "us/ca/san-diego-county",
     title:
       "San Diego County Voter Information Pamphlet: November 3, 2026 Gubernatorial General Election",
   },
