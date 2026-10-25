@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Jefferson Union High School District — Measure M (Parcel Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:44Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure M on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M106-Contest%20Code-Reso-JUHSD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b6b2d9c3bce3928ac3860571799df277e19a831d9d06d7ad4022f865ce4e5d52"
+    },
+    {
+      "title": "Impartial analysis of Measure M",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MM-ImpartialAnalysis-JUHSD-Parcel-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "acc83b79b2e0f4a6193103ffdeeaea46e04f3137baf7c82200ab586221f29eef"
+    },
+    {
+      "title": "Argument in favor of Measure M, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M106-Contest%20Code-4ArgInFavor-JUHSD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "205980fb9e90782b2e6eea54b68d2903fbdc630ef8b6a2c91b1a76c8aa09f652"
+    },
+    {
+      "title": "Argument against Measure M, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M106-Contest%20Code-7ArgAgainst-JUHSD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "dd1600146342bd0a3227536863601b5368d1ff530f9fd057d156ddf17e6be26c"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure M, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MM-RebutArgAgainst-JUHSD-Parcel-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d5530a5212ce14e161b98ed055b529b601de1e0bca2b9a70af17607e8f3d3a67"
+    }
+  ]
+}

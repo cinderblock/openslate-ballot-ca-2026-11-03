@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Mateo — Measure F (Charter Amendment Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:53Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure F on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M209-Contest%20Code-Reso-San%20Mateo%20Charter%20Amendment_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "edbd9d96bf61015a10f6ec87fbc68d4958cd24b57f7a43a18cbb6675d5f6657d"
+    },
+    {
+      "title": "Impartial analysis of Measure F",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MF-ImpartialAnalysis-San-Mateo-Charter-Amendment-Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "fe0b8e568c7aba1e99e862a86f7d4b01ee83e26f97085fd19287556996e231db"
+    },
+    {
+      "title": "Argument in favor of Measure F, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M209-Contest%20Code-5ArgInFavor-San%20Mateo%20Charter%20Amendment_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ba73749b7067cea85c637ab523b4333651a495a1fa2078b0550a4c403019a45e"
+    }
+  ]
+}

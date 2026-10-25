@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Mateo — Measure H (Transactions and Use Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:51Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure H on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M301-Contest%20Code-Reso-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ea78342cd4ac0d4a01221735631c39a861ad4c9da65df49e10d21a55b4c1858f"
+    },
+    {
+      "title": "Impartial analysis of Measure H",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-ImpartialAnalysis-San-Mateo-Transactions-and-Use-Tax-Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8c34b935da0a8cbd28672c78a4b3bc5ef15bbffa315b427b0568e3ab5f282c7f"
+    },
+    {
+      "title": "Argument in favor of Measure H, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M301-Contest%20Code-5ArgInFavor-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c5cb46cb770959d55fd62c31a9100afadbe52f4f2f3f18c8d2485ae01d3a739b"
+    },
+    {
+      "title": "Argument against Measure H, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M301-Contest%20Code-7ArgAgainst-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted%20%282%29%20%281%29_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ccb96572325a419bf26298111e1f4bb4b06453453ac62f1c0f1f9a7c39d76665"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure H, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-RebutArgInFavor-San-Mateo-Transactions-and-Use-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "cf958aa9799c85452d50b819bdd9cda372584d97e4dce650f72b832a4a4b5005"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure H, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-RebutArgAgainst-San-Mateo-Transactions-and-Use-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "39f8cda2bf4e435b756a6e89b74f2a851c825f2185383ad8d5f65eef6c6337f5"
+    }
+  ]
+}

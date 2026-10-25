@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Burlingame — Measure D (Transient Occupancy Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/burlingame",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:03Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure D on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M107-Contest%20Code-Reso-Burlingame%20Occupancy%20Tax_Redacted_0.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "71f422c7783479f57b833453179ba103c32053aa934d560492a906f4026e7169"
+    },
+    {
+      "title": "Impartial analysis of Measure D",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-ImpartialAnalysis-Burlingame-Occupancy-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2bc5eab19fb4a9182452c0bdfa99fb46043e998d51f623a7c8b323323e0cf3bf"
+    },
+    {
+      "title": "Argument in favor of Measure D, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M107-Contest%20Code-4ArgInFavor-Burlingame%20Occupancy%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "06206bfad8171bff690daaaba5cc1d46132093b10df79136961de51daf6b99d2"
+    },
+    {
+      "title": "Argument against Measure D, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M107-Contest%20Code-7ArgAgainst-Burlingame%20Occupancy%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "eceeaf2054fe3a88fca6076e699807c53ec456ef1160586657f73836a260a082"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure D, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-RebutArgInFavor-Burlingame-Occupancy-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f9d0b76e43ca89b26c0e5818476372bb9ad53c79a726d72556951eaa2383be48"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure D, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-RebutArgAgainst-Burlingame-Occupancy-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8e4f37f3797d266936f20364a3cd43d68133ff190dc74dcb899491b27e21928f"
+    }
+  ]
+}

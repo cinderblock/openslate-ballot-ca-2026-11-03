@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Half Moon Bay — Measure Q (Housing Initiative Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/half-moon-bay",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:10Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure Q on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M401-Contest%20Code-Reso-Half%20Moon%20Bay%20Housing%20Initiative_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "3b2ae9f9f12745043027c5b386aa34bf9fe972b5b17e522b424e5c7d7d515083"
+    },
+    {
+      "title": "Impartial analysis of Measure Q",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MQ-ImpartialAnalysis-Half-Moon-Bay-Housing_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "af800e1c0e5ac9d7f89c5a3af486ab5e831e5b92c3dc95fd6054b7a9b4a47d06"
+    },
+    {
+      "title": "Argument in favor of Measure Q, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M401-Contest%20Code-4ArgInFavor-Half%20Moon%20Bay%20Housing%20Initiative_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9f2147209e7ee447eeaf3edb54592c4bd8ace2518ac6d62c9f742b0b97fd4e64"
+    }
+  ]
+}

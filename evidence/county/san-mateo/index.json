@@ -1,0 +1,926 @@
+{
+  "https://smcacre.gov/system/files/2026-05/52-ENG-M101-Contest%20Code-Reso-San%20Carlos%20SD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-05/52-ENG-M101-Contest%20Code-Reso-San%20Carlos%20SD%20Parcel%20Tax_Redacted.pdf",
+    "title": "San Carlos School District Parcel Tax Resolution",
+    "bytes": 953907,
+    "sha256": "00dfb84d7bb7512dfe4f3ec651142a3e3438b0c688f6a4cdeb0413657989fb78",
+    "retrieved_at": "2026-10-25T05:42:47Z"
+  },
+  "https://smcacre.gov/system/files/2026-05/52-ENG-M102-Contest%20Code-Reso-Menlo%20Park%20Muni%20Amendment_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-05/52-ENG-M102-Contest%20Code-Reso-Menlo%20Park%20Muni%20Amendment_Redacted.pdf",
+    "title": "Menlo Park Citizen Initiative to Amend Municipal Code Resolution",
+    "bytes": 882351,
+    "sha256": "b4c7febfe4a4e77b32ffc71090a69e8f1bd9291fbaee6f718a28faab9fcb4282",
+    "retrieved_at": "2026-10-25T05:43:11Z"
+  },
+  "https://smcacre.gov/system/files/2026-06/52-ENG-M103-Contest%20Code-Reso-Pacifica%20SD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-06/52-ENG-M103-Contest%20Code-Reso-Pacifica%20SD%20Parcel%20Tax_Redacted.pdf",
+    "title": "Pacifica School District Parcel Tax Measure",
+    "bytes": 638745,
+    "sha256": "bc7dbdf927311df3ec5d264fdfec8c799a1337e1ded8815a615d3fdbb25620a0",
+    "retrieved_at": "2026-10-25T05:42:44Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M104-Contest%20Code-Reso-City%20of%20San%20Carlos%20Use%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M104-Contest%20Code-Reso-City%20of%20San%20Carlos%20Use%20Tax_Redacted.pdf",
+    "title": "City of San Carlos Use Tax Measure",
+    "bytes": 4018931,
+    "sha256": "b4f9ac9d5c302bd9a6f386fbb128c979c20c02a9b0e28bb4142790f38b62052a",
+    "retrieved_at": "2026-10-25T05:43:40Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M105-Contest%20Code-Reso-Burlingame%20ESD%20Bon_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M105-Contest%20Code-Reso-Burlingame%20ESD%20Bon_Redacted.pdf",
+    "title": "Burlingame School District Bond Measure",
+    "bytes": 887991,
+    "sha256": "e16fa8a147865340d54aee5421dd9e545c5321ca9d9df4389034096b92701d1f",
+    "retrieved_at": "2026-10-25T05:42:38Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M106-Contest%20Code-Reso-JUHSD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M106-Contest%20Code-Reso-JUHSD%20Parcel%20Tax_Redacted.pdf",
+    "title": "Jefferson Union High School District Parcel Tax Measure",
+    "bytes": 844005,
+    "sha256": "b6b2d9c3bce3928ac3860571799df277e19a831d9d06d7ad4022f865ce4e5d52",
+    "retrieved_at": "2026-10-25T05:42:42Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M107-Contest%20Code-Reso-Burlingame%20Occupancy%20Tax_Redacted_0.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M107-Contest%20Code-Reso-Burlingame%20Occupancy%20Tax_Redacted_0.pdf",
+    "title": "City of Burlingame Transient Occupancy Tax",
+    "bytes": 7169641,
+    "sha256": "71f422c7783479f57b833453179ba103c32053aa934d560492a906f4026e7169",
+    "retrieved_at": "2026-10-25T05:42:59Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M108-Contest%20Code-Reso-RWC%20Housing_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M108-Contest%20Code-Reso-RWC%20Housing_Redacted.pdf",
+    "title": "City of Redwood City Rent Control and Eviction Limits Initiative",
+    "bytes": 2851747,
+    "sha256": "00f25b487f050792dadb03d7762213d36d190105efd4e695875b62f333259291",
+    "retrieved_at": "2026-10-25T05:43:26Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M109-Contest%20Code-Reso-Cabrillo%20USD%20Parcel%20Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M109-Contest%20Code-Reso-Cabrillo%20USD%20Parcel%20Tax.pdf",
+    "title": "Cabrillo Unified School District Measure",
+    "bytes": 2022238,
+    "sha256": "a3be79e88d15dc14e57ec218320c9997b5ac9f61a83997e04c5e2de73e53ce3b",
+    "retrieved_at": "2026-10-25T05:42:41Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M205-Contest%20Code-Reso-Portola%20Valley%20Transfer%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M205-Contest%20Code-Reso-Portola%20Valley%20Transfer%20Tax_Redacted.pdf",
+    "title": "Town of Portola Valley Town Charter and Property Transfer Tax Measure",
+    "bytes": 1034076,
+    "sha256": "dee8e20e8db3f7a5a273d6923a5da9e494383ba98a26a0ffdd3b6917a4199ede",
+    "retrieved_at": "2026-10-25T05:43:19Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M206-Contest%20Code-Reso-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M206-Contest%20Code-Reso-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf",
+    "title": "Public Transit Revenue Measure District Sales Tax Measure",
+    "bytes": 2282041,
+    "sha256": "343dbfda30034769a5ca0f3db2b31281fb17cbe5ea2737c0e470e0e7b7b4347d",
+    "retrieved_at": "2026-10-25T05:42:35Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M207-Contest%20-Code-Reso-EPA%20Term%20Limits_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M207-Contest%20-Code-Reso-EPA%20Term%20Limits_Redacted.pdf",
+    "title": "City of East Palo Alto Charter Amendment Measure",
+    "bytes": 1765100,
+    "sha256": "daef22a2faeadd173026c342f400b8257b7de61600b359bcc9eb97c75ac9af1a",
+    "retrieved_at": "2026-10-25T05:43:06Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M207-Contest%20Code-Reso-City%20of%20East%20Palo%20Alto%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M207-Contest%20Code-Reso-City%20of%20East%20Palo%20Alto%20Bond_Redacted.pdf",
+    "title": "City of East Palo Alto Bond Measure",
+    "bytes": 1470709,
+    "sha256": "2a4cbc33915d3b03626cac9c068c6bca0441fdd251e8fc1a31965ef1b4e25d2e",
+    "retrieved_at": "2026-10-25T05:43:03Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M209-Contest%20Code-Reso-San%20Mateo%20Charter%20Amendment_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M209-Contest%20Code-Reso-San%20Mateo%20Charter%20Amendment_Redacted.pdf",
+    "title": "City of San Mateo Charter Amendment Measure",
+    "bytes": 1042791,
+    "sha256": "edbd9d96bf61015a10f6ec87fbc68d4958cd24b57f7a43a18cbb6675d5f6657d",
+    "retrieved_at": "2026-10-25T05:43:52Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M301-Contest%20Code-Reso-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M301-Contest%20Code-Reso-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+    "title": "City of San Mateo Transactions and Use Tax Measure",
+    "bytes": 894824,
+    "sha256": "ea78342cd4ac0d4a01221735631c39a861ad4c9da65df49e10d21a55b4c1858f",
+    "retrieved_at": "2026-10-25T05:43:44Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M302-Contest%20Code-Reso-City%20of%20Brisbane%20Business%20License%20Tax_Redacted_1.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M302-Contest%20Code-Reso-City%20of%20Brisbane%20Business%20License%20Tax_Redacted_1.pdf",
+    "title": "City of Brisbane Business License Tax Measure",
+    "bytes": 1746328,
+    "sha256": "dd2389d19c9923ae4af1be749cf7b50a3bc685714ca31b8849f7b8aa133ce3ef",
+    "retrieved_at": "2026-10-25T05:42:58Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M303-Contest%20Code-Reso-San%20Bruno%20Hosuing%20Permit%20and%20Development_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M303-Contest%20Code-Reso-San%20Bruno%20Hosuing%20Permit%20and%20Development_Redacted.pdf",
+    "title": "City of San Bruno Housing Permits and Developments Measure",
+    "bytes": 542991,
+    "sha256": "eb4e70296f4e7abb53937614c33bf88c643138039a521495c8f8064e588278a2",
+    "retrieved_at": "2026-10-25T05:43:30Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/52-ENG-M304-Contest%20Code-Reso-San%20Bruno%20Fireworks%20Ban_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/52-ENG-M304-Contest%20Code-Reso-San%20Bruno%20Fireworks%20Ban_Redacted.pdf",
+    "title": "City of San Bruno Fireworks Ban Measure",
+    "bytes": 404417,
+    "sha256": "c04e2f5e8f672195d9bd3e7b90415bd0c39c76282f4c091c9573e08e2e4400c6",
+    "retrieved_at": "2026-10-25T05:43:31Z"
+  },
+  "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+    "title": "San Mateo County Amendments",
+    "bytes": 1315004,
+    "sha256": "db9b218ebad34190631d655a933a558be422f90d367b4ad07c51ef85c59efae6",
+    "retrieved_at": "2026-10-25T05:42:30Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-204-Contest%20Code-5ArgInFavor-SMC%20Charter_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-204-Contest%20Code-5ArgInFavor-SMC%20Charter_Redacted.pdf",
+    "title": "SMC Charter Amendment Measure Reapportionment of Supervisorial Districts Argument in Favor",
+    "bytes": 68413834,
+    "sha256": "e97d9cbc2c6b6e7c52ede87f487cc7abd4f4ae274fd8e02f5ae5cbbba1764ea7",
+    "retrieved_at": "2026-10-25T05:42:34Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M101-Contest%20Code-5ArgInFavor-San%20Carlos%20SD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M101-Contest%20Code-5ArgInFavor-San%20Carlos%20SD%20Parcel%20Tax_Redacted.pdf",
+    "title": "San Carlos School District Parcel Tax Measure Argument in Favor",
+    "bytes": 493679,
+    "sha256": "46598b5336fac7f477746dda696c0895d4124106debfc166f29068a4eddd453a",
+    "retrieved_at": "2026-10-25T05:42:48Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M102-Contest%20Code-6ArgAgainst-Menlo%20Park%20Muni%20Amendment_Redacted_0.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M102-Contest%20Code-6ArgAgainst-Menlo%20Park%20Muni%20Amendment_Redacted_0.pdf",
+    "title": "City of Menlo Park Municipal Code Amendment Argument Against",
+    "bytes": 15060332,
+    "sha256": "7f4ee8b6105a6296aec50d58358aab88fc6020b61e01c7447f0dd30e7c445c08",
+    "retrieved_at": "2026-10-25T05:43:14Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M102-ContestCode-7ArgInFavor-Menlo%20Park%20Muni%20Amendment_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M102-ContestCode-7ArgInFavor-Menlo%20Park%20Muni%20Amendment_Redacted.pdf",
+    "title": "City of Menlo Park Citizen Initiative to Amend Municipal Code Argument in Favor",
+    "bytes": 581419,
+    "sha256": "737fb4c7845f9f911d83144da5a1239a76dbe6a6f1d7780b194312dea5afc180",
+    "retrieved_at": "2026-10-25T05:43:12Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M103-Contest%20Code-5ArgInFavor-Pacifica%20SD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M103-Contest%20Code-5ArgInFavor-Pacifica%20SD%20Parcel%20Tax_Redacted.pdf",
+    "title": "Pacifica School District Parcel Tax Measure Argument in Favor",
+    "bytes": 938877,
+    "sha256": "42f85a8e3d6a21dab967f9a90c8cddf5c4bce7c6fadcd146345b4c3c42781a89",
+    "retrieved_at": "2026-10-25T05:42:45Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M103-Contest%20Code-7ArgAgainst-Pacifica%20SD%20Parcel%20Tax_Redacted_0_0.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M103-Contest%20Code-7ArgAgainst-Pacifica%20SD%20Parcel%20Tax_Redacted_0_0.pdf",
+    "title": "Pacifica School District Parcel Tax Measure Argument Against",
+    "bytes": 2823778,
+    "sha256": "83940a75f26ec2258c5d6474301be8060396d31844fc3a786443b9642fd556a0",
+    "retrieved_at": "2026-10-25T05:42:46Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M104-Contest%20Code-7ArgAgainst-City%20of%20San%20Carlos%20Use%20Tax_Redacted%20%281%29.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M104-Contest%20Code-7ArgAgainst-City%20of%20San%20Carlos%20Use%20Tax_Redacted%20%281%29.pdf",
+    "title": "City of San Carlos Transactions and Use Tax Measure Argument Against",
+    "bytes": 538727,
+    "sha256": "4aed16b9e4962621e2c10c06eba457104f5b66f33a5b7c0e25c57158914724b2",
+    "retrieved_at": "2026-10-25T05:43:42Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-5ArgInFavor-Burlingame%20ESD%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-5ArgInFavor-Burlingame%20ESD%20Bond_Redacted.pdf",
+    "title": "Burlingame School District Bond Measure Argument in Favor",
+    "bytes": 1621180,
+    "sha256": "2f1782b3741aa14d677dc434bedb0a02286a1ea3327e555c03761606eec615dd",
+    "retrieved_at": "2026-10-25T05:42:39Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-7ArgAgainst-Burlingame%20ESD%20Bon_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-7ArgAgainst-Burlingame%20ESD%20Bon_Redacted.pdf",
+    "title": "Burlingame School District Bond Measure Argument Against",
+    "bytes": 2792842,
+    "sha256": "389bb42b97fcf694596a91132d2e907f5f80068741789c2147262e8582cf8ecc",
+    "retrieved_at": "2026-10-25T05:42:40Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M106-Contest%20Code-4ArgInFavor-JUHSD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M106-Contest%20Code-4ArgInFavor-JUHSD%20Parcel%20Tax_Redacted.pdf",
+    "title": "Jefferson Union High School District Parcel Tax Primary Argument in Favor",
+    "bytes": 1092834,
+    "sha256": "205980fb9e90782b2e6eea54b68d2903fbdc630ef8b6a2c91b1a76c8aa09f652",
+    "retrieved_at": "2026-10-25T05:42:43Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M106-Contest%20Code-7ArgAgainst-JUHSD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M106-Contest%20Code-7ArgAgainst-JUHSD%20Parcel%20Tax_Redacted.pdf",
+    "title": "Jefferson Union High School District Parcel Tax Measure Argument Against",
+    "bytes": 439615,
+    "sha256": "dd1600146342bd0a3227536863601b5368d1ff530f9fd057d156ddf17e6be26c",
+    "retrieved_at": "2026-10-25T05:42:43Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M107-Contest%20Code-4ArgInFavor-Burlingame%20Occupancy%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M107-Contest%20Code-4ArgInFavor-Burlingame%20Occupancy%20Tax_Redacted.pdf",
+    "title": "City of Burlingame Occupancy Tax Measure Argument in Favor",
+    "bytes": 11822413,
+    "sha256": "06206bfad8171bff690daaaba5cc1d46132093b10df79136961de51daf6b99d2",
+    "retrieved_at": "2026-10-25T05:43:01Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M107-Contest%20Code-7ArgAgainst-Burlingame%20Occupancy%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M107-Contest%20Code-7ArgAgainst-Burlingame%20Occupancy%20Tax_Redacted.pdf",
+    "title": "City of Burlingame Transient Occupancy Tax Argument Against",
+    "bytes": 12526416,
+    "sha256": "eceeaf2054fe3a88fca6076e699807c53ec456ef1160586657f73836a260a082",
+    "retrieved_at": "2026-10-25T05:43:02Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M108-Contest%20Code-5ArgInFavor-RWC%20Housing_Redacted_0.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M108-Contest%20Code-5ArgInFavor-RWC%20Housing_Redacted_0.pdf",
+    "title": "City of Redwood City Rent Control and Eviction Limits Initiative Argument in Favor",
+    "bytes": 1037969,
+    "sha256": "1e6228b49d0497fa5493cb312bad0e18850609cb1b57a169d4df07ca5a990efb",
+    "retrieved_at": "2026-10-25T05:43:27Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M108-Contest%20Code-7ArgAgainst-RWC%20Housing_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M108-Contest%20Code-7ArgAgainst-RWC%20Housing_Redacted.pdf",
+    "title": "City of Redwood City Rent Control and Eviction Limits Initiative Argument Against",
+    "bytes": 808689,
+    "sha256": "9cc40e7782fe21aaa76cb401d99b9aee5cd813b1945a36865f3a7857104cb588",
+    "retrieved_at": "2026-10-25T05:43:29Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M109-Contest%20Code-5ArgInFavor-Cabrillo%20USD%20Parcel%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M109-Contest%20Code-5ArgInFavor-Cabrillo%20USD%20Parcel%20Tax_Redacted.pdf",
+    "title": "Cabrillo Unified School District Parcel Tax Measure Argument in Favor",
+    "bytes": 1888034,
+    "sha256": "a6347b3f74ad49a782648fc5675db11af98028e441dd7960cb1861c009596c6b",
+    "retrieved_at": "2026-10-25T05:42:42Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M205-Contest%20Code-5ArgInFavor-Portola%20Valley%20Transfer%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M205-Contest%20Code-5ArgInFavor-Portola%20Valley%20Transfer%20Tax_Redacted.pdf",
+    "title": "Town of Portola Valley Transfer Tax Measure Argument in Favor",
+    "bytes": 39630054,
+    "sha256": "8309a838e75c2ad31814b6ac352c7ed85e41e06a61214eba7a0659faebbe0db6",
+    "retrieved_at": "2026-10-25T05:43:21Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M205-Contest%20Code-6ArgAgainst-Portola%20Valley%20Transfer%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M205-Contest%20Code-6ArgAgainst-Portola%20Valley%20Transfer%20Tax_Redacted.pdf",
+    "title": "Portola Valley Transfer Tax Argument Against",
+    "bytes": 345831,
+    "sha256": "7f9fdc32198bc884d8c41662a5e625c64dfcd6840ff420c831db078bbd9463e5",
+    "retrieved_at": "2026-10-25T05:43:22Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-46ArgAgainst-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-46ArgAgainst-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf",
+    "title": "Public Transit Revenue Measure District Sales Tax Measure Argument Against",
+    "bytes": 1001718,
+    "sha256": "f7b9633802547be0f7fb140da094e9af653b96e5b47ad2ea26098dbab35d53d2",
+    "retrieved_at": "2026-10-25T05:42:37Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-4ArginFavor-Public%20Transit%20District%20Sales%20Tax_Redacted_0.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-4ArginFavor-Public%20Transit%20District%20Sales%20Tax_Redacted_0.pdf",
+    "title": "Public Transit Revenue Measure District Sales Tax Measure Argument in Favor",
+    "bytes": 1020644,
+    "sha256": "d608179afc2d502a33be824e70fdc550fc8d6bfcf3baf441375f65f14ed60288",
+    "retrieved_at": "2026-10-25T05:42:36Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-6RebutArgAgainst-Public-Transit-District-Sales-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-6RebutArgAgainst-Public-Transit-District-Sales-Tax_Redacted.pdf",
+    "title": "Regional Transit Measure Transactions and Use Tax Measure Rebuttal Argument Against",
+    "bytes": 1433812,
+    "sha256": "bfa4f556ea75c776a5a32362987289f76f215947b5d3a90121de147aab9277fa",
+    "retrieved_at": "2026-10-25T05:42:37Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-RebutArgInFav-Public-Transit-District-Sales-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-RebutArgInFav-Public-Transit-District-Sales-Tax_Redacted.pdf",
+    "title": "Regional Transit Measure Transactions and Use Tax Measure Rebuttal Argument in Favor",
+    "bytes": 8113937,
+    "sha256": "8b39424472a94d01b416287ffa3174e570f0a162c047dddf240bd9910d401fea",
+    "retrieved_at": "2026-10-25T05:42:36Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M206-ImpartialAnalysis-Public-Transit-District-Sales-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-ImpartialAnalysis-Public-Transit-District-Sales-Tax.pdf",
+    "title": "Regional Transit Measure - Impartial Analysis",
+    "bytes": 118974,
+    "sha256": "88da1639b2d0cee37228184d0190eb6f277afa6456a53c2078d914bc25b0d031",
+    "retrieved_at": "2026-10-25T05:42:35Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M207-Contest%20-Code-5ArgInFavor-EPA%20Term%20Limits_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M207-Contest%20-Code-5ArgInFavor-EPA%20Term%20Limits_Redacted.pdf",
+    "title": "City of East Palo Alto Term Limits Measure Argument in Favor",
+    "bytes": 153122,
+    "sha256": "d67f590d0e77806570a3b1512d8b248bd9c2825bc4a25538660cd832815571c3",
+    "retrieved_at": "2026-10-25T05:43:07Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M207-Contest%20-Code-7ArgAgainst-EPA%20Term%20Limits_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M207-Contest%20-Code-7ArgAgainst-EPA%20Term%20Limits_Redacted.pdf",
+    "title": "City of East Palo Alto Term Limits Argument Against",
+    "bytes": 694765,
+    "sha256": "4057243f4b472b66ec23b00955d12e7cd309480f3f75387635d1bcfbf695095f",
+    "retrieved_at": "2026-10-25T05:43:07Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M209-Contest%20Code-5ArgInFavor-San%20Mateo%20Charter%20Amendment_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M209-Contest%20Code-5ArgInFavor-San%20Mateo%20Charter%20Amendment_Redacted.pdf",
+    "title": "City of San Mateo Charter Amendment Measure Argument in Favor",
+    "bytes": 6274168,
+    "sha256": "ba73749b7067cea85c637ab523b4333651a495a1fa2078b0550a4c403019a45e",
+    "retrieved_at": "2026-10-25T05:43:53Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M301-Contest%20Code-5ArgInFavor-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M301-Contest%20Code-5ArgInFavor-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+    "title": "City of San Mateo Transactions and Use Tax Measure Argument in Favor",
+    "bytes": 15323953,
+    "sha256": "c5cb46cb770959d55fd62c31a9100afadbe52f4f2f3f18c8d2485ae01d3a739b",
+    "retrieved_at": "2026-10-25T05:43:46Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M301-Contest%20Code-7ArgAgainst-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted%20%282%29%20%281%29_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M301-Contest%20Code-7ArgAgainst-San%20Mateo%20Transactions%20and%20Use%20Tax_Redacted%20%282%29%20%281%29_Redacted.pdf",
+    "title": "City of San Mateo Transactions and Use Tax Measure Argument Against",
+    "bytes": 16519355,
+    "sha256": "ccb96572325a419bf26298111e1f4bb4b06453453ac62f1c0f1f9a7c39d76665",
+    "retrieved_at": "2026-10-25T05:43:49Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M302-Contest%20Code-4ArgInFavor-City%20of%20Brisbane%20Business%20License%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M302-Contest%20Code-4ArgInFavor-City%20of%20Brisbane%20Business%20License%20Tax_Redacted.pdf",
+    "title": "City of Brisbane Business License Tax Measure Argument in Favor",
+    "bytes": 642232,
+    "sha256": "0419962b178beb59be80edd12a2b18dd0eb728b3ebeb429f141ac115deb41b8f",
+    "retrieved_at": "2026-10-25T05:42:59Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M304-Contest%20Code-6ArgAgainst-San%20Bruno%20Fireworks%20Ban_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M304-Contest%20Code-6ArgAgainst-San%20Bruno%20Fireworks%20Ban_Redacted.pdf",
+    "title": "City of San Bruno Fireworks Ban Measure Argument Against",
+    "bytes": 2789123,
+    "sha256": "29b50b1215893e74228f7e9bd2d20a915273c4c9af8a897226ca50e279312344",
+    "retrieved_at": "2026-10-25T05:43:34Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M305-Contest%20Code-7ArgAgainst-San%20Bruno%20Business%20License%20Tax_Redacted%20%281%29.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M305-Contest%20Code-7ArgAgainst-San%20Bruno%20Business%20License%20Tax_Redacted%20%281%29.pdf",
+    "title": "San Bruno Business License Tax Argument Against",
+    "bytes": 726800,
+    "sha256": "667dcdf55de8adc65e86c66bb7b2558619fc1c7ff350a73b9c06d39ea673661f",
+    "retrieved_at": "2026-10-25T05:43:38Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M305-Contest%20Code-Reso-San%20Bruno%20Business%20License%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M305-Contest%20Code-Reso-San%20Bruno%20Business%20License%20Tax_Redacted.pdf",
+    "title": "City of San Bruno: Business License Tax Measure",
+    "bytes": 3279281,
+    "sha256": "7ca6b593aa3f383b3e875059b2967b3a0fb8f6d9fa049b6f6c48f63c0e7a04da",
+    "retrieved_at": "2026-10-25T05:43:35Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-5ArgInFavor-SMFCSD%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-5ArgInFavor-SMFCSD%20Bond_Redacted.pdf",
+    "title": "San Mateo-Foster City School District Bond Measure Argument in Favor",
+    "bytes": 1655126,
+    "sha256": "19a8a8b76995435df98d9ae841421f53642655a70620dc6a244dbf791ad83aec",
+    "retrieved_at": "2026-10-25T05:42:52Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-7ArgAgainst-SMFCSD%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-7ArgAgainst-SMFCSD%20Bond_Redacted.pdf",
+    "title": "San Mateo-Foster City School District Bond Measure Argument Against",
+    "bytes": 8847026,
+    "sha256": "40d83fde1903a13e1ec3053dcde6d64111db4c102fbc7dde8f43f323cd46e136",
+    "retrieved_at": "2026-10-25T05:42:53Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-Reso-SMFCSD%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-Reso-SMFCSD%20Bond_Redacted.pdf",
+    "title": "San Mateo-Foster City School District Bond Measure",
+    "bytes": 966297,
+    "sha256": "df14dc287302eaa24029ee4664988e8161fac276a58d8afa757c24508ab39ba5",
+    "retrieved_at": "2026-10-25T05:42:51Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-5ArgInFavor-SMCCD%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-5ArgInFavor-SMCCD%20Bond_Redacted.pdf",
+    "title": "San Mateo County Community College District Bond Measure Argument in Favor",
+    "bytes": 1848688,
+    "sha256": "79cc6d976a7ac2fd0f72b5e9c3f0613d47a3b9fc724141fcb67e91d4628879d8",
+    "retrieved_at": "2026-10-25T05:42:49Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-6ArgAgainst-SMCCD%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-6ArgAgainst-SMCCD%20Bond_Redacted.pdf",
+    "title": "San Mateo County Community College District Bond Measure Argument Against",
+    "bytes": 973131,
+    "sha256": "cbeb9b14b8445088b169c6ab417a697ef6cfa0bd2250432c106d363252fa7d29",
+    "retrieved_at": "2026-10-25T05:42:50Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-Reso-SMCCD%20Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-Reso-SMCCD%20Bond_Redacted.pdf",
+    "title": "San Mateo County Community College District Bond Measure",
+    "bytes": 1299765,
+    "sha256": "2a44e4aec2b7613fd7c69583e39a7ef2211fba465c221eb9b2dceafd1a0993b7",
+    "retrieved_at": "2026-10-25T05:42:48Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-7ArgAgainst-Belmont%20Special%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-7ArgAgainst-Belmont%20Special%20Tax_Redacted.pdf",
+    "title": "City of Belmont Special Tax Measure Argument Against",
+    "bytes": 1416438,
+    "sha256": "11c2cc700bdc68d8425aa9a1ab7fc945552721edd7e052dc19590211cd9f9efd",
+    "retrieved_at": "2026-10-25T05:42:57Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-ArgInFavor-Belmont%20Special%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-ArgInFavor-Belmont%20Special%20Tax_Redacted.pdf",
+    "title": "City of Belmont Special Tax Measure Argument in Favor",
+    "bytes": 2177897,
+    "sha256": "f9adeb02e2e62aee094e7453061bba57bce79f132cb921304e6ee5bbe76a9d7d",
+    "retrieved_at": "2026-10-25T05:42:56Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-Reso-Belmont%20Special%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-Reso-Belmont%20Special%20Tax_Redacted.pdf",
+    "title": "City of Belmont Special Tax Measure",
+    "bytes": 935569,
+    "sha256": "aaf00fbc8562ce0f8fac11c587d3b8c03a5875d270cc28ff0a59d66fffe99854",
+    "retrieved_at": "2026-10-25T05:42:55Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M309-Contest%20Code-4ArgInFavor-Half%20Moon%20Bay%20Coastal%20Land_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M309-Contest%20Code-4ArgInFavor-Half%20Moon%20Bay%20Coastal%20Land_Redacted.pdf",
+    "title": "City of Half Moon Bay Coastal Use Measure Argument in Favor",
+    "bytes": 3283763,
+    "sha256": "3026e0a50cf82e5cb5c8095becc855b06ce271426264a75f31386f452d887e2b",
+    "retrieved_at": "2026-10-25T05:43:09Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M309-Contest%20Code-Reso-Half%20Moon%20Bay%20Coastal%20Land_Redacted_0.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M309-Contest%20Code-Reso-Half%20Moon%20Bay%20Coastal%20Land_Redacted_0.pdf",
+    "title": "City of Half Moon Bay Coastal Land Use Measure",
+    "bytes": 1599439,
+    "sha256": "f9b8e79352f36d499bfa86ee55d00a4b9ec73bf33a90bf82cd04122685ca5338",
+    "retrieved_at": "2026-10-25T05:43:08Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M401-Contest%20Code-4ArgInFavor-Half%20Moon%20Bay%20Housing%20Initiative_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M401-Contest%20Code-4ArgInFavor-Half%20Moon%20Bay%20Housing%20Initiative_Redacted.pdf",
+    "title": "City of Half Moon Bay Housing Initiative Measure Argument in Favor",
+    "bytes": 6119303,
+    "sha256": "9f2147209e7ee447eeaf3edb54592c4bd8ace2518ac6d62c9f742b0b97fd4e64",
+    "retrieved_at": "2026-10-25T05:43:10Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M401-Contest%20Code-Reso-Half%20Moon%20Bay%20Housing%20Initiative_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M401-Contest%20Code-Reso-Half%20Moon%20Bay%20Housing%20Initiative_Redacted.pdf",
+    "title": "City of Half Moon Bay Housing Initiative Measure",
+    "bytes": 452121,
+    "sha256": "3b2ae9f9f12745043027c5b386aa34bf9fe972b5b17e522b424e5c7d7d515083",
+    "retrieved_at": "2026-10-25T05:43:09Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M402-Contest%20Code-7ArgAgainst-Pacifica%20Transactions%20and%20Use%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M402-Contest%20Code-7ArgAgainst-Pacifica%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+    "title": "City of Pacifica Transactions and Use Tax Measure Argument Against",
+    "bytes": 7095289,
+    "sha256": "3a9cafc35791dc6f13f74271a89d3dec0448504dd88063b3d5bb94aabea92a13",
+    "retrieved_at": "2026-10-25T05:43:18Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-M402-Contest%20Code-Reso-Pacifica%20Transactions%20and%20Use%20Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-M402-Contest%20Code-Reso-Pacifica%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+    "title": "City of Pacifica Transactions and Use Tax Measure",
+    "bytes": 1296692,
+    "sha256": "b1649da5de4e951043e388cbbf18c7b83130e6edff6914f999dc12c832a2f087",
+    "retrieved_at": "2026-10-25T05:43:15Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MAA-ImpartialAnalysis-SMC-Charter-Affirmation-of-Rights.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MAA-ImpartialAnalysis-SMC-Charter-Affirmation-of-Rights.pdf",
+    "title": "Measure AA - Impartial Analysis",
+    "bytes": 51591,
+    "sha256": "6b12116c6249c79e08208d3e6afc63266fd09a0084055d2cb21077707956a6eb",
+    "retrieved_at": "2026-10-25T05:42:31Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ArgInFavor-Pacifica-Transactions-and-Use-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ArgInFavor-Pacifica-Transactions-and-Use-Tax_Redacted.pdf",
+    "title": "City of Pacifica Transactions and Use Tax Measure Argument in Favor",
+    "bytes": 10353820,
+    "sha256": "625c20426b4c1b927c007c837ef1a39da42258f8c04b1d4517e6b9e3f7fd8929",
+    "retrieved_at": "2026-10-25T05:43:16Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ImpartialAnalysis-Pacifica-Transactions-and-Use-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ImpartialAnalysis-Pacifica-Transactions-and-Use-Tax.pdf",
+    "title": "Measure BB - Impartial Analysis",
+    "bytes": 89562,
+    "sha256": "fe1796525870f17551fb57e48bc11b90f1089c5065f8b5dc752c5013dc5a4b41",
+    "retrieved_at": "2026-10-25T05:43:15Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-RebutArgAgainst-Pacifica-Transactions-and-Use-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-RebutArgAgainst-Pacifica-Transactions-and-Use-Tax_Redacted.pdf",
+    "title": "Measure BB - Rebuttal to Argument Against",
+    "bytes": 10064365,
+    "sha256": "756ffe227f266494a07e0b0a6299d6ad1e3e6d3305e4967bb0508d9563f27c68",
+    "retrieved_at": "2026-10-25T05:43:19Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-RebutArgInFavor-Pacifica-Transactions-and-Use-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-RebutArgInFavor-Pacifica-Transactions-and-Use-Tax_Redacted.pdf",
+    "title": "Measure BB - Rebuttal to Argument in Favor",
+    "bytes": 17440042,
+    "sha256": "ef527c00b01179b9478671fc0b646782b9d043c733cbb12eb834224235d2b6b3",
+    "retrieved_at": "2026-10-25T05:43:17Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-ImpartialAnalysis-EPA-Term-Limits_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-ImpartialAnalysis-EPA-Term-Limits_Redacted.pdf",
+    "title": "Measure CC - Impartial Analysis",
+    "bytes": 106466,
+    "sha256": "29a974ada7eccad8bfe937d1fe02c4d378891e8e7582a724325a41b0984624e4",
+    "retrieved_at": "2026-10-25T05:43:06Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-RebutArgInFavor-EPA-Term-Limits_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-RebutArgInFavor-EPA-Term-Limits_Redacted.pdf",
+    "title": "Measure CC - Rebuttal to Argument in Favor",
+    "bytes": 1358500,
+    "sha256": "d54ead243515d0be5788bc1b000ad16a62ff6c394b0cb2a05200722eba5c90df",
+    "retrieved_at": "2026-10-25T05:43:07Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MD-ImpartialAnalysis-Burlingame-Occupancy-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-ImpartialAnalysis-Burlingame-Occupancy-Tax_Redacted.pdf",
+    "title": "Measure D - Impartial Analysis",
+    "bytes": 3856801,
+    "sha256": "2bc5eab19fb4a9182452c0bdfa99fb46043e998d51f623a7c8b323323e0cf3bf",
+    "retrieved_at": "2026-10-25T05:43:00Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MD-RebutArgAgainst-Burlingame-Occupancy-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-RebutArgAgainst-Burlingame-Occupancy-Tax_Redacted.pdf",
+    "title": "Measure D - Rebuttal to Argument Against",
+    "bytes": 576118,
+    "sha256": "8e4f37f3797d266936f20364a3cd43d68133ff190dc74dcb899491b27e21928f",
+    "retrieved_at": "2026-10-25T05:43:03Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MD-RebutArgInFavor-Burlingame-Occupancy-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-RebutArgInFavor-Burlingame-Occupancy-Tax_Redacted.pdf",
+    "title": "Measure D - Rebuttal to Argument in Favor",
+    "bytes": 594352,
+    "sha256": "f9d0b76e43ca89b26c0e5818476372bb9ad53c79a726d72556951eaa2383be48",
+    "retrieved_at": "2026-10-25T05:43:01Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ArgInFavor-San-Bruno-Fireworks-Ban_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ArgInFavor-San-Bruno-Fireworks-Ban_Redacted.pdf",
+    "title": "City of San Bruno Fireworks Ban Measure Argument in Favor",
+    "bytes": 1316486,
+    "sha256": "c4f9dbd87f1cb1f76ea110a2ef8ca30c256a828bb8771c592fdcd66d21a799ed",
+    "retrieved_at": "2026-10-25T05:43:32Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ImpartialAnalysis-San-Bruno-Fireworks-Ban.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ImpartialAnalysis-San-Bruno-Fireworks-Ban.pdf",
+    "title": "Measure DD - Impartial Analysis",
+    "bytes": 82560,
+    "sha256": "dfca5fd54b555bd1e6a14fc70cd91f9b70d848d4f9edfd8d3d99c40b52c92b5c",
+    "retrieved_at": "2026-10-25T05:43:32Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-RebutArgAgainst-San-Bruno-Fireworks-Ban_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-RebutArgAgainst-San-Bruno-Fireworks-Ban_Redacted.pdf",
+    "title": "Measure DD - Rebuttal to Argument Against",
+    "bytes": 1254463,
+    "sha256": "79d538378e26c40d509efb6d8ae2d6872ace63ad6b00c0949f9d4158498bd05c",
+    "retrieved_at": "2026-10-25T05:43:34Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-RebutArgInFavor-San-Bruno-Fireworks-Ban-Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-RebutArgInFavor-San-Bruno-Fireworks-Ban-Redacted.pdf",
+    "title": "Measure DD - Rebuttal to Argument in Favor",
+    "bytes": 3848801,
+    "sha256": "615bfd5d89375c9a97121da02af8fa3795c541254059683695716f077c4df0fe",
+    "retrieved_at": "2026-10-25T05:43:33Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-ME-ImpartialAnalysis-RWC-Housing_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-ImpartialAnalysis-RWC-Housing_Redacted.pdf",
+    "title": "Measure E - Impartial Analysis",
+    "bytes": 385550,
+    "sha256": "463224fce1815c4d3fd084336b7ccd1e380cc9c150f22bfc0bb1bf988139f75c",
+    "retrieved_at": "2026-10-25T05:43:26Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-ME-RebutArgAgainst-RWC-Housing_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-RebutArgAgainst-RWC-Housing_Redacted.pdf",
+    "title": "Measure E - Rebuttal to Argument Against",
+    "bytes": 1566571,
+    "sha256": "3abab258b0666e67f3d293f284ebd001377084822bd9819b49535280fd3c5f4f",
+    "retrieved_at": "2026-10-25T05:43:29Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-ME-RebutArgInFavor-RWC-Housing_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-RebutArgInFavor-RWC-Housing_Redacted.pdf",
+    "title": "Measure E - Rebuttal to Argument in Favor",
+    "bytes": 1632050,
+    "sha256": "e0679e994d2aca845c93b32d62c9d88009d71f12a73a4f80cd8d9cb60d681098",
+    "retrieved_at": "2026-10-25T05:43:28Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ArgInFavor-Argument-San-Bruno-Business-License-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ArgInFavor-Argument-San-Bruno-Business-License-Tax_Redacted.pdf",
+    "title": "City of San Bruno Business License Tax Argument in Favor",
+    "bytes": 10364625,
+    "sha256": "8e8735aee51fecfa17138e8e444e5b90dfa13b3017a26ea098e408c741b7ce49",
+    "retrieved_at": "2026-10-25T05:43:37Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ImpartialAnalysis-San-Bruno-Business-License-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ImpartialAnalysis-San-Bruno-Business-License-Tax.pdf",
+    "title": "Measure EE - Impartial Analysis",
+    "bytes": 83288,
+    "sha256": "c115fbb250c53840d6f5df6a2d6f8a05c4ffc3fe6c54850331388ce80119d12b",
+    "retrieved_at": "2026-10-25T05:43:36Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-RebutArgAgainst-San-Bruno-Business-License-Tax-Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-RebutArgAgainst-San-Bruno-Business-License-Tax-Redacted.pdf",
+    "title": "Measure EE - Rebuttal to Argument Against",
+    "bytes": 3787127,
+    "sha256": "122756d6530f73259171b254092a0e9edb9cb4c7739390f68b393b9e2a6fb2a9",
+    "retrieved_at": "2026-10-25T05:43:39Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-RebutArgInFavor-San-Bruno-Business-License-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-RebutArgInFavor-San-Bruno-Business-License-Tax_Redacted.pdf",
+    "title": "Measure EE - Rebuttal to Argument in Favor",
+    "bytes": 1396003,
+    "sha256": "4f4525cd7ed5d5e2c2dad716f08f968746ea143000c284196abf22daa0621dfb",
+    "retrieved_at": "2026-10-25T05:43:38Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MF-ImpartialAnalysis-San-Mateo-Charter-Amendment-Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MF-ImpartialAnalysis-San-Mateo-Charter-Amendment-Redacted.pdf",
+    "title": "Measure F - Impartial Analysis",
+    "bytes": 2451172,
+    "sha256": "fe0b8e568c7aba1e99e862a86f7d4b01ee83e26f97085fd19287556996e231db",
+    "retrieved_at": "2026-10-25T05:43:52Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ArgInFavor-City-of-San-Carlos-Use-Tax-Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ArgInFavor-City-of-San-Carlos-Use-Tax-Redacted.pdf",
+    "title": "City of San Carlos Use Tax Measure Argument in Favor",
+    "bytes": 407569,
+    "sha256": "2d8b2bc802d84004971c4694e4babbe5305b65b935b5a9e94549391130218176",
+    "retrieved_at": "2026-10-25T05:43:41Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ImpartialAnalysis-City-of-San-Carlos-Use-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ImpartialAnalysis-City-of-San-Carlos-Use-Tax.pdf",
+    "title": "Measure G - Impartial Analysis",
+    "bytes": 743223,
+    "sha256": "d2dae6d3a4218bbb102c30e3a3c15e8cb5c2fb150d4d74ba956023636642a40f",
+    "retrieved_at": "2026-10-25T05:43:40Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MG-RebutArgAgainst-City-of-San-Carlos-Use-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-RebutArgAgainst-City-of-San-Carlos-Use-Tax_Redacted.pdf",
+    "title": "Measure G - Rebuttal to Argument Against",
+    "bytes": 5022976,
+    "sha256": "a27a21043e7651c4ff1ea1e7387d15b4d338bb30bd831a2ba41eb000e6f1d621",
+    "retrieved_at": "2026-10-25T05:43:43Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MG-RebutArgInFavor-City-of-San-Carlos-Use-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-RebutArgInFavor-City-of-San-Carlos-Use-Tax_Redacted.pdf",
+    "title": "Measure G - Rebuttal to Argument in Favor",
+    "bytes": 3203839,
+    "sha256": "829622b7d49275c676cede8acc76abc63ca9851fa7c45b3ea325a46b72a3abb0",
+    "retrieved_at": "2026-10-25T05:43:42Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MH-ImpartialAnalysis-San-Mateo-Transactions-and-Use-Tax-Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-ImpartialAnalysis-San-Mateo-Transactions-and-Use-Tax-Redacted.pdf",
+    "title": "Measure H - Impartial Analysis",
+    "bytes": 3985580,
+    "sha256": "8c34b935da0a8cbd28672c78a4b3bc5ef15bbffa315b427b0568e3ab5f282c7f",
+    "retrieved_at": "2026-10-25T05:43:45Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MH-RebutArgAgainst-San-Mateo-Transactions-and-Use-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-RebutArgAgainst-San-Mateo-Transactions-and-Use-Tax_Redacted.pdf",
+    "title": "Measure H - Rebuttal to Argument Against",
+    "bytes": 21354356,
+    "sha256": "39f8cda2bf4e435b756a6e89b74f2a851c825f2185383ad8d5f65eef6c6337f5",
+    "retrieved_at": "2026-10-25T05:43:51Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MH-RebutArgInFavor-San-Mateo-Transactions-and-Use-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-RebutArgInFavor-San-Mateo-Transactions-and-Use-Tax_Redacted.pdf",
+    "title": "Measure H - Rebuttal to Argument in Favor",
+    "bytes": 1184682,
+    "sha256": "cf958aa9799c85452d50b819bdd9cda372584d97e4dce650f72b832a4a4b5005",
+    "retrieved_at": "2026-10-25T05:43:47Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MI-ImpartialAnalysis-Half-Moon-Bay-Coastal-Land_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MI-ImpartialAnalysis-Half-Moon-Bay-Coastal-Land_Redacted.pdf",
+    "title": "Measure I - Impartial Analysis",
+    "bytes": 17165,
+    "sha256": "4f0adf00b5b516f7c2cd1869f8cbcbb152961a64b2af1e656c085584314a5bf8",
+    "retrieved_at": "2026-10-25T05:43:08Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MJ-ImpartialAnalysis-SMC-Charter-Extension-to-Call%20Special%20Election.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MJ-ImpartialAnalysis-SMC-Charter-Extension-to-Call%20Special%20Election.pdf",
+    "title": "Measure J - Impartial Analysis",
+    "bytes": 80899,
+    "sha256": "db9d881a44157b18338295c51952269c622596f9e195894166db6fb3057de16d",
+    "retrieved_at": "2026-10-25T05:42:32Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MK-ImpartialAnalysis-San-Carlos-SD-Parcel-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MK-ImpartialAnalysis-San-Carlos-SD-Parcel-Tax.pdf",
+    "title": "Measure K - Impartial Analysis",
+    "bytes": 109462,
+    "sha256": "e98ffee2d4fc2ba93d0f4295e36f00a1ffd2a7c7bf7340cf3b832724d7d036ed",
+    "retrieved_at": "2026-10-25T05:42:48Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-ML-ImpartialAnalysis-SMC-Charter-Extreme-Weather.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-ML-ImpartialAnalysis-SMC-Charter-Extreme-Weather.pdf",
+    "title": "Measure L - Impartial Analysis",
+    "bytes": 51181,
+    "sha256": "00f5fa81560a4ae0e5acc4bb2163cca312f95d6357a1e260f93467bbe556fa49",
+    "retrieved_at": "2026-10-25T05:42:31Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MM-ImpartialAnalysis-JUHSD-Parcel-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MM-ImpartialAnalysis-JUHSD-Parcel-Tax.pdf",
+    "title": "Measure M - Impartial Analysis",
+    "bytes": 241701,
+    "sha256": "acc83b79b2e0f4a6193103ffdeeaea46e04f3137baf7c82200ab586221f29eef",
+    "retrieved_at": "2026-10-25T05:42:42Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MM-RebutArgAgainst-JUHSD-Parcel-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MM-RebutArgAgainst-JUHSD-Parcel-Tax_Redacted.pdf",
+    "title": "Measure M - Rebuttal to Argument Against",
+    "bytes": 964933,
+    "sha256": "d5530a5212ce14e161b98ed055b529b601de1e0bca2b9a70af17607e8f3d3a67",
+    "retrieved_at": "2026-10-25T05:42:44Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MN-ImpartialAnalysis-PortolaValley-Transfer-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-ImpartialAnalysis-PortolaValley-Transfer-Tax.pdf",
+    "title": "Measure N - Impartial Analysis",
+    "bytes": 149700,
+    "sha256": "a4bf0ccc1abecfa186d481984a9cefbd8c40210b29ee91436efd25356a90afcc",
+    "retrieved_at": "2026-10-25T05:43:20Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MN-RebutArgAgainst-PortolaValley-Transfer-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-RebutArgAgainst-PortolaValley-Transfer-Tax_Redacted.pdf",
+    "title": "Measure N - Rebuttal to Argument Against",
+    "bytes": 78438689,
+    "sha256": "5b2b4bbdb746857a985e20d3c69ee486c38f2456111b3b350cb852cc68a272b3",
+    "retrieved_at": "2026-10-25T05:43:25Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MN-RebutArgInFavor-Portola%20Valley-Transfer-Tax_Redacted_.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-RebutArgInFavor-Portola%20Valley-Transfer-Tax_Redacted_.pdf",
+    "title": "Measure N - Rebuttal to Argument in Favor",
+    "bytes": 2796274,
+    "sha256": "230c88711743040ee4e03330a4b7ba98d8c40a5aa3576965e876cb8b6957f63f",
+    "retrieved_at": "2026-10-25T05:43:22Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ArgAgainst-City-of-East-Palo-Alto-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ArgAgainst-City-of-East-Palo-Alto-Bond_Redacted.pdf",
+    "title": "City of East Palo Alto Bond Measure Argument Against",
+    "bytes": 1072252,
+    "sha256": "1805fa4dad4a688c09f70933589fe321794a5b82a14add62b399b959366331d2",
+    "retrieved_at": "2026-10-25T05:43:05Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ArgInFavor-City-of-East-Palo-Alto-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ArgInFavor-City-of-East-Palo-Alto-Bond_Redacted.pdf",
+    "title": "City of East Palo Alto Bond Measure Argument In Favor",
+    "bytes": 1786500,
+    "sha256": "70618aa4b7393cee4d6ab832dae6437a1cc0e97e439768ff8ad6877a19ed787f",
+    "retrieved_at": "2026-10-25T05:43:04Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ImpartialAnalysis-City-of-East-Palo-Alto-Bond.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ImpartialAnalysis-City-of-East-Palo-Alto-Bond.pdf",
+    "title": "Measure O - Impartial Analysis",
+    "bytes": 146494,
+    "sha256": "c8c684f600c2694ac3e576f89c7fd984ce0f9853891fcc85547357a36e866326",
+    "retrieved_at": "2026-10-25T05:43:04Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MO-RebutArgAgainst-City-of-East-Palo-Alto-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-RebutArgAgainst-City-of-East-Palo-Alto-Bond_Redacted.pdf",
+    "title": "Measure O - Rebuttal to Argument Against",
+    "bytes": 363728,
+    "sha256": "baa2fecfe0ec776f0d8d2681766d42683b87e846aa19a77290d56a77fa71e54e",
+    "retrieved_at": "2026-10-25T05:43:05Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MP-ImpartialAnalysis-MenloPark-Muni-Amendment.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MP-ImpartialAnalysis-MenloPark-Muni-Amendment.pdf",
+    "title": "Measure P - Impartial Analysis",
+    "bytes": 137167,
+    "sha256": "f1218f97286257c9e446fc967f4fce99649252019b1d466908d9b140c2eacea5",
+    "retrieved_at": "2026-10-25T05:43:11Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MP-RebutAgainst-Menlo-Park-Muni-Amendment_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MP-RebutAgainst-Menlo-Park-Muni-Amendment_Redacted.pdf",
+    "title": "Measure P - Rebuttal to Argument Against",
+    "bytes": 706671,
+    "sha256": "a4973738b3d619da75f617d8e18e98a946619646adc30d882ae2a172710ac188",
+    "retrieved_at": "2026-10-25T05:43:14Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MP-RebutArgInFavor-Menlo-Park-Muni-Amendment-Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MP-RebutArgInFavor-Menlo-Park-Muni-Amendment-Redacted.pdf",
+    "title": "Measure P - Rebuttal to Argument in Favor",
+    "bytes": 18926433,
+    "sha256": "d3fafbbc93d71c1091b14998071796d4158072079297cda54059e68d479ac78b",
+    "retrieved_at": "2026-10-25T05:43:13Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MQ-ImpartialAnalysis-Half-Moon-Bay-Housing_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MQ-ImpartialAnalysis-Half-Moon-Bay-Housing_Redacted.pdf",
+    "title": "Measure Q - Impartial Analysis",
+    "bytes": 18054,
+    "sha256": "af800e1c0e5ac9d7f89c5a3af486ab5e831e5b92c3dc95fd6054b7a9b4a47d06",
+    "retrieved_at": "2026-10-25T05:43:10Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MR-ImpartialAnalysis-Burlingame-ESD-Bond.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-ImpartialAnalysis-Burlingame-ESD-Bond.pdf",
+    "title": "Measure R - Impartial Analysis",
+    "bytes": 117197,
+    "sha256": "ddeb0a284c6526f6f01a13062350068311d157dba816049dda972745c003eab4",
+    "retrieved_at": "2026-10-25T05:42:38Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MR-RebutArgAgainst-Burlingame-ESD-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-RebutArgAgainst-Burlingame-ESD-Bond_Redacted.pdf",
+    "title": "Measure R - Rebuttal to Argument Against",
+    "bytes": 2919153,
+    "sha256": "11a4d055adad0b2968befa775d9e4d4bbf904e15a3611dcba3c6f2ffe6336829",
+    "retrieved_at": "2026-10-25T05:42:40Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MR-RebutArgInFavor-Burlingame-ESD-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-RebutArgInFavor-Burlingame-ESD-Bond_Redacted.pdf",
+    "title": "Measure R - Rebuttal to Argument in Favor",
+    "bytes": 500992,
+    "sha256": "1c6558e77dc833326a7afe8c65b0a5dfde957f93e6b1355584ecf062497ae0dc",
+    "retrieved_at": "2026-10-25T05:42:39Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ArgInFavor-San-Bruno-Housing-Permit-and-Development_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ArgInFavor-San-Bruno-Housing-Permit-and-Development_Redacted.pdf",
+    "title": "City of San Bruno Housing Permits and Development Measure Argument in Favor",
+    "bytes": 9097661,
+    "sha256": "6bb771b2c36014819b2a138742d7ea2e09295063bd0e647fe286a6c2ea413670",
+    "retrieved_at": "2026-10-25T05:43:31Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ImpartialAnalysis-San-Bruno-Hosuing-Permit-and-Development.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ImpartialAnalysis-San-Bruno-Hosuing-Permit-and-Development.pdf",
+    "title": "Measure S - Impartial Analysis",
+    "bytes": 78731,
+    "sha256": "c2abf4150dae76ae670975d8030c06aa5bf4f5f5375cd6ce1e430fff3b207c86",
+    "retrieved_at": "2026-10-25T05:43:30Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MT-ImpartialAnalysis-Pacifica-SD-Parcel-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-ImpartialAnalysis-Pacifica-SD-Parcel-Tax.pdf",
+    "title": "Measure T - Impartial Analysis",
+    "bytes": 95071,
+    "sha256": "ab45c11ea1f039d9dd2b1a0af0b7059a7bbf1b769f0223eac297f3a103e477be",
+    "retrieved_at": "2026-10-25T05:42:45Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MT-RebutArgAgainst-Pacifica-SD-Parcel-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-RebutArgAgainst-Pacifica-SD-Parcel-Tax_Redacted.pdf",
+    "title": "Measure T - Rebuttal to Argument Against",
+    "bytes": 4118503,
+    "sha256": "b3a49405733d134be0a2bf349e92ea295dd1b22ffae1f240c40f133983320f0c",
+    "retrieved_at": "2026-10-25T05:42:46Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MT-RebutArgInFavor-Pacifica-SD-Parcel-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-RebutArgInFavor-Pacifica-SD-Parcel-Tax_Redacted.pdf",
+    "title": "Measure T - Rebuttal to Argument in Favor",
+    "bytes": 466189,
+    "sha256": "e249022649cf1de03203bc827aea9c6fa222eb0788bab70fbcf670bb1af8ed5a",
+    "retrieved_at": "2026-10-25T05:42:45Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MU-ImpartialAnalysis-SMC-Charter-Reapportionment.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MU-ImpartialAnalysis-SMC-Charter-Reapportionment.pdf",
+    "title": "Measure U - Impartial Analysis",
+    "bytes": 783804,
+    "sha256": "dbd9fddde80d2c03052b1a1164291a6a1e16b0f9569b1b40286cac0f253a616b",
+    "retrieved_at": "2026-10-25T05:42:32Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MV-ImpartialAnalysis-SMCCD-Bond.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-ImpartialAnalysis-SMCCD-Bond.pdf",
+    "title": "Measure V - Impartial Analysis",
+    "bytes": 116969,
+    "sha256": "77e2de30fa2e015262762725b1d3f88d05407df23574a779c8b0f7e73314e91f",
+    "retrieved_at": "2026-10-25T05:42:49Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MV-RebutArgAgainst-SMCCD-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-RebutArgAgainst-SMCCD-Bond_Redacted.pdf",
+    "title": "Measure V - Rebuttal to Argument Against",
+    "bytes": 1769984,
+    "sha256": "546a20d015f7196692fdb320cd42f13c512c6fbfdcdc2ed54cf89c0f56314d72",
+    "retrieved_at": "2026-10-25T05:42:51Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MV-RebutArgInFavor-SMCCD-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-RebutArgInFavor-SMCCD-Bond_Redacted.pdf",
+    "title": "Measure V - Rebuttal to Argument in Favor",
+    "bytes": 888524,
+    "sha256": "e3d0b28dc8fdc2ed3927d3ebad7608e511de0755d0dd2021127b4b61d15fcea6",
+    "retrieved_at": "2026-10-25T05:42:50Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MW-ImpartialAnalysis-SMFCSD-Bond.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-ImpartialAnalysis-SMFCSD-Bond.pdf",
+    "title": "Measure W - Impartial Analysis",
+    "bytes": 108796,
+    "sha256": "a44c93b09b166f87a90174004c7beda48251fadcd10120360f9c74ecb8734176",
+    "retrieved_at": "2026-10-25T05:42:52Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MW-RebutArgAgainst-SMFCSD-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-RebutArgAgainst-SMFCSD-Bond_Redacted.pdf",
+    "title": "Measure W - Rebuttal to Argument Against",
+    "bytes": 3051283,
+    "sha256": "914886c6ed3369334cc6005d2266a7b74814c32ebcb6122e4fc5301df9587526",
+    "retrieved_at": "2026-10-25T05:42:54Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MW-RebutArgInFavor-SMFCSD-Bond_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-RebutArgInFavor-SMFCSD-Bond_Redacted.pdf",
+    "title": "Measure W - Rebuttal to Argument in Favor",
+    "bytes": 1048798,
+    "sha256": "2ad2c39bb69c0c7606e28727d69de8657db70380993aea051e205a536e48deb7",
+    "retrieved_at": "2026-10-25T05:42:53Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MX-ImpartialAnalysis-City-of-Brisbane-Business-License-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MX-ImpartialAnalysis-City-of-Brisbane-Business-License-Tax.pdf",
+    "title": "Measure X - Impartial Analysis",
+    "bytes": 66703,
+    "sha256": "d005ee006c504ea188734b5793540052f6c182afe66cde90ef68f88aca349bb3",
+    "retrieved_at": "2026-10-25T05:42:58Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MY-ImpartialAnalysis-Belmont-Special-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-ImpartialAnalysis-Belmont-Special-Tax.pdf",
+    "title": "Measure Y - Impartial Analysis",
+    "bytes": 307771,
+    "sha256": "710020a1cc79ce0ab6c1d0557a1cfa19fd19468dbcf06af1f737925a74d2c700",
+    "retrieved_at": "2026-10-25T05:42:55Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgAgainst-Belmont-Special-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgAgainst-Belmont-Special-Tax_Redacted.pdf",
+    "title": "Measure Y - Rebuttal to Argument Against",
+    "bytes": 2544582,
+    "sha256": "acb4acb26533af07a806e0df7f8e2b2048f1b326a2983fe76f5516fc65f465d8",
+    "retrieved_at": "2026-10-25T05:42:57Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgInFavor-Belmont-Special-Tax_Redacted.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgInFavor-Belmont-Special-Tax_Redacted.pdf",
+    "title": "Measure Y - Rebuttal to Argument in Favor",
+    "bytes": 2300962,
+    "sha256": "df071709ace6a0739db3ab19a3030be34d7cb739730b509175270c6c419590c0",
+    "retrieved_at": "2026-10-25T05:42:56Z"
+  },
+  "https://smcacre.gov/system/files/2026-08/52-ENG-MZ-ImpartialAnalysis-Cabrillo-USD-Parcel-Tax.pdf": {
+    "url": "https://smcacre.gov/system/files/2026-08/52-ENG-MZ-ImpartialAnalysis-Cabrillo-USD-Parcel-Tax.pdf",
+    "title": "Measure Z - Impartial Analysis",
+    "bytes": 245952,
+    "sha256": "82eb13562f4933253fd8fccc62694107fcbc217ab09bd07c0f7c64e2ba3ab967",
+    "retrieved_at": "2026-10-25T05:42:41Z"
+  }
+}

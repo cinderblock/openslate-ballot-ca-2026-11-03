@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pacifica School District — Measure T (Parcel Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:46Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure T on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-06/52-ENG-M103-Contest%20Code-Reso-Pacifica%20SD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "bc7dbdf927311df3ec5d264fdfec8c799a1337e1ded8815a615d3fdbb25620a0"
+    },
+    {
+      "title": "Impartial analysis of Measure T",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-ImpartialAnalysis-Pacifica-SD-Parcel-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ab45c11ea1f039d9dd2b1a0af0b7059a7bbf1b769f0223eac297f3a103e477be"
+    },
+    {
+      "title": "Argument in favor of Measure T, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M103-Contest%20Code-5ArgInFavor-Pacifica%20SD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "42f85a8e3d6a21dab967f9a90c8cddf5c4bce7c6fadcd146345b4c3c42781a89"
+    },
+    {
+      "title": "Argument against Measure T, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M103-Contest%20Code-7ArgAgainst-Pacifica%20SD%20Parcel%20Tax_Redacted_0_0.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "83940a75f26ec2258c5d6474301be8060396d31844fc3a786443b9642fd556a0"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure T, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-RebutArgInFavor-Pacifica-SD-Parcel-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e249022649cf1de03203bc827aea9c6fa222eb0788bab70fbcf670bb1af8ed5a"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure T, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-RebutArgAgainst-Pacifica-SD-Parcel-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b3a49405733d134be0a2bf349e92ea295dd1b22ffae1f240c40f133983320f0c"
+    }
+  ]
+}

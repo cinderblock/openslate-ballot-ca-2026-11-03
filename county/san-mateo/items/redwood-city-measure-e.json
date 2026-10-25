@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Redwood City — Measure E (Rent Control and Eviction Limits Initiative)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/redwood-city",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:29Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure E on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M108-Contest%20Code-Reso-RWC%20Housing_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "00f25b487f050792dadb03d7762213d36d190105efd4e695875b62f333259291"
+    },
+    {
+      "title": "Impartial analysis of Measure E",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-ImpartialAnalysis-RWC-Housing_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "463224fce1815c4d3fd084336b7ccd1e380cc9c150f22bfc0bb1bf988139f75c"
+    },
+    {
+      "title": "Argument in favor of Measure E, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M108-Contest%20Code-5ArgInFavor-RWC%20Housing_Redacted_0.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "1e6228b49d0497fa5493cb312bad0e18850609cb1b57a169d4df07ca5a990efb"
+    },
+    {
+      "title": "Argument against Measure E, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M108-Contest%20Code-7ArgAgainst-RWC%20Housing_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9cc40e7782fe21aaa76cb401d99b9aee5cd813b1945a36865f3a7857104cb588"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure E, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-RebutArgInFavor-RWC-Housing_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e0679e994d2aca845c93b32d62c9d88009d71f12a73a4f80cd8d9cb60d681098"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure E, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-RebutArgAgainst-RWC-Housing_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "3abab258b0666e67f3d293f284ebd001377084822bd9819b49535280fd3c5f4f"
+    }
+  ]
+}

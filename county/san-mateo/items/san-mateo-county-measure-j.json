@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Mateo County — Measure J (Charter Amendment Measure – Extension to Call a Special Election or Appoint)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:32Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measures J, L, U and AA on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "db9b218ebad34190631d655a933a558be422f90d367b4ad07c51ef85c59efae6"
+    },
+    {
+      "title": "Impartial analysis of Measure J",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MJ-ImpartialAnalysis-SMC-Charter-Extension-to-Call%20Special%20Election.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "db9d881a44157b18338295c51952269c622596f9e195894166db6fb3057de16d"
+    }
+  ]
+}

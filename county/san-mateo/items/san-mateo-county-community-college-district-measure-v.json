@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Mateo County Community College District — Measure V (Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:51Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure V on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-Reso-SMCCD%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2a44e4aec2b7613fd7c69583e39a7ef2211fba465c221eb9b2dceafd1a0993b7"
+    },
+    {
+      "title": "Impartial analysis of Measure V",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-ImpartialAnalysis-SMCCD-Bond.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "77e2de30fa2e015262762725b1d3f88d05407df23574a779c8b0f7e73314e91f"
+    },
+    {
+      "title": "Argument in favor of Measure V, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-5ArgInFavor-SMCCD%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "79cc6d976a7ac2fd0f72b5e9c3f0613d47a3b9fc724141fcb67e91d4628879d8"
+    },
+    {
+      "title": "Argument against Measure V, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M307-Contest%20Code-6ArgAgainst-SMCCD%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "cbeb9b14b8445088b169c6ab417a697ef6cfa0bd2250432c106d363252fa7d29"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure V, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-RebutArgInFavor-SMCCD-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e3d0b28dc8fdc2ed3927d3ebad7608e511de0755d0dd2021127b4b61d15fcea6"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure V, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-RebutArgAgainst-SMCCD-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "546a20d015f7196692fdb320cd42f13c512c6fbfdcdc2ed54cf89c0f56314d72"
+    }
+  ]
+}

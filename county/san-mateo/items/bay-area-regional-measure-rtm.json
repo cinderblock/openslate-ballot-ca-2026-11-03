@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/bay-area",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:37Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure RTM on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M206-Contest%20Code-Reso-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "343dbfda30034769a5ca0f3db2b31281fb17cbe5ea2737c0e470e0e7b7b4347d"
+    },
+    {
+      "title": "Impartial analysis of Measure RTM",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-ImpartialAnalysis-Public-Transit-District-Sales-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "88da1639b2d0cee37228184d0190eb6f277afa6456a53c2078d914bc25b0d031"
+    },
+    {
+      "title": "Argument in favor of Measure RTM, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-4ArginFavor-Public%20Transit%20District%20Sales%20Tax_Redacted_0.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d608179afc2d502a33be824e70fdc550fc8d6bfcf3baf441375f65f14ed60288"
+    },
+    {
+      "title": "Argument against Measure RTM, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-46ArgAgainst-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f7b9633802547be0f7fb140da094e9af653b96e5b47ad2ea26098dbab35d53d2"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure RTM, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-RebutArgInFav-Public-Transit-District-Sales-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8b39424472a94d01b416287ffa3174e570f0a162c047dddf240bd9910d401fea"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure RTM, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-Contest%20Code-6RebutArgAgainst-Public-Transit-District-Sales-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "bfa4f556ea75c776a5a32362987289f76f215947b5d3a90121de147aab9277fa"
+    }
+  ]
+}

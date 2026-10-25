@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Brisbane — Measure X (Business License Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/brisbane",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:59Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure X on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M302-Contest%20Code-Reso-City%20of%20Brisbane%20Business%20License%20Tax_Redacted_1.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "dd2389d19c9923ae4af1be749cf7b50a3bc685714ca31b8849f7b8aa133ce3ef"
+    },
+    {
+      "title": "Impartial analysis of Measure X",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MX-ImpartialAnalysis-City-of-Brisbane-Business-License-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d005ee006c504ea188734b5793540052f6c182afe66cde90ef68f88aca349bb3"
+    },
+    {
+      "title": "Argument in favor of Measure X, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M302-Contest%20Code-4ArgInFavor-City%20of%20Brisbane%20Business%20License%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "0419962b178beb59be80edd12a2b18dd0eb728b3ebeb429f141ac115deb41b8f"
+    }
+  ]
+}

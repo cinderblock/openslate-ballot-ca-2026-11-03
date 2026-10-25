@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Mateo County — Measure AA (Charter Amendment Measure – Affirmation of Rights)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:31Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measures J, L, U and AA on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "db9b218ebad34190631d655a933a558be422f90d367b4ad07c51ef85c59efae6"
+    },
+    {
+      "title": "Impartial analysis of Measure AA",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MAA-ImpartialAnalysis-SMC-Charter-Affirmation-of-Rights.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6b12116c6249c79e08208d3e6afc63266fd09a0084055d2cb21077707956a6eb"
+    }
+  ]
+}

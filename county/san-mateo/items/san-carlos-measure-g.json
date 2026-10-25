@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Carlos — Measure G (Transactions and Use Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-carlos",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:43Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure G on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M104-Contest%20Code-Reso-City%20of%20San%20Carlos%20Use%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b4f9ac9d5c302bd9a6f386fbb128c979c20c02a9b0e28bb4142790f38b62052a"
+    },
+    {
+      "title": "Impartial analysis of Measure G",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ImpartialAnalysis-City-of-San-Carlos-Use-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d2dae6d3a4218bbb102c30e3a3c15e8cb5c2fb150d4d74ba956023636642a40f"
+    },
+    {
+      "title": "Argument in favor of Measure G, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ArgInFavor-City-of-San-Carlos-Use-Tax-Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2d8b2bc802d84004971c4694e4babbe5305b65b935b5a9e94549391130218176"
+    },
+    {
+      "title": "Argument against Measure G, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M104-Contest%20Code-7ArgAgainst-City%20of%20San%20Carlos%20Use%20Tax_Redacted%20%281%29.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4aed16b9e4962621e2c10c06eba457104f5b66f33a5b7c0e25c57158914724b2"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure G, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-RebutArgInFavor-City-of-San-Carlos-Use-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "829622b7d49275c676cede8acc76abc63ca9851fa7c45b3ea325a46b72a3abb0"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure G, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-RebutArgAgainst-City-of-San-Carlos-Use-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a27a21043e7651c4ff1ea1e7387d15b4d338bb30bd831a2ba41eb000e6f1d621"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Mateo-Foster City School District — Measure W (Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:54Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure W on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-Reso-SMFCSD%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "df14dc287302eaa24029ee4664988e8161fac276a58d8afa757c24508ab39ba5"
+    },
+    {
+      "title": "Impartial analysis of Measure W",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-ImpartialAnalysis-SMFCSD-Bond.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a44c93b09b166f87a90174004c7beda48251fadcd10120360f9c74ecb8734176"
+    },
+    {
+      "title": "Argument in favor of Measure W, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-5ArgInFavor-SMFCSD%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "19a8a8b76995435df98d9ae841421f53642655a70620dc6a244dbf791ad83aec"
+    },
+    {
+      "title": "Argument against Measure W, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-7ArgAgainst-SMFCSD%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "40d83fde1903a13e1ec3053dcde6d64111db4c102fbc7dde8f43f323cd46e136"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure W, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-RebutArgInFavor-SMFCSD-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2ad2c39bb69c0c7606e28727d69de8657db70380993aea051e205a536e48deb7"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure W, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-RebutArgAgainst-SMFCSD-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "914886c6ed3369334cc6005d2266a7b74814c32ebcb6122e4fc5301df9587526"
+    }
+  ]
+}

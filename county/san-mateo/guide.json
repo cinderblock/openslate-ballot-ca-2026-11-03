@@ -1,0 +1,19 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "title": "San Mateo County measure documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Mateo County Elections",
+      "uri": "https://www.smcacre.gov/elections",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-25T05:43:53Z",
+    "sources": [
+      "https://www.smcacre.gov/elections/current-election"
+    ]
+  }
+}

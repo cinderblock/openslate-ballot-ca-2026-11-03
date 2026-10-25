@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pacifica — Measure BB (Transactions and Use Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/pacifica",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:19Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure BB on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M402-Contest%20Code-Reso-Pacifica%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b1649da5de4e951043e388cbbf18c7b83130e6edff6914f999dc12c832a2f087"
+    },
+    {
+      "title": "Impartial analysis of Measure BB",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ImpartialAnalysis-Pacifica-Transactions-and-Use-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "fe1796525870f17551fb57e48bc11b90f1089c5065f8b5dc752c5013dc5a4b41"
+    },
+    {
+      "title": "Argument in favor of Measure BB, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ArgInFavor-Pacifica-Transactions-and-Use-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "625c20426b4c1b927c007c837ef1a39da42258f8c04b1d4517e6b9e3f7fd8929"
+    },
+    {
+      "title": "Argument against Measure BB, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M402-Contest%20Code-7ArgAgainst-Pacifica%20Transactions%20and%20Use%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "3a9cafc35791dc6f13f74271a89d3dec0448504dd88063b3d5bb94aabea92a13"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure BB, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-RebutArgInFavor-Pacifica-Transactions-and-Use-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ef527c00b01179b9478671fc0b646782b9d043c733cbb12eb834224235d2b6b3"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure BB, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-RebutArgAgainst-Pacifica-Transactions-and-Use-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "756ffe227f266494a07e0b0a6299d6ad1e3e6d3305e4967bb0508d9563f27c68"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Carlos School District — Measure K (Parcel Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:48Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure K on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-05/52-ENG-M101-Contest%20Code-Reso-San%20Carlos%20SD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "00dfb84d7bb7512dfe4f3ec651142a3e3438b0c688f6a4cdeb0413657989fb78"
+    },
+    {
+      "title": "Impartial analysis of Measure K",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MK-ImpartialAnalysis-San-Carlos-SD-Parcel-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e98ffee2d4fc2ba93d0f4295e36f00a1ffd2a7c7bf7340cf3b832724d7d036ed"
+    },
+    {
+      "title": "Argument in favor of Measure K, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M101-Contest%20Code-5ArgInFavor-San%20Carlos%20SD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "46598b5336fac7f477746dda696c0895d4124106debfc166f29068a4eddd453a"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Burlingame School District — Measure R (Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:40Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure R on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M105-Contest%20Code-Reso-Burlingame%20ESD%20Bon_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e16fa8a147865340d54aee5421dd9e545c5321ca9d9df4389034096b92701d1f"
+    },
+    {
+      "title": "Impartial analysis of Measure R",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-ImpartialAnalysis-Burlingame-ESD-Bond.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ddeb0a284c6526f6f01a13062350068311d157dba816049dda972745c003eab4"
+    },
+    {
+      "title": "Argument in favor of Measure R, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-5ArgInFavor-Burlingame%20ESD%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2f1782b3741aa14d677dc434bedb0a02286a1ea3327e555c03761606eec615dd"
+    },
+    {
+      "title": "Argument against Measure R, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-7ArgAgainst-Burlingame%20ESD%20Bon_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "389bb42b97fcf694596a91132d2e907f5f80068741789c2147262e8582cf8ecc"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure R, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-RebutArgInFavor-Burlingame-ESD-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "1c6558e77dc833326a7afe8c65b0a5dfde957f93e6b1355584ecf062497ae0dc"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure R, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-RebutArgAgainst-Burlingame-ESD-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "11a4d055adad0b2968befa775d9e4d4bbf904e15a3611dcba3c6f2ffe6336829"
+    }
+  ]
+}

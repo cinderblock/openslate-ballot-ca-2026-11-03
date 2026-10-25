@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Belmont — Measure Y (Special Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/belmont",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:57Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure Y on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-Reso-Belmont%20Special%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "aaf00fbc8562ce0f8fac11c587d3b8c03a5875d270cc28ff0a59d66fffe99854"
+    },
+    {
+      "title": "Impartial analysis of Measure Y",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-ImpartialAnalysis-Belmont-Special-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "710020a1cc79ce0ab6c1d0557a1cfa19fd19468dbcf06af1f737925a74d2c700"
+    },
+    {
+      "title": "Argument in favor of Measure Y, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-ArgInFavor-Belmont%20Special%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f9adeb02e2e62aee094e7453061bba57bce79f132cb921304e6ee5bbe76a9d7d"
+    },
+    {
+      "title": "Argument against Measure Y, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M308-Contest%20Code-7ArgAgainst-Belmont%20Special%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "11c2cc700bdc68d8425aa9a1ab7fc945552721edd7e052dc19590211cd9f9efd"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure Y, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgInFavor-Belmont-Special-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "df071709ace6a0739db3ab19a3030be34d7cb739730b509175270c6c419590c0"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure Y, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgAgainst-Belmont-Special-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "acb4acb26533af07a806e0df7f8e2b2048f1b326a2983fe76f5516fc65f465d8"
+    }
+  ]
+}

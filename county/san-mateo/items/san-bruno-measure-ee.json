@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Bruno — Measure EE (Business License Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bruno",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:39Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure EE on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M305-Contest%20Code-Reso-San%20Bruno%20Business%20License%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7ca6b593aa3f383b3e875059b2967b3a0fb8f6d9fa049b6f6c48f63c0e7a04da"
+    },
+    {
+      "title": "Impartial analysis of Measure EE",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ImpartialAnalysis-San-Bruno-Business-License-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c115fbb250c53840d6f5df6a2d6f8a05c4ffc3fe6c54850331388ce80119d12b"
+    },
+    {
+      "title": "Argument in favor of Measure EE, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ArgInFavor-Argument-San-Bruno-Business-License-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8e8735aee51fecfa17138e8e444e5b90dfa13b3017a26ea098e408c741b7ce49"
+    },
+    {
+      "title": "Argument against Measure EE, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M305-Contest%20Code-7ArgAgainst-San%20Bruno%20Business%20License%20Tax_Redacted%20%281%29.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "667dcdf55de8adc65e86c66bb7b2558619fc1c7ff350a73b9c06d39ea673661f"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure EE, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-RebutArgInFavor-San-Bruno-Business-License-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4f4525cd7ed5d5e2c2dad716f08f968746ea143000c284196abf22daa0621dfb"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure EE, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-RebutArgAgainst-San-Bruno-Business-License-Tax-Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "122756d6530f73259171b254092a0e9edb9cb4c7739390f68b393b9e2a6fb2a9"
+    }
+  ]
+}

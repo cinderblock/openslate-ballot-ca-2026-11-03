@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Bruno — Measure S (Housing Permits and Developments Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bruno",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:31Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure S on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M303-Contest%20Code-Reso-San%20Bruno%20Hosuing%20Permit%20and%20Development_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "eb4e70296f4e7abb53937614c33bf88c643138039a521495c8f8064e588278a2"
+    },
+    {
+      "title": "Impartial analysis of Measure S",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ImpartialAnalysis-San-Bruno-Hosuing-Permit-and-Development.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c2abf4150dae76ae670975d8030c06aa5bf4f5f5375cd6ce1e430fff3b207c86"
+    },
+    {
+      "title": "Argument in favor of Measure S, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ArgInFavor-San-Bruno-Housing-Permit-and-Development_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6bb771b2c36014819b2a138742d7ea2e09295063bd0e647fe286a6c2ea413670"
+    }
+  ]
+}

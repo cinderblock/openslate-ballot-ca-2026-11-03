@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Half Moon Bay — Measure I (Coastal Land Use Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/half-moon-bay",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:09Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure I on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M309-Contest%20Code-Reso-Half%20Moon%20Bay%20Coastal%20Land_Redacted_0.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f9b8e79352f36d499bfa86ee55d00a4b9ec73bf33a90bf82cd04122685ca5338"
+    },
+    {
+      "title": "Impartial analysis of Measure I",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MI-ImpartialAnalysis-Half-Moon-Bay-Coastal-Land_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4f0adf00b5b516f7c2cd1869f8cbcbb152961a64b2af1e656c085584314a5bf8"
+    },
+    {
+      "title": "Argument in favor of Measure I, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M309-Contest%20Code-4ArgInFavor-Half%20Moon%20Bay%20Coastal%20Land_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "3026e0a50cf82e5cb5c8095becc855b06ce271426264a75f31386f452d887e2b"
+    }
+  ]
+}

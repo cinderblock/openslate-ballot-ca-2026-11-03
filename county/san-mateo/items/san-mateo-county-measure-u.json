@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Mateo County — Measure U (Charter Amendment Measure – Reapportionment of Supervisorial Districts)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:34Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measures J, L, U and AA on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "db9b218ebad34190631d655a933a558be422f90d367b4ad07c51ef85c59efae6"
+    },
+    {
+      "title": "Impartial analysis of Measure U",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MU-ImpartialAnalysis-SMC-Charter-Reapportionment.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "dbd9fddde80d2c03052b1a1164291a6a1e16b0f9569b1b40286cac0f253a616b"
+    },
+    {
+      "title": "Argument in favor of Measure U, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-204-Contest%20Code-5ArgInFavor-SMC%20Charter_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e97d9cbc2c6b6e7c52ede87f487cc7abd4f4ae274fd8e02f5ae5cbbba1764ea7"
+    }
+  ]
+}

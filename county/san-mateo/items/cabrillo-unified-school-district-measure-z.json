@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Cabrillo Unified School District — Measure Z (Parcel Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:42:42Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure Z on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M109-Contest%20Code-Reso-Cabrillo%20USD%20Parcel%20Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a3be79e88d15dc14e57ec218320c9997b5ac9f61a83997e04c5e2de73e53ce3b"
+    },
+    {
+      "title": "Impartial analysis of Measure Z",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MZ-ImpartialAnalysis-Cabrillo-USD-Parcel-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "82eb13562f4933253fd8fccc62694107fcbc217ab09bd07c0f7c64e2ba3ab967"
+    },
+    {
+      "title": "Argument in favor of Measure Z, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M109-Contest%20Code-5ArgInFavor-Cabrillo%20USD%20Parcel%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a6347b3f74ad49a782648fc5675db11af98028e441dd7960cb1861c009596c6b"
+    }
+  ]
+}

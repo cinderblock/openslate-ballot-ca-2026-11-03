@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Bruno — Measure DD (Fireworks Ban Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bruno",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:34Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure DD on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M304-Contest%20Code-Reso-San%20Bruno%20Fireworks%20Ban_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c04e2f5e8f672195d9bd3e7b90415bd0c39c76282f4c091c9573e08e2e4400c6"
+    },
+    {
+      "title": "Impartial analysis of Measure DD",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ImpartialAnalysis-San-Bruno-Fireworks-Ban.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "dfca5fd54b555bd1e6a14fc70cd91f9b70d848d4f9edfd8d3d99c40b52c92b5c"
+    },
+    {
+      "title": "Argument in favor of Measure DD, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ArgInFavor-San-Bruno-Fireworks-Ban_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c4f9dbd87f1cb1f76ea110a2ef8ca30c256a828bb8771c592fdcd66d21a799ed"
+    },
+    {
+      "title": "Argument against Measure DD, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M304-Contest%20Code-6ArgAgainst-San%20Bruno%20Fireworks%20Ban_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "29b50b1215893e74228f7e9bd2d20a915273c4c9af8a897226ca50e279312344"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure DD, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-RebutArgInFavor-San-Bruno-Fireworks-Ban-Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "615bfd5d89375c9a97121da02af8fa3795c541254059683695716f077c4df0fe"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure DD, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-RebutArgAgainst-San-Bruno-Fireworks-Ban_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "79d538378e26c40d509efb6d8ae2d6872ace63ad6b00c0949f9d4158498bd05c"
+    }
+  ]
+}

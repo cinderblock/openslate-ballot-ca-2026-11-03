@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Palo Alto — Measure O (Bond Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/east-palo-alto",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:05Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure O on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M207-Contest%20Code-Reso-City%20of%20East%20Palo%20Alto%20Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2a4cbc33915d3b03626cac9c068c6bca0441fdd251e8fc1a31965ef1b4e25d2e"
+    },
+    {
+      "title": "Impartial analysis of Measure O",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ImpartialAnalysis-City-of-East-Palo-Alto-Bond.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c8c684f600c2694ac3e576f89c7fd984ce0f9853891fcc85547357a36e866326"
+    },
+    {
+      "title": "Argument in favor of Measure O, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ArgInFavor-City-of-East-Palo-Alto-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "70618aa4b7393cee4d6ab832dae6437a1cc0e97e439768ff8ad6877a19ed787f"
+    },
+    {
+      "title": "Argument against Measure O, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ArgAgainst-City-of-East-Palo-Alto-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "1805fa4dad4a688c09f70933589fe321794a5b82a14add62b399b959366331d2"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure O, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-RebutArgAgainst-City-of-East-Palo-Alto-Bond_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "baa2fecfe0ec776f0d8d2681766d42683b87e846aa19a77290d56a77fa71e54e"
+    }
+  ]
+}

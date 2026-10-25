@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "East Palo Alto — Measure CC (Term Limits Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/east-palo-alto",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:07Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure CC on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M207-Contest%20-Code-Reso-EPA%20Term%20Limits_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "daef22a2faeadd173026c342f400b8257b7de61600b359bcc9eb97c75ac9af1a"
+    },
+    {
+      "title": "Impartial analysis of Measure CC",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-ImpartialAnalysis-EPA-Term-Limits_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "29a974ada7eccad8bfe937d1fe02c4d378891e8e7582a724325a41b0984624e4"
+    },
+    {
+      "title": "Argument in favor of Measure CC, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M207-Contest%20-Code-5ArgInFavor-EPA%20Term%20Limits_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d67f590d0e77806570a3b1512d8b248bd9c2825bc4a25538660cd832815571c3"
+    },
+    {
+      "title": "Argument against Measure CC, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M207-Contest%20-Code-7ArgAgainst-EPA%20Term%20Limits_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4057243f4b472b66ec23b00955d12e7cd309480f3f75387635d1bcfbf695095f"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure CC, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-RebutArgInFavor-EPA-Term-Limits_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d54ead243515d0be5788bc1b000ad16a62ff6c394b0cb2a05200722eba5c90df"
+    }
+  ]
+}

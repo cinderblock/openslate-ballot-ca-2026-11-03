@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Portola Valley — Measure N (Town Charter and Property Transfer Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/portola-valley",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-25T05:43:25Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure N on the ballot",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M205-Contest%20Code-Reso-Portola%20Valley%20Transfer%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "dee8e20e8db3f7a5a273d6923a5da9e494383ba98a26a0ffdd3b6917a4199ede"
+    },
+    {
+      "title": "Impartial analysis of Measure N",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-ImpartialAnalysis-PortolaValley-Transfer-Tax.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a4bf0ccc1abecfa186d481984a9cefbd8c40210b29ee91436efd25356a90afcc"
+    },
+    {
+      "title": "Argument in favor of Measure N, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M205-Contest%20Code-5ArgInFavor-Portola%20Valley%20Transfer%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8309a838e75c2ad31814b6ac352c7ed85e41e06a61214eba7a0659faebbe0db6"
+    },
+    {
+      "title": "Argument against Measure N, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M205-Contest%20Code-6ArgAgainst-Portola%20Valley%20Transfer%20Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7f9fdc32198bc884d8c41662a5e625c64dfcd6840ff420c831db078bbd9463e5"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure N, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-RebutArgInFavor-Portola%20Valley-Transfer-Tax_Redacted_.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "230c88711743040ee4e03330a4b7ba98d8c40a5aa3576965e876cb8b6957f63f"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure N, as filed",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-RebutArgAgainst-PortolaValley-Transfer-Tax_Redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5b2b4bbdb746857a985e20d3c69ee486c38f2456111b3b350cb852cc68a272b3"
+    }
+  ]
+}
