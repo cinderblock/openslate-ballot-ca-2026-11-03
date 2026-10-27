@@ -15,6 +15,7 @@
     "scrape:alameda": "bun scripts/scrape-alameda.ts",
     "scrape:scc": "bun scripts/scrape-scc.ts",
     "scrape:smc": "bun scripts/scrape-smc.ts",
+    "link-measures": "bun scripts/link-measures.ts",
     "check": "bun scripts/check-all.ts",
     "build-site": "bun scripts/build-site.ts",
     "format": "biome format --write .",

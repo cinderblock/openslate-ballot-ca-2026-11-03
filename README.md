@@ -14,6 +14,7 @@ each mirrored as a signed [OpenSlate](https://github.com/cinderblock/openslate)
 | **Alameda County** Voter Information Guide: candidate statements (with Berkeley and Oakland photos) and local measures (Registrar of Voters) | `county/alameda/` | `/county/alameda/guide.jws` |
 | **Santa Clara County** Voter Information Guide: candidate statements and local measures (Registrar of Voters) | `county/santa-clara/` | `/county/santa-clara/guide.jws` |
 | **San Mateo County** local measures' filed documents, linked (County Elections) | `county/san-mateo/` | `/county/san-mateo/guide.jws` |
+| **17 more counties** (Contra Costa, Fresno, Kern, Marin, Monterey, Napa, Placer, Riverside, Sacramento, San Bernardino, San Luis Obispo, Santa Barbara, Santa Cruz, Sonoma, Stanislaus, Ventura, Yolo): local measures' official documents, linked (each county's elections office, or the city clerk) | `county/<county>/` | `/county/<county>/guide.jws` |
 
 Each is its own signed manifest, because each is a different authority's
 publication; this repo's one key signs them all.
@@ -206,6 +207,35 @@ per measure (the regional transit measure RTM and D–EE):
 
 So San Mateo's guide has no statements and no measure text or signers.
 
+## Linked measure documents (17 more counties)
+
+For counties whose pamphlet nobody has scraped, each local measure in the
+endorsements catalog gets the official documents its election authority
+publishes, linked rather than mirrored: the full text or the resolution
+placing it on the ballot, the impartial analysis, the fiscal or tax rate
+statement, and the arguments and rebuttals. Most counties link these from
+their election page; for a city's measure, some leave them to the city
+clerk, whose page is then the source.
+
+- The links are researched by hand into a table per county,
+  `linked/<county>.json`. Every document was opened and checked against its
+  own text (the measure, the jurisdiction, the Nov 3, 2026 election, the kind
+  of document); each entry's `checked` says what was read. Measures with
+  nothing official online are listed under `missing`, with what was tried.
+- `bun run link-measures [county …]` fetches each document, records its
+  SHA-256 (`evidence/county/<county>/index.json`) and writes
+  `county/<county>/`. It stops if a title isn't a measure in the catalog for
+  the election (so every item lands on a race the app shows), if a catalog
+  measure in a table's jurisdictions is neither linked nor listed as missing,
+  or if a document isn't what its table says (a PDF starts with `%PDF`).
+- A web page (some counties publish the analysis and arguments as HTML) is
+  linked without a hash: its markup changes with every visit.
+- Some hosts refuse this script's requests (Monterey's, Kern's and Walnut
+  Creek's turn away HTTP/1.1 clients). A document there carries a `manual`
+  retrieval: its SHA-256, size, time and how it was fetched (PowerShell's
+  `Invoke-WebRequest -HttpVersion 2.0`). The script uses it when refused and
+  checks it whenever its own request gets through.
+
 ## Not endorsements
 
 This is **reference material, not endorsements.** Candidate statements and
@@ -253,6 +283,7 @@ bun run scrape:sd            # rebuild county/sd/
 bun run scrape:alameda       # rebuild county/alameda/
 bun run scrape:scc           # rebuild county/santa-clara/
 bun run scrape:smc           # rebuild county/san-mateo/ (about 530 MB of scans, cached)
+bun run link-measures        # rebuild the linked counties' guides from linked/*.json
 bun run check                # validate every guide's items and the files they name
 bun scripts/sync-subjects.ts # match items' subjects to their ballot sources (dry run; add --apply)
 ```
