@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rim of the World Recreation and Park District — Measure R (Special Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:23Z",
+  "documents": [
+    {
+      "title": "Full text of Measure R",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/FT_ROTW.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2a4c14ae4965f55694d1b622dabd8d4ae905b81c2574dc5a1715e4bc672ed19f"
+    },
+    {
+      "title": "Impartial analysis of Measure R",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/IA_ROTW.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8eef2531d45d736a3e99eba4bcdb3eeb91c2de30a1e929f081fea4484cb937fe"
+    },
+    {
+      "title": "Argument in favor of Measure R",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/AF_ROTW.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c1519ea05aa06b1eabce032e9a5ffed4af9f27354908805317d65248d06fe7ec"
+    }
+  ]
+}

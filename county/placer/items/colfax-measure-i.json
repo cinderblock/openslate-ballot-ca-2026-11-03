@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Colfax — Measure I",
+    "kind": "measure",
+    "jurisdiction": "us/ca/colfax",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:43Z",
+  "documents": [
+    {
+      "title": "Measure I (City of Colfax 1% transactions and use tax for streets and infrastructure): ballot question, impartial analysis, argument in favor and full text",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-I_9-10-2026.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5a66197fbcf7c54b1c128c538ed430e33461cf59dd6e963cae320520ed830f40"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "County Service Area 27 (Ross Valley Paramedic Authority) — Measure Y (Paramedic Services Special Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/marin-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:46:04Z",
+  "documents": [
+    {
+      "title": "Full text of Measure Y",
+      "source": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-csa-27-ross-valley-paramedic-service-area-110326/template-measure-html-060226-full-text",
+      "mediaType": "text/html"
+    },
+    {
+      "title": "Measure Y: impartial analysis and arguments (county web page)",
+      "source": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-csa-27-ross-valley-paramedic-service-area-110326",
+      "mediaType": "text/html"
+    }
+  ]
+}

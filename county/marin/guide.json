@@ -1,0 +1,21 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/marin-county",
+    "title": "Marin County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Marin County Elections Department",
+      "uri": "https://www.marincounty.gov/departments/elections",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:46:04Z",
+    "sources": [
+      "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+      "https://www.sausalito.gov/departments/administration/city_clerk/local_elections/measure_x_(2026).php",
+      "https://townoffairfaxca.gov/measure-r-paramedic-services-special-parcel-tax/"
+    ]
+  }
+}

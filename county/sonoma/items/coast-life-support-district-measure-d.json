@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Coast Life Support District — Measure D (Coast Life Support District Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:38Z",
+  "documents": [
+    {
+      "title": "Measure D: county voter guide pages — measure question, impartial analysis, argument in favor, full text (ordinance)",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9761_MeasD_CoastLifeSuppDist_ParcelTax_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d299ae3c7c1483c8dc41268576a00a18e2d4f79bedc7c8b8031aef44d28b94ed"
+    }
+  ]
+}

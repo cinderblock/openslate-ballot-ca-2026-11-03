@@ -1,0 +1,688 @@
+{
+  "dir": "county/monterey",
+  "jurisdiction": "us/ca/monterey-county",
+  "title": "Monterey County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Monterey County Elections",
+    "uri": "https://www.countyofmonterey.gov/government/departments-a-h/elections/home"
+  },
+  "pages": [
+    "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+    "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+    "https://www.cityofpacificgrove.gov/our_city/city_clerk/november_3_2026_general_election_and_ballot_measures.php",
+    "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+    "https://www.cityofmarina.org/1473/Measure-Q-City-of-Marina-911-Emergency-P",
+    "https://www.kingcity.com/CivicAlerts.aspx?AID=154",
+    "https://www.salinas.gov/City-Hall/Departments/City-Clerk/Elections-Voter-Information",
+    "https://www.salinas.gov/City-Hall/Departments/City-Attorney/Referendum-Ordinance-2687"
+  ],
+  "measures": [
+    {
+      "titles": ["Salinas — Measure G (Renewal of Measure G Sales Tax)"],
+      "jurisdiction": "us/ca/salinas",
+      "letter": "G",
+      "documents": [
+        {
+          "kind": "favor",
+          "url": "https://www.salinas.gov/files/sharedassets/city/v/1/your-government/city-clerk/documents/salinas-argument-in-favor-of-measure-g.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.salinas.gov/City-Hall/Departments/City-Clerk/Elections-Voter-Information",
+          "checked": "7pp scan w/ OCR layer; p1 'Vote YES on Measure G. It is not a new tax. In 2014, Salinas voters approved a one-cent local sales tax ... expires in 2030'; pp4-7 counterpart signature pages 'MEASURE G. NOVEMBER 3, 2026 ... Argument in Favor of Measure G'"
+        }
+      ],
+      "notes": "County list says all city measure documents are on file with the city clerk. The Salinas City Clerk's elections page links only the argument in favor; no full text/resolution, impartial analysis, argument against or rebuttals found on official city pages."
+    },
+    {
+      "titles": [
+        "Salinas — Measure H (Ordinance No. 2687, Repealing Rental Registration, Rent Stabilization, Tenant Protection and Tenant Anti-Harassment Ordinances)"
+      ],
+      "jurisdiction": "us/ca/salinas",
+      "letter": "H",
+      "documents": [
+        {
+          "kind": "text",
+          "title": "Ordinance No. 2687 (the ordinance being referred to the voters)",
+          "url": "https://www.salinas.gov/files/sharedassets/city/v/1/city-attorney/ordinance-no-2687.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.salinas.gov/City-Hall/Departments/City-Attorney/Referendum-Ordinance-2687",
+          "checked": "2pp; p1 'ORDINANCE NO. 2687 (N.C.S.) AN ORDINANCE REPEALING ORDINANCE NO. 2663, ORDINANCE NO. 2681, ORDINANCE NO. 2682, AND ORDINANCE NO. 2683' followed by a short 'City Attorney Impartial Analysis' paragraph and Sections 1-8"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.salinas.gov/files/sharedassets/city/v/1/your-government/city-clerk/documents/salinas-argument-in-favor-of-measure-h.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.salinas.gov/City-Hall/Departments/City-Clerk/Elections-Voter-Information",
+          "checked": "3pp scan; p1 Appendix D signature statement stamped 'RECEIVED CITY OF SALINAS AUG 13 2026'; p2 'ARGUMENT IN FAVOR OF MEASURE H ... Vote YES on Measure H to repeal what failed and replace it with what works'"
+        }
+      ],
+      "notes": "Referendum on Ordinance No. 2687 (adopted 2025). The ordinance PDF is on the City Attorney's referendum page, not the clerk's election page; it is the ordinance as adopted, not a ballot-pamphlet document, though its header contains a one-paragraph summary labelled 'City Attorney Impartial Analysis'. No separate impartial analysis, argument against, or rebuttals found on official city pages."
+    },
+    {
+      "titles": ["King City — Measure P (King City Public Safety, Local Services Measure)"],
+      "jurisdiction": "us/ca/king-city",
+      "letter": "P",
+      "documents": [
+        {
+          "kind": "resolution",
+          "title": "Official Measure P Resolution (Resolution No. 2026-5097, includes the ordinance)",
+          "url": "https://www.kingcity.com/DocumentCenter/View/1380/2026-5097-Ballot-Measure",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.kingcity.com/CivicAlerts.aspx?AID=154",
+          "checked": "19pp scan; p1 'RESOLUTION NO. 2026-5097 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF KING CITY ... SUBMITTING TO THE ELECTORS A BALLOT MEASURE REAUTHORIZING THE CITY'S EXISTING LOCALLY CONTROLLED TRANSACTIONS AND USE TAX AT A RATE OF 1.5% ... NOVEMBER 3, 2026'"
+        }
+      ],
+      "notes": "City news item links only the resolution and an FAQ; no impartial analysis or arguments found on the city site. County defers to city clerk."
+    },
+    {
+      "titles": ["Monterey County — Measure E (Transient Occupancy Tax Increase)"],
+      "jurisdiction": "us/ca/monterey-county",
+      "letter": "E",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147327/639205025265170000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "6pp; p1 'Before the Board of Supervisors County of Monterey ... Resolution No. 26-223 ... calling for an election for the purpose of submitting to the qualified electors of Monterey County a countywide measure' (TOT increase); linked as 'Full Text'",
+          "manual": {
+            "sha256": "838de6870ee29dcfae23b02eec910eba84eb42a139cbffc23a88d3ca2cbc921b",
+            "bytes": 174319,
+            "retrieved_at": "2026-10-27T08:47:43Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147771/639222425601600000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure E ... 2% increase to the existing transient occupancy tax ... unincorporated areas of the county from 10.5% to 12.5%'",
+          "manual": {
+            "sha256": "1caec2dabcf5a597b5a56ea32af0d00e8b2839f4b8910f58f02308c7af5be53d",
+            "bytes": 313588,
+            "retrieved_at": "2026-10-27T08:47:45Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147773/639222425792770000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Argument in Favor of Measure _ ... VOTE YES on Measure _ ... \"hotel tax,\" applied only on visitors ... in Monterey County'",
+          "manual": {
+            "sha256": "f7de6e31ddaadb51e414191d1e1e41f166a1778e385cbb6ec33368196c4bb0ac",
+            "bytes": 1188342,
+            "retrieved_at": "2026-10-27T08:47:45Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "No argument against or rebuttals listed by the county."
+    },
+    {
+      "titles": ["Carmel-by-the-Sea — Measure M (Transient Occupancy Tax)"],
+      "jurisdiction": "us/ca/carmel-by-the-sea",
+      "letter": "M",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/2026-06-02_r_2026-042_-_ordering_submission_of_ballot_measure_for_tot_for_11-3-26_election.pdf?1781647367",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "9pp; p1 'CITY COUNCIL RESOLUTION NO. 2026-042 ... ORDERING THE SUBMISSION TO THE QUALIFIED ELECTORS OF THE CITY OF CARMEL-BY-THE-SEA A MEASURE TO ADOPT A NEW TWO PERCENT TRANSIENT OCCUPANCY TAX'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/city_attorney_impartial_analysis_-_tot_-_signed.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "1p; 'CITY ATTORNEY'S IMPARTIAL ANALYSIS OF CITY OF CARMEL-BY-THE-SEA MEASURE _ ... June 2, 2026 ... November 3, 2026' (TOT); page lists it as 'TOT Ballot Measure M'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/primary_argument_in_favor_of_tot_ballot_measure_-_for_website_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "2pp; 'Primary Argument in Favor of TOT Ballot Measure ... Transient Occupancy Tax (TOT) is paid entirely by overnight lodging guests'"
+        },
+        {
+          "kind": "against",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/argument_against_carmel_tot_ballot_measure_-_for_website_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "2pp; 'Argument Against Measure __ ... whether hotel tax payments have increased'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/rebuttal_to_argument_against_measure_m_-_8.14.26_city_council_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "2pp scan; 'The opposition's argument obscures simple facts: Carmel-by-the-Sea's Transient Occupancy Tax is 10%. Measure M would increase it ...'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/rebuttal_to_argument_in_favor_of_measure_m_-_8.17.26_citizen_group_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "3pp scan; 'Citizens Against Carmel Hotel Tax Increase REBUTTAL TO ARGUMENT IN FAVOR OF MEASURE M'"
+        }
+      ],
+      "notes": "County list says documents are with the city clerk; all found on the City of Carmel-by-the-Sea ballot measures page. Analysis and primary arguments carry a blank letter ('Measure _'); the city page labels them Measure M."
+    },
+    {
+      "titles": ["Carmel-by-the-Sea — Measure N (Transactions and Use Tax Increase)"],
+      "jurisdiction": "us/ca/carmel-by-the-sea",
+      "letter": "N",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/2026-06-02_r_2026-043_-__ordering_submission_of_ballot_measure_for_sales_tax_for_11-3-26_election_corrected_6.15.26.pdf?1781647424",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "9pp; p1 'CITY COUNCIL RESOLUTION NO. 2026-043 ... ORDERING THE SUBMISSION TO THE QUALIFIED ELECTORS OF THE CITY OF CARMEL-BY-THE-SEA AT THE GENERAL MUNICIPAL ELECTION TO BE HELD ON NOVEMBER 3, 2026, A MEASURE INCREASING' the transactions and use tax (file name says 'corrected 6.15.26')"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/city_attorney_impartial_analysis_-_tut_-_signed.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "1p; 'City Attorney's Impartial Analysis Measure _ ... November 3, 2026 ... currently imposes a 1.5% transactions and use tax'; page lists it as 'TUT (Sales Tax) Ballot Measure N'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://ci.carmel.ca.us/sites/main/files/file-attachments/primary_argument_in_favor_of_tut_sales_tax_ballot_measure_-_for_website_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+          "checked": "2pp; 'Primary Argument in favor of a TUT/Sales Tax Ballot Measure Measure __ presents Carmel voters ...'"
+        }
+      ],
+      "notes": "No argument against or rebuttals posted for Measure N."
+    },
+    {
+      "titles": [
+        "South Monterey County Joint Union High School District — Measure J (Reorganization of School Districts)"
+      ],
+      "jurisdiction": "us/ca/monterey-county",
+      "letter": "J",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147331/639217289099870000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p; 'FULL TEXT OF MEASURE Shall South Monterey County Joint Union High School District (SMCJUHSD) ... be reorganized'",
+          "manual": {
+            "sha256": "6e1eea4fbca010e2d4a096cff5e293f50c2df8e7d78f1a86e34e0c6ee376c2e5",
+            "bytes": 115659,
+            "retrieved_at": "2026-10-27T08:47:43Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147809/639222453723730000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure J Pursuant to Education Code section 35767 ... reorganizes South Monterey County Joint Union High School District'",
+          "manual": {
+            "sha256": "a0340a89db0c7a95c9738be9dcbdcf406dd5d02be2eab1cba8553ea60e407905",
+            "bytes": 171228,
+            "retrieved_at": "2026-10-27T08:47:57Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147807/639222453721570000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Argument in Favor of Measure J ... Greenfield Unified School District and King City Joint Unified School District'",
+          "manual": {
+            "sha256": "e463c76eaff25338fad9f4f6f9482aadc0a474bede22f1217949d70e5f9e9d5d",
+            "bytes": 1243845,
+            "retrieved_at": "2026-10-27T08:47:56Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "against",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147805/639222453718100000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Argument Against Measure J A NO vote prevents dissolution of King City Union School District'",
+          "manual": {
+            "sha256": "6b6882fc17015619717bfc106cadcf8625c1c6b27de3f693accd6bcfc5a35850",
+            "bytes": 1301114,
+            "retrieved_at": "2026-10-27T08:47:55Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147889/639228423552570000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Rebuttal to Argument Against Measure J'",
+          "manual": {
+            "sha256": "2edf1fb047bb8576927178b5623e3f091ac123af9f4b014882672d3c2c6cdf48",
+            "bytes": 711104,
+            "retrieved_at": "2026-10-27T08:47:58Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "No rebuttal to the argument in favor listed."
+    },
+    {
+      "titles": [
+        "Marina — Measure Q (Marina 911 Emergency, Public Safety, and Community Services Measure)"
+      ],
+      "jurisdiction": "us/ca/marina",
+      "letter": "Q",
+      "documents": [
+        {
+          "kind": "resolution",
+          "title": "Measure Q Resolution (Resolution No. 2026-100)",
+          "url": "https://www.cityofmarina.org/ArchiveCenter/ViewFile/Item/15398",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.cityofmarina.org/1473/Measure-Q-City-of-Marina-911-Emergency-P",
+          "checked": "29pp; p1 'RESOLUTION NO. 2026-100 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF MARINA ORDERING THE SUBMISSION TO CITY VOTERS OF A PROPOSED UTILITY USERS' TAX OF 7% AT THE GENERAL MUNICIPAL ELECTION TO BE HELD ON NOVEMBER 3, 2026'"
+        },
+        {
+          "kind": "other",
+          "title": "Measure Q: arguments for and against and rebuttals (combined, with signature forms)",
+          "url": "https://cityofmarina.org/DocumentCenter/View/17476/Arguments-and-Rebutals",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.cityofmarina.org/1473/Measure-Q-City-of-Marina-911-Emergency-P",
+          "checked": "12pp scan; p1 'ARGUMENT AGAINST MEASURE Q Stop the Tax Hike'; p4 argument in favor (police/firefighters, 'Measure Q is the solution'); p8 'Vote YES on Measure Q' (rebuttal); p10 'Measure Q is DECEPTIVE' (rebuttal); remaining pages signature/authorization forms"
+        }
+      ],
+      "notes": "Arguments and rebuttals are one combined scanned PDF. No impartial analysis found on the city's Measure Q page."
+    },
+    {
+      "titles": ["Monterey — Measure S (Continuation of Street Infrastructure Rehabilitation Tax)"],
+      "jurisdiction": "us/ca/monterey",
+      "letter": "S",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/26-103%20Continuation%20of%20Special%20Taxations%20and%20Use%20Tax.pdf?t=202607231903390",
+          "mediaType": "application/pdf",
+          "found_on": "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+          "checked": "7pp; p1 'RESOLUTION NO. 26-103 C.S. A RESOLUTION OF THE COUNCIL OF THE CITY OF MONTEREY CALLING AN ELECTION FOR THE CONTINUATION OF THE EXISTING SPECIAL TRANSACTIONS AND USE TAX' (ordinance attached as Exhibit A)"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Measure-S-City-Attorney-impartial-analysis-2026.pdf?t=202608081251190",
+          "mediaType": "application/pdf",
+          "found_on": "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+          "checked": "1p; 'CITY ATTORNEY'S IMPARTIAL ANALYSIS OF MEASURE S ... continue, without increasing, the existing special tax for the rehabilitation ... of the City of Monterey's streets'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Primary-Argument-In-Favor-of-Measure-S.pdf?t=202608211200470",
+          "mediaType": "application/pdf",
+          "found_on": "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+          "checked": "2pp scan; p1 'City of Monterey ARGUMENT SIGNATURE STATEMENT FORM General Municipal Election - November 3, 2026', box 'Primary argument in favor of' checked, measure 'S'"
+        },
+        {
+          "kind": "against",
+          "url": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/FINAL-Primary-Argument-Against-Measure-S.pdf?t=202608211201130",
+          "mediaType": "application/pdf",
+          "found_on": "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+          "checked": "2pp scan; p1 City of Monterey signature form, 'Primary argument against' checked, measure 'S'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Rebuttal-to-argument-in-favor.pdf?t=202608211202000",
+          "mediaType": "application/pdf",
+          "found_on": "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+          "checked": "2pp scan; p1 City of Monterey signature form, 'Rebuttal to primary argument in favor of' checked, measure 'S'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Rebuttal-to-argument-against.pdf?t=202608211202290",
+          "mediaType": "application/pdf",
+          "found_on": "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+          "checked": "2pp scan; p1 City of Monterey signature form, 'Rebuttal to primary argument against' checked, measure 'S'"
+        }
+      ],
+      "notes": "The clerk page links relative paths (base https://monterey.gov/) that 302-redirect to files.monterey.gov; the final file URLs are listed. Argument PDFs open with the signature form; the argument text is on page 2."
+    },
+    {
+      "titles": ["Pacific Grove — Measure R (Preserving General Services Measure)"],
+      "jurisdiction": "us/ca/pacific-grove",
+      "letter": "R",
+      "documents": [
+        {
+          "kind": "resolution",
+          "title": "Full Measure - Resolution no. 26-023",
+          "url": "https://files.cityofpacificgrove.org/Document_Center/Our%20city/City%20Clerk/2026%20Ballot%20Measure/26-023%20Placing%20TUT%20on%20Nov%202026%20Ballot%20&%20Att%20Reso.pdf?t=202607232050110",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.cityofpacificgrove.gov/our_city/city_clerk/november_3_2026_general_election_and_ballot_measures.php",
+          "checked": "11pp; p1 'RESOLUTION NO. 26-023 RESOLUTION OF THE CITY COUNCIL OF THE CITY OF PACIFIC GROVE SUBMITTING A PROPOSED GENERAL TRANSACTIONS AND USE TAX TO THE CITY'S VOTERS AT THE ELECTION TO BE HELD ON NOVEMBER 3, 2026'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://files.cityofpacificgrove.org/Document_Center/Our%20city/City%20Clerk/2026%20Ballot%20Measure/TUT%20Impartial%20Analysis.pdf?t=202608131819070",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.cityofpacificgrove.gov/our_city/city_clerk/november_3_2026_general_election_and_ballot_measures.php",
+          "checked": "1p; 'CITY OF PACIFIC GROVE CITY ATTORNEY'S IMPARTIAL ANALYSIS OF MEASURE \"R\" TRANSACTIONS AND USE (SALES) TAX'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://files.cityofpacificgrove.org/Document_Center/Our%20city/City%20Clerk/2026%20Ballot%20Measure/Measure%20R%20-%20Arg%20in%20Favor.pdf?t=202608131820010",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.cityofpacificgrove.gov/our_city/city_clerk/november_3_2026_general_election_and_ballot_measures.php",
+          "checked": "1p; 'Argument in Favor of Measure R Vote YES on Measure R to keep Pacific Grove's streets ...'"
+        }
+      ],
+      "notes": "Page links (relative, base https://www.cityofpacificgrove.gov/) redirect to files.cityofpacificgrove.org; final URLs listed. No argument against or rebuttals posted."
+    },
+    {
+      "titles": [
+        "Soledad-Mission Recreation District — Measure U (Soledad Rec Affordable Recreation Measure)"
+      ],
+      "jurisdiction": "us/ca/monterey-county",
+      "letter": "U",
+      "documents": [
+        {
+          "kind": "resolution",
+          "title": "Full Text (district staff report and Resolution No. 2026-06.01 with special tax)",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147317/639205024446730000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "10pp scan; p1 'Staff Report: June 2026 ... Soledad-Mission Recreation District ... Public Hearing Resolution 2026-06.01 SMRD Parcel Tax ... November 3, 2026 ballot'; p3 'RESOLUTION NO. 2026-06.01 ... ORDERING A SPECIAL TAX ELECTION ... NOVEMBER 3, 2026'; pp7-8 special tax text",
+          "manual": {
+            "sha256": "b1b2eae33469d08539d8bf00af1306d54fbe7f5c622e1fc206f2e114772bed6c",
+            "bytes": 6452805,
+            "retrieved_at": "2026-10-27T08:47:38Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147787/639222436564170000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure U The Soledad-Mission Recreation District ...'",
+          "manual": {
+            "sha256": "6e90b775d81608dc76b548d922068c392d0eaf80e74612ebb5f32ec678a4816d",
+            "bytes": 315350,
+            "retrieved_at": "2026-10-27T08:47:48Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147785/639222436562370000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Soledad Mission Recreation District Argument in Favor of Measure U'",
+          "manual": {
+            "sha256": "be60f368d71b39028299ce617b0bc030553e85f68d174e46be15e3d45acfc7a1",
+            "bytes": 458020,
+            "retrieved_at": "2026-10-27T08:47:47Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "County links it as 'Full Text' but the PDF is the district's staff report plus resolution."
+    },
+    {
+      "titles": [
+        "Carmel Unified School District — Measure I (Carmel Unified School District Bond)"
+      ],
+      "jurisdiction": "us/ca/monterey-county",
+      "letter": "I",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147319/639222472852270000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "6pp scan; p1 'EXHIBIT \"B\" FULL BALLOT TEXT Measure __ ... Carmel Unified School District shall be authorized to issue and sell bonds of up to $250,000,000'",
+          "manual": {
+            "sha256": "65fdc4277f1a4ec16369d1d7951f85391df807d190767e7f0be887b0f0b4b644",
+            "bytes": 3557439,
+            "retrieved_at": "2026-10-27T08:47:39Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147803/639222449034200000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'EXHIBIT C TAX RATE STATEMENT ... Carmel Unified School District ... November 3, 2026 ... $250,000,000'",
+          "manual": {
+            "sha256": "0a3ee708ad03c582b1824256a8fd815042b596c97a69157782daa988555a42a1",
+            "bytes": 311276,
+            "retrieved_at": "2026-10-27T08:47:54Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147801/639222448073030000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure I ... Carmel Unified School District ... not to exceed $250 million'",
+          "manual": {
+            "sha256": "4938059aaefc3177b75f5378e0b603ce6d7fbf7d05bdcc2da0c4974d98688919",
+            "bytes": 304064,
+            "retrieved_at": "2026-10-27T08:47:53Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147799/639222448070100000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Carmel Unified School District Argument in Favor of I'",
+          "manual": {
+            "sha256": "b76d402d7fc82180a637811eab937cf2b5a08a06dd14e8d3f348fc90e848e584",
+            "bytes": 680819,
+            "retrieved_at": "2026-10-27T08:47:52Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "No argument against or rebuttals listed."
+    },
+    {
+      "titles": [
+        "North Monterey County Unified School District — Measure L (North Monterey County Unified School District Bond)"
+      ],
+      "jurisdiction": "us/ca/monterey-county",
+      "letter": "L",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147321/639205024869830000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "19pp scan; p1 'RESOLUTION NO. 2025-2647 RESOLUTION OF THE BOARD OF EDUCATION OF THE NORTH MONTEREY COUNTY UNIFIED SCHOOL DISTRICT ORDERING A SCHOOL BOND ELECTION ... NOVEMBER 3, 2026'; county links it as 'Full Text'",
+          "manual": {
+            "sha256": "0cec4e3a5cd32e42833321bfa38b973c9f094fed5039a691eb69e31b82464085",
+            "bytes": 5519613,
+            "retrieved_at": "2026-10-27T08:47:41Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147793/639222442056670000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure L ... North Monterey County Unified School District ... $40 million'",
+          "manual": {
+            "sha256": "d10dc5868fdd60945a82dbf8d908008b2d38c59f0aed31eb147a772af264ebd3",
+            "bytes": 293702,
+            "retrieved_at": "2026-10-27T08:47:50Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147789/639222442048430000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Argument in favor of Measure L Vote YES on Measure L to repair and upgrade North Monterey County Unified School District schools'",
+          "manual": {
+            "sha256": "365df3db29fb03504e39c854738860912d0f5b4e686038b86aa9c302f87605e6",
+            "bytes": 418607,
+            "retrieved_at": "2026-10-27T08:47:49Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "against",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147791/639222442053070000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp scan; 'Argument Against Bond Measure L'",
+          "manual": {
+            "sha256": "2acf6e080850e621d3c1e309aa6f8ba43c48f314decc28af36eecd512fdc2658",
+            "bytes": 529479,
+            "retrieved_at": "2026-10-27T08:47:49Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147893/639228435915630000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "3pp scan; 'Rebuttal to Argument in Favor of Measure L ... NMCUSD seeks $40,000,000'",
+          "manual": {
+            "sha256": "5a7bfd7f793d5d51e92c7a9a61a21d861737c7bb3ed38de8a9aea0e3a90c79eb",
+            "bytes": 741153,
+            "retrieved_at": "2026-10-27T08:48:00Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147891/639228424017500000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "6pp scan; 'Rebuttal Argument to Argument Against Measure L'",
+          "manual": {
+            "sha256": "96c0143ccef53a9a2587b85ca12229f4464b4d9daa5f005ad83571aeeb4ef708",
+            "bytes": 1875593,
+            "retrieved_at": "2026-10-27T08:47:59Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "No tax rate statement linked by the county for Measure L."
+    },
+    {
+      "titles": [
+        "Pacific Grove Unified School District — Measure K (Pacific Grove Unified School District Parcel Tax)"
+      ],
+      "jurisdiction": "us/ca/monterey-county",
+      "letter": "K",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147325/639222471795730000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "3pp scan; p1 'EXHIBIT A FULL TEXT OF MEASURE With funds that cannot be taken ... Pacific Grove Unified School District's parcel tax measure ... $85 per parcel for five years'",
+          "manual": {
+            "sha256": "b5c2eb5da915a0e1cb138278ecfab2ab91862d9ea005051710b524367a8d8e68",
+            "bytes": 226363,
+            "retrieved_at": "2026-10-27T08:47:42Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147797/639222444113000000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure K ... Board of Education for Pacific Grove Unified School District ... $85 per parcel'",
+          "manual": {
+            "sha256": "a4c687d6b52dab9636672a91a1299ab9da8a240855b4b582bc3072e7e9faeccc",
+            "bytes": 290154,
+            "retrieved_at": "2026-10-27T08:47:52Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147795/639222444110970000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "3pp scan; 'Pacific Grove Unified School District Argument in Favor of Measure _' stamped received Aug 12 2026 by Monterey County Registrar",
+          "manual": {
+            "sha256": "24663d740342f39e60160c9f9276c80a0cad41e32319440315761d07ee6674a6",
+            "bytes": 375662,
+            "retrieved_at": "2026-10-27T08:47:51Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "No argument against or rebuttals listed."
+    },
+    {
+      "titles": ["North County Recreation and Park District — Measure V (Parcel Tax)"],
+      "jurisdiction": "us/ca/monterey-county",
+      "letter": "V",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147469/639217160290670000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p; 'EXHIBIT C North County Public Recreation District The neighborhood parks and community facilities managed by the North County Recreation and Park District ...'",
+          "manual": {
+            "sha256": "ce6d443ace399107b9354159132aab4bd176b1f013a646308e06264cf9950566",
+            "bytes": 82351,
+            "retrieved_at": "2026-10-27T08:47:44Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147781/639222432621230000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure V ... North County Public Recreation District Board ... $82 on each property'",
+          "manual": {
+            "sha256": "00305ae4b0e7cc9f48b0c19c46219fe7d3e391d050a897691e7f81fac39d1513",
+            "bytes": 221655,
+            "retrieved_at": "2026-10-27T08:47:47Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147779/639222432617730000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "4pp scan; pp1-3 Appendix D signature forms ('Primary argument in favor', measure 'V', General); p4 'Argument for Measure V Vote YES on Measure V—our parks, seniors, youth ...'",
+          "manual": {
+            "sha256": "a3266d9112761169dca20dbf76c0cdd9a4887c23c4aa8836a32bbdd3153519d4",
+            "bytes": 1123433,
+            "retrieved_at": "2026-10-27T08:47:46Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "County list titles the district 'North County Public Recreation District'. The argument PDF has its argument text on page 4, after the signature forms."
+    }
+  ],
+  "missing": [
+    {
+      "titles": [
+        "Greenfield — Measure O (Continuing the City of Greenfield Transactions and Use Tax)"
+      ],
+      "why": "The county list has Measure O with ballot question only and says 'All related documents are filed and on public review with the city clerk.' greenfieldca.gov: the City Clerk page (/150) has no election or measure links, the sitemap shows only the 2015 Measures V/W pages, and site search is JS-only. Web searches for Greenfield Measure O 2026 found no official documents."
+    }
+  ]
+}

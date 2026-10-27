@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chino — Measure F (Municipal Code Amendment)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/chino",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:55Z",
+  "documents": [
+    {
+      "title": "Full text of Measure F",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/FT_CityofChino.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e16567940df9c120240a4cc5f6baa788bb27f84612247614c068a95d8a2e15d1"
+    },
+    {
+      "title": "Resolution placing Measure F on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/RES_CityofChino.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8ccd6fea22df9e2b6d4ec05eba5b043a3af4ec1f0d4f4fbde835037cf68ba1fa"
+    },
+    {
+      "title": "Impartial analysis of Measure F",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/IA_CityofChino.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4e178d9ca921e321971985bed37db121c51352b254002a25bdfab8b54f89be64"
+    },
+    {
+      "title": "Argument in favor of Measure F",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/AIF_CityofChino.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "68ab237cf975b440c39e71a30796f171b25ac86d2221ca4878fa3d91b1510cfc"
+    }
+  ]
+}

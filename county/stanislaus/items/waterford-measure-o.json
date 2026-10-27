@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Waterford — Measure O (City Council Elected by Districts)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/waterford",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:41Z",
+  "documents": [
+    {
+      "title": "Measure O in the county voter guide: full text (PDF pp. 103-104, Spanish 105-106), impartial analysis (p. 107)",
+      "source": "https://www.stanvote.gov/pdf/voter-guides/20261103.pdf",
+      "mediaType": "application/pdf",
+      "page": 103,
+      "sha256": "ab520f2d0153cd7c31de4a8ee8374222fb602c75fe4763efe73dadb53179c718"
+    }
+  ]
+}

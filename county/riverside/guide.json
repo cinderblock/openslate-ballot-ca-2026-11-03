@@ -1,0 +1,20 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/riverside-county",
+    "title": "Riverside County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Riverside County Registrar of Voters",
+      "uri": "https://voteinfo.net/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:43:46Z",
+    "sources": [
+      "https://voteinfo.net/november-3-2026-general-election",
+      "https://elections.sbcounty.gov/elections/2026/1103/measures/"
+    ]
+  }
+}

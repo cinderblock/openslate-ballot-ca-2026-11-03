@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sierra Kings Health Care District — Measure H (Sierra Kings Health Care District Hospital Lease Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/fresno-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:42:58Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure H on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sierra-kings/resolution_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "61a658945f3ace3de19a9103dea73dc67cf1c1b5555700760e64519a23284764"
+    },
+    {
+      "title": "Impartial analysis of Measure H",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sierra-kings/measure-h-impartial-analysis_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "810cc27a5fb404759f61bbec42ccec9b193aabdc786714ebc4873103e50a147f"
+    },
+    {
+      "title": "Argument in favor of Measure H",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sierra-kings/filed-argument-in-favor-_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a2c6fc3aa0dd09cbaac57038e7fd6df9bc554d134dd0d076a8712bbb559aabcf"
+    }
+  ]
+}

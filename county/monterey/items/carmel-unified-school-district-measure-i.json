@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carmel Unified School District — Measure I (Carmel Unified School District Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/monterey-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:47:54Z",
+  "documents": [
+    {
+      "title": "Full text of Measure I",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147319/639222472852270000",
+      "mediaType": "application/pdf",
+      "sha256": "65fdc4277f1a4ec16369d1d7951f85391df807d190767e7f0be887b0f0b4b644"
+    },
+    {
+      "title": "Impartial analysis of Measure I",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147801/639222448073030000",
+      "mediaType": "application/pdf",
+      "sha256": "4938059aaefc3177b75f5378e0b603ce6d7fbf7d05bdcc2da0c4974d98688919"
+    },
+    {
+      "title": "Tax rate statement for Measure I",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147803/639222449034200000",
+      "mediaType": "application/pdf",
+      "sha256": "0a3ee708ad03c582b1824256a8fd815042b596c97a69157782daa988555a42a1"
+    },
+    {
+      "title": "Argument in favor of Measure I",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147799/639222448070100000",
+      "mediaType": "application/pdf",
+      "sha256": "b76d402d7fc82180a637811eab937cf2b5a08a06dd14e8d3f348fc90e848e584"
+    }
+  ]
+}

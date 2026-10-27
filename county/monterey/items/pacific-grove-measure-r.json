@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Pacific Grove — Measure R (Preserving General Services Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/pacific-grove",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:35Z",
+  "documents": [
+    {
+      "title": "Full Measure - Resolution no. 26-023",
+      "source": "https://files.cityofpacificgrove.org/Document_Center/Our%20city/City%20Clerk/2026%20Ballot%20Measure/26-023%20Placing%20TUT%20on%20Nov%202026%20Ballot%20&%20Att%20Reso.pdf?t=202607232050110",
+      "mediaType": "application/pdf",
+      "sha256": "2a4d45b92e281a2358a6f68251e59f181603de91a7c7c74d3190a1d199d54438"
+    },
+    {
+      "title": "Impartial analysis of Measure R",
+      "source": "https://files.cityofpacificgrove.org/Document_Center/Our%20city/City%20Clerk/2026%20Ballot%20Measure/TUT%20Impartial%20Analysis.pdf?t=202608131819070",
+      "mediaType": "application/pdf",
+      "sha256": "d4c90d2efd9d37e72022ba651d87ec11b2c9f4b3a7209d11632ef2342b14e917"
+    },
+    {
+      "title": "Argument in favor of Measure R",
+      "source": "https://files.cityofpacificgrove.org/Document_Center/Our%20city/City%20Clerk/2026%20Ballot%20Measure/Measure%20R%20-%20Arg%20in%20Favor.pdf?t=202608131820010",
+      "mediaType": "application/pdf",
+      "sha256": "d850aba23739fc0e9aa49ece090e978a44013b465fc0382d0cf7e494c4b71cd2"
+    }
+  ]
+}

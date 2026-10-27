@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fresno County — Measure A (Fresno County Transient Occupancy Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/fresno-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:42:52Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure A on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/tot_resolution.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "600b2185bd8e926641a52e0001345993627f71711da078f16369bf6662c70f38"
+    },
+    {
+      "title": "Impartial analysis of Measure A",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/impartial-analysis.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d61c943852149b29d83df939f7cc4328cd8c55cef7db996ef861d42930199090"
+    },
+    {
+      "title": "Fiscal analysis of Measure A",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fiscal-impact-statement.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "54f8703c21f81a60ae7ca4281fc06f2065d5c536ae7bf912d57efe53cdffda83"
+    },
+    {
+      "title": "Argument in favor of Measure A",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/filed-argument-in-favor.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ceef1b606c8d2b5e9c9510b457266698fd548889616682dd45668262ba17dca5"
+    },
+    {
+      "title": "Argument against Measure A",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/filed-argument-against.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b08b80f470f7e58a82d1b25dde697b27c120ec147ccc3a3ae992a719ba36552f"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure A",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/rebuttal-to-the-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9c9475c9c15ecd35e9779ad4b7f6fa3d55a6b8687bfa11a992994b4b8a1e51b7"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure A",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/rebuttal-to-the-argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b2b270422c990ac6d46b8931d50ab08d876624495129d32dd9e0da67c1c37a78"
+    }
+  ]
+}

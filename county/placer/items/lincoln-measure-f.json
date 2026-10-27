@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Lincoln — Measure F",
+    "kind": "measure",
+    "jurisdiction": "us/ca/lincoln",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:42Z",
+  "documents": [
+    {
+      "title": "Measure F (City of Lincoln one-cent sales tax): ballot question, impartial analysis, argument in favor and full text",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-F.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "76cd2f6bf701295a4194f11ce1e8e46c8aa219d31879554b484dcfb23acb1424"
+    }
+  ]
+}

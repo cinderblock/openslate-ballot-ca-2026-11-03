@@ -1,0 +1,28 @@
+{
+  "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A": {
+    "url": "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:44:43Z"
+  },
+  "https://ace.yolocounty.gov/DocumentCenter/View/1023/Measure-Y-Impartial-Analysis": {
+    "url": "https://ace.yolocounty.gov/DocumentCenter/View/1023/Measure-Y-Impartial-Analysis",
+    "mediaType": "application/pdf",
+    "bytes": 119795,
+    "sha256": "ba56cbd5f48eb749e2b91500c880bd95b4bc4ba95e7d11dc9f9017f7abd64578",
+    "retrieved_at": "2026-10-27T08:44:44Z"
+  },
+  "https://ace.yolocounty.gov/DocumentCenter/View/1027/Argument-in-Favor---Measure-X-": {
+    "url": "https://ace.yolocounty.gov/DocumentCenter/View/1027/Argument-in-Favor---Measure-X-",
+    "mediaType": "application/pdf",
+    "bytes": 74167,
+    "sha256": "10b476a69e2353f0ba3942f1cb642fee8c155b462f6eedbba6e6ca84bd43db5b",
+    "retrieved_at": "2026-10-27T08:44:44Z"
+  },
+  "https://ace.yolocounty.gov/DocumentCenter/View/1028/Argument-in-Favor---Measure-Y": {
+    "url": "https://ace.yolocounty.gov/DocumentCenter/View/1028/Argument-in-Favor---Measure-Y",
+    "mediaType": "application/pdf",
+    "bytes": 110629,
+    "sha256": "b1c84ad5576efff8bf8b48aadf7572fd84d2f0b31dd188ec518863830c4db448",
+    "retrieved_at": "2026-10-27T08:44:44Z"
+  }
+}

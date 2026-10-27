@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Orange Cove — Measure O (City of Orange Cove Special Parcel Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/orange-cove",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:42:55Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure O on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/oc-tax-resolution-2026-28_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6a2cfd432ca0c8a9083ba7f7e28c334393d8ae8a1070913ea637baa50a59ee79"
+    },
+    {
+      "title": "Impartial analysis of Measure O",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/impartial-analysis_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "905042b1054a7ddb3e7a319c0bc4d41c1a2087a6640cf04ca49b029c84a09ffb"
+    },
+    {
+      "title": "Argument in favor of Measure O",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d533aaf823fefca803509fc7823e5f8cead452266b677b7008402b8a1bbeb771"
+    },
+    {
+      "title": "Argument against Measure O",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f2e84f14435f63e11c64d264005a1576f20d3e3093314eda2dbffb8038566838"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure O",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/rebuttal-to-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8b3dfa7b38f16a8a4274a0fb8e38ca675d5ac4c98a070a29e5cdbd34c633f083"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure O",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/rebuttal-to-the-argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e664388fc71b03bc9b5f8581b0a588859eb49e04974a021a33e22b1ebb0ad545"
+    }
+  ]
+}

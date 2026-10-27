@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Highland — Measure E (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/highland",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:13Z",
+  "documents": [
+    {
+      "title": "Full text of Measure E",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/FT_CityofHighland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5b9dc6b5bb0897363fb583f78055dbf8dbc01c197de1258bf27f0b4c43c8c6ba"
+    },
+    {
+      "title": "Resolution placing Measure E on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/RES_CityofHighland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "43a0ef7d5f38fa5e5eb551d86949ff0fb2f36fb3f1398ccf8ada6f881433a631"
+    },
+    {
+      "title": "Impartial analysis of Measure E",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/IA_CityofHighland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "688041e77ae02f9d46fadad96f829ecc97aced8de191d8094d6a76e396749b79"
+    },
+    {
+      "title": "Argument in favor of Measure E",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/AIF_CityofHighland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e8bb8acff76d4338da414ca427144d184c148750de5ac21f51f065a5af7638c2"
+    }
+  ]
+}

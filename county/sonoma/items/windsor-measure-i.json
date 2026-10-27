@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Windsor — Measure I (Town of Windsor Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/windsor",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:37Z",
+  "documents": [
+    {
+      "title": "Measure I: county voter guide pages — measure question, Town Attorney impartial analysis, arguments for and against, both rebuttals, full text (ordinance)",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9641_MeasI_TownOfWindsor_SalesTax_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "638fa9f935946de8d1d2552b59de4ff5c8ee4fb7d46aa1a2c84315084f7a172f"
+    }
+  ]
+}

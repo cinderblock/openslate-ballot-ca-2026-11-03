@@ -1,0 +1,86 @@
+{
+  "dir": "county/stanislaus",
+  "jurisdiction": "us/ca/stanislaus-county",
+  "title": "Stanislaus County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Stanislaus County Registrar of Voters",
+    "uri": "https://www.stanvote.gov/"
+  },
+  "pages": ["https://www.stanvote.gov/vig.shtm", "https://www.stanvote.gov/candidates.shtm"],
+  "measures": [
+    {
+      "titles": [
+        "Ceres — Measure P (Ceres 911 Emergency Response, Community Safety, Essential Services Measure)"
+      ],
+      "jurisdiction": "us/ca/ceres",
+      "letter": "P",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure P in the county voter guide: full text (PDF pp. 77-81, Spanish 82-87), impartial analysis (p. 88), argument in favor (p. 89)",
+          "url": "https://www.stanvote.gov/pdf/voter-guides/20261103.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.stanvote.gov/vig.shtm",
+          "page": 77,
+          "checked": "PDF metadata title '11-3-26 County Voter Information Guide'; p77: 'FULL TEXT CITY OF CERES – MEASURE P ORDINANCE NO. 2026-XXXX'; p88: 'IMPARTIAL ANALYSIS BY CITY ATTORNEY CITY OF CERES – MEASURE P'; p89: 'ARGUMENT IN FAVOR ... ARGUMENT AGAINST None filed'"
+        }
+      ],
+      "notes": "The county publishes measure material only inside its combined county voter information guide (116 pp). No argument against was filed, so there are no rebuttals."
+    },
+    {
+      "titles": [
+        "Modesto City Schools — Measure K (High School Career Training/Classroom Repair Extension Measure)"
+      ],
+      "jurisdiction": "us/ca/stanislaus-county",
+      "letter": "K",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure K in the county voter guide: full text (PDF pp. 50-53, Spanish 54-58), impartial analysis (p. 59), tax rate statement (p. 61), argument in favor (p. 63)",
+          "url": "https://www.stanvote.gov/pdf/voter-guides/20261103.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.stanvote.gov/vig.shtm",
+          "page": 50,
+          "checked": "p50: 'FULL TEXT MODESTO CITY HIGH SCHOOL DISTRICT – MEASURE K ... HIGH SCHOOL CAREER TRAINING / CLASSROOM REPAIR EXTENSION MEASURE'; p59: 'IMPARTIAL ANALYSIS BY COUNTY COUNSEL'; p61: 'TAX RATE STATEMENT ... November 3, 2026'; p63: 'ARGUMENT IN FAVOR ... ARGUMENT AGAINST None filed'"
+        }
+      ],
+      "notes": "Ballot entity is the Modesto City High School District. No argument against was filed."
+    },
+    {
+      "titles": ["Waterford — Measure O (City Council Elected by Districts)"],
+      "jurisdiction": "us/ca/waterford",
+      "letter": "O",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure O in the county voter guide: full text (PDF pp. 103-104, Spanish 105-106), impartial analysis (p. 107)",
+          "url": "https://www.stanvote.gov/pdf/voter-guides/20261103.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.stanvote.gov/vig.shtm",
+          "page": 103,
+          "checked": "p103: 'FULL TEXT CITY OF WATERFORD – MEASURE O WATERFORD CITY COUNCIL ORDINANCE 2026-____ ... TITLE 2'; p107: 'IMPARTIAL ANALYSIS BY CITY ATTORNEY CITY OF WATERFORD – MEASURE O ... Government Code section 34871', signed Corbett J. Browning"
+        }
+      ],
+      "notes": "The guide has no arguments for Measure O; it looks like none were filed."
+    },
+    {
+      "titles": [
+        "Riverbank — Measure M (Citizen Initiative Measure to Require Voter Approval of Urban Development on Agricultural or Open Space Lands Located West of Riverbank City Limits)"
+      ],
+      "jurisdiction": "us/ca/riverbank",
+      "letter": "M",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure M in the county voter guide: full text (PDF pp. 93-94, Spanish 95-96), impartial analysis (p. 97), argument in favor (p. 99), rebuttal to argument in favor (p. 100), argument against (p. 101), rebuttal to argument against (p. 102)",
+          "url": "https://www.stanvote.gov/pdf/voter-guides/20261103.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.stanvote.gov/vig.shtm",
+          "page": 93,
+          "checked": "p93: 'FULL TEXT CITY OF RIVERBANK – MEASURE M ... General Plan Amendment'; p97: 'IMPARTIAL ANALYSIS BY CITY ATTORNEY ... Measure M was placed on the ballot by a citizen petition'; p99-102: argument in favor, rebuttal to argument in favor, argument against, rebuttal to argument against, each headed 'CITY OF RIVERBANK – MEASURE M'"
+        }
+      ],
+      "notes": ""
+    }
+  ]
+}

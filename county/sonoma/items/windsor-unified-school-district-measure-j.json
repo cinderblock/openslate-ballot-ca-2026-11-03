@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Windsor Unified School District — Measure J (Windsor Unified School District Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:38Z",
+  "documents": [
+    {
+      "title": "Measure J: county voter guide pages — measure question, County Counsel impartial analysis, tax rate statement, argument in favor, full text",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9321_MeasJ_WindsorUnifSchlDist_Bond_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a8e862f223168511085513c30efa0c85decdbf3736c3a653e8f94e8caec69a1c"
+    }
+  ]
+}

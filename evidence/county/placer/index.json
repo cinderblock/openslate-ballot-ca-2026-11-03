@@ -1,0 +1,65 @@
+{
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure_P.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure_P.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 152213,
+    "sha256": "7f1007e7c3eb74e27f4b945a44af8d6721415ce6417f11973acc3b4efcb28e0c",
+    "retrieved_at": "2026-10-27T08:43:43Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-A.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-A.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 150770,
+    "sha256": "bbb64f27c28ef1eeea8209278def4b68c5f82c6d2d50e3eba2dfe00181e15389",
+    "retrieved_at": "2026-10-27T08:43:41Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-B.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-B.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 232827,
+    "sha256": "2a357222ec236dc5eba57283f018d0e56dfc4ca2a017afd3256754144002c2a3",
+    "retrieved_at": "2026-10-27T08:43:41Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-C.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-C.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 239724,
+    "sha256": "d3f6e6cc8e97b6248aa7742f3b0bb904709088cda9d74314c4a6df06e5c3836e",
+    "retrieved_at": "2026-10-27T08:43:42Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-D.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-D.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 189274,
+    "sha256": "6f82435f9eb58f63d0daed276c28731e15fc14e5980872b0c6cd8c15f1222b17",
+    "retrieved_at": "2026-10-27T08:43:42Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-F.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-F.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 180042,
+    "sha256": "76cd2f6bf701295a4194f11ce1e8e46c8aa219d31879554b484dcfb23acb1424",
+    "retrieved_at": "2026-10-27T08:43:42Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-G.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-G.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 87942,
+    "sha256": "29aea4ead0dbacf0a3cceff257deba7f62d16cf2dce05a9824524ddf5085cb84",
+    "retrieved_at": "2026-10-27T08:43:43Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-H.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-H.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 103609,
+    "sha256": "a26300d5d5eae3ecd2e88b11441ca7e51e9e3e9acc28a0d2a964c770c044960c",
+    "retrieved_at": "2026-10-27T08:43:43Z"
+  },
+  "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-I_9-10-2026.pdf": {
+    "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-I_9-10-2026.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 163612,
+    "sha256": "5a66197fbcf7c54b1c128c538ed430e33461cf59dd6e963cae320520ed830f40",
+    "retrieved_at": "2026-10-27T08:43:43Z"
+  }
+}

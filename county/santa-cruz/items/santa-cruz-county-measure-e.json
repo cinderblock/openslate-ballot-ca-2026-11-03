@@ -1,0 +1,60 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Cruz County — Measure E (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:32Z",
+  "documents": [
+    {
+      "title": "Full text of Measure E",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Text.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6c987442b9ed1ed8d7a13f0aa37c675064ba998bd7e62a4ae822b1a61bf03805"
+    },
+    {
+      "title": "Resolution placing Measure E on the ballot",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Resolution.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "85a1979dbc29ecbf838be6ae1aa40c8bbfcd94d5ef04bf73d8497ffc5f8b095f"
+    },
+    {
+      "title": "Impartial analysis of Measure E",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Impartial.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5906ffde9d0fe67c0b312a206c09482104898f636796b8ef4ca7345fe896a126"
+    },
+    {
+      "title": "Fiscal analysis of Measure E",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Fiscal.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6fa4c99ca14f26fd639791e970c0f20f8bd58a44dbd699cf6486a29095b61c56"
+    },
+    {
+      "title": "Argument in favor of Measure E",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20For.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c5526b1973ac6c3fdc77836201a8a7faef15148283a662c7671e745920285230"
+    },
+    {
+      "title": "Argument against Measure E",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20Against.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a7a6875a7e501c98eb4fb3547d4ae53e06e0f58493e6684dab6335715760dd2c"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure E",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20For%20Rebuttal.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ea46a23080888200ede6929b9f678564e6540e449de352b1c4f01690f73abfe1"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure E",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20Against%20Rebuttal.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7bb75a88580ad602db4f20b206364e544c309dc383787b5736520fd9304de79c"
+    }
+  ]
+}

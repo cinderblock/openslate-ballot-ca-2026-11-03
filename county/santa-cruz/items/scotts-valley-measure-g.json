@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Scotts Valley — Measure G (Transient Occupancy Tax Increase)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/scotts-valley",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:35Z",
+  "documents": [
+    {
+      "title": "Full text of Measure G",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Text.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8c3b8b8bb16cd7c5216aba1c88dacf9e3383217f43d9410c3213cc8db1175ce1"
+    },
+    {
+      "title": "Resolution placing Measure G on the ballot",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Resolution.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5b8ee127b618d37cbc2c36ad44862a49267527b9f706b12b309bc27eff01cbaa"
+    },
+    {
+      "title": "Impartial analysis of Measure G",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Impartial.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9992206f0417e86495871390a4a4fb3732e7713af2f259f73cafec97e5770f65"
+    },
+    {
+      "title": "Argument in favor of Measure G",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Argument%20For.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6668eeb2bf2c6f6545880a3aad0bb4de7b3771f979bbe2401266ede24861e5a8"
+    }
+  ]
+}

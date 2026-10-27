@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ontario — Measure H (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/ontario",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:17Z",
+  "documents": [
+    {
+      "title": "Full text of Measure H",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/FT_Ontario.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "bafc0e5f2066f37fe8d069748703494dfcf18f03c57c5e42f82f05c5613cee38"
+    },
+    {
+      "title": "Resolution placing Measure H on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RES_Ontario.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7970fee795d723df1b2cf71413d398a01fa93dba43aa89533e764959864e74ba"
+    },
+    {
+      "title": "Impartial analysis of Measure H",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/IA_Ontario.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "53f3b7d679211fdf33e9d045bdc9cd0f77c580b5f181ea3c46a23b6c4e4aae30"
+    },
+    {
+      "title": "Argument in favor of Measure H",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AIF_Ontario.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4215c3510dca32487c475d9ee3a3e0f24aa109ff7217787b31600ad3fd934692"
+    },
+    {
+      "title": "Argument against Measure H",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AA_Ontario.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e5bc2fb2597bcc105650486db46342afa6779ea7ec5b73c51245b4f20ce28c30"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure H",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAF_Ontario.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f4fd3f6120b1cf9b6cae935e9e866dad972229705f46e9ba3f9b2597667f7f52"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure H",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAA_Ontario.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "426f6a78c7c76acdf80c2b8bd78b2d1bada1956cab12c768f945a4271b52eddf"
+    }
+  ]
+}

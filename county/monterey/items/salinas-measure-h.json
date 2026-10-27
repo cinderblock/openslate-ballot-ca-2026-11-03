@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Salinas — Measure H (Ordinance No. 2687, Repealing Rental Registration, Rent Stabilization, Tenant Protection and Tenant Anti-Harassment Ordinances)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/salinas",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:20Z",
+  "documents": [
+    {
+      "title": "Ordinance No. 2687 (the ordinance being referred to the voters)",
+      "source": "https://www.salinas.gov/files/sharedassets/city/v/1/city-attorney/ordinance-no-2687.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "1d2eaa1212850c75615b303e1a4cd5698364f932576f5d2e884edacbe934c8f1"
+    },
+    {
+      "title": "Argument in favor of Measure H",
+      "source": "https://www.salinas.gov/files/sharedassets/city/v/1/your-government/city-clerk/documents/salinas-argument-in-favor-of-measure-h.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "297ec5651cadb552ee1bdddd049d8f983ddaedd3e4128b8adc7bde5beedf7af3"
+    }
+  ]
+}

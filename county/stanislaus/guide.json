@@ -1,0 +1,20 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/stanislaus-county",
+    "title": "Stanislaus County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Stanislaus County Registrar of Voters",
+      "uri": "https://www.stanvote.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:44:41Z",
+    "sources": [
+      "https://www.stanvote.gov/vig.shtm",
+      "https://www.stanvote.gov/candidates.shtm"
+    ]
+  }
+}

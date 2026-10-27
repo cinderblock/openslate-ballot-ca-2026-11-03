@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Coalinga — Measure J (City of Coalinga Transactions and Use Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/coalinga",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:42:56Z",
+  "documents": [
+    {
+      "title": "Exhibit A: ordinance submitted to the voters",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/exhibit-a_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5145a1d1166ea35fccba9296459802a2c966b09bbc253e18e3c4593163d41bd3"
+    },
+    {
+      "title": "Resolution placing Measure J on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/resolution-no.-4337_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c04766ae58c27522b50fd99b861284d2cbe6a567e86aec1e2ff48a595ca7312e"
+    },
+    {
+      "title": "Impartial analysis of Measure J",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/filed-impartial-analysis_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "58369ee79de9690398cda5eac626e90c54ef63cd5f882f3c4e958cde234602e0"
+    },
+    {
+      "title": "Argument in favor of Measure J",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/filed-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "42bdde52b48625125f1a7b459a6be5c64fb7902b005e252979bc9f289900cb61"
+    },
+    {
+      "title": "Argument against Measure J",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4ec67ab8b399ad7981069b474d29f475fecc36c7ea03d49a11edf24754fc6cab"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure J",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/2/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/rebuttal-argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f87416b92fb84b1f743a5c2f520deb68427c466d12b4eb48a75ea7094eaf85b5"
+    }
+  ]
+}

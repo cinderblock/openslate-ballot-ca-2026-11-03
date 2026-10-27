@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Roseville — Measure A",
+    "kind": "measure",
+    "jurisdiction": "us/ca/roseville",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:41Z",
+  "documents": [
+    {
+      "title": "Measure A (City of Roseville, Council Compensation Adjustment and Inflation Limitation): ballot question, impartial analysis, arguments, rebuttals and full text",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-A.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "bbb64f27c28ef1eeea8209278def4b68c5f82c6d2d50e3eba2dfe00181e15389"
+    }
+  ]
+}

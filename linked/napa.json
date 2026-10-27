@@ -1,0 +1,108 @@
+{
+  "dir": "county/napa",
+  "jurisdiction": "us/ca/napa-county",
+  "title": "Napa County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Napa County Elections Division",
+    "uri": "https://www.napacounty.gov/2139/Current-Election"
+  },
+  "pages": [
+    "https://www.napacounty.gov/2319/Local-Measures",
+    "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+    "https://www.napacounty.gov/2470/City-of-American-Canyon---Measure-P",
+    "https://www.americancanyon.gov/Work/Elections-Central/Ballot-Measures"
+  ],
+  "measures": [
+    {
+      "titles": [
+        "Napa County — Measure B (Wildfire Preparedness, Watershed Protection and Open Space Preservation Act of 2026)"
+      ],
+      "jurisdiction": "us/ca/napa-county",
+      "letter": "B",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://www.napacounty.gov/DocumentCenter/View/40926/Measure-B---Full-Text---Napa-County-PDF",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+          "checked": "Fetched in a real browser (napacounty.gov blocks curl/WebFetch via Cloudflare); in-page fetch HTTP 200, application/pdf, starts %PDF, not redirected. 28 pages. p1-2 proponents' filing letter (Joe Nordlinger, Doug Parker, 'FILED ... FEB -5 2026' Napa County Registrar of Voters, re 'The Napa County Wildfire Preparedness, Watershed Protection and ...'); p3 'Attachment 1: Notice of Intent'; p5 'Attachment 2: Elections Code section 9608 Statement'; p7 'Attachment 3: Full legal text of The Napa County Wildfire Pr[eparedness...]'; p8 'The People of the County of Napa ordain as follows'.",
+          "title": "Full text (initiative filing packet; legal text begins at p7 as Attachment 3)"
+        },
+        {
+          "kind": "other",
+          "url": "https://www.napacounty.gov/DocumentCenter/View/40594/Measure-B---Ballot-Title-and-Summary---Napa-County-PDF",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+          "checked": "Fetched in a real browser (napacounty.gov blocks curl/WebFetch via Cloudflare); in-page fetch HTTP 200, application/pdf, starts %PDF, not redirected. 1 page. p1 'TITLE: AN INITIATIVE IMPOSING A ONE-HALF PERCENT (1/2%) SALES TAX FOR WILDFIRE PREPAREDNESS, WATERSHED ...'.",
+          "title": "Ballot title and summary (County Counsel, initiative petition stage)"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.napacounty.gov/DocumentCenter/View/46097/Measure-B---Impartial-Analysis---Napa-County-PDF",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+          "checked": "Fetched in a real browser (napacounty.gov blocks curl/WebFetch via Cloudflare); in-page fetch HTTP 200, application/pdf, starts %PDF, not redirected. 2 pages, text layer. p1 'IMPARTIAL ANALYSIS BY THE COUNTY COUNSEL Measure B would impose a countywide sales tax at the rate of ...'; ends with YES/NO vote meanings for the 1/2% sales tax."
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.napacounty.gov/DocumentCenter/View/46100/Measure-B---Argument-in-Favor---Napa-County-PDF",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+          "checked": "Fetched in a real browser (napacounty.gov blocks curl/WebFetch via Cloudflare); in-page fetch HTTP 200, application/pdf, starts %PDF, not redirected. 6 pages, scanned. Rendered p1: 'STATEMENT THAT ARGUMENT IS TRUE AND CORRECT', box 'Argument in Favor' checked, Ballot Measure letter 'B', '2026 General', Napa County, November 3, 2026; signer Mike Thompson, Member of Congress."
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://www.napacounty.gov/DocumentCenter/View/46153/Measure-B---Rebuttal-to-Argument-in-Favor---Napa-County-PDF",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+          "checked": "Fetched in a real browser (napacounty.gov blocks curl/WebFetch via Cloudflare); in-page fetch HTTP 200, application/pdf, starts %PDF, not redirected. 2 pages, scanned. Rendered p1: 'STATEMENT THAT ARGUMENT IS TRUE AND CORRECT', box 'Rebuttal to the Argument in Favor' checked, measure letter B, Napa County, November 3, 2026; signer Tom Orlando, President, Napa County Taxpayers Association."
+        },
+        {
+          "kind": "against",
+          "url": "https://www.napacounty.gov/DocumentCenter/View/46099/Measure-B---Argument-Against---Napa-County-PDF",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+          "checked": "Fetched in a real browser (napacounty.gov blocks curl/WebFetch via Cloudflare); in-page fetch HTTP 200, application/pdf, starts %PDF, not redirected. 2 pages, scanned. Rendered p1: 'STATEMENT THAT ARGUMENT IS TRUE AND CORRECT', box 'Argument Against' checked, measure letter B, Napa County, November 3, 2026; signer Tom Orlando."
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.napacounty.gov/DocumentCenter/View/46152/Measure-B---Rebuttal-to-Argument-Against---Napa-County-PDF",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+          "checked": "Fetched in a real browser (napacounty.gov blocks curl/WebFetch via Cloudflare); in-page fetch HTTP 200, application/pdf, starts %PDF, not redirected. 11 pages, scanned. Rendered p1: 'STATEMENT THAT ARGUMENT IS TRUE AND CORRECT', box 'Rebuttal to the Argument Against' checked, measure letter B, '2026 General Election', Napa County, November 3, 2026; signer Oscar Ortiz, Napa County Sheriff."
+        }
+      ],
+      "notes": "Argument/rebuttal PDFs are scanned filing packets (signed statement form first, argument text on later pages), not typeset guide pages. Only page 1 of each was inspected."
+    },
+    {
+      "titles": ["American Canyon — Measure P (City Services Sales Tax)"],
+      "jurisdiction": "us/ca/american-canyon",
+      "letter": "P",
+      "documents": [
+        {
+          "kind": "text",
+          "title": "Ordinance (Full Text)",
+          "url": "https://portal.laserfiche.com/Portal/DocView.aspx?id=459189&repo=r-f53bdda4",
+          "mediaType": "text/html",
+          "found_on": "https://www.americancanyon.gov/Work/Elections-Central/Ballot-Measures",
+          "checked": "Laserfiche WebLink viewer page (HTML, loads the document in-browser); curl HTTP 200 text/html; viewed in a real browser. Viewer title '2. b TAX ORDINANCE ATTACHMENT TO RESOLUTION 2026-57'; p1 'ORDINANCE NO. 2026-XXXX AN ORDINANCE OF THE PEOPLE OF THE CITY OF AMERICAN CANYON AMENDING THE AMERICAN CANYON MUNICIPAL CODE BY ADDING CHAPTER 3.22 ... TRANSACTIONS AND USE TAX'."
+        },
+        {
+          "kind": "analysis",
+          "url": "https://portal.laserfiche.com/Portal/DocView.aspx?id=459186&repo=r-f53bdda4",
+          "mediaType": "text/html",
+          "found_on": "https://www.americancanyon.gov/Work/Elections-Central/Ballot-Measures",
+          "checked": "Laserfiche WebLink viewer page (HTML, loads the document in-browser); curl HTTP 200 text/html; viewed in a real browser. Viewer title '5. a Impartial Analysis (Signed)'; p1 'City Attorney's Impartial Analysis of Measure P ... impose a 1% transactions and use tax ... City of American Canyon'; signed Matthew T. Summers, dated August 1, 2026."
+        },
+        {
+          "kind": "favor",
+          "url": "https://portal.laserfiche.com/Portal/DocView.aspx?id=464597&repo=r-f53bdda4",
+          "mediaType": "text/html",
+          "found_on": "https://www.americancanyon.gov/Work/Elections-Central/Ballot-Measures",
+          "checked": "Laserfiche WebLink viewer page (HTML, loads the document in-browser); curl HTTP 200 text/html; viewed in a real browser. Viewer title '6. a Argument in Favor of Measure P'; p1 'Argument In Favor Of Measure P ... Vote YES on Measure P to keep American Canyon safe, clean, and financially strong'."
+        }
+      ],
+      "notes": "Napa County's Measure P page (https://www.napacounty.gov/2470/City-of-American-Canyon---Measure-P) has no documents; it defers to the city's Elections Central. Documents are on the City of American Canyon Ballot Measures page as Laserfiche viewer links (not direct PDFs). No argument against is listed. The same page also lists Certified Resolutions 2026-39 and 2026-57, a Notice of Election, and Spanish versions (not verified here). americancanyon.gov is behind Cloudflare for curl."
+    }
+  ]
+}

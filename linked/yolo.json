@@ -1,0 +1,71 @@
+{
+  "dir": "county/yolo",
+  "jurisdiction": "us/ca/yolo-county",
+  "title": "Yolo County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Yolo County Assessor/Clerk-Recorder/Elections (ACE) Department, Elections Division",
+    "uri": "https://ace.yolocounty.gov/35/Elections"
+  },
+  "pages": [
+    "https://ace.yolocounty.gov/384/Current-Election",
+    "https://ace.yolocounty.gov/407/Local-Measures",
+    "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+    "https://ace.yolocounty.gov/419/Measure-Y---City-of-Woodland",
+    "https://www.cityofwoodland.gov/1730/Measure-Y"
+  ],
+  "measures": [
+    {
+      "titles": ["Yolo County — Measure X (Transient Occupancy Tax Increase)"],
+      "jurisdiction": "us/ca/yolo-county",
+      "letter": "X",
+      "documents": [
+        {
+          "kind": "analysis",
+          "title": "Impartial Analysis of Measure X (a tab of the county's Measure X page)",
+          "url": "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+          "mediaType": "text/html",
+          "found_on": "https://ace.yolocounty.gov/407/Local-Measures",
+          "checked": "HTTP 200 HTML; tab 'Impartial Analysis of Measure X': 'COUNTY OF YOLO County Counsel's Impartial Analysis of Measure X ... transient occupancy tax', signed /s/ Philip J. Pogledich, County Counsel. Page heading 'Measure X - Yolo County Unincorporated Area Hotel Tax', 8% to 12%."
+        },
+        {
+          "kind": "text",
+          "title": "Full Text of Measure X: Ordinance No. 1585 (a tab of the county's Measure X page)",
+          "url": "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+          "mediaType": "text/html",
+          "found_on": "https://ace.yolocounty.gov/407/Local-Measures",
+          "checked": "HTTP 200 HTML; tab 'Full Text of Measure X': 'ORDINANCE NO. 1585 AN ORDINANCE OF THE BOARD OF SUPERVISORS OF THE COUNTY OF YOLO AMENDING TITLE 3, CHAPTER 7 ... TO INCREASE THE TRANSIENT OCCUPANCY TAX RATE IN THE UNINCORPORATED AREAS ... FROM EIGHT PERCENT (8%) TO TWELVE PERCENT'."
+        },
+        {
+          "kind": "favor",
+          "url": "https://ace.yolocounty.gov/DocumentCenter/View/1027/Argument-in-Favor---Measure-X-",
+          "mediaType": "application/pdf",
+          "found_on": "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+          "checked": "HTTP 200, %PDF, 1 page: 'The passage of Measure X will sustain our county's efforts ... raise our Transient Occupancy Tax (TOT) from 8% to 12% ... unincorporated areas of Yolo County ... Please join us in voting YES on Measure X'. Linked as 'Argument in Favor of Measure X (PDF)'."
+        }
+      ],
+      "notes": "County page states no argument against was filed by the July 24, 2026 deadline, so there are no rebuttals. Analysis and full text exist only as HTML tabs on the measure page (same URL); only the argument in favor has a PDF."
+    },
+    {
+      "titles": ["Woodland — Measure Y (One-Cent Sales Tax for City Services)"],
+      "jurisdiction": "us/ca/woodland",
+      "letter": "Y",
+      "documents": [
+        {
+          "kind": "analysis",
+          "url": "https://ace.yolocounty.gov/DocumentCenter/View/1023/Measure-Y-Impartial-Analysis",
+          "mediaType": "application/pdf",
+          "found_on": "https://ace.yolocounty.gov/419/Measure-Y---City-of-Woodland",
+          "checked": "HTTP 200, %PDF, 1-page scan (read rendered image): 'CITY OF WOODLAND CITY ATTORNEY'S IMPARTIAL ANALYSIS OF MEASURE \"Y\" ONE CENT TRANSACTIONS AND USE (SALES) TAX ... November 3, 2026 general municipal election', signed Ethan Walsh, City Attorney."
+        },
+        {
+          "kind": "favor",
+          "url": "https://ace.yolocounty.gov/DocumentCenter/View/1028/Argument-in-Favor---Measure-Y",
+          "mediaType": "application/pdf",
+          "found_on": "https://ace.yolocounty.gov/419/Measure-Y---City-of-Woodland",
+          "checked": "HTTP 200, %PDF, 1 page: 'Vote YES on Measure Y: Investing in Woodland's Future ... Measure Y will help Woodland: Strengthen fire and police protection ...'. Linked as 'Argument in Favor of Measure Y (PDF)'."
+        }
+      ],
+      "notes": "County page states no argument against was filed by the July 24, 2026 deadline (so no rebuttals). Full text is not posted by the county ('Full Text of Measure Y' tab only says to request a copy from the Woodland City Clerk). The city's Measure Y page (https://www.cityofwoodland.gov/1730/Measure-Y) links 'the final approved resolution' to a CivicClerk viewer URL (https://woodlandca.portal.civicclerk.com/event/2430/files/report/6119) that is a JavaScript app; CivicClerk's API shows report 6119 is the June 16, 2026 council Staff Report for the item calling the election (attachments include 'Reso 8677_General Tax Measure Placement'), but I could not retrieve and read the document itself, so it is not listed. Yolo also lists a separate Woodland Measure Z on the same ballot."
+    }
+  ]
+}

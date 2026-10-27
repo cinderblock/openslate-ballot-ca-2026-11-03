@@ -1,0 +1,22 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "title": "Santa Cruz County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Cruz County Elections Department",
+      "uri": "https://votescount.santacruzcountyca.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:44:35Z",
+    "sources": [
+      "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures.aspx",
+      "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx",
+      "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+      "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureG.aspx"
+    ]
+  }
+}

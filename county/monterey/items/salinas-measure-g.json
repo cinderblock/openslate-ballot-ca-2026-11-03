@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Salinas — Measure G (Renewal of Measure G Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/salinas",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:19Z",
+  "documents": [
+    {
+      "title": "Argument in favor of Measure G",
+      "source": "https://www.salinas.gov/files/sharedassets/city/v/1/your-government/city-clerk/documents/salinas-argument-in-favor-of-measure-g.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "51bb675e1c40bdf3c28bcd16aaedfa755e6aa073aa6564f4ef91f8d2357ac99c"
+    }
+  ]
+}

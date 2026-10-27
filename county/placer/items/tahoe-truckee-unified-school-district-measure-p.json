@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Tahoe Truckee Unified School District — Measure P",
+    "kind": "measure",
+    "jurisdiction": "us/ca/placer-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:43Z",
+  "documents": [
+    {
+      "title": "Measure P (Tahoe Truckee Unified School District parcel tax renewal): ballot question, impartial analysis, arguments, rebuttal and full text",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure_P.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7f1007e7c3eb74e27f4b945a44af8d6721415ce6417f11973acc3b4efcb28e0c"
+    }
+  ]
+}

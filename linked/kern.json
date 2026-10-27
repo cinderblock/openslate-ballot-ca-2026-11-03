@@ -1,0 +1,64 @@
+{
+  "dir": "county/kern",
+  "jurisdiction": "us/ca/kern-county",
+  "title": "Kern County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Kern County Elections (Auditor-Controller-County Clerk)",
+    "uri": "https://www.kernvote.com/"
+  },
+  "pages": [
+    "https://www.kernvote.com/elections/upcoming-elections/november-3-2026-general-election"
+  ],
+  "measures": [
+    {
+      "titles": [
+        "Kern County — Measure Z (California Living Museum Improvement and Conservation Act of 2026)"
+      ],
+      "jurisdiction": "us/ca/kern-county",
+      "letter": "Z",
+      "documents": [
+        {
+          "kind": "resolution",
+          "title": "CALM Measure (Board of Supervisors Resolution 2026-280 calling the election)",
+          "url": "https://www.kernvote.com/home/showpublisheddocument/25906/639214569964930000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.kernvote.com/elections/upcoming-elections/november-3-2026-general-election",
+          "checked": "HTTP 200 %PDF (in browser), 35 pp, scanned (no text layer), PDF title 'CALM Resolution'; p1 image: 'BEFORE THE BOARD OF SUPERVISORS COUNTY OF KERN ... Resolution No. 2026-280 CALLING AN ELECTION FOR THE PURPOSE OF SUBMITTING TO THE VOTERS AN ORDINANCE ADDING CHAPTER 4.13 ... 0.125 PERCENT RETAIL TRANSACTIONS AND USE TAX', adopted July 28, 2026; p2 recites the citizens' initiative. Page count suggests the initiative ordinance is attached, not verified page by page.",
+          "manual": {
+            "sha256": "976dcddef0765d215193d5f242552856f843d17a3650610c833250fb875c0a2d",
+            "bytes": 10185436,
+            "retrieved_at": "2026-10-27T08:48:02Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.kernvote.com/home/showpublisheddocument/26088/639226443455370000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.kernvote.com/elections/upcoming-elections/november-3-2026-general-election",
+          "checked": "HTTP 200 %PDF (in browser), 1 p, scanned; 'IMPARTIAL ANALYSIS BY COUNTY COUNSEL CALIFORNIA LIVING MUSEUM ZOO IMPROVEMENT AND CONSERVATION ACT OF 2026 MEASURE Z' - 0.125% countywide special sales tax, majority vote.",
+          "manual": {
+            "sha256": "39812196c4e75813096f77620f6559e844a0e4fca3561e767c6579b8636455cd",
+            "bytes": 110763,
+            "retrieved_at": "2026-10-27T08:48:04Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.kernvote.com/home/showpublisheddocument/25996/639222255839400000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.kernvote.com/elections/upcoming-elections/november-3-2026-general-election",
+          "checked": "HTTP 200 %PDF (in browser), 6 pp, scanned submission packet: supporters list form 'Ballot Measure Z ... General Election', primary argument signers form, 'Ballot Measure Primary Argument Submission Form ... Ballot Measure Z ... November 3, 2026 ... Primary Argument in Favor', stamped KERN COUNTY ELECTIONS AUG 12 2026; argument text page itself not individually read.",
+          "manual": {
+            "sha256": "885f4e9e3b792e072c223709b12a8e8b4d2e2be23af859c4e9be47c03c7e992f",
+            "bytes": 1464926,
+            "retrieved_at": "2026-10-27T08:48:03Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "kernvote.com (pages and PDFs) returns 403 (Akamai) to curl and WebFetch; links read and PDFs opened through a real browser session. Official title is 'California Living Museum ZOO Improvement and Conservation Act of 2026' (catalog omits 'Zoo'). Citizens' initiative special tax but impartial analysis says majority vote. No argument against, rebuttals or separate full text listed on the county page. The argument-in-favor PDF is the raw submission packet and shows signers' phone numbers/emails."
+    }
+  ]
+}

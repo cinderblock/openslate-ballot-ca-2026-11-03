@@ -1,0 +1,26 @@
+{
+  "https://www.kernvote.com/home/showpublisheddocument/25906/639214569964930000": {
+    "url": "https://www.kernvote.com/home/showpublisheddocument/25906/639214569964930000",
+    "mediaType": "application/pdf",
+    "bytes": 10185436,
+    "sha256": "976dcddef0765d215193d5f242552856f843d17a3650610c833250fb875c0a2d",
+    "retrieved_at": "2026-10-27T08:48:02Z",
+    "via": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+  },
+  "https://www.kernvote.com/home/showpublisheddocument/25996/639222255839400000": {
+    "url": "https://www.kernvote.com/home/showpublisheddocument/25996/639222255839400000",
+    "mediaType": "application/pdf",
+    "bytes": 1464926,
+    "sha256": "885f4e9e3b792e072c223709b12a8e8b4d2e2be23af859c4e9be47c03c7e992f",
+    "retrieved_at": "2026-10-27T08:48:03Z",
+    "via": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+  },
+  "https://www.kernvote.com/home/showpublisheddocument/26088/639226443455370000": {
+    "url": "https://www.kernvote.com/home/showpublisheddocument/26088/639226443455370000",
+    "mediaType": "application/pdf",
+    "bytes": 110763,
+    "sha256": "39812196c4e75813096f77620f6559e844a0e4fca3561e767c6579b8636455cd",
+    "retrieved_at": "2026-10-27T08:48:04Z",
+    "via": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+  }
+}

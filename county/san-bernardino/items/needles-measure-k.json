@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Needles — Measure K (Transient Occupancy Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/needles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:01Z",
+  "documents": [
+    {
+      "title": "Full text of Measure K",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/FT_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "013093c1d4baf71949443a7543136dd56dc2e26bd6933268b088b0002a810919"
+    },
+    {
+      "title": "Resolution placing Measure K on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/RES_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "18a2dbbf59022db2832c689d6e23467aaed82b8f71b5da10d107b2afb2f9d3a5"
+    },
+    {
+      "title": "Impartial analysis of Measure K",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/IA_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "17229e2621592ebf3c14bacaf6c35817ef3f1217ad187253e45a17555544bef2"
+    },
+    {
+      "title": "Argument in favor of Measure K",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/AIF_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f8316fd7167d2a9abc27a24c38a6f8815eebceaf05502de9c08c85096d5ade58"
+    }
+  ]
+}

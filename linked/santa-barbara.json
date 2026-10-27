@@ -1,0 +1,134 @@
+{
+  "dir": "county/santa-barbara",
+  "jurisdiction": "us/ca/santa-barbara-county",
+  "title": "Santa Barbara County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Santa Barbara County Clerk, Recorder and Assessor — Elections Division",
+    "uri": "https://www.countyofsb.org/acr-elections"
+  },
+  "pages": [
+    "https://www.countyofsb.org/4932/November-3-2026-General-Election",
+    "https://www.countyofsb.org/list-of-local-measures-on-ballot",
+    "https://carpinteriaca.gov/city-hall/city-clerk/",
+    "https://cityofguadalupe.org/city-clerk/",
+    "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures"
+  ],
+  "measures": [
+    {
+      "titles": [
+        "Carpinteria — Measure I2026 (Carpinteria Public Safety, Roads, City Services Measure)"
+      ],
+      "jurisdiction": "us/ca/carpinteria",
+      "letter": "I2026",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://carpinteriaca.gov/wp-content/uploads/2026/06/6472.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://carpinteriaca.gov/city-hall/city-clerk/",
+          "checked": "text PDF, 20 pp; p1: 'RESOLUTION NO. 6472 ... CITY OF CARPINTERIA ORDERING THE SUBMISSION ... A MEASURE RELATING TO THE ESTABLISHMENT OF A GENERAL TRANSACTION AND USE TAX AT THE CONSOLIDATED GENERAL MUNICIPAL ELECTION TO BE HELD ON NOVEMBER 3, 2026'; ordinance attached as Exhibit A"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://carpinteriaca.gov/wp-content/uploads/2026/07/Impartial-Analysis-Signed.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://carpinteriaca.gov/city-hall/city-clerk/",
+          "checked": "scanned PDF, OCR p1: 'CITY OF CARPINTERIA IMPARTIAL ANALYSIS BY CITY ATTORNEY Measure I2026 ... November 3, 2026 general municipal election ballot'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://carpinteriaca.gov/wp-content/uploads/2026/07/Argument-In-Favor-Signed.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://carpinteriaca.gov/city-hall/city-clerk/",
+          "checked": "scanned PDF, OCR p1: 'ARGUMENT IN FAVOR OF MEASURE I FOR THE CITY OF CARPINTERIA'"
+        }
+      ],
+      "notes": "From the city clerk; the county's measure list has no documents. The clerk posts no argument against or rebuttals."
+    },
+    {
+      "titles": ["Guadalupe — Measure G2026 (City of Guadalupe Measure G2026)"],
+      "jurisdiction": "us/ca/guadalupe",
+      "letter": "G2026",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-28-Approval-of-a-Measure-establishing-a-tax-on-Cannabis-Business-Activities-within-the-City-6-23-2026.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://cityofguadalupe.org/city-clerk/",
+          "checked": "scanned PDF, OCR p1: 'RESOLUTION NO. 2026-28 ... CITY OF GUADALUPE ... SUBMISSION TO THE VOTERS ... A MEASURE ESTABLISHING A TAX ON CANNABIS BUSINESS ACTIVITIES ... November 3, 2026'; Exhibit A Ordinance No. 2026-528 from p5 (24 pp)"
+        },
+        {
+          "kind": "favor",
+          "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-if-Favor-Measure-G2026.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://cityofguadalupe.org/city-clerk/",
+          "checked": "scanned PDF, OCR p1: SB County argument form, 'General Municipal Election - November 3, 2026 ... ARGUMENT IN FAVOR OF MEASURE G2026'"
+        }
+      ],
+      "notes": "Cannabis business tax. From the city clerk; no impartial analysis, argument against or rebuttals posted."
+    },
+    {
+      "titles": ["Guadalupe — Measure J2026 (City of Guadalupe Measure J2026)"],
+      "jurisdiction": "us/ca/guadalupe",
+      "letter": "J2026",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-31-Approval-of-a-Measure-to-increase-Transient-Occupancy-Tax-6-23-2026.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://cityofguadalupe.org/city-clerk/",
+          "checked": "scanned PDF, OCR p1: 'RESOLUTION NO. 2026-31 ... CITY OF GUADALUPE ... A MEASURE TO INCREASE THE CITY'S TRANSIENT OCCUPANCY TAX FROM SIX PERCENT (6%) TO TWELVE PERCENT (12%) ... November 3, 2026'; Exhibit A Ordinance No. 2026-529 from p5"
+        },
+        {
+          "kind": "favor",
+          "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-in-Favor-Measure-J2026.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://cityofguadalupe.org/city-clerk/",
+          "checked": "scanned PDF, OCR p1: SB County argument form, 'General Municipal Election - November 3, 2026 ... ARGUMENT IN FAVOR OF MEASURE J 2026 ... Measure J2026'"
+        }
+      ],
+      "notes": "Hotel (transient occupancy) tax. From the city clerk; no impartial analysis, argument against or rebuttals posted."
+    },
+    {
+      "titles": [
+        "Allan Hancock Joint Community College District — Measure H (Education and Economic Development Bond)"
+      ],
+      "jurisdiction": "us/ca/santa-barbara-county",
+      "letter": "H",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/resolution-no-26-21",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+          "checked": "text PDF, 23 pp; p1: 'RESOLUTION NO. 26-21 ... BOARD OF TRUSTEES OF THE ALLAN HANCOCK JOINT COMMUNITY COLLEGE DISTRICT (SANTA BARBARA, SAN LUIS OBISPO AND VENTURA COUNTIES) ORDERING AN ELECTION TO AUTHORIZE THE ISSUANCE OF GENERAL OBLIGATION BONDS ... NOVEMBER 3, 2026'"
+        }
+      ],
+      "notes": "Multi-county measure. Santa Barbara County lists it as H2026, 'Allan Hancock Joint Community College District Affordable Higher Education', and Ventura County as 'Bond Measure H', but neither posts documents. The only official document found is the district's resolution, posted by San Luis Obispo County, another election authority for the same measure. The catalog title's 'Education and Economic Development Bond' does not match the official title 'Affordable Higher Education'."
+    }
+  ],
+  "missing": [
+    {
+      "titles": ["Santa Maria — Measure C2026 (City Of Santa Maria General Services)"],
+      "why": "The county posts no measure documents. The Santa Maria city clerk elections page (https://www.cityofsantamaria.org/services/departments/city-clerk-records/elections) links 'Impartial Analysis' (/home/showpublisheddocument/33390/639216030063430000), 'Argument in Favor of Measure C2026' (/33368/639229063205570000) and 'Resolutions' (/33350/639186042645700000), but every file request is refused: Akamai 403 for curl and PowerShell, and in a real Chrome session fetch() returns 403 and direct navigation bounces back to the elections page. No file could be downloaded, so none could be verified."
+    },
+    {
+      "titles": [
+        "Santa Ynez Valley Union High School District — Measure D2026 (Santa Ynez Valley Union High School Quality Education/Career Training Measure)"
+      ],
+      "why": "The county's list (countyofsb.org/list-of-local-measures-on-ballot) gives only letter, title and district. The county has no measure documents, and its voter guide is available only through an address lookup. The district site (syvuhsd.org) has a 'Measure D Nov 2026' menu with About/FAQ pages only, no resolution, analysis or arguments."
+    },
+    {
+      "titles": [
+        "Isla Vista Community Services District — Measure E2026 (Increased Isla Vista Municipal Infrastructure and Services)"
+      ],
+      "why": "No county documents. The IVCSD site has a 'Learn About Measure E' FAQ page; its Board Resolutions page lists nothing after 2020 (the 2026 resolutions placing E/F are not posted). The June 23 2026 board agenda exists, but it is a meeting packet, not the adopted resolution."
+    },
+    {
+      "titles": [
+        "Isla Vista Community Services District — Measure F2026 (Establishment of an Appropriations Limit)"
+      ],
+      "why": "Same as E2026: no county documents, and the IVCSD resolutions page has no 2026 resolutions."
+    }
+  ]
+}

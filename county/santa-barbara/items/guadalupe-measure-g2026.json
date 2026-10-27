@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Guadalupe — Measure G2026 (City of Guadalupe Measure G2026)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/guadalupe",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:29Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure G2026 on the ballot",
+      "source": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-28-Approval-of-a-Measure-establishing-a-tax-on-Cannabis-Business-Activities-within-the-City-6-23-2026.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a834ddadb8985eaf3395639838bbfb72f93d437d4423edfa36afc338c60e406e"
+    },
+    {
+      "title": "Argument in favor of Measure G2026",
+      "source": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-if-Favor-Measure-G2026.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "0f153c8f62ac3364551596be5d5351935597dd25d5785040ecf6003508860f0b"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Ceres — Measure P (Ceres 911 Emergency Response, Community Safety, Essential Services Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/ceres",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:41Z",
+  "documents": [
+    {
+      "title": "Measure P in the county voter guide: full text (PDF pp. 77-81, Spanish 82-87), impartial analysis (p. 88), argument in favor (p. 89)",
+      "source": "https://www.stanvote.gov/pdf/voter-guides/20261103.pdf",
+      "mediaType": "application/pdf",
+      "page": 77,
+      "sha256": "ab520f2d0153cd7c31de4a8ee8374222fb602c75fe4763efe73dadb53179c718"
+    }
+  ]
+}

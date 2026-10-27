@@ -1,0 +1,23 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/santa-barbara-county",
+    "title": "Santa Barbara County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Barbara County Clerk, Recorder and Assessor — Elections Division",
+      "uri": "https://www.countyofsb.org/acr-elections",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:44:30Z",
+    "sources": [
+      "https://www.countyofsb.org/4932/November-3-2026-General-Election",
+      "https://www.countyofsb.org/list-of-local-measures-on-ballot",
+      "https://carpinteriaca.gov/city-hall/city-clerk/",
+      "https://cityofguadalupe.org/city-clerk/",
+      "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures"
+    ]
+  }
+}

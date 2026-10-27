@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "South Placer Fire District — Measure B",
+    "kind": "measure",
+    "jurisdiction": "us/ca/placer-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:41Z",
+  "documents": [
+    {
+      "title": "Measure B (South Placer Fire Protection District, Fire and Emergency Medical Response Measure): ballot question, impartial analysis, arguments, rebuttals and full text",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-B.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2a357222ec236dc5eba57283f018d0e56dfc4ca2a017afd3256754144002c2a3"
+    }
+  ]
+}

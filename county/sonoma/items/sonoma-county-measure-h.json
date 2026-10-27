@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sonoma County — Measure H (Sonoma County Parks Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:37Z",
+  "documents": [
+    {
+      "title": "Measure H: county voter guide pages — measure question, County Counsel impartial analysis, County Auditor fiscal impact statement, argument in favor, full text (Ordinance No. 6568)",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9451_MeasH_SoCoRegParks_SalesTax_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "63db8e5bfefe563bd84777265ab5409bcb7daaea55a16228a947f5cea4f897eb"
+    }
+  ]
+}

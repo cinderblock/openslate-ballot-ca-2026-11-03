@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Waugh School District — Measure E (Waugh School District Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:38Z",
+  "documents": [
+    {
+      "title": "Measure E: county voter guide pages — measure question, County Counsel impartial analysis, tax rate statement, argument in favor, full text",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9445_MeasE_WaughSchlDist_Bond_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ce22cfc2ee96bf72d86d6e4286cf0ebd874efc8c5b25d511cc9078d4c08ea69b"
+    }
+  ]
+}

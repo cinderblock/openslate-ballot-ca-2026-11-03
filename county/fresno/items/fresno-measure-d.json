@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fresno — Measure D (City of Fresno Transactions & Use Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/fresno",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:05Z",
+  "documents": [
+    {
+      "title": "Ordinance submitted to the voters",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/ordinance_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a466b6821a21d1942b6a50b7a2d367174e13c3e2be91e75b062cee3bf192e36d"
+    },
+    {
+      "title": "Resolution placing Measure D on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/resolution_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "67c303aa7d254755923bceb7725eabfa28d089a84a5c1a348440493118878339"
+    },
+    {
+      "title": "Impartial analysis of Measure D",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/impartial-analysis-city-of-fresno_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "0503d57598c30d02df695547bbd5f7e5f55c5c2cfece173e1add211733ccdd5b"
+    },
+    {
+      "title": "Argument in favor of Measure D",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/filed-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5de10d27a46b54a93af3a45fea6d29cb3b5acc855e91d07705f0d6911d2b3f60"
+    },
+    {
+      "title": "Argument against Measure D",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f7de5fff2736e6db492597d4129d27855fc2fe162f8e778ebcb5ccfa94511e08"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure D",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/filed-rebuttal-to-the-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "83915457a5c7f62b2c64db45cb729e549a7e84fe8609d7bbbb9c5d73b0da1e5e"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure D",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/3/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/filed-rebuttal-to-the-argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "600ff50ec3b5ce899df3ab5f76df4f49875985ef7959a4339c15be6f5c597543"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "dir": "county/santa-cruz",
+  "jurisdiction": "us/ca/santa-cruz-county",
+  "title": "Santa Cruz County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Santa Cruz County Elections Department",
+    "uri": "https://votescount.santacruzcountyca.gov/"
+  },
+  "pages": [
+    "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures.aspx",
+    "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx",
+    "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+    "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureG.aspx"
+  ],
+  "measures": [
+    {
+      "titles": ["Santa Cruz County — Measure E (Transactions and Use Tax)"],
+      "jurisdiction": "us/ca/santa-cruz-county",
+      "letter": "E",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Text.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "4pp; p1 'ORDINANCE NO. ____ URGENCY ORDINANCE AMENDING CHAPTER 4.22 OF THE SANTA CRUZ COUNTY CODE TO ESTABLISH A TEMPORARY SUPPLEMENTAL ONE-HALF CENT TRANSACTIONS AND USE TAX'"
+        },
+        {
+          "kind": "resolution",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Resolution.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "4pp; p1 'BEFORE THE BOARD OF SUPERVISORS OF THE COUNTY OF SANTA CRUZ ... RESOLUTION CALLING FOR AN ELECTION ... A COUNTYWIDE MEASURE TO RAISE THE RETAIL TRANSACTIONS AND USE' tax"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Impartial.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "2pp; 'IMPARTIAL ANALYSIS OF MEASURE \"E\" Under California law, local governments may levy a general transaction and use tax'"
+        },
+        {
+          "kind": "fiscal",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Fiscal.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "1p; 'FISCAL IMPACT STATEMENT BY COUNTY AUDITOR-CONTROLLER/TREASURER-TAX COLLECTOR BALLOT MEASURE E ... supplemental one-half percent (0.5%) sales tax'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20For.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "1p scan; 'Argument for Measure E Vote YES on Measure E to protect emergency medical care and essential services throughout Santa Cruz County'"
+        },
+        {
+          "kind": "against",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20Against.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "1p; 'Argument Against Measure E We strongly urge a NO vote on Measure E'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20For%20Rebuttal.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "1p; 'Rebuttal to argument for Measure E Please, don't be fooled ...'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20E%20Argument%20Against%20Rebuttal.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx",
+          "checked": "1p; 'Rebuttal to Argument Against Measure E Measure E is an urgent and necessary response ...'"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": [
+        "Santa Cruz County — Measure D (Onshore Support Facilities for Offshore Oil, Gas and Deep-Sea Mining)"
+      ],
+      "jurisdiction": "us/ca/santa-cruz-county",
+      "letter": "D",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Text.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx",
+          "checked": "8pp; p1 'EXHIBIT 1 The People of the County of Santa Cruz County ordain as follows: ... Chapter 16.55 ONSHORE FACILITIES SUPPORTING OFFSHORE OIL AND GAS AND DEEP-SEA MINING'"
+        },
+        {
+          "kind": "resolution",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Resolution.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx",
+          "checked": "4pp; p1 'BEFORE THE BOARD OF SUPERVISORS OF THE COUNTY OF SANTA CRUZ ... RESOLUTION CALLING FOR A COUNTYWIDE ELECTION ... A MEASURE TO AMEND CHAPTER 16.55'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Impartial.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx",
+          "checked": "1p; 'IMPARTIAL ANALYSIS OF MEASURE \"D\" Measure \"D\" concerns the regulation of onshore facilities necessary to support offshore oil, gas, and deep-sea mining'"
+        },
+        {
+          "kind": "fiscal",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Fiscal.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx",
+          "checked": "1p; 'FISCAL IMPACT STATEMENT BY COUNTY AUDITOR-CONTROLLER/TREASURER-TAX COLLECTOR BALLOT MEASURE D'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Argument%20For.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx",
+          "checked": "1p scan, stamped 'SANTA CRUZ CO ELECTION FILED AUG 13 '26'; 'Argument for Measure D Vote YES on Measure D to give Santa Cruz County voters the ultimate say'"
+        }
+      ],
+      "notes": "County page states 'No argument against Measure D was filed', so no rebuttals."
+    },
+    {
+      "titles": ["Scotts Valley — Measure G (Transient Occupancy Tax Increase)"],
+      "jurisdiction": "us/ca/scotts-valley",
+      "letter": "G",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Text.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureG.aspx",
+          "checked": "2pp scan; p1 'EXHIBIT A Measure to be voted on: November 3, 2026 ORDINANCE NO. ORDINANCE OF THE CITY COUNCIL OF THE CITY OF SCOTTS VALLEY AMENDING SECTION 3.24.030 ... TRANSIENT OCCUPANCY TAX' (11% to 13%)"
+        },
+        {
+          "kind": "resolution",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Resolution.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureG.aspx",
+          "checked": "3pp scan; p1 'RESOLUTION NO. 2095.2 RESOLUTION CALLING A MUNICIPAL ELECTION FOR NOVEMBER 3, 2026 ... CITY OF SCOTTS VALLEY ... INCREASE IN THE CITY'S TRANSIENT OCCUPANCY TAX'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Impartial.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureG.aspx",
+          "checked": "2pp; 'IMPARTIAL ANALYSIS BY CITY ATTORNEY MEASURE G City of Scotts Valley Transient Occupancy Tax Increase ... from 11 percent to 13 percent'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20G%20Argument%20For.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureG.aspx",
+          "checked": "3pp scan; p1 'Argument in Favor of Measure G Paid only by visitors, Measure G protects Scotts Valley's parks, roads, public safety'"
+        }
+      ],
+      "notes": "County page states 'No argument against Measure G was filed'. Santa Cruz County also has a Measure N on its list (not in this input)."
+    }
+  ]
+}

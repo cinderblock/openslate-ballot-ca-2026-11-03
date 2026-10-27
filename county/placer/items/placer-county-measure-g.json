@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Placer County — Measure G",
+    "kind": "measure",
+    "jurisdiction": "us/ca/placer-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:43Z",
+  "documents": [
+    {
+      "title": "Measure G (Placer County Charter amendment, Board of Supervisors vacancies): ballot question and impartial analysis",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-G.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "29aea4ead0dbacf0a3cceff257deba7f62d16cf2dce05a9824524ddf5085cb84"
+    }
+  ]
+}

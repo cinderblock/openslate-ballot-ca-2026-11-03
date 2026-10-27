@@ -1,0 +1,22 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Rafael — Measure W (San Rafael Essential Services Protection Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-rafael",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:45:55Z",
+  "documents": [
+    {
+      "title": "Full text of Measure W",
+      "source": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-w-110326/measure-w-full-text-110326",
+      "mediaType": "text/html"
+    },
+    {
+      "title": "Measure W: impartial analysis and arguments (county web page)",
+      "source": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-w-110326",
+      "mediaType": "text/html"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Bernardino County — Measure I (San Bernardino County Transportation Authority Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:58Z",
+  "documents": [
+    {
+      "title": "Full text of Measure I",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/FT_SBCTA.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b3942a6d04bb9d2469f05fdc6290772978cfe4f6a4fce98e0f16cc4186adb85c"
+    },
+    {
+      "title": "Resolution placing Measure I on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/RES_SBCTA.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f48ad830f7177eab3511f89cc3c0857eb0c32c0eefe94186869a9f03e7d9fc53"
+    },
+    {
+      "title": "Impartial analysis of Measure I",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/IA_SBCTA.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8ab1287c34f603939b306bd629572697753062e9369eddf33092ad44e6d53904"
+    },
+    {
+      "title": "Argument in favor of Measure I",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/AF_SBCTA.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c0edcf01be1990d68bbffed1ab1a7ea1bdc4476de984f6948589df7622bda6b1"
+    }
+  ]
+}

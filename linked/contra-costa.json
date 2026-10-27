@@ -1,0 +1,174 @@
+{
+  "dir": "county/contra-costa",
+  "jurisdiction": "us/ca/contra-costa-county",
+  "title": "Contra Costa County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Contra Costa County Clerk-Recorder-Elections Department",
+    "uri": "https://www.contracostavote.gov/"
+  },
+  "pages": [
+    "https://www.contracostavote.gov/election/november-3-2026-general-election/",
+    "https://www.contracostavote.gov/?s=measure",
+    "https://www.walnutcreekca.gov/government/departments/city-clerk/elections-voter-registration/november-3-2026-election-4243"
+  ],
+  "measures": [
+    {
+      "titles": ["Walnut Creek — Measure T (Appointive City Treasurer)"],
+      "jurisdiction": "us/ca/walnut-creek",
+      "letter": "T",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure T: ballot question, City Attorney impartial analysis, arguments and rebuttals",
+          "url": "https://www.contracostavote.gov/m9012-en-2/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (in browser; curl gets a 202 bot challenge). Page 'MEASURE T CITY OF WALNUT CREEK Shall the office of the City Treasurer be appointive?' then CITY ATTORNEY'S IMPARTIAL ANALYSIS (cites Resolution No. 26-31), ARGUMENT IN FAVOR, REBUTTAL TO ARGUMENT IN FAVOR, ARGUMENT AGAINST, REBUTTAL TO ARGUMENT AGAINST."
+        },
+        {
+          "kind": "resolution",
+          "title": "Resolution No. 26-31",
+          "url": "https://www.walnutcreekca.gov/home/showpublisheddocument/33850/639214416535370000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.walnutcreekca.gov/government/departments/city-clerk/elections-voter-registration/november-3-2026-election-4243",
+          "checked": "Opened in browser PDF viewer (4 pp; curl gets 403 from the city's WAF). p1: 'CITY OF WALNUT CREEK RESOLUTION NO. 26-31 ... SUBMITTING A MEASURE TO THE VOTERS OF WALNUT CREEK AT THE NOVEMBER 3, 2026 ELECTION TO DETERMINE WHETHER THE POSITION OF CITY TREASURER SHOULD BE CHANGED FROM ELECTED TO APPOINTIVE'.",
+          "manual": {
+            "sha256": "126eeead2b25f6aaad4bc730864c66ad6232ead368f6a749a0f931b3a938580a",
+            "bytes": 456983,
+            "retrieved_at": "2026-10-27T08:48:04Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "Contra Costa County posts each local measure as one HTML page (question, analysis, arguments, rebuttals, and full text where printed). These pages are not linked from the county's Nov 3, 2026 election page (its candidate/measure list is a JS widget with no documents); they are listed by the site's own search, which is the found_on page. The measure is only the appointive-treasurer question, so the city resolution is the only 'text'. The city's election page also links separate PDFs of the analysis and each argument/rebuttal; not listed since the county page holds them."
+    },
+    {
+      "titles": ["Acalanes Union High School District — Measure W (Parcel Tax)"],
+      "jurisdiction": "us/ca/contra-costa-county",
+      "letter": "W",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure W: ballot question, County Counsel impartial analysis, arguments, rebuttals and full text",
+          "url": "https://www.contracostavote.gov/m9002-en-2/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (browser). 'MEASURE W ACALANES UNION HIGH SCHOOL DISTRICT ... levying a $168 parcel tax for eight years'; analysis: 'beginning on July 1, 2027'; sections: COUNTY COUNSEL'S IMPARTIAL ANALYSIS, ARGUMENT IN FAVOR, REBUTTAL TO ARGUMENT IN FAVOR, ARGUMENT AGAINST, REBUTTAL TO ARGUMENT AGAINST, FULL TEXT."
+        }
+      ],
+      "notes": "Page text never says '2026'; matched to this election by the $168 / eight-year terms starting July 1, 2027 and by its listing with the other Nov 3, 2026 measures in the site search. URL slug ends '-2'."
+    },
+    {
+      "titles": ["Liberty Union High School District — Measure X (School Facilities Bond)"],
+      "jurisdiction": "us/ca/contra-costa-county",
+      "letter": "X",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure X: ballot question, County Counsel impartial analysis, tax rate statement, arguments, rebuttals and full text",
+          "url": "https://www.contracostavote.gov/m9003-en-2/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (browser). 'MEASURE X LIBERTY UNION HIGH SCHOOL DISTRICT In order to repair and improve aging classrooms...'; mentions November 3, 2026; sections: COUNTY COUNSEL'S IMPARTIAL ANALYSIS, TAX RATE STATEMENT, ARGUMENT IN FAVOR, REBUTTAL TO ARGUMENT IN FAVOR, ARGUMENT AGAINST, REBUTTAL TO ARGUMENT AGAINST, FULL TEXT incl. BOND PROJECT LIST."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": ["San Pablo — Measure S (City of San Pablo Rent Control)"],
+      "jurisdiction": "us/ca/san-pablo",
+      "letter": "S",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure S: ballot question, City Attorney impartial analysis, arguments and rebuttals",
+          "url": "https://www.contracostavote.gov/m9011-en-2/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (browser). 'MEASURE S CITY OF SAN PABLO Shall the proposed ordinance, prohibiting residential real property rental rate increases for some rental units that exceed sixty percent of the Consumer Price Index...'; sections: IMPARTIAL ANALYSIS, ARGUMENT IN FAVOR, REBUTTAL TO ARGUMENT IN FAVOR, ARGUMENT AGAINST, REBUTTAL TO ARGUMENT AGAINST; mentions 2026."
+        }
+      ],
+      "notes": "No full text of the initiative online: the county page says to call the City Clerk at 510-215-3000 for a copy. San Pablo's Elections page (https://www.sanpabloca.gov/1090/Elections) and Housing Stability Hub (the city's Measure S link) have no copy of the initiative text."
+    },
+    {
+      "titles": ["Richmond — Measure Q (Fire Facilities and Emergency Response Bond)"],
+      "jurisdiction": "us/ca/richmond",
+      "letter": "Q",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure Q: ballot question, City Attorney impartial analysis, tax rate statement, full text, arguments and rebuttals",
+          "url": "https://www.contracostavote.gov/m9009-en-2/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (browser). 'MEASURE Q CITY OF RICHMOND To support rapid, 911 emergency medical response, modernize and rehabilitate unsafe/deteriorating firefighter housing and facilities...'; sections: IMPARTIAL ANALYSIS, TAX RATE STATEMENT, FULL TEXT, ARGUMENT IN FAVOR, REBUTTAL TO ARGUMENT IN FAVOR, ARGUMENT AGAINST, REBUTTAL TO ARGUMENT AGAINST; mentions 2026."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": ["West Contra Costa Unified School District — Measure V (Parcel Tax Renewal)"],
+      "jurisdiction": "us/ca/contra-costa-county",
+      "letter": "V",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure V: ballot question, County Counsel impartial analysis, arguments, rebuttals and full text",
+          "url": "https://www.contracostavote.gov/m9004-en-2/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (browser). 'MEASURE V WEST CONTRA COSTA UNIFIED SCHOOL DISTRICT Shall the measure supporting local quality education in West Contra Costa Unified School District...'; sections: COUNTY COUNSEL'S IMPARTIAL ANALYSIS, ARGUMENT IN FAVOR, REBUTTAL TO ARGUMENT IN FAVOR, ARGUMENT AGAINST, REBUTTAL TO ARGUMENT AGAINST, FULL TEXT; mentions 2026, levy from 2027."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": ["Concord — Measure O (Business License Tax Update)"],
+      "jurisdiction": "us/ca/concord",
+      "letter": "O",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure O: ballot question, City Attorney impartial analysis, arguments, rebuttals and full text",
+          "url": "https://www.contracostavote.gov/m9007-en/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (browser). 'MEASURE O CITY OF CONCORD To protect City of Concord services/ensure smaller businesses pay less than larger businesses...'; sections: IMPARTIAL ANALYSIS, ARGUMENT IN FAVOR, REBUTTAL TO ARGUMENT IN FAVOR, ARGUMENT AGAINST, REBUTTAL TO ARGUMENT AGAINST, 'FULL TEXT OF MEASURE O ORDINANCE NO...'; mentions 2026."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": [
+        "Walnut Creek — Measure U (Walnut Creek Senior Housing Transit Village Initiative)"
+      ],
+      "jurisdiction": "us/ca/walnut-creek",
+      "letter": "U",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure U: ballot question, City Attorney impartial analysis and argument in favor",
+          "url": "https://www.contracostavote.gov/m9013-en/",
+          "mediaType": "text/html",
+          "found_on": "https://www.contracostavote.gov/?s=measure",
+          "checked": "HTTP 200 (browser). 'MEASURE U CITY OF WALNUT CREEK Shall the measure amending the City of Walnut Creek General Plan, the North Downtown Specific Plan, and the Municipal Code to redesignate a 2.4 acre site at the northeast corner of North California Boulevard...'; CITY ATTORNEY'S IMPARTIAL ANALYSIS, ARGUMENT IN FAVOR; 'No Argument Against was filed', 'No Rebuttal to the Argument In Favor was filed', 'No Rebuttal to the Argument Against was filed'."
+        },
+        {
+          "kind": "resolution",
+          "title": "Resolution No. 26-44 with Exhibit A, the proposed Senior Housing Transit Village Initiative",
+          "url": "https://www.walnutcreekca.gov/home/showpublisheddocument/33852/639214416538130000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.walnutcreekca.gov/government/departments/city-clerk/elections-voter-registration/november-3-2026-election-4243",
+          "checked": "Opened in browser PDF viewer (70 pp, scanned; curl gets 403 from the city's WAF). p1: 'CITY OF WALNUT CREEK RESOLUTION NO. 26-44 ... SUBMITTING A MEASURE TO THE VOTERS OF WALNUT CREEK AT THE NOVEMBER 3, 2026 ELECTION ENTITLED \"THE WALNUT CREEK SENIOR HOUSING TRANSIT VILLAGE INITIATIVE\"'; the city page's link text says it includes Exhibit A, the proposed initiative.",
+          "manual": {
+            "sha256": "ef4ba81cf4bda9d19c747dc3c19dcbd1fbdb5cd1214845d0d62aab0fdf0c44ed",
+            "bytes": 3024757,
+            "retrieved_at": "2026-10-27T08:48:06Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "Only an argument in favor was filed. The county page has no full text (says to contact the city clerk); the initiative text is Exhibit A to the city's Resolution 26-44 (70-page scan)."
+    }
+  ]
+}

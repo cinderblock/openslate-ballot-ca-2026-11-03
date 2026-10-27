@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Firebaugh — Measure F (City of Firebaugh Parcel Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/firebaugh",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:00Z",
+  "documents": [
+    {
+      "title": "Exhibit A: ordinance submitted to the voters",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/exhibit-a-ordinance_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "51fbf45e11f6debeb7c6a27f8c450b0405b55aa1d762d5488da986d0890ef092"
+    },
+    {
+      "title": "Resolution placing Measure F on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-resolution_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "dd3db2dd26070acf62ff711119775a3ef7bf895eea99bcccc2a58d60fe20d202"
+    },
+    {
+      "title": "Impartial analysis of Measure F",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-impartial-analysis_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9fcf4bb18b277d3cecb2c8164435782d2a552ba9e3bfca58a7e9458a19f79d3d"
+    },
+    {
+      "title": "Argument in favor of Measure F",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d6a27eda50a83201a181bf6cb53c253cf087fe1487a79a62c8b21b97ae94491b"
+    },
+    {
+      "title": "Argument against Measure F",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "af9b89e5d6de9006f7de60c33aa0556306eaa5c4bb49ecd75a889b9f6aa1a7ec"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure F",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-rebuttal-to-the-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ec64c6fa3308e863648fa51d74206bae7573c4c6b7e1a2e99fef17d7ab8af669"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure F",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-rebuttal-argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "300b82614c7ac9456942068e2b504862a288d5c2b3a68e336ab8f61a6a5e4876"
+    }
+  ]
+}

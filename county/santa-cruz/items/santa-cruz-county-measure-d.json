@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Cruz County — Measure D (Onshore Support Facilities for Offshore Oil, Gas and Deep-Sea Mining)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:34Z",
+  "documents": [
+    {
+      "title": "Full text of Measure D",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Text.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "87e959b08520ef2b20052386b927ba77f6fb2995e537fcd47cfaf043205396c6"
+    },
+    {
+      "title": "Resolution placing Measure D on the ballot",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Resolution.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c1d767e8ee19d6d9857c7996998c63c0eb58dbf38e2f6cca1f16154a07a35c02"
+    },
+    {
+      "title": "Impartial analysis of Measure D",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Impartial.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "893dd3c6ee00bb931a5f091818d45082c3fd372bd103429b0e165b78abfb3a98"
+    },
+    {
+      "title": "Fiscal analysis of Measure D",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Fiscal.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b69c0edfd0c04e5ae4970968cac370c3d38031741e6ec55ae6e42e946c8ddf5c"
+    },
+    {
+      "title": "Argument in favor of Measure D",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Measure%20D%20Argument%20For.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f5da9d415d7f4d29a2f3eb76b867eaec9ab11eb113fc0a65c2afa523f9c8a2a2"
+    }
+  ]
+}

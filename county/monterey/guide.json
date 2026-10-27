@@ -1,0 +1,26 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/monterey-county",
+    "title": "Monterey County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Monterey County Elections",
+      "uri": "https://www.countyofmonterey.gov/government/departments-a-h/elections/home",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:48:00Z",
+    "sources": [
+      "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+      "https://ci.carmel.ca.us/pod/ballot-measures-nov-3-2026-election",
+      "https://www.cityofpacificgrove.gov/our_city/city_clerk/november_3_2026_general_election_and_ballot_measures.php",
+      "https://monterey.gov/your_city_hall/city_clerk/elections.php",
+      "https://www.cityofmarina.org/1473/Measure-Q-City-of-Marina-911-Emergency-P",
+      "https://www.kingcity.com/CivicAlerts.aspx?AID=154",
+      "https://www.salinas.gov/City-Hall/Departments/City-Clerk/Elections-Voter-Information",
+      "https://www.salinas.gov/City-Hall/Departments/City-Attorney/Referendum-Ordinance-2687"
+    ]
+  }
+}

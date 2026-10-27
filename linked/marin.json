@@ -1,0 +1,285 @@
+{
+  "dir": "county/marin",
+  "jurisdiction": "us/ca/marin-county",
+  "title": "Marin County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Marin County Elections Department",
+    "uri": "https://www.marincounty.gov/departments/elections"
+  },
+  "pages": [
+    "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+    "https://www.sausalito.gov/departments/administration/city_clerk/local_elections/measure_x_(2026).php",
+    "https://townoffairfaxca.gov/measure-r-paramedic-services-special-parcel-tax/"
+  ],
+  "measures": [
+    {
+      "titles": [
+        "Miller Creek School District — Measure N (Miller Creek Elementary School District Classroom Repair/Upgrade Measure)"
+      ],
+      "jurisdiction": "us/ca/marin-county",
+      "letter": "N",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure N: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-n-110226",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure N 11/03/26', H2 'Miller Creek School District'; sections Impartial Analysis, Tax Rate statement, Argument in Favor, Argument Against; 'Impartial analysis by County Counsel of Measure N'. Argument Against section reads 'No argument against Measure N was filed.' Page H1 actually reads 'Measure N 11/02/26' (county typo; slug also -110226)."
+        },
+        {
+          "kind": "text",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-miller-creek-school-district-110226/measure-n-full-text-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-n-110226",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure N - Full Text 11/03/26'; body starts 'November 3, 2026 General Election. Miller creek school district bond measure KEY FINDINGS'."
+        }
+      ],
+      "notes": "County publishes analysis/arguments as HTML on one page, not PDFs. No argument against filed; no rebuttals. Page heading has a typo date 11/02/26."
+    },
+    {
+      "titles": ["Marin County — Measure P (County of Marin Childcare Initiative)"],
+      "jurisdiction": "us/ca/marin-county",
+      "letter": "P",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure P: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-p-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure P 11/03/26', H2 'County of Marin Childcare Initiative'; sections Impartial Analysis, Argument in Favor, Rebuttal of Argument in Favor, Argument Against, Rebuttal of Argument Against; 'Impartial analysis by County Counsel of Measure P'. Argument Against begins 'VOTE NO ON THE CHILD CARE PARCEL TAX'."
+        },
+        {
+          "kind": "text",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-p-110326/measure-p-full-text-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-p-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure P - Full Text 11/03/26'; body starts 'November 3, 2026 General Election. County of Marin Childcare Initiative RESOLUTION NO. 2026-072'."
+        }
+      ],
+      "notes": "Voter-sponsored initiative (parcel tax). All four arguments/rebuttals present on the county page (HTML)."
+    },
+    {
+      "titles": ["San Rafael — Measure W (San Rafael Essential Services Protection Measure)"],
+      "jurisdiction": "us/ca/san-rafael",
+      "letter": "W",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure W: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-w-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure W 11/03/26', H2 'City of San Rafael'; sections Impartial Analysis, Argument in Favor, Rebuttal of Argument in Favor, Argument Against, Rebuttal of Argument Against; 'Impartial analysis by City Attorney of Measure W'. Argument Against begins 'Measure W does not deserve your support. Vote NO.'"
+        },
+        {
+          "kind": "text",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-w-110326/measure-w-full-text-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-w-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure W - Full Text 11/03/26'; body starts 'November 3, 2026 General Election. San Rafael Essential Services Protection Measure ORDINANCE NO.'."
+        }
+      ],
+      "notes": "County publishes analysis/arguments as HTML."
+    },
+    {
+      "titles": [
+        "Marin Healthcare District — Measure CC (Marin Healthcare District Initiative Measure)"
+      ],
+      "jurisdiction": "us/ca/marin-county",
+      "letter": "CC",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure CC: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-cc-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure CC 11/03/26', H2 'Marin Healthcare District Initiative'; sections Impartial Analysis, Argument in Favor, Rebuttal of Argument in Favor, Argument Against, Rebuttal of Argument Against; 'Impartial analysis by County Counsel of Measure CC'. IA: 'This Measure was placed on the ballot following submission of a voter in[itiative]'."
+        },
+        {
+          "kind": "text",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-cc-110326/measure-cc-full-text-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-cc-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure CC - Full Text 11/03/26'; body starts 'November 3, 2026 General Election. ORDINANCE NO. ____ AN ORDINANCE OF THE PEOPLE OF THE MARIN HEA[LTHCARE DISTRICT]'."
+        }
+      ],
+      "notes": "Voter initiative. County publishes analysis/arguments as HTML."
+    },
+    {
+      "titles": [
+        "Sausalito — Measure X (Arts, Industrial & Maritime Preservation and Improvement Initiative)"
+      ],
+      "jurisdiction": "us/ca/sausalito",
+      "letter": "X",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure X: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-city-sausalito-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure X 11/03/26', H2 'City of Sausalito'; sections Impartial Analysis, Argument in Favor, Rebuttal of Argument in Favor, Argument Against, Rebuttal of Argument Against; 'Impartial analysis by City Attorney of Measure X'. IA ends 'The full text of the measure is also available on the City's website at www.sausalito.gov/measure-x.'"
+        },
+        {
+          "kind": "text",
+          "title": "Arts, Industrial & Maritime Preservation and Improvement Initiative (AIM) — full initiative text",
+          "url": "https://www.sausalito.gov/Documents/Departments/Administration/City%20Clerk/Local%20Elections/Measure%20X/AIM%20Petition%20Text%20Document.pdf?t=202609221341070",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.sausalito.gov/departments/administration/city_clerk/local_elections/measure_x_(2026).php",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 266 pages, scanned (no text layer). Rendered p1: 'Arts, Industrial & Maritime Preservation and Improvement Initiative (\"AIM Initiative\")', SECTION 1 Title, SECTION 2 Findings (Marinship, Ordinance 1022)."
+        }
+      ],
+      "notes": "County page has no full text; it points to www.sausalito.gov/measure-x, which redirects to the City Clerk's Measure X (2026) page, where the full text PDF is linked (href has a ?t= cache-buster, kept as linked). The city page carries a correction notice: the June 16, 2026 agenda packet had a withdrawn draft; Council rescinded Res. 30-2026 and adopted Res. 33-2026 (Corrected) on July 7, 2026. The city page also links its own PDFs of the impartial analysis, arguments and rebuttals and Res. 33-2026 (not downloaded/verified here; the Res. 33-2026 filename contains a mis-encoded character)."
+    },
+    {
+      "titles": ["Fairfax — Measure R (Paramedic Services Special Tax)"],
+      "jurisdiction": "us/ca/fairfax",
+      "letter": "R",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure R: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-r-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure R 11/03/26', H2 'Town of Fairfax'; sections Impartial Analysis, Argument in Favor, Argument Against; 'Impartial analysis by Town Attorney of Measure R'. IA: 'MEASURE EXTENDING A SPECIAL PARCEL TAX FOR FOUR (4) YEARS AND INCREASING ITS R[ATE]'; Argument Against: 'No argument against Measure R was filed.'"
+        },
+        {
+          "kind": "resolution",
+          "title": "Resolution No. 2026-24 calling the election, with Exhibit A ordinance (measure text)",
+          "url": "https://storage.googleapis.com/proudcity/fairfaxca/2026/09/resolution-2026-24-calling-rvpa-special-parcial-tax-ballot-measure-for-11-3-26-election-9d738e80.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://townoffairfaxca.gov/measure-r-paramedic-services-special-parcel-tax/",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 11 pages. p1 'RESOLUTION NO. 2026-24 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF FAIRFAX ... CALLING FOR A GENERAL MUNICIPAL ELECTION ... ON NOVEMBER 3, 2026 ... SPECIAL PARCEL TAX FOR PARAMEDIC'; p3 ballot question (Ross Valley Paramedic Authority, $107.50); p7 'EXHIBIT \"A\" ORDINANCE'; p8 ordinance of the people of the Town of Fairfax; p11 '§ 3.44.090 ... election ... November 3, 2026'."
+        }
+      ],
+      "notes": "County page has no full text; the Town of Fairfax Measure R page (Town Clerk) links Resolution 2026-24 with the ordinance as Exhibit A. The resolution PDF is hosted on storage.googleapis.com (the town website platform, ProudCity), linked directly from the town page. No argument against filed."
+    },
+    {
+      "titles": ["Larkspur — Measure S (Paramedic Services Special Tax)"],
+      "jurisdiction": "us/ca/larkspur",
+      "letter": "S",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure S: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-s-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure S 11/03/26', H2 'City of Larkspur'; sections Impartial Analysis, Argument in Favor, Argument Against; 'Impartial analysis by City Attorney of Measure S'. IA: 'The City Council of the City of Larkspur placed Measure S on the November 3, [2026 ballot]'; Argument Against: 'No argument against Measure S was filed.'"
+        }
+      ],
+      "notes": "No full text on the county page (IA says the resolution is in the Voter Information Guide). Could not locate a City of Larkspur election page (larkspur.ca.gov search returned nothing useful). No argument against filed."
+    },
+    {
+      "titles": ["Ross — Measure U (Paramedic Services Special Tax)"],
+      "jurisdiction": "us/ca/ross",
+      "letter": "U",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure U: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-u-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure U 11/03/26', H2 'Town of Ross'; sections Impartial Analysis, Argument in Favor, Argument Against; 'Impartial analysis by Town Attorney of Measure U'. IA: 'The Town Council of the Town of Ross adopted Resolution No. 2637 on July 9, 2026 placing Measu[re U]'; 'No argument against Measure U was filed.'"
+        },
+        {
+          "kind": "text",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-u-110326/measure-u-full-text-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-u-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure U - Full Text 11/03/26'; body starts 'November 3, 2026 General Election. Town of Ross ORDINANCE NO. 736 AN ORDINANCE OF THE TOWN OF ROSS'."
+        }
+      ],
+      "notes": "No argument against filed."
+    },
+    {
+      "titles": ["San Anselmo — Measure V (Paramedic Services Special Tax)"],
+      "jurisdiction": "us/ca/san-anselmo",
+      "letter": "V",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure V: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-v-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure V 11/03/26', H2 'Town of San Anselmo'; sections Impartial Analysis, Argument in Favor, Argument Against; 'Impartial analysis by Town Attorney of Measure V'. IA: 'The San Anselmo Town Council placed this measure on the ballot.'; 'No argument against Measure V was filed.'"
+        },
+        {
+          "kind": "text",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-v-110326/measure-v-full-text-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-v-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure V - Full Text 11/03/26'; body starts 'November 3, 2026 General Election. Town of San Anselmo AN ORDINANCE OF THE TOWN OF SAN ANSELMO ADD[ING]'."
+        }
+      ],
+      "notes": "No argument against filed."
+    },
+    {
+      "titles": [
+        "County Service Area 27 (Ross Valley Paramedic Authority) — Measure Y (Paramedic Services Special Tax)"
+      ],
+      "jurisdiction": "us/ca/marin-county",
+      "letter": "Y",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure Y: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-csa-27-ross-valley-paramedic-service-area-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure Y 11/03/26', H2 'County Services Area 27 – Ross Valley Paramedic Authority'; sections Impartial Analysis, Argument in Favor, Argument Against; 'Impartial analysis by County Counsel of Measure Y'. IA: 'County of Marin County Service Area No. 27 Measure Y This Measure was placed on the ballot by t[he]'; 'No argument against Measure Y was filed.'"
+        },
+        {
+          "kind": "text",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-csa-27-ross-valley-paramedic-service-area-110326/template-measure-html-060226-full-text",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-csa-27-ross-valley-paramedic-service-area-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure Y - Full Text 11/03/26'; body starts 'November 3, 2026 General Election. SPECIAL TAX MEASURE FOR MARIN COUNTY SERVICE AREA 27 FINDINGS'."
+        }
+      ],
+      "notes": "Full-text page H1 is 'Measure Y 11/03/26 - Full Text' but its URL slug is 'template-measure-html-060226-full-text' (a reused template path); content verified as CSA 27 Measure Y. No argument against filed."
+    },
+    {
+      "titles": [
+        "Kentfield Fire Protection District — Measure BB (Paramedic Services Special Tax)"
+      ],
+      "jurisdiction": "us/ca/marin-county",
+      "letter": "BB",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure BB: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-kentfield-fire-protection-district-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure BB 11/03/26', H2 'Kentfield Fire Protection District'; sections Impartial Analysis, Argument in Favor, Argument Against; 'Impartial analysis by County Counsel of Measure BB'. IA: 'Kentfield Fire Protection District Measure BB This Measure was placed on the ballot by the Board of Directors'; 'No argument against Measure BB was filed.'"
+        }
+      ],
+      "notes": "No full text on the county page (IA says call the Elections Office for a copy). District site not checked. No argument against filed."
+    },
+    {
+      "titles": [
+        "Sleepy Hollow Fire Protection District — Measure DD (Paramedic Services Special Tax)"
+      ],
+      "jurisdiction": "us/ca/marin-county",
+      "letter": "DD",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure DD: impartial analysis and arguments (county web page)",
+          "url": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-sleepy-hollow-fire-protection-district-110326",
+          "mediaType": "text/html",
+          "found_on": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326",
+          "checked": "Fetched in a real browser (marincounty.gov sits behind a Cloudflare block for curl/WebFetch); HTTP 200, text/html. H1 'Measure DD 11/03/26', H2 'Sleepy Hollow Fire Protection District'; sections Impartial Analysis, Argument in Favor, Argument Against; 'Impartial analysis by County Counsel of Measure DD'. IA: 'Sleepy Hollow Fire Protection District Measure DD This Measure was placed on the ballot by the Board of Direc[tors]'; 'No argument against Measure DD was filed.'"
+        }
+      ],
+      "notes": "No full text on the county page. A web search surfaced the district's own 'Resolution No. 2026-5 RVPA Tax Election & Rates' PDF on shfpd.specialdistrict.org, but I could not find a district page that links it, so it is not listed. No argument against filed."
+    }
+  ]
+}

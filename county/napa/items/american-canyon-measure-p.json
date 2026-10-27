@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "American Canyon — Measure P (City Services Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/american-canyon",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:41Z",
+  "documents": [
+    {
+      "title": "Ordinance (Full Text)",
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=459189&repo=r-f53bdda4",
+      "mediaType": "text/html"
+    },
+    {
+      "title": "Impartial analysis of Measure P",
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=459186&repo=r-f53bdda4",
+      "mediaType": "text/html"
+    },
+    {
+      "title": "Argument in favor of Measure P",
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=464597&repo=r-f53bdda4",
+      "mediaType": "text/html"
+    }
+  ]
+}

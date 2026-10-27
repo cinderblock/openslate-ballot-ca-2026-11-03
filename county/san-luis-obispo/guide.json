@@ -1,0 +1,21 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/san-luis-obispo-county",
+    "title": "San Luis Obispo County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Luis Obispo County Clerk-Recorder (Elections)",
+      "uri": "https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:47:57Z",
+    "sources": [
+      "https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting/elections-conducted-by-county-of-san-luis-obispo/november-3%2C-2026%2C-general-election",
+      "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+      "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures"
+    ]
+  }
+}

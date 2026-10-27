@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "North County Recreation and Park District — Measure V (Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/monterey-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:47:47Z",
+  "documents": [
+    {
+      "title": "Full text of Measure V",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147469/639217160290670000",
+      "mediaType": "application/pdf",
+      "sha256": "ce6d443ace399107b9354159132aab4bd176b1f013a646308e06264cf9950566"
+    },
+    {
+      "title": "Impartial analysis of Measure V",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147781/639222432621230000",
+      "mediaType": "application/pdf",
+      "sha256": "00305ae4b0e7cc9f48b0c19c46219fe7d3e391d050a897691e7f81fac39d1513"
+    },
+    {
+      "title": "Argument in favor of Measure V",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147779/639222432617730000",
+      "mediaType": "application/pdf",
+      "sha256": "a3266d9112761169dca20dbf76c0cdd9a4887c23c4aa8836a32bbdd3153519d4"
+    }
+  ]
+}

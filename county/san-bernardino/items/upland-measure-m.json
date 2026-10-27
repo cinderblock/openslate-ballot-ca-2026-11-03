@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Upland — Measure M (Municipal Code Amendment)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/upland",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:04Z",
+  "documents": [
+    {
+      "title": "Full text of Measure M",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/FT_Upland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9bf9153c6cfed5f2872ac7520c1711deaf72320025172b8e4bd097550a38e166"
+    },
+    {
+      "title": "Impartial analysis of Measure M",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/IA_Upland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6d590a9bd1974e69fd93134a0e37f8dd558afff54323c736dd19f7698b11b80d"
+    },
+    {
+      "title": "Argument in favor of Measure M",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AF_Upland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d592686e88c6559577cb91c07b6778bc64b5f9cad3976fe4f3405ddc4f8503b6"
+    },
+    {
+      "title": "Argument against Measure M",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AA_Upland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e11b205f51a9bcc31364d0c45e5b5ffa052537ee56b70aa18cd23dafd4d9bb55"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure M",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAF_Upland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "43a88cd79ecdc4fe8042ca125278adc20431dcf2d40ca3cf8189e6f23efbe330"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure M",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAA_Upland.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "63c8bedddd134c9b65a43c35121546c121c2544c7f8c4473f006b73a93093e9f"
+    }
+  ]
+}

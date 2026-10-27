@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Yolo County — Measure X (Transient Occupancy Tax Increase)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/yolo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:44Z",
+  "documents": [
+    {
+      "title": "Full Text of Measure X: Ordinance No. 1585 (a tab of the county's Measure X page)",
+      "source": "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+      "mediaType": "text/html"
+    },
+    {
+      "title": "Impartial Analysis of Measure X (a tab of the county's Measure X page)",
+      "source": "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+      "mediaType": "text/html"
+    },
+    {
+      "title": "Argument in favor of Measure X",
+      "source": "https://ace.yolocounty.gov/DocumentCenter/View/1027/Argument-in-Favor---Measure-X-",
+      "mediaType": "application/pdf",
+      "sha256": "10b476a69e2353f0ba3942f1cb642fee8c155b462f6eedbba6e6ca84bd43db5b"
+    }
+  ]
+}

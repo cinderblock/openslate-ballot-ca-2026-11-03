@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fresno County — Measure S (Fresno County Transportation Improvement Act Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/fresno-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:08Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure S on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/2/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-resolution-fresno-county-transportation-imporvement-act_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "18e856bd532b378b379a5746cf1422cfe7353e0a050103880b187e2361adf3af"
+    },
+    {
+      "title": "Impartial analysis of Measure S",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/2/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-impartial-analysis-county-counsel_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "8226c83f10548e8b229d80fd6fdf9252a04cd47c3b93561802eccde72afd9aa1"
+    },
+    {
+      "title": "Fiscal analysis of Measure S",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-fiscal-impact-statement_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b0c1abbd73c9aaada9153aecbff752b1605c1fd7170c1768997deed17f725aed"
+    },
+    {
+      "title": "Argument in favor of Measure S",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "15a4ea0a21c88686dbe1af7b315cc6f4bba0a54c924a4f7684e9e72846194842"
+    },
+    {
+      "title": "Argument against Measure S",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9a188366c66009c372632fb45f927fb8fad06d7bf7cfedbba0ec024a0c9bfff1"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure S",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/rebuttal-to-the-argument-in-favor_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e93abc036773c4c5603a89c46e2de9dca85b8f042ff992135522f43497b713bd"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure S",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/rebuttal-to-the-argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c25189591517cd3a2fdd9faf6bffa4fe7bd62788015edb6aacef298b791ebc23"
+    }
+  ]
+}

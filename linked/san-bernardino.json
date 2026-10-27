@@ -1,0 +1,798 @@
+{
+  "dir": "county/san-bernardino",
+  "jurisdiction": "us/ca/san-bernardino-county",
+  "title": "San Bernardino County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "San Bernardino County Registrar of Voters",
+    "uri": "https://elections.sbcounty.gov/"
+  },
+  "pages": ["https://elections.sbcounty.gov/elections/2026/1103/measures/"],
+  "measures": [
+    {
+      "titles": ["Upland Unified School District — Measure A (School Bonds)"],
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "letter": "A",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RES_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 14 pp; p1: 'RESOLUTION NO. _________ RESOLUTION OF THE BOARD OF EDUCATION OF UPLAND UNIFIED SCHOOL DISTRICT ORDERING AN ELECTION, AND ESTABLISHING SPECIFICATIONS OF THE ELECTION ORDE'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/FT_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 7 pp; p1: '4918-7590-0334v10/022661-0031 B-1 EXHIBIT B FULL TEXT BALLOT PROPOSITION OF THE UPLAND UNIFIED SCHOOL DISTRICT BOND MEASURE ELECTION NOVEMBER 3, 2026 KEY FINDINGS The Boa'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/IA_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'August 13, 2026 (909) 387-5455 This Measure was placed on the ballot by a resolution adopted by the Board of Education of the Upland JOLENA E. GRIDER, Deputy County Couns'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/TR_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: '1 TAX RATE STATEMENT UPLAND UNIFIED SCHOOL DISTRICT GENERAL OBLIGATION BONDS MEASURE __ An election will be held in Upland Unified School District (the “District”) on Nov'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AIF_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument in Favor of Measure A Your Yes Vote on Measure A will do three things: Repair schools. Protect students. Prepare our children for the future. Many of our Distric'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAF_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Rebuttal to the Argument in Favor of Measure A The School District should not be asking taxpayers for $237 Million dollars to fix clogged toilets, leaky faucets or leaky '"
+        },
+        {
+          "kind": "against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AA_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument Against Measure A As a former part time adjunct professor in the Business Department at Chaffey College for 13 years teaching business courses, I helped students'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAA_UplandUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Rebuttal to Argument Against Measure A Quality schools are key to providing an excellent education, preserving property values, and maintaining our great community. As pa'"
+        }
+      ],
+      "notes": "Full set: argument for/against and both rebuttals. 55% vote. Most docs print 'Measure __' (letter assigned later); identified by district and Nov 3, 2026 date; arguments name Measure A."
+    },
+    {
+      "titles": ["Barstow Community College District — Measure C (School Bonds)"],
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "letter": "C",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/RES_BarstowCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 9 pp; p1: 'BOARD OF TRUSTEES BARSTOW COMMUNITY COLLEGE DISTRICT RESOLUTION NO. ____ ORDERING AN ELECTION TO AUTHORIZE THE ISSUANCE OF GENERAL OBLIGATION BONDS, ESTABLISHING SPECIFIC'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/FT_BarstowCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 5 pp; p1: 'APPENDIX A FULL TEXT OF BOND MEASURE The full text of bond measure to be printed in the election material begins below the following line. _______________________________'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/IA_BarstowCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'RNARDINO Interoffice Memo UNTY DATE: August 11, 2026 PHONE: (909) 387-5455 FROM: JOLENA E. GRIDER, Deputy County Counsel County Counsel TO: LETESHIA WILSON Elections Spec'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/TR_BarstowCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'C-1 APPENDIX C TAX RATE STATEMENT An election will be held in the Barstow Community College District (the \"District\") on November 3, 2026, to authorize the sale of up to '"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/AF_BarstowCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Barstow Community College District – Prop 39 Facilities Bond Measure Election Day: November 3, 2026 ARGUMENT IN FAVOR OF MEASURE C VOTE YES on Measure C to protect access'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 55% vote."
+    },
+    {
+      "titles": ["Needles — Measure D (Charter Amendment)"],
+      "jurisdiction": "us/ca/needles",
+      "letter": "D",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/RES_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 7 pp; p1: '1 RESOLUTION NO. 2026-29 RESOLUTION OF THE CITY COUNCIL OF THE CITY OF NEEDLES CALLING FOR THE PLACEMENT OF A MEASURE ON THE BALLOT AT THE GENERAL MUNICIPAL ELECTION TO B'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/FT_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 3 pp; p1: 'EXHIBIT A PROPOSED AMENDMENT TO THE NEEDLES CITY CHARTER A PROPOSED AMENDMENT OF THE CITY COUNCIL OF THE CITY OF NEEDLES AMENDING SECTION 503 NEEDLES CITY CHARTER TO INCR'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/IA_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'CITYATTORNEY'S IMPARTIALANALYSIS OF MEASURE _____ The City Council of the City of Needles has placed Measure __ on the ballot for the November 3, 2026 General Municipal E'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/AIF_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'ARGUMENT IN FAVOR OF MEASURE D Vote YES on Measure D to modernize an outdated provision of the Needles City Charter and provide reasonable compensation for public service'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). Charter Sec. 503 amendment raising council compensation (Resolution 2026-29). Needles has three measures (D, K, L) under folders /29/, /27/, /30/ with identical file names; verified each by content."
+    },
+    {
+      "titles": ["Chino — Measure F (Municipal Code Amendment)"],
+      "jurisdiction": "us/ca/chino",
+      "letter": "F",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/RES_CityofChino.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 29 pp; p1: 'RESOLUTION NO. 2026-049 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF CHINO, CALIFORNIA, ORDERING THE SUBMISSION TO THE QUALIFIED ELECTORS OF THE CITY OF A GENERAL TAX '"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/FT_CityofChino.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 20 pp; p1: 'RESOLUTION NO. 2026-049 PAGE 9 EXHIBIT A – To Resolution No. 2026-049 ORDINANCE NO. 2026-011 AN ORDINANCE OF THE CITY OF CHINO, CALIFORNIA, SUBMITTED TO THE VOTERS BY THE'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/IA_CityofChino.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'CHINO BUSINESS LICENSE TAX MEASURE CITY ATTORNEY’S IMPARTIAL ANALYSIS Measure __ was placed on the ballot by the Chino City Council. If approved by a majority of voters v'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/AIF_CityofChino.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Vote YES on Measure F - Business License Reform and Small Business Protection Measure Chino’s business license structure was created nearly 40 years ago, when the City an'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). Substantively a business license tax measure (Resolution 2026-049, 'general tax measure adding Chapter 5.03'); county table labels it 'Municipal Code Amendment'."
+    },
+    {
+      "titles": [
+        "San Bernardino County — Measure I (San Bernardino County Transportation Authority Transactions and Use Tax)"
+      ],
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "letter": "I",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/RES_SBCTA.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'RESOLUTION NO. 2026-116 RESOLUTION OF THE BOARD OF SUPERVISORS OF SAN BERNARDINO COUNTY CALLING A SPECIAL ELECTION AND SUBMITTING MEASURE I, THE SAN BERNARDINO COUNTY LOC'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/FT_SBCTA.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 17 pp; p1: 'MEASURE \"I\" ORDINANCE NO. 26-1 AN ORDINANCE OF THE SAN BERNARDINO COUNTY TRANSPORTATION AUTHORITY, AND THE PEOPLE OF SAN BERNARDINO COUNTY, CALIFORNIA ESTABLISHING A TRAN'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/IA_SBCTA.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'FILED - RNARDINO Interoffice Memo AUG 1 O 2026 NTY BY Q..S DEPUTY REGISTRAR OF VOTERS DATE: August 10, 2026 PHONE: (909) 387-5455 FROM: JOLENA E. GRIDER, Deputy County Co'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/AF_SBCTA.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'VOTE YES ON MEASURE I Measure I is a common-sense investment in San Bernardino County's future. It does not increase taxes. It simply continues the existing one-half cent'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 2/3 vote. Continues existing 1/2-cent SBCTA transportation sales tax (SBCTA Ordinance 26-1; Board of Supervisors Resolution 2026-116)."
+    },
+    {
+      "titles": ["Chino Hills — Measure J (Transactions and Use Tax)"],
+      "jurisdiction": "us/ca/chino-hills",
+      "letter": "J",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RES_ChinoHills.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 5 pp; p1: 'Page 1 of 14 RESOLUTION NO. 2026R-____ A RESOLUTION OF THE CITY OF CHINO HILLS, PLACING A PROPOSITION ON THE NOVEMBER 3, 2026 BALLOT PURSUANT TO ARTICLE XIIIC, § 2(B) OF '"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/FT_ChinoHills.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 9 pp; p1: 'Page 1 of 14 ORDINANCE NO. AN ORDINANCE OF THE CITY OF CHINO HILLS, ADDING A NEW CHAPTER 3.30 TO TITLE 3 OF THE CHINO HILLS MUNICIPAL CODE TO ESTABLISH A NEW TRANSACTIONS'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/IA_ChinoHills.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'MEASURE __ CITY ATTORNEY’S IMPARTIAL ANALYSIS If approved, Measure __ would authorize a one percent (1% - one cent on every dollar) transactions and use (sales) tax withi'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AF_ChinoHills.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument In Favor Of Measure J Vote Yes on Measure J Chino Hills is one of the safest and most desirable communities in the region because generations of residents and Ci'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAF_ChinoHills.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Measure J Rebuttal From the time we were toddlers until we entered college or joined the military, my seven siblings and I had a peanut butter and jelly sandwich just abo'"
+        },
+        {
+          "kind": "against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AA_ChinoHills.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'We keep hearing how special the City of Chino Hills is and how the city would face ruin if this additional sales tax is not approved. I agree that our town is special, fo'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAA_ChinoHills.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'The opposition argument agrees with what we all know: Chino Hills is a safe community with an unmatched quality of life. But safety, trails, parks, and streets do not mai'"
+        }
+      ],
+      "notes": "Full set. 1% transactions and use tax."
+    },
+    {
+      "titles": ["Needles — Measure K (Transient Occupancy Tax)"],
+      "jurisdiction": "us/ca/needles",
+      "letter": "K",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/RES_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 5 pp; p1: 'RESOLUTION NO. 2026-27 RESOLUTION OF THE CITY COUNCIL OF THE CITY OF NEEDLES CALLING FOR THE PLACEMENT OF A TRANSIENT OCCUPANCY TAX MEASURE ON THE BALLOT AT THE GENERAL M'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/FT_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 10 pp; p1: '4 EXHIBIT A ORDINANCE NO. 683-AC AN ORDINANCE OF THE PEOPLE OF THE CITY OF NEEDLES AMENDING THE NEEDLES CITY CODE SECTIONS 20-8 (TAX LEVIED), 20.9 (SUBMITTAL OF REPORT; R'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/IA_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'CITY OF NEEDLES CITY ATTORNEY’S IMPARTIAL ANALYSIS MEASURE ___ TRANSIENT OCCUPANCY TAX MEASURE Existing Law: The City Council of the City of Needles has placed Measure __'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/AIF_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'ARGUMENT IN FAVOR OF MEASURE K Vote YES on Measure K to strengthen Needles' ability to maintain essential City services while asking visitors who stay in local lodging to'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals)."
+    },
+    {
+      "titles": ["Upland — Measure M (Municipal Code Amendment)"],
+      "jurisdiction": "us/ca/upland",
+      "letter": "M",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/FT_Upland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 29 pp; p1: 'ORDINANCE NO. 2013 AN ORDINANCE OF THE PEOPLE OF THE CITY OF UPLAND, CALIFORNIA, AMENDING VARIOUS SECTIONS OF CHAPTER 5.04 OF TITLE 5 OF THE UPLAND MUNICIPAL CODE AS IT R'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/IA_Upland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'CITY OF UPLAND CITY ATTORNEY’S IMPARTIAL ANALYSIS OF MEASURE “M” THE “UPLAND BUSINESS LICENSE REFORM MEASURE” ADJUSTING THE RATES OF BUSINESS LICENSE TAXES WITHIN THE CIT'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AF_Upland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument in Favor of City of Upland Measure M Did you know Upland residents and small businesses are shouldering an unfair burden compared to big-box corporations for the'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAF_Upland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Rebuttal to the Argument for Measure M Upland City Council unanimously supported making your favorite big-box store and grocery store villains by the outrageous claim the'"
+        },
+        {
+          "kind": "against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AA_Upland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Upland Businesses and taxpayers did not cause the City’s budget problems! Current and past City Council member’s financial mismanagement caused any budget shortfalls. Thi'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAA_Upland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Rebuttal to Argument Against City of Upland Measure M Don’t be fooled! The opponents are recycling the same tired political attacks they have used for years: the politics'"
+        }
+      ],
+      "notes": "Full set. 'Upland Business License Reform Measure' (business license tax rates). The linked RES is Resolution 6900, which sets argument-filing rules (it quotes the ballot question) rather than the resolution calling the election; FT is the proposed Ordinance 2013."
+    },
+    {
+      "titles": ["Colton — Measure O (Municipal Code Amendment)"],
+      "jurisdiction": "us/ca/colton",
+      "letter": "O",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/RES_CityofColton.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 5 pp; p1: 'Appointed City Treasurer Only RESOLUTION NO. R-19-26 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF COLTON, CALIFORNIA, SUBMITTING TO THE QUALIFIED VOTERS OF THE CITY OF'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/FT_CityofColton.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'Appointed City Treasurer Only EXHIBIT “A” ORDINANCE NO. O-19-26 AN ORDINANCE OF THE PEOPLE OF THE CITY OF COLTON, CALIFORNIA, AMENDING SECTION 2.12.020 OF CHAPTER 2.12 AN'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/IA_CityofColton.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'CITY OF COLTON CITY ATTORNEY’S IMPARTIAL ANALYSIS OF MEASURE \"__\" CHANGING THE OFFICE OF CITY TREASURER FROM AN ELECTED TO AN APPOINTED OFFICE On March 3, 2026, the City '"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/AIF_CityofColton.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'ARGUMENT IN FAVOR OF MEASURE ____ FOR THE CITY OF COLTON Vote YES on Measure ____ to institute critical accountability provisions in the vital role of Treasurer for the C'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). Makes the City Treasurer an appointed office (Ordinance O-19-26)."
+    },
+    {
+      "titles": [
+        "San Bernardino Mountains Community Hospital District — Measure Q (District Bonds)"
+      ],
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "letter": "Q",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/RES_SBMCHD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 7 pp; p1: 'RESOLUTION NO. 2027-02 RESOLUTION OF THE BOARD OF DIRECTORS OF SAN BERNARDINO MOUNTAINS COMMUNITY HOSPITAL DISTRICT ORDERING AN ELECTION, AND ESTABLISHING SPECIFICATIONS '"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/FT_SBMCHD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 3 pp; p1: 'EXHIBIT B FULL TEXT BALLOT PROPOSITION OF THE SAN BERNARDINO MOUNTAINS COMMUNITY HOSPITAL DISTRICT BOND MEASURE ELECTION NOVEMBER 3, 2026 The following is the full propos'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/IA_SBMCHD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'RNARDINO Interoffice Metno UNTY DATE: August 12, 2026 PHONE: (909) 387-5455 FROM: JOLENA E. GRIDER, Deputy County Counsel County Counsel TO: LETESHIA WILSON Elections Spe'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/TR_SBMCHD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'TAX RATE STATEMENT An election will be held in the San Bernardino Mountains Community Hospital District (the “District”) on November 3, 2026, to authorize the sale of up '"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/AIF_SBMCHD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument in Favor of Measure Q San Bernardino Mountains Community Hospital District Vote YES on Measure Q to Save Healthcare Close to Home. For 75 years, Mountains Commun'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 2/3 vote, up to $61M bonds."
+    },
+    {
+      "titles": ["San Bernardino Community College District — Measure Y (School Bonds)"],
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "letter": "Y",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/RES_SBCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 8 pp; p1: '4904-5072-2491v4/024499-0024 RESOLUTION OF THE BOARD OF TRUSTEES OF SAN BERNARDINO COMMUNITY COLLEGE DISTRICT ORDERING AN ELECTION, PLACING THE “LOCAL COLLEGE AFFORDABILI'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/FT_SBCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 6 pp; p1: 'EXHIBIT B FULL TEXT BALLOT PROPOSITION SAN BERNARDINO COMMUNITY COLLEGE DISTRICT BOND MEASURE ELECTION NOVEMBER 3, 2026 “Local College Affordability, Job Training, Repair'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/IA_SBCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'RNARDINO Interoffice Meino UNTY DATE: August 12, 2026 PHONE: (909) 387-5455 FROM: JOLENA E. GRIDER, Deputy County Counsel County Counsel TO: LETESHIA WILSON Elections Spe'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/TR_SBCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'TAX RATE STATEMENT CONCERNING MEASURE _ An election will be held in the San Bernardino Community College District (the “District”) on November 3, 2026 to authorize the sa'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/AIF_SBCCD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'ARGUMENT IN FAVOR OF MEASURE Y Our region faces economic challenges. SanBernardinoCommunityCollegeDistrict is part of the solution to this crisis, but it needs our help. '"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 55% vote, $898M bonds."
+    },
+    {
+      "titles": ["San Bernardino City Unified School District — Measure Z (School Bonds)"],
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "letter": "Z",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/RES_SBCityUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 7 pp; p1: '4124-0186-4043.3 RESOLUTION NO. 10.6 RESOLUTION OF THE BOARD OF EDUCATION OF THE SAN BERNARDINO CITY UNIFIED SCHOOL DISTRICT ORDERING A SCHOOL BOND ELECTION, AND AUTHORIZ'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/FT_SBCityUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 8 pp; p1: 'EXHIBIT A FULL TEXT OF SCHOOL IMPROVEMENT BOND MEASURE SAN BERNARDINO CITY UNIFIED SCHOOL DISTRICT SAFE SCHOOLS RENOVATION AND CONSTRUCTION MEASURE This school improvemen'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/TR_SBCityUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'EXHIBIT B TAX INFORMATION STATEMENT An election will be held in the San Bernardino City Unified School District (the “District”) on November 3, 2026, to authorize the sal'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/AIF_SBCUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument in Favor of Measure Z San Bernardino students deserve safe schools. Your YES vote on Measure Z will deliver essential repairs and safety upgrades. Many of our lo'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 55% vote, $345M bonds. NO IMPARTIAL ANALYSIS LISTED: the county page's 'Impartial' link for Z points to AIF_SBCUSD.pdf, which is the Argument in Favor (same URL as the 'Argument For' link) - a page error. Not recorded as an analysis; the analysis is missing from the county page."
+    },
+    {
+      "titles": ["Highland — Measure E (Transactions and Use Tax)"],
+      "jurisdiction": "us/ca/highland",
+      "letter": "E",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/RES_CityofHighland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 6 pp; p1: 'Page 1 of 6 Resolution No. 2026-040 RESOLUTION 2026-040 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF HIGHLAND, CALIFORNIA, APPROVING AND ORDERING THAT A GENERAL TAX ME'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/FT_CityofHighland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 8 pp; p1: 'ORDINANCE NO. ___ AN ORDINANCE ADOPTED BY THE VOTERS OF THE CITY OF HIGHLAND, CALIFORNIA, ADDING CHAPTER 3.40 TO THE MUNICIPAL CODE TO IMPOSE A 1% TRANSACTIONS AND USE TA'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/IA_CityofHighland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'CITY ATTORNEY’S IMPARTIAL ANALYSIS This Impartial Analysis of Measure __ has been prepared by the City Attorney pursuant to Section 9280 of the California Elections Code.'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/AIF_CityofHighland.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'This Argument in Favor of Measure _ was submitted pursuant to Section 9282 of the California Election Code. It is the opinion of the author(s) and has been printed exactl'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 1% tax."
+    },
+    {
+      "titles": ["Twentynine Palms — Measure G (Transactions and Use Tax)"],
+      "jurisdiction": "us/ca/twentynine-palms",
+      "letter": "G",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/RES_TP.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 3 pp; p1: 'CITY COUNCIL RESOLUTION NO. 26-22 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF TWENTYNINE PALMS, CALIFORNIA, ORDERING THE SUBMISSION TO THE QUALIFIED ELECTORS OF THE C'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/FT_TP.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 10 pp; p1: 'Ordinance No. XX Page 1 of 9 ORDINANCE NO. XX AN ORDINANCE OF THE PEOPLE OF THE CITY OF TWENTYNINE PALMS, CALIFORNIA, ESTABLISHING A ONE PERCENT (1%) TRANSACTIONS (SALES)'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/IA_TP.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'CITY OF TWENTYNINE PALMS CITY ATTORNEY’S IMPARTIAL ANALYSIS OF MEASURE “___” ONE PERCENT TRANSACTIONS AND USE (SALES) TAX On July 14, 2026, the City Council voted to plac'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/AIF_TP.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'ARGUMENT IN FAVOR OF MEASURE _ FOR THE CITY OF TWENTYNINE PALMS Vote YES on Measure _ to protect essential public services and preserve our quality of life in Twentynine '"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 1% tax."
+    },
+    {
+      "titles": ["Ontario — Measure H (Transactions and Use Tax)"],
+      "jurisdiction": "us/ca/ontario",
+      "letter": "H",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RES_Ontario.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 9 pp; p1: 'Resolution No. 2026-136 RESOLUTION NO. 2026-136 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF ONTARIO, CALIFORNIA, CALLING FOR THE PLACEMENT OF A GENERAL TAX MEASURE ON'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/FT_Ontario.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 8 pp; p1: 'Resolution No. 2026-136 ORDINANCE NO. ____ AN ORDINANCE OF THE PEOPLE OF THE CITY OF ONTARIO, CALIFORNIA, ADDING CHAPTER 13 TO TITLE 3 (“FINANCE”) OF THE ONTARIO MUNICIPA'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/IA_Ontario.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'CITY OF ONTARIO CITY ATTORNEY’S IMPARTIAL ANALYSIS OF MEASURE “H” 1/2% TRANSACTIONS AND USE (SALES) TAX On August 7, 2026, the City Council voted to place Measure “H” on '"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AIF_Ontario.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Yes on Measure H for a Safer, Stronger Ontario Vote YES on Measure H to maintain a safe, strong Ontario for all residents. Quality of life matters. Having safe neighborho'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAF_Ontario.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'REBUTTAL TO ARGUMENT IN FAVOR MEASURE H Highest Sales Tax Rate Measure H is another Forever Tax. It raises Ontario's sales tax from 8.75% to 9.25%, with no end date, givi'"
+        },
+        {
+          "kind": "against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AA_Ontario.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 3 pp; p1: '.... ARGUMENT AGAINST MEASURE H Stop Another Ontario City Council Sales Tax Increase VoteNoOnH.com In 2022, the Ontario City Council promised Measure Q would meet the Cit'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAA_Ontario.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Ontario's quality of life depends on delivering the essential services to our residents-fast emergency response times, clean parks, and safe roads. This truth is lost on '"
+        }
+      ],
+      "notes": "Full set. 1/2% tax (Resolution 2026-136)."
+    },
+    {
+      "titles": ["Needles — Measure L (Municipal Bonds)"],
+      "jurisdiction": "us/ca/needles",
+      "letter": "L",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/RES_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'RESOLUTION 2026-30 A RESOLUTION OF THE CITY OF NEEDLES DETERMINING THE NECESSITY OF ISSUING GENERAL OBLIGATION BONDS FOR MUNICIPAL IMPROVEMENTS WHEREAS, the City Council '"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/FT_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 4 pp; p1: 'ORDINANCE 684-AC AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF NEEDLES ORDERING THE SUBMISSION OF A PROPOSITION INCURRING BONDED INDEBTEDNESS TO THE QUALIFIED VOTERS OF'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/IA_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'CITY ATTORNEY'S IMPARTIAL ANALYSIS OF MEASURE _____ The City Council of Needles has voted to place a Measure on the November 3, 2026 ballot to seek voter approval to issu'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/TR_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'EXHIBIT B TAX RATE STATEMENT An election will be held in the City of Needles (the \"City\") on November 3, 2026 to authorize the sale of up to $11,200,000 in general obliga'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/AIF_CityofNeedles.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'ARGUMENT IN FAVOR OF MEASURE L Vote YES on Measure L to repair Needles’ aging infrastructure and invest directly in our community. Needles faces important infrastructure '"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 2/3 vote, up to $11.2M GO bonds (Ordinance 684-AC)."
+    },
+    {
+      "titles": ["Grand Terrace — Measure N (Transactions and Use Tax)"],
+      "jurisdiction": "us/ca/grand-terrace",
+      "letter": "N",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/RES_GT.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 6 pp; p1: 'CC Reso No. 2026-21 Page 1 of 6 July 28, 2026 RESOLUTION NO. 2026-21 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF GRAND TERRACE, CALIFORNIA, CALLING FOR THE PLACEMENT '"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/FT_GT.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 10 pp; p1: 'CC Ord No. xxx Page 1 of 10 ORDINANCE NO. XXX AN ORDINANCE OF THE CITY OF GRAND TERRACE, CALIFORNIA, FUNDING CITY OF GRAND TERRACE GENERAL SERVICES BY IMPOSING A ONE PERC'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/IA_GT.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'MEASURE N: GRAND TERRACE GENERAL SERVICES MEASURE IMPARTIAL ANALYSIS On July 28, 2026, the Grand Terrace City Council voted to place Measure N, entitled the “Grand Terrac'"
+        }
+      ],
+      "notes": "County page states: No Arguments For or Against the measure were filed. 1% 'Grand Terrace General Services Measure'."
+    },
+    {
+      "titles": ["Adelanto — Measure P (Transactions and Use Tax)"],
+      "jurisdiction": "us/ca/adelanto",
+      "letter": "P",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/RES_CityofAdelanto.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 6 pp; p1: '1 RESOLUTION NO. 26-37 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF ADELANTO, CALIFORNIA, ORDERING THAT THE CITY OF ADELANTO SERVICES MEASURE BE SUBMITTED TO THE VOTER'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/FT_CityofAdelanto.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 8 pp; p1: 'ORDINANCE NO. 667 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF ADELANTO, CALIFORNIA, ADDING CHAPTER 3.70 (TRANSACTIONS AND USE TAX) TO TITLE 3 (REVENUE AND FINANCE) OF'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/IA_CityofAdelanto.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: 'CITY ATTORNEY’S IMPARTIAL ANALYSIS OF MEASURE __ This ballot measure establishes a local transactions and use tax in the City of Adelanto. The ballot measure amends the A'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/AIF_CityofAdelanto.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument in Favor – City of Adelanto Vote Yes on Measure _ for a Safer, Cleaner, Stronger Adelanto. In Adelanto, we are committed to protecting our quality of life by kee'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). Ordinance 667 'City of Adelanto Services Measure'."
+    },
+    {
+      "titles": ["Rim of the World Recreation and Park District — Measure R (Special Parcel Tax)"],
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "letter": "R",
+      "documents": [
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/FT_ROTW.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 5 pp; p1: 'RECEIVED JUL 2 0 2026 'c SAN BERNARDINO COUNTY REGISTRAR OF VOTERS Exhibit \"A\" RESOLUTION NO. 07132026 MEASURE\" A RESOLUTION OF THE PEOPLE OF THE RIM OF THE WORLD RECREAT'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/IA_ROTW.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'MEASURE R RIM OF THE WORLD RECREATION AND PARK DISTRICT IMPARTIAL ANALYSIS OF MEASURE R This Impartial Analysis of Measure R has been prepared by County Counsel pursuant '"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/AF_ROTW.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'This Argument in Favor of Measure R was submitted pursuant to Section 9315 of the California Elections Code. It is the opinion of the author(s), and has been printed exac'"
+        }
+      ],
+      "notes": "County page states: No Argument Against was filed (so no rebuttals). 2/3 vote. The linked RES is Resolution 07132026.3 setting argument-filing rules; FT is Exhibit A resolution of the people increasing the parcel tax (scanned, OCR text layer present)."
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/AF_BarstowCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/AF_BarstowCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 176551,
+    "sha256": "c5df780c4c635a84670d532571cb4188447566285d5e5b6170fd42dafbd837ee",
+    "retrieved_at": "2026-10-27T08:43:52Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/FT_BarstowCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/FT_BarstowCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 223798,
+    "sha256": "0127a4469d83675f6a20c2de1b95a5b8bca91532cede9dc1ae8a6989a7ecc508",
+    "retrieved_at": "2026-10-27T08:43:51Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/IA_BarstowCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/IA_BarstowCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 768378,
+    "sha256": "62c5024756fb98a218647442b870647fb5ac86f15d074b9d22a6acff3aa264f4",
+    "retrieved_at": "2026-10-27T08:43:52Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/RES_BarstowCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/RES_BarstowCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 204543,
+    "sha256": "ce93075ca048c14aef2a7b3b34c98c03724d89d47a3e214f7311c1ef0eb10624",
+    "retrieved_at": "2026-10-27T08:43:51Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/TR_BarstowCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/TR_BarstowCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 78463,
+    "sha256": "ed041f0615481b580f1f1b193733565c42ef47beb1c9a26f215d22b8baa3d1a3",
+    "retrieved_at": "2026-10-27T08:43:52Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/AIF_CityofAdelanto.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/AIF_CityofAdelanto.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 146744,
+    "sha256": "331b299fbf1b3b143b94d7a8b7c21e9c0e9b3467010953bac2a3adbf397cdc15",
+    "retrieved_at": "2026-10-27T08:44:21Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/FT_CityofAdelanto.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/FT_CityofAdelanto.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 137583,
+    "sha256": "82993a6d0840614c5dea52bae69489f3e317809c2abb9c3bb950cfb68e16df3b",
+    "retrieved_at": "2026-10-27T08:44:21Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/IA_CityofAdelanto.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/IA_CityofAdelanto.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 82647,
+    "sha256": "ae108d0c9af99750309a3b3d63918233895302cc8cbb90bb036215bf3128e356",
+    "retrieved_at": "2026-10-27T08:44:21Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/RES_CityofAdelanto.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/RES_CityofAdelanto.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 166565,
+    "sha256": "965dddaab6b22dd6c35235a306f2e8b22862c7846373f7e10463758b7f0c5d7a",
+    "retrieved_at": "2026-10-27T08:44:20Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/AIF_CityofChino.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/AIF_CityofChino.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 104030,
+    "sha256": "68ab237cf975b440c39e71a30796f171b25ac86d2221ca4878fa3d91b1510cfc",
+    "retrieved_at": "2026-10-27T08:43:55Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/FT_CityofChino.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/FT_CityofChino.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 261559,
+    "sha256": "e16567940df9c120240a4cc5f6baa788bb27f84612247614c068a95d8a2e15d1",
+    "retrieved_at": "2026-10-27T08:43:54Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/IA_CityofChino.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/IA_CityofChino.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 148984,
+    "sha256": "4e178d9ca921e321971985bed37db121c51352b254002a25bdfab8b54f89be64",
+    "retrieved_at": "2026-10-27T08:43:55Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/RES_CityofChino.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChino/RES_CityofChino.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 312463,
+    "sha256": "8ccd6fea22df9e2b6d4ec05eba5b043a3af4ec1f0d4f4fbde835037cf68ba1fa",
+    "retrieved_at": "2026-10-27T08:43:54Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AA_ChinoHills.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AA_ChinoHills.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 50833,
+    "sha256": "bcd9636872696c6599d52cfb45f48cbe33e022e8eb0aa09b190eb930156a90c5",
+    "retrieved_at": "2026-10-27T08:44:00Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AF_ChinoHills.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AF_ChinoHills.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 54759,
+    "sha256": "caceefe9cf072c7be96a2781df830f55c296c805eddbbb414cf0a85b71fe1da3",
+    "retrieved_at": "2026-10-27T08:43:59Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/FT_ChinoHills.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/FT_ChinoHills.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 166207,
+    "sha256": "3a5207dfd6e03d080423de2c8ae7d14aaaaae07bed44ee5b699bbd7c4f25a7ef",
+    "retrieved_at": "2026-10-27T08:43:58Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/IA_ChinoHills.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/IA_ChinoHills.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 97480,
+    "sha256": "d9a86dae6448d33af9611b354224a5acab300e939c0eed861cb1c527e25a0a92",
+    "retrieved_at": "2026-10-27T08:43:59Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAA_ChinoHills.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAA_ChinoHills.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 50019,
+    "sha256": "1b0e116770ed7aa2ab61dfdf02c7bcc35963908df9a30708ef049973025a2146",
+    "retrieved_at": "2026-10-27T08:44:00Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAF_ChinoHills.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAF_ChinoHills.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 329169,
+    "sha256": "7f0e27e2ffa8dcf4cd4761611c13bd9f859297909a799f606afa03401ee4fda3",
+    "retrieved_at": "2026-10-27T08:43:59Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RES_ChinoHills.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RES_ChinoHills.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 152171,
+    "sha256": "4b15853f6c2e195e46333a9faa452817f13ed2496e67a8a21e92ab4b785f7877",
+    "retrieved_at": "2026-10-27T08:43:58Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/AIF_CityofColton.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/AIF_CityofColton.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 143503,
+    "sha256": "7444027b6cdf8df17c99edd65523f2aa845322355e0471ddf18a5e35bb2dc3e3",
+    "retrieved_at": "2026-10-27T08:44:05Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/FT_CityofColton.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/FT_CityofColton.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 140399,
+    "sha256": "ebcd6cddbcffb12e94313999711b2da53f34e8ede488c1df154a521a85d8e170",
+    "retrieved_at": "2026-10-27T08:44:05Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/IA_CityofColton.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/IA_CityofColton.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 101128,
+    "sha256": "d60a41911e854a9a3c50880a848eb407a69e382b771a0badc7577053a60d6e06",
+    "retrieved_at": "2026-10-27T08:44:05Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/RES_CityofColton.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/RES_CityofColton.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 174470,
+    "sha256": "7e57ce2afb505113ab7513ab82759852d63a2b4210f5e02b5bdc803baecd94a7",
+    "retrieved_at": "2026-10-27T08:44:04Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/FT_GT.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/FT_GT.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 174740,
+    "sha256": "c12354b86745aefb42f72eeb7f79567a4971a88d1f1460f91958b59bab3d3b5e",
+    "retrieved_at": "2026-10-27T08:44:19Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/IA_GT.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/IA_GT.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 131359,
+    "sha256": "74b460d3b4b7447cdf1e5835618e322348b7e5675c4c170a3911b8c651b01c36",
+    "retrieved_at": "2026-10-27T08:44:20Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/RES_GT.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/RES_GT.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 124922,
+    "sha256": "31c055fc7e0f94615be383930d0568cd170574b34e4b67030e1f928fd2f52ca4",
+    "retrieved_at": "2026-10-27T08:44:19Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/AIF_CityofHighland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/AIF_CityofHighland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 115569,
+    "sha256": "e8bb8acff76d4338da414ca427144d184c148750de5ac21f51f065a5af7638c2",
+    "retrieved_at": "2026-10-27T08:44:13Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/FT_CityofHighland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/FT_CityofHighland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 136661,
+    "sha256": "5b9dc6b5bb0897363fb583f78055dbf8dbc01c197de1258bf27f0b4c43c8c6ba",
+    "retrieved_at": "2026-10-27T08:44:12Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/IA_CityofHighland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/IA_CityofHighland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 104673,
+    "sha256": "688041e77ae02f9d46fadad96f829ecc97aced8de191d8094d6a76e396749b79",
+    "retrieved_at": "2026-10-27T08:44:13Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/RES_CityofHighland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofHighland/RES_CityofHighland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 118573,
+    "sha256": "43a0ef7d5f38fa5e5eb551d86949ff0fb2f36fb3f1398ccf8ada6f881433a631",
+    "retrieved_at": "2026-10-27T08:44:12Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/AIF_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/AIF_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 81803,
+    "sha256": "f8316fd7167d2a9abc27a24c38a6f8815eebceaf05502de9c08c85096d5ade58",
+    "retrieved_at": "2026-10-27T08:44:01Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/FT_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/FT_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 229567,
+    "sha256": "013093c1d4baf71949443a7543136dd56dc2e26bd6933268b088b0002a810919",
+    "retrieved_at": "2026-10-27T08:44:01Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/IA_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/IA_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 104876,
+    "sha256": "17229e2621592ebf3c14bacaf6c35817ef3f1217ad187253e45a17555544bef2",
+    "retrieved_at": "2026-10-27T08:44:01Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/RES_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/27/RES_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 147348,
+    "sha256": "18a2dbbf59022db2832c689d6e23467aaed82b8f71b5da10d107b2afb2f9d3a5",
+    "retrieved_at": "2026-10-27T08:44:00Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/AIF_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/AIF_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 84836,
+    "sha256": "e0bacbe48bcf34c6b3881647d58a8b36e912b3203776618105a4b5904ecde6d8",
+    "retrieved_at": "2026-10-27T08:43:54Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/FT_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/FT_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 152915,
+    "sha256": "cbb360c92f3e2d008a98106a7bfcc8ea82761cac1663a3c24e15d4d0a36150e4",
+    "retrieved_at": "2026-10-27T08:43:53Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/IA_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/IA_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 98007,
+    "sha256": "47271d89ff3d6a522d0e01f9f24c1802a0f96088b01b33e237c724b072dbdd5a",
+    "retrieved_at": "2026-10-27T08:43:53Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/RES_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/RES_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 158737,
+    "sha256": "d8add9a76f7a19dd6735c7b730c0c64202cc9bc7741ed0b20416c4593581b103",
+    "retrieved_at": "2026-10-27T08:43:53Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/AIF_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/AIF_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 78832,
+    "sha256": "6687e731407e9940f0fbbce4dec4a0d18152929fb80168e87e8264ea19cfdcd8",
+    "retrieved_at": "2026-10-27T08:44:19Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/FT_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/FT_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 142647,
+    "sha256": "986dbfbc08bd1ba0779cd307a579c0df009decccb2c28058837b03c3ed3ef864",
+    "retrieved_at": "2026-10-27T08:44:18Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/IA_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/IA_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 114771,
+    "sha256": "899dc81c478cc2ae3cd49b56e14e42685e52d04c9304f02e0121280be8c7904e",
+    "retrieved_at": "2026-10-27T08:44:18Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/RES_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/RES_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 123730,
+    "sha256": "b99009b35552dbeccb78634d5cc5ff4fb15134fae665d7b46eee546cc14862c9",
+    "retrieved_at": "2026-10-27T08:44:17Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/TR_CityofNeedles.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/TR_CityofNeedles.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 194720,
+    "sha256": "d52120c0060353e5184d43b48b0e33877a3d1a5a9d9c13a3b1447cdb21d8d23d",
+    "retrieved_at": "2026-10-27T08:44:18Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AA_Ontario.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AA_Ontario.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 121448,
+    "sha256": "e5bc2fb2597bcc105650486db46342afa6779ea7ec5b73c51245b4f20ce28c30",
+    "retrieved_at": "2026-10-27T08:44:17Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AIF_Ontario.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/AIF_Ontario.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 113642,
+    "sha256": "4215c3510dca32487c475d9ee3a3e0f24aa109ff7217787b31600ad3fd934692",
+    "retrieved_at": "2026-10-27T08:44:16Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/FT_Ontario.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/FT_Ontario.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 106002,
+    "sha256": "bafc0e5f2066f37fe8d069748703494dfcf18f03c57c5e42f82f05c5613cee38",
+    "retrieved_at": "2026-10-27T08:44:15Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/IA_Ontario.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/IA_Ontario.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 103046,
+    "sha256": "53f3b7d679211fdf33e9d045bdc9cd0f77c580b5f181ea3c46a23b6c4e4aae30",
+    "retrieved_at": "2026-10-27T08:44:16Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAA_Ontario.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAA_Ontario.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 355901,
+    "sha256": "426f6a78c7c76acdf80c2b8bd78b2d1bada1956cab12c768f945a4271b52eddf",
+    "retrieved_at": "2026-10-27T08:44:17Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAF_Ontario.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RAF_Ontario.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 78387,
+    "sha256": "f4fd3f6120b1cf9b6cae935e9e866dad972229705f46e9ba3f9b2597667f7f52",
+    "retrieved_at": "2026-10-27T08:44:16Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RES_Ontario.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofOntario/RES_Ontario.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 136644,
+    "sha256": "7970fee795d723df1b2cf71413d398a01fa93dba43aa89533e764959864e74ba",
+    "retrieved_at": "2026-10-27T08:44:15Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/AIF_TP.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/AIF_TP.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 113044,
+    "sha256": "450b10ebd46c068017ea9656b078e944c574ef7ccca4697f00c6b187fa44459b",
+    "retrieved_at": "2026-10-27T08:44:14Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/FT_TP.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/FT_TP.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 186243,
+    "sha256": "17ac59811d3e6ba185ed11cf485a8caf4beeb33228c1d56c8520948f72f10b3d",
+    "retrieved_at": "2026-10-27T08:44:14Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/IA_TP.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/IA_TP.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 122297,
+    "sha256": "cf05bb695c5b3e529c08ff96d4cb46933b5a45ecf654e7636933b202270f6283",
+    "retrieved_at": "2026-10-27T08:44:14Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/RES_TP.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/RES_TP.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 130226,
+    "sha256": "0ad40564b50f2cf7fe7e1a9e4266a4d0ec40bb81f5bb6c7baa967fc9f809e111",
+    "retrieved_at": "2026-10-27T08:44:13Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AA_Upland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AA_Upland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 53473,
+    "sha256": "e11b205f51a9bcc31364d0c45e5b5ffa052537ee56b70aa18cd23dafd4d9bb55",
+    "retrieved_at": "2026-10-27T08:44:04Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AF_Upland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/AF_Upland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 114939,
+    "sha256": "d592686e88c6559577cb91c07b6778bc64b5f9cad3976fe4f3405ddc4f8503b6",
+    "retrieved_at": "2026-10-27T08:44:03Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/FT_Upland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/FT_Upland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 1205980,
+    "sha256": "9bf9153c6cfed5f2872ac7520c1711deaf72320025172b8e4bd097550a38e166",
+    "retrieved_at": "2026-10-27T08:44:02Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/IA_Upland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/IA_Upland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 133953,
+    "sha256": "6d590a9bd1974e69fd93134a0e37f8dd558afff54323c736dd19f7698b11b80d",
+    "retrieved_at": "2026-10-27T08:44:03Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAA_Upland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAA_Upland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 83041,
+    "sha256": "63c8bedddd134c9b65a43c35121546c121c2544c7f8c4473f006b73a93093e9f",
+    "retrieved_at": "2026-10-27T08:44:04Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAF_Upland.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofUpland/RAF_Upland.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 83042,
+    "sha256": "43a88cd79ecdc4fe8042ca125278adc20431dcf2d40ca3cf8189e6f23efbe330",
+    "retrieved_at": "2026-10-27T08:44:03Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/AF_SBCTA.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/AF_SBCTA.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 127533,
+    "sha256": "c0edcf01be1990d68bbffed1ab1a7ea1bdc4476de984f6948589df7622bda6b1",
+    "retrieved_at": "2026-10-27T08:43:58Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/FT_SBCTA.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/FT_SBCTA.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 2010232,
+    "sha256": "b3942a6d04bb9d2469f05fdc6290772978cfe4f6a4fce98e0f16cc4186adb85c",
+    "retrieved_at": "2026-10-27T08:43:57Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/IA_SBCTA.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/IA_SBCTA.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 686677,
+    "sha256": "8ab1287c34f603939b306bd629572697753062e9369eddf33092ad44e6d53904",
+    "retrieved_at": "2026-10-27T08:43:57Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/RES_SBCTA.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/RES_SBCTA.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 98736,
+    "sha256": "f48ad830f7177eab3511f89cc3c0857eb0c32c0eefe94186869a9f03e7d9fc53",
+    "retrieved_at": "2026-10-27T08:43:56Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/AF_ROTW.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/AF_ROTW.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 218612,
+    "sha256": "c1519ea05aa06b1eabce032e9a5ffed4af9f27354908805317d65248d06fe7ec",
+    "retrieved_at": "2026-10-27T08:44:23Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/FT_ROTW.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/FT_ROTW.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 1724467,
+    "sha256": "2a4c14ae4965f55694d1b622dabd8d4ae905b81c2574dc5a1715e4bc672ed19f",
+    "retrieved_at": "2026-10-27T08:44:23Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/IA_ROTW.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/RimoftheWorldRPD/IA_ROTW.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 126374,
+    "sha256": "8eef2531d45d736a3e99eba4bcdb3eeb91c2de30a1e929f081fea4484cb937fe",
+    "retrieved_at": "2026-10-27T08:44:23Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/AIF_SBCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/AIF_SBCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 192842,
+    "sha256": "91f499226ad5622c80385bedfca450354231e19ee248fa7ef6fbaf9f13daad38",
+    "retrieved_at": "2026-10-27T08:44:10Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/FT_SBCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/FT_SBCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 178459,
+    "sha256": "ea4420a2f7563a4bac6fb0a609639633c7fe89864d03aeabc78016e95ddc7d8b",
+    "retrieved_at": "2026-10-27T08:44:09Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/IA_SBCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/IA_SBCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 608691,
+    "sha256": "a812b037f4f2102a076c9c3443ed6f9a328a8dbe8dd9744673ee9e8bdbbefad8",
+    "retrieved_at": "2026-10-27T08:44:09Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/RES_SBCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/RES_SBCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 165622,
+    "sha256": "243cf92dec698091a4595c3fdc0abf657037b277e5f2377bde479db8c5d1176a",
+    "retrieved_at": "2026-10-27T08:44:08Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/TR_SBCCD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/TR_SBCCD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 111372,
+    "sha256": "1535d241cb7471ad849ef19ebd3c3d1446301c5f34da1109bc5262ec78d73ff4",
+    "retrieved_at": "2026-10-27T08:44:10Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/AIF_SBCUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/AIF_SBCUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 110164,
+    "sha256": "297f20d5de893e76970be47c8f25f4cd66a69757ee5cea4fe762e8afa854631e",
+    "retrieved_at": "2026-10-27T08:44:12Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/FT_SBCityUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/FT_SBCityUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 190435,
+    "sha256": "4946128c494c9c6e96604e8d5b061f4124723f02280375907985f92f8cb6c48c",
+    "retrieved_at": "2026-10-27T08:44:11Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/RES_SBCityUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/RES_SBCityUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 181908,
+    "sha256": "afca8d7fba12f6c82846b1309ceaf470d59c2aa1d62afe285b87af81c05c3406",
+    "retrieved_at": "2026-10-27T08:44:11Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/TR_SBCityUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/TR_SBCityUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 114429,
+    "sha256": "f799e0574257fe6fe010ec20bd6b0b74f34a632a6c5bd4995ba861e35958ac17",
+    "retrieved_at": "2026-10-27T08:44:11Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/AIF_SBMCHD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/AIF_SBMCHD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 540195,
+    "sha256": "09484f4d710cd63eaff81ca74cbcabd9a60561f37db7f845e4dfaca986f679ba",
+    "retrieved_at": "2026-10-27T08:44:08Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/FT_SBMCHD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/FT_SBMCHD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 143983,
+    "sha256": "e2acc72f5de0bc553e00efd7d0425669b371bb494f252f5f796864b7a80b0fd1",
+    "retrieved_at": "2026-10-27T08:44:07Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/IA_SBMCHD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/IA_SBMCHD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 641249,
+    "sha256": "c2c8592c6c96cc6f6a56b4d8d8be78f6fa5fe443861eb2af1039c90f66086835",
+    "retrieved_at": "2026-10-27T08:44:07Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/RES_SBMCHD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/RES_SBMCHD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 189732,
+    "sha256": "846c739527fb852d7ac0fb6aaefb45586f207304123e2b443a4920788b7d113b",
+    "retrieved_at": "2026-10-27T08:44:06Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/TR_SBMCHD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/TR_SBMCHD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 103598,
+    "sha256": "47794242cbec857b26d1cb8f4d444e4381e33e079fe0f0c2babf7224525eebd1",
+    "retrieved_at": "2026-10-27T08:44:07Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AA_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AA_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 55689,
+    "sha256": "6a4513e8a4c26989c3b601fdd14ed86392fae77fdf793b394ae60314913389d8",
+    "retrieved_at": "2026-10-27T08:43:50Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AIF_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AIF_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 491546,
+    "sha256": "fb16cf9cde8d4f0a6d5e8964437e3c8ed7d76526e5be136a641530a4cadc1847",
+    "retrieved_at": "2026-10-27T08:43:49Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/FT_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/FT_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 152626,
+    "sha256": "00558fe8b40d575681c9332ae7efd03cf75df1f132acd94c142a6a1815462e5e",
+    "retrieved_at": "2026-10-27T08:43:48Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/IA_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/IA_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 318663,
+    "sha256": "a0b43037d072f4e9102973df691dc2ea293b3bd0f27922a0b335b9af4daef1d7",
+    "retrieved_at": "2026-10-27T08:43:48Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAA_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAA_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 181057,
+    "sha256": "5c1195a206242fae306783fdcf67182ccf945858798b2628b20fb506fe9f22ec",
+    "retrieved_at": "2026-10-27T08:43:50Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAF_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAF_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 81238,
+    "sha256": "e9b027a37791d6529759f252df665c71e6ae15833e6429fafdc84f9d8038a339",
+    "retrieved_at": "2026-10-27T08:43:49Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RES_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RES_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 208975,
+    "sha256": "514b41e94c0edef649eb408f2abfc7a48169c064fbc60ceebaa666c9208aa491",
+    "retrieved_at": "2026-10-27T08:43:47Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/TR_UplandUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/TR_UplandUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 117162,
+    "sha256": "c71ee98eb8aeb7e5406c77bf68784c45678edef4c7fa43506065954db85b6a73",
+    "retrieved_at": "2026-10-27T08:43:49Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "https://carpinteriaca.gov/wp-content/uploads/2026/06/6472.pdf": {
+    "url": "https://carpinteriaca.gov/wp-content/uploads/2026/06/6472.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 1125180,
+    "sha256": "de2de22f28d6c67039e50df83da776d2060c8a218b0d5ebf2ba96dcb1f7fb584",
+    "retrieved_at": "2026-10-27T08:44:27Z"
+  },
+  "https://carpinteriaca.gov/wp-content/uploads/2026/07/Argument-In-Favor-Signed.pdf": {
+    "url": "https://carpinteriaca.gov/wp-content/uploads/2026/07/Argument-In-Favor-Signed.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 152798,
+    "sha256": "b089fc1094533d6648198f3aba7c2b77bc20171682a35233827807bb85a47aac",
+    "retrieved_at": "2026-10-27T08:44:28Z"
+  },
+  "https://carpinteriaca.gov/wp-content/uploads/2026/07/Impartial-Analysis-Signed.pdf": {
+    "url": "https://carpinteriaca.gov/wp-content/uploads/2026/07/Impartial-Analysis-Signed.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 84865,
+    "sha256": "402f21fbc42e429f273dd6a7ee0b184b84741f14d96e3eacd935c022fde15e39",
+    "retrieved_at": "2026-10-27T08:44:27Z"
+  },
+  "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-if-Favor-Measure-G2026.pdf": {
+    "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-if-Favor-Measure-G2026.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 172323,
+    "sha256": "0f153c8f62ac3364551596be5d5351935597dd25d5785040ecf6003508860f0b",
+    "retrieved_at": "2026-10-27T08:44:29Z"
+  },
+  "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-in-Favor-Measure-J2026.pdf": {
+    "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-in-Favor-Measure-J2026.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 156454,
+    "sha256": "3163aec0deb3e65a4d0f6e4d37ff18339497574fbe9903a72ee152d306ef95aa",
+    "retrieved_at": "2026-10-27T08:44:29Z"
+  },
+  "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-28-Approval-of-a-Measure-establishing-a-tax-on-Cannabis-Business-Activities-within-the-City-6-23-2026.pdf": {
+    "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-28-Approval-of-a-Measure-establishing-a-tax-on-Cannabis-Business-Activities-within-the-City-6-23-2026.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 525805,
+    "sha256": "a834ddadb8985eaf3395639838bbfb72f93d437d4423edfa36afc338c60e406e",
+    "retrieved_at": "2026-10-27T08:44:28Z"
+  },
+  "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-31-Approval-of-a-Measure-to-increase-Transient-Occupancy-Tax-6-23-2026.pdf": {
+    "url": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-31-Approval-of-a-Measure-to-increase-Transient-Occupancy-Tax-6-23-2026.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 557056,
+    "sha256": "0477bd1898c2f2fc00c14fced0a361031e36fe7ea7b19a2e6d3fce6279233c48",
+    "retrieved_at": "2026-10-27T08:44:29Z"
+  },
+  "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/resolution-no-26-21": {
+    "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/resolution-no-26-21",
+    "mediaType": "application/pdf",
+    "bytes": 415916,
+    "sha256": "2e8ac428008a0552be6e0c63df4f93445e9930062f0d2964d6f9f34c2e872231",
+    "retrieved_at": "2026-10-27T08:44:30Z"
+  }
+}

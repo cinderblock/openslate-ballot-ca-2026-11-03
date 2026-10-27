@@ -1,0 +1,37 @@
+{
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/AF_BUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/AF_BUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 411973,
+    "sha256": "a6417ce39ec7ea4e59fdac9f84817af43724e19764d7027922ef8a0187922999",
+    "retrieved_at": "2026-10-27T08:43:46Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/FT_BUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/FT_BUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 135462,
+    "sha256": "e19df487e4519ec896a4b6aa70ab264b52f66594d9986e2f69f4b77a4eeb7cd4",
+    "retrieved_at": "2026-10-27T08:43:45Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/IA_BUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/IA_BUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 147375,
+    "sha256": "5f6c0085f8da65d1a2ec277ec2f1310be0c5201417646ba4aa8667ccd582d54f",
+    "retrieved_at": "2026-10-27T08:43:45Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/RES_BUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/RES_BUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 146076,
+    "sha256": "0fd0a45cf4e13590eb18cc9f783a1cb3aa3f88bf498420a252b958e61b48c4ae",
+    "retrieved_at": "2026-10-27T08:43:44Z"
+  },
+  "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/TR_BUSD.pdf": {
+    "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/TR_BUSD.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 118883,
+    "sha256": "16d9cbc9abed90ac5e1336d183697527cf2d03b6cb0c7bd74306c6412548c019",
+    "retrieved_at": "2026-10-27T08:43:46Z"
+  }
+}

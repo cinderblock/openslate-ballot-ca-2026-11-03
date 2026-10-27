@@ -1,0 +1,60 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Upland Unified School District — Measure A (School Bonds)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:50Z",
+  "documents": [
+    {
+      "title": "Full text of Measure A",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/FT_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "00558fe8b40d575681c9332ae7efd03cf75df1f132acd94c142a6a1815462e5e"
+    },
+    {
+      "title": "Resolution placing Measure A on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RES_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "514b41e94c0edef649eb408f2abfc7a48169c064fbc60ceebaa666c9208aa491"
+    },
+    {
+      "title": "Impartial analysis of Measure A",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/IA_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a0b43037d072f4e9102973df691dc2ea293b3bd0f27922a0b335b9af4daef1d7"
+    },
+    {
+      "title": "Tax rate statement for Measure A",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/TR_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c71ee98eb8aeb7e5406c77bf68784c45678edef4c7fa43506065954db85b6a73"
+    },
+    {
+      "title": "Argument in favor of Measure A",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AIF_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "fb16cf9cde8d4f0a6d5e8964437e3c8ed7d76526e5be136a641530a4cadc1847"
+    },
+    {
+      "title": "Argument against Measure A",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/AA_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6a4513e8a4c26989c3b601fdd14ed86392fae77fdf793b394ae60314913389d8"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure A",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAF_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e9b027a37791d6529759f252df665c71e6ae15833e6429fafdc84f9d8038a339"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure A",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/UplandUSD/RAA_UplandUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5c1195a206242fae306783fdcf67182ccf945858798b2628b20fb506fe9f22ec"
+    }
+  ]
+}

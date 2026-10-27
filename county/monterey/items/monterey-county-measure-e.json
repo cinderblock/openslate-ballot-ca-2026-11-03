@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Monterey County — Measure E (Transient Occupancy Tax Increase)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/monterey-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:47:45Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure E on the ballot",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147327/639205025265170000",
+      "mediaType": "application/pdf",
+      "sha256": "838de6870ee29dcfae23b02eec910eba84eb42a139cbffc23a88d3ca2cbc921b"
+    },
+    {
+      "title": "Impartial analysis of Measure E",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147771/639222425601600000",
+      "mediaType": "application/pdf",
+      "sha256": "1caec2dabcf5a597b5a56ea32af0d00e8b2839f4b8910f58f02308c7af5be53d"
+    },
+    {
+      "title": "Argument in favor of Measure E",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147773/639222425792770000",
+      "mediaType": "application/pdf",
+      "sha256": "f7de6e31ddaadb51e414191d1e1e41f166a1778e385cbb6ec33368196c4bb0ac"
+    }
+  ]
+}

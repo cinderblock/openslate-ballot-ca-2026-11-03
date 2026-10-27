@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sausalito — Measure X (Arts, Industrial & Maritime Preservation and Improvement Initiative)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sausalito",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:13Z",
+  "documents": [
+    {
+      "title": "Arts, Industrial & Maritime Preservation and Improvement Initiative (AIM) — full initiative text",
+      "source": "https://www.sausalito.gov/Documents/Departments/Administration/City%20Clerk/Local%20Elections/Measure%20X/AIM%20Petition%20Text%20Document.pdf?t=202609221341070",
+      "mediaType": "application/pdf",
+      "sha256": "0b18fcafb91c041bd7cbc4131030b25fb6dac06202ceba7b9938758c89eb140d"
+    },
+    {
+      "title": "Measure X: impartial analysis and arguments (county web page)",
+      "source": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-city-sausalito-110326",
+      "mediaType": "text/html"
+    }
+  ]
+}

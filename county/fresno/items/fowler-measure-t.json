@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fowler — Measure T (City of Fowler Transactions & Use Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/fowler",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:01Z",
+  "documents": [
+    {
+      "title": "Exhibit A: ordinance submitted to the voters",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/exhibit-a_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b4a43b49e01b94cf4d28290375a37eb4266642e12467b78cc77a7830c923deed"
+    },
+    {
+      "title": "Resolution placing Measure T on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/resolution_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "2b5ff83377f588b7b2df0a4526005b86240ddb25f03ed5675121664ef6c7a364"
+    },
+    {
+      "title": "Impartial analysis of Measure T",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/impartial-analysis-city-of-fowler_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c9e4c05afd45fac4f6becb1b20fad5b6b35c691d6d9a6f105c6836403a8dd37d"
+    },
+    {
+      "title": "Argument against Measure T",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7c10a14100f347cfe389d1f212ef9f98126b50814f755bb40558b87e7b4c0ed3"
+    }
+  ]
+}

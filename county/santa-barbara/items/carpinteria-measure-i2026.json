@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carpinteria — Measure I2026 (Carpinteria Public Safety, Roads, City Services Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/carpinteria",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:28Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure I2026 on the ballot",
+      "source": "https://carpinteriaca.gov/wp-content/uploads/2026/06/6472.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "de2de22f28d6c67039e50df83da776d2060c8a218b0d5ebf2ba96dcb1f7fb584"
+    },
+    {
+      "title": "Impartial analysis of Measure I2026",
+      "source": "https://carpinteriaca.gov/wp-content/uploads/2026/07/Impartial-Analysis-Signed.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "402f21fbc42e429f273dd6a7ee0b184b84741f14d96e3eacd935c022fde15e39"
+    },
+    {
+      "title": "Argument in favor of Measure I2026",
+      "source": "https://carpinteriaca.gov/wp-content/uploads/2026/07/Argument-In-Favor-Signed.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b089fc1094533d6648198f3aba7c2b77bc20171682a35233827807bb85a47aac"
+    }
+  ]
+}

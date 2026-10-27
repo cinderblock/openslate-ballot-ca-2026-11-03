@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rocklin Unified School District — Measure D",
+    "kind": "measure",
+    "jurisdiction": "us/ca/placer-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:42Z",
+  "documents": [
+    {
+      "title": "Measure D (Rocklin Unified School District school bond): ballot question, impartial analysis, arguments, rebuttals, full text and tax rate statement",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-D.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6f82435f9eb58f63d0daed276c28731e15fc14e5980872b0c6cd8c15f1222b17"
+    }
+  ]
+}

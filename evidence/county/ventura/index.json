@@ -1,0 +1,23 @@
+{
+  "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-attorney/revised-impartial-analysis-measure-e-measure-o-extension-signed.pdf": {
+    "url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-attorney/revised-impartial-analysis-measure-e-measure-o-extension-signed.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 39331,
+    "sha256": "6988562bc4324023d53264999a40967c2ccdb6b881077205c049cb8ebfc6a45a",
+    "retrieved_at": "2026-10-27T08:44:42Z"
+  },
+  "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-clerk/further-revised-ordinance-amending-measure-o.pdf": {
+    "url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-clerk/further-revised-ordinance-amending-measure-o.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 59963,
+    "sha256": "ea9da376660bef2a1b9d4fc079b093d639c1e6ea10b5b19a675d85b191fc5a74",
+    "retrieved_at": "2026-10-27T08:44:41Z"
+  },
+  "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-clerk/resolutions/resolution-16071-06162026.pdf": {
+    "url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-clerk/resolutions/resolution-16071-06162026.pdf",
+    "mediaType": "application/pdf",
+    "bytes": 485428,
+    "sha256": "218224baa8f7117df690800db778b01129b1244bd0668017d113e16e3f40ffe9",
+    "retrieved_at": "2026-10-27T08:44:42Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carmel-by-the-Sea — Measure M (Transient Occupancy Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/carmel-by-the-sea",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:24Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure M on the ballot",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/2026-06-02_r_2026-042_-_ordering_submission_of_ballot_measure_for_tot_for_11-3-26_election.pdf?1781647367",
+      "mediaType": "application/pdf",
+      "sha256": "6c65d9377e563457a5bb178bd04105abc26855ebbfb69be69bb724318e3b6349"
+    },
+    {
+      "title": "Impartial analysis of Measure M",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/city_attorney_impartial_analysis_-_tot_-_signed.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9d7a4fcf7379df466507370070c633e1ce77481d0ae8048ff340a64dbe393c5b"
+    },
+    {
+      "title": "Argument in favor of Measure M",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/primary_argument_in_favor_of_tot_ballot_measure_-_for_website_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "272b392d509d0e334cce7fb1866740a6d467cb857b2bb3bb478b78af92695ea2"
+    },
+    {
+      "title": "Argument against Measure M",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/argument_against_carmel_tot_ballot_measure_-_for_website_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "5512a225d292ccdbd350ece4572f2e17be4ec7096a4234992b97e772ad33234e"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure M",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/rebuttal_to_argument_in_favor_of_measure_m_-_8.17.26_citizen_group_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c71ca67bb7de19a036a52d03a5ba01511696d636ca80c00313beddacc3a0be40"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure M",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/rebuttal_to_argument_against_measure_m_-_8.14.26_city_council_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "99b558dae18d53d6b795fc6d210c85dd3dcadf98c30d8170cd01ffd38f51b946"
+    }
+  ]
+}

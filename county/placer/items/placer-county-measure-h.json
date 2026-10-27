@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Placer County — Measure H",
+    "kind": "measure",
+    "jurisdiction": "us/ca/placer-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:43Z",
+  "documents": [
+    {
+      "title": "Measure H (Placer County Charter amendment, removal of County Executive Officer): ballot question and impartial analysis",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-H.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a26300d5d5eae3ecd2e88b11441ca7e51e9e3e9acc28a0d2a964c770c044960c"
+    }
+  ]
+}

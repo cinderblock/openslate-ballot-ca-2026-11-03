@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Monterey — Measure S (Continuation of Street Infrastructure Rehabilitation Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/monterey",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:34Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure S on the ballot",
+      "source": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/26-103%20Continuation%20of%20Special%20Taxations%20and%20Use%20Tax.pdf?t=202607231903390",
+      "mediaType": "application/pdf",
+      "sha256": "0c28b37d110e2f5eba13f99001fd09cc3572c6ff408ccaf86ee65715c6c8a747"
+    },
+    {
+      "title": "Impartial analysis of Measure S",
+      "source": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Measure-S-City-Attorney-impartial-analysis-2026.pdf?t=202608081251190",
+      "mediaType": "application/pdf",
+      "sha256": "aa4887703e7a15d0277c593bef41922163f1db552cd2f980c72fb7a384b2ad21"
+    },
+    {
+      "title": "Argument in favor of Measure S",
+      "source": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Primary-Argument-In-Favor-of-Measure-S.pdf?t=202608211200470",
+      "mediaType": "application/pdf",
+      "sha256": "dfe0f2c3e6f55a423ebbeabf6ca3f914a4af4e6dc86ecac738cd01d40a2b0eb0"
+    },
+    {
+      "title": "Argument against Measure S",
+      "source": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/FINAL-Primary-Argument-Against-Measure-S.pdf?t=202608211201130",
+      "mediaType": "application/pdf",
+      "sha256": "ac47c1178a8ca8e8a4c66403adb86407f3a3f5d87f00ec420cd6b51e3e7979c7"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure S",
+      "source": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Rebuttal-to-argument-in-favor.pdf?t=202608211202000",
+      "mediaType": "application/pdf",
+      "sha256": "0cb83eeae765ce81d1c8e3bcec2ef77da25fc1cd509ac76ae287e71b67a3a4c3"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure S",
+      "source": "https://files.monterey.gov/Document-Center/City-Hall/City-Clerk/Elections/2026/Rebuttal-to-argument-against.pdf?t=202608211202290",
+      "mediaType": "application/pdf",
+      "sha256": "4cd943026be9f3084268378a7cd9158ff22a83264e480ed83054648d66afb87e"
+    }
+  ]
+}

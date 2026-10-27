@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Paso Robles Joint Unified School District — Measure G-26 (Paso Robles Joint Unified School District Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-luis-obispo-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:47:57Z",
+  "documents": [
+    {
+      "title": "Resolution No. 26-26 (includes full ballot text and tax rate statement exhibits)",
+      "source": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/resolution-no-26-26",
+      "mediaType": "application/pdf",
+      "sha256": "861b4627ce54390f0648c74ad143017436cde3618a74b4811879ca16007d7102"
+    },
+    {
+      "title": "Impartial analysis of Measure G-26",
+      "source": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/impartial-analysis-of-measure-g-26",
+      "mediaType": "application/pdf",
+      "sha256": "a27e1cd234421a0a1858ccebb71537523a77a4b4a909de57a6b27839237a64bd"
+    },
+    {
+      "title": "Tax rate statement for Measure G-26",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147817/639222456058130000",
+      "mediaType": "application/pdf",
+      "sha256": "721002b4fb91ca52a3c46448547bed0ea61e101e9b1d2bd50ba70a07990d68c6"
+    },
+    {
+      "title": "Argument in favor of Measure G-26",
+      "source": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/argument-in-favor-of-measure-g-26",
+      "mediaType": "application/pdf",
+      "sha256": "ed1752e1617fa482eef4dadd45d0fe2654762ed9f35082a1cd2134fdb888dc06"
+    },
+    {
+      "title": "Argument against Measure G-26",
+      "source": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/argument-against-measure-g-26",
+      "mediaType": "application/pdf",
+      "sha256": "541bd33eead6c474fe09f1cff9abd937338f5a3f7575f1e95ae832d92b0a8326"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure G-26",
+      "source": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/rebuttal-to-argument-against-measure-g-26",
+      "mediaType": "application/pdf",
+      "sha256": "7610607b79da1a867dd99e93cd31c9f5f389eb64ffde582fb1039a5345b382d2"
+    }
+  ]
+}

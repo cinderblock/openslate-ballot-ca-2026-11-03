@@ -1,0 +1,21 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/ventura-county",
+    "title": "Ventura County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Ventura County Clerk-Recorder / Registrar of Voters",
+      "uri": "https://clerkrecorder.venturacounty.gov/elections/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:44:42Z",
+    "sources": [
+      "https://clerkrecorder.venturacounty.gov/elections/november-3-2026-general-election/",
+      "https://clerkrecorder.venturacounty.gov/2026-measures/",
+      "https://www.oxnard.gov/city-clerks-office/election-information/renewal-measure"
+    ]
+  }
+}

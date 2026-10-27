@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rohnert Park — Measure K (City of Rohnert Park Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/rohnert-park",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:36Z",
+  "documents": [
+    {
+      "title": "Measure K: county voter guide pages — measure question, City Attorney impartial analysis, arguments for and against, both rebuttals, full text (Ordinance No. 998)",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9611_MeasK_CityOfRohnertPark_SalesTax_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "78fe455c695cbbf3bd5be219fc2e22b2dc6e3c99e2029baf843f9b246dcf3533"
+    }
+  ]
+}

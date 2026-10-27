@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Twentynine Palms — Measure G (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/twentynine-palms",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:14Z",
+  "documents": [
+    {
+      "title": "Full text of Measure G",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/FT_TP.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "17ac59811d3e6ba185ed11cf485a8caf4beeb33228c1d56c8520948f72f10b3d"
+    },
+    {
+      "title": "Resolution placing Measure G on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/RES_TP.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "0ad40564b50f2cf7fe7e1a9e4266a4d0ec40bb81f5bb6c7baa967fc9f809e111"
+    },
+    {
+      "title": "Impartial analysis of Measure G",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/IA_TP.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "cf05bb695c5b3e529c08ff96d4cb46933b5a45ecf654e7636933b202270f6283"
+    },
+    {
+      "title": "Argument in favor of Measure G",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofTwentyninePalms/AIF_TP.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "450b10ebd46c068017ea9656b078e944c574ef7ccca4697f00c6b187fa44459b"
+    }
+  ]
+}

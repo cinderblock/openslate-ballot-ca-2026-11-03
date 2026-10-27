@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Colton — Measure O (Municipal Code Amendment)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/colton",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:05Z",
+  "documents": [
+    {
+      "title": "Full text of Measure O",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/FT_CityofColton.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ebcd6cddbcffb12e94313999711b2da53f34e8ede488c1df154a521a85d8e170"
+    },
+    {
+      "title": "Resolution placing Measure O on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/RES_CityofColton.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7e57ce2afb505113ab7513ab82759852d63a2b4210f5e02b5bdc803baecd94a7"
+    },
+    {
+      "title": "Impartial analysis of Measure O",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/IA_CityofColton.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d60a41911e854a9a3c50880a848eb407a69e382b771a0badc7577053a60d6e06"
+    },
+    {
+      "title": "Argument in favor of Measure O",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofColton/AIF_CityofColton.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7444027b6cdf8df17c99edd65523f2aa845322355e0471ddf18a5e35bb2dc3e3"
+    }
+  ]
+}

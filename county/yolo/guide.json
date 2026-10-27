@@ -1,0 +1,23 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/yolo-county",
+    "title": "Yolo County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Yolo County Assessor/Clerk-Recorder/Elections (ACE) Department, Elections Division",
+      "uri": "https://ace.yolocounty.gov/35/Elections",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:44:44Z",
+    "sources": [
+      "https://ace.yolocounty.gov/384/Current-Election",
+      "https://ace.yolocounty.gov/407/Local-Measures",
+      "https://ace.yolocounty.gov/420/Measure-X---Yolo-County-Unincorporated-A",
+      "https://ace.yolocounty.gov/419/Measure-Y---City-of-Woodland",
+      "https://www.cityofwoodland.gov/1730/Measure-Y"
+    ]
+  }
+}

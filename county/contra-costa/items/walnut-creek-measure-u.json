@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Walnut Creek — Measure U (Walnut Creek Senior Housing Transit Village Initiative)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/walnut-creek",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:48:06Z",
+  "documents": [
+    {
+      "title": "Resolution No. 26-44 with Exhibit A, the proposed Senior Housing Transit Village Initiative",
+      "source": "https://www.walnutcreekca.gov/home/showpublisheddocument/33852/639214416538130000",
+      "mediaType": "application/pdf",
+      "sha256": "ef4ba81cf4bda9d19c747dc3c19dcbd1fbdb5cd1214845d0d62aab0fdf0c44ed"
+    },
+    {
+      "title": "Measure U: ballot question, City Attorney impartial analysis and argument in favor",
+      "source": "https://www.contracostavote.gov/m9013-en/",
+      "mediaType": "text/html"
+    }
+  ]
+}

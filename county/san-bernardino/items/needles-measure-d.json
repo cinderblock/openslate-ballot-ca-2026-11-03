@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Needles — Measure D (Charter Amendment)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/needles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:54Z",
+  "documents": [
+    {
+      "title": "Full text of Measure D",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/FT_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "cbb360c92f3e2d008a98106a7bfcc8ea82761cac1663a3c24e15d4d0a36150e4"
+    },
+    {
+      "title": "Resolution placing Measure D on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/RES_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d8add9a76f7a19dd6735c7b730c0c64202cc9bc7741ed0b20416c4593581b103"
+    },
+    {
+      "title": "Impartial analysis of Measure D",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/IA_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "47271d89ff3d6a522d0e01f9f24c1802a0f96088b01b33e237c724b072dbdd5a"
+    },
+    {
+      "title": "Argument in favor of Measure D",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/29/AIF_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e0bacbe48bcf34c6b3881647d58a8b36e912b3203776618105a4b5904ecde6d8"
+    }
+  ]
+}

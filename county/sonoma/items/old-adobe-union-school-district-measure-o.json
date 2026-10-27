@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Old Adobe Union School District — Measure O (Old Adobe Union School District Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:40Z",
+  "documents": [
+    {
+      "title": "Measure O: county voter guide pages — measure question, County Counsel impartial analysis, tax rate statement, argument in favor, full text",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9419_MeasO_OldAdobeUnionSchlDist_Bond_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "3fac1a232de294a7aed7a43a59058aef3f1202b1045b79648123882440cd2ee5"
+    }
+  ]
+}

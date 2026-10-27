@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Riverbank — Measure M (Citizen Initiative Measure to Require Voter Approval of Urban Development on Agricultural or Open Space Lands Located West of Riverbank City Limits)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/riverbank",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:41Z",
+  "documents": [
+    {
+      "title": "Measure M in the county voter guide: full text (PDF pp. 93-94, Spanish 95-96), impartial analysis (p. 97), argument in favor (p. 99), rebuttal to argument in favor (p. 100), argument against (p. 101), rebuttal to argument against (p. 102)",
+      "source": "https://www.stanvote.gov/pdf/voter-guides/20261103.pdf",
+      "mediaType": "application/pdf",
+      "page": 93,
+      "sha256": "ab520f2d0153cd7c31de4a8ee8374222fb602c75fe4763efe73dadb53179c718"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Carmel-by-the-Sea — Measure N (Transactions and Use Tax Increase)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/carmel-by-the-sea",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:25Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure N on the ballot",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/2026-06-02_r_2026-043_-__ordering_submission_of_ballot_measure_for_sales_tax_for_11-3-26_election_corrected_6.15.26.pdf?1781647424",
+      "mediaType": "application/pdf",
+      "sha256": "14d7988e246fa0c0c6ea2869c2ad437026b7e49eed6c07c52d47d9be4d2f8a8b"
+    },
+    {
+      "title": "Impartial analysis of Measure N",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/city_attorney_impartial_analysis_-_tut_-_signed.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "9ff10f09b78f61c1ac4800cf98b92742b47e127dbe323c9665fc8d2dd907ecd4"
+    },
+    {
+      "title": "Argument in favor of Measure N",
+      "source": "https://ci.carmel.ca.us/sites/main/files/file-attachments/primary_argument_in_favor_of_tut_sales_tax_ballot_measure_-_for_website_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d0fcaaf9f606d9fa7bfe961b777c29f510bf5580bd2ef069af8cba2bd8de107c"
+    }
+  ]
+}

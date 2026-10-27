@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Fairfax — Measure R (Paramedic Services Special Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/fairfax",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:15Z",
+  "documents": [
+    {
+      "title": "Resolution No. 2026-24 calling the election, with Exhibit A ordinance (measure text)",
+      "source": "https://storage.googleapis.com/proudcity/fairfaxca/2026/09/resolution-2026-24-calling-rvpa-special-parcial-tax-ballot-measure-for-11-3-26-election-9d738e80.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "74e5e90518c732ca041c8c61cbd96a2ecc57a4a75d7b4489e0fc4fd51477032b"
+    },
+    {
+      "title": "Measure R: impartial analysis and arguments (county web page)",
+      "source": "https://www.marincounty.gov/departments/elections/november-3-2026-general-election/information-about-measures-110326/list-measures-110326/measure-r-110326",
+      "mediaType": "text/html"
+    }
+  ]
+}

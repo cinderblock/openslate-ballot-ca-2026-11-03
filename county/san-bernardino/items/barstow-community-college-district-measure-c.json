@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Barstow Community College District — Measure C (School Bonds)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:52Z",
+  "documents": [
+    {
+      "title": "Full text of Measure C",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/FT_BarstowCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "0127a4469d83675f6a20c2de1b95a5b8bca91532cede9dc1ae8a6989a7ecc508"
+    },
+    {
+      "title": "Resolution placing Measure C on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/RES_BarstowCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ce93075ca048c14aef2a7b3b34c98c03724d89d47a3e214f7311c1ef0eb10624"
+    },
+    {
+      "title": "Impartial analysis of Measure C",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/IA_BarstowCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "62c5024756fb98a218647442b870647fb5ac86f15d074b9d22a6acff3aa264f4"
+    },
+    {
+      "title": "Tax rate statement for Measure C",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/TR_BarstowCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ed041f0615481b580f1f1b193733565c42ef47beb1c9a26f215d22b8baa3d1a3"
+    },
+    {
+      "title": "Argument in favor of Measure C",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BarstowCCD/AF_BarstowCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c5df780c4c635a84670d532571cb4188447566285d5e5b6170fd42dafbd837ee"
+    }
+  ]
+}

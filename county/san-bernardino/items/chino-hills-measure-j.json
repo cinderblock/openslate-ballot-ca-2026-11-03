@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Chino Hills — Measure J (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/chino-hills",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:00Z",
+  "documents": [
+    {
+      "title": "Full text of Measure J",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/FT_ChinoHills.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "3a5207dfd6e03d080423de2c8ae7d14aaaaae07bed44ee5b699bbd7c4f25a7ef"
+    },
+    {
+      "title": "Resolution placing Measure J on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RES_ChinoHills.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4b15853f6c2e195e46333a9faa452817f13ed2496e67a8a21e92ab4b785f7877"
+    },
+    {
+      "title": "Impartial analysis of Measure J",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/IA_ChinoHills.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d9a86dae6448d33af9611b354224a5acab300e939c0eed861cb1c527e25a0a92"
+    },
+    {
+      "title": "Argument in favor of Measure J",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AF_ChinoHills.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "caceefe9cf072c7be96a2781df830f55c296c805eddbbb414cf0a85b71fe1da3"
+    },
+    {
+      "title": "Argument against Measure J",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/AA_ChinoHills.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "bcd9636872696c6599d52cfb45f48cbe33e022e8eb0aa09b190eb930156a90c5"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure J",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAF_ChinoHills.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "7f0e27e2ffa8dcf4cd4761611c13bd9f859297909a799f606afa03401ee4fda3"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure J",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofChinoHills/RAA_ChinoHills.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "1b0e116770ed7aa2ab61dfdf02c7bcc35963908df9a30708ef049973025a2146"
+    }
+  ]
+}

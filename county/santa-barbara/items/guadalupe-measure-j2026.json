@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Guadalupe — Measure J2026 (City of Guadalupe Measure J2026)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/guadalupe",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:29Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure J2026 on the ballot",
+      "source": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Resolution-No.-2026-31-Approval-of-a-Measure-to-increase-Transient-Occupancy-Tax-6-23-2026.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "0477bd1898c2f2fc00c14fced0a361031e36fe7ea7b19a2e6d3fce6279233c48"
+    },
+    {
+      "title": "Argument in favor of Measure J2026",
+      "source": "https://cityofguadalupe.org/wp-content/uploads/2026/08/Arguments-in-Favor-Measure-J2026.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "3163aec0deb3e65a4d0f6e4d37ff18339497574fbe9903a72ee152d306ef95aa"
+    }
+  ]
+}

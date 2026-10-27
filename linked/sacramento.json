@@ -1,0 +1,170 @@
+{
+  "dir": "county/sacramento",
+  "jurisdiction": "us/ca/sacramento-county",
+  "title": "Sacramento County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Sacramento County Voter Registration and Elections",
+    "uri": "https://elections.saccounty.gov/"
+  },
+  "pages": [
+    "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html"
+  ],
+  "measures": [
+    {
+      "titles": [
+        "Natomas Unified School District — Measure D (Natomas Schools Repair, Safety, Education Measure)"
+      ],
+      "jurisdiction": "us/ca/sacramento-county",
+      "letter": "D",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure D: ballot question, impartial analysis, full text, tax rate statement and argument in favor (on the county's page of every measure, under Measure D)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure D: Natomas Unified School District 55% Vote Required'; 'Impartial Analysis Prepared by County Counsel'; 'Full Text of Measure D NATOMAS SCHOOLS REPAIR, SAFETY, EDUCATION MEASURE' ($300,000,000 bonds; election November 3, 2026); 'Tax Rate Statement NATOMAS UNIFIED SCHOOL DISTRICT'; 'Argument in Favor of Measure D'."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). Only an argument in favor was filed: page states 'NO ARGUMENT AGAINST MEASURE D WAS FILED' and no rebuttals were filed."
+    },
+    {
+      "titles": ["Center Joint Unified School District — Measure E (School Facilities Bond)"],
+      "jurisdiction": "us/ca/sacramento-county",
+      "letter": "E",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure E: ballot question, impartial analysis, full text, tax rate statement and argument in favor (on the county's page of every measure, under Measure E)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure E: Center Joint Unified School District 55% Vote Required'; 'Impartial Analysis Prepared by County Counsel'; 'Full Text of Measure E FULL TEXT BALLOT PROPOSITION OF THE CENTER JOINT UNIFIED SCHOOL DISTRICT'; 'Tax Rate Statement'; 'Argument in Favor of Measure E'; references the November 3, 2026 election."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). Only an argument in favor was filed: 'NO ARGUMENT AGAINST MEASURE E WAS FILED'; no rebuttals."
+    },
+    {
+      "titles": [
+        "Galt Joint Union High School District — Measure G (Repair/Safety and Vocational Training Measure)"
+      ],
+      "jurisdiction": "us/ca/sacramento-county",
+      "letter": "G",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure G: ballot question, impartial analysis, full text, tax rate statement and argument in favor (on the county's page of every measure, under Measure G)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure G: Galt Joint Union High School District 55% Vote Required Galt Joint Union High School District, Repair/Safety and Vocational...'; 'Impartial Analysis Prepared by County Counsel'; 'Full Text of Measure G GALT JOINT UNION HIGH SCHOOL DISTRICT REPAIR, SAFETY, AND STUDENT J...'; 'Tax Rate Statement GALT JOINT UNION HIGH SCHOOL...'; 'Argument in Favor of Measure G'; election November 3, 2026."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). Only an argument in favor was filed: 'NO ARGUMENT AGAINST MEASURE G WAS FILED'; no rebuttals."
+    },
+    {
+      "titles": [
+        "Los Rios Community College District — Measure H (School Facilities Improvement District No. 1 Bonds)"
+      ],
+      "jurisdiction": "us/ca/sacramento-county",
+      "letter": "H",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure H: ballot question, impartial analysis, full text, tax rate statement, arguments for and against, and both rebuttals (on the county's page of every measure, under Measure H)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure H: Los Rios Community College District School Facilities Improvement District No. 1 55% Vote Required'; 'Impartial Analysis Prepared by County Counsel (Los Rios Community College School Facilitie[s]...'; 'Full Text of Measure H LOS RIOS COMMUNITY COLLEGE DISTRICT SCHOOL FACILITIES IMPROVEMENT D[ISTRICT]...' (up to $1.1 billion, election November 3, 2026); 'TAX RATE STATEMENT'; 'Argument in Favor of Measure H'; 'Argument Against Measure H'; 'Rebuttal to the Argument in Favor of Measure H'; 'Rebuttal to the Argument Against Measure H'."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). All four arguments/rebuttals filed."
+    },
+    {
+      "titles": [
+        "Folsom — Measure I (Charter Amendment: City Council to Appoint and Direct the City Attorney)"
+      ],
+      "jurisdiction": "us/ca/folsom",
+      "letter": "I",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure I: ballot question, impartial analysis, full text (Ordinance No. 1371) and argument in favor (on the county's page of every measure, under Measure I)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure I: City of Folsom Shall the measure amending the Adopted Charter of the City of Folsom to have the City Council appoint and...'; 'Impartial Analysis Prepared by City Counsel'; 'Full Text of Measure I ORDINANCE NO. 1371 AN ORDINANCE OF THE PEOPLE OF THE CITY OF FOLSOM AMENDING SECTION 4.03'; analysis cites 'November 3, 2026 General Municipal Election'; 'Argument in Favor of Measure I'."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). Only an argument in favor was filed: 'NO ARGUMENT AGAINST MEASURE I WAS FILED'; no rebuttals. The county hosts this city measure, so city clerk pages were not needed."
+    },
+    {
+      "titles": [
+        "Folsom — Measure J (Charter Amendment: Decision-Making Authority for Boards and Commissions)"
+      ],
+      "jurisdiction": "us/ca/folsom",
+      "letter": "J",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure J: ballot question, impartial analysis, full text (Ordinance No. 1372), arguments for and against, and both rebuttals (on the county's page of every measure, under Measure J)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure J: City of Folsom Shall the measure amending the Adopted Charter of the City of Folsom to confirm the City Council may gran[t]...'; 'Impartial Analysis Prepared by City Counsel'; 'Full Text of Measure J ORDINANCE NO. 1372 ... AMENDING SECTION 4.07'; 'Argument in Favor of Measure J'; 'Argument Against Measure J'; 'Rebuttal to the Argument in Favor of Measure J'; 'Rebuttal to the Argument Against Measure J'."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). All four arguments/rebuttals filed."
+    },
+    {
+      "titles": ["Folsom — Measure K (Campaign Contribution Limit Increase from $150 to $500)"],
+      "jurisdiction": "us/ca/folsom",
+      "letter": "K",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure K: ballot question, impartial analysis, full text (Ordinance No. 1373) and argument in favor (on the county's page of every measure, under Measure K)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure K: City of Folsom Shall the measure increasing the campaign contribution limit from $150 to $500 per donor per election...'; 'Impartial Analysis Prepared by City Counsel'; 'Full Text of Measure K ORDINANCE NO. 1373 ... AMENDING SECTION 2.48'; 'Argument in Favor of Measure K'."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). Only an argument in favor was filed: 'NO ARGUMENT AGAINST MEASURE K WAS FILED'; no rebuttals."
+    },
+    {
+      "titles": ["Galt — Measure L (Appointive City Treasurer and City Clerk)"],
+      "jurisdiction": "us/ca/galt",
+      "letter": "L",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure L: ballot question, impartial analysis and argument in favor (on the county's page of every measure, under Measure L)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure L: City of Galt Shall the offices of Galt Treasurer and Galt City Clerk be appointive?'; 'Impartial Analysis Prepared by City Counsel'; 'Argument in Favor of Measure L'."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). No separate full text on the county page (the ballot question is the whole proposition; the analysis ends with the 'If you desire a copy of the ordinance or measure, please call...' legend). Only an argument in favor was filed; no argument against and no rebuttals. A quick search found no Galt city clerk page with a resolution PDF."
+    },
+    {
+      "titles": [
+        "Sacramento City Unified School District — Measure M (Special Education Parcel Tax)"
+      ],
+      "jurisdiction": "us/ca/sacramento-county",
+      "letter": "M",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure M: ballot question, impartial analysis, full text, arguments for and against, and both rebuttals (on the county's page of every measure, under Measure M)",
+          "url": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "mediaType": "text/html",
+          "found_on": "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html",
+          "checked": "HTTP 200 text/html. Page header 'Current Measure Information November 3, 2026, General Election'. Section 'Measure M: Sacramento City Unified School District 2/3 Vote Required To address the decline in Federal funding for Special Educatio[n]...'; 'Impartial Analysis Prepared by County Counsel IMPARTIAL ANALYSIS OF MEASURE M'; 'Full Text of Measure M FULL TEXT OF BALLOT MEASURE SACRAMENTO CITY UNIFIED SCHOOL DISTRICT'; 'Argument in Favor of Measure M'; 'Argument Against Measure M'; 'Rebuttal to the Argument in Favor of Measure M'; 'Rebuttal to the Argument Against Measure M'."
+        }
+      ],
+      "notes": "Sacramento County publishes local measure material only as HTML on one page (one collapsible section per measure, no stable anchor, no PDFs). All four arguments/rebuttals filed."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Woodland — Measure Y (One-Cent Sales Tax for City Services)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/woodland",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:44Z",
+  "documents": [
+    {
+      "title": "Impartial analysis of Measure Y",
+      "source": "https://ace.yolocounty.gov/DocumentCenter/View/1023/Measure-Y-Impartial-Analysis",
+      "mediaType": "application/pdf",
+      "sha256": "ba56cbd5f48eb749e2b91500c880bd95b4bc4ba95e7d11dc9f9017f7abd64578"
+    },
+    {
+      "title": "Argument in favor of Measure Y",
+      "source": "https://ace.yolocounty.gov/DocumentCenter/View/1028/Argument-in-Favor---Measure-Y",
+      "mediaType": "application/pdf",
+      "sha256": "b1c84ad5576efff8bf8b48aadf7572fd84d2f0b31dd188ec518863830c4db448"
+    }
+  ]
+}

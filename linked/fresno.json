@@ -1,0 +1,452 @@
+{
+  "dir": "county/fresno",
+  "jurisdiction": "us/ca/fresno-county",
+  "title": "Fresno County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Fresno County Clerk/Registrar of Voters",
+    "uri": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters"
+  },
+  "pages": [
+    "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election"
+  ],
+  "measures": [
+    {
+      "titles": ["Fresno County — Measure A (Fresno County Transient Occupancy Tax Measure)"],
+      "jurisdiction": "us/ca/fresno-county",
+      "letter": "A",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/tot_resolution.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Resolution No. 26-257 Before the Board of Supervisors of the County of Fresno ... Calling a Countywide Special Election to be Consolidated with the Statewide General Election to be Held on November 3, 2026' (18 pp)"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/impartial-analysis.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'IMPARTIAL ANALYSIS BY COUNTY COUNSEL MEASURE __ ... Fresno County Board of Supervisors placed Measure __, also known as the \"Hotel Tax\"' (letter blank in filed copy)"
+        },
+        {
+          "kind": "fiscal",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fiscal-impact-statement.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'COUNTY OF FRESNO FISCAL IMPACT STATEMENT ... TRANSIENT OCCUPANCY TAX', filed Jul 24 2026"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/filed-argument-in-favor.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: argument for a Transient Occupancy Tax paid by hotel/short-term-rental visitors in Fresno County (linked as 'Argument in Favor')"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/filed-argument-against.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Argument Against Fresno County Transient Occupancy Tax Measure ... November 3, 2026 Consolidated Statewide General Election'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/rebuttal-to-the-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Rebuttal to Argument in Favor of Fresno County Transient Occupancy Tax ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/rebuttal-to-the-argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Rebuttal to the Argument Against Measure - Fresno County ... Occupant Tax', signed by two supervisors"
+        }
+      ],
+      "notes": "All Fresno County files are redacted scans of the filed originals; many carry blank measure letters because they were filed before letters were assigned. Site is behind Akamai; plain curl gets 403, a browser-like HTTP/2 client gets 200."
+    },
+    {
+      "titles": ["Orange Cove — Measure O (City of Orange Cove Special Parcel Tax Measure)"],
+      "jurisdiction": "us/ca/orange-cove",
+      "letter": "O",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/oc-tax-resolution-2026-28_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'RESOLUTION NO. 2026-28 ... CITY OF ORANGE COVE ... SUBMITTING TO CITY VOTERS AT THE NEXT GENERAL ELECTION TO BE HELD NOVEMBER 3, 2026, A BALLOT MEASURE PROPOSING TO IMPOSE A SPECIAL TAX FOR POLICE SERVICES, RECREATION SERVICES, AND PARK MAINTENANCE'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/impartial-analysis_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Measure _ Impartial Analysis ... parcel tax ... City of Orange Cove's governing body'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'ARGUMENT IN FAVOR OF SPECIAL TAX MEASURE _ ... keep Orange Cove safe'"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Argument Against City of Orange Cove Special Parcel Tax Measure ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/rebuttal-to-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Rebuttal to Argument in Favor of City of Orange Cove Special Parcel Tax Measure ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/orange-cove-tax/rebuttal-to-the-argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1 author declaration for 'Special Parcel Tax Measure O ... City of Orange Cove ... November 3, 2026'; p2: 'REBUTTAL TO ARGUMENT AGAINST MEASURE O'"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": ["Coalinga — Measure J (City of Coalinga Transactions and Use Tax Measure)"],
+      "jurisdiction": "us/ca/coalinga",
+      "letter": "J",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/resolution-no.-4337_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'RESOLUTION NO. 4337 RESOLUTION OF THE CITY COUNCIL OF THE CITY OF COALINGA CALLING FOR A MUNICIPAL ELECTION ... EXTENDING THE SUNSET CLAUSE FOR THE ONE-PERCENT TRANSACTIONS AND USE (SALES) TAX'"
+        },
+        {
+          "kind": "text",
+          "title": "Exhibit A: ordinance submitted to the voters",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/exhibit-a_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'EXHIBIT A TO RESOLUTION 4337 ORDINANCE NO. ... AMENDING SECTION 102 ... COALINGA MUNICIPAL CODE TO EXTEND THE SUNSET CLAUSE OF THE ONE-PERCENT TRANSACTIONS AND USE TAX'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/filed-impartial-analysis_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: city attorney letter to Fresno County Clerk 'Re: City of Coalinga November 3, 2026 Election, City of Coalinga Sales Tax Measure Impartial Analysis'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/filed-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'ARGUMENT IN FAVOR OF MEASURE J ... Coalinga residents'"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Argument Against City of Coalinga Sales Tax Renewal Measure ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/2/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/coalinga-sales-tax/rebuttal-argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1-3 filing forms (authorization names 'Measure \"J\" for the November 3 2026 elections'); p4: 'REBUTTAL TO ARGUMENT AGAINST MEASURE J'"
+        }
+      ],
+      "notes": "No rebuttal to the argument in favor is posted."
+    },
+    {
+      "titles": [
+        "Sierra Kings Health Care District — Measure H (Sierra Kings Health Care District Hospital Lease Measure)"
+      ],
+      "jurisdiction": "us/ca/fresno-county",
+      "letter": "H",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sierra-kings/resolution_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'SIERRA KINGS HEALTH CARE DISTRICT RESOLUTION NO. 328 ... CALLING AN ELECTION TO PLACE A MEASURE REQUESTING THE RESIDENTS OF THE DISTRICT TO APPROVE THE NEW LEASE WITH AN OPTION TO PURCHASE ... ON THE NOVEMBER 3, 2026 BALLOT'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sierra-kings/measure-h-impartial-analysis_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'SIERRA KINGS HEALTH CARE DISTRICT NOVEMBER 2026 MEASURE (IMPARTIAL ANALYSIS BY COUNTY COUNSEL ...)'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sierra-kings/filed-argument-in-favor-_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'A Yes vote on Measure H is a vote to continue operation of the Reedley Hospital'"
+        }
+      ],
+      "notes": "Only an argument in favor was posted; no argument against or rebuttals."
+    },
+    {
+      "titles": ["Firebaugh — Measure F (City of Firebaugh Parcel Tax Measure)"],
+      "jurisdiction": "us/ca/firebaugh",
+      "letter": "F",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-resolution_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'RESOLUTION NO. 26-46 ... CITY OF FIREBAUGH ... CALLING AN ELECTION ... NOVEMBER 3, 2026 AND SUBMITTING TO THE ELECTORS A BALLOT MEASURE TO IMPOSE A SPECIAL PARCEL TAX FOR FIRE AND EMERGENCY RESPONSE'"
+        },
+        {
+          "kind": "text",
+          "title": "Exhibit A: ordinance submitted to the voters",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/exhibit-a-ordinance_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'EXHIBIT \"A\" ORDINANCE NO. 26-03 MEASURE \"__\" AN ORDINANCE OF THE CITY OF FIREBAUGH ... ESTABLISHING A SPECIAL PARCEL TAX FOR FIRE AND EMERGENCY RESPONSE'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-impartial-analysis_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: city attorney letter 'Re: City of Firebaugh November 3, 2026 Election, City of Firebaugh Parcel Tax Measure Impartial Analysis'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Ballot Argument for Firebaugh Fire Measure Vote Yes on Measure __'"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Argument Against City of Firebaugh Parcel Tax Measure ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-rebuttal-to-the-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Rebuttal to Argument in Favor of City of Firebaugh Parcel Tax Measure ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/firebaugh-parcel-tax/filed-rebuttal-argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: author declaration for 'ballot measure F ... City of Firebaugh to be held on November 3, 2026', signed by the Fire Chief and others (Yes side)"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": ["Fowler — Measure T (City of Fowler Transactions & Use Tax Measure)"],
+      "jurisdiction": "us/ca/fowler",
+      "letter": "T",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/resolution_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'RESOLUTION NO. 2854 ... CITY OF FOWLER ... TRANSACTIONS AND USE TAX ORDINANCE; CALLING AND ORDERING THE SUBMISSION ... AT A GENERAL MUNICIPAL ELECTION TO BE HELD ON NOVEMBER [3, 2026]'"
+        },
+        {
+          "kind": "text",
+          "title": "Exhibit A: ordinance submitted to the voters",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/exhibit-a_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'ORDINANCE NO. 2026-07 AN ORDINANCE OF THE CITY OF FOWLER ... ESTABLISHES A NEW TRANSACTIONS AND USE (SALES) TAX AT THE RATE OF 0.5%'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/impartial-analysis-city-of-fowler_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'City Attorney's Impartial Analysis of Measure T ... Fowler ... November 3, 2026, election'"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fowler-parcel-tax/argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Argument Against City of Fowler Transactions & Use Tax Measure ... November 3, 2026'"
+        }
+      ],
+      "notes": "No argument in favor or rebuttals posted. The county's file folder is named 'fowler-parcel-tax' but the documents are the sales tax measure."
+    },
+    {
+      "titles": ["Sanger — Measure B (City of Sanger Transient Occupancy Tax Measure)"],
+      "jurisdiction": "us/ca/sanger",
+      "letter": "B",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/resolution_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'RESOLUTION NO. 2026-72 ... CITY OF SANGER ... GENERAL MUNICIPAL ELECTION TO BE HELD ON TUESDAY, NOVEMBER 3, 2026 ... TRANSIENT OCCUPANCY TAX'"
+        },
+        {
+          "kind": "text",
+          "title": "Exhibit A: ordinance submitted to the voters",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/exhibit-a-ordinance_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'EXHIBIT A ORDINANCE SUBMITTED TO THE VOTERS ORDINANCE NO. 2026-06 ... CITY OF SANGER ... TRANSIENT OCCUPANCY TAX'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/impartial-analysis_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'CITY ATTORNEY'S IMPARTIAL ANALYSIS OF MEASURE B ... City of Sanger ... transient occupancy tax ... increase the tax rate to 12%'"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Argument Against City of Sanger Transient Occupancy Tax Measure ... November 3, 2026'"
+        }
+      ],
+      "notes": "No argument in favor or rebuttals posted."
+    },
+    {
+      "titles": ["Fresno — Measure D (City of Fresno Transactions & Use Tax Measure)"],
+      "jurisdiction": "us/ca/fresno",
+      "letter": "D",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/resolution_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: City Clerk certification of 'City Council Resolution No. 2026-179, adopted on July 30, 2026' (10 pp)"
+        },
+        {
+          "kind": "text",
+          "title": "Ordinance submitted to the voters",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/ordinance_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: City Clerk certification of 'City Council Ordinance No. 2026-21, Bill No. B-21 adopted on July 30, 2026' (19 pp)"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/impartial-analysis-city-of-fresno_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'IMPARTIAL ANALYSIS Fresno Public Safety, Infrastructure Restoration, and City General Services Tax Measure ... (Measure D) ... November 3, 2026'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/filed-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: argument for the City of Fresno tax, citing Measure C sunset June 2027 and a $56 million funding gap"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Argument Against City of Fresno Transactions & Use Tax Measure ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/filed-rebuttal-to-the-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Rebuttal to Argument in Favor City of Fresno Transactions & Use Tax Measure ... November 3, 2026'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/3/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-use-tax/filed-rebuttal-to-the-argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: declaration signed by Mayor of Fresno and Council President for the 11/03/2026 election; p4: 'Measure D is the most effective way ...'"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": [
+        "Fresno County — Measure S (Fresno County Transportation Improvement Act Measure)"
+      ],
+      "jurisdiction": "us/ca/fresno-county",
+      "letter": "S",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/2/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-resolution-fresno-county-transportation-imporvement-act_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Resolution No. 26-294 BEFORE THE BOARD OF SUPERVISORS ... CALLING A COUNTYWIDE ELECTION TO BE CONSOLIDATED WITH THE STATEWIDE PRIMARY ELECTION TO BE HELD ON MARCH 7, 2028 ... INITIATIVE MEASURE' (38 pp; recites that state law requires submission on November 3, 2026)"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/2/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-impartial-analysis-county-counsel_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'IMPARTIAL ANALYSIS BY COUNTY COUNSEL MEASURE S ... Fresno County Transportation Improvement Act ... half-cent (0.5%) transactions and use tax ... thirty years'"
+        },
+        {
+          "kind": "fiscal",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-fiscal-impact-statement_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'COUNTY OF FRESNO FISCAL IMPACT STATEMENT ... FRESNO COUNTY TRANSPORTATION IMPROVEMENT ACT MEASURE'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'VOTE YES on MEASURE S for Better Roads and Safe Streets Throughout Fresno County'"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/filed-argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: 'Measure S is a NEW, 30 YEAR, $7 BILLION TAX SCAM'"
+        },
+        {
+          "kind": "rebut-favor",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/rebuttal-to-the-argument-in-favor_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1: declaration 'Rebuttal to Argument in Favor ... ballot measure S at the November 2026'; p2: 'Measure S is a SCAM!'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/fresno-co-transportation/rebuttal-to-the-argument-against_redacted.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.fresnocountyca.gov/Departments/County-ClerkRegistrar-of-Voters/Elections/Election-Information/2026/November-3-2026-Consolidated-Statewide-General-Election",
+          "checked": "scanned PDF, OCR p1-5: declarations/forms for 'ballot measure S'; p6: 'VOTE YES on MEASURE S ...'"
+        }
+      ],
+      "notes": "The posted resolution (Resolution No. 26-294) calls the election for the March 7, 2028 primary, reflecting the county's dispute with the state over AB 1923, which put the measure on Nov 3, 2026. The county still lists Measure S on its Nov 3, 2026 page with arguments, analysis and fiscal statement. The ordinance text is inside the resolution. A 38MB 'CEC Section 9111 Report' is also linked; not downloaded or listed."
+    }
+  ]
+}

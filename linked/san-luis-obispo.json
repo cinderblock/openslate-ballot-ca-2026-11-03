@@ -1,0 +1,76 @@
+{
+  "dir": "county/san-luis-obispo",
+  "jurisdiction": "us/ca/san-luis-obispo-county",
+  "title": "San Luis Obispo County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "San Luis Obispo County Clerk-Recorder (Elections)",
+    "uri": "https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting"
+  },
+  "pages": [
+    "https://www.slocounty.ca.gov/departments/clerk-recorder/all-services/elections-and-voting/elections-conducted-by-county-of-san-luis-obispo/november-3%2C-2026%2C-general-election",
+    "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+    "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures"
+  ],
+  "measures": [
+    {
+      "titles": [
+        "Paso Robles Joint Unified School District — Measure G-26 (Paso Robles Joint Unified School District Bond Measure)",
+        "Paso Robles Joint Unified School District — Measure G-26 (Paso Robles Joint Unified School District Bond)"
+      ],
+      "jurisdiction": "us/ca/san-luis-obispo-county",
+      "letter": "G-26",
+      "documents": [
+        {
+          "kind": "resolution",
+          "title": "Resolution No. 26-26 (includes full ballot text and tax rate statement exhibits)",
+          "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/resolution-no-26-26",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+          "checked": "18pp; p1 'BEFORE THE BOARD OF TRUSTEES OF THE PASO ROBLES JOINT UNIFIED SCHOOL DISTRICT RESOLUTION NO. 26.26 RESOLUTION ORDERING AN ELECTION TO AUTHORIZE THE ISSUANCE OF SCHOOL BONDS ... NOVEMBER 3, 2026'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/impartial-analysis-of-measure-g-26",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+          "checked": "1p scan; 'Impartial Analysis of Measure G-26 ... Board of Trustees of the Paso Robles Joint Unified School District ... not to exceed $205 million'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/argument-in-favor-of-measure-g-26",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+          "checked": "6pp scan; 'Paso Robles Jt. Unified School District Argument in Favor of Measure G-26 Keep Our Tax Dollars Local / Protect Paso Robles Schools'"
+        },
+        {
+          "kind": "against",
+          "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/argument-against-measure-g-26",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+          "checked": "2pp scan (letterhead 'PO Box 248, San Miguel'); 'Voters should reject the proposed PRJUSD G-26 bond measure.'"
+        },
+        {
+          "kind": "rebut-against",
+          "url": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/rebuttal-to-argument-against-measure-g-26",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures",
+          "checked": "5pp scan; 'Rebuttal to Argument Against Measure G-26 Measure G-26 invests in our children's future with real taxpayer protections.'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://www.countyofmonterey.gov/home/showpublisheddocument/147817/639222456058130000",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.countyofmonterey.gov/government/departments-a-h/elections/list-of-local-measures",
+          "checked": "2pp; 'EXHIBIT D TAX RATE STATEMENT PASO ROBLES JOINT UNIFIED SCHOOL DISTRICT GENERAL OBLIGATION BONDS MEASURE ... November 3, 2026'",
+          "manual": {
+            "sha256": "721002b4fb91ca52a3c46448547bed0ea61e101e9b1d2bd50ba70a07990d68c6",
+            "bytes": 109026,
+            "retrieved_at": "2026-10-27T08:47:57Z",
+            "by": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+          }
+        }
+      ],
+      "notes": "SLO County is the lead county; its election page links the documents via /2026-11-04/ paths that redirect to the /2026-11-03/ URLs listed (the measures listing page links /2026-11-03/ directly); the URLs serve PDFs directly. No rebuttal to the argument in favor posted. The tax rate statement is not linked by SLO separately (it is an exhibit in the resolution); the one listed is the copy Monterey County Elections posts, since the district extends into Monterey County. Monterey's list also links the same resolution (147329), impartial analysis (147815), arguments (147813, 147811) and rebuttal (147887) for G-26."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Kern County — Measure Z (California Living Museum Improvement and Conservation Act of 2026)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/kern-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:48:04Z",
+  "documents": [
+    {
+      "title": "CALM Measure (Board of Supervisors Resolution 2026-280 calling the election)",
+      "source": "https://www.kernvote.com/home/showpublisheddocument/25906/639214569964930000",
+      "mediaType": "application/pdf",
+      "sha256": "976dcddef0765d215193d5f242552856f843d17a3650610c833250fb875c0a2d"
+    },
+    {
+      "title": "Impartial analysis of Measure Z",
+      "source": "https://www.kernvote.com/home/showpublisheddocument/26088/639226443455370000",
+      "mediaType": "application/pdf",
+      "sha256": "39812196c4e75813096f77620f6559e844a0e4fca3561e767c6579b8636455cd"
+    },
+    {
+      "title": "Argument in favor of Measure Z",
+      "source": "https://www.kernvote.com/home/showpublisheddocument/25996/639222255839400000",
+      "mediaType": "application/pdf",
+      "sha256": "885f4e9e3b792e072c223709b12a8e8b4d2e2be23af859c4e9be47c03c7e992f"
+    }
+  ]
+}

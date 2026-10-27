@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "South Monterey County Joint Union High School District — Measure J (Reorganization of School Districts)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/monterey-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:47:58Z",
+  "documents": [
+    {
+      "title": "Full text of Measure J",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147331/639217289099870000",
+      "mediaType": "application/pdf",
+      "sha256": "6e1eea4fbca010e2d4a096cff5e293f50c2df8e7d78f1a86e34e0c6ee376c2e5"
+    },
+    {
+      "title": "Impartial analysis of Measure J",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147809/639222453723730000",
+      "mediaType": "application/pdf",
+      "sha256": "a0340a89db0c7a95c9738be9dcbdcf406dd5d02be2eab1cba8553ea60e407905"
+    },
+    {
+      "title": "Argument in favor of Measure J",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147807/639222453721570000",
+      "mediaType": "application/pdf",
+      "sha256": "e463c76eaff25338fad9f4f6f9482aadc0a474bede22f1217949d70e5f9e9d5d"
+    },
+    {
+      "title": "Argument against Measure J",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147805/639222453718100000",
+      "mediaType": "application/pdf",
+      "sha256": "6b6882fc17015619717bfc106cadcf8625c1c6b27de3f693accd6bcfc5a35850"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure J",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147889/639228423552570000",
+      "mediaType": "application/pdf",
+      "sha256": "2edf1fb047bb8576927178b5623e3f091ac123af9f4b014882672d3c2c6cdf48"
+    }
+  ]
+}

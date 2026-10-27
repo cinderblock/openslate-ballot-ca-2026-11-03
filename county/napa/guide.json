@@ -1,0 +1,22 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/napa-county",
+    "title": "Napa County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Napa County Elections Division",
+      "uri": "https://www.napacounty.gov/2139/Current-Election",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:43:41Z",
+    "sources": [
+      "https://www.napacounty.gov/2319/Local-Measures",
+      "https://www.napacounty.gov/2471/County-of-Napa---Measure-B",
+      "https://www.napacounty.gov/2470/City-of-American-Canyon---Measure-P",
+      "https://www.americancanyon.gov/Work/Elections-Central/Ballot-Measures"
+    ]
+  }
+}

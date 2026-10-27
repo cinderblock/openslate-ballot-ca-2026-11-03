@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Bernardino Mountains Community Hospital District — Measure Q (District Bonds)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:08Z",
+  "documents": [
+    {
+      "title": "Full text of Measure Q",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/FT_SBMCHD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "e2acc72f5de0bc553e00efd7d0425669b371bb494f252f5f796864b7a80b0fd1"
+    },
+    {
+      "title": "Resolution placing Measure Q on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/RES_SBMCHD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "846c739527fb852d7ac0fb6aaefb45586f207304123e2b443a4920788b7d113b"
+    },
+    {
+      "title": "Impartial analysis of Measure Q",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/IA_SBMCHD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c2c8592c6c96cc6f6a56b4d8d8be78f6fa5fe443861eb2af1039c90f66086835"
+    },
+    {
+      "title": "Tax rate statement for Measure Q",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/TR_SBMCHD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "47794242cbec857b26d1cb8f4d444e4381e33e079fe0f0c2babf7224525eebd1"
+    },
+    {
+      "title": "Argument in favor of Measure Q",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBMCHD/AIF_SBMCHD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "09484f4d710cd63eaff81ca74cbcabd9a60561f37db7f845e4dfaca986f679ba"
+    }
+  ]
+}

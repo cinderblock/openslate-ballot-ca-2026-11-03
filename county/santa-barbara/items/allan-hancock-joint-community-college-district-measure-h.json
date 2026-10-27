@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Allan Hancock Joint Community College District — Measure H (Education and Economic Development Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-barbara-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:30Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure H on the ballot",
+      "source": "https://www.slocounty.ca.gov/departments/clerk-recorder/forms-documents/elections-and-voting/current-elections/2026-11-03/measures/resolution-no-26-21",
+      "mediaType": "application/pdf",
+      "sha256": "2e8ac428008a0552be6e0c63df4f93445e9930062f0d2964d6f9f34c2e872231"
+    }
+  ]
+}

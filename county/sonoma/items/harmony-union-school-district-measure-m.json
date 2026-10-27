@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Harmony Union School District — Measure M (Harmony Union School District Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:39Z",
+  "documents": [
+    {
+      "title": "Measure M: county voter guide pages — measure question, impartial analysis, argument in favor, full text",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9401_MeasM_HarmonyUnionSchlDist_ParcelTax_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f9270d572da3890b8ec9215e405e5876b3b6d221679db477c959dd5e2275d8f0"
+    }
+  ]
+}

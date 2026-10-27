@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "North Monterey County Unified School District — Measure L (North Monterey County Unified School District Bond)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/monterey-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:48:00Z",
+  "documents": [
+    {
+      "title": "Resolution placing Measure L on the ballot",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147321/639205024869830000",
+      "mediaType": "application/pdf",
+      "sha256": "0cec4e3a5cd32e42833321bfa38b973c9f094fed5039a691eb69e31b82464085"
+    },
+    {
+      "title": "Impartial analysis of Measure L",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147793/639222442056670000",
+      "mediaType": "application/pdf",
+      "sha256": "d10dc5868fdd60945a82dbf8d908008b2d38c59f0aed31eb147a772af264ebd3"
+    },
+    {
+      "title": "Argument in favor of Measure L",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147789/639222442048430000",
+      "mediaType": "application/pdf",
+      "sha256": "365df3db29fb03504e39c854738860912d0f5b4e686038b86aa9c302f87605e6"
+    },
+    {
+      "title": "Argument against Measure L",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147791/639222442053070000",
+      "mediaType": "application/pdf",
+      "sha256": "2acf6e080850e621d3c1e309aa6f8ba43c48f314decc28af36eecd512fdc2658"
+    },
+    {
+      "title": "Rebuttal to the argument in favor of Measure L",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147893/639228435915630000",
+      "mediaType": "application/pdf",
+      "sha256": "5a7bfd7f793d5d51e92c7a9a61a21d861737c7bb3ed38de8a9aea0e3a90c79eb"
+    },
+    {
+      "title": "Rebuttal to the argument against Measure L",
+      "source": "https://www.countyofmonterey.gov/home/showpublisheddocument/147891/639228424017500000",
+      "mediaType": "application/pdf",
+      "sha256": "96c0143ccef53a9a2587b85ca12229f4464b4d9daa5f005ad83571aeeb4ef708"
+    }
+  ]
+}

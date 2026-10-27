@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Sanger — Measure B (City of Sanger Transient Occupancy Tax Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sanger",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:02Z",
+  "documents": [
+    {
+      "title": "Exhibit A: ordinance submitted to the voters",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/exhibit-a-ordinance_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4cae6b27c565be8e335891c0ee5c5b4bddffb63263ba73a401da6d89b2527014"
+    },
+    {
+      "title": "Resolution placing Measure B on the ballot",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/resolution_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "494750cf8ce34e8396eaae23526b3f55da707b774b6299e6ad6a28fc8cda8a5d"
+    },
+    {
+      "title": "Impartial analysis of Measure B",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/impartial-analysis_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "91e331ab912c8f979ad78e9ac38bde8ecfd730a3d9e8c8c4d242ede6713e9b54"
+    },
+    {
+      "title": "Argument against Measure B",
+      "source": "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/county-clerk-registrar-of-voters/1_election-pages/2026_3_nov_statewide-general/measures/sanger-transient-tax/argument-against_redacted.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "cfaa4b3c9e32ebb928ceeb6e491815369620cf5852e644c55d6ef4bf70769e6a"
+    }
+  ]
+}

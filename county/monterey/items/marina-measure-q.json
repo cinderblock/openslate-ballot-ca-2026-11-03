@@ -1,0 +1,24 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Marina — Measure Q (Marina 911 Emergency, Public Safety, and Community Services Measure)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/marina",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:32Z",
+  "documents": [
+    {
+      "title": "Measure Q Resolution (Resolution No. 2026-100)",
+      "source": "https://www.cityofmarina.org/ArchiveCenter/ViewFile/Item/15398",
+      "mediaType": "application/pdf",
+      "sha256": "dd33a36258a026f7965b906f741ec44d2938ef337b955cde1e805a5b04099b16"
+    },
+    {
+      "title": "Measure Q: arguments for and against and rebuttals (combined, with signature forms)",
+      "source": "https://cityofmarina.org/DocumentCenter/View/17476/Arguments-and-Rebutals",
+      "mediaType": "application/pdf",
+      "sha256": "fd25fddf3301749bc7e7e61eb486cf83c7f937a0d1010734edadc61600775c82"
+    }
+  ]
+}

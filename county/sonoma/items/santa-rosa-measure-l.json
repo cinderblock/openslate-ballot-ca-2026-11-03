@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Santa Rosa — Measure L (City of Santa Rosa Sales Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/santa-rosa",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:36Z",
+  "documents": [
+    {
+      "title": "Measure L: county voter guide pages — measure question, impartial analysis, argument in favor, full text (ordinance)",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9561_MeasL_CityOfSantaRosa_SalesTax_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ae6f9e674f8e66eaa6ff98b48fad3b3c4ab40916faa93ec19ad3884eb2b2fd91"
+    }
+  ]
+}

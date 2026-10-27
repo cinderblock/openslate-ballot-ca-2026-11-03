@@ -1,0 +1,58 @@
+{
+  "https://www.contracostavote.gov/m9002-en-2/": {
+    "url": "https://www.contracostavote.gov/m9002-en-2/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:33Z"
+  },
+  "https://www.contracostavote.gov/m9003-en-2/": {
+    "url": "https://www.contracostavote.gov/m9003-en-2/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:33Z"
+  },
+  "https://www.contracostavote.gov/m9004-en-2/": {
+    "url": "https://www.contracostavote.gov/m9004-en-2/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:34Z"
+  },
+  "https://www.contracostavote.gov/m9007-en/": {
+    "url": "https://www.contracostavote.gov/m9007-en/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:35Z"
+  },
+  "https://www.contracostavote.gov/m9009-en-2/": {
+    "url": "https://www.contracostavote.gov/m9009-en-2/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:34Z"
+  },
+  "https://www.contracostavote.gov/m9011-en-2/": {
+    "url": "https://www.contracostavote.gov/m9011-en-2/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:34Z"
+  },
+  "https://www.contracostavote.gov/m9012-en-2/": {
+    "url": "https://www.contracostavote.gov/m9012-en-2/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:32Z"
+  },
+  "https://www.contracostavote.gov/m9013-en/": {
+    "url": "https://www.contracostavote.gov/m9013-en/",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:45:35Z"
+  },
+  "https://www.walnutcreekca.gov/home/showpublisheddocument/33850/639214416535370000": {
+    "url": "https://www.walnutcreekca.gov/home/showpublisheddocument/33850/639214416535370000",
+    "mediaType": "application/pdf",
+    "bytes": 456983,
+    "sha256": "126eeead2b25f6aaad4bc730864c66ad6232ead368f6a749a0f931b3a938580a",
+    "retrieved_at": "2026-10-27T08:48:04Z",
+    "via": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+  },
+  "https://www.walnutcreekca.gov/home/showpublisheddocument/33852/639214416538130000": {
+    "url": "https://www.walnutcreekca.gov/home/showpublisheddocument/33852/639214416538130000",
+    "mediaType": "application/pdf",
+    "bytes": 3024757,
+    "sha256": "ef4ba81cf4bda9d19c747dc3c19dcbd1fbdb5cd1214845d0d62aab0fdf0c44ed",
+    "retrieved_at": "2026-10-27T08:48:06Z",
+    "via": "PowerShell Invoke-WebRequest over HTTP/2: the host refuses HTTP/1.1 clients"
+  }
+}

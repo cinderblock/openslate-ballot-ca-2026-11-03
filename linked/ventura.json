@@ -1,0 +1,66 @@
+{
+  "dir": "county/ventura",
+  "jurisdiction": "us/ca/ventura-county",
+  "title": "Ventura County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Ventura County Clerk-Recorder / Registrar of Voters",
+    "uri": "https://clerkrecorder.venturacounty.gov/elections/"
+  },
+  "pages": [
+    "https://clerkrecorder.venturacounty.gov/elections/november-3-2026-general-election/",
+    "https://clerkrecorder.venturacounty.gov/2026-measures/",
+    "https://www.oxnard.gov/city-clerks-office/election-information/renewal-measure"
+  ],
+  "measures": [
+    {
+      "titles": ["Oxnard — Measure E (Sales Tax)"],
+      "jurisdiction": "us/ca/oxnard",
+      "letter": "E",
+      "documents": [
+        {
+          "kind": "text",
+          "title": "Uncodified ordinance (further revised)",
+          "url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-clerk/further-revised-ordinance-amending-measure-o.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.oxnard.gov/city-clerks-office/election-information/renewal-measure",
+          "checked": "text PDF, 3 pp; p1: 'AN UNCODIFIED ORDINANCE OF THE CITY OF OXNARD ... ADOPTING THE \"CITY OF OXNARD EXTENSION OF MEASURE O SALES TAX\", WHICH REMOVES THE SUNSET PROVISION OF MEASURE O'"
+        },
+        {
+          "kind": "resolution",
+          "url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-clerk/resolutions/resolution-16071-06162026.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.oxnard.gov/city-clerks-office/election-information/renewal-measure",
+          "checked": "text PDF, 12 pp; p1: 'RESOLUTION NO. 16,071 ... CITY OF OXNARD ... ORDERING AN ELECTION TO BE HELD ON NOVEMBER 3, 2026 TO CONSIDER ... \"CITY OF OXNARD PUBLIC SAFETY, FINANCIAL STABILITY MEASURE (NO TAX RATE INCREASE)\"'"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://www.oxnard.gov/wp-content/uploads/pdfs/departments/city-attorney/revised-impartial-analysis-measure-e-measure-o-extension-signed.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.oxnard.gov/city-clerks-office/election-information/renewal-measure",
+          "checked": "scanned PDF, OCR p1: 'CITY ATTORNEY IMPARTIAL ANALYSIS OF MEASURE E In 2008, Oxnard voters approved Measure O ...'"
+        }
+      ],
+      "notes": "From the city clerk's '2026 Renewal Measure' page (/ballot-measures redirects there). The county measures page has only the ballot question, which lists supporters and opponents, so arguments were filed, but neither the county nor the city posts them. The June 16 resolution names the measure 'Public Safety, Financial Stability Measure'. The city's page and the 'further revised' ordinance call it 'City of Oxnard Extension of Measure O Sales Tax', so the ordinance attached to the resolution may differ from the final text. oxnard.gov blocks plain curl; a browser-like HTTP/2 client works."
+    }
+  ],
+  "missing": [
+    {
+      "titles": ["Santa Paula Unified School District — Measure C (School Bond)"],
+      "why": "The county's 2026-measures page has only the notice and ballot question ($48.6M bond, $27.98/$100k); the county posts no full text, analysis, arguments or tax rate statement, and its voter guide page links only the state guide. The district site (santapaulaunified.org) refused the TLS connection, and searches found no official district documents."
+    },
+    {
+      "titles": [
+        "United Water Conservation District — Measure D (Water Supply, Conservation and Water Quality Bond Measure)"
+      ],
+      "why": "The county posts only the ballot question ($350M). The district's /bond/ page has a flyer and a Water Code 74800 report, but no ordering resolution, analysis or arguments."
+    },
+    {
+      "titles": ["Simi Valley — Measure A (Transient Occupancy Tax Rate)"],
+      "why": "The county posts only the ballot question (TOT 10% to 12%, about $400,000 a year). The city clerk election page (simivalley.org/departments/city-manager-s-office/city-clerk/election-information) and the city's TOT page link only a fact sheet and FAQ, no resolution, analysis or arguments."
+    },
+    {
+      "titles": ["Rio Elementary School District — Measure B (School Bond)"],
+      "why": "The county posts only the ballot question. The district's page (rioschools.org/measure-b) has no linked documents. The official district name appears to be 'Rio School District'."
+    }
+  ]
+}

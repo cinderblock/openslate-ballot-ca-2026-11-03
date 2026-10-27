@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Adelanto — Measure P (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/adelanto",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:21Z",
+  "documents": [
+    {
+      "title": "Full text of Measure P",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/FT_CityofAdelanto.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "82993a6d0840614c5dea52bae69489f3e317809c2abb9c3bb950cfb68e16df3b"
+    },
+    {
+      "title": "Resolution placing Measure P on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/RES_CityofAdelanto.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "965dddaab6b22dd6c35235a306f2e8b22862c7846373f7e10463758b7f0c5d7a"
+    },
+    {
+      "title": "Impartial analysis of Measure P",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/IA_CityofAdelanto.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ae108d0c9af99750309a3b3d63918233895302cc8cbb90bb036215bf3128e356"
+    },
+    {
+      "title": "Argument in favor of Measure P",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofAdelanto/AIF_CityofAdelanto.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "331b299fbf1b3b143b94d7a8b7c21e9c0e9b3467010953bac2a3adbf397cdc15"
+    }
+  ]
+}

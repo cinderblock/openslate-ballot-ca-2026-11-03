@@ -1,0 +1,156 @@
+{
+  "dir": "county/placer",
+  "jurisdiction": "us/ca/placer-county",
+  "title": "Placer County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Placer County Elections Office",
+    "uri": "https://www.placercountyelections.gov/"
+  },
+  "pages": ["https://www.placercountyelections.gov/current-elections/"],
+  "measures": [
+    {
+      "titles": ["Roseville — Measure A"],
+      "jurisdiction": "us/ca/roseville",
+      "letter": "A",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure A (City of Roseville, Council Compensation Adjustment and Inflation Limitation): ballot question, impartial analysis, arguments, rebuttals and full text",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-A.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 5 pp. p1 'MEASURE A COUNCIL COMPENSATION ADJUSTMENT AND INFLATION LIMITATION MEASURE ... Charter of the City of Roseville' + 'IMPARTIAL ANALYSIS OF MEASURE A' (Roseville City Attorney); p2 argument in favor + rebuttal to it; p3 argument against + rebuttal to it; p4-5 'FULL TEXT OF MEASURE A SUBMITTED BY THE CITY OF ROSEVILLE' Resolution 26-040, Nov 3, 2026 election."
+        }
+      ],
+      "notes": "Combined voter-guide pages published by Placer County Elections for this measure (single PDF per measure); no separate per-document files. Charter amendment raising council pay from $600 to $2,550/month with inflation cap. Catalog title has no subtitle."
+    },
+    {
+      "titles": ["South Placer Fire District — Measure B"],
+      "jurisdiction": "us/ca/placer-county",
+      "letter": "B",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure B (South Placer Fire Protection District, Fire and Emergency Medical Response Measure): ballot question, impartial analysis, arguments, rebuttals and full text",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-B.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 6 pp. p1 'MEASURE B SOUTH PLACER FIRE PROTECTION DISTRICT, FIRE AND EMERGENCY MEDICAL RESPONSE MEASURE' + 'IMPARTIAL ANALYSIS OF MEASURE B' (Placer County Counsel); p2 argument in favor + rebuttal; p3 argument against + rebuttal; p4-6 'FULL TEXT OF MEASURE B SUBMITTED BY SOUTH PLACER FIRE PROTECTION DISTRICT' (ordinance), Nov 3, 2026."
+        }
+      ],
+      "notes": "Combined voter-guide pages published by Placer County Elections for this measure (single PDF per measure); no separate per-document files. Official name is South Placer Fire Protection District; $375 uniform parcel tax, 2/3 vote. Catalog title has no subtitle."
+    },
+    {
+      "titles": ["Rocklin — Measure C (Half-Cent Sales Tax for City Services)"],
+      "jurisdiction": "us/ca/rocklin",
+      "letter": "C",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure C (City of Rocklin, 1/2% transactions and use tax): ballot question, impartial analysis, argument in favor and full text",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-C.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 6 pp. p1 'MEASURE C 1/2% TRANSACTIONS AND USE (SALES) TAX ... Rocklin' + 'IMPARTIAL ANALYSIS OF MEASURE C' (Rocklin City Attorney), refers to Nov 3, 2026 ballot; p2 argument in favor + 'NO ARGUMENT AGAINST MEASURE C WAS SUBMITTED'; p3-6 'FULL TEXT OF MEASURE C SUBMITTED BY THE CITY OF ROCKLIN' Ordinance No. 1208."
+        }
+      ],
+      "notes": "Combined voter-guide pages published by Placer County Elections for this measure (single PDF per measure); no separate per-document files. No argument against was filed, so no rebuttals."
+    },
+    {
+      "titles": ["Rocklin Unified School District — Measure D"],
+      "jurisdiction": "us/ca/placer-county",
+      "letter": "D",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure D (Rocklin Unified School District school bond): ballot question, impartial analysis, arguments, rebuttals, full text and tax rate statement",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-D.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 8 pp. p1 'MEASURE D SCHOOL BOND ELECTION – ROCKLIN UNIFIED SCHOOL DISTRICT' + 'IMPARTIAL ANALYSIS OF MEASURE D' (Placer County Counsel); p2 argument in favor + rebuttal; p3 argument against + rebuttal; p4-8 'FULL TEXT OF MEASURE D SUBMITTED BY ROCKLIN UNIFIED SCHOOL DISTRICT'; p8 'TAX RATE STATEMENT', Nov 3, 2026."
+        }
+      ],
+      "notes": "Combined voter-guide pages published by Placer County Elections for this measure (single PDF per measure); no separate per-document files. $288,000,000 general obligation bond, 55% vote. Catalog title has no subtitle."
+    },
+    {
+      "titles": ["Lincoln — Measure F"],
+      "jurisdiction": "us/ca/lincoln",
+      "letter": "F",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure F (City of Lincoln one-cent sales tax): ballot question, impartial analysis, argument in favor and full text",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-F.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 7 pp. p1 'IMPARTIAL ANALYSIS OF MEASURE F' (Lincoln Interim City Attorney), City Council placed it June 23, 2026; p2 argument in favor + 'NO ARGUMENT AGAINST MEASURE F WAS SUBMITTED'; p3-7 'FULL TEXT OF MEASURE F SUBMITTED BY THE CITY OF LINCOLN', Nov 3, 2026."
+        }
+      ],
+      "notes": "Combined voter-guide pages published by Placer County Elections for this measure (single PDF per measure); no separate per-document files. One-cent general sales tax (~$6M/yr). No argument against filed, so no rebuttals. Catalog title has no subtitle."
+    },
+    {
+      "titles": ["Placer County — Measure G"],
+      "jurisdiction": "us/ca/placer-county",
+      "letter": "G",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure G (Placer County Charter amendment, Board of Supervisors vacancies): ballot question and impartial analysis",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-G.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 2 pp. p1 'IMPARTIAL ANALYSIS OF MEASURE G' re Placer County Charter Article II Sec. 206 (vacancy filling); p2 'NO ARGUMENT IN FAVOR OF MEASURE G WAS SUBMITTED' / 'NO ARGUMENT AGAINST MEASURE G WAS SUBMITTED'."
+        }
+      ],
+      "notes": "Single PDF holds only the question and impartial analysis; no arguments were filed and the county did not post the full text (analysis says to call the Registrar for a copy). Catalog title has no subtitle."
+    },
+    {
+      "titles": ["Placer County — Measure H"],
+      "jurisdiction": "us/ca/placer-county",
+      "letter": "H",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure H (Placer County Charter amendment, removal of County Executive Officer): ballot question and impartial analysis",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-H.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 2 pp. p1 'IMPARTIAL ANALYSIS OF MEASURE H' re Placer County Charter Article V Sec. 502(a) (CEO removal); p2 'NO ARGUMENT IN FAVOR OF MEASURE H WAS SUBMITTED' / 'NO ARGUMENT AGAINST MEASURE H WAS SUBMITTED'."
+        }
+      ],
+      "notes": "Single PDF holds only the question and impartial analysis; no arguments were filed and the county did not post the full text (analysis says to call the Registrar for a copy). Catalog title has no subtitle."
+    },
+    {
+      "titles": ["Colfax — Measure I"],
+      "jurisdiction": "us/ca/colfax",
+      "letter": "I",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure I (City of Colfax 1% transactions and use tax for streets and infrastructure): ballot question, impartial analysis, argument in favor and full text",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-I_9-10-2026.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 6 pp. p1 'IMPARTIAL ANALYSIS OF MEASURE I Prepared by Conor W. Harkins, City Attorney, City of Colfax' (1% sales tax for streets); p2 argument in favor + 'NO ARGUMENT AGAINST MEASURE I WAS SUBMITTED'; p3-6 'FULL TEXT OF MEASURE I SUBMITTED BY THE CITY OF COLFAX'."
+        }
+      ],
+      "notes": "Combined voter-guide pages published by Placer County Elections for this measure (single PDF per measure); no separate per-document files. Special tax, 2/3 vote. File name carries a 9-10-2026 revision date. No argument against filed. Catalog title has no subtitle."
+    },
+    {
+      "titles": ["Tahoe Truckee Unified School District — Measure P"],
+      "jurisdiction": "us/ca/placer-county",
+      "letter": "P",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure P (Tahoe Truckee Unified School District parcel tax renewal): ballot question, impartial analysis, arguments, rebuttal and full text",
+          "url": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure_P.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://www.placercountyelections.gov/current-elections/",
+          "checked": "HTTP 200 %PDF, 6 pp. p1 'IMPARTIAL ANALYSIS OF MEASURE P' (Placer County Counsel; renews 2018 Measure AA parcel tax); p2 argument in favor + 'NO REBUTTAL TO THE ARGUMENT IN FAVOR OF MEASURE P WAS SUBMITTED'; p3 argument against + rebuttal to it; p4-6 'FULL TEXT OF MEASURE P SUBMITTED BY TAHOE TRUCKEE UNIFIED SCHOOL DISTRICT'."
+        }
+      ],
+      "notes": "Combined voter-guide pages published by Placer County Elections for this measure (single PDF per measure); no separate per-document files. District spans Placer, Nevada and El Dorado counties (per the county's measures list); Placer County Elections and Placer County Counsel handle it. $148 parcel tax renewed with $40 increase, 9 years, 2/3 vote. No rebuttal to the argument in favor was filed. Catalog title has no subtitle."
+    }
+  ]
+}

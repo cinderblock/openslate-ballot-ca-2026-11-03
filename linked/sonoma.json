@@ -1,0 +1,220 @@
+{
+  "dir": "county/sonoma",
+  "jurisdiction": "us/ca/sonoma-county",
+  "title": "Sonoma County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Sonoma County Registrar of Voters",
+    "uri": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters"
+  },
+  "pages": [
+    "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot"
+  ],
+  "measures": [
+    {
+      "titles": ["Rohnert Park — Measure K (City of Rohnert Park Sales Tax)"],
+      "jurisdiction": "us/ca/rohnert-park",
+      "letter": "K",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure K: county voter guide pages — measure question, City Attorney impartial analysis, arguments for and against, both rebuttals, full text (Ordinance No. 998)",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9611_MeasK_CityOfRohnertPark_SalesTax_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 8 pages. p1 'Local Ballot Measure: K Sonoma County ... Measure K City of Rohnert Park Measure Question Rohnert Park Financial Viability, Community Health/Safety Mea[sure]'; p2 'City Attorney's Impartial Analysis of Measure K'; p3 Argument in Favor + Rebuttal to Argument in Favor; p4 Argument Against + Rebuttal to Argument Against; p5-8 'Full Text of Measure K ORDINANCE NO. 998'."
+        }
+      ],
+      "notes": "Single combined county guide excerpt per measure (English); Spanish version and MP3 audio also linked."
+    },
+    {
+      "titles": ["Santa Rosa — Measure L (City of Santa Rosa Sales Tax)"],
+      "jurisdiction": "us/ca/santa-rosa",
+      "letter": "L",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure L: county voter guide pages — measure question, impartial analysis, argument in favor, full text (ordinance)",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9561_MeasL_CityOfSantaRosa_SalesTax_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 3 pages. p1 'Measure L City of Santa Rosa Measure Question City of Santa Rosa Community Safety/Financial Stability Measure'; p2 impartial analysis + Argument in Favor + 'No Argument Was Submitted Against Measure L'; p3 'Full Text of Measure L ORDINANCE ... OF THE CITY OF SANTA ROSA AMENDING TITLE 3'."
+        }
+      ],
+      "notes": "No argument against submitted, so no rebuttals."
+    },
+    {
+      "titles": ["Sonoma County — Measure H (Sonoma County Parks Sales Tax)"],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "H",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure H: county voter guide pages — measure question, County Counsel impartial analysis, County Auditor fiscal impact statement, argument in favor, full text (Ordinance No. 6568)",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9451_MeasH_SoCoRegParks_SalesTax_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 8 pages. p1 'Measure H County of Sonoma Measure Question Without raising taxes, to improve and protect Sonoma County's reg[ional parks]'; p2 'County Counsel's Impartial Analysis of Measure H' + 'County Auditor's Fiscal Impact Statement'; p3 Argument in Favor + 'No Argument Was Submitted Against Measure H'; p4-8 'Full Text of Measure H ORDINANCE NO. 6568'."
+        }
+      ],
+      "notes": "County lists it as 'County of Sonoma Sales Tax' (filename SoCoRegParks_SalesTax). No argument against submitted."
+    },
+    {
+      "titles": [
+        "Sonoma County Junior College District — Measure AB (Sonoma County Junior College District Bond)"
+      ],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "AB",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure AB: county voter guide pages — measure question, County Counsel impartial analysis, tax rate statement, arguments for and against, both rebuttals, full text",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9311_MeasAB_SoCoJrCollDist_Bond_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 6 pages. p1 'Measure AB Sonoma County Junior College District Measure Question'; p2 'County Counsels' Impartial Analysis of Measure AB' + 'Tax Rate Statement — Measure AB'; p3 Argument in Favor + Rebuttal to Argument in Favor; p4 Argument Against + Rebuttal to Argument Against; p5-6 'Full Text of Measure AB'. Says November 3, 2026."
+        }
+      ],
+      "notes": "Multi-county district (Marin also lists Measure AB)."
+    },
+    {
+      "titles": ["Windsor — Measure I (Town of Windsor Sales Tax)"],
+      "jurisdiction": "us/ca/windsor",
+      "letter": "I",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure I: county voter guide pages — measure question, Town Attorney impartial analysis, arguments for and against, both rebuttals, full text (ordinance)",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9641_MeasI_TownOfWindsor_SalesTax_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 8 pages. p1 'Measure I Town of Windsor Measure Question To provide funding for the Town of Windsor'; p2 'Town Attorney's Impartial Analysis of Measure I'; p3 Argument in Favor + Rebuttal; p4 Argument Against + Rebuttal; p5-8 'Full Text of Measure I ORDINANCE NO. AN ORDINANCE OF THE TOWN OF WINDSOR'."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "titles": [
+        "Windsor Unified School District — Measure J (Windsor Unified School District Bond)"
+      ],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "J",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure J: county voter guide pages — measure question, County Counsel impartial analysis, tax rate statement, argument in favor, full text",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9321_MeasJ_WindsorUnifSchlDist_Bond_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 6 pages. p1 'Measure J Windsor Unified School District Measure Question Windsor Unified School District Classroom Repair/N[ew]'; p2 'County Counsel's Impartial Analysis of Measure J' + Tax Rate Statement; p3 Argument in Favor + 'No Argument Was Submitted Against Measure J'; p4-6 'Full Text of Measure J'."
+        }
+      ],
+      "notes": "No argument against submitted."
+    },
+    {
+      "titles": [
+        "Coast Life Support District — Measure D (Coast Life Support District Parcel Tax)"
+      ],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "D",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure D: county voter guide pages — measure question, impartial analysis, argument in favor, full text (ordinance)",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9761_MeasD_CoastLifeSuppDist_ParcelTax_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 4 pages. p1 'Measure D Coast Life Support District Measure Question Shall Measure D (the Coast Life Support District Emerg[ency]'; p2 impartial analysis + Argument in Favor + 'No Argument Was Submitted Against Measure D'; p3-4 'Full Text of Measure D AN ORDINANCE OF COAST LIFE SUPPORT DISTRICT INCREASING THE CURRENT SPECIAL TAX'."
+        }
+      ],
+      "notes": "District spans Mendocino and Sonoma; Mendocino County is the lead county (per the Sonoma ROV filed-measures page). Sonoma still publishes its guide excerpt. No argument against submitted."
+    },
+    {
+      "titles": ["Waugh School District — Measure E (Waugh School District Bond)"],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "E",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure E: county voter guide pages — measure question, County Counsel impartial analysis, tax rate statement, argument in favor, full text",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9445_MeasE_WaughSchlDist_Bond_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 6 pages. p1 'Measure E Waugh School District Measure Question'; p2 'County Counsel's Impartial Analysis of Measure E' + Tax Rate Statement; p3 Argument in Favor + 'No Argument Was Submitted Against Measure E'; p4-6 'Full Text of Measure E WAUGH SCHOOL DISTRICT RENOVATION, SAFETY AND UPGRADE MEASURE'."
+        }
+      ],
+      "notes": "No argument against submitted."
+    },
+    {
+      "titles": [
+        "West Sonoma County Union High School District — Measure G (West Sonoma County Union High School District Parcel Tax)"
+      ],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "G",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure G: county voter guide pages — measure question, impartial analysis, argument in favor, full text",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9379_MeasG_WestSoCoUnionHghSchlDist_ParcelTax_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 3 pages. p1 'Measure G West Sonoma County Union High School District Measure Question'; p2 impartial analysis + Argument in Favor + 'No Argument Was Submitted Against Measure G'; p3 'Full Text of Measure G PARCEL TAX RENEWAL MEASURE'."
+        }
+      ],
+      "notes": "No argument against submitted."
+    },
+    {
+      "titles": [
+        "Harmony Union School District — Measure M (Harmony Union School District Parcel Tax)"
+      ],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "M",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure M: county voter guide pages — measure question, impartial analysis, argument in favor, full text",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9401_MeasM_HarmonyUnionSchlDist_ParcelTax_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 3 pages. p1 'Measure M Harmony Union School District Measure Question'; p2 impartial analysis + Argument in Favor + 'No Argument Was Submitted Against Measure M'; p3 'Full Text of Measure M HARMONY UNION SCHOOL DISTRICT GARDEN ENRICHMENT PROGRAM FUNDING MEASURE OF 2026'."
+        }
+      ],
+      "notes": "No argument against submitted."
+    },
+    {
+      "titles": [
+        "Old Adobe Union School District — Measure O (Old Adobe Union School District Bond)"
+      ],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "O",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure O: county voter guide pages — measure question, County Counsel impartial analysis, tax rate statement, argument in favor, full text",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9419_MeasO_OldAdobeUnionSchlDist_Bond_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 5 pages. p1 'Measure O Old Adobe Union School District Measure Question'; p2 'County Counsel's Impartial Analysis of Measure O' + Tax Rate Statement; p3 Argument in Favor + 'No Argument Was Submitted Against Measure O'; p4-5 'Full Text of Measure O BOND AUTHORIZATION'."
+        }
+      ],
+      "notes": "No argument against submitted."
+    },
+    {
+      "titles": [
+        "Schell-Vista Fire Protection District — Measure N (Schell-Vista Fire Protection District Appropriations Limit)"
+      ],
+      "jurisdiction": "us/ca/sonoma-county",
+      "letter": "N",
+      "documents": [
+        {
+          "kind": "other",
+          "title": "Measure N: county voter guide pages — measure question, impartial analysis, argument in favor, full text (Ordinance No. 2026-01)",
+          "url": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9723_MeasN_Schell-VistaFireProtDist_AppropLimit_EN.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://sonomacounty.gov/administrative-support-and-fiscal-services/registrar-of-voters/elections/november-3-2026-general-election-props-and-measures-on-the-ballot",
+          "checked": "curl HTTP 200 application/pdf, %PDF, 3 pages. p1 'Measure N Schell-Vista Fire Protection District Measure Question Shall the Schell Vista Fire Protection Distr[ict]'; p2 impartial analysis + Argument in Favor + 'No Argument Was Submitted Against Measure N'; p3 'Full Text of Measure N ORDINANCE NO. 2026-01 AN ORDINANCE OF THE SCHELL VISTA FIRE PROTECTION DISTRICT INCREA[SING]'."
+        }
+      ],
+      "notes": "No argument against submitted."
+    }
+  ]
+}

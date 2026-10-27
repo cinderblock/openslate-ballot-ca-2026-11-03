@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Needles — Measure L (Municipal Bonds)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/needles",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:19Z",
+  "documents": [
+    {
+      "title": "Full text of Measure L",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/FT_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "986dbfbc08bd1ba0779cd307a579c0df009decccb2c28058837b03c3ed3ef864"
+    },
+    {
+      "title": "Resolution placing Measure L on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/RES_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "b99009b35552dbeccb78634d5cc5ff4fb15134fae665d7b46eee546cc14862c9"
+    },
+    {
+      "title": "Impartial analysis of Measure L",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/IA_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "899dc81c478cc2ae3cd49b56e14e42685e52d04c9304f02e0121280be8c7904e"
+    },
+    {
+      "title": "Tax rate statement for Measure L",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/TR_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d52120c0060353e5184d43b48b0e33877a3d1a5a9d9c13a3b1447cdb21d8d23d"
+    },
+    {
+      "title": "Argument in favor of Measure L",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofNeedles/30/AIF_CityofNeedles.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "6687e731407e9940f0fbbce4dec4a0d18152929fb80168e87e8264ea19cfdcd8"
+    }
+  ]
+}

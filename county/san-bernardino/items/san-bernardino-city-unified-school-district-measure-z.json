@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Bernardino City Unified School District — Measure Z (School Bonds)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:12Z",
+  "documents": [
+    {
+      "title": "Full text of Measure Z",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/FT_SBCityUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "4946128c494c9c6e96604e8d5b061f4124723f02280375907985f92f8cb6c48c"
+    },
+    {
+      "title": "Resolution placing Measure Z on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/RES_SBCityUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "afca8d7fba12f6c82846b1309ceaf470d59c2aa1d62afe285b87af81c05c3406"
+    },
+    {
+      "title": "Tax rate statement for Measure Z",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/TR_SBCityUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "f799e0574257fe6fe010ec20bd6b0b74f34a632a6c5bd4995ba861e35958ac17"
+    },
+    {
+      "title": "Argument in favor of Measure Z",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCityUSD/AIF_SBCUSD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "297f20d5de893e76970be47c8f25f4cd66a69757ee5cea4fe762e8afa854631e"
+    }
+  ]
+}

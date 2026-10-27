@@ -1,0 +1,42 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "San Bernardino Community College District — Measure Y (School Bonds)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:10Z",
+  "documents": [
+    {
+      "title": "Full text of Measure Y",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/FT_SBCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "ea4420a2f7563a4bac6fb0a609639633c7fe89864d03aeabc78016e95ddc7d8b"
+    },
+    {
+      "title": "Resolution placing Measure Y on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/RES_SBCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "243cf92dec698091a4595c3fdc0abf657037b277e5f2377bde479db8c5d1176a"
+    },
+    {
+      "title": "Impartial analysis of Measure Y",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/IA_SBCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "a812b037f4f2102a076c9c3443ed6f9a328a8dbe8dd9744673ee9e8bdbbefad8"
+    },
+    {
+      "title": "Tax rate statement for Measure Y",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/TR_SBCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "1535d241cb7471ad849ef19ebd3c3d1446301c5f34da1109bc5262ec78d73ff4"
+    },
+    {
+      "title": "Argument in favor of Measure Y",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/SBCCD/AIF_SBCCD.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "91f499226ad5622c80385bedfca450354231e19ee248fa7ef6fbaf9f13daad38"
+    }
+  ]
+}

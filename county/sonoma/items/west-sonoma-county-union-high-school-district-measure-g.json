@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "West Sonoma County Union High School District — Measure G (West Sonoma County Union High School District Parcel Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:39Z",
+  "documents": [
+    {
+      "title": "Measure G: county voter guide pages — measure question, impartial analysis, argument in favor, full text",
+      "source": "https://sonomacounty.gov/Main%20County%20Site/Administrative%20Support%20%26%20Fiscal%20Services/Registrar%20of%20Voters/Documents/Elections/2026/11-03-2026/SoCo_Nov2026GenElec_9379_MeasG_WestSoCoUnionHghSchlDist_ParcelTax_EN.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "cf3a092a1de90c7a1b73f4ae3699adf90c1bd03b752b126daddb3b409c6c3b45"
+    }
+  ]
+}

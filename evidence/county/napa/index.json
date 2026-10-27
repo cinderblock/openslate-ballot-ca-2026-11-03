@@ -1,0 +1,66 @@
+{
+  "https://portal.laserfiche.com/Portal/DocView.aspx?id=459186&repo=r-f53bdda4": {
+    "url": "https://portal.laserfiche.com/Portal/DocView.aspx?id=459186&repo=r-f53bdda4",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:43:40Z"
+  },
+  "https://portal.laserfiche.com/Portal/DocView.aspx?id=459189&repo=r-f53bdda4": {
+    "url": "https://portal.laserfiche.com/Portal/DocView.aspx?id=459189&repo=r-f53bdda4",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:43:40Z"
+  },
+  "https://portal.laserfiche.com/Portal/DocView.aspx?id=464597&repo=r-f53bdda4": {
+    "url": "https://portal.laserfiche.com/Portal/DocView.aspx?id=464597&repo=r-f53bdda4",
+    "mediaType": "text/html",
+    "retrieved_at": "2026-10-27T08:43:41Z"
+  },
+  "https://www.napacounty.gov/DocumentCenter/View/40594/Measure-B---Ballot-Title-and-Summary---Napa-County-PDF": {
+    "url": "https://www.napacounty.gov/DocumentCenter/View/40594/Measure-B---Ballot-Title-and-Summary---Napa-County-PDF",
+    "mediaType": "application/pdf",
+    "bytes": 136287,
+    "sha256": "165ebc4c0e3d5ddefb9a0379ddef03be7d107450a8857df7fe7fc1496ac07e53",
+    "retrieved_at": "2026-10-27T08:43:37Z"
+  },
+  "https://www.napacounty.gov/DocumentCenter/View/40926/Measure-B---Full-Text---Napa-County-PDF": {
+    "url": "https://www.napacounty.gov/DocumentCenter/View/40926/Measure-B---Full-Text---Napa-County-PDF",
+    "mediaType": "application/pdf",
+    "bytes": 1945805,
+    "sha256": "ccd06e932e6a2c80f0eedd030cc38417ed544a08f766e8b54189b3f3237428d0",
+    "retrieved_at": "2026-10-27T08:43:37Z"
+  },
+  "https://www.napacounty.gov/DocumentCenter/View/46097/Measure-B---Impartial-Analysis---Napa-County-PDF": {
+    "url": "https://www.napacounty.gov/DocumentCenter/View/46097/Measure-B---Impartial-Analysis---Napa-County-PDF",
+    "mediaType": "application/pdf",
+    "bytes": 123156,
+    "sha256": "a680fc16f093227c46ed02dbc1213fde3d48cb1a04b812933b6c21563ee94be4",
+    "retrieved_at": "2026-10-27T08:43:37Z"
+  },
+  "https://www.napacounty.gov/DocumentCenter/View/46099/Measure-B---Argument-Against---Napa-County-PDF": {
+    "url": "https://www.napacounty.gov/DocumentCenter/View/46099/Measure-B---Argument-Against---Napa-County-PDF",
+    "mediaType": "application/pdf",
+    "bytes": 879067,
+    "sha256": "14bad0b8ea357e69c99e3d2c193b9826a75f18c6e15d4c5652625bbc7baed0dd",
+    "retrieved_at": "2026-10-27T08:43:38Z"
+  },
+  "https://www.napacounty.gov/DocumentCenter/View/46100/Measure-B---Argument-in-Favor---Napa-County-PDF": {
+    "url": "https://www.napacounty.gov/DocumentCenter/View/46100/Measure-B---Argument-in-Favor---Napa-County-PDF",
+    "mediaType": "application/pdf",
+    "bytes": 3235410,
+    "sha256": "fb6d88a093af3df906cea39d70970af7d3bfb9ff806ac772374d599941b0de5d",
+    "retrieved_at": "2026-10-27T08:43:38Z"
+  },
+  "https://www.napacounty.gov/DocumentCenter/View/46152/Measure-B---Rebuttal-to-Argument-Against---Napa-County-PDF": {
+    "url": "https://www.napacounty.gov/DocumentCenter/View/46152/Measure-B---Rebuttal-to-Argument-Against---Napa-County-PDF",
+    "mediaType": "application/pdf",
+    "bytes": 5730471,
+    "sha256": "8ba1cc563da682a4be2a926ed72c0070b35ccef233d4d806169cd8097b6b7b7f",
+    "retrieved_at": "2026-10-27T08:43:39Z"
+  },
+  "https://www.napacounty.gov/DocumentCenter/View/46153/Measure-B---Rebuttal-to-Argument-in-Favor---Napa-County-PDF": {
+    "url": "https://www.napacounty.gov/DocumentCenter/View/46153/Measure-B---Rebuttal-to-Argument-in-Favor---Napa-County-PDF",
+    "mediaType": "application/pdf",
+    "bytes": 696142,
+    "sha256": "97fcc7d6a2f4c346bd56b222d2c5afee40a13d8c578e736579c5ccda51a41fff",
+    "retrieved_at": "2026-10-27T08:43:38Z"
+  }
+}

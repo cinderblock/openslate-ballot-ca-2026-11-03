@@ -1,0 +1,58 @@
+{
+  "dir": "county/riverside",
+  "jurisdiction": "us/ca/riverside-county",
+  "title": "Riverside County local measures' official documents: November 3, 2026 General Election",
+  "authority": {
+    "name": "Riverside County Registrar of Voters",
+    "uri": "https://voteinfo.net/"
+  },
+  "pages": [
+    "https://voteinfo.net/november-3-2026-general-election",
+    "https://elections.sbcounty.gov/elections/2026/1103/measures/"
+  ],
+  "measures": [
+    {
+      "titles": ["Beaumont Unified School District — Measure B (School Bonds)"],
+      "jurisdiction": "us/ca/riverside-county",
+      "letter": "B",
+      "documents": [
+        {
+          "kind": "resolution",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/RES_BUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 8 pp; p1: 'Stradling Draft of 5/20/26 4938-9832-1582v6/022624-0040 RESOLUTION NO. _________ RESOLUTION OF THE BOARD OF TRUSTEES OF BEAUMONT UNIFIED SCHOOL DISTRICT ORDERING AN ELECT'"
+        },
+        {
+          "kind": "text",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/FT_BUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 5 pp; p1: 'B-1 EXHIBIT B FULL TEXT BALLOT PROPOSITION OF THE BEAUMONT UNIFIED SCHOOL DISTRICT BOND MEASURE ELECTION NOVEMBER 3, 2026 KEY FINDINGS • Beaumont Unified School District '"
+        },
+        {
+          "kind": "analysis",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/IA_BUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'County Counsel’s Impartial Analysis Measure B Beaumont Unified School District The purpose of Measure B is to enable voters to authorize or reject the Beaumont Unified Sc'"
+        },
+        {
+          "kind": "tax-rate",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/TR_BUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 2 pp; p1: '1 4934-0264-7979v2/022624-0040 TAX RATE STATEMENT BEAUMONT UNIFIED SCHOOL DISTRICT GENERAL OBLIGATION BONDS MEASURE __ An election will be held in Beaumont Unified School'"
+        },
+        {
+          "kind": "favor",
+          "url": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/BeaumontUSD/AF_BUSD.pdf",
+          "mediaType": "application/pdf",
+          "found_on": "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+          "checked": "HTTP 200 %PDF, 1 pp; p1: 'Argument m Favor of Measure'If Vote YES on B- Repair and Upgrade Our Beaumont Un~z~;~liob,s ~nh~L~ff.creaslng Taxes! Our community continues to grow. Families choose to m'"
+        }
+      ],
+      "notes": "Riverside County ROV (voteinfo.net, the lead county) publishes only a Notice of Election for Measure B; the resolution, full text, impartial analysis (by Riverside County Counsel, Riverside letterhead), tax rate statement and argument in favor are published on the San Bernardino County ROV measures page (Beaumont USD apparently has territory/voters in SB County too). County page states: No Argument Against was filed (so no rebuttals). 55% vote, $86M bonds. RES_BUSD is an unsigned 'Stradling Draft of 5/20/26' with blank resolution number. AF_BUSD is a scan with a poor OCR layer, rendered text readable as 'Argument in Favor of Measure B'."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Grand Terrace — Measure N (Transactions and Use Tax)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/grand-terrace",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:44:20Z",
+  "documents": [
+    {
+      "title": "Full text of Measure N",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/FT_GT.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "c12354b86745aefb42f72eeb7f79567a4971a88d1f1460f91958b59bab3d3b5e"
+    },
+    {
+      "title": "Resolution placing Measure N on the ballot",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/RES_GT.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "31c055fc7e0f94615be383930d0568cd170574b34e4b67030e1f928fd2f52ca4"
+    },
+    {
+      "title": "Impartial analysis of Measure N",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/CityofGrandTerrace/IA_GT.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "74b460d3b4b7447cdf1e5835618e322348b7e5675c4c170a3911b8c651b01c36"
+    }
+  ]
+}

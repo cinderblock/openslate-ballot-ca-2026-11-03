@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Rocklin — Measure C (Half-Cent Sales Tax for City Services)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/rocklin",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:43:42Z",
+  "documents": [
+    {
+      "title": "Measure C (City of Rocklin, 1/2% transactions and use tax): ballot question, impartial analysis, argument in favor and full text",
+      "source": "https://www.placercountyelections.gov/Uploads/documents/11032026/measures/11032026_Measure-C.pdf",
+      "mediaType": "application/pdf",
+      "sha256": "d3f6e6cc8e97b6248aa7742f3b0bb904709088cda9d74314c4a6df06e5c3836e"
+    }
+  ]
+}

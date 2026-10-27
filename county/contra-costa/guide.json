@@ -1,0 +1,21 @@
+{
+  "context": {
+    "election": "2026-11-03",
+    "jurisdiction": "us/ca/contra-costa-county",
+    "title": "Contra Costa County local measures' official documents: November 3, 2026 General Election"
+  },
+  "attribution": {
+    "of": {
+      "name": "Contra Costa County Clerk-Recorder-Elections Department",
+      "uri": "https://www.contracostavote.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T08:48:06Z",
+    "sources": [
+      "https://www.contracostavote.gov/election/november-3-2026-general-election/",
+      "https://www.contracostavote.gov/?s=measure",
+      "https://www.walnutcreekca.gov/government/departments/city-clerk/elections-voter-registration/november-3-2026-election-4243"
+    ]
+  }
+}

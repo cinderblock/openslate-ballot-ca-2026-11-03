@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "subject": {
+    "title": "Walnut Creek — Measure T (Appointive City Treasurer)",
+    "kind": "measure",
+    "jurisdiction": "us/ca/walnut-creek",
+    "election": "2026-11-03"
+  },
+  "retrieved_at": "2026-10-27T08:48:04Z",
+  "documents": [
+    {
+      "title": "Resolution No. 26-31",
+      "source": "https://www.walnutcreekca.gov/home/showpublisheddocument/33850/639214416535370000",
+      "mediaType": "application/pdf",
+      "sha256": "126eeead2b25f6aaad4bc730864c66ad6232ead368f6a749a0f931b3a938580a"
+    },
+    {
+      "title": "Measure T: ballot question, City Attorney impartial analysis, arguments and rebuttals",
+      "source": "https://www.contracostavote.gov/m9012-en-2/",
+      "mediaType": "text/html"
+    }
+  ]
+}
