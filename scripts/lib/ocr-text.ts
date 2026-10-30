@@ -72,7 +72,10 @@ function similar(a: string, b: string): boolean {
 
 /** "1. Chris Clements: Police Captain (retired)": a filing that types out its handwritten signers. */
 const TYPED_SIGNER = /^\s*\d\s*[.)]\s*([^:]{3,60}?)\s*:\s+(\S.*)$/;
-const typedSigners = (page: OcrPage) => page.lines.filter((line) => TYPED_SIGNER.test(line.text));
+const typedSigners = (page: OcrPage) =>
+  rows([...page.lines].sort((a, b) => a.y - b.y || a.x - b.x)).filter((line) =>
+    TYPED_SIGNER.test(line.text),
+  );
 
 function isTypedList(page: OcrPage): boolean {
   return pageKind(page) === "text" && typedSigners(page).length >= 2;
