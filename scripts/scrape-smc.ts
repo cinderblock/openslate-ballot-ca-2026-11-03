@@ -35,7 +35,7 @@ import {
   now,
   sha256Hex,
 } from "./lib/guide-common";
-import { MACHINE_READ, type Ocr, signersOf, textBlocks } from "./lib/ocr-text";
+import { MACHINE_READ, type Ocr, SIGNERS_NOTE, signersOf, textBlocks } from "./lib/ocr-text";
 import { countItems, itemStore, writeGuide } from "./lib/pamphlet";
 
 const OUT = "county/san-mateo";
@@ -315,7 +315,7 @@ for (const [name, subject] of Object.entries(contestSubjects.measures)) {
           blocks,
           signers: signersOf(ocr),
           source: doc.url,
-          disclaimer: MACHINE_READ,
+          disclaimer: `${MACHINE_READ} ${SIGNERS_NOTE}`,
         },
       ];
     }

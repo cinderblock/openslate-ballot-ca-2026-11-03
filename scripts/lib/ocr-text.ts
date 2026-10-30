@@ -31,6 +31,10 @@ export interface Ocr {
 export const MACHINE_READ =
   "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page.";
 
+/** Added to an argument's caveat: a name written by hand isn't read, so the list can be partial. */
+export const SIGNERS_NOTE =
+  "Only signers whose names are typed on the form are listed; names written by hand aren't read, so the scan may show more.";
+
 export type PageKind = "submission" | "signers" | "authorization" | "text";
 
 const flat = (page: OcrPage) => page.lines.map((line) => line.text).join(" ");
@@ -199,7 +203,8 @@ const unlabeled = (text: string) => text.replace(LABELS, "").trim();
 
 /** A printed personal name: two to five words, letters and the usual marks, no digits. */
 function plausibleName(text: string): boolean {
-  const tokens = text.split(/\s+/);
+  // The form says honorifics aren't accepted, but some are typed ("Dr. Heather Starnes Logwood").
+  const tokens = text.replace(/^(?:Dr|Mr|Mrs|Ms)\.?\s+/, "").split(/\s+/);
   if (tokens.length < 2 || tokens.length > 5) return false;
   // Noise reads as short capitalized scraps ("Ph Ad Si"); a name has a word of some length.
   if (!tokens.some((token) => token.replace(/[^\p{L}]/gu, "").length >= 4)) return false;
