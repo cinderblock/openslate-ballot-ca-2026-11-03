@@ -20,5 +20,60 @@
       "mediaType": "application/pdf",
       "sha256": "00f5fa81560a4ae0e5acc4bb2163cca312f95d6357a1e260f93467bbe556fa49"
     }
-  ]
+  ],
+  "analysis": {
+    "title": "Impartial analysis of Measure L",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "IMPARTIAL ANALYSIS OF MEASURE [TBDI"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Article XI, Section 3 of the California Constitution, Government Code Sections 23720 and 23722, and Article I, Section 102, of the San Mateo County Charter (\"Charter\") authorize the Board of Supervisors (\"Board\") to propose amendments to the Charter for approval by the County's voters at a special election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Approval of Measure [TBD] (\"Measure\") would amend the Charter to add a new provision to the Charter's Preamble designating long-term resilience to extreme weather events as a County priority. This Measure was placed on the ballot by ordinance and resolution passed by a majority vote of the Board of Supervisors (\"Board\")."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Measure would add a new paragraph to the Charter's Preamble stating that it is the policy of the County that long-term resilience against extreme weather events, including fire, flood, wind, rain, heat, drought, and sea level rise, is a County priority, to be undertaken collaboratively with cities, districts, and other public entities, a subject not currently addressed by the Preamble. The Measure would not change or otherwise affect the other provisions of the Chatter."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Voters may call the County's Registration and Elections Division at (650) 312-5222 to request that a copy of the proposed Charter amendment be mailed to them at no cost."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Measure requires approval by a majority of the qualified voters voting in the election."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "End of Analysis --------------------"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "(500 word limit. 201 words)"
+        ]
+      }
+    ],
+    "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ML-ImpartialAnalysis-SMC-Charter-Extreme-Weather.pdf",
+    "disclaimer": "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page."
+  }
 }

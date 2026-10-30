@@ -9,6 +9,10 @@
 // filings (submission forms included), with no text layer. Each is linked, not mirrored (they
 // come to over 500 MB), and identified by the SHA-256 of what was retrieved.
 //
+// The impartial analyses and the arguments are text read from those scans by Windows' OCR
+// (scripts/ocr-smc.ts keeps what it read in evidence/.../ocr/); each passage says so. A signer
+// is listed only where the form was typed (scripts/lib/ocr-text.ts).
+//
 // A document's measure comes from its title ("Measure R - Impartial Analysis") or, for the
 // filings named by contest ("Burlingame School District Bond Measure Argument in Favor"), from
 // BY_NAME below, reviewed by hand. The run stops if a document fits no measure, or a measure on
@@ -31,6 +35,7 @@ import {
   now,
   sha256Hex,
 } from "./lib/guide-common";
+import { MACHINE_READ, type Ocr, signersOf, textBlocks } from "./lib/ocr-text";
 import { countItems, itemStore, writeGuide } from "./lib/pamphlet";
 
 const OUT = "county/san-mateo";
@@ -161,6 +166,17 @@ function kindOfFile(url: string): Kind | undefined {
   return undefined;
 }
 
+/** What a filing asks for. A rebuttal to the argument in favor is written by its opponents. */
+const SIDES: Record<
+  Exclude<Kind, "resolution" | "analysis">,
+  { side: string; rebuttal: boolean }
+> = {
+  favor: { side: "Yes", rebuttal: false },
+  against: { side: "No", rebuttal: false },
+  "rebut-favor": { side: "No", rebuttal: true },
+  "rebut-against": { side: "Yes", rebuttal: true },
+};
+
 function lettersOf(doc: Linked): string[] {
   const titled = /^Measure ([A-Z]{1,2}) - /.exec(doc.title);
   if (titled) return [titled[1] as string];
@@ -202,6 +218,12 @@ const indexPath = join(EVIDENCE, "index.json");
 const index: Record<string, Retrieved> = existsSync(indexPath)
   ? JSON.parse(await Bun.file(indexPath).text())
   : {};
+
+/** What the OCR read from a document (scripts/ocr-smc.ts), if it has been read. */
+async function ocrOf(doc: Retrieved): Promise<Ocr | undefined> {
+  const file = Bun.file(join(EVIDENCE, "ocr", `${doc.sha256}.json`));
+  return (await file.exists()) ? ((await file.json()) as Ocr) : undefined;
+}
 
 /** Fetches a document into the cache unless it's there (or --refresh), and records its hash. */
 async function retrieve(doc: Linked): Promise<Retrieved> {
@@ -269,6 +291,35 @@ for (const [name, subject] of Object.entries(contestSubjects.measures)) {
       sha256: doc.sha256,
     }),
   );
+  // The analysis and the arguments, as a machine read them from the scans.
+  for (const { kind, doc } of docs) {
+    if (kind === "resolution") continue;
+    const ocr = await ocrOf(doc);
+    const blocks = ocr ? textBlocks(ocr) : [];
+    if (!ocr || !blocks.length) {
+      problems.push(`"${doc.title}": no text read (bun scripts/ocr-smc.ts)`);
+      continue;
+    }
+    if (kind === "analysis") {
+      item.analysis = {
+        title: titleOf(kind, [letter]),
+        blocks,
+        source: doc.url,
+        disclaimer: MACHINE_READ,
+      };
+    } else {
+      item.arguments = [
+        ...(item.arguments ?? []),
+        {
+          ...SIDES[kind],
+          blocks,
+          signers: signersOf(ocr),
+          source: doc.url,
+          disclaimer: MACHINE_READ,
+        },
+      ];
+    }
+  }
 }
 for (const letter of byLetter.keys())
   problems.push(`Measure ${letter} has documents but isn't in the ballot source's measures`);

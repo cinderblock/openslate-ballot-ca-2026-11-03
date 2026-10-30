@@ -26,5 +26,118 @@
       "mediaType": "application/pdf",
       "sha256": "0419962b178beb59be80edd12a2b18dd0eb728b3ebeb429f141ac115deb41b8f"
     }
+  ],
+  "analysis": {
+    "title": "Impartial analysis of Measure X",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "MEASURE X CITY ATTORNEY'S IMPARTIAL ANALYSIS"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Brisbane City Council placed this Measure on the ballot. If approved by the voters, Measure X would amend the Business License Tax codified at Title 5, Division I of the Brisbane Municipal Code by replacing the current tiered rate structure with a single gross receipts formula, deleting some specialized categories of tax rates and exemptions while retaining others, and updating relevant definitions."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The Business License Tax is a general tax, meaning revenues are deposited into the General Fund and used for general City services. Passage requires approval by a simple majority of voters voting on it."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Under the current tax structure, most businesses pay multi-tiered rates ranging from $50 for businesses with gross receipts of $50,000 or less, to $1 , 300 plus $0.04 per $1 ,000 of the business's gross receipts for businesses with gross receipts of $ or more. Specified businesses pay the greater of that amount or: (a) a rate based on employee count (for manufacturers, warehouse operators, and businesses headquartered in the City); or (b) a rate based on square footage (for storage facilities). Nineteen other business categories have individualized tax rates."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure X would replace the above formulas with a single tax formula for most businesses. A business with gross receipts of $25,000 or less would pay a tax of $50. A business with more than $25,000 in gross receipts would pay $50 plus $1.00 for every $1,000 in gross receipts above $25,000."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure X does not alter separate business license taxes that apply to cannabis businesses, hotels, liquid storage facilities, capital improvements and residential construction, outdoor advertising, and recycling business."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure X deletes existing tax exemptions for newspapers, charitable or nonprofit organizations, café musicians, real estate auctioneers, veterans, and residential rentals of less than five units."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure X clarifies definitions for: (a) \"business\" to include those without a fixed place of business in the City and those compensated in goods or labor; and (b) \"gross receipts\" to be the greater of all compensation received or receivable by the business, with specified exclusions, or the business's cost of operations."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City estimates Measure X would generate approximately $1,000,000 in additional annual revenue."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"Yes\" vote is a vote in favor of the Measure."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"No\" vote is a vote against the Measure. Ifthe Measure is not approved, the current tax structure will remain in place."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4900-5494-8799 vl"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "DATED: August 14, 2026 Samantha W. Zutler, City of Brisbane City Attorney The above statement is an impartial analysis of Measure X. The full text of the Measure is available on the City's website at: www.brisbaneca.org. Alternatively, if you would like a copy of the Measure, please call the City Clerk's office at (415) 508-2113 and a copy will be mailed to you at no cost."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4900-5494-8799 vl"
+        ]
+      }
+    ],
+    "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MX-ImpartialAnalysis-City-of-Brisbane-Business-License-Tax.pdf",
+    "disclaimer": "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page."
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "This measure is a reasonable update to Brisbane's Business License Tax to ensure that businesses contribute their fair share toward City Services. It raises fees that haven't been adjusted since 1983 and simplifies the rate structure. Careful consideration was given to supporting smaller businesses, those that generate sales tax, and the current and future industries within our City limits. Importantly, the tax measure introduces a new \"cost of operations\" methodology to include businesses that don't report sales, such as laboratories, start-ups, and research and development operations. The City's Business License Tax is a general tax, meaning all revenues are deposited into the City's General Fund and used for general purposes. Accordingly, a general tax must be approved by a majority of voters casting ballots on the measure. Updating the Business License Tax is a response to the growth we've seen and anticipate in our commercial sector. These updates are aligned with rates charged by nearby cities, and consistent with Council goals for the sound fiscal health of our City."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Ter OConnell",
+          "title": "Councilmember"
+        }
+      ],
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M302-Contest%20Code-4ArgInFavor-City%20of%20Brisbane%20Business%20License%20Tax_Redacted.pdf",
+      "disclaimer": "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page."
+    }
   ]
 }

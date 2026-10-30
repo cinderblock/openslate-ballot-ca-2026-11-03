@@ -26,5 +26,119 @@
       "mediaType": "application/pdf",
       "sha256": "6bb771b2c36014819b2a138742d7ea2e09295063bd0e647fe286a6c2ea413670"
     }
+  ],
+  "analysis": {
+    "title": "Impartial analysis of Measure S",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "CITY ATTORNEY IMPARTIAL ANALYSIS OF MEASURE S"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure S asks the voters of the City of San Bruno whether they want to repeal Ordinance No. 1284, a zoning ordinance that requires voter approval for certain development projects in the City of San Bruno."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "In 1977, the City of San Bruno adopted Ordinance No. 1284, which is codified in Chapter 12.26 of the San Bruno Municipal Code. Chapter 12.26 requires approval by a majority of the voters of the City of San Bruno before the City can issue building permits, grading permits or other approvals for the construction of buildings, other structures, land development projects or land uses that include:"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Buildings or other structures exceeding fifty feet in height; Buildings or other structures exceeding three stories in height; Buildings or other structures, modifications or redevelopment thereof in residential districts which increase the number of dwelling units per acre or occupancy, within each acre or portion thereof, in excess of limits permitted on October 10, 1974, under the then existing zoning chapter of the city of San Bruno; Multistory parking structures or buildings; and Buildings or other structures, modifications or redevelopment thereof which encroach upon, modify, widen or realign the following streets designated as scenic corridors: Crystal Springs Road between Oak Avenue and Junipero Serra Freeway; and Sneath Lane from El Camino Real to existing westerly City limits."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure S was placed on the ballot by the San Bruno City Council. This measure, if approved by the voters, repeals Chapter 12.26 of the San Bruno Municipal Code, in its entirety, which would remove the voter approval required for development projects in the City of San Bruno meeting one or more of the criteria listed above. As a result, the process for considering a development project that meets one or more of the criteria listed above would be completed by City staff, the City Planning Commission, the City Council, or a combination thereof, according to the state and City laws governing the process for such development project."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure S will become effective only if approved by a majority of the voters voting on the measure. A \"yes\" vote on Measure S is a vote to remove the voter approval requirements in Chapter 12.26 of the San Bruno Municipal Code. A \"no\" vote on Measure S is a vote to continue the voter approval requirements, as provided by the current Chapter 12.26 of the San Bruno Municipal Code."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Is/ Trisha Ortiz,"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "City Attorney for the City of San Bruno"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "-1-"
+        ]
+      }
+    ],
+    "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ImpartialAnalysis-San-Bruno-Hosuing-Permit-and-Development.pdf",
+    "disclaimer": "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page."
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "In 1977, San Bruno voters approved Ordinance 1284, requiring a citywide vote for new buildings over three stories, increases in residential density and multistory parking garages. Nearly fifty years later, new state housing laws overrule these local restrictions."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Today, these new state housing laws allow major projects to be built in San Bruno without approval from the planning commission, city council, or a public vote, and to bypass our local height limits when they are 100% affordable. While affordable housing projects are needed and remain a City priority, they generate no property tax revenue to pay for the police, fire, parks, streets, and other services their residents rely on, so they cannot remain the only viable path for new development in San Bruno."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Ordinance 1284 limits our ability to attract commercial and market-rate housing projects — the only types of development that generate significant property tax revenue, impact fees, and community benefit funds. You can see the consequences all around you. A ten-story, 341 -unit, 100% affordable housing development is under construction on San Bruno Avenue near El Camino, the tallest building in San Bruno's history. Two major economic opportunities were lost because Ordinance 1284 made investment uncertain: the Crossings hotel project, which would have generated up to $4 million annually, failed at the ballot box and the deal collapsed; and future phases of the Google/YouTube Bayhill Master Plan are now on indefinite hold. Meanwhile, neighboring cities continue attracting investment and tax revenue that should be coming here."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Ordinance 1284 no longer protects us. It only prevents San Bruno from shaping growth to strengthen our economy. Repealing it restores local control, supports responsible development, and ensures we can fund the services our community depends on."
+          ]
+        },
+        {
+          "type": "p",
+          "text": [
+            "Help keep San Bruno fiscally strong and economically competitive. Vote YES on Measure"
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Rico E. Medina",
+          "title": "Mayor"
+        },
+        {
+          "name": "Tom Hamilton"
+        },
+        {
+          "name": "Sandy Alvarez",
+          "title": "Vice Mayor"
+        }
+      ],
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ArgInFavor-San-Bruno-Housing-Permit-and-Development_Redacted.pdf",
+      "disclaimer": "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page."
+    }
   ]
 }

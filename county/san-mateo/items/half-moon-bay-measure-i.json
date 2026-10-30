@@ -26,5 +26,100 @@
       "mediaType": "application/pdf",
       "sha256": "3026e0a50cf82e5cb5c8095becc855b06ce271426264a75f31386f452d887e2b"
     }
+  ],
+  "analysis": {
+    "title": "Impartial analysis of Measure I",
+    "blocks": [
+      {
+        "type": "p",
+        "text": [
+          "CITY ATTORNEY IMPARTIAL ANALYSIS OF MEASURE 1"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The City Council placed Measure I on the November 3, 2026, ballot. Measure I asks whether voters wish to adopt changes to Measure D (adopted 1999; effective 2009), which is a voter- approved residential growth management program which is included in the City's Local Coastal Land Use Plan, Policy 2-16 and Titles 17 and 18 of the Municipal Code, which comprise the Local Coastal Program Implementation Plan."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Measure D provides that the number of dwelling units for new residential development that the City may authorize each calendar year may not exceed the number of units which would result in a growth of 1% in the City's population as of January ISt of that year. Measure D directs most residential development to the \"Downtown\" by splitting the 1% allowed growth between \"Downtown\" and \"Outside of Downtown\" areas and further allowing the City Council to authorize an increase of 0.5% for additional dwelling units located in the \"Downtown Area.\" Measure D currently defines the \"Downtown Area\" as the \"Half Moon Bay Redevelopment Survey Area\" that was adopted in November 1998. If approved by the voters, Measure I would make amendments to the Local Coastal Land Use Plan and conforming edits to Title 17 (Subdivisions), sections 17.06.020(E) and 17.06.065 and Title 18 (Zoning), section 18.04.010(E) of the City's Municipal Code, to designate the \"Town Center Map\" (Figure 2-2 of the Local Coastal Land Use Plan) as the designated \"Downtown Area.\""
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved by the voters, Measure I would refine Measure D's current \"Downtown Area\" so that it is now defined as the area that is encompassed in the \"Town Center Map\" shown on Figure 2-2 of the City's Local Coastal Land Use Plan. This proposed revision would affect 491 total parcels, either being added to or subtracted from the mapped Downtown Area. Of those 491 parcels, 326 are residential (R-l, R-2, R-3). Of those 326 residential parcels, 286 parcels would be added to the \"Downtown Area,\" and 40 parcels would be subtracted."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If approved by the voters, Measure I would also specify requirements for implementation, and make a determination that the amendments to Measure D are exempt from the California Environmental Quality Act pursuant to 14 Cal. Code Regs. Section 15265. Measure I, if approved by the voters, would need to be certified by the California Coastal Commission before it can become effective."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"YES\" vote is a vote in favor of Measure I."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "A \"NO\" vote is a vote against Measure I."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "This Measure will be effective only if a majority of voters voting on the Measure vote in its favor."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "The above statement is an impartial analysis of the Measure. If you desire a copy of the Measure, please call the City of Half Moon Bay City Clerk's Office at (650) 726-8250 and a copy will be mailed at no cost to ou."
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "Denise S. Bazzano City Attorney"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "4904-8824-1864 v5"
+        ]
+      }
+    ],
+    "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MI-ImpartialAnalysis-Half-Moon-Bay-Coastal-Land_Redacted.pdf",
+    "disclaimer": "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page."
+  },
+  "arguments": [
+    {
+      "side": "Yes",
+      "rebuttal": false,
+      "blocks": [
+        {
+          "type": "p",
+          "text": [
+            "Argument in Favor of Measure This ballot measure updates the Half Moon Bay downtown map associated with Measure D, which prioritizes housing development near the Main Street core. The current map, created decades ago, is outdated: it includes undeveloped farmland to the east and north that falls outside any reasonable assessment of the downtown area, yet excludes adjacent lands nearly surrounded by the current downtown area. The proposed map corrects these discrepancies, and adds and subtracts other areas to align this map more closely with the Local Coastal Land Use Plan, ensuring that Measure D ordinances shaped by this map reflect the City's long-term planning goals."
+          ]
+        }
+      ],
+      "signers": [
+        {
+          "name": "Timoth Pond",
+          "title": "He/His:"
+        }
+      ],
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M309-Contest%20Code-4ArgInFavor-Half%20Moon%20Bay%20Coastal%20Land_Redacted.pdf",
+      "disclaimer": "Read from a scan by machine (Windows OCR) and not corrected: errors are likely, especially in names and numbers. The original scan is linked from this page."
+    }
   ]
 }

@@ -193,7 +193,8 @@ birthdate. What it publishes openly is the election page
 filed documents: the resolution placing it on the ballot, the impartial
 analysis, and the arguments and rebuttals as submitted (with their submission
 forms). Most are scans with no text layer. `bun run scrape:smc` lists them
-per measure (the regional transit measure RTM and D–EE):
+per measure (the regional transit measure RTM and D–EE), and puts what a machine
+read from the scans into each item (below):
 
 - A document's measure comes from its title ("Measure R - Impartial
   Analysis"), or for the filings titled by contest ("Burlingame School District
@@ -205,7 +206,22 @@ per measure (the regional transit measure RTM and D–EE):
   identified by the SHA-256 of what was retrieved; `evidence/county/san-mateo/index.json`
   keeps the URL, the page's title for it, size, hash and retrieval time.
 
-So San Mateo's guide has no statements and no measure text or signers.
+- **The text is read by machine.** The county won't be asked for the typeset
+  pamphlet, so each scan is read with Windows' built-in OCR
+  (`bun scripts/ocr-smc.ts`; `scripts/lib/ocr-pdf.ps1` drives it). What it
+  read, per page and line, is kept in `evidence/county/san-mateo/ocr/<sha256>.json`,
+  named by the document's hash, and committed, so building the guide needs no
+  OCR and no Windows. `scripts/lib/ocr-text.ts` turns it into the impartial
+  analysis and the arguments (paragraphs) and drops the county's submission
+  forms, its receiving stamp and the line numbers in a margin. Nothing is
+  corrected by hand, and every passage carries the caveat that it is a machine's
+  reading: expect misread words, especially in names and numbers.
+- **Signers appear only where the form was typed.** A name written by hand reads
+  as noise, so it is not read at all (that argument lists no signers; the scan
+  is linked). A typed name or title can still lose a letter, and a title can be
+  cut short because the county's form field cut it.
+
+San Mateo has no candidate statements and no typeset measure text.
 
 ## Linked measure documents (17 more counties)
 
@@ -284,6 +300,7 @@ bun run scrape:alameda       # rebuild county/alameda/
 bun run scrape:scc           # rebuild county/santa-clara/
 bun run scrape:smc           # rebuild county/san-mateo/ (about 530 MB of scans, cached)
 bun run link-measures        # rebuild the linked counties' guides from linked/*.json
+bun scripts/ocr-smc.ts       # read new scans with Windows OCR (Windows only; results are committed)
 bun run check                # validate every guide's items and the files they name
 bun scripts/sync-subjects.ts # match items' subjects to their ballot sources (dry run; add --apply)
 ```
