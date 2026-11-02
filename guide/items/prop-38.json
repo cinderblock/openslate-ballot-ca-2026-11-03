@@ -130,9 +130,52 @@
         ]
       },
       {
-        "type": "img",
-        "file": "img/prop-38/prop-38-state-bond-cost-estimate.jpg",
-        "alt": "State Bond Cost Estimate"
+        "type": "h",
+        "level": 3,
+        "text": [
+          "State Bond Cost Estimate"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "text": [
+                "Amount Borrowed"
+              ]
+            },
+            {
+              "text": [
+                "$8.4 billion"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Average annual repayment cost"
+              ]
+            },
+            {
+              "text": [
+                "$500 million to $600 million annually for about 20 years"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Source of repayment"
+              ]
+            },
+            {
+              "text": [
+                "General tax revenue and possible revenue from discoveries funded by the bond"
+              ]
+            }
+          ]
+        ]
       }
     ],
     "source": "https://voterguide.sos.ca.gov/propositions/38/title-summary.htm"

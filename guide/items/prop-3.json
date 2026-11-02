@@ -246,8 +246,352 @@
         ]
       },
       {
-        "type": "img",
-        "file": "img/prop-3/fig1-prop3.jpg"
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Figure 1. Personal Income Tax Rates Under Proposition 3"
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Marginal tax rate. “Approved” and “Rejected” are after 2030, if this proposal is…",
+        "rows": [
+          [
+            {
+              "header": true,
+              "text": [
+                "Single Filer’s Income"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Joint Filers’ Income"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Now Through 2030"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Approved"
+              ]
+            },
+            {
+              "header": true,
+              "text": [
+                "Rejected"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "$0 to $11k"
+              ]
+            },
+            {
+              "text": [
+                "$0 to $22k"
+              ]
+            },
+            {
+              "text": [
+                "1.0%"
+              ]
+            },
+            {
+              "text": [
+                "1.0%"
+              ]
+            },
+            {
+              "text": [
+                "1.0%"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "$11k to $26k"
+              ]
+            },
+            {
+              "text": [
+                "$22k to $53k"
+              ]
+            },
+            {
+              "text": [
+                "2.0"
+              ]
+            },
+            {
+              "text": [
+                "2.0"
+              ]
+            },
+            {
+              "text": [
+                "2.0"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "$26k to $41k"
+              ]
+            },
+            {
+              "text": [
+                "$53k to $83k"
+              ]
+            },
+            {
+              "text": [
+                "4.0"
+              ]
+            },
+            {
+              "text": [
+                "4.0"
+              ]
+            },
+            {
+              "text": [
+                "4.0"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "$41k to $58k"
+              ]
+            },
+            {
+              "text": [
+                "$83k to $115k"
+              ]
+            },
+            {
+              "text": [
+                "6.0"
+              ]
+            },
+            {
+              "text": [
+                "6.0"
+              ]
+            },
+            {
+              "text": [
+                "6.0"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "$58k to $73k"
+              ]
+            },
+            {
+              "text": [
+                "$115k to $145k"
+              ]
+            },
+            {
+              "text": [
+                "8.0"
+              ]
+            },
+            {
+              "text": [
+                "8.0"
+              ]
+            },
+            {
+              "text": [
+                "8.0"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "$73k to $371k"
+              ]
+            },
+            {
+              "text": [
+                "$145k to $743k"
+              ]
+            },
+            {
+              "text": [
+                "9.3"
+              ]
+            },
+            {
+              "text": [
+                "9.3"
+              ]
+            },
+            {
+              "text": [
+                "9.3"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                {
+                  "strong": [
+                    "$371k to $446k"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "$743k to $892k"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "10.3%"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "10.3%"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "9.3%"
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                {
+                  "strong": [
+                    "$446k to $743k"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "$892k to $1.5 million"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "11.3%"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "11.3%"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "9.3%"
+                  ]
+                }
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                {
+                  "strong": [
+                    "Above $743k"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "Above $1.5 million"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "12.3%"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "12.3%"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": [
+                {
+                  "strong": [
+                    "9.3%"
+                  ]
+                }
+              ]
+            }
+          ]
+        ]
       },
       {
         "type": "p",

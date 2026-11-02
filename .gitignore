@@ -17,5 +17,9 @@ bun.lockb
 guide/guide.jws
 county/*/guide.jws
 
+# Written by `openslate guide sign`, like the manifest
+guide/references.json
+county/*/references.json
+
 # Large originals (county pamphlet PDFs): only their URL and SHA-256 are committed
 .cache/

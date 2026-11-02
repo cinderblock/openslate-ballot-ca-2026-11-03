@@ -320,9 +320,17 @@
         ]
       },
       {
-        "type": "img",
-        "file": "img/prop-41/prop-41-fig-1.jpg",
-        "alt": "Proposition 41 Figure 1. If Proposition 41 receives more “yes” votes than Proposition 40 on this same ballot, then Proposition 40 could be stopped from becoming law even if it gets yes votes from a majority of voters. This is because the courts could find that Proposition 41 conflicts with Proposition 40."
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Potential Interactions With Other Propositions"
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "If Proposition 41 receives more “yes” votes than Proposition 40 on this same ballot, then Proposition 40 could be stopped from becoming law even if it gets yes votes from a majority of voters. This is because the courts could find that Proposition 41 conflicts with Proposition 40."
+        ]
       },
       {
         "type": "p",

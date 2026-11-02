@@ -175,9 +175,70 @@
         ]
       },
       {
-        "type": "img",
-        "file": "img/prop-1/prop-1-state-bond-cost-estimate.jpg",
-        "alt": "State Bond Cost Estimate"
+        "type": "h",
+        "level": 3,
+        "text": [
+          "State Bond Cost Estimate"
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "text": [
+                "Authorized new borrowing"
+              ]
+            },
+            {
+              "text": [
+                "$11.25 billion"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Annual cost to pay off bond"
+              ]
+            },
+            {
+              "text": [
+                "$500 million to $600 millionᵃ"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Likely repayment period"
+              ]
+            },
+            {
+              "text": [
+                "25 years"
+              ]
+            }
+          ],
+          [
+            {
+              "text": [
+                "Source of repayment"
+              ]
+            },
+            {
+              "text": [
+                "General tax revenue"
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": [
+          "ᵃ Proposition 1 includes $1.25 billion for a veterans housing program. This borrowing would not result in estimated state cost."
+        ]
       },
       {
         "type": "h",
@@ -427,9 +488,196 @@
               ]
             },
             {
-              "type": "img",
-              "file": "img/prop-1/prop-1-fig-1.jpg",
-              "alt": "Proposed Uses of Bonds Funds"
+              "type": "h",
+              "level": 3,
+              "text": [
+                "Figure 1. Proposed Uses of Bond Funds (In Millions)"
+              ]
+            },
+            {
+              "type": "table",
+              "rows": [
+                [
+                  {
+                    "header": true,
+                    "text": [
+                      "Category of Programs"
+                    ]
+                  },
+                  {
+                    "header": true,
+                    "text": [
+                      "Amount"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      {
+                        "strong": [
+                          "State Housing Programs"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      ""
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Affordable multifamily housing"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "$7,200ᵃ"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Homeownership"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "1,100"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Infrastructure"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "500"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Farmworker housing"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "450"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Higher education student housing"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "350"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Tribal housing"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "200"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Local pilot programs"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "200"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Subtotal"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "($10,000)"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      {
+                        "strong": [
+                          "Veterans Housing Program"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      ""
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      "Veterans home loans"
+                    ]
+                  },
+                  {
+                    "text": [
+                      "$1,250"
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "text": [
+                      {
+                        "strong": [
+                          "Total"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "strong": [
+                          "$11,250"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "text": [
+                "ᵃ Includes $150 million for youth housing."
+              ]
             }
           ],
           [

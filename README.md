@@ -270,10 +270,12 @@ that caveat with it.
   kept under `evidence/` with when it was fetched (`evidence/index.json`).
 - `guide/` is the source of truth: `guide.json` (whose material this is),
   `items/*.json` (one per race or measure), and the photos, figures and PDFs
-  they point at, mirrored from the Secretary of State.
+  they point at, mirrored from the Secretary of State. Figures that are only words
+  and tables are published as text (`scripts/lib/text-figures.ts`), in the same place.
 - On every push to the default branch, CI hashes every file of each guide
   (`guide/` and every `county/*/`) into its manifest, signs it
-  (`openslate guide sign`) with this repo's own key, checks the result against
+  (`openslate guide sign`, which also writes `references.json`, what the items
+  mention of each other) with this repo's own key, checks the result against
   `keys/guide-public.json`, and publishes to Pages.
   The private key lives only in the `OPENSLATE_GUIDE_SIGNING_KEY` Actions
   secret; it was generated straight into that secret and has never been on disk.

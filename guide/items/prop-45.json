@@ -229,9 +229,88 @@
         ]
       },
       {
-        "type": "img",
-        "file": "img/prop-45/prop-45-fig-1.jpg",
-        "alt": "Types of Projects Eligible to Use Proposition 45’s New Procedures • Housing. • Water system (not including Delta conveyance facilities). • Clean energy (not including nuclear power). • Health facility, clinic, and medical office building. • Fire, police, and sheriff’s stations. • Wildfire risk reduction. • Broadband Internet access. • Education facility. • Transportation (not including high-speed rail)."
+        "type": "h",
+        "level": 3,
+        "text": [
+          "Figure 1. Types of Projects Eligible to Use Proposition 45’s New Procedures"
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          [
+            {
+              "type": "p",
+              "text": [
+                "Housing."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Water system (not including Delta conveyance facilities)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Clean energy (not including nuclear power)."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Health facility, clinic, and medical office building."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Fire, police, and sheriff’s stations."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Wildfire risk reduction."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Broadband Internet access."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Education facility."
+              ]
+            }
+          ],
+          [
+            {
+              "type": "p",
+              "text": [
+                "Transportation (not including high-speed rail)."
+              ]
+            }
+          ]
+        ]
       },
       {
         "type": "p",

@@ -4,6 +4,7 @@
 
 import { type DefaultTreeAdapterMap, parse, parseFragment } from "parse5";
 import type { Block, Inline } from "./guide-common";
+import { TEXT_FIGURES } from "./text-figures";
 
 export type Node = DefaultTreeAdapterMap["node"];
 export type Element = DefaultTreeAdapterMap["element"];
@@ -240,6 +241,11 @@ export function blocks(nodes: Node[], ctx: BlockContext): Block[] {
       const src = attr(node, "src");
       const file = src ? ctx.image?.(src) : undefined;
       if (!file) continue;
+      const transcribed = TEXT_FIGURES[file];
+      if (transcribed) {
+        out.push(...transcribed);
+        continue;
+      }
       const alt = attr(node, "alt");
       out.push({ type: "img", file, ...(alt ? { alt } : {}) });
     } else if (BLOCK_CONTAINERS.has(tag) || INLINE_PASSTHROUGH.has(tag)) {
